@@ -49,7 +49,7 @@ public class RankInputImpl {
         	rankedDir.mkdir();
         }
 
-        String rankedStatePath = getCurrentPath + "/src/mengg/data/input/csvfolder/" + statename + ".csv";
+        String rankedStatePath = rankedPath + "/" + statename;
 
         File rankedState = new File(rankedStatePath);
         if(!rankedState.exists()){
