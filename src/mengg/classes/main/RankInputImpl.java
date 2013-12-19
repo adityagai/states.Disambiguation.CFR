@@ -24,12 +24,17 @@ public class RankInputImpl {
     public static String directoryPath = getCurrentPath + "/src/mengg/data/input/states/";
 
     public static void main(String[] args) throws IOException {
-        System.out.print("Enter the state to test for : ");
+        System.out.print("Enter the state to test for eg (New York or Michigan) : ");
         
         //get the "unseen" state input
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String statename = br.readLine();
         
+        Boolean checkState = InputHandler.checkState(statename);
+        if(!checkState){
+        	System.out.println("incorrect state provided, Please enter the correct state");
+        	System.exit(1);
+        }
         //create the training data for the input "state"
         TrainingDataInput.trainingDataInput(statename);
         
