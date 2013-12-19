@@ -1,0 +1,3843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1436
+    </extid>
+    <num>
+      1436
+    </num>
+    <head>
+      FARM STORAGE FACILITY LOAN PROGRAM REGULATIONS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='7971' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7971.html'>
+              7 U.S.C. 7971
+            </subref>
+             and 
+            <subref title='7' sect='8789' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/8789.html'>
+              8789
+            </subref>
+          </aref>
+          ; and 
+          <aref type='USC'>
+            <subref title='15' sect='714-714p' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714-714p.html'>
+              15 U.S.C. 714-714p
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12781'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.1
+      </extid>
+      <num st='1'>
+        1436.1
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          74 FR 41587
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='1' psec='' tq='N'>
+              1436.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          The regulations of this part provide the terms and conditions under
+          which CCC may provide low-cost financing for producers to build or
+          upgrade on-farm storage and handling facilities. Because liens and
+          security interests related to this activity may be governed by State
+          law, CCC may adapt certain procedures relating to those issues that
+          may vary between States.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            74 FR 41587
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12782'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.2
+      </extid>
+      <num st='1'>
+        1436.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          74 FR 41587
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='2' psec='' tq='N'>
+              1436.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Farm Storage Facility Loan Program will be administered under
+            the general supervision of the Executive Vice President, CCC or
+            designee and will be carried out in the field by FSA State
+            committees, FSA county committees and FSA employees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             FSA State committees, FSA county committees and FSA employees, do
+            not have the authority to modify or waive any of the provisions of
+            the regulations of this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The FSA State committee will take any action required by these
+            regulations that has not been taken by the county committee. The FSA
+            State committee will also:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Correct, or require the FSA county committee to correct, any action
+            taken by such FSA county committee that is not in accordance with
+            the regulations of this part; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require the FSA county committee to withhold taking any action that
+            is not in accordance with the regulations of this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             No provision or delegation herein to a State or FSA county
+            committee will preclude the Executive Vice President, CCC, or a
+            designee, or the Administrator, FSA, or a designee, from determining
+            any question arising under the program or from reversing or
+            modifying any determination made by the State or FSA county
+            committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Deputy Administrator, Farm Programs, FSA, may authorize State
+            and FSA county committees to waive or modify deadlines and other
+            program requirements in cases where lateness or failure to meet such
+            other requirements does not adversely affect the operation of the
+            Farm Storage Facility Loan Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A representative of CCC may execute Farm Storage Facility Loan
+            Program applications and related documents only under the terms and
+            conditions determined and announced by CCC. Any such document that
+            is not executed in accordance with such terms and conditions,
+            including any purported execution prior to the date authorized by
+            CCC, will be void.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The purpose of the Farm Storage Facility Loan program is to provide
+            CCC funded loans for producers of grains, oilseeds, pulse crops,
+            sugar, 
+            <PRTPAGE P='709' />
+            hay, renewable biomass, fruits and vegetables (including nuts), and
+            other storable commodities, as determined by the Secretary, to
+            construct or upgrade storage and handling facilities for the
+            eligible facility loan commodities they produce.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            74 FR 41587
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12783'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.3
+      </extid>
+      <num st='1'>
+        1436.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          67 FR 54938
+        </aref>
+        , Aug. 26, 2002; 
+        <aref type='FREGIST'>
+          74 FR 41587
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='3' psec='' tq='N'>
+              1436.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions will be applicable to the program authorized
+          by this part and will be used in all aspects of administering this
+          program:
+        </P>
+        <P>
+          <E T='03'>
+            Aggregate outstanding balance
+          </E>
+           means the sum of the outstanding balances of all loans disbursed
+          under this part to each borrower signing the note and security
+          agreement.
+        </P>
+        <P>
+          <E T='03'>
+            Assumption
+          </E>
+           means the act or agreement by which one borrower takes over or
+          assumes the debt of another borrower.
+        </P>
+        <P>
+          <E T='03'>
+            Cold storage facility
+          </E>
+           means a facility or rooms within a facility that are specifically
+          designed and constructed for the cold temperature storage of
+          perishable commodities. The temperature and humidity in these
+          facilities must be able to be regulated to specified conditions
+          required for the commodity requiring storage.
+        </P>
+        <P>
+          <E T='03'>
+            Collateral
+          </E>
+           means the storage structure; the drying, handling, and cold storage
+          equipment; and any other equipment securing the loan.
+        </P>
+        <P>
+          <E T='03'>
+            Commercial facility
+          </E>
+           means any structure, used in connection with or by any commercial
+          operation including, but not limited to, grain elevators, warehouses,
+          dryers, processing plants, or cold storage facilities used for the
+          storage and handling of any agricultural product, whether paid or
+          unpaid. Any structure suitable for the storage of an agricultural
+          product that is in working proximity to any commercial storage
+          operation will be considered to be part of a commercial storage
+          operation.
+        </P>
+        <P>
+          <E T='03'>
+            Commercial storage
+          </E>
+           means the storing of any agricultural product, whether paid or
+          unpaid, for persons other than the owner of the structure, except for
+          family members and tenants or landlords with a share in the eligible
+          facility loan commodity requiring storage.
+        </P>
+        <P>
+          <E T='03'>
+            Crop of economic significance
+          </E>
+           means any insurable facility loan commodity that contributes 10
+          percent or more of the total expected value of all crops grown by the
+          loan applicant except if the expected liability under the catastrophic
+          level of crop insurance for a crop is equal to or less than the
+          administrative fee for the crop, that crop shall not be economically
+          significant.
+        </P>
+        <P>
+          <E T='03'>
+            Facility loan commodity
+          </E>
+           means corn, grain sorghum, oats, wheat, barley, rice, raw or refined
+          sugar, soybeans, sunflower seed, canola, rapeseed, safflower,
+          flaxseed, mustard seed, crambe, sesame seed, other oilseeds as
+          determined and announced by CCC, dry peas, lentils, or chickpeas
+          harvested as whole grain, peanuts, hay, renewable biomass, and fruits
+          and vegetables (including nuts). Corn, grain sorghum, wheat, and
+          barley are included whether harvested as whole grain or other than
+          whole grain.
+        </P>
+        <P>
+          <E T='03'>
+            Financing statement
+          </E>
+           means the appropriate document that gives legal notice of a security
+          interest in personal property when properly filed or recorded.
+        </P>
+        <P>
+          <E T='03'>
+            Hay
+          </E>
+           means a grass or legume that has been cut and stored. Commonly used
+          grass mixtures include rye grass, timothy, brome, fescue, coastal
+          Bermuda, orchard grass, and other native species, depending on the
+          region. Forage legumes include alfalfa and clovers.
+        </P>
+        <P>
+          <E T='03'>
+            Non-movable or non-salable collateral
+          </E>
+           means either collateral the county committee determines cannot be
+          sold and moved to a new location because of the type of construction
+          involved or because the collateral has deteriorated to the point that
+          it has no sale recovery value.
+        </P>
+        <P>
+          <E T='03'>
+            Renewable biomass
+          </E>
+           means any organic matter that is available on a renewable or
+          recurring basis including renewable plant material such as feed grains
+          or other agricultural commodities (including, but not limited to,
+          soybeans and switchgrass), other plants and trees (excluding
+          old-growth timber), algae, crop residue (including, but not limited
+          to, corn stover, various straws and hulls, and orchard prunings),
+          other vegetative waste material (including, but not limited to, wood
+          waste, wood residues, and food and yard waste) used for the production
+          of energy in the form of heat, electricity, and liquid, 
+          <PRTPAGE P='710' />
+          solid, or gaseous fuels. Manure from any source is not included.
+        </P>
+        <P>
+          <E T='03'>
+            Resale collateral value
+          </E>
+           means collateral that can be sold and moved to a new location for
+          which compensation equal to the outstanding loan value can be
+          expected.
+        </P>
+        <P>
+          <E T='03'>
+            Satisfactory credit history
+          </E>
+           means a history of repaying debts as they came due unless the failure
+          to repay or tardiness in payment was due to circumstance beyond the
+          applicant&apos;s control as determined by CCC upon proof submitted by
+          the applicant.
+        </P>
+        <P>
+          <E T='03'>
+            Severance agreement
+          </E>
+           means an agreement under which a party may consent to the security
+          interest of another in property thereby allowing the severance of a
+          fixture from the real estate.
+        </P>
+        <P>
+          <E T='03'>
+            Subordination agreement
+          </E>
+           means any agreement under which a party may subordinate a security
+          interest in property to the interest of another party.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            67 FR 54938
+          </aref>
+          , Aug. 26, 2002; 
+          <aref type='FREGIST'>
+            74 FR 41587
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12784'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.4
+      </extid>
+      <num st='1'>
+        1436.4
+      </num>
+      <head>
+        Application for loans.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 41587
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='4' psec='' tq='N'>
+              1436.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for loans.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An application for a loan must be submitted:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For all loans, except loans for renewable biomass storage
+            facilities and cold storage facilities for fruits and vegetables, to
+            the administrative county office that maintains the records of the
+            farm or farms to which the application applies. With State office
+            approval, loans may be made or serviced by a county office other
+            than the administrative county office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For loans for renewable biomass storage facilities and cold storage
+            facilities for fruits and vegetables, to the administrative county
+            FSA office that maintains the records of the farm or farms to which
+            the application applies, if the facility will be located on land
+            that has farm records established at the county office. If the
+            commodities will be produced on land that does not have farm records
+            established at the county office, the application must be submitted
+            to the county FSA office that services the county where the facility
+            will be located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Upon request, the applicant must furnish information and documents
+            as the State or county committee deems reasonably necessary to
+            support the application. This may include financial statements,
+            receipts, bills, invoices, purchase orders, specifications,
+            drawings, plats, or written authorization of access.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans, a loan application must be
+            submitted to the county FSA office that maintains the
+            applicant&apos;s records. If no such records exist, loan
+            applications must be submitted to the county office serving the
+            headquarters location of the sugar processor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Submitting an application does not ensure loan approval nor create
+            any liability on behalf of CCC. Borrowers who authorize delivery,
+            site preparation, or construction actions without an approved loan,
+            do so at their own risk.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 41587
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12785'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.5
+      </extid>
+      <num st='1'>
+        1436.5
+      </num>
+      <head>
+        Eligible borrowers.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001; 
+        <aref type='FREGIST'>
+          66 FR 17073
+        </aref>
+        , Mar. 29, 2001, as amended at 
+        <aref type='FREGIST'>
+          67 FR 54938
+        </aref>
+        , Aug. 26, 2002; 
+        <aref type='FREGIST'>
+          74 FR 41588
+        </aref>
+        , Aug. 18, 2008]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='5' psec='' tq='N'>
+              1436.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible borrowers.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Borrower
+            </E>
+             means a person who, as landowner, landlord, operator, producer,
+            tenant, leaseholder, sharecropper, or processor of domestically
+            produced sugarcane or sugar beets:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Has a satisfactory credit history according to the definition in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1436' sect='3' psec='' tq='N'>
+                1436.3
+              </subref>
+            </aref>
+             and as recommended to the approving committee by a FSA employee
+            with FSA loan approval authority;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrates an ability to repay the debt arising under this
+            program using a financial statement acceptable to CCC prepared
+            within 90 days of the date of application, as recommended to the
+            approving committee by a FSA employee with FSA loan approval
+            authority;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Has no disqualifying delinquent Federal debt under the Debt
+            Collection Improvement Act of 1996;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Is a producer of a facility loan commodity as determined by CCC;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrates a need for increased storage capacity as determined by
+            CCC if the applicant is applying for a loan for a storage structure.
+            The Deputy Administrator, Farm Programs, may issue a waiver, if
+            requested, on a case by case basis if a crop share landlord or
+            tenant requests to construct a structure to store commodities
+            produced on the farm but only one of the two wishes to accept loan
+            liability;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Annually provides proof of crop insurance offered under the Federal
+            
+            <PRTPAGE P='711' />
+            Crop Insurance Program for insurable crops of economic significance
+            on all farms operated by the borrower in the county where the
+            storage facility is located. Crop insurance or Noninsured Crop
+            Disaster Assistance Program (NAP) coverage, if available, is
+            required on all the commodities stored in the FSFL-funded facility,
+            whether economically significant or not; crop insurance under the
+            Federal Crop Insurance Program may not be available for certain
+            renewable biomass commodities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Is in compliance with the U.S. Department of Agriculture (USDA)
+            provisions for highly erodible land and wetlands conservation
+            provisions according to 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='12' tq='N'>
+                12
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrates compliance with any applicable local zoning, land use,
+            and building codes for the applicable farm storage facility
+            structures;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Annually provides proof of flood insurance if CCC determines such
+            insurance is necessary to protect the interests of CCC, and annually
+            provides proof that the structures for which the loan is made has
+            all peril structural insurance;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrates compliance with the National Environmental Policy Act
+            regulations at 
+            <aref type='CFR'>
+              40 CFR parts 
+              <subref title='40' part='1500-1508' tq='N'>
+                1500-1508
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Has not been convicted under Federal or State law of a
+            disqualifying controlled substance violation or a crop insurance
+            violation under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='718' tq='N'>
+                718
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar facility loans:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Paragraphs (a)(4), (6), and (7) of this section do not apply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Sugar processors must be approved by CCC to store sugar owned by
+            CCC or pledged as security to CCC for non-recourse loans.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001; 
+          <aref type='FREGIST'>
+            66 FR 17073
+          </aref>
+          , Mar. 29, 2001, as amended at 
+          <aref type='FREGIST'>
+            67 FR 54938
+          </aref>
+          , Aug. 26, 2002; 
+          <aref type='FREGIST'>
+            74 FR 41588
+          </aref>
+          , Aug. 18, 2008]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12786'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.6
+      </extid>
+      <num st='1'>
+        1436.6
+      </num>
+      <head>
+        Eligible storage or handling equipment.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          67 FR 54938
+        </aref>
+        , Aug. 26, 2002; 
+        <aref type='FREGIST'>
+          74 FR 41588
+        </aref>
+        , Aug. 18, 2009; 
+        <aref type='FREGIST'>
+          76 FR 4805
+        </aref>
+        , Jan. 27, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='6' psec='' tq='N'>
+              1436.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible storage or handling equipment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For all eligible facility loan commodities, except sugar and fruits
+            and vegetables, loans may be made only for the purchase and
+            installation of eligible storage facilities, and permanently affixed
+            drying and handling equipment, or for the remodeling of existing
+            storage facilities or permanently affixed drying and handling
+            equipment as provided in this section. The loan collateral must be
+            used for the purpose for which it was delivered, erected,
+            constructed, assembled, or installed for the entire term of the
+            loan. Eligible storage and handling facilities include the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             New conventional-type cribs or bins designed and engineered for
+            whole grain storage and having a useful life of at least 15 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             New oxygen-limiting storage structures or remanufactured
+            oxygen-limiting storage structures built to the original
+            manufacturer&apos;s design specifications using original
+            manufacturer&apos;s rebuild kits or kits from a supplier approved by
+            the Deputy Administrator, Farm Programs, and other upright silo-type
+            structures designed for whole grain storage or other than whole
+            grain storage and with a useful life of at least 15 years; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             New flat-type storage structures including a permanent concrete
+            floor, designed for and primarily used to store facility loan
+            commodities for the term of the loan and having a useful life of at
+            least 15 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             New structures that are bunker-type, horizontal, or open silo
+            structures designed for whole grain storage or other than whole
+            grain storage and having a useful life of at least 15 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             New structures suitable for storing hay that are built according to
+            acceptable design guidelines from the National Institute of Food and
+            Agriculture (NIFA) or land-grant universities and with a useful life
+            of at least 15 years; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             New structures suitable for storing renewable biomass that are
+            built according to acceptable industry guidelines and with a useful
+            life of at least 15 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For all eligible facility loan commodities, except sugar and fruits
+            and vegetables, the calculation of the loan amount may include costs
+            associated with building, improving, or renovating an eligible
+            storage or handling facility, including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Permanently affixed grain handling equipment and grain drying
+            equipment, including perforated floors 
+            <PRTPAGE P='712' />
+            determined by the approving committee to be needed and essential to
+            the proper functioning of the grain storage system;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Safety equipment as required by CCC and meeting OSHA requirements
+            such as lighting, and inside and outside ladders;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Equipment to improve, maintain, or monitor the quality of stored
+            eligible facility loan commodity, such as cleaners, moisture
+            testers, and heat detectors;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Electrical equipment, including labor and materials for
+            installation, such as lighting, motors, and wiring integral to the
+            proper operation of the eligible facility loan commodity storage and
+            handling equipment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Concrete foundations, aprons, pits, and pads (including site
+            preparation, labor and materials) essential to the proper operation
+            of the eligible facility loan commodity storage and handling
+            equipment; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Flooring appropriate for storing hay and renewable biomass suitable
+            for the region where the facility is located and designed according
+            to acceptable guidelines from NIFA or land-grant universities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For all eligible facility loan commodities, except sugar and fruits
+            and vegetables, no loans will be made for installation or related
+            costs of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Portable grain drying equipment, portable handling equipment and
+            portable augers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Structures of a temporary nature that require the weight or bulk of
+            the stored commodity to maintain its shape (such as fences or bags);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Used structures or handling equipment, not including remanufactured
+            oxygen-limiting storage structures built to the manufacturer&apos;s
+            original design specifications as specified in paragraph (a)(2) of
+            this section;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Structures that are not suitable for storing the facility loan
+            commodities for which a need is determined;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Storage structures to be used as a commercial facility. Any
+            facility that is in working proximity to any commercial storage
+            operation will be considered to be part of a commercial storage
+            operation; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Portable or permanent weigh scales.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Loans for all eligible facility loan commodities, except sugar and
+            fruits and vegetables, may be approved for financing additions to or
+            modifications of an existing storage facility with an expected
+            useful life of at least 15 years if the county committee determines
+            there is a need for the capacity of the structure, but loans will
+            not be approved solely for the replacement of worn out items such as
+            motors, fans, or wiring.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Loans for all eligible facility loan commodities except sugar and
+            fruits and vegetables may be approved for new storage and handling
+            components of a pre-owned structure provided the completed facility
+            has a useful life of at least 15 years. The pre-owned structure must
+            be purchased and moved to a new storage location. Eligible items for
+            such a loan include costs such as new bin rings or roof panels
+            needed to make a purchased pre-owned structure useable, new aeration
+            systems, site preparation, construction off-farm paid labor cost,
+            foundation material and off-farm paid labor. Ineligible items for
+            such a loan include the cost of purchasing and moving the used
+            structure.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions of this paragraph apply only to sugar storage
+            facility loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The loan amount may include costs associated with the purchase,
+            installation, building, improving, remodeling or renovating an
+            eligible storage or handling facility. Eligible facilities include
+            the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             New conventional-type bins or silos designed for and used to store
+            raw or refined sugar, having a useful life of at least 15 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             New flat-type storage structures including a permanent concrete
+            floor, designed for and used to store raw or refined sugar, having a
+            useful life of at least 15 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             New storage structures designed for and used to store in-process
+            sugar, having a useful life of at least 15 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Permanently affixed sugar handling equipment determined by the CCC
+            to be needed and essential to the proper functioning of the sugar
+            storage system;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Safety equipment CCC requires such as lighting, and inside and
+            outside ladders;
+            <PRTPAGE P='713' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Equipment to improve, maintain, or monitor the quality of stored
+            sugar, such as moisture testers, and heat detectors;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Electrical equipment, including labor and materials for
+            installation, such as lighting, motors, and wiring integral to the
+            proper operation of the sugar storage and handling equipment; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             Concrete foundations, aprons, pits, and pads (including site
+            preparation, labor and materials) essential to the proper operation
+            of the sugar storage and handling equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Sugar storage facility, loans may be approved for financing
+            additions to or modifications of an existing storage facility with
+            an expected useful life of at least 15 years if CCC determines there
+            is a need for the capacity of the structure.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             No sugar storage facility loans will be made for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Portable handling equipment and portable augers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Structures of a temporary natures that require the weight or bulk
+            of the stored commodity to maintain its shape (such as fences or
+            bags);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Used or pre-owned structures or handling equipment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Structures that are not suitable for storing raw or refined sugar;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Weigh scales.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions of this paragraph apply only to fruit and vegetable
+            cold storage facility loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For cold storage facility loans, the loan amount may include costs
+            associated with the purchase, installation, building, improving,
+            remodeling, or renovating an eligible storage or handling facility.
+            Costs associated with the construction of a permanently installed
+            cold storage facility include, but are not limited to, the
+            following: An insulated cement slab floor, insulation for walls and
+            ceiling (including, but not limited to, loose fill cellulose, foam
+            insulation sheets, sprayed-on and foam-in-place materials), and a
+            vapor barrier.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible facilities include, but are not limited to, the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A new cold storage facility of wood pole and post construction,
+            steel, or concrete, that is suitable for storing the fruits and
+            vegetables produced by the borrower and with a useful life of at
+            least 15 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             New walk-in prefabricated permanently installed cold storage
+            coolers that are suitable for storing the producer&apos;s fruits and
+            vegetables and with a useful life of at least 15 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Permanently affixed equipment necessary for a cold storage facility
+            such as refrigeration units or system and circulation fans;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Permanently installed equipment to maintain or monitor the quality
+            of produce stored in a cold storage facility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Electrical equipment, including labor and materials for
+            installation, such as lighting, motors, and wiring integral to the
+            proper operation of a cold storage facility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For cold storage facility loans, loans may be approved for
+            financing additions or modifications to an existing storage facility
+            with an expected useful life of at least 15 years if CCC determines
+            there is a need for the capacity of the structure.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             No cold storage facility loans will be made for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Portable structures;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Portable handling and cooling equipment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Used or pre-owned structures, or cooling and handling equipment; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Structures that are not suitable for a fruit or vegetable cold
+            storage facility.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            67 FR 54938
+          </aref>
+          , Aug. 26, 2002; 
+          <aref type='FREGIST'>
+            74 FR 41588
+          </aref>
+          , Aug. 18, 2009; 
+          <aref type='FREGIST'>
+            76 FR 4805
+          </aref>
+          , Jan. 27, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12787'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.7
+      </extid>
+      <num st='1'>
+        1436.7
+      </num>
+      <head>
+        Loan term.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 41589
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='7' psec='' tq='N'>
+              1436.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan term.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For eligible facility loan commodities other than sugar, the term
+            of the loan will be 7, 10, or 12 years, based on the total loan
+            principal, from the date a promissory note and security agreement is
+            completed on both the partial and final loan disbursements. The
+            applicant will choose, if applicable, a loan term when submitting
+            the loan application and total cost estimates.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For a loan with the principal of $100,000 or less, the term is 7
+            years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For loans from $100,000.01 through $250,000, the borrower will
+            choose a term of 7 or 10 years.
+            <PRTPAGE P='714' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For loans from $250,000.01 through $500,000, the borrower will
+            choose a loan term of 7, 10, or 12 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             No extensions of the loan term will be granted. The loan balance
+            and all related costs are due at the end of the loan term.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For a sugar-related loan:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             CCC, at its discretion, may authorize a maximum loan term of 15
+            years. The minimum loan term of a sugar-related loan is 7 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The loan balance and costs are due at the end of the loan term,
+            which will be established on the date the promissory note and
+            security agreement is executed.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 41589
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12788'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.8
+      </extid>
+      <num st='1'>
+        1436.8
+      </num>
+      <head>
+        Security for loan.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 41589
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='8' psec='' tq='N'>
+              1436.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Security for loan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as agreed to by CCC, all loans must be secured by a
+            promissory note and security agreement covering the farm storage
+            facility and such other assurances as CCC may demand, subject to the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The promissory note and security agreement must grant CCC a
+            security interest in the collateral and must be perfected in the
+            manner specified in the laws of the State where the collateral is
+            located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             CCC&apos;s security interest in the collateral must be the sole
+            security interest in such collateral except for prior liens on the
+            underlying real estate that by operation of law attach to the
+            collateral if it is or will become a fixture. If any such prior lien
+            on the real estate will attach to the collateral, a severance
+            agreement must be obtained in writing from each holder of such a
+            lien, including all government or USDA agencies. No additional liens
+            or encumbrances may be placed on the storage facility after the loan
+            is approved unless CCC approves otherwise in writing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For any loan amounts of $50,000 or less, CCC will not require a
+            severance agreement from the holder of any prior lien on the real
+            estate parcel on which the storage facility is located, if the
+            borrower:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Agrees to increase the down payment on the storage facility loan
+            from 15 percent to 20 percent; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Provides other security such as an irrevocable letter of credit,
+            bond, or other form of security, as approved by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For loan amounts exceeding $50,000, or when the aggregate
+            outstanding balance will exceed $50,000 or for loans in which the
+            approving county or State committee determines, as a result of
+            financial analysis, that additional security is required, a lien on
+            the real estate parcel on which the farm storage facility is located
+            is required in the form of a real estate mortgage, deed of trust, or
+            other security instrument approved by USDA&apos;s Office of the
+            General Counsel, provided further that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             CCC&apos;s interest in the real estate must be superior to all
+            other liens, except a loan may be secured by a junior lien on real
+            estate when the loan is adequately secured and a severance agreement
+            is obtained from prior lien holders.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A loan will be considered to be adequately secured when the real
+            estate security for the loan is at least equal to the loan amount.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the real estate is covered by a prior lien, a lien waiver may be
+            obtained by means of a subordination agreement approved for use in
+            the State by USDA&apos;s Office of the General Counsel. CCC will not
+            require such an agreement from any agency of USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Title insurance or a title opinion is required for loans secured by
+            real estate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Real estate liens, with prior CCC approval, may cover land separate
+            from the collateral if a lien on the underlying real estate is not
+            feasible and if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower owns the separate acreage and the acreage is not
+            subject to any other liens or mortgages that are superior to
+            CCC&apos;s lien interest and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The acreage is of adequate size and value at the time of the
+            application as determined by the county committee to adequately
+            secure and insure repayment of the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A borrower, in lieu of such liens required by this section, may
+            provide an irrevocable letter of credit, bond, or other form of
+            security, as approved by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             If an existing structure is remodeled and an addition becomes an
+            attached, integral part of the existing 
+            <PRTPAGE P='715' />
+            storage structure, CCC&apos;s security interest will include the
+            remodeled addition as well as the existing storage structure.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             For all farm storage facility loans, except sugar loans, the
+            borrower must pay the cost of loan closings by attorneys, title
+            opinions, title insurance, title searches, filing, and recording all
+            real estate liens, fixture filings, appraisals if requested by the
+            borrower, and all subordinations. CCC will pay costs relating to
+            credit reports, collateral lien searches, and filing and recording
+            financing statements for the collateral.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             All loans of $50,000 or less that are secured with collateral with
+            no resale value, as determined by CCC, may require additional
+            security.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans, in addition to other requirements
+            in this section, additional security, including real estate,
+            chattels, crops in storage, and other assets owned by the applicant,
+            is required if deemed necessary by CCC to adequately secure the
+            loan. A sugar storage facility loan will generally be considered to
+            be adequately secured when the CCC-determined value of security for
+            the loan is equal to at least 125 percent of the loan amount.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans, paragraph (h) of this section is
+            not applicable. However, the borrower must pay all loan making fees
+            and closing costs. This includes, but is not limited to, attorney
+            fees for loan closings, environmental assessments and studies,
+            chattel and real estate appraisals, title opinions, title insurance,
+            title searches, and filing and recording all real estate liens,
+            fixture filings, subordinations, credit reports, collateral lien
+            searches, and filing and recording financing statements for the
+            collateral.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 41589
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12789'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.9
+      </extid>
+      <num st='1'>
+        1436.9
+      </num>
+      <head>
+        Loan amount and loan application approvals.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 41590
+        </aref>
+        , Aug. 18, 2009, as amended at 
+        <aref type='FREGIST'>
+          76 FR 4805
+        </aref>
+        , Jan. 27, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='9' psec='' tq='N'>
+              1436.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan amount and loan application approvals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The cost on which the loan will be based is the net cost of the
+            eligible facility, accessories, and services to the applicant after
+            discounts and rebates, not to exceed a maximum per-bushel, -ton or,
+            -cubic foot cost established by the FSA State committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The net cost for all storage facilities and handling equipment:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             May include the following: All real estate lien related fees paid
+            by the borrower, including attorney fees, except for filing fees;
+            environmental and historic review fees including archaeological
+            study fees; the facility purchase price; sales tax; shipping;
+            delivery charges; site preparation costs; installation cost;
+            material and labor for concrete pads and foundations; material and
+            labor for electrical wiring; electrical motors; off-farm paid labor;
+            on-farm site preparation and construction equipment costs not to
+            exceed commercial rates approved by the county committee; and new
+            on-farm material approved by the county committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             May not include secondhand material or any other item determined by
+            the approving authority to be ineligible for loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The maximum total principal amount of the farm storage facility
+            loan is 85 percent of the net cost of the applicant&apos;s needed
+            storage or handling facility, including equipment, not to exceed
+            $500,000 per loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The storage need requirement for eligible facility loan commodities
+            will be determined as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For facility loan commodities, except sugar and fruits and
+            vegetables:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Multiply the average of the applicant&apos;s share of the acres
+            farmed for the most recent three years for each type of facility
+            loan commodity requiring suitable storage at the proposed facility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             By a yield determined reasonable by the county committee;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Multiply by two (for 2 years production); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Subtract existing storage capacity in the units of measurement,
+            such as bushels, tons, or cubic feet, for the type of storage needed
+            to determine remaining storage need.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Compare capacity of proposed facility with storage need (calculated
+            as specified in paragraphs (d)(1)(i)-(iv) of this section) to
+            determine if applicant is eligible for additional storage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Identify past processing volume and marketing allotments;
+            <PRTPAGE P='716' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Use the processor&apos;s projection of processing volume, available
+            storage capacity, volume not to be marketed due to marketing
+            allotment, and other appropriate factors affecting the
+            processor&apos;s storage need to estimate the storage need
+            requirement, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Compare capacity of proposed facility with storage need (estimated
+            as specified in paragraphs (d)(2)(i)-(ii) of this section) to
+            determine if additional storage is required.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For cold storage facilities for fruits and vegetables:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Multiply the average of the applicant&apos;s share of the acres
+            farmed for the most recent three years for each eligible fruit and
+            vegetable commodity requiring cold storage at the proposed facility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             By a yield determined reasonable by the county committee;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Determine cold storage needed (calculated as specified in
+            paragraphs (d)(3)(i)-(ii) of this section) with the assistance of
+            NIFA, land-grant university, or ARS publications; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Subtract existing cold storage capacity to determine remaining
+            storage need.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Compare capacity of proposed cold storage facility with cold
+            storage need (calculated as specified in paragraphs (d)(3)(i)-(iv)
+            of this section) to determine if applicant is eligible for
+            additional cold storage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For all eligible facility loan commodities, except sugar, if
+            acreage data is not available, including prevented planted acres, or
+            data is not applicable to the storage need, a reasonable acreage
+            projection may be made for newly acquired farms, changes in cropping
+            operations, or in facility loan commodity crops being grown for the
+            first time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             When a storage structure has a larger capacity than the
+            applicant&apos;s needed capacity, as determined by CCC, the net cost
+            eligible for a loan will be prorated. Only costs associated with the
+            applicant&apos;s needed storage capacity will be considered eligible
+            for loan under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Any borrower with an outstanding loan must use the financed
+            structure only for the storage of eligible facility loan
+            commodities. If a borrower uses such structure for other purposes
+            such as office space or display area, the loan amount will be
+            adjusted for the ineligible space as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The FSA county committee may approve applications, if loan funds
+            are available, up to the maximum approval amount unless the Deputy
+            Administrator, Farm Programs, or the FSA State committee establishes
+            a lower limit for county committee approval authority.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Farm storage facility loan approvals, for all eligible facility
+            loan commodities except sugar, will expire 4 months after the date
+            of approval unless extended in writing for an additional 4 months by
+            the FSA State Committee. A second 4 month extension, for a total of
+            12 months from the original approval date, may be approved by the
+            FSA State Committee. This authority will not be re-delegated. Sugar
+            storage facility loan approvals will expire 8 months after the date
+            of approval unless extended in writing for an additional 4 months by
+            the FSA State Committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans, paragraphs (c) and (g) of this
+            section do not apply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans, the agency approval officials may
+            only approve loans, subject to available funds.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 41590
+          </aref>
+          , Aug. 18, 2009, as amended at 
+          <aref type='FREGIST'>
+            76 FR 4805
+          </aref>
+          , Jan. 27, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12790'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.10
+      </extid>
+      <num st='1'>
+        1436.10
+      </num>
+      <head>
+        Down payment.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          74 FR 41590
+        </aref>
+        , Aug.18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='10' psec='' tq='N'>
+              1436.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Down payment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A minimum down payment representing the difference between the net
+            cost of the storage facility and the amount of the loan determined
+            in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1436' sect='9' psec='' tq='N'>
+                1436.9
+              </subref>
+            </aref>
+             will be made by the loan applicant to the supplier or contractor
+            before either the partial or final loan disbursements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The down payment must be in cash unless some other form of payment
+            is approved by CCC. The down payment may be obtained by the borrower
+            from another lending source.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The down payment may not include any trade-in, discount, rebate,
+            credit, deferred payment, post-dated check, or promissory note to
+            the supplier or contractor.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            74 FR 41590
+          </aref>
+          , Aug.18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12791'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.11
+      </extid>
+      <num st='1'>
+        1436.11
+      </num>
+      <head>
+        Disbursements and assignments.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 41591
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <PRTPAGE P='717' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='11' psec='' tq='N'>
+              1436.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disbursements and assignments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             At the request of the borrower, one partial disbursement of loan
+            principal and one final loan disbursement will be available. The
+            partial loan disbursement will be made to facilitate the purchase
+            and construction of an eligible facility and will be made after the
+            approved applicant has completed construction on part of the
+            structure. County FSA personnel will inspect and verify the amount
+            of construction completed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The amount of the partial loan disbursement will be determined by
+            CCC and made after the borrower provides acceptable documentation
+            for that portion of the completed construction to the County
+            Committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Security required for the amount of the partial loan disbursement
+            will be required before the partial loan disbursement is finalized.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The final disbursement of the loan by CCC will be made after the
+            farm storage facility has been completely and fully delivered,
+            erected, constructed, assembled, or installed and a CCC
+            representative has inspected and approved such facility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             All additional security needed to fully secure both the partial and
+            final loan disbursements must be received before the final loan
+            disbursement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Both the partial and final loan disbursements will be made only if
+            the borrower furnishes satisfactory evidence of the total cost of
+            the facility and payment of all debts on the facility in excess of
+            the amount of the loan. If deemed appropriate by CCC, the partial
+            and final disbursement may have separate notes and separate security
+            instruments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Both the partial and final loan disbursement will be made jointly
+            to the borrower and the contractor or supplier, except disbursement
+            may be made to the borrower solely where CCC determines, based upon
+            information made available to CCC by the borrower, that the borrower
+            has paid the contractor or supplier all amounts that are due and
+            owing with respect to the facility and that all applicable liens,
+            security interests, or other encumbrances have been released.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A release of liability will be required from all contractors and
+            suppliers providing goods and services to the loan applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Loan proceeds cannot be assigned.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans, only one disbursement will be
+            made and such disbursement will be regarded as a final disbursement.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 41591
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12792'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.12
+      </extid>
+      <num st='1'>
+        1436.12
+      </num>
+      <head>
+        Interest and fees.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          73 FR 41591
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='12' psec='' tq='N'>
+              1436.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interest and fees.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Loans will bear interest at the rate equivalent, as determined by
+            CCC, to the rate of interest charged on Treasury securities of
+            comparable term and maturity on the date the loan is initially
+            approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The interest rate for each loan will remain in effect for the term
+            of the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Each borrower on a loan application must pay a non-refundable
+            application fee in such amount determined appropriate by CCC; the
+            fee will be not less than $100 per borrower. The loan application
+            fee is determined based on the cost of the fees associated with the
+            loan, including, but not limited to, the cost to CCC for lien
+            searches, security filings, and credit reports.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans, paragraph (c) of this section
+            does not apply.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            73 FR 41591
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12793'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.13
+      </extid>
+      <num st='1'>
+        1436.13
+      </num>
+      <head>
+        Loan installments, delinquency, and acceleration of maturity date.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          74 FR 41591
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='13' psec='' tq='N'>
+              1436.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan installments, delinquency, and acceleration of maturity date.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Equal installments of principal plus interest will be amortized
+            over the loan term for purposes of setting a payment schedule.
+            Installments are due and payable not later than the last day of each
+            12-month period of each of the partial and final loan disbursements,
+            until the principal plus interest has been paid in full.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each installment may be paid in cash, money order, wire transfer,
+            or by personal, certified, or cashier&apos;s check. Each payment
+            will be applied first to accrued interest and then to principal.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             When installments are not paid on the due date:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will generally mail a demand for payment to the debtor after
+            the due date has passed.
+            <PRTPAGE P='718' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the installment is not paid within 30 calendar days of the due
+            date or if a new due date acceptable to CCC has not been established
+            based on a financial plan submitted by the debtor, CCC may send two
+            subsequent written demands at approximately 30 calendar day
+            intervals unless CCC needs to take other action to protect the
+            interests of CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the debtor files an appeal according to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1436' sect='18' psec='' tq='N'>
+                1436.18
+              </subref>
+            </aref>
+            , CCC will generally cease collection action until the appeal
+            process is complete, however, CCC may withhold any payments due the
+            debtor and, depending on the outcome of the appeal, any payments due
+            the debtor may later be offset and applied to reduce the
+            indebtedness.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             In lieu of a foreclosure on the collateral or the land securing a
+            loan in the case of a delinquency, CCC may permit a rescheduling of
+            the debt or other measures consistent with the collection of other
+            debts under the provisions of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            . Any rescheduling or alternate repayment arrangements will be
+            permitted only with prior approval from the Deputy Administrator,
+            Farm Programs. Alternately, CCC may implement such other collection
+            procedures as it deems appropriate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A claim will be established against a borrower for any amounts
+            remaining due after liquidation of the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may declare the entire indebtedness immediately due and payable
+            if the borrower violates any of the terms and conditions of this
+            part, fails to pay any installment on time, or breaches any of the
+            terms and conditions of any of the instruments executed in
+            connection with the loan, or if , during the life of the loan, the
+            collateral is used in connection with or by any unauthorized
+            commercial facility including, but not limited to, elevators,
+            warehouses, dryers, processing plants, or retail or wholesale cold
+            storage facilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Any action authorized by the provisions of this section may be
+            taken:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Against a debtor&apos;s pro rata share of payments due any entity
+            that the borrower participates in, either directly or indirectly, as
+            determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Against related persons or entities, irrespective of the
+            debtor&apos;s, share, when CCC determines that the debtor has
+            established an entity, or reorganized, transferred ownership of, or
+            changed in some other manner, their operation, for the purpose of
+            avoiding the payment of the debt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The loan may be paid in full or in part without penalty at any time
+            before maturity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Upon payment of a loan, CCC will release CCC&apos;s security
+            interest in the collateral.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            74 FR 41591
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12794'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.14
+      </extid>
+      <num st='1'>
+        1436.14
+      </num>
+      <head>
+        Taxes.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          74 FR 41591
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='14' psec='' tq='N'>
+              1436.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Taxes.
+        </SUBJECT>
+        <P>
+          The borrower must pay, when due, all real and personal property taxes
+          that may affect CCC&apos;s security interest in all collateral or land
+          securing the note evidencing the loan. To protect its interests, CCC
+          may pay any unpaid taxes with respect to the collateral or land
+          securing a loan made in accordance with this part, and if CCC does so,
+          the borrower will reimburse CCC for such payment, and if unpaid by the
+          borrower, such debt will become due immediately.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            74 FR 41591
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12795'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.15
+      </extid>
+      <num st='1'>
+        1436.15
+      </num>
+      <head>
+        Maintenance, liability, insurance, and inspections.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          67 FR 54939
+        </aref>
+        , Aug. 26, 2002; 
+        <aref type='FREGIST'>
+          74 FR 41591
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='15' psec='' tq='N'>
+              1436.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Maintenance, liability, insurance, and inspections.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower must maintain the loan collateral in a condition
+            suitable for the storage of one or more of the facility loan
+            commodities. For purpose of this section the term “loan collateral”
+            will mean any property of any kind that was built or improved, or
+            acquired using a loan made under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Until the loan has been repaid, the borrower will be liable for all
+            damages to or destruction of the loan collateral. CCC will not
+            assume any loss of the loan collateral.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may conduct annual collateral inspections to insure compliance
+            with this part. The borrower must consent to such inspection as a
+            term of the loan and failure to supply such access will put the
+            borrower into default.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Structures must be insured against all perils in all cases and must
+            also be insured against flooding if the 
+            <PRTPAGE P='719' />
+            structure is located in a flood plain, as determined by CCC. Proof
+            of flood insurance, if required, and proof of all peril structural
+            insurance, must be provided to CCC annually. CCC must be listed as a
+            loss payee on all peril and flood insurance policies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will have rights of ingress and egress where the facility is
+            located. Failure of the borrower to secure such access will render a
+            borrower ineligible for the loan and, if a loan has already been
+            made will constitute a loan default for which the remaining balance
+            of the loan willbecome immediately due and payable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             For sugar storage facility loans, in addition to the requirements
+            of paragraph (d) of this section, sugar processors must also insure
+            the contents of storage structures used as collateral for a sugar
+            storage facility loan against all perils.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            67 FR 54939
+          </aref>
+          , Aug. 26, 2002; 
+          <aref type='FREGIST'>
+            74 FR 41591
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12796'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.16
+      </extid>
+      <num st='1'>
+        1436.16
+      </num>
+      <head>
+        Foreclosure, liquidation, assumptions, sales or conveyance, or
+        bankruptcy.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 4612
+        </aref>
+        , Jan. 18, 2001, as amended at 
+        <aref type='FREGIST'>
+          74 FR 41591
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='16' psec='' tq='N'>
+              1436.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Foreclosure, liquidation, assumptions, sales or conveyance, or
+          bankruptcy.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The collateral or land securing a loan may be sold by CCC whenever
+            CCC has declared the entire indebtedness immediately due and payable
+            under this part as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If a demand for payment is not received by the due date acceptable
+            to CCC, CCC may call the loan and initiate foreclosure proceedings
+            by issuing a liquidation letter to the borrower.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The debtor may voluntarily agree to allow removal of the collateral
+            to facilitate sale by signing an agreement for sale. If the debtor
+            objects to removal of collateral, the law of the State where the
+            collateral exists will be used to foreclose on the property.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For loans with movable collateral and no real estate lien, CCC may
+            sell the collateral for the best price obtainable. Sales proceeds
+            will be distributed in the following order:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             To CCC to satisfy the debtor&apos;s indebtedness including all
+            costs associated with selling the collateral.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Payment to junior lien holders if approved by USDA&apos;s Office of
+            the General Counsel and then to the borrower or other persons as
+            determined appropriate by that office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For loans with non-movable or non-salable collateral, as determined
+            by CCC, and no real estate lien, CCC may establish a claim according
+            to 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1403' tq='N'>
+                1403
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             For loans secured with a real estate lien, CCC may obtain an
+            appraisal of the property. Sales proceeds will be distributed in the
+            following order:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_5_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             To CCC to satisfy the debtor&apos;s indebtedness including all
+            costs associated with selling the collateral and the appraisal.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             To junior lien holders if approved by USDA&apos;s Office of the
+            General Counsel; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_5_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             To the borrower or other persons as determined appropriate by that
+            office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Assumption by another borrower of a farm storage facility loan is
+            permitted subject to county committee approval and the subsequent
+            borrower&apos;s ability to show a satisfactory credit history. An
+            assumption of the loan may be approved when the collateral is sold
+            by CCC to an otherwise eligible borrower, the current borrower will
+            convey the collateral or property securing the loan to another
+            eligible borrower, or the borrower is dead, incompetent, or missing
+            and an eligible borrower wants to assume the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for approval of assumptions must be made to the county
+            committee by the borrower, the borrower&apos;s successors, or
+            representatives of the borrower. If approval is granted, the
+            borrower&apos;s successors or representatives must execute a new
+            farm storage facility note and security agreement for the balance of
+            the term of the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The principal amount of the loan will include the unpaid amount of
+            the loan, interest computed to the date of assumption, all past due
+            installments, and any other charges that may be required.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower may voluntarily convey the collateral to CCC before
+            repaying the loan. Before a borrower sells or conveys the facilities
+            or other property securing a loan without repaying the loan in full,
+            the borrower must obtain approval for the sale or conveyance from
+            the FSA county committee with the understanding that 
+            <PRTPAGE P='720' />
+            sale proceeds must be paid to satisfy the borrower&apos;s
+            indebtedness to CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If any significant changes are made to the legal or operating
+            status of the farming operation with an outstanding Farm Storage
+            Facility Loan, the borrower must do one of the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Find an eligible borrower or entity to assume the loan as specified
+            in paragraph (b) of this section,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Repay the loan, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Undergo new financial analysis, as approved and determined by CCC,
+            to ensure CCC&apos;s interests are protected and that the current
+            borrower is in a position to continue making the scheduled loan
+            payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Remedies provided for in this section will, unless CCC determines
+            otherwise, be subject to the administrative appeals provided for
+            elsewhere in this part, including those that are found at 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1436' sect='13' psec='' tq='N'>
+                1436.13
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 4612
+          </aref>
+          , Jan. 18, 2001, as amended at 
+          <aref type='FREGIST'>
+            74 FR 41591
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12797'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.17
+      </extid>
+      <num st='1'>
+        1436.17
+      </num>
+      <head>
+        Environmental compliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='17' psec='' tq='N'>
+              1436.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Environmental compliance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise specified in this section, prior to approval of
+            any farm storage facility loan, an environmental evaluation will be
+            completed to determine if the proposed action will have any adverse
+            impacts on the environment and cultural resources.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If it is determined that a proposed action or group of proposed
+            actions will not result in any adverse impact, the action will be
+            considered as being categorically excluded for the purpose of
+            compliance with the National Environmental Policy Act (NEPA), 
+            <aref type='CFR'>
+              40 CFR parts 
+              <subref title='40' part='1500-1508' tq='N'>
+                1500-1508
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If adverse environmental impacts (either direct or indirect) are
+            identified, an environmental assessment will be completed in
+            accordance with the Council on Environmental Quality&apos;s
+            Regulations for Implementing the Procedural Provisions of NEPA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The environmental assessment will be used to develop an action that
+            results in no significant environmental impact on the human
+            environment or cultural resources.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             No action will be approved that has been determined to have
+            significant impacts on the human environment or cultural resources.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             In order to minimize the exposure to environmental liabilities from
+            the presence of contamination on real estate collateral, an
+            evaluation will be made of the economic and environmental risks to
+            the real estate collateral posed by the presence of hazardous
+            substances and petroleum products.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the evaluation made under paragraph (d)(1) of this section
+            reveals that the collateral is or may be contaminated, then the
+            applicant will be notified and given an option of offering as
+            collateral other real estate that is free from contamination or
+            remediating the contamination on the original site offered as
+            collateral.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12798'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.18
+      </extid>
+      <num st='1'>
+        1436.18
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='18' psec='' tq='N'>
+              1436.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          The appeal, reconsideration, or review of all determinations made
+          under this part, except for provisions for which there are no appeal
+          rights because they are determined rules of general applicability,
+          must be in accordance with 
+          <aref type='CFR-TIC-PART'>
+            parts 
+            <subref title='7' part='11' tq='N'>
+              11
+            </subref>
+             and 
+            <subref title='7' part='780' tq='N'>
+              780 of this title
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='12799'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1436:-:1436.19
+      </extid>
+      <num st='1'>
+        1436.19
+      </num>
+      <head>
+        Equal Opportunity and Non-discrimination requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          67 FR 54939
+        </aref>
+        , Aug. 26, 2002. Redesignated at 
+        <aref type='FREGIST'>
+          67 FR 65690
+        </aref>
+        , Oct. 28, 2002; 
+        <aref type='FREGIST'>
+          74 FR 41592
+        </aref>
+        , Aug. 18, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1436' sect='19' psec='' tq='N'>
+              1436.19
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Equal Opportunity and Non-discrimination requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             No recipient of a Storage Facility loan will directly, or through
+            contractual or other arrangement, subject any person or cause any
+            person to be subjected to discrimination on the basis of race,
+            religion, color, national origin, gender, or other prohibited basis.
+            Borrowers must comply with all applicable Federal laws and
+            regulations regarding equal opportunity in hiring, procurement, and
+            related matters. FSFL borrowers are subject to the nondiscrimination
+            provisions applicable to Federally assisted programs contained in 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='15' tq='N'>
+                15
+              </subref>
+               and 
+              <subref title='7' part='15b' tq='N'>
+                15b
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to any aspect of a credit transaction, CCC will not
+            discriminate against any applicant on the basis of race, color,
+            religion, national origin, disability, sex, marital status, familial
+            status, parental status, sexual orientation, genetic information,
+            political beliefs, reprisal, or age, provided the applicant can
+            execute a legal contract. FSFL is subject to the nondiscrimination
+            provisions applicable to Federally conducted programs contained in 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='15d' tq='N'>
+                15d
+              </subref>
+               and 
+              <subref title='7' part='15e' tq='N'>
+                15e
+              </subref>
+            </aref>
+            . Nor 
+            <PRTPAGE P='721' />
+            will CCC discriminate on the basis of whether all or a part of the
+            applicant&apos;s income derives from any public assistance program,
+            or whether the applicant in good faith, exercises any rights under
+            the Consumer Protection Act.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            67 FR 54939
+          </aref>
+          , Aug. 26, 2002. Redesignated at 
+          <aref type='FREGIST'>
+            67 FR 65690
+          </aref>
+          , Oct. 28, 2002; 
+          <aref type='FREGIST'>
+            74 FR 41592
+          </aref>
+          , Aug. 18, 2009]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

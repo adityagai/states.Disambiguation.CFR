@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol2'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:A:36
+    </extid>
+    <num>
+      36
+    </num>
+    <head>
+      PROCEDURES BY WHICH THE AGRICULTURAL MARKETING SERVICE DEVELOPS, REVISES,
+      SUSPENDS, OR TERMINATES VOLUNTARY OFFICIAL GRADE STANDARDS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1621-162' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621-162.html'>
+              7 U.S.C. 1621-162
+            </subref>
+          </aref>
+          7.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            62 FR 43439
+          </aref>
+          , Aug. 13, 1997, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='1926'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:36:-:36.1
+      </extid>
+      <num st='1'>
+        36.1
+      </num>
+      <head>
+        General information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='36' sect='1' psec='' tq='N'>
+              36.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General information.
+        </SUBJECT>
+        <P>
+          The Agricultural Marketing Service (AMS or agency) of the U.S.
+          Department of Agriculture (USDA) facilitates the fair and efficient
+          marketing of agricultural products by promulgating voluntary official
+          grade standards for dairy, fresh and processed fruits and vegetables,
+          livestock, meats and meat products, eggs, poultry and rabbit products,
+          tobacco, wool, mohair, and other agricultural products. AMS standards
+          provide a uniform language for describing the quality of various
+          agricultural commodities in the marketplace. These standards may cover
+          (but are not limited to) terms, classes, sizes (including quantities
+          of packaged consumer agricultural commodities), dimensions,
+          capacities, quality levels, performance criteria, inspection
+          requirements, marking requirements, testing equipment, test
+          procedures, and installation procedures.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Grade standards are officially designated as U.S. Grade Standards
+            and the AMS assigns each grade standard an appropriate
+            identification number. AMS develops, revises, suspends, or
+            terminates official grade standards under procedures that allows for
+            input by interested parties.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             These procedures set forth the process by which AMS will develop,
+            revise, suspend, or terminate the U.S. standards.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Communications about AMS standards in general should be addressed
+            to the Administrator, Attention: Functional Committee for Standards.
+            Communications about specific standards (such as a request to
+            develop or revise a standard) should be addressed to the Director of
+            the appropriate Division (Dairy, Fruit and Vegetable, Livestock and
+            Seed, Poultry, or Tobacco). All communications should include in the
+            address: Agricultural Marketing Service, U.S. Department of
+            Agriculture, P.O. Box 96456, Washington, DC 20090-6456.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='1927'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:36:-:36.2
+      </extid>
+      <num st='1'>
+        36.2
+      </num>
+      <head>
+        Initiating action on grade standards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='36' sect='2' psec='' tq='N'>
+              36.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Initiating action on grade standards.
+        </SUBJECT>
+        <P>
+          The Agency will develop, revise, suspend, or terminate grade standards
+          if it determines that such action is in the public interest. Any
+          standardization action should reflect the broad interest of
+          individuals or an industry involved in manufacturing, producing,
+          packaging, distributing, testing, consuming, or using the product; or
+          the interest of a Federal, State, or local agency. Proposed actions
+          should always be based on sound technical and marketing information
+          and should include careful consideration of the factors that determine
+          a commodity&apos;s quality and condition and that will allow trained
+          personnel to determine objectively conformance or non-conformance.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             AMS encourages interested parties to participate in the review,
+            development, and revision of grade standards. Interested parties
+            include growers, producers, processors, shippers, distributors,
+            consumers, individuals or groups, trade associations, companies, 
+            <PRTPAGE P='181' />
+            and State or Federal agencies. Such groups and individuals may at
+            any time recommend that AMS develop, revise suspend, or terminate a
+            grade standard. Requests for Agency action should be in writing,
+            preferably accompanied by a draft of the suggested change.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency, in cooperation with interested parties, as applicable,
+            will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Determine the need for new or revised standards;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Collect technical, marketing, or other appropriate data;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Conduct research regarding new or revised standards, as
+            appropriate; and,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Draft the proposed standards;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the Agency determines that new standards are needed, existing
+            standards need to be revised, or the suspension or termination of
+            existing standards is justified, it will undertake the action, with
+            input from all interested parties.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='1928'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:36:-:36.3
+      </extid>
+      <num st='1'>
+        36.3
+      </num>
+      <head>
+        Public notification of grade standards action.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='36' sect='3' psec='' tq='N'>
+              36.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Public notification of grade standards action.
+        </SUBJECT>
+        <P>
+          After developing a standardization proposal, the Agency will publish a
+          notice in the 
+          <E T='04'>
+            Federal Register
+          </E>
+           describing new or changes to existing standards or to suspend or
+          terminate existing standards. AMS will simultaneously issue a news
+          release about these actions. AMS will also distribute copies of the
+          full text of the proposals to anyone requesting a copy or to anyone
+          the Agency believes may be interested, including other Federal, State,
+          or local government agencies, and on the Internet. For other than
+          minor editorial or technical changes, the notice will provide at least
+          60 days for interested parties to submit comments to the Agency.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All comments received within the comment period will be part of the
+            public record maintained by the Agency, will be available to the
+            public for review, and will be considered by the Agency before final
+            action is taken on the proposal.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Based on the comments received, the Agency&apos;s knowledge of
+            standards, grading, marketing, and other technical factors, and any
+            other relevant information AMS will decide whether the proposed
+            actions should be implemented.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If AMS concludes that the actions as proposed or with minor
+            modifications should be adopted, AMS will publish a description of
+            the changes or actions in a 
+            <E T='04'>
+              Federal Register
+            </E>
+             notice. The Agency, through the appropriate AMS Divisions, will
+            make the grade standards and related information available in
+            printed form and electronic media.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the Agency determines that proposed changes are not warranted,
+            or otherwise are not in the public interest, the Agency will either
+            publish in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             a notice withdrawing the proposal, or will revise the proposal and
+            again seek public input.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

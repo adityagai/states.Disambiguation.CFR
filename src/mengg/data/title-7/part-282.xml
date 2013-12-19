@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol4'>
+    <extid>
+      lii:cfr:2013:7:0:B:II:C:282
+    </extid>
+    <num>
+      282
+    </num>
+    <head>
+      DEMONSTRATION, RESEARCH, AND EVALUATION PROJECTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='2011-203' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2011-203.html'>
+              7 U.S.C. 2011-203
+            </subref>
+          </aref>
+          6.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          Amdt. 134, 
+          <aref type='FREGIST'>
+            43 FR 54215
+          </aref>
+          , Nov. 21, 1978, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='5008'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:282:-:282.1
+      </extid>
+      <num st='1'>
+        282.1
+      </num>
+      <head>
+        Legislative authority and notice requirements.
+      </head>
+      <citation>
+        [Amdt. 371, 
+        <aref type='FREGIST'>
+          61 FR 60012
+        </aref>
+        , Nov. 26, 1996]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='282' sect='1' psec='' tq='N'>
+              282.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Legislative authority and notice requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Legislative authority.
+            </head>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Section 17 of
+            </aref>
+             the Act authorizes the Secretary to conduct demonstration,
+            research, and evaluation projects. In conducting such projects, the
+            Secretary may waive all or part of the requirements of the Act and
+            implementing regulations necessary to conduct such projects, except
+            that no project, other than a project involving the payment of the
+            average value of allotments by household size in the form of cash to
+            eligible households or a project conducted to test improved
+            consistency or coordination between the food stamp employment and
+            training program and the Job Opportunities and Basic Skills program
+            under Title IV of the Social Security Act, may be undertaken which
+            would lower or further restrict the established income and resource
+            standards or benefit levels.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Notices.
+            </head>
+          </npcatch>
+          <text>
+             At least 30 days prior to the initiation of a demonstration
+            project, FNS shall publish a General Notice in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             if the demonstration project will likely have a significant impact
+            on the public. The notice shall set forth the specific operational
+            procedures and shall explain the basis and purpose of the
+            demonstration project. If significant comments are received in
+            response to this General Notice, the Department will take such
+            action as may be appropriate prior to implementing the project. If
+            the operational procedures contained in the General Notice described
+            above are significantly changed because of comments, an amended
+            General Notice will be published in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             at least 30 days prior to the initiation of the demonstration
+            project, except where good cause exists supporting a shorter
+            effective date. The explanation for the determination of good cause
+            will be published with the amended General Notice. The amended
+            General Notice will also explain the basis and purpose of the
+            change.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 371, 
+          <aref type='FREGIST'>
+            61 FR 60012
+          </aref>
+          , Nov. 26, 1996]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5009'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:282:-:282.2
+      </extid>
+      <num st='1'>
+        282.2
+      </num>
+      <head>
+        Funding.
+      </head>
+      <citation>
+        [Amdt. 371, 
+        <aref type='FREGIST'>
+          61 FR 60012
+        </aref>
+        , Nov. 26, 1996]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='282' sect='2' psec='' tq='N'>
+              282.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Funding.
+        </SUBJECT>
+        <P>
+          Federal financial participation may be made available to
+          demonstration, research, and evaluation projects awarded by FNS
+          through grants and contracts. Funds may not be transferred from one
+          project to another. FNS will pay all costs incurred during the
+          project, up to the level established in the grant, or in the terms and
+          conditions of the contract. FNS may grant time extensions of the
+          project upon approval. Funding for additional costs is subject to
+          existing Federal grant and contract procedures.
+        </P>
+        <CITA>
+          [Amdt. 371, 
+          <aref type='FREGIST'>
+            61 FR 60012
+          </aref>
+          , Nov. 26, 1996]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

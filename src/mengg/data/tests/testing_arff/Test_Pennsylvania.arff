@@ -1,0 +1,11 @@
+@relation 'C__Users_Prasannjit Kumar_workspace_project_src_mengg_data_tests_testingData_Pennsylvania'
+
+@attribute text string
+@attribute @@class@@ {negative,positive}
+
+@data
+'Pennsylvania Soybean Board',negative
+'Standard Analytical Methods of the Member Companies of Corn Industries Research Foundation, Corn Refiners Association (CRA), 1701 Pennsylvania Avenue, NW., Washington, DC 20006.',negative
+'Potential market participants are recruited by AMS market management through local farm organizations in the Washington DC metropolitan area State Departments of Agriculture from the mid-Atlantic region including, Virginia, West Virginia, Maryland, Delaware, and Pennsylvania.',positive
+'In the States of Delaware, District of Columbia, Maryland, New Jersey, Pennsylvania, Puerto Rico, Virginia, Virgin Islands, and West Virginia: Mid-Atlantic Regional Office, FNS, U.S. Department of Agriculture, 300 Corporate Boulevard, Robbinsville, New Jersey 08691-1598.',positive
+'In the state of Pennsylvania',positive

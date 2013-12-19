@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXXII:-:3202
+    </extid>
+    <num>
+      3202
+    </num>
+    <head>
+      VOLUNTARY LABELING PROGRAM FOR BIOBASED PRODUCTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='8102' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/8102.html'>
+              7 U.S.C. 8102
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            76 FR 3806
+          </aref>
+          , Jan. 20, 2011. Redesignated at 
+          <aref type='FREGIST'>
+            76 FR 53632
+          </aref>
+          , Aug. 29, 2011.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='16357'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.1
+      </extid>
+      <num st='1'>
+        3202.1
+      </num>
+      <head>
+        Purpose and scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='1' psec='' tq='N'>
+              3202.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and scope.
+        </SUBJECT>
+        <P>
+          The purpose of this part is to set forth the terms and conditions for
+          voluntary use of the “USDA Certified Biobased Product” certification
+          mark. This part establishes the criteria that biobased products must
+          meet in order to be eligible to become certified biobased products to
+          which the “USDA Certified Biobased Product” mark can be affixed, the
+          process manufacturers and vendors must use to obtain and maintain USDA
+          certification, and the recordkeeping requirements for manufacturers
+          and vendors who obtain certification. In addition, this part
+          establishes specifications for the correct and incorrect uses of the
+          certification mark, which apply to manufacturers, vendors, and other
+          entities. Finally, this part establishes actions that constitute
+          voluntary labeling program violations.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16358'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.2
+      </extid>
+      <num st='1'>
+        3202.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          76 FR 3806
+        </aref>
+        , Jan. 20, 2011. Redesignated and amended at 
+        <aref type='FREGIST'>
+          76 FR 53632
+        </aref>
+        , Aug. 29, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='2' psec='' tq='N'>
+              3202.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Applicable minimum biobased content.
+          </E>
+           The biobased content at or above the level set by USDA to qualify for
+          use of the certification mark.
+        </P>
+        <P>
+          <E T='03'>
+            ASTM International (ASTM).
+          </E>
+           American Society for Testing and Materials is a nonprofit
+          organization that provides an international forum for the development
+          and publication of voluntary consensus standards for materials,
+          products, systems, and services.
+        </P>
+        <P>
+          <E T='03'>
+            Biobased content.
+          </E>
+           The amount of biobased carbon in the material or product expressed as
+          a percent of weight (mass) of the total organic carbon in the material
+          or product. For BioPreferred Products (products that have been
+          identified for Federal preferred procurement), the biobased content
+          shall be defined and determined as specified in the applicable section
+          of subpart B of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='3201' tq='N'>
+              3201
+            </subref>
+          </aref>
+          . For all other products, the biobased content is to be determined
+          using ASTM Method D6866, Standard Test Methods for Determining the
+          Biobased Content of Solid, Liquid, and Gaseous Samples Using
+          Radiocarbon Analysis.
+        </P>
+        <P>
+          <E T='03'>
+            Biobased product.
+          </E>
+           A product determined by the Secretary to be a commercial or
+          industrial product (other than food or feed) that is:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Composed, in whole or in significant part, of biological products,
+            including renewable domestic agricultural materials and forestry
+            materials; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             An intermediate ingredient or feedstock. For the purposes of this
+            subpart, the term `biobased product&apos; does not include motor
+            vehicle fuels, heating oil, electricity produced from biomass, or
+            any mature market products.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            BioPreferred Product.
+          </E>
+           A biobased product that meets or exceeds minimum biobased content
+          levels set by USDA, and that is found within any of the product
+          categories that have been identified, in subpart B of 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='3201' tq='N'>
+              3201
+            </subref>
+          </aref>
+          , whose products within are eligible for Federal preferred
+          procurement/purchasing.
+        </P>
+        <P>
+          <E T='03'>
+            Certification mark.
+          </E>
+           A combination of the certification mark artwork (as defined in this
+          subpart); one of three statements identifying whether the USDA
+          certification applies to the product, the package, or both the product
+          and package; and, where applicable, the letters “FP” to indicate that
+          the product is within a designated product category and eligible for
+          Federal preferred procurement. The certification mark is owned, and
+          its use is managed by, USDA (standard trademark law definition
+          applies).
+        </P>
+        <P>
+          <E T='03'>
+            Certification mark artwork.
+          </E>
+           The distinctive image, as shown in Figures 1-3, that identifies
+          products as USDA Certified.
+        </P>
+        <GPH DEEP='125' SPAN='2'>
+          <PRTPAGE P='317' />
+          <GID>
+            ER20JA11.000
+          </GID>
+        </GPH>
+        <GPH DEEP='342' SPAN='2'>
+          <GID>
+            ER20JA11.001
+          </GID>
+        </GPH>
+        <P>
+          <E T='03'>
+            Certified biobased product.
+          </E>
+           A biobased product for which the manufacturer or vendor of the
+          product has received approval from USDA to affix to the product the
+          “USDA Certified Biobased Product” certification mark.
+          <PRTPAGE P='318' />
+        </P>
+        <P>
+          <E T='03'>
+            Days.
+          </E>
+           As used in this part means calendar days.
+        </P>
+        <P>
+          <E T='03'>
+            Designated item.
+          </E>
+           For the purposes of this part means product categories (generic
+          groupings of products that perform the same function) within which the
+          products have been afforded a procurement preference by Federal
+          agencies under the BioPreferred Program. These BioPreferred Products
+          have been identified for Federal preferred procurement under subpart B
+          of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='3201' tq='N'>
+              3201 of this title
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Designated representative.
+          </E>
+           An entity authorized by a manufacturer or vendor to affix the USDA
+          certification mark to the manufacturer&apos;s or vendor&apos;s
+          certified biobased product or its packaging.
+        </P>
+        <P>
+          <E T='03'>
+            Intermediate ingredients or feedstocks.
+          </E>
+           Materials or compounds made in whole or in significant part from
+          biological products, including renewable agricultural materials
+          (including plant, animal, and marine materials) or forestry materials,
+          that are subsequently used to make a more complex compound or product.
+          For the purposes of this subpart, intermediate ingredients or
+          feedstocks do not include raw agricultural or forestry materials, but
+          represent those materials that can be put into a new cycle of
+          production and finishing processes to create finished materials, ready
+          for distribution and consumption.
+        </P>
+        <P>
+          <E T='03'>
+            ISO.
+          </E>
+           The International Organization for Standardization, a network of
+          national standards institutes working in partnership with
+          international organizations, governments, industries, business, and
+          consumer representatives.
+        </P>
+        <P>
+          <E T='03'>
+            ISO 9001 conformant.
+          </E>
+           An entity that meets all of the requirements of the ISO 9001
+          standard, but that is not required to be ISO 9001 certified. ISO 9001
+          refers to the International Organization for Standardization&apos;s
+          standards and guidelines relating to “quality management” systems.
+          “Quality management” is defined as what the manufacturer does to
+          ensure that its products or services satisfy the customer&apos;s
+          quality requirements and comply with any regulations applicable to
+          those products or services.
+        </P>
+        <P>
+          <E T='03'>
+            Manufacturer.
+          </E>
+           An entity that performs the necessary chemical and/or mechanical
+          processes to make a final marketable product.
+        </P>
+        <P>
+          <E T='03'>
+            Mature market products.
+          </E>
+           Biobased products that are not eligible for Federal preferred
+          procurement or labeling as defined under subpart B of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='3201' tq='N'>
+              3201 of this title
+            </subref>
+          </aref>
+           because they had significant national market penetration in 1972.
+        </P>
+        <P>
+          <E T='03'>
+            Other entity.
+          </E>
+           Any person, group, public or private organization, or business other
+          than USDA, or manufacturers or vendors of biobased products that may
+          wish to use the “USDA Certified Biobased Product” certification mark
+          in informational or promotional material related to a certified
+          biobased product.
+        </P>
+        <P>
+          <E T='03'>
+            Program Manager.
+          </E>
+           The manager of the BioPreferred Program.
+        </P>
+        <P>
+          <E T='03'>
+            USDA.
+          </E>
+           The United States Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Vendor.
+          </E>
+           An entity that offers for sale final marketable biobased products
+          that are produced by manufacturers.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            76 FR 3806
+          </aref>
+          , Jan. 20, 2011. Redesignated and amended at 
+          <aref type='FREGIST'>
+            76 FR 53632
+          </aref>
+          , Aug. 29, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='16359'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.3
+      </extid>
+      <num st='1'>
+        3202.3
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='3' psec='' tq='N'>
+              3202.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Manufacturers, vendors, and designated representatives.
+            </head>
+          </npcatch>
+          <text>
+             The requirements in this part apply to all manufacturers and
+            vendors, and their designated representatives, who wish to
+            participate in the USDA voluntary labeling program for biobased
+            products. Manufacturers and vendors wishing to participate in the
+            voluntary labeling program are required to obtain and maintain
+            product certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Other entities.
+            </head>
+          </npcatch>
+          <text>
+             The requirements in this part apply to other entities who wish to
+            use the certification mark in promoting the sales or the public
+            awareness of certified biobased products.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16360'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.4
+      </extid>
+      <num st='1'>
+        3202.4
+      </num>
+      <head>
+        Criteria for product eligibility to use the certification mark.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          76 FR 3806
+        </aref>
+        , Jan. 20, 2011. Redesignated and amended at 
+        <aref type='FREGIST'>
+          76 FR 53632
+        </aref>
+        , Aug. 29, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='4' psec='' tq='N'>
+              3202.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Criteria for product eligibility to use the certification mark.
+        </SUBJECT>
+        <P>
+          A product must meet each of the criteria specified in paragraphs (a)
+          and (b) of this section in order to be eligible to receive biobased
+          product certification.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Biobased product.
+            </head>
+          </npcatch>
+          <text>
+             The product for which certification is sought must be a biobased
+            product as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='2' psec='' tq='N'>
+                3202.2
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Minimum biobased content.
+            </head>
+          </npcatch>
+          <text>
+             The biobased content of the product must 
+            <PRTPAGE P='319' />
+            be equal to or greater than the applicable minimum biobased content,
+            as described in paragraphs (b)(1) through (b)(4) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              BioPreferred Products—
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+            <head>
+              Product is within a single product category.
+            </head>
+          </npcatch>
+          <text>
+             If the product is within a single product category that, at the
+            time the application for certification is submitted, has been
+            designated by USDA for Federal preferred procurement, the applicable
+            minimum biobased content is the minimum biobased content specified
+            for the item as found in subpart B of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3201' tq='N'>
+                3201
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Product is within multiple product categories.
+            </head>
+          </npcatch>
+          <text>
+             If a biobased product is marketed within more than one product
+            category identified for preferred Federal purchasing, uses the same
+            packaging for each product, and the applicant seeks certification of
+            the product, the product&apos;s biobased content must meet or exceed
+            the specified minimum biobased content for each of the applicable
+            product categories in order to use the certification mark on the
+            product. However, if the manufacturer packages the product
+            differently for each product category, then the applicable minimum
+            biobased contents are those established under paragraph (b)(1)(i) of
+            this section for each product category for which the applicant seeks
+            to use the certification mark.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Finished biobased products that are not BioPreferred Products.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If the product is not an intermediate ingredient or feedstock, and
+            is not within a product category eligible for Federal preferred
+            procurement at the time the application for certification is
+            submitted, the applicable minimum biobased content is 25 percent.
+            Manufacturers, vendors, groups of manufacturers and/or vendors, and
+            trade associations may propose an alternative applicable minimum
+            biobased content for the product by developing, in consultation with
+            USDA, and conducting an analysis to support the proposed alternative
+            applicable minimum biobased content. If approved by USDA, the
+            proposed alternative applicable minimum biobased content would
+            become the applicable minimum biobased content for the product to be
+            labeled.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If a product certified under paragraph (b)(2)(i) of this section is
+            within a product category that USDA subsequently designates for
+            Federal preferred procurement, the applicable minimum biobased
+            content shall become, as of the effective date of the final
+            designation rule, the minimum biobased content specified for the
+            item as found in subpart B of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3201' tq='N'>
+                3201
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Products that are intermediate ingredients or feedstocks.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If the product is an intermediate ingredient or feedstock that is
+            not eligible for Federal preferred procurement at the time the
+            application for certification is submitted, the applicable minimum
+            biobased content is 25 percent. Manufacturers, vendors, groups of
+            manufacturers and/or vendors, and trade associations may propose an
+            alternative applicable minimum biobased content for the product by
+            developing, in consultation with USDA, and conducting an analysis to
+            support the proposed alternative applicable minimum biobased
+            content. If approved by USDA, the proposed alternative applicable
+            minimum biobased content would become the applicable minimum
+            biobased content for the intermediate ingredient or feedstock
+            product to be labeled.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If a product certified under paragraph (b)(3)(i) of this section is
+            within a category that USDA subsequently designates for Federal
+            preferred procurement, the applicable minimum biobased content shall
+            become, as of the effective date of the final designation rule, the
+            minimum biobased content specified for the item as found in subpart
+            B of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3201' tq='N'>
+                3201
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            76 FR 3806
+          </aref>
+          , Jan. 20, 2011. Redesignated and amended at 
+          <aref type='FREGIST'>
+            76 FR 53632
+          </aref>
+          , Aug. 29, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='16361'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.5
+      </extid>
+      <num st='1'>
+        3202.5
+      </num>
+      <head>
+        Initial approval process.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          76 FR 3806
+        </aref>
+        , Jan. 20, 2011. Redesignated and amended at 
+        <aref type='FREGIST'>
+          76 FR 53632
+        </aref>
+        , Aug. 29, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='5' psec='' tq='N'>
+              3202.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Initial approval process.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Application.
+            </head>
+          </npcatch>
+          <text>
+             Manufacturers and vendors seeking USDA approval to use the
+            certification mark for an eligible biobased product must submit a
+            USDA-approved application for each biobased product. A standardized
+            application form and instructions are available on the USDA
+            BioPreferred Program Web site (
+            <E T='03'>
+              http://www.biopreferred.gov
+            </E>
+            ). The contents of an acceptable application are as specified in
+            paragraphs (a)(1) through (a)(4) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              General content.
+            </head>
+          </npcatch>
+          <text>
+             The applicant must provide contact information and 
+            <PRTPAGE P='320' />
+            product information including all brand names or other identifying
+            information, biobased content and testing documentation, intended
+            uses, and, if applicable, the corresponding product category
+            classification for Federal preferred procurement. The applicant must
+            attach to the application documentation demonstrating that the
+            reported biobased content was tested by a third-party testing entity
+            that is ISO 9001 conformant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Certifications.
+            </head>
+          </npcatch>
+          <text>
+             The applicant must certify in the application that the product for
+            which use of the certification mark is sought is a biobased product
+            as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='2' psec='' tq='N'>
+                3202.2
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Commitments.
+            </head>
+          </npcatch>
+          <text>
+             The applicant must sign a statement in the application that commits
+            the applicant to submitting to USDA the information specified in
+            paragraph (c)(1) through (c)(4) of this section, which USDA will
+            post to the USDA BioPreferred Program Web site, and to providing
+            USDA with up-to-date information for posting on this Web site.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Application fee.
+            </head>
+          </npcatch>
+          <text>
+             Effective (date to be added after authority to collect fee is
+            granted), applicants must submit an application fee of $500 with
+            each completed application for certification. Instructions for
+            submitting the application fee are available on the USDA
+            BioPreferred Program Web site (
+            <E T='03'>
+              http://www.biopreferred.gov
+            </E>
+            ), along with the application form and instructions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Evaluation of applications.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             USDA will evaluate each application to determine if it contains the
+            information specified in paragraph (a) of this section. If USDA
+            determines that the application is not complete, USDA will return
+            the application to the applicant with an explanation of its
+            deficiencies. Once the deficiencies have been addressed, the
+            applicant may resubmit the application, along with a cover letter
+            explaining the changes made, for re-evaluation by USDA. USDA will
+            evaluate resubmitted applications separately from first-time
+            applications, and those with the earliest original application
+            submittal date will be given first priority.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             USDA will evaluate each complete application to determine
+            compliance with the criteria specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='4' psec='' tq='N'>
+                3202.4
+              </subref>
+            </aref>
+            . USDA will provide a written response to each applicant within 60
+            days after the receipt of a complete application, informing the
+            applicant of whether the application has been conditionally approved
+            or has been disapproved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             For those applications that are conditionally approved, a notice of
+            certification, as specified in paragraph (c) of this section, must
+            be issued before the use of the certification mark can begin.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             For those applications that are disapproved, USDA will issue a
+            notice of denial of certification and will inform the applicant in
+            writing of each criterion not met. Applicants who receive a notice
+            of denial of certification may appeal using the procedures specified
+            in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='6' psec='' tq='N'>
+                3202.6
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Notice of certification.
+            </head>
+          </npcatch>
+          <text>
+             After notification that its application has been conditionally
+            approved, the applicant must provide to USDA (for posting by USDA on
+            the USDA BioPreferred Program Web site) the information specified in
+            paragraphs (c)(1) through (c)(4) of this section. Once USDA confirms
+            that the information is received and complete, USDA will issue a
+            notice of certification to the applicant. Upon receipt of a notice
+            of certification, the applicant may begin using the certification
+            mark on the certified biobased product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The product&apos;s brand name(s), or other identifying information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Contact information, including the name, mailing address, email
+            address, and telephone number of the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The biobased content of the product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A hot link directly to the applicant&apos;s Web site (if
+            available).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Term of certification.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The effective date of certification is the date that the applicant
+            receives a notice of certification from USDA. Except as specified in
+            paragraphs (d)(2)(i) through (d)(2)(iii) of this section,
+            certifications will remain in effect as long as the product is
+            manufactured and marketed in accordance with the approved
+            application and the requirements of this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <npcatch lev='3' id='d_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If the product formulation of a certified product is changed such
+            that 
+            <PRTPAGE P='321' />
+            the biobased content of the product is reduced to a level below that
+            reported in the approved application, the existing certification
+            will not be valid for the product under the revised conditions and
+            the manufacturer or vendor, as applicable, and its designated
+            representatives must discontinue affixing the certification mark to
+            the product and must not initiate any further advertising of the
+            product using the certification mark. USDA will consider a product
+            under such revised conditions to be a reformulated product, and the
+            manufacturer or vendor, as applicable, must submit a new application
+            for certification using the procedures specified in paragraph (a) of
+            this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If the product formulation of a certified product is changed such
+            that the biobased content of the product is increased from the level
+            reported in the approved application, the existing certification
+            will continue to be valid for the product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicable required minimum biobased content for a product
+            to be eligible to display the certification mark is revised by USDA,
+            manufacturers and vendors may continue to label their previously
+            certified product only if it meets the new minimum biobased content
+            level. In those cases where the biobased content of a certified
+            product fails to meet the new minimum biobased content level, USDA
+            will notify the manufacturer or vendor that their certification is
+            no longer valid. Such manufacturers and vendors must increase the
+            biobased content of their product to a level at or above the new
+            minimum biobased content level and must re-apply for certification
+            within 60 days if they wish to continue to use the certification
+            mark. Manufacturers and vendors who have re-applied for
+            certification may continue using the existing certification mark
+            until they receive notification from USDA on the results of their
+            re-application for certification.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            76 FR 3806
+          </aref>
+          , Jan. 20, 2011. Redesignated and amended at 
+          <aref type='FREGIST'>
+            76 FR 53632
+          </aref>
+          , Aug. 29, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='16362'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.6
+      </extid>
+      <num st='1'>
+        3202.6
+      </num>
+      <head>
+        Appeal processes.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          76 FR 3806
+        </aref>
+        , Jan. 20, 2011. Redesignated and amended at 
+        <aref type='FREGIST'>
+          76 FR 53632
+        </aref>
+        , Aug. 29, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='6' psec='' tq='N'>
+              3202.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeal processes.
+        </SUBJECT>
+        <P>
+          An applicant for certification may appeal a notice of denial of
+          certification to the Program Manager. Entities that have received a
+          notice of violation, and manufacturers and vendors of certified
+          biobased products who have received a notice of suspension or
+          revocation, may appeal to the Program Manager.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Appeals to the Program Manager must be filed within 30 days of
+            receipt by the appellant of a notice of denial of certification, a
+            notice of violation, a notice of suspension, or a notice of
+            revocation. Appeals must be filed in writing and addressed to:
+            Program Manager, USDA Voluntary Labeling Program for Biobased
+            Products, Room 361, Reporters Building, 300 Seventh Street, SW.,
+            Washington, DC 20024.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All appeals must include a copy of the adverse decision and a
+            statement of the appellant&apos;s reasons for believing that the
+            decision was not made in accordance with applicable program
+            regulations, policies, or procedures, or otherwise was not proper.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If the Program Manager sustains an applicant&apos;s appeal of a
+            notice of denial of certification, USDA will issue a notice of
+            certification to the applicant for its biobased product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the Program Manager sustains a manufacturer&apos;s or
+            vendor&apos;s appeal of a notice of violation, USDA will rescind the
+            notice and no further action will be taken by USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the Program Manager sustains a manufacturer&apos;s or
+            vendor&apos;s appeal of a notice of suspension, the manufacturer,
+            vendor, and their designated representative(s) may immediately
+            resume affixing the certification mark to the certified biobased
+            product and USDA will reinstate the product&apos;s information to
+            the USDA BioPreferred Program Web site.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If the Program Manager sustains a manufacturer&apos;s or
+            vendor&apos;s appeal of a notice of revocation, the manufacturer or
+            vendor, and its designated representatives may immediately resume
+            affixing the certification mark to the certified biobased product
+            and sell and distribute the certified biobased product with the
+            certification mark. In addition, USDA will reinstate the
+            product&apos;s information to the USDA BioPreferred Program Web
+            site.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the Program Manager sustains a manufacturer&apos;s or
+            vendor&apos;s appeal of its product&apos;s exclusion from the
+            program, the manufacturers or vendors 
+            <PRTPAGE P='322' />
+            may then apply for certification to use the certification mark on
+            that product, as specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='5' psec='#a' tq='N'>
+                3202.5(a)
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Appeals of any of the Program Manager&apos;s decisions may be made
+            to the USDA Assistant Secretary for Administration. Appeals must be
+            made, in writing, within 30 days of receipt of the Program
+            Manager&apos;s decision and addressed to: Assistant Secretary for
+            Administration, Room 209A, Whitten Building, 1400 Independence
+            Avenue, SW., Washington, DC 20250-0103. If the Assistant Secretary
+            for Administration sustains an appeal, the provisions of paragraph
+            (b) of this section will apply.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            76 FR 3806
+          </aref>
+          , Jan. 20, 2011. Redesignated and amended at 
+          <aref type='FREGIST'>
+            76 FR 53632
+          </aref>
+          , Aug. 29, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='16363'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.7
+      </extid>
+      <num st='1'>
+        3202.7
+      </num>
+      <head>
+        Requirements associated with the certification mark.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='7' psec='' tq='N'>
+              3202.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requirements associated with the certification mark.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Who may use the certification mark?
+            </head>
+          </npcatch>
+          <text />
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Manufacturers and vendors.
+            </head>
+          </npcatch>
+          <text>
+             Only manufacturers and vendors who have received a notice of
+            certification, or designated representatives of the manufacturer or
+            vendor, may affix the official certification mark (in one of the
+            three variations, as applicable) to the product or its packaging. A
+            manufacturer or vendor who has received a notice of certification
+            for a product under this part:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             May use the certification mark on the product, its packaging, and
+            other related materials including, but not limited to,
+            advertisements, catalogs, specification sheets, procurement
+            databases, promotional material, Web sites, or user manuals for that
+            product, according to the requirements set forth in this section;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Is responsible for the manner in which the mark is used by its
+            companies, as well as its designated representatives, including
+            advertising agencies, marketing and public relations firms and
+            subcontractors.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Other entities.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Other entities may use the mark to advertise or promote certified
+            biobased products in materials including, but not limited to,
+            advertisements, catalogs, procurement databases, Web sites, and
+            promotional and educational materials, as long as the manufacturer
+            or vendor of the product, or one of their designated
+            representatives, has affixed the mark to the product or its
+            packaging.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Other entities may use the certification mark; the phrase “USDA
+            Certified Biobased Product/Package/Product &amp; Package,” as
+            applicable; and the BioPreferred Program name in general statements
+            as described in paragraph (b) of this section, as long as the
+            statements do not imply that a non-certified biobased product is
+            certified.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Correct usage of the certification mark.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark can be affixed only to certified biobased
+            products and their associated packaging.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark may be used in material including, but not
+            limited to, advertisements, catalogs, procurement databases, Web
+            sites, and promotional and educational materials to distinguish
+            products that are certified for use of the label from those that are
+            not certified. The certification mark may be used in advertisements
+            for both certified biobased products and non-certified/labeled
+            products if the advertisement clearly indicates which products are
+            certified/labeled. Care must be taken to avoid implying that any
+            non-certified products are certified.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark may be used without reference to a specific
+            certified biobased product only when informing the public about the
+            purpose of the certification mark. For example, the following or
+            similar claim is acceptable: “Look for the `USDA Certified Biobased
+            Product&apos; certification mark. It means that the product meets
+            USDA standards for the amount of biobased content and the
+            manufacturer or vendor has provided relevant information on the
+            product to be posted on the USDA BioPreferred Program Web site.”
+            This exception allows manufacturers, vendors, and other entities to
+            use the certification mark in documents such as corporate reports,
+            but only in an informative manner, not as a statement of product
+            certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark may appear next to a picture of the
+            product(s) or text describing it.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark must stand alone and not be incorporated
+            into any other certification mark or logo designs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark may be used as a watermark provided the use 
+            <PRTPAGE P='323' />
+            does not violate any usage restrictions specified in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The text portion of the certification mark must be written in
+            English and may not be translated, even when the certification mark
+            is used outside of the United States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Incorrect usage of the certification mark.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used on any product that has
+            not been certified by USDA as a “USDA Certified Biobased Product.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used on any advertisements or
+            informational materials where both certified biobased products and
+            non-certified products are shown unless it is clear that the
+            certification mark applies to only the certified biobased
+            product(s).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used to imply endorsement by
+            USDA or the BioPreferred Program of any particular product, service,
+            or company.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used in any form that could be
+            misleading to the consumer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used by manufacturers or
+            vendors of certified products in a manner disparaging to USDA or any
+            other government body.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used with an altered
+            certification mark or incorporated into other label or logo designs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used on business cards, company
+            letterhead, or company stationery.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used in, or as part of, any
+            company name, logo, product name, service, or Web site, except as
+            may be provided for in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be used in a manner that violates
+            any of the applicable requirements contained in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Imported products.
+            </head>
+          </npcatch>
+          <text>
+             The certification mark can be used only with a product that is
+            certified by USDA under this part. The certification mark cannot be
+            used to imply that a product meets or exceeds the requirements of
+            biobased programs in other countries. Products imported for sale in
+            the U.S. must adhere to the same guidelines as U.S.-sourced biobased
+            products. Any product sold in the U.S. as a “USDA Certified Biobased
+            Product/Package/Product &amp; Package” must have received
+            certification from USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Contents of the certification mark.
+            </head>
+          </npcatch>
+          <text>
+             The certification mark shall consist of the certification mark
+            artwork, the biobased content percentage, and one of the three
+            variations of text specified in paragraphs (e)(1) through (e)(3) of
+            this section, as applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             USDA Certified Biobased Product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             USDA Certified Biobased Product: Package.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             USDA Certified Biobased Product &amp; Package.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Physical aspects of the certification mark.
+            </head>
+          </npcatch>
+          <text>
+             The certification mark artwork may not be altered, cut, separated
+            into components, or distorted in appearance or perspective.
+            Certification marks that are applied to biobased products that have
+            been designated for preferred Federal procurement will include the
+            letters “FP” as part of the certification mark artwork. The
+            certification mark must appear only in the colors specified in
+            paragraphs (f)(1) through (f)(3) of this section, unless approval is
+            given by USDA for an exception.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A multi-color version of the certification mark is preferred. The
+            certification mark colors to be applied will be stipulated in the
+            “Marketing Guides” document available on the USDA BioPreferred
+            Program Web site (
+            <E T='03'>
+              http://www.biopreferred.gov
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A one-color version of the certification mark may be substituted
+            for the multi-color version as long as the one color used is one of
+            the multi-color choices reapplied without modification. Further
+            guidance on the one-color certification mark application will also
+            be detailed in the “Marketing Guides.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A black and white version of the certification mark is acceptable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Placement of the certification mark.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark can appear directly on a product, its
+            associated packaging, in user manuals, and in other materials
+            including, but not limited to, advertisements, catalogs, procurement
+            databases, and promotional and educational materials.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark shall not be placed in a manner that is
+            ambiguous about which product is a certified 
+            <PRTPAGE P='324' />
+            biobased product or that could indicate certification of a
+            non-certified product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             When used to distinguish a certified biobased product in material
+            including, but not limited to, advertisements, catalogs, procurement
+            databases, Web sites, and promotional and educational materials, the
+            certification mark must appear near a picture of the product or the
+            text describing it.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If all products on a page are certified biobased products, the
+            certification mark may be placed anywhere on the page.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If a page contains a mix of certified biobased products and
+            non-certified products, the certification mark shall be placed in
+            close proximity to the certified biobased products. An individual
+            certification mark near each certified biobased product may be
+            necessary to avoid confusion.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Minimum size and clear space recommendations for the certification
+              mark.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The certification mark may be sized to fit the individual
+            application as long as the correct proportions are maintained and
+            the certification mark remains legible.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A border of clear space must surround the certification mark and
+            must be of sufficient width to offset it from surrounding images and
+            text and to avoid confusion. If the certification mark&apos;s color
+            is similar to the background color of the product or packaging, the
+            certification mark in a contrasting (
+            <E T='03'>
+              i.e.
+            </E>
+            , black, white) color may be used.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Where to obtain copies of the certification mark artwork.
+            </head>
+          </npcatch>
+          <text>
+             The certification mark artwork is available at the USDA
+            BioPreferred Program Web site 
+            <E T='03'>
+              http://www.biopreferred.gov
+            </E>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16364'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.8
+      </extid>
+      <num st='1'>
+        3202.8
+      </num>
+      <head>
+        Violations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          76 FR 3806
+        </aref>
+        , Jan. 20, 2011. Redesignated and amended at 
+        <aref type='FREGIST'>
+          76 FR 53632
+        </aref>
+        , Aug. 29, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='8' psec='' tq='N'>
+              3202.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Violations.
+        </SUBJECT>
+        <P>
+          This section identifies the types of actions that USDA considers
+          violations under this part and the penalties (e.g., the suspension or
+          revocation of certification) associated with such violations.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Violations under this section occur on a per product basis and the
+            penalties are to be applied on a per product basis. Entities cited
+            for a violation under this section may appeal using the provisions
+            in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='6' psec='' tq='N'>
+                3202.6
+              </subref>
+            </aref>
+            . If certification for a product is revoked, the manufacturer or
+            vendor whose certification has been revoked may seek
+            re-certification for the product using the procedures specified
+            under the provisions in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='5' psec='' tq='N'>
+                3202.5
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Types of violations.
+            </head>
+          </npcatch>
+          <text>
+             Actions that will be considered violations of this part include,
+            but are not limited to, the following specific examples:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Biobased content violations.
+            </head>
+          </npcatch>
+          <text>
+             The Program Manager will utilize occasional random testing of
+            certified biobased products to compare the biobased content of the
+            tested product with the product&apos;s applicable minimum biobased
+            content and the biobased content reported by the manufacturer or
+            vendor in its approved application. Such testing will be conducted
+            using ASTM Method D6866. USDA will provide a copy of the results of
+            its testing to the applicable manufacturer or vendor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If USDA testing shows that the biobased content of a certified
+            biobased product is less than its applicable minimum biobased
+            content, then a violation of this part will have occurred.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If USDA testing shows that the biobased content is less than that
+            reported by the manufacturer or vendor in its approved application,
+            but is still equal to or greater than its applicable minimum
+            biobased content(s), USDA will provide written notification to the
+            manufacturer or vendor. The manufacturer or vendor must submit,
+            within 90 days from receipt of USDA written notification, a new
+            application for the lower biobased content. Failure to submit a new
+            application within 90 days will be considered a violation of this
+            part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             The manufacturer or vendor can submit in the new application the
+            biobased content reported to it by USDA in the written notification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Alternatively, the manufacturer or vendor may elect to retest the
+            product in question and submit the results of the retest in the new
+            application. If the manufacturer or vendor elects to retest the
+            product, it must test a sample of the current product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Certification mark violations.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Any usage or display of the certification mark that does not
+            conform to the requirements specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='7' psec='' tq='N'>
+                3202.7
+              </subref>
+            </aref>
+            .
+            <PRTPAGE P='325' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Affixing the certification mark to any product prior to issuance of
+            a notice of certification from USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Affixing the certification mark to a certified biobased product
+            during periods when certification has been suspended or revoked.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Application violations.
+            </head>
+          </npcatch>
+          <text>
+             Knowingly providing false or misleading information in any
+            application for certification of a biobased product constitutes a
+            violation of this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              USDA BioPreferred Program Web site violations.
+            </head>
+          </npcatch>
+          <text>
+             Failure to provide to USDA updated information when the information
+            for a certified biobased product becomes outdated or when new
+            information for a certified biobased product becomes available
+            constitutes a violation of this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Notice of violations and associated actions.
+            </head>
+          </npcatch>
+          <text>
+             USDA will provide the applicable manufacturer or vendor or their
+            designated representatives and any involved other entity known to
+            USDA written notification of any violations identified by USDA. USDA
+            will first issue a preliminary notice that apparent violations have
+            been identified. If satisfactory resolution of the apparent
+            violation is not reached within 30 days from receipt of the
+            preliminary notice, USDA will issue a notice of violation. Entities
+            who receive a notice of violation for a biobased content violation
+            must correct the violation(s) within 90 days from receipt of the
+            notice of violation. Entities who receive a notice of violation for
+            other types of violations also must correct the violation(s) within
+            90 days from receipt of the notice of violation. If the entity
+            receiving a notice of violation is a manufacturer, a vendor, or a
+            designated representative of a manufacturer or vendor, USDA will
+            pursue notices of suspensions and revocation, as discussed in
+            paragraphs (c)(1) and (c)(2) of this section. USDA reserves the
+            right to further pursue action against these entities as provided
+            for in paragraph (c)(3) of this section. If the entity receiving a
+            notice of violation is an “other entity” (
+            <E T='03'>
+              i.e.,
+            </E>
+             not a manufacturer, vendor, or designated representative), then
+            USDA will pursue action according to paragraph (c)(3) of this
+            section. Entities that receive notices of suspension or revocation
+            may appeal such notices using the procedures specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='6' psec='' tq='N'>
+                3202.6
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Suspension.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='c_1_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If a violation is applicable to a manufacturer, vendor, or
+            designated representative and the applicable entity fails to make
+            the required corrections within 90 days of receipt of a notice of
+            violation, USDA will notify the manufacturer or vendor, as
+            appropriate, of the continuing violation, and the USDA certification
+            for that product will be suspended. As of the date that the
+            manufacturer or vendor receives a notice of suspension, the
+            manufacturer or vendor and their designated representatives must not
+            affix the certification mark to any of that product, or associated
+            packaging, not already labeled and must not distribute any
+            additional products bearing the certification mark. USDA will both
+            remove the product information from the USDA BioPreferred Program
+            Web site and actively communicate the product suspension to buyers
+            in a timely and overt manner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If, within 30 days from receipt of the notice of suspension, the
+            manufacturer or vendor whose USDA product certification has been
+            suspended makes the required corrections and notifies USDA that the
+            corrections have been made, the manufacturer or vendor and their
+            designated representatives may, upon receipt of USDA approval of the
+            corrections, resume use of the certification mark. USDA will also
+            restore the product information to the USDA BioPreferred Program Web
+            site.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Revocation.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If a manufacturer or vendor whose USDA product certification has
+            been suspended fails to make the required corrections and notify
+            USDA of the corrections within 30 days of the date of the
+            suspension, USDA will notify the manufacturer or vendor that the
+            certification for that product is revoked.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             As of the date that the manufacturer or vendor receives the notice
+            revoking USDA certification, the manufacturer or vendor and their
+            designated representatives must not affix the certification mark to
+            any of that product not already labeled. In addition, the
+            manufacturer or vendor and their designated representatives are
+            prohibited from further sales of product to which the certification
+            mark is affixed.
+            <PRTPAGE P='326' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             If a manufacturer or vendor whose product certification has been
+            revoked wishes to use the certification mark, the manufacturer or
+            vendor must follow the procedures required for original
+            certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Other remedies.
+            </head>
+          </npcatch>
+          <text>
+             In addition to the suspension or revocation of the certification to
+            use the label, depending on the nature of the violation, USDA may
+            pursue suspension or debarment of the entities involved in
+            accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3017' tq='N'>
+                3017
+              </subref>
+            </aref>
+            . USDA further reserves the right to pursue any other remedies
+            available by law, including any civil or criminal remedies, against
+            any entity that violates the provisions of this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            76 FR 3806
+          </aref>
+          , Jan. 20, 2011. Redesignated and amended at 
+          <aref type='FREGIST'>
+            76 FR 53632
+          </aref>
+          , Aug. 29, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='16365'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.9
+      </extid>
+      <num st='1'>
+        3202.9
+      </num>
+      <head>
+        Recordkeeping requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='9' psec='' tq='N'>
+              3202.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recordkeeping requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Records.
+            </head>
+          </npcatch>
+          <text>
+             Manufacturers and vendors shall maintain records documenting
+            compliance with this part for each product that has received
+            certification to use the label, as specified in paragraphs (a)(1)
+            through (a)(3) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The results of all tests, and any associated calculations,
+            performed to determine the biobased content of the product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The date the applicant receives certification from USDA, the dates
+            of changes in formulation that affect the biobased content of
+            certified biobased products, and the dates when the biobased content
+            of certified biobased products was tested.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Documentation of analyses performed by manufacturers to support
+            claims of environmental or human health benefits, life cycle cost,
+            sustainability benefits, and product performance made by the
+            manufacturer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Record retention.
+            </head>
+          </npcatch>
+          <text>
+             For each certified biobased product, records kept under paragraph
+            (a) of this section must be maintained for at least three years
+            beyond the end of the label certification period (
+            <E T='03'>
+              i.e.,
+            </E>
+             three years beyond the period of time when manufacturers and
+            vendors cease using the certification mark). Records may be kept in
+            either electronic format or hard copy format. All records kept in
+            electronic format must be readily accessible, and/or provided by
+            request during a USDA audit.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16366'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3202:-:3202.10
+      </extid>
+      <num st='1'>
+        3202.10
+      </num>
+      <head>
+        Oversight and monitoring.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          76 FR 3806
+        </aref>
+        , Jan. 20, 2011. Redesignated and amended at 
+        <aref type='FREGIST'>
+          76 FR 53632
+        </aref>
+        , Aug. 29, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3202' sect='10' psec='' tq='N'>
+              3202.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Oversight and monitoring.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             USDA will conduct oversight and monitoring of manufacturers,
+            vendors, designated representatives, and other entities involved
+            with the voluntary product labeling program to ensure compliance
+            with this part. This oversight will include, but not be limited to,
+            conducting facility visits of manufacturers and vendors who have
+            certified biobased products, and of their designated
+            representatives. Manufacturers, vendors, and their designated
+            representatives are required to cooperate fully with all USDA audit
+            efforts for the enforcement of the voluntary labeling program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Biobased content testing.
+            </head>
+          </npcatch>
+          <text>
+             USDA will conduct biobased content testing of certified biobased
+            products, as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='8' psec='#b_1' tq='N'>
+                3202.8(b)(1)
+              </subref>
+            </aref>
+             to ensure compliance with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Inspection of records.
+            </head>
+          </npcatch>
+          <text>
+             Manufacturers, vendors, and their designated representatives must
+            allow Federal representatives access to the records required under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3202' sect='9' psec='' tq='N'>
+                3202.9
+              </subref>
+            </aref>
+             for inspection and copying during normal Federal business hours.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            76 FR 3806
+          </aref>
+          , Jan. 20, 2011. Redesignated and amended at 
+          <aref type='FREGIST'>
+            76 FR 53632
+          </aref>
+          , Aug. 29, 2011]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

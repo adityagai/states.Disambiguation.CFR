@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol4'>
+    <extid>
+      lii:cfr:2013:7:0:B:II:C:285
+    </extid>
+    <num>
+      285
+    </num>
+    <head>
+      PROVISION OF A NUTRITION ASSISTANCE GRANT FOR THE COMMONWEALTH OF PUERTO
+      RICO
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='2011-203' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2011-203.html'>
+              7 U.S.C. 2011-203
+            </subref>
+          </aref>
+          6.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          Amdt. 209, 
+          <aref type='FREGIST'>
+            47 FR 32409
+          </aref>
+          , July 27, 1982, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='5042'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:285:-:285.1
+      </extid>
+      <num st='1'>
+        285.1
+      </num>
+      <head>
+        General purpose and scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='285' sect='1' psec='' tq='N'>
+              285.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General purpose and scope.
+        </SUBJECT>
+        <P>
+          This part describes the general terms and conditions under which grant
+          funds shall be provided by the Food and Nutrition Service (FNS) to the
+          government of the Commonwealth of Puerto Rico for the purpose of
+          designing and conducting a nutrition assistance program for needy
+          persons. The Commonwealth of Puerto Rico is authorized to establish
+          eligibility and benefit levels for the nutrition assistance program.
+          In addition, with FNS approval, the Commonwealth of Puerto Rico may
+          employ a small proportion of the grant funds to finance projects that
+          the Commonwealth of Puerto Rico believes likely to improve or
+          stimulate agriculture, food production, and food distribution.
+        </P>
+      </contents>
+    </section>
+    <section orderid='5043'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:285:-:285.2
+      </extid>
+      <num st='1'>
+        285.2
+      </num>
+      <head>
+        Funding.
+      </head>
+      <citation>
+        [Amdt. 209, 
+        <aref type='FREGIST'>
+          47 FR 32409
+        </aref>
+        , July 27, 1982, as amended by Amdt. 243, 
+        <aref type='FREGIST'>
+          49 FR 49585
+        </aref>
+        , Dec. 21, 1984; Amdt. 274, 
+        <aref type='FREGIST'>
+          51 FR 18752
+        </aref>
+        , May 21, 1986; Amdt. 371, 
+        <aref type='FREGIST'>
+          61 FR 60012
+        </aref>
+        , Nov. 26, 1996]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='285' sect='2' psec='' tq='N'>
+              285.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Funding.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             FNS shall, consistent with the plan of operation required by 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='285' sect='3' psec='' tq='N'>
+                285.3
+              </subref>
+               of this part
+            </aref>
+            , and subject to availability of funds, provide nutrition assistance
+            grant funds to the Commonwealth of Puerto Rico to cover 100 percent
+            of the expenditures related to food assistance provided to needy
+            persons and 50 percent of the administrative expenses related to the
+            food assistance. The amount of the grant funds provided to the
+            Commonwealth of Puerto Rico shall not exceed amounts appropriated
+            for this purpose for each fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             FNS shall, subject to the provisions in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='285' sect='3' psec='' tq='N'>
+                285.3
+              </subref>
+               and 
+              <subref title='7' part='285' sect='5' psec='' tq='N'>
+                285.5
+              </subref>
+            </aref>
+             in this part, and limited by the provisions of paragraph (a) of
+            this section, pay to the Commonwealth of Puerto Rico for the
+            applicable fiscal year, the amount estimated by the Commonwealth of
+            Puerto Rico pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='285' sect='3' psec='#b_4' tq='N'>
+                285.3(b)(4)
+              </subref>
+            </aref>
+            . Payments shall be made no less frequently than on a monthly basis
+            prior to the beginning of each month consistent with the Treasury
+            Fiscal Requirement Manual, Volume I, 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='6' tq='N'>
+                6
+              </subref>
+            </aref>
+            , 
+            <aref type='CFR-TIC-SECT'>
+              section 2030
+            </aref>
+            ; these letters of credit shall be drawn on an as-needed basis. The
+            amount shall be reduced or increased to the extent of any prior
+            overpayment or underpayment which FNS determines has been made and
+            which has not been previoulsy adjusted. The payment(s) received by
+            the Commonwealth of Puerto Rico for a fiscal year shall not exceed
+            the total authorized for the grant, or the total cost for the
+            nutrition assistance program eligible for funding, whichever is
+            less, for that fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             FNS may recover from the Commonwealth of Puerto Rico, through
+            offsets to funding during any fiscal year, funds previously paid to
+            the Commonwealth of Puerto Rico and later determined by the
+            Secretary to have been overpayments. Funds which may be recovered
+            include, but are not limited to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Costs not included in the approved plan of operation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Unallowable costs discovered in audit or investigation findings;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Funds allocated to the Commonwealth of Puerto Rico which exceeded
+            expenditures during the fiscal year for which the funds were
+            authorized; or
+            <PRTPAGE P='1059' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Amounts owed to FNS as a result of the nutrition assistance grant
+            which have been billed to the Commonwealth of Puerto Rico and which
+            the Commonwealth of Puerto Rico has failed to pay without cause
+            acceptable to FNS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Funds for payment of any prior fiscal year expenditures shall be
+            claimed from the funding for that prior year. The payment of funds
+            shall not exceed the authorization for that prior fiscal year.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 209, 
+          <aref type='FREGIST'>
+            47 FR 32409
+          </aref>
+          , July 27, 1982, as amended by Amdt. 243, 
+          <aref type='FREGIST'>
+            49 FR 49585
+          </aref>
+          , Dec. 21, 1984; Amdt. 274, 
+          <aref type='FREGIST'>
+            51 FR 18752
+          </aref>
+          , May 21, 1986; Amdt. 371, 
+          <aref type='FREGIST'>
+            61 FR 60012
+          </aref>
+          , Nov. 26, 1996]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5044'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:285:-:285.3
+      </extid>
+      <num st='1'>
+        285.3
+      </num>
+      <head>
+        Plan of operation.
+      </head>
+      <citation>
+        [Amdt. 209, 
+        <aref type='FREGIST'>
+          47 FR 32409
+        </aref>
+        , July 27, 1982, as amended by Amdt. 239, 
+        <aref type='FREGIST'>
+          48 FR 23805
+        </aref>
+        , May 27, 1983; Amdt. 243, 
+        <aref type='FREGIST'>
+          49 FR 49585
+        </aref>
+        , Dec. 21, 1984; Amdt. 274, 
+        <aref type='FREGIST'>
+          51 FR 18752
+        </aref>
+        , May 21, 1986; Amdt. 371, 
+        <aref type='FREGIST'>
+          61 FR 60012
+        </aref>
+        , Nov. 26, 1996]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='285' sect='3' psec='' tq='N'>
+              285.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Plan of operation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To receive payments for any fiscal year the Commonwealth of Puerto
+            Rico shall have a plan of operation for that fiscal year approved by
+            FNS. Each plan of operation shall be sumitted for FNS approval by
+            the July 1 preceding the fiscal year for which the plan of operation
+            is to be effective.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The plan of operation shall include the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Designation of the agency or agencies directly responsible for
+            administration, or supervision of the administration, of the
+            nutrition assistance program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the needy persons residing in the Commonwealth of
+            Puerto Rico and an assessment of the food and nutrition needs of
+            these persons. The description and assessment shall demonstrate that
+            the nutrition assistance program is directed toward the most needy
+            persons in the Commonwealth of Puerto Rico.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the program for nutrition assistance including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A general description of the nutrition assistance to be provided
+            the needy persons who will receive assistance, and any agencies
+            designated to provide such assistance; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             To the extent grant funds are not used for direct nutrition
+            assistance payments to needy persons, the plan of operation must
+            demonstrate that the grants funds will provide nutrition assistance
+            benefiting needy persons in the Commonwealth of Puerto Rico.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A budget and an estimate of the monthly amounts of expenditures
+            necessary for the provision of the nutrition assistance and related
+            administrative expenses up to the monthly amounts provided for
+            payment in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='285' sect='2' psec='' tq='N'>
+                285.2
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Other reasonably related information which FNS may request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             An agreement signed by the governor or other appropriate official
+            to conduct the nutrition assistance program in accordance with the
+            FNS-approved plan of operation and in compliance with all pertinent
+            Federal rules and regulations. The Commonwealth of Puerto Rico shall
+            also agree to comply with any changes in Federal law and
+            regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any amendments to those provisions of the plan of operation
+            specified in paragraph (b) of this section, must be submitted to FNS
+            for approval.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             FNS shall approve or disapprove any plan of operation no later than
+            August 1 of the year of its submission. FNS approval of the plan of
+            operation shall be based on an assessment that the nutrition
+            assistance program, as defined in the plan of operation, is:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Sufficient to permit analysis and review;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Reasonably targeted to the most needy persons as defined in the
+            plan of operation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Supported by an assessment of the food and nutrition needs of needy
+            persons;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Reasonable in terms of the funds requested;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Structured to include safeguards to prevent fraud, waste, and abuse
+            in the use of grant funds; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Consistent with all applicable Federal laws.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             FNS shall approve or disapprove any amendments to those provisions
+            of the plan of operation specified in paragraph (b) of this section.
+            If FNS fails either to approve or deny the amendment, or to request
+            additional information within 30 days, the amendment to the plan of
+            operation is approved. If additional information is requested, the
+            Commonwealth of Puerto Rico shall provide this as soon as possible,
+            and FNS shall approve or deny the amendment to the plan of
+            operation. Payment schedules and other program operations may not be
+            altered until an amendment to the plan of operation is 
+            <PRTPAGE P='1060' />
+            approved. The Commonwealth of Puerto Rico shall, for informational
+            purposes, submit to FNS any amendments to those provisions of the
+            plan of operation not specified in paragraph (b) of this section.
+            Such submittal shall be made at least 30 days prior to the effective
+            date of the amendment. If circumstances warrant a waiver of the
+            30-day requirement, the Commonwealth of Puerto Rico shall submit a
+            waiver request to FNS for consideration. Should FNS determine that
+            such an amendment relates to the provisions of paragraph (b) of this
+            section, FNS approval as established above will be necessary for the
+            amendment to be implemented.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             FNS may approve part of any plan of operation or amendment
+            submitted by the Commonwealth of Puerto Rico contingent on
+            appropriate action by the Commonwealth of Puerto Rico with respect
+            to the problem areas in the plan of operation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             If all or part of the plan of operation is disapproved, FNS shall
+            notify the appropriate agency in the Commonwealth of Puerto Rico of
+            the problem area(s) in the plan of operation and the actions
+            necessary to secure approval.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             In accordance with the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='285' sect='5' psec='' tq='N'>
+                285.5
+              </subref>
+            </aref>
+            , funds may be withheld or denied when all or part of a plan of
+            operation is disapproved.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 209, 
+          <aref type='FREGIST'>
+            47 FR 32409
+          </aref>
+          , July 27, 1982, as amended by Amdt. 239, 
+          <aref type='FREGIST'>
+            48 FR 23805
+          </aref>
+          , May 27, 1983; Amdt. 243, 
+          <aref type='FREGIST'>
+            49 FR 49585
+          </aref>
+          , Dec. 21, 1984; Amdt. 274, 
+          <aref type='FREGIST'>
+            51 FR 18752
+          </aref>
+          , May 21, 1986; Amdt. 371, 
+          <aref type='FREGIST'>
+            61 FR 60012
+          </aref>
+          , Nov. 26, 1996]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5045'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:285:-:285.4
+      </extid>
+      <num st='1'>
+        285.4
+      </num>
+      <head>
+        Audits.
+      </head>
+      <citation>
+        [Amdt. 209, 
+        <aref type='FREGIST'>
+          47 FR 32409
+        </aref>
+        , July 27, 1982. Redesignated by Amdt. 371, 
+        <aref type='FREGIST'>
+          61 FR 60013
+        </aref>
+        , Nov. 26, 1996]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='285' sect='4' psec='' tq='N'>
+              285.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Audits.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Commonwealth of Puerto Rico shall provide an audit of
+            expenditures in compliance with the requirements in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3015' tq='N'>
+                3015 of this title
+              </subref>
+            </aref>
+             at least once every two years. The findings of such audit shall be
+            reported to FNS no later than 120 days from the end of each fiscal
+            year in which the audit is made.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Within 120 days of the end of each fiscal year, the Commonwealth of
+            Puerto Rico shall provide FNS with a statement of: (1) Whether the
+            grant funds received for that fiscal year exceeded the valid
+            obligations made that year for which payment is authorized, and if
+            so, by how much, and (2) such additional related information as FNS
+            may require.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 209, 
+          <aref type='FREGIST'>
+            47 FR 32409
+          </aref>
+          , July 27, 1982. Redesignated by Amdt. 371, 
+          <aref type='FREGIST'>
+            61 FR 60013
+          </aref>
+          , Nov. 26, 1996]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5046'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:285:-:285.5
+      </extid>
+      <num st='1'>
+        285.5
+      </num>
+      <head>
+        Failure to comply.
+      </head>
+      <citation>
+        [Amdt. 209, 
+        <aref type='FREGIST'>
+          47 FR 32409
+        </aref>
+        , July 27, 1982. Redesignated by Amdt. 371, 
+        <aref type='FREGIST'>
+          61 FR 60013
+        </aref>
+        , Nov. 26, 1996]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='285' sect='5' psec='' tq='N'>
+              285.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Failure to comply.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Grant funds may be withheld in whole or in part, or denied if there
+            is a substantial failure by the Commonwealth of Puerto Rico to
+            comply with the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='285' sect='4' psec='' tq='N'>
+                285.4
+              </subref>
+            </aref>
+            , or to bring into compliance a plan of operation disapproved by
+            FNS, or to comply with program requirements detailed in the plan of
+            operation approved for that fiscal year. (For example, funds shall
+            be paid to the Commonwealth of Puerto Rico to cover only the costs
+            of the part or parts of the plan of operation receiving FNS
+            approval. Withheld payments shall be paid when the unapproved
+            part(s) of the plan are modified and approved.) FNS shall notify the
+            Commonwealth of Puerto Rico that further payments shall not be made
+            until FNS is satisfied that there will no longer be any such failure
+            to comply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Upon a finding of a substantial failure to comply with the
+            requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='285' sect='4' psec='' tq='N'>
+                285.4
+              </subref>
+            </aref>
+             or the plan of operation, FNS may, in addition to or in lieu of
+            actions taken in accordance with paragraph (a) of this section,
+            refer the matter to the Attorney General with a request that
+            injunctive relief be sought from the appropriate district court of
+            the United States to require compliance with these regulations by
+            the Commonwealth of Puerto Rico.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 209, 
+          <aref type='FREGIST'>
+            47 FR 32409
+          </aref>
+          , July 27, 1982. Redesignated by Amdt. 371, 
+          <aref type='FREGIST'>
+            61 FR 60013
+          </aref>
+          , Nov. 26, 1996]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

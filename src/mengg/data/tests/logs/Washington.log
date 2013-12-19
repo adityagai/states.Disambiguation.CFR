@@ -1,0 +1,19 @@
+------------------ Evaluation model for Washington ---------------------
+
+Number of attributes : 5757
+
+Correctly Classified Instances          37               92.5    %
+Incorrectly Classified Instances         3                7.5    %
+Kappa statistic                          0.85  
+Mean absolute error                      0.075 
+Root mean squared error                  0.2739
+Relative absolute error                 15      %
+Root relative squared error             54.7723 %
+Total Number of Instances               40     
+
+=========== Confusion Matrix ===================
+17.0|3.0|
+0.0|20.0|
+
+
+----------- ModelPath : C:\Users\Prasannjit Kumar\workspace\stateDisambiguation/src/mengg/data/tests/trainingModel/Washington.model

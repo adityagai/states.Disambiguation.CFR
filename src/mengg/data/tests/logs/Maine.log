@@ -1,0 +1,19 @@
+------------------ Evaluation model for Maine ---------------------
+
+Number of attributes : 1890
+
+Correctly Classified Instances          13               40.625  %
+Incorrectly Classified Instances        19               59.375  %
+Kappa statistic                         -0.1875
+Mean absolute error                      0.5938
+Root mean squared error                  0.7706
+Relative absolute error                117.8    %
+Root relative squared error            152.8237 %
+Total Number of Instances               32     
+
+=========== Confusion Matrix ===================
+10.0|6.0|
+13.0|3.0|
+
+
+----------- ModelPath : C:\Users\Prasannjit Kumar\workspace\stateDisambiguation/src/mengg/data/tests/trainingModel/Maine.model

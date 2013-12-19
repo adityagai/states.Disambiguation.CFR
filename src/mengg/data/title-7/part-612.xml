@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:B:612
+    </extid>
+    <num>
+      612
+    </num>
+    <head>
+      SNOW SURVEYS AND WATER SUPPLY FORECASTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=62_statutes2_at_large&amp;position=all&amp;page=653'>
+            26 Stat. 653
+          </aref>
+          ; 
+          <aref type='CFR-TIC-SECT'>
+            Sec. 8
+          </aref>
+          , Reorg. Plan No. IV of 1940, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=76_statutes2_at_large&amp;position=all&amp;page=1234'>
+            54 Stat. 1234
+          </aref>
+           (5 U.S.C. App. II); 
+          <aref type='FREGIST'>
+            5 FR 2421
+          </aref>
+          , 
+          <aref type='CFR'>
+            3 CFR 1938-1943
+          </aref>
+           Comp. P. 1288.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            40 FR 12067
+          </aref>
+          , Mar. 17, 1975, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6157'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:612:-:612.1
+      </extid>
+      <num st='1'>
+        612.1
+      </num>
+      <head>
+        Purpose and scope.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='457' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='612' sect='1' psec='' tq='N'>
+              612.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and scope.
+        </SUBJECT>
+        <P>
+          This part sets forth Natural Resources Conservation Service (NRCS)
+          policy and procedure for the administration of a cooperative snow
+          survey and water supply forecast program. The program provides
+          agricultural water users and other water management groups in the
+          western states area with water supply forecasts to enable them to plan
+          for efficient water management. The program also provides the public
+          and the scientific community with a data base that can be used to
+          accurately determine the extent of the now resource. The western
+          states area comprises Alaska, Arizona, California (east side of the
+          Sierra Nevada mountain range only), Colorado, Idaho, Montana, Nevada,
+          New Mexico, Oregon, Utah, Washington, and Wyoming.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6158'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:612:-:612.2
+      </extid>
+      <num st='1'>
+        612.2
+      </num>
+      <head>
+        Snow survey and water supply forecast activities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='612' sect='2' psec='' tq='N'>
+              612.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Snow survey and water supply forecast activities.
+        </SUBJECT>
+        <P>
+          To carry out the cooperative snow survey and water supply forecast
+          program, NRCS:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Establishes, maintains, and operates manual and automated snow
+            course and related hydro meteorological networks. Planning for such
+            networks is carried out in accordance with OMB Circular A-62.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Determines and provides information on the expected water supply,
+            including seasonal streamflow data. If pertinent and appropriate to
+            the needs of cooperators and not otherwise available to them, may
+            provide necessary interpretative analyses and forecasts required for
+            operation of water-control structures and/or agricultural
+            operations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             On request and to the extent NRCS resources and any required
+            cooperator contributions are available, establishes
+            hydrometeorological stations to cllect and provide data and
+            necessary interpretive analyses to the requesting party. By written
+            agreement NRCS may accept cooperators&apos; funds, materials,
+            equipment, and services for this purpose.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Develops and encourages use of new techniques and improving data
+            collection and processing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Cooperates with other federal, state, and local agencies,
+            organizations, and Canadian provinces and agencies.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6159'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:612:-:612.3
+      </extid>
+      <num st='1'>
+        612.3
+      </num>
+      <head>
+        Data collected and forecasts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='612' sect='3' psec='' tq='N'>
+              612.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Data collected and forecasts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Basic data are currently collected at numerous sites in the western
+            states area. Data sites generally include a snow course where both
+            snow depth and water equivalent of snow are measured. However,
+            special sites may measure only snow depth or water equivalent. Many
+            of these sites also provide related drometeorological data, such as
+            precipitation, temperature, humidity, solar tradiation, and wind.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Water supply forecasts in the western states area are generally
+            made monthly from January through June. Forecasts may be made more
+            frequently for an established need when data are available to NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6160'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:612:-:612.4
+      </extid>
+      <num st='1'>
+        612.4
+      </num>
+      <head>
+        Eligible individuals or groups.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='612' sect='4' psec='' tq='N'>
+              612.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible individuals or groups.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any individual or group who is a significant water user and who
+            would benefit from a water supply forecast may obtain forecasts from
+            NRCS on a regular basis provided data are available to NRCS to
+            develop a forecast at the desired location.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The program collects and interprets data as a service and an aid to
+            agricultural interests, particularly those served by or affiliated
+            with soil, water, and other conservation districts. Information
+            collected by NRCS for these agricutural users is also made available
+            to other Federal, State, and private agencies and to the general
+            public without charge. Cooperator financial contribution is usually
+            required for special measurements or interpretations beyond the
+            scope of the regular program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6161'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:612:-:612.5
+      </extid>
+      <num st='1'>
+        612.5
+      </num>
+      <head>
+        Dissemination of water supply forecasts and basic data.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='612' sect='5' psec='' tq='N'>
+              612.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Dissemination of water supply forecasts and basic data.
+        </SUBJECT>
+        <P>
+          Water supply outlook reports prepared by NRCS and its cooperators
+          containing water supply forecasts and basic data are usually issued
+          monthly by each NRCS state office in the western states area for the
+          months of January through June. Other reports jointly issued by NRCS
+          and its cooperators include a fall water supply summary, annual and
+          accumulative summaries of data, and a western states area report
+          covering water supply outlook.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6162'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:612:-:612.6
+      </extid>
+      <num st='1'>
+        612.6
+      </num>
+      <head>
+        Application for water supply forecast service.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='458' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='612' sect='6' psec='' tq='N'>
+              612.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for water supply forecast service.
+        </SUBJECT>
+        <P>
+          Requests for obtaining water supply forecasts or related assistance
+          may be directed to any NRCS office in the western states areas. NRCS
+          offices are described in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='600' tq='N'>
+              600 of this chapter
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='6163'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:612:-:612.7
+      </extid>
+      <num st='1'>
+        612.7
+      </num>
+      <head>
+        Forecast user responsibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='612' sect='7' psec='' tq='N'>
+              612.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Forecast user responsibility.
+        </SUBJECT>
+        <P>
+          The forecast user&apos;s obligation to the federal government is to
+          give appropriate credit and recognition to NRCS for information
+          furnished. The Federal Government does not assume any responsibility
+          for management decisions the user makes which may be based in whole or
+          part on information provided by NRCS.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

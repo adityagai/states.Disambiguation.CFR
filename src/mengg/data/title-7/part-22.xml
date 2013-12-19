@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol1'>
+    <extid>
+      lii:cfr:2013:7:0:A:-:-:22
+    </extid>
+    <num>
+      22
+    </num>
+    <head>
+      RURAL DEVELOPMENT COORDINATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Sec. 301, 80
+          </aref>
+           Stat. 379, 
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+           and delegations of authority by the Secretary of Agriculture, 
+          <aref type='FREGIST'>
+            38 FR 14944
+          </aref>
+          -14948, 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='23' psec='' tq='N'>
+              2.23
+            </subref>
+          </aref>
+          , as amended by 
+          <aref type='FREGIST'>
+            38 FR 24633
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            38 FR 29020
+          </aref>
+          , Oct. 18, 1973, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='770'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:A:22.101
+      </extid>
+      <num st='1'>
+        22.101
+      </num>
+      <head>
+        The Rural Development Act of 1972 (Pub. L. 92-419).
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='101' psec='' tq='N'>
+              22.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          The Rural Development Act of 1972 (Pub. L. 92-419).
+        </SUBJECT>
+        <P>
+          The Rural Development Act of 1972 (Pub. L. 92-419), herein called the
+          Act consists of six titles designed to facilitate the development of
+          rural communities through a series of authorizations including grants,
+          loans, and administrative provisions. This Act adds new statutory
+          rural development coordination responsibilities to certain Federal
+          departments and agencies to be carried out under the leadership of the
+          Secretary of Agriculture.
+        </P>
+      </contents>
+    </section>
+    <section orderid='771'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:A:22.102
+      </extid>
+      <num st='1'>
+        22.102
+      </num>
+      <head>
+        Summary of authorities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='102' psec='' tq='N'>
+              22.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Summary of authorities.
+        </SUBJECT>
+        <P>
+          The purpose of this section is to give notice that certain authorities
+          have been delegated by the Secretary of USDA agencies for
+          implementation. New Secretarial delegations covering the Rural
+          Development Act were effective May 31, 1973, and were published in the
+          
+          <E T='04'>
+            Federal Register
+          </E>
+           June 7, 1973 (
+          <aref type='FREGIST'>
+            38 FR 14944
+          </aref>
+          -14953). These are as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Title I (
+            <aref type='FREGIST'>
+              38 FR 14948
+            </aref>
+            ). Responsibility delegated to the Assistant Secretary for Rural
+            Development. The responsibility for administering loan and grant
+            authorities is redelegated to the Farmers Home Administration,
+            except the responsibility for administering loan authorities with
+            respect to rural electrification and telephone facilities and
+            service which has been redelegated to the Rural Electrification
+            Administration.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Titles II (
+            <aref type='FREGIST'>
+              38 FR 14945
+            </aref>
+            -14948), III (
+            <aref type='FREGIST'>
+              38 FR 14945
+            </aref>
+            -14948), and V (
+            <aref type='FREGIST'>
+              38 FR 14945
+            </aref>
+            -14948. Responsibility delegated to the Assistant Secretary for
+            Conservation, Research and Education and redelegated as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Titles II (
+            <aref type='FREGIST'>
+              38 FR 14951
+            </aref>
+            -14952) and III (
+            <aref type='FREGIST'>
+              38 FR 14951
+            </aref>
+            -14952) to the Administrator, Soil Conservation Service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Title V (
+            <aref type='FREGIST'>
+              38 FR 14949
+            </aref>
+            -14950) to the Administrators, Cooperative State Research Service
+            and the Extension Service respectively.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Title IV (
+            <aref type='FREGIST'>
+              38 FR 14945
+            </aref>
+            -14948). Responsibility delegated to the Assistant Secretary for
+            Conservation, Research and Education and redelegated (
+            <aref type='FREGIST'>
+              38 FR 14950
+            </aref>
+            -14951) to the Chief of the Forest Service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Title VI, 
+            <aref type='CFR-TIC-SECT'>
+              section 603
+            </aref>
+             (
+            <aref type='FREGIST'>
+              38 FR 14948
+            </aref>
+            ). Responsibility delegated to Assistant Secretary for Rural
+            Development and redelegated (
+            <aref type='FREGIST'>
+              38 FR 14953
+            </aref>
+            ) to the Administrator, Rural Development Service.
+          </text>
+        </P>
+        <FP>
+          The Rural Development Act recognizes that many Federal departments and
+          agencies of the executive branch of government administer programs and
+          provide services which are applicable to the needs of rural
+          communities. 
+          <aref type='UNKNOWN'>
+            Section 603 of
+          </aref>
+           the Rural Development Act charges the Secretary of Agriculture with
+          providing governmentwide leadership for, and with coordinating a
+          nationwide rural development program. In such coordination, the
+          Secretary shall seek measures that will achieve effective integration
+          of relevant Federal services in rural areas as provided by Agriculture
+          agencies and other Departments and agencies. This section also
+          requires that the Secretary shall establish goals and report to the
+          Congress on progress in complying with 
+          <PRTPAGE P='511' />
+          specified purposes of the Act. The Federal Regional Council will play
+          a major role in coordination at the field level. An organic Act of the
+          Department (
+          <aref type='USC'>
+            <subref title='7' sect='2201' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2201.html'>
+              7 U.S.C. 2201
+            </subref>
+          </aref>
+          ) has been amended to require the Secretary to add Rural Development
+          to those purposes for which he is authorized to acquire and diffuse
+          useful information.
+        </FP>
+      </contents>
+    </section>
+    <section orderid='772'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:A:22.103
+      </extid>
+      <num st='1'>
+        22.103
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='103' psec='' tq='N'>
+              22.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          The purpose of these regulations is to establish the policies,
+          procedures, and responsibilities required by 
+          <aref type='UNKNOWN'>
+            section 603 of
+          </aref>
+           the Rural Development Act.
+        </P>
+      </contents>
+    </section>
+    <section orderid='773'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:A:22.104
+      </extid>
+      <num st='1'>
+        22.104
+      </num>
+      <head>
+        General policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='104' psec='' tq='N'>
+              22.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General policy.
+        </SUBJECT>
+        <P>
+          Federal implementation of the Act will be consistent with the
+          President&apos;s policy of decentralized decisionmaking and
+          administrative responsibility which gives fullest possible
+          consideration to State and local rural development goals and
+          priorities. As a result of 
+          <aref type='CFR-TIC-SECT'>
+            section 817(4
+          </aref>
+          ) of the Agriculture and Consumer Protection Act of 1973 (
+          <aref target='_blank' title='Pub. L. 93-86' alt='Pub. L. 93-86' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d93:./list/bd/d93pl.lst:86%28Public_Laws%29'>
+            Pub. L. 93-86
+          </aref>
+          ) which prohibits prior approval by any State officials of any loan or
+          grant under any program authorized by title I of the Rural Development
+          Act of 1972 (Pub. L. 92-419), it has been necessary to substantially
+          modify the planned administration of programs under 
+          <aref type='UNKNOWN'>
+            section 603 of
+          </aref>
+           the Rural Development Act.
+        </P>
+      </contents>
+    </section>
+    <section orderid='774'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:B:22.201
+      </extid>
+      <num st='1'>
+        22.201
+      </num>
+      <head>
+        Coordination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='201' psec='' tq='N'>
+              22.201
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Coordination.
+        </SUBJECT>
+        <P>
+          The following identifies types and levels of coordination:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Washington level interdepartmental and interagency coordination for
+            purposes of the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Coordination for purposes of the Act among agencies within the U.S.
+            Department of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Coordination among and between the field operations of Federal
+            agencies for purposes of the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Coordination for purposes of the Act between levels of field
+            operations of the Federal government and State governments.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='775'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:B:22.202
+      </extid>
+      <num st='1'>
+        22.202
+      </num>
+      <head>
+        Federal unit responsibilities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='202' psec='' tq='N'>
+              22.202
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Federal unit responsibilities.
+        </SUBJECT>
+        <P>
+          The following Federal units have major responsibilities in
+          implementing the Act.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Rural Development policy questions requiring resolution by the
+            Committee on Community Development of the President&apos;s Domestic
+            Council may be so referred by the Secretary of Agriculture, who will
+            sit as a member and as Chairman of the Rural Development Committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Under Secretary of Agriculture will represent the Secretary in
+            matters pertaining to rural development policy when such matters are
+            of mutual concern to the Under Secretaries&apos; Group for Regional
+            Operations (Executive Order 11647 as amended by E.O. 11731) and the
+            Federal Regional Councils, or at such other times that he or the
+            Secretary may deem appropriate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Assistant Secretary of Agriculture for Rural Development will
+            chair an Assistant Secretaries&apos; Working Group consisting of
+            interdepartmental and interagency members from Agriculture, Health,
+            Education, and Welfare, Housing and Urban Development, Defense,
+            Labor, Commerce, Transportation, Environmental Protection Agency,
+            Small Business Administration and others as appropriate. This
+            working group will operate under the aegis of the Rural Development
+            Committee of the Domestic Council. The purpose of this working group
+            is:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To develop and recommend rural development policy applicable to
+            more than one executive department or agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             To develop cooperative procedures between and among executive
+            departments and agencies in matters pertaining to rural development.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             To devise effective rural development strategies and to bring
+            Federal resources and services to bear toward their realization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             To advise the Under Secretaries&apos; Group on involvement of
+            Federal Regional Councils in rural development activities.
+          </text>
+        </P>
+        <FP>
+          The Secretary of Agriculture may utilize the services of the Assistant
+          Secretaries&apos; Working Group in performing his rural development
+          functions for the 
+          <PRTPAGE P='512' />
+          Rural Development Committee of the Domestic Council.
+        </FP>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator, Rural Development Service, under the policy
+            direction of the Assistant Secretary for Rural Development shall
+            coordinate rural development activities under 
+            <aref type='UNKNOWN'>
+              section 603 of
+            </aref>
+             the Rural Development Act as directed by the Secretary. In the
+            fulfillment of such responsibilities, he is authorized to
+            communicate directly with other Federal department and agency
+            officials of corresponding levels of authority and with State and
+            Federal Regional Council officials.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Federal Regional Councils shall have primary responsibility for
+            interagency program coordination at the field level and will provide
+            assistance to and liaison with States in promoting rural
+            development. Federal attention to this type of cooperation and
+            coordination will be emphasized. In addition, the Federal Regional
+            Councils, operating within policy determined at the Washington
+            level, shall be responsible for performing an oversight function to
+            assess how well the machinery is working in carrying out the Rural
+            Development Act authorities. Each Federal Regional Council shall
+            create an appropriate management structure to accomplish the
+            foregoing. This may include the creation of a Rural Development
+            Committee. The Department of Agriculture will chair such Rural
+            Development Committees or otherwise assume the lead in managing
+            rural development activities of the Federal Regional Councils.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Procedures for the coordination of rural development activities
+            will be consistent with the policies expressed herein and with any
+            specific Federal guideline based on these regulations or on
+            Executive Order 11647, as amended by Executive Order 11731.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Councils shall exercise authority under Executive Order 11647, as
+            amended by Executive Order 11731, to promote in rural areas
+            integrated program and funding plans involving several Federal
+            agencies.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='776'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:B:22.203
+      </extid>
+      <num st='1'>
+        22.203
+      </num>
+      <head>
+        Major responsibilities under title VI, Sec. 603.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='203' psec='' tq='N'>
+              22.203
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Major responsibilities under title VI, 
+          <aref type='CFR-TIC-SECT'>
+            Sec. 603
+          </aref>
+          .
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Title VI, 
+              <aref type='CFR-TIC-SECT'>
+                section 603
+              </aref>
+            </E>
+            (
+            <E T='03'>
+              b
+            </E>
+            ). (1) 
+            <aref type='UNKNOWN'>
+              Section 603(b) of
+            </aref>
+             the Rural Development Act charges the Secretary of Agriculture with
+            providing leadership in the development of a nationwide rural
+            development program. Included in this program would be pertinent
+            Federal departments and agencies which might contribute to this
+            rural development mission. In carrying out his responsibilities, the
+            Secretary shall report annually, prior to September 1, to the
+            Congress on rural development goals for employment, income,
+            population, housing, and quality of community services and
+            facilities. To carry out the provisions of the Act specified above,
+            the following major responsibilities are identified:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The Rural Development Committee of the Domestic Council will assume
+            responsibility for interdepartmental policy formulation and
+            resolution of issues pertaining to this section of the Act as
+            determined by the Secretary of Agriculture. This committee consists
+            of members of the Community Development Committee of the Domestic
+            Council, to wit: The Secretary of Agriculture, Chairman of the Rural
+            Development Committee; the Secretary of HUD, Chairman of the Urban
+            Development Committee; the Secretary of Transportation, Chairman of
+            the Transportation Policy Development Committee; the Secretaries of
+            Treasury, Commerce, and Labor and the Director of OMB.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary of Agriculture shall be responsible for Washington
+            level coordination pursuant to this section of the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             At the regional level, the Federal Regional Councils shall develop
+            and implement procedures designed to identify and facilitate access
+            to Federal resources appropriate for rural development purposes
+            within States. Such procedures will be consistent with policies
+            expressed or endorsed by the Under Secretaries&apos; Group. The
+            Councils shall also be responsible for monitoring the effectiveness
+            with which the Rural Development Act is implemented within their
+            respective regions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='iii_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary of Agriculture is also authorized to initiate or
+            expand research and development efforts related to solution of rural
+            development problems including problems of rural water supply, rural
+            sewage and solid 
+            <PRTPAGE P='513' />
+            waste management, and rural industrialization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='iii_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The Rural Development Service will operate a rural development
+            research program and may also participate in rural development
+            research in cooperation with Federal, State, and private research
+            units.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Title VI, 
+              <aref type='CFR-TIC-SECT'>
+                section 603
+              </aref>
+            </E>
+            (
+            <E T='03'>
+              c
+            </E>
+            ) 
+            <E T='03'>
+              of the Rural Development Act.
+            </E>
+             (1) Under guidance by the Under Secretaries&apos; Group, and under
+            the leadership of the U.S. Department of Agriculture member on each
+            of the Federal Regional Councils, the Rural Development Committees
+            of the Federal Regional Councils or other Federal Regional Council
+            mechanisms assigned to work with rural development, shall be
+            responsible for proposing to the appropriate Federal and State
+            agencies actions in such areas as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Adjustment, where appropriate, of administrative boundaries used by
+            field staffs of Federal and federally supported agencies to conform
+            with boundaries of multicounty jurisdictions. “Multicounty
+            jurisdictions” as used means substate planning districts or other
+            combinations of county jurisdictions as designated by States for
+            State planning purposes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Co-location of field units of Federal agencies and consolidation of
+            offices in the vicinity of principal centers of local government
+            administration (including multicounty jurisdictional
+            administration), to encourage increased cooperation within and among
+            different governmental levels.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Exchange of personnel between Federal and State agencies under the
+            Intergovernmental Personnel Act (Pub. L. 91-648), to supplement and
+            broaden staffs administering rural development programs, and provide
+            specific technical expertise for certain projects.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Interchange of personnel among Federal agencies for the purposes
+            expressed in paragraph (b)(1)(ii) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='iv_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In addition, the U.S. Department of Agriculture member on the
+            Federal Regional Councils shall, by July 31, of each year, report to
+            the Assistant Secretary for Rural Development who shall in turn
+            report to the Under Secretaries&apos; Group and the Congress on
+            progress made in carrying out the programs outlined in paragraphs
+            (b)(1)(ii) through (iv) of this section and plans for programs to be
+            implemented during the following fiscal year. The first report will
+            be due to the Assistant Secretary by July 31, 1974.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='777'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:B:22.204
+      </extid>
+      <num st='1'>
+        22.204
+      </num>
+      <head>
+        Rural development committees.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='204' psec='' tq='N'>
+              22.204
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Rural development committees.
+        </SUBJECT>
+        <P>
+          State rural development committees, consisting of USDA agency members
+          and, in most instances, State governments and other Federal agency
+          representatives are available to assist States in accomplishing their
+          rural development objectives. Such assistance if requested by the
+          State can take the form of technical assistance and cooperative
+          services to States in carrying out their rural development priorities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='778'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:B:22.205
+      </extid>
+      <num st='1'>
+        22.205
+      </num>
+      <head>
+        Allocation of loan and grant funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='205' psec='' tq='N'>
+              22.205
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Allocation of loan and grant funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Title I grant funds and approved loan funding levels will be
+            allocated among States by a formula designed to ensure equitable
+            treatment. This applies to amounts made available for business and
+            industrial loans, water, sewer and other community facilities except
+            electrical and telephone facilities provided by or through the Rural
+            Electrification Administration.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             During the second half of the fiscal year, the Secretary of
+            Agriculture shall review State and multicounty jurisdictional rural
+            development programs and projects so that unused allocations may be
+            shifted from one State to another so as to enable the obligation of
+            all available funds prior to the end of the fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The formula used for fund allocation will ensure that a minimum
+            loan and grant level is established so that no State receives an
+            amount too small to serve the purposes of the Act. A percentage of
+            total loan and grant authority will be withheld from initial
+            allocation to allow subsequent appropriate technical adjustments in
+            amounts allocated to individual States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Title V funds shall be distributed by the Secretary under the
+            formula specified in the Act. Title V activities will be consistent
+            with the principle that States and multicounty jurisdictions have
+            responsibility for the rural development planning and priority
+            setting functions.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='779'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.301
+      </extid>
+      <num st='1'>
+        22.301
+      </num>
+      <head>
+        Selection and designation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='301' psec='' tq='N'>
+              22.301
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Selection and designation.
+        </SUBJECT>
+        <P>
+          Procedures for implementing the Act are designed to give the fullest
+          possible consideration to planning and development goals and
+          strategies at the State and multicounty jurisdictional levels. The
+          governing bodies of multicounty organizations should include
+          representatives of local governments contained within the respective
+          multicounty jurisdictions. State development strategies and priorities
+          shall be fully considered in the Federal administration of Rural
+          Development Act authorities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='780'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.302
+      </extid>
+      <num st='1'>
+        22.302
+      </num>
+      <head>
+        Area eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='302' psec='' tq='N'>
+              22.302
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Area eligibility.
+        </SUBJECT>
+        <P>
+          Eligibility for programs under the Act will be based on the criteria
+          of community size and location of population as specified in the Act.
+          State designations of eligible areas will be duly considered by the
+          Federal government in the determination of eligibility for loan and
+          grant assistance.
+        </P>
+      </contents>
+    </section>
+    <section orderid='781'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.303
+      </extid>
+      <num st='1'>
+        22.303
+      </num>
+      <head>
+        Cooperation with Federal Regional Councils.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='303' psec='' tq='N'>
+              22.303
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cooperation with Federal Regional Councils.
+        </SUBJECT>
+        <P>
+          States are urged to establish and maintain close and cooperative
+          relationships with the Federal Regional Councils which will be in a
+          position to assist the States and multicounty jurisdictions in the
+          identification and application of available resources. States may
+          authorize direct communications and liaison between the Regional
+          Councils and multicounty jurisdictions within States.
+        </P>
+      </contents>
+    </section>
+    <section orderid='782'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.304
+      </extid>
+      <num st='1'>
+        22.304
+      </num>
+      <head>
+        Multiyear planning and programming.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='304' psec='' tq='N'>
+              22.304
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Multiyear planning and programming.
+        </SUBJECT>
+        <P>
+          State and multicounty jurisdictions are encouraged to adopt multiyear
+          planning and development programs. As administrative procedures for
+          implementing the Act support the feasibility of such a process, these
+          programs should consider joint State, Federal, and local budget
+          planning factors and be refined to conform to the actual fund
+          availability as annual budgets are finalized and allocated. Such
+          programs, once initiated, will be extended by the annual addition of a
+          new planning year until programs are completed or terminated.
+        </P>
+      </contents>
+    </section>
+    <section orderid='783'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.305
+      </extid>
+      <num st='1'>
+        22.305
+      </num>
+      <head>
+        Conformance with OMB Circular No. A-95.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='305' psec='' tq='N'>
+              22.305
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conformance with OMB Circular No. A-95.
+        </SUBJECT>
+        <P>
+          The State and multicounty jurisdictional rural development planning
+          process must conform to the review requirements expressed in OMB
+          Circular No. A-95 under parts I, III, and IV as appropriate.
+        </P>
+      </contents>
+    </section>
+    <section orderid='784'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.306
+      </extid>
+      <num st='1'>
+        22.306
+      </num>
+      <head>
+        Financing rural development planning.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='306' psec='' tq='N'>
+              22.306
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financing rural development planning.
+        </SUBJECT>
+        <P>
+          States will be required to finance rural development planning through
+          their own resources, revenue-sharing allocations, or the Department of
+          Housing and Urban Development planning and management assistance
+          program or other available Federal planning programs.
+        </P>
+      </contents>
+    </section>
+    <section orderid='785'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.307
+      </extid>
+      <num st='1'>
+        22.307
+      </num>
+      <head>
+        Program evaluation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='307' psec='' tq='N'>
+              22.307
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program evaluation.
+        </SUBJECT>
+        <P>
+          The Department of Agriculture is responsible for continuous program
+          evaluation to determine if individual projects and the entire program
+          is cost effective in terms of reaching rural development goals. As a
+          result, USDA is responsible for conducting and reporting an annual
+          evaluation of selected rural development projects and the overall
+          rural development program. USDA shall include as a part of its
+          evaluation Federal Regional Council assessment of the effectiveness of
+          interagency coordination and delivery of services within the overall
+          rural development program. States and multicounty districts are
+          encouraged to participate in the joint preparation of such program
+          evaluations. Copies of such evaluations should be supplied to the
+          Administrator, Rural Development Service, Department of Agriculture
+          and to the Federal Regional Councils, in sufficient time so as to
+          arrive not later than July 1. The initial evaluation, due July 1,
+          1974, in addition to the requirements listed below, should include a
+          background statement and should summarize first year program efforts
+          and results. Annual evaluation should:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Describe the process used in planning, project selection and
+            priority setting, and the criteria and process used in evaluating
+            program effectiveness.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Describe the specific objectives of the programs.
+            <PRTPAGE P='515' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Describe and assess the cost and effectiveness of projects being
+            pursued within individual multicounty jurisdictions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Express observations, conclusions and recommendations based on such
+            evaluations which may contribute to the development of better
+            management, coordination and planning procedures.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='786'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.308
+      </extid>
+      <num st='1'>
+        22.308
+      </num>
+      <head>
+        Project approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='308' psec='' tq='N'>
+              22.308
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Project approval.
+        </SUBJECT>
+        <P>
+          State and multicounty jurisdictional planning is a State and local
+          prerogative. Federal agencies will be responsive to State rural
+          development strategies and priorities. However, determination of
+          eligibility and feasibility and final approval of individual projects
+          involving Federal funds must remain with the Federal government
+          consistent with the Act and implementing regulations.
+        </P>
+      </contents>
+    </section>
+    <section orderid='787'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:22:C:22.309
+      </extid>
+      <num st='1'>
+        22.309
+      </num>
+      <head>
+        Seeking Federal review.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='22' sect='309' psec='' tq='N'>
+              22.309
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Seeking Federal review.
+        </SUBJECT>
+        <P>
+          States may, if they elect, submit multicounty development plans and
+          proposals to the Federal Regional Councils and to the Rural
+          Development Service, USDA, for review and comment. Such review will
+          neither obligate the Federal government with respect to such programs
+          nor require States to conform with suggestions supplied by the USDA or
+          the Federal Regional Council.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:G:662
+    </extid>
+    <num>
+      662
+    </num>
+    <head>
+      REGIONAL EQUITY
+    </head>
+    <text>
+      <AUTH>
+        <PRTPAGE P='613' />
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='3841' note='' psec='#d' tq='N' target='http://www.law.cornell.edu/uscode/16/3841.html#d'>
+              16 U.S.C. 3841(d)
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            74 FR 63540
+          </aref>
+          , Dec. 4, 2009, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6485'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:662:-:662.1
+      </extid>
+      <num st='1'>
+        662.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='662' sect='1' psec='' tq='N'>
+              662.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          This part sets forth the procedures that NRCS will use to implement
+          the Regional Equity provision of the Food Security Act of 1985, 
+          <aref type='USC'>
+            <subref title='16' sect='3841' note='' psec='#d' tq='N' target='http://www.law.cornell.edu/uscode/16/3841.html#d'>
+              16 U.S.C. 3841(d)
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='6486'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:662:-:662.2
+      </extid>
+      <num st='1'>
+        662.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='662' sect='2' psec='' tq='N'>
+              662.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions are applicable to this part:
+        </P>
+        <P>
+          <E T='03'>
+            Chief
+          </E>
+           means the Chief of NRCS or the person delegated authority to act on
+          behalf of the Chief.
+        </P>
+        <P>
+          <E T='03'>
+            Contribution programs
+          </E>
+           means Regional Equity programs that contribute funding to Regional
+          Equity States, as determined by the Chief each fiscal year, consistent
+          with the limitations established in 
+          <aref type='USC'>
+            <subref title='16' sect='3841' note='' psec='#d' tq='N' target='http://www.law.cornell.edu/uscode/16/3841.html#d'>
+              16 U.S.C. 3841(d)
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Drawing account
+          </E>
+           means the aggregated amount of contribution program funds required to
+          bring all States to the Regional Equity threshold.
+        </P>
+        <P>
+          <E T='03'>
+            Funding opportunity
+          </E>
+           means the amount of funding needed to bring a State to the
+          $15,000,000 Regional Equity threshold for the aggregate of Regional
+          Equity programs.
+        </P>
+        <P>
+          <E T='03'>
+            Initial allocation
+          </E>
+           means the amount of conservation program allocation funding provided
+          to all States through a merit-based, natural resource focused process.
+        </P>
+        <P>
+          <E T='03'>
+            Obligated
+          </E>
+           means a specific binding agreement, in writing, for the purpose
+          authorized by law and executed while the funding is available.
+        </P>
+        <P>
+          <E T='03'>
+            Regional Equity programs
+          </E>
+           mean conservation programs under Subtitle D (excluding the
+          Conservation Reserve Program, Wetlands Reserve Program, and the
+          Conservation Security Program) of the Food Security Act of 1985. These
+          programs include: Conservation Stewardship Program, Farm and Ranch
+          Lands Protection Program, Grassland Reserve Program, Environmental
+          Quality Incentives Program, Conservation Innovation Grants,
+          Agricultural Water Enhancement Program, Conservation of Private
+          Grazing Land, Wildlife Habitat Incentive Program, Grassroots Source
+          Water Protection Program, Great Lakes Basin Program, Chesapeake Bay
+          Watershed Initiative, and the Voluntary Public Access and Habitat
+          Incentive Program. Regional Equity programs will be aggregated to
+          determine whether a State meets the $15,000,000 Regional Equity
+          threshold. However, not all Regional Equity programs will be
+          considered contribution programs.
+        </P>
+        <P>
+          <E T='03'>
+            Regional Equity provision
+          </E>
+           means the statutory requirement to give priority funding before April
+          1 for approved applications for specific programs within States that
+          have not received a $15,000,000 aggregate level of funding.
+        </P>
+        <P>
+          <E T='03'>
+            Regional Equity States
+          </E>
+           means any State not meeting the Regional Equity threshold of
+          $15,000,000 through the initial allocation for Regional Equity
+          programs.
+        </P>
+        <P>
+          <E T='03'>
+            Regional Equity threshold
+          </E>
+           means the $15,000,000 minimum aggregate amount of Regional Equity
+          program funds.
+        </P>
+        <P>
+          <E T='03'>
+            Respective demand
+          </E>
+           means the mix of contribution program funds that each State
+          Conservationist in a Regional Equity State requests to fill that
+          State&apos;s funding opportunity.
+        </P>
+        <P>
+          <E T='03'>
+            State
+          </E>
+           means all 50 States, the District of Columbia, Commonwealth of Puerto
+          Rico, Guam, Virgin Islands, American Samoa, Commonwealth of the
+          Northern Mariana Islands, and the Freely Associated States.
+        </P>
+        <P>
+          <E T='03'>
+            State Conservationist
+          </E>
+           means the NRCS employee authorized to implement Regional Equity
+          programs and direct and supervise NRCS activities in a State, the
+          Caribbean Area, or the Pacific Islands Area.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6487'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:662:-:662.3
+      </extid>
+      <num st='1'>
+        662.3
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='662' sect='3' psec='' tq='N'>
+              662.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          The regulation in this part sets forth the policies and procedures for
+          the Regional Equity provision as administered by the NRCS. This
+          regulation applies to the Regional Equity programs defined in this
+          part. The Chief will implement the Regional Equity provision by
+          identifying programs that contribute to the establishment of
+          program-specific drawing accounts for priority funding in Regional
+          Equity States.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6488'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:662:-:662.4
+      </extid>
+      <num st='1'>
+        662.4
+      </num>
+      <head>
+        Regional Equity implementation procedure.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='662' sect='4' psec='' tq='N'>
+              662.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Regional Equity implementation procedure.
+        </SUBJECT>
+        <P>
+          The following procedures will implement the Regional Equity provision:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Determine initial allocations.
+            </head>
+          </npcatch>
+          <text>
+             NRCS will determine initial conservation 
+            <PRTPAGE P='614' />
+            program funding levels for each State through a merit-based, natural
+            resource focused allocation process as determined by the Chief.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Determine the funding opportunity.
+            </head>
+          </npcatch>
+          <text>
+             The combined initial allocation funding level for Regional Equity
+            programs, by State, will be compared to the Regional Equity
+            threshold to determine each Regional Equity State&apos;s funding
+            opportunity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Establish contribution program fund levels.
+            </head>
+          </npcatch>
+          <text>
+             Subject to availability of funds, contribution program fund levels
+            are determined by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Identifying which programs contribute funds, as determined by the
+            Chief, consistent with the limitations established in 
+            <aref type='USC'>
+              <subref title='16' sect='3841' note='' psec='#d' tq='N' target='http://www.law.cornell.edu/uscode/16/3841.html#d'>
+                16 U.S.C. 3841(d)
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Each State&apos;s respective demand.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             State Conservationists in Regional Equity States, in consultation
+            with State Technical Committees, will evaluate and determine their
+            respective program demands based on the following criteria:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_i_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Program applications and how they address national program
+            priorities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_i_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Historic trends in program interest; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_i_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             State priority natural resource concerns.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist&apos;s identified respective demand will
+            assist the Chief in determining the composition of contribution
+            program funds within the established drawing account.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Establish the drawing account.
+            </head>
+          </npcatch>
+          <text>
+             NRCS will establish a drawing account for each contribution
+            program, as determined in paragraphs (c)(1) and (c)(2) of this
+            section, and will give priority before April 1 of each fiscal year
+            for such funds to be used to fund applications in Regional Equity
+            States sufficient to bring each of the Regional Equity States to the
+            Regional Equity threshold of $15,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Access the drawing account.
+            </head>
+          </npcatch>
+          <text>
+             State Conservationists in Regional Equity States may request access
+            to that State&apos;s assigned portion of the drawing account once
+            that State has obligated at least 90 percent of its initial
+            allocation for that same program. The Chief may waive the 90 percent
+            threshold requirement for a specific program in response to specific
+            program needs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Re-allocation of funds.
+            </head>
+          </npcatch>
+          <text>
+             The program-specific drawing accounts for Regional Equity States
+            will be available until April 1 of each fiscal year, after which
+            date the remaining funds may be re-allocated at the discretion of
+            the Chief.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

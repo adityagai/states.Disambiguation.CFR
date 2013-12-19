@@ -1,0 +1,2670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVIII:I:2003
+    </extid>
+    <num>
+      2003
+    </num>
+    <head>
+      ORGANIZATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='6941' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6941.html'>
+              7 U.S.C. 6941
+            </subref>
+          </aref>
+          ; and 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='17' psec='' tq='N'>
+              2.17
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            62 FR 67259
+          </aref>
+          , Dec. 24, 1997, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15784'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.1
+      </extid>
+      <num st='1'>
+        2003.1
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='1' psec='' tq='N'>
+              2003.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            EEO
+          </E>
+          —the Equal Employment Opportunity Act of 1972, 42 U.S.C. 
+          <aref type='CFR-TIC-SECT'>
+            § 2000e
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+        </P>
+        <P>
+          <E T='03'>
+            O&amp;M
+          </E>
+          —Operations and Management.
+        </P>
+        <P>
+          <E T='03'>
+            P&amp;P
+          </E>
+          —Policy and Planning.
+        </P>
+        <P>
+          <E T='03'>
+            RBS
+          </E>
+          —Rural Business-Cooperative Development Service, USDA, or any
+          successor agency.
+        </P>
+        <P>
+          <E T='03'>
+            RHS
+          </E>
+          —Rural Housing Service, USDA, or any successor agency.
+        </P>
+        <P>
+          <E T='03'>
+            RTB
+          </E>
+          —Rural Telephone Bank authorized by 
+          <aref type='USC'>
+            <subref title='7' sect='944' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/944.html'>
+              7 U.S.C. 944
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Rural Development
+          </E>
+          —Rural Development mission area of USDA.
+        </P>
+        <P>
+          <E T='03'>
+            RUS
+          </E>
+          —Rural Utilities Service, USDA, or any successor agency.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+          —the Secretary of USDA.
+        </P>
+        <P>
+          <E T='03'>
+            USDA
+          </E>
+          —the United States Department of Agriculture.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15785'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.2
+      </extid>
+      <num st='1'>
+        2003.2
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='2' psec='' tq='N'>
+              2003.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          The Rural Development mission area of the Department of Agriculture
+          was established as a result of the Department of Agriculture
+          Reorganization Act of 1994, Title II of Pub.L. 103-354. Rural
+          Development&apos;s basic organization consists of Headquarters in
+          Washington, D.C. and 47 State Offices. Headquarters maintains overall
+          planning, coordination, and control of Rural Development agency
+          programs. Administrators head RHS, RBS, and RUS under the direction of
+          the Under Secretary for Rural Development. State Directors head the
+          State Offices and are directly responsible to the Under Secretary for
+          the execution of all Rural Development agency programs within the
+          boundaries of their states.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15786'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.3-2003.4
+      </extid>
+      <num st='2'>
+        2003.3-2003.4
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='2003' sect='3-2003' psec='' tq='N'>
+              2003.3-2003
+            </subref>
+          </aref>
+          .4
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='15787'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.5
+      </extid>
+      <num st='1'>
+        2003.5
+      </num>
+      <head>
+        Headquarters organization.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='5' psec='' tq='N'>
+              2003.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Headquarters organization.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Rural Development Headquarters is comprised of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Office of the Under Secretary;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Two Deputy Under Secretaries; and,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Three Administrators and their staffs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Rural Development Headquarters is located at 1400 Independence
+            Avenue, SW., Washington, DC. 20250-0700
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15788'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.6
+      </extid>
+      <num st='1'>
+        2003.6
+      </num>
+      <head>
+        Office of the Under Secretary.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='6' psec='' tq='N'>
+              2003.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Office of the Under Secretary.
+        </SUBJECT>
+        <P>
+          In accordance with 
+          <aref type='CFR'>
+            7 CFR § 
+            <subref title='7' part='2' sect='17' psec='' tq='N'>
+              2.17
+            </subref>
+          </aref>
+           the Secretary has delegated to the Under Secretary, Rural
+          Development, authority to manage and administer programs and support
+          functions of the Rural Development mission area.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Office of the Deputy Under Secretary for P&amp;P.
+            </head>
+          </npcatch>
+          <text>
+             This office is headed by the Deputy Under Secretary for P&amp;P.
+            The Under Secretary, Rural Development, has delegated to the Deputy
+            Under Secretary for P&amp;P, responsibility for formulation and
+            development of short-and long-range rural development policies of
+            the Department in accordance with 
+            <aref type='CFR'>
+              7 CFR § 
+              <subref title='7' part='2' sect='45' psec='' tq='N'>
+                2.45
+              </subref>
+            </aref>
+            . The Deputy Under Secretary for P&amp;P reports directly to the
+            Under Secretary, Rural 
+            <PRTPAGE P='8' />
+            Development, and provides guidance and supervision for research,
+            policy analysis and development, strategic planning, partnerships
+            and special initiatives. For budget and accounting purposes, all of
+            the staff offices under the Deputy Under Secretary for P&amp;P are
+            housed in RBS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Budget Analysis Division assesses potential impacts of
+            alternative policies on the mission area&apos;s programs and
+            operations and develops recommendations for change. The units are
+            headed by the Chief Budget Officer, who individually serves as the
+            top policy advisor to the Under Secretary and Deputy Under Secretary
+            on all matters relating to mission area budget policy.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Research, Analysis and Information Division analyzes
+            information on rural conditions and the strategies and techniques
+            for promoting rural development. The division performs, or arranges
+            to have conducted, short-term and major research studies needed to
+            formulate policy.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The Reinvention and Capacity Building Division coordinates the
+            mission area&apos;s strategic planning initiatives, both at the
+            National level and in the State Offices. The division assists the
+            Rural Development agencies in their implementation of the Government
+            Performance and Results Act (GPRA) and special initiatives of the
+            Administration, USDA, and the Office of the Under Secretary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The Rural Initiatives and Partnership Division manages the mission
+            area&apos;s involvement and coordination with other Federal and
+            state departments and agencies to assess rural issues and develop
+            model partnerships and initiatives to achieve shared rural
+            development goals. The division is responsible for managing the
+            National Rural Development Partnership and providing support and
+            oversight of 37 State Rural Development Councils.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Office of the Deputy Under Secretary for O&amp;M.
+            </head>
+          </npcatch>
+          <text>
+             In accordance with 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='2' sect='45' psec='' tq='N'>
+                2.45
+              </subref>
+            </aref>
+            , the Under Secretary, Rural Development, has delegated to the
+            Deputy Under Secretary for O&amp;M responsibility for providing
+            leadership in planning, developing, and administering overall
+            administrative management program policies and operational
+            activities of the Rural Development mission area. The Deputy Under
+            Secretary for O&amp;M reports directly to the Under Secretary, Rural
+            Development.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Office of the Deputy Administrator for O&amp;M.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Deputy Administrator for O&amp;M, this office reports
+            directly to the Deputy Under Secretary for O&amp;M, and is
+            responsible for directing and coordinating the consolidated
+            administrative and financial management functions for Rural
+            Development. This office provides overall guidance and supervision
+            for budget and financial management, human resources management and
+            personnel services, administrative and procurement services,
+            information resources management and automated data systems. For
+            budget and accounting purposes, all of the staff offices under the
+            Deputy Administrator for O&amp;M are housed in RHS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Office of the Controller.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Chief Financial Officer, this office supports the
+            Deputy Administrator for O&amp;M in executing Rural Development
+            requirements related to compliance with the Chief Financial Officers
+            Act of 1990 and provides leadership, coordination, and oversight of
+            all financial management matters and financial execution of the
+            budget for the Rural Development agencies. This office also has full
+            responsibility for Rural Development agencies&apos; accounting,
+            financial, reporting, and internal controls. The office provides
+            direct oversight to the Headquarters Budget Division, Financial
+            Management Division, and the Office of the Assistant Controller,
+            located in St. Louis, Missouri.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Office of Assistant Administrator for Procurement and
+              Administrative Services.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Assistant Administrator for Procurement and
+            Administrative Services, this office is responsible to the Deputy
+            Administrator for O&amp;M for overseeing the Procurement Management
+            Division, the Property and Supply Management Division, and the
+            Support Services Division:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             The Procurement Management Division is responsible for developing,
+            implementing, and interpreting procurement and contracting policies
+            for the Rural Development mission area. Major functions include
+            planning outreach efforts and goals for small and disadvantaged
+            businesses, providing 
+            <PRTPAGE P='9' />
+            staff assistance reviews in State and Local Offices, administering
+            the Contracting Officer Professionalism Warrant program for Rural
+            Development agencies, and coordinating the development of Rural
+            Development&apos;s acquisition plans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             The Property and Supply Management Division is responsible for
+            developing office space acquisition and utilization policies,
+            providing training to field office leasing officers, administering
+            the Leasing Officer Warrant program, assuring accessibility
+            compliance in Rural Development&apos;s work sites, administering
+            Rural Development&apos;s Physical Security program, and establishing
+            and providing oversight to the worksite Energy Conservation program.
+            This office operates a nationwide supply warehousing and
+            distribution program, and oversees a nationwide Personal Property
+            Management and Utilization Program, manages the U.S. Department of
+            Agriculture (USDA) Excess Personal Property Program for field level
+            activities, and provides direct support services to Rural
+            Development&apos;s St. Louis facilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             The Support Services Division has responsibility for designing,
+            developing, administering, and controlling Rural Development&apos;s
+            directives management and issuance system, coordinating Rural
+            Development&apos;s Regulatory Agenda and Regulatory Program
+            submissions to USDA and OMB, serving as 
+            <E T='04'>
+              Federal Register
+            </E>
+             liaison, and analyzing and coordinating regulatory work plans for
+            the Under Secretary. This office submits Paperwork Reduction Act
+            public burden clearances to OMB, administers all printing programs,
+            manages Rural Development travel policies and programs, and manages
+            Freedom of Information Act, Privacy Act and Tort Claims programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+            <head>
+              Office of Information Resources Management (IRM).
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Chief Information Officer, this office is responsible
+            to the Deputy Administrator for O&amp;M for developing Rural
+            Development&apos;s IRM policies, regulations, standards and
+            guidelines. This office provides overall leadership and direction to
+            activities assigned to the following four major divisions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_iii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             The Customer Services Division is responsible for direct customer
+            and technical support (hardware and software).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_iii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             The Management Services Division coordinates all IRM acquisition,
+            budget, and policy and planning activities in support of Rural
+            Development automation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_iii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             The Information Technology Division provides support technical
+            services in the areas of data administration, system integrity
+            management, research and development, and telecommunications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_1_iii_D'>
+            <enum src='gpotxt' cln='1'>
+              (D)
+            </enum>
+          </npcatch>
+          <text>
+             The Systems Services Division is responsible for planning,
+            directing, and controlling activities related to Rural
+            Development&apos;s Automated Information Systems.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+            <head>
+              Office of the Assistant Administrator for Human Resources.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Assistant Administrator for Human Resources, this
+            office is responsible to the Deputy Administrator for O&amp;M for
+            the overall development, implementation, and management, of
+            personnel and human resources support services for Rural
+            Development. The office provides direction to the Headquarters
+            Personnel Services, Human Resources Training and Mission Area
+            Personnel Services Division, and Labor Relations Staff offices. The
+            office is also responsible for the establishment of recruitment,
+            retention, and development policies and programs supporting
+            workforce diversity and affirmative action.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Office of Civil Rights Staff.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a staff director, this staff has primary responsibility
+            for providing leadership and administration of the Civil Rights
+            Program for the Rural Development mission area. The staff conducts
+            on-site reviews of borrowers and beneficiaries of Federal financial
+            assistance to ensure compliance with Titles VI and VII of the Civil
+            Rights Act of 1964, as amended, Title VIII of the Civil Rights Act
+            of 1968, as amended, 
+            <aref type='UNKNOWN'>
+              Section 504 of
+            </aref>
+             the Rehabilitation Act, the Americans with Disabilities Act, and
+            prepares compliance reports. The staff conducts and evaluates Title
+            VII compliance visits to insure that EEO programs are adequately
+            implemented. In addition, the office develops, monitors, and
+            evaluates Affirmative Employment programs for minorities, women and 
+            <PRTPAGE P='10' />
+            persons with disabilities, and coordinates and conducts community
+            outreach activities at historically black colleges and universities.
+            It also has oversight of special emphasis programs such as the
+            Federal Women&apos;s Program, Hispanic Emphasis Program, and Black
+            Emphasis Program. The staff director reports directly to the Deputy
+            Under Secretary for O&amp;M.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Office of Communications.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a director who reports directly to the Deputy Under
+            Secretary for O&amp;M, this office has primary responsibility for
+            tracking legislation and development and institution of policies to
+            provide public communication and information services related to the
+            Rural Development. The office maintains a constituent data base and
+            conducts minority outreach efforts and administers a public
+            information and media center responsible for media inquiries, news
+            releases, program announcements, media advisories, and information
+            retrieval. This office also serves as a liaison with Office of
+            Congressional Relations (OCR), Office of the General Counsel (OGC),
+            and other Departmental units involved in Congressional relations and
+            public information. This office drafts testimony, prepares
+            witnesses, and provides staff for hearings and markups. In addition,
+            the office briefs Congressional members and staff on the Rural
+            Development matters, coordinates Rural Development&apos;s
+            legislative activities with other USDA agencies and OMB and develops
+            and implements legislative strategy. The staff also coordinates
+            development and production of brochures, press releases, and other
+            public information materials.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15789'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.7-2003.9
+      </extid>
+      <num st='2'>
+        2003.7-2003.9
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='2003' sect='7-2003' psec='' tq='N'>
+              2003.7-2003
+            </subref>
+          </aref>
+          .9
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='15790'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.10
+      </extid>
+      <num st='1'>
+        2003.10
+      </num>
+      <head>
+        Rural Development State Offices.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          62 FR 67259
+        </aref>
+        , Dec. 24, 1997; 
+        <aref type='FREGIST'>
+          63 FR 3256
+        </aref>
+        , Jan. 22, 1998]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='10' psec='' tq='N'>
+              2003.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Rural Development State Offices.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Headed by State Directors, State Offices report directly to the
+            Under Secretary, Rural Development, and are responsible to the three
+            Rural Development agency Administrators for carrying out agency
+            program operations at the State level, ensuring adherence to program
+            plans approved for the State by the Under Secretary, and rendering
+            staff advisory and manpower support to Area and Local offices. The
+            Rural Development State Directors, for budget and accounting
+            purposes, are housed in the RHS agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Program Directors within the State Office provide oversight and
+            leadership on major program functions. Major program functions
+            include: Single Family and Multi-Family Housing loans and grants,
+            Community Facility, Water and Waste Disposal, Business and
+            Cooperative, and the Empowerment Zones and Enterprise Communities
+            (EZ/EC) programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The USDA Rural Development State Office locations are as follows:
+          </text>
+        </P>
+        <table class='gpotable' CDEF='s25,r25' COLS='2' OPTS='L2,i1'>
+          <caption />
+          <thead>
+            <tr>
+              <th>
+                State
+              </th>
+              <th>
+                Location
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                Alabama
+              </td>
+              <td>
+                Montgomery, AL
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Alaska
+              </td>
+              <td>
+                Palmer, AK
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Arizona
+              </td>
+              <td>
+                Phoenix, AZ
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Arkansas
+              </td>
+              <td>
+                Little Rock, AR
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                California
+              </td>
+              <td>
+                Woodland, CA
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Colorado
+              </td>
+              <td>
+                Lakewood, CO
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Delaware
+              </td>
+              <td>
+                Camden, DE
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Florida
+              </td>
+              <td>
+                Gainesville, FL
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Georgia
+              </td>
+              <td>
+                Athens, GA
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Hawaii
+              </td>
+              <td>
+                Hilo, HI
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Idaho
+              </td>
+              <td>
+                Boise, ID
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Illinois
+              </td>
+              <td>
+                Champaign, IL
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Indiana
+              </td>
+              <td>
+                Indianapolis, IN
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Iowa
+              </td>
+              <td>
+                Des Moines, IA
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Kansas
+              </td>
+              <td>
+                Topeka, KS
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Kentucky
+              </td>
+              <td>
+                Lexington, KY
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Louisiana
+              </td>
+              <td>
+                Alexandria, LA
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Maine
+              </td>
+              <td>
+                Bangor, ME
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Massachusetts
+              </td>
+              <td>
+                Amherst, MA
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Michigan
+              </td>
+              <td>
+                East Lansing, MI
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Minnesota
+              </td>
+              <td>
+                St. Paul, MN
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Mississippi
+              </td>
+              <td>
+                Jackson, MS
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Missouri
+              </td>
+              <td>
+                Columbia, MO
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Montana
+              </td>
+              <td>
+                Bozeman, MT
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Nebraska
+              </td>
+              <td>
+                Lincoln, NE
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Nevada
+              </td>
+              <td>
+                Carson City, NV
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                New Jersey
+              </td>
+              <td>
+                Mt. Holly, NJ
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                New Mexico
+              </td>
+              <td>
+                Albuquerque, NM
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                New York
+              </td>
+              <td>
+                Syracuse, NY
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                North Carolina
+              </td>
+              <td>
+                Raleigh, NC
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                North Dakota
+              </td>
+              <td>
+                Bismarck, ND
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Ohio
+              </td>
+              <td>
+                Columbus, OH
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Oklahoma
+              </td>
+              <td>
+                Stillwater, OK
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Oregon
+              </td>
+              <td>
+                Portland, OR
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Pennsylvania
+              </td>
+              <td>
+                Harrisburg, PA
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Puerto Rico
+              </td>
+              <td>
+                Hato Rey, PR
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                South Carolina
+              </td>
+              <td>
+                Columbia, SC
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                South Dakota
+              </td>
+              <td>
+                Huron, SD
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Tennessee
+              </td>
+              <td>
+                Nashville, TN
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Texas
+              </td>
+              <td>
+                Temple, TX
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Utah
+              </td>
+              <td>
+                Salt Lake City, UT
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Vermont
+              </td>
+              <td>
+                Montpelier, VT
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Virginia
+              </td>
+              <td>
+                Richmond, VA
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Washington
+              </td>
+              <td>
+                Olympia, WA
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                West Virginia
+              </td>
+              <td>
+                Charleston, WV
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Wisconsin
+              </td>
+              <td>
+                Stevens Point, WI
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Wyoming
+              </td>
+              <td>
+                Casper, WY
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            62 FR 67259
+          </aref>
+          , Dec. 24, 1997; 
+          <aref type='FREGIST'>
+            63 FR 3256
+          </aref>
+          , Jan. 22, 1998]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='15791'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.11-2003.13
+      </extid>
+      <num st='2'>
+        2003.11-2003.13
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='11' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='2003' sect='11-2003' psec='' tq='N'>
+              2003.11-2003
+            </subref>
+          </aref>
+          .13
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='15792'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.14
+      </extid>
+      <num st='1'>
+        2003.14
+      </num>
+      <head>
+        Field Offices.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='14' psec='' tq='N'>
+              2003.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Field Offices.
+        </SUBJECT>
+        <P>
+          Rural Development field offices report to their respective State
+          Director and State Office Program Directors. State Directors may
+          organizationally structure their offices based on the program
+          workloads within their respective State. Field offices generally are
+          patterned in a three or two tier program delivery structure. In a
+          three tier system, Local offices report to an Area office, that
+          reports to the State Office. In a two tier system, a “Local” or “Area”
+          office reports to the State Office. Locations and telephone numbers of
+          Area and Local Offices may be obtained from the appropriate Rural
+          Development State Office.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15793'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.15-2003.16
+      </extid>
+      <num st='2'>
+        2003.15-2003.16
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='2003' sect='15-2003' psec='' tq='N'>
+              2003.15-2003
+            </subref>
+          </aref>
+          .16
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='15794'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.17
+      </extid>
+      <num st='1'>
+        2003.17
+      </num>
+      <head>
+        Availability of information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='17' psec='' tq='N'>
+              2003.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of information.
+        </SUBJECT>
+        <P>
+          Information concerning Rural Development programs and agencies may be
+          obtained from the Office of Communications, Rural Development, U. S.
+          Department of Agriculture, STOP 0705, 1400 Independence Avenue SW.,
+          Washington, DC 20250-0705.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15795'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.18
+      </extid>
+      <num st='1'>
+        2003.18
+      </num>
+      <head>
+        Functional organization of RHS.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          62 FR 67259
+        </aref>
+        , Dec. 24, 1997, as amended at 
+        <aref type='FREGIST'>
+          64 FR 32388
+        </aref>
+        , June 17, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='18' psec='' tq='N'>
+              2003.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Functional organization of RHS.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary established RHS pursuant to 
+            <aref type='UNKNOWN'>
+              section 233 of
+            </aref>
+             the Department of Agriculture Reorganization Act of 1994 (
+            <aref type='USC'>
+              <subref title='7' sect='6943' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6943.html'>
+                7 U.S.C. 6943
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Office of the Administrator.
+            </head>
+          </npcatch>
+          <text>
+             According to 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='2' sect='49' psec='' tq='N'>
+                2.49
+              </subref>
+            </aref>
+            , the Administrator has responsibility for implementing programs
+            aimed at delivering loans and grant assistance to rural Americans
+            and their communities in obtaining adequate and affordable housing
+            and community facilities, in accordance with Title V of the Housing
+            Act of 1949 (
+            <aref type='USC'>
+              <subref title='42' sect='1471' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/1471.html'>
+                42 U.S.C. 1471
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ) and the Consolidated Farm and Rural Development Act (
+            <aref type='USC'>
+              <subref title='7' sect='1921' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1921.html'>
+                7 U.S.C. 1921
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Legislative Affairs Staff.
+            </head>
+          </npcatch>
+          <text>
+             The duties and responsibilities of this staff have now been aligned
+            under the Office of Communication, headed by a director who reports
+            directly to the Under Secretary for O&amp;M. The Office of
+            Communication is responsible for providing and carrying out
+            legislative, public communication, and information services for the
+            Rural Development mission area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Office of Program Support Staff.
+            </head>
+          </npcatch>
+          <text>
+             The Program Support Staff is headed by a staff director who is
+            responsible to the Administrator for monitoring managerial and
+            technical effectiveness of RHS programs. The staff coordinates
+            review and analysis of legislation, Executive Orders, OMB circulars,
+            and Department regulations for their impact on Agency programs. The
+            staff develops, implements, and reports on architectural and
+            environmental policies, in cooperation with the Department. Staff
+            responsibilities also include managing RHS&apos;s Hazardous Waste
+            Management Fund, coordinating the Debarment and Suspension process
+            for RHS, tracking the use of Program Loan Cost Expense funds, and
+            maintaining the RHS Internet “Home Page.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Office of Deputy Administrator, Single Family Housing.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Deputy Administrator, Single Family Housing, this
+            office is responsible to the Administrator for the development and
+            implementation of RHS&apos;s Single Family Housing programs, which
+            extend supervised housing credit to rural people of limited
+            resources, for adequate, modest, decent, safe, and sanitary homes.
+            The office is responsible for administering and managing 
+            <aref type='CFR-TIC-SECT'>
+              sections 502 and 504
+            </aref>
+             Rural Housing direct and guaranteed loan and grant programs, Rural
+            Housing and Self-Help Site loans, the Self-Help Technical Assistance
+            grant program, Housing Application Packaging and Technical and
+            Supervisory Assistance grants, and Home Improvement and Repaid loans
+            and grants. The office directs the following three divisions: Single
+            Family Housing Processing Division, Single Family Housing Servicing
+            and Property Management Division, and Single Family Housing
+            Centralized Servicing Center in St. Louis, Mo.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Office of Single Family Housing Processing Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division is responsible for
+            development and nationwide implementation of policies on processing
+            Single Family Housing direct and guaranteed program loans. In
+            addition, the division provides direction on the following: the
+            Rural Housing Targeted Area Set-Aside program, 
+            <PRTPAGE P='12' />
+            debarments, payment assistance, title clearance and loan closing,
+            site/subdivision development, Deferred Mortgage Payment Program;
+            construction defects, credit reports, appraisals, Manufactured
+            Housing, coordinated assessment reviews, Home Buyer&apos;s
+            Counseling/Education Program, and allocation of loan and grant
+            program funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Office of Single Family Housing Servicing and Property Management
+              Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division is responsible for the
+            development and implementation of nationwide policies for servicing
+            RHS&apos;s multi-billion dollar portfolio of Single Family Housing
+            loans, and managing and selling Single Family Housing inventory
+            properties. The division also conducts state program evaluations,
+            identifies program weaknesses, makes recommendations for
+            improvements, and identifies corrective actions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+            <head>
+              Office of Single Family Housing Centralized Servicing Center
+              (CSC)—St. Louis, Missouri.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a director, CSC is responsible for centrally servicing
+            RHS&apos;s multi-billion dollar portfolio of Single Family Housing
+            loans. CSC provides interest credit or payment assistance renewals,
+            performs escrow activities for real estate taxes and property hazard
+            insurance, oversees collection of loan payments, and grants interest
+            credit, payment assistance, and moratoria.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Office of the Deputy Administrator, Multi-Family Housing Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Deputy Administrator, Multi-Family Housing, this
+            office is responsible for the development and nationwide
+            implementation of RHS&apos;s Multi-Family Housing programs, which
+            extend supervised housing credit to rural residents an opportunity
+            to have decent, safe, and sanitary rental housing. The following
+            programs are administered and managed by this office: 
+            <aref type='CFR-TIC-SECT'>
+              Section 515
+            </aref>
+             Rural Rental Housing, Rural Cooperative and Congregate Housing
+            Programs, 
+            <aref type='CFR-TIC-SECT'>
+              Section 521
+            </aref>
+             Rental Assistance, Farm Labor Housing loan and grant programs,
+            Housing Preservation Grants, rural housing vouchers, and Housing
+            Application Packaging Grants. This office directs the following two
+            divisions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Multi-Family Housing Processing Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division is responsible for the
+            development and nationwide implementation of policies on processing
+            Multi-Family Housing program loans. The division manages the
+            following program areas: elderly and family rental housing, Farm
+            Labor Housing loans and grants, outreach contacts, congregate
+            facilities, Housing Preservation Grants, cooperative housing, rural
+            housing vouchers, appraisals, Congregate Housing Services Grants,
+            Rental Assistance, Housing Application Packaging Grants, targeted
+            area and nonprofit set asides, Multi-Family Housing suspensions and
+            debarments, title clearance and loan closing, allocation and
+            monitoring of loan and grant funds, adverse decisions and appeals,
+            commercial credit reports, individual credit reports, and, site
+            development.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Multi-Family Housing Portfolio Management Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division is responsible for the
+            development and institution of policies on the management and
+            servicing of the nationwide Multi-Family Housing programs. The
+            Division implements current and long range plans for servicing Rural
+            Rental Housing loans, Labor Housing loans and grants, and Rental
+            Assistance or similar tenant subsidies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Office of the Deputy Administrator, Community Programs.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Deputy Administrator, Community Programs, this office
+            is responsible for overseeing the administration and management of
+            Community Facilities loans and grants to hospitals and nursing
+            homes, police and fire stations, libraries, schools, adult and child
+            care centers, etc. The office monitors and evaluates the
+            administration of loan and grant programs on a nationwide basis and
+            provides guidance and direction for community programs through two
+            divisions, Community Programs Loan Processing Division and Servicing
+            and Special Authorities Division.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Community Programs Loan Processing Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a director, this division is responsible for the overall
+            administration, policy development, fund distribution, and
+            processing of Community Facilities loans and grants and other loan
+            and grant programs assigned to the Division.
+            <PRTPAGE P='13' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Servicing and Special Authorities Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division is responsible for the
+            overall administration, policy development, and servicing of the
+            Community Facilities loan and grant programs. The division conducts
+            program evaluations, identifies program weaknesses, makes
+            recommendations for improvements, and identifies corrective actions.
+            The division also administers and services Nonprofit National
+            Corporation loans and grants.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            62 FR 67259
+          </aref>
+          , Dec. 24, 1997, as amended at 
+          <aref type='FREGIST'>
+            64 FR 32388
+          </aref>
+          , June 17, 1999]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='15796'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.19-2003.21
+      </extid>
+      <num st='2'>
+        2003.19-2003.21
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='2003' sect='19-2003' psec='' tq='N'>
+              2003.19-2003
+            </subref>
+          </aref>
+          .21
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='15797'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.22
+      </extid>
+      <num st='1'>
+        2003.22
+      </num>
+      <head>
+        Functional organization of RUS.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='22' psec='' tq='N'>
+              2003.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Functional organization of RUS.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary established RUS pursuant to 
+            <aref type='UNKNOWN'>
+              § 232 of
+            </aref>
+             the Department of Agriculture Reorganization Act of 1994 (
+            <aref type='USC'>
+              <subref title='7' sect='6942' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6942.html'>
+                7 U.S.C. 6942
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Office of the Administrator.
+            </head>
+          </npcatch>
+          <text>
+             According to 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='2' sect='47' psec='' tq='N'>
+                2.47
+              </subref>
+            </aref>
+            , the Administrator has responsibility for managing and
+            administering the programs and support functions of RUS to provide
+            financial and technical support for rural infrastructure to include
+            electrification, clean drinking water, telecommunications, and water
+            disposal systems, pursuant to the Consolidated Farm and Rural
+            Development Act, as amended (
+            <aref type='USC'>
+              <subref title='7' sect='1921' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1921.html'>
+                7 U.S.C. 1921
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ), and the Rural Electrification Act of 1936, as amended (
+            <aref type='USC'>
+              <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+                7 U.S.C. 901
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ). The office develops and implements strategic plans concerning the
+            Rural Electrification Act of 1936, as amended. The Administrator
+            serves as Governor of the Rural Telephone Bank (RTB) with a
+            13-member board of directors, and exercises and performs all
+            functions, powers, and duties of the RTB in accordance with 
+            <aref type='USC'>
+              <subref title='7' sect='944' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/944.html'>
+                7 U.S.C. 944
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Borrower and Program Support Services.
+            </head>
+          </npcatch>
+          <text>
+             Borrower and Program Support Services consist of the three
+            following staffs which are responsible to the Administrator for
+            planning and carrying out a variety of program and administrative
+            services in support of all RUS programs, and providing expert advice
+            and coordination for the Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Administrative Liaison Staff.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a staff director, this staff advises the Administrator on
+            management issues and policies relating to human resources, EEO,
+            labor-management partnership, administrative services, travel
+            management, automated information systems, and administrative
+            budgeting and funds control.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Program Accounting Services Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division develops and evaluates
+            the accounting systems and procedures of Electric,
+            Telecommunications, and Water and Wastewater borrowers; assures that
+            accounting policies, systems, and procedures meet regulatory,
+            Departmental, General Accounting Office, OMB, and Treasury
+            Department requirements; examines borrowers&apos; records and
+            operations, and reviews expenditures of loans and other funds;
+            develops audit requirements; and approves Certified Public
+            Accountants to perform audits of borrowers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+            <head>
+              Program and Financial Services Staff.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a staff director, this staff evaluates the financial
+            conditions of troubled borrowers, negotiates settlements of
+            delinquent loans, and makes recommendations to program Assistant
+            Administrators on ways to improve the financial health of borrowers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Office of Assistant Administrator—Electric Program.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Assistant Administrator—Electric Program, this office
+            is responsible to the Administrator for directing and coordinating
+            the Rural Electrification program of RUS nationwide. This office
+            develops, maintains, and implements regulations and program
+            procedures on processing and approving loans and loan-related
+            activities for rural electric borrowers. The office directs the
+            following three divisions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Electric Regional Divisions.
+            </head>
+          </npcatch>
+          <text>
+             Headed by division directors, these two divisions are responsible
+            for administering the Rural Electrification program in specific
+            geographic areas and serving as the single point of contact for all
+            distribution borrowers. The divisions provide guidance to borrowers
+            on RUS loan policies and procedures, maintain oversight of borrower
+            rate actions, and make recommendations to the Administrator on
+            borrower applications for RUS financing. The divisions also assure
+            that power plant, distribution, 
+            <PRTPAGE P='14' />
+            and transmission systems and facilities are designed and constructed
+            in accordance with the terms of the loan and proper engineering
+            practices and specifications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Power Supply Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division is responsible for
+            administering the Rural Electrification program responsibilities
+            with regard to power supply borrowers nationwide and serves as
+            primary point of contact between RUS and all such borrowers. The
+            division develops and maintains a loan processing program for Rural
+            Electrification Act purposes, and develops and administers
+            engineering and construction policies related to planning, design,
+            construction, operation, and maintenance for power supply borrowers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+            <head>
+              Electric Staff Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division is responsible for
+            engineering activities related to the design, construction, and
+            technical operations and maintenance of power plants; distribution
+            of power; and transmission systems and facilities, including load
+            management and communications. The division develops criteria and
+            techniques for evaluating the financing and performance of electric
+            borrowers and forecasting borrowers&apos; future power needs; and
+            maintains financial expertise on the distribution and power supply
+            loan program, and retail and wholesale rates.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Office of Assistant Administrator—Telecommunications Program.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Assistant Administrator—Telecommunications Program,
+            this office is responsible to the Administrator for directing and
+            coordinating the National Rural Telecommunications, Distance
+            Learning, and Telemedicine programs of RUS. The Assistant
+            Administrator, Telecommunications Program, serves as Assistant
+            Governor of the RTB and is responsible for the day-to-day activities
+            of the RTB. The office develops, maintains, and implements
+            regulations and program procedures on the processing and approval of
+            grants, loans, and loan-related activities for all rural
+            telecommunications borrowers and grant recipients. The office
+            directs the following three divisions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Telecommunications Standards Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a division director, this division is responsible for
+            engineering staff activities related to the design, construction,
+            and technical operation and maintenance of rural telecommunications
+            systems and facilities. The office develops engineering practices,
+            policies, and technical data related to borrowers&apos;
+            telecommunications systems; and evaluates the application of new
+            communications network technology, including distance learning and
+            telemedicine, to rural telecommunications systems.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Advanced Telecommunications Services Staff.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a staff director, this staff primarily serves the
+            Assistant Administrator, Telecommunications Program in the role of
+            the Assistant Governor of the RTB. The office performs analyses and
+            makes recommendations to the AAT on issues raised by the RTB
+            Governor, Board of Directors, or RTB borrowers. This staff maintains
+            official records for the RTB Board and prepares minutes of RTB Board
+            meetings. The staff director serves as the Assistant Secretary to
+            the RTB. The staff performs the calculations necessary to determine
+            the cost of money rate to RTB borrowers and recommends and develops
+            program- wide procedures for loan and grant programs. The office is
+            responsible for the Telecommunications Program&apos;s home page on
+            the Internet.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+            <head>
+              Telecommunications Area Offices.
+            </head>
+          </npcatch>
+          <text>
+             Headed by area directors, these four offices are responsible for
+            administering the Telecommunications, Distance Learning, and
+            Telemedicine programs for specific geographic areas, and serving as
+            the single point of contact for all program applicants and borrowers
+            within their respective areas. The offices provide guidance to
+            applicants and borrowers on RUS and RTB loan policies and
+            procedures, and make recommendations to the Administrator on
+            applications for loans, guarantees, and grants. The offices assure
+            that borrower systems and facilities are designed and constructed in
+            accordance with the terms of the loan, acceptable engineering
+            practices and specifications, and acceptable loan security
+            standards.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Office of the Assistant Administrator—Water and Environmental
+              Programs.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Assistant Administrator, Water and Environmental 
+            <PRTPAGE P='15' />
+            Programs, this office is responsible to the Administrator for
+            directing and coordinating a nationwide Water and Waste Disposal
+            Program for RUS as authorized under 
+            <aref type='UNKNOWN'>
+              Section 306 of
+            </aref>
+             the Consolidated Farm and Rural Development Act, as amended (
+            <aref type='USC'>
+              <subref title='7' sect='1926' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1926.html'>
+                7 U.S.C. 1926
+              </subref>
+            </aref>
+            ). The office oversees administration of RUS policies on making and
+            servicing loans and grants for water and waste facilities in rural
+            America, and the development of engineering policies, and practices
+            related to the construction and operation of community water and
+            waste disposal systems. This office is responsible for development
+            and coordination of environmental programs with regard to the Water
+            and Waste Disposal Program and directs the following two divisions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Water Programs Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this division is responsible for
+            administering the Water and Waste Disposal loan and grant making and
+            servicing and special authorities activities nationwide. This office
+            also makes allocation of loan and grant funds to field offices and
+            manages National Office reserves.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Engineering and Environmental Staff.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a staff director, this staff is responsible for
+            engineering activities at all stages of program implementation,
+            including: review of preliminary engineering plans and
+            specifications, procurement practices, contract awards, construction
+            monitoring, and system operation and maintenance. The staff also
+            develops Agency engineering practices, policies, and technical data
+            related to the construction and operation of community water and
+            waste disposal systems. The staff is responsible for coordinating
+            environmental policy and providing technical support in areas such
+            as: hazardous waste, debarment and suspension, flood insurance, drug
+            free workplace requirements, and computer program software.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15798'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.23-2003.25
+      </extid>
+      <num st='2'>
+        2003.23-2003.25
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='2003' sect='23-2003' psec='' tq='N'>
+              2003.23-2003
+            </subref>
+          </aref>
+          .25
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='15799'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.26
+      </extid>
+      <num st='1'>
+        2003.26
+      </num>
+      <head>
+        Functional organization of RBS.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2003' sect='26' psec='' tq='N'>
+              2003.26
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Functional organization of RBS.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary established RBS pursuant to 
+            <aref type='UNKNOWN'>
+              section 234 of
+            </aref>
+             the Department of Agriculture Reorganization Act of 1994 (
+            <aref type='USC'>
+              <subref title='7' sect='6944' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6944.html'>
+                7 U.S.C. 6944
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Office of the Administrator.
+            </head>
+          </npcatch>
+          <text>
+             According to 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='2' sect='48' psec='' tq='N'>
+                2.48
+              </subref>
+            </aref>
+            , the Administrator is responsible for managing and administering
+            the programs and support functions of RBS to provide assistance to
+            disadvantaged communities through grants and loans and technical
+            assistance to businesses and communities for rural citizens and
+            cooperatives, pursuant to the following authorities: the Rural
+            Electrification Act of 1936, as amended (
+            <aref type='USC'>
+              <subref title='7' sect='940c' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/940c.html'>
+                7 U.S.C. 940c
+              </subref>
+               and 
+              <subref title='7' sect='950aa' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/950aa.html'>
+                950aa
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ), the Consolidated Farm and Rural Development Act (
+            <aref type='USC'>
+              <subref title='7' sect='1921' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1921.html'>
+                7 U.S.C. 1921
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ), the Cooperative Marketing Act of 1926 (
+            <aref type='USC'>
+              <subref title='7' sect='451-457' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/451-457.html'>
+                7 U.S.C. 451-457
+              </subref>
+            </aref>
+            ), the Agricultural Marketing Act of 1946 (
+            <aref type='USC'>
+              <subref title='7' sect='1621-162' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621-162.html'>
+                7 U.S.C. 1621-162
+              </subref>
+            </aref>
+            7), and the Food Security Act of 1985 (
+            <aref type='USC'>
+              <subref title='7' sect='1932' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1932.html'>
+                7 U.S.C. 1932
+              </subref>
+            </aref>
+            ). These grants, loans, and technical assistance improve community
+            welfare by enhancing organizational and management skills,
+            developing effective economic strategies, and expanding markets for
+            a wide range of rural products and services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Resources Coordination Staff.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the staff director, this staff is responsible to the
+            Administrator for preparing legislative initiatives and
+            modifications for program enhancement. The staff monitors
+            legislative and regulatory proposals that potentially impact RBS
+            functions. The staff serves as liaison on budgetary and financial
+            management matters between RBS staff and the Office of the
+            Controller, and assists the Administrator in presenting and
+            supporting RBS&apos;s budget and program plans. The staff also
+            advises the Administrator and RBS officials on management issues and
+            policies related to: human resources, labor relations, civil rights,
+            EEO, space, equipment, travel, Senior Executive Service and Schedule
+            C activities, contracting, automated information systems, and
+            accounting. The staff provides analysis and recommendations on the
+            effectiveness of administrative and management activities, and
+            performs liaison functions between RBS and the Office of the Deputy
+            Under Secretary for O&amp;M on a wide variety of administrative
+            functions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Office of the Deputy Administrator, Business Programs.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Deputy Administrator, Business Programs, 
+            <PRTPAGE P='16' />
+            this office is responsible to the Administrator for overseeing and
+            coordinating the Business and Industry Guaranteed and Direct Loan
+            programs, Intermediary Relending Program loans, Rural Business
+            Enterprise grants, Rural Business Opportunity grants, Rural Economic
+            Development loan and grant programs, and the Rural Venture Capital
+            Demonstration Program. The office participates in policy planning,
+            and program development and evaluation. It also directs the
+            following three divisions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Processing Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this division is responsible for
+            developing and maintaining loan processing regulations, and directs
+            the processing and approval of guaranteed and direct business and
+            industry loans, and the Rural Venture Capital Demonstration Program.
+            It provides technical assistance to field employees and borrowers on
+            loan processing and develops approval criteria and performance
+            standards for loans. The division recommends plans, programs, and
+            activities related to business loan programs and provides
+            environmental guidance and support.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Servicing Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this office is responsible for
+            developing and maintaining servicing regulations. It directs and
+            provides technical assistance to field employees and borrowers on
+            servicing business loans and grants. The division reviews large,
+            complex, or potentially controversial loan and grant dockets related
+            to loan servicing and recommends servicing plans, programs, and
+            activities related to business loan and grant programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+            <head>
+              Specialty Lenders Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this office is responsible for
+            directing and developing and maintaining regulations concerning the
+            processing and approval of Intermediary Relending loans, Rural
+            Business Enterprise grants, Rural Business Opportunity grants, and
+            Rural Economic Development loan and grant programs. The division
+            provides technical assistance to field employees and borrowers on
+            loan and grant processing and other activities. It also develops
+            approval criteria and performance standards and recommends plans,
+            programs, and activities related to business loan and grant
+            programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Office of the Deputy Administrator, Cooperative Services Programs.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Deputy Administrator, Cooperative Services Programs,
+            this office is responsible to the Administrator for providing
+            service to cooperative associations by administering a program of
+            research and analysis of economic, social, legal, financial, and
+            other related issues concerning cooperatives. The office administers
+            programs to assist cooperatives in the organization and management
+            of their associations and a program for economic research and
+            analysis of the marketing aspects of cooperatives. The division
+            administers and monitors activities of the National Sheep Industry
+            Improvement Center and the Appropriate Technology Transfer to Rural
+            Areas Program, and the Rural Cooperative Development Grant Program.
+            The office directs the following three divisions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Cooperative Marketing Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this division is responsible for
+            participating in the formulation of National policies and procedures
+            on cooperative marketing. The division conducts research and
+            analysis and gives technical assistance to farmer cooperatives on
+            cooperative marketing of certain crops, livestock, aquaculture,
+            forestry, poultry, semen, milk, and dairy products to improve their
+            market performance and economic position.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Cooperative Development Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this division is responsible for
+            participating in the formulation of National policies and procedures
+            on cooperative development. The office conducts evaluations and
+            analysis of proposed new cooperatives to develop plans for
+            implementing feasible operations, and advises and assists rural
+            resident groups and developing cooperatives in implementing sound
+            business plans for new cooperatives. It provides research, analysis,
+            and technical assistance to rural residents on cooperative
+            development initiatives and strategies to improve economic
+            conditions through cooperative efforts.
+            <PRTPAGE P='17' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+            <head>
+              Cooperative Resource Management Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this division is responsible for
+            participating in the formulating of National policies and procedures
+            on cooperative resource management. The division conducts research
+            and analysis and gives technical assistance to cooperatives on their
+            overall structure, strategic management and planning, financial
+            issues, and operational characteristics to improve their use of
+            resources, financial policies, and ability to adapt to market
+            conditions. The division conducts research and analysis of policy,
+            taxation, Federal laws, State statutes, and common laws that apply
+            to cooperative incorporation, structure, and operation to assist
+            cooperatives in meeting legal requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Office of the Deputy Administrator, Community Development.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the Deputy Administrator, Community Development, this
+            office is responsible to the Under Secretary, Rural Development, for
+            coordinating and overseeing all functions in the Community Outreach
+            and Empowerment Program areas. The office assists in providing
+            leadership and coordination to National and local rural economic and
+            community development efforts. For appropriation and accounting
+            purposes, this office is located under RBS. The office directs the
+            following two divisions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Empowerment Program Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this division is responsible for
+            formulating policies and developing plans, standards, procedures,
+            and schedules for accomplishing RBS activities related to “community
+            empowerment programs”, including EZ/EC, AmeriCorps, and other
+            initiatives. The office develops informational materials and
+            provides technical advice and services to support States on
+            community empowerment programs. It also generates information about
+            rural conditions and strategies and techniques for promoting rural
+            economic development for community empowerment programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Community Outreach Division.
+            </head>
+          </npcatch>
+          <text>
+             Headed by the division director, this division is responsible for
+            designing and overseeing overall systems and developing resources to
+            support State and community level implementation activities for RBS
+            programs. The office designs program delivery systems and tools,
+            removes impediments to effective community-level action, supports
+            field offices with specialized skills, and establishes partnerships
+            with National organizations with grass-roots membership to assure
+            that programs and initiatives are designed and implemented in a way
+            that empowers communities. It develops methods for working with
+            rural business intermediaries to assist them in providing technical
+            assistance to new, small business, and provides Internet-based
+            services to 1890 Land-grant universities, EZ/EC, and AmeriCorps
+            volunteers, linking RBS information support to communities with high
+            levels of need.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Alternative Agricultural Research and Commercialization
+              Corporation.
+            </head>
+          </npcatch>
+          <text>
+             Headed by a director, this Corporation is responsible for providing
+            and monitoring financial assistance for the development and
+            commercialization of new nonfood and nonfeed products from
+            agricultural and forestry commodities in accordance with 
+            <aref type='USC'>
+              <subref title='7' sect='5901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/5901.html'>
+                7 U.S.C. 5901
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+             The Corporation acts as a catalyst in forming private and public
+            partnerships and promotes new uses of agricultural materials. It
+            expands market opportunities for U.S. farmers through development of
+            value-added industrial products and promotes environmentally
+            friendly products. For budget and accounting purposes, this office
+            is assigned to RBS. The director of the Corporation is responsible
+            to the Office of the Secretary.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15800'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2003:A:2003.27-2003.50
+      </extid>
+      <num st='2'>
+        2003.27-2003.50
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='2003' sect='27-2003' psec='' tq='N'>
+              2003.27-2003
+            </subref>
+          </aref>
+          .50
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

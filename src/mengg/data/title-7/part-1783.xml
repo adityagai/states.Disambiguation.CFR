@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol12'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1783
+    </extid>
+    <num>
+      1783
+    </num>
+    <head>
+      REVOLVING FUNDS FOR FINANCING WATER AND WASTEWATER PROJECTS (REVOLVING
+      FUND PROGRAM)
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1926' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1926.html'>
+              7 U.S.C. 1926
+            </subref>
+          </aref>
+           (a)(2)(B).
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            69 FR 59772
+          </aref>
+          , Oct. 6, 2004, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='14615'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:A:1783.1
+      </extid>
+      <num st='1'>
+        1783.1
+      </num>
+      <head>
+        What is the purpose of the Revolving Fund Program?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='1' psec='' tq='N'>
+              1783.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What is the purpose of the Revolving Fund Program?
+        </SUBJECT>
+        <P>
+          This part sets forth the policies and procedures for making grants to
+          qualified private, non-profit entities to capitalize revolving funds
+          for the purpose of providing financing to eligible entities for
+          pre-development costs associated with proposed water and wastewater
+          projects or with existing water and wastewater systems, and short-term
+          costs incurred for replacement equipment, small-scale extension of
+          services, or other small capital projects that are not part of the
+          regular operations and maintenance activities of existing water and
+          wastewater systems.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14616'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:A:1783.2
+      </extid>
+      <num st='1'>
+        1783.2
+      </num>
+      <head>
+        What Uniform Federal Assistance Provisions apply to the Revolving Fund
+        Program?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='2' psec='' tq='N'>
+              1783.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What Uniform Federal Assistance Provisions apply to the Revolving Fund
+          Program?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This program is subject to the general provisions that apply to all
+            grants made by USDA and that are set forth in 
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            —Uniform Federal Assistance Regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This program is subject to the uniform administrative requirements
+            that apply to all grants made by USDA to non-profit organizations
+            and that are set forth in 
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            —Uniform Administrative Requirements for Grants And Agreements with
+            Institutions of Higher Education, Hospitals, and Other Non-Profit
+            Organizations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             This program is subject to OMB Circular No. A-122 (Revised): Cost
+            Principles for Non-Profit Organizations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14617'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:A:1783.3
+      </extid>
+      <num st='1'>
+        1783.3
+      </num>
+      <head>
+        What definitions are used in this regulation?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='3' psec='' tq='N'>
+              1783.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What definitions are used in this regulation?
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Administrative expenses
+          </E>
+           means expenses incurred by a grant recipient that are of the type
+          more particularly described in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='12' psec='' tq='N'>
+              1783.12
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means a private, non-profit organization that applies for an RFP
+          grant under this part.
+        </P>
+        <P>
+          <E T='03'>
+            CONACT
+          </E>
+           means the Consolidated Farm and Rural Development Act.
+        </P>
+        <P>
+          <E T='03'>
+            Eligible entity
+          </E>
+           means an entity eligible to obtain a loan, loan guarantee or grant
+          under paragraph 1 or paragraph 2 of 
+          <aref type='CFR-TIC-SECT'>
+            section 306(a)
+          </aref>
+           the CONACT (codified at 
+          <aref type='USC'>
+            <subref title='7' sect='1926' note='' psec='#a_1' tq='N' target='http://www.law.cornell.edu/uscode/7/1926.html#a_1'>
+              7 U.S.C. 1926(a)(1)
+            </subref>
+          </aref>
+           and (2)).
+        </P>
+        <P>
+          <E T='03'>
+            Grant agreement
+          </E>
+           means the contract between RUS and the grant recipient which sets
+          forth the terms and conditions governing a particular grant awarded
+          under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Grant recipient
+          </E>
+           means a private, non-profit entity that has been awarded a grant
+          under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Loan recipient
+          </E>
+           means an eligible entity that has received an RFP loan.
+        </P>
+        <P>
+          <E T='03'>
+            Revolved funds
+          </E>
+           means the cash portion of the revolving loan fund that is not
+          composed of RFP grant funds, including cash comprising repayments of
+          RFP loans, fees relating to RFP loans and interest collected on RFP
+          loans.
+        </P>
+        <P>
+          <E T='03'>
+            Revolving loan fund
+          </E>
+           means the loan fund established by the grant recipient to carry out
+          the purposes of this part, such fund comprising the proceeds of an RFP
+          grant and other related assets.
+        </P>
+        <P>
+          <E T='03'>
+            RFP
+          </E>
+           means Revolving Fund Program.
+        </P>
+        <P>
+          <E T='03'>
+            RFP grant
+          </E>
+           means a grant from RUS to a grant recipient under this part.
+        </P>
+        <P>
+          <E T='03'>
+            RFP loan
+          </E>
+           means a loan from a grant recipient using the direct or indirect
+          proceeds of an RFP grant awarded under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Rural and rural area
+          </E>
+           means a city, town or unincorporated area that has a population of no
+          more than 10,000 inhabitants, according to the latest decennial census
+          of the United States.
+        </P>
+        <P>
+          <E T='03'>
+            RUS
+          </E>
+           means the Rural Utilities Service, a Federal agency delivering the
+          USDA&apos;s Rural Development Utilities Program.
+        </P>
+        <P>
+          <E T='03'>
+            USDA
+          </E>
+           means the United States Department of Agriculture.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14618'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:A:1783.4
+      </extid>
+      <num st='1'>
+        1783.4
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='356' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='4' psec='' tq='N'>
+              1783.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14619'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.5
+      </extid>
+      <num st='0'>
+        1783.5
+      </num>
+      <head>
+        What are the eligibility criteria for grant recipients?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          1783.5
+        </SECTNO>
+        <SUBJECT>
+          What are the eligibility criteria for grant recipients?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must be a private entity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must be organized as a non-profit entity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must have the legal capacity and lawful authority to
+            perform the obligations of a grantee under this part. 
+          </text>
+        </P>
+        <EXAMPLE>
+          <HD SOURCE='HED'>
+            Example 1 to paragraph (c):
+          </HD>
+          <P>
+            If the organization is incorporated as a non-profit corporation, it
+            must have corporate authority under state law and its corporate
+            charter to engage in the practice of making loans to legal entities.
+          </P>
+        </EXAMPLE>
+        <EXAMPLE>
+          <HD SOURCE='HED'>
+            Example 2 to paragraph (c):
+          </HD>
+          <P>
+            If the organization is an unincorporated association, state law may
+            prevent the organization from entering into binding contracts, such
+            as a grant agreement.
+          </P>
+        </EXAMPLE>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must have sufficient expertise and experience in
+            making and servicing loans to assure the likelihood that the
+            objectives of this part can be achieved.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14620'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.6
+      </extid>
+      <num st='1'>
+        1783.6
+      </num>
+      <head>
+        When will applications for grants be accepted?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='6' psec='' tq='N'>
+              1783.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When will applications for grants be accepted?
+        </SUBJECT>
+        <P>
+          In Fiscal Year 2004, applications will be accepted for this RFP grant
+          program from October 6, 2004, until December 6, 2004, at which time
+          the initial application period shall close. An applicant may withdraw,
+          substitute, amend or supplement its application at any time prior to
+          the closing of the initial application period. Once the initial
+          application period has closed, all applications shall be considered
+          final. For subsequent fiscal years, if any funds for this program are
+          available, the Secretary will publish a notice to that effect. The
+          notice will establish the period during which applications for such
+          funds may be submitted for consideration.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14621'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.7
+      </extid>
+      <num st='1'>
+        1783.7
+      </num>
+      <head>
+        What is the grant application process?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='7' psec='' tq='N'>
+              1783.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What is the grant application process?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must complete and submit the following items to RUS
+            to apply for a grant under this part:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Application for Federal Assistance: 
+            <E T='03'>
+              Standard Form 424;
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Budget Information—Non-Construction Programs: 
+            <E T='03'>
+              Standard Form 424A;
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Assurances—Non-Construction Programs: 
+            <E T='03'>
+              Standard Form 424B;
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence of applicant&apos;s legal existence and authority in the
+            form of certified copies of organizational documents and a certified
+            list of directors and officers with their respective terms;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence of tax exempt status, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Most recent annual audit conducted by an independent auditor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must submit a written work plan that demonstrates the
+            ability of the applicant to make and service loans to eligible
+            entities under this program and the feasibility of the
+            applicant&apos;s lending program to meet the objectives of this
+            part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant should submit a narrative establishing the basis for
+            any claims that it has substantial expertise in making and servicing
+            loans. The Secretary will give priority to an applicant that
+            demonstrates it has substantial experience of this type.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant may submit such additional information as it elects
+            to support and describe its plan for achieving the objectives of the
+            part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14622'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.8
+      </extid>
+      <num st='1'>
+        1783.8
+      </num>
+      <head>
+        What are the acceptable methods for submitting applications?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='8' psec='' tq='N'>
+              1783.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What are the acceptable methods for submitting applications?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications for RFP grants may be submitted by U.S. Mail.
+            Applications submitted by mail must be addressed as follows: Rural
+            Utilities Service, U.S. Department of Agriculture, 1400 Independence
+            Avenue, SW., STOP 1548, Washington, DC 20250-1548. The outside of
+            the application should be marked: “Attention: Assistant
+            Administrator, Water and Environmental Programs.” Applications
+            submitted by mail must be postmarked not later than the filing
+            deadline to be considered during the period for which the
+            application was submitted.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In lieu of submitting an application by U.S. Mail, an applicant may
+            file its application electronically by using the Federal
+            Government&apos;s eGrants Web site (Grants.gov) at 
+            <E T='03'>
+              http://www.grants.gov.
+            </E>
+             Applicants should refer 
+            <PRTPAGE P='357' />
+            to instructions found on the Grants.gov Web site for procedures for
+            registering and using this facility. Applicants who have not
+            previously registered on Grants.gov should allow a sufficient number
+            of business days to complete the process necessary to be qualified
+            to apply for Federal Government grants using electronic submissions.
+            Electronic submissions must be filed not later than the filing
+            deadline to be considered during the period for which the
+            application was submitted.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The methods of submitting applications may be changed from time to
+            time to reflect changes in addresses and electronic submission
+            procedures. Applicants should refer to the most recent notice of
+            funding availability for notice of any such changes. In the event of
+            any discrepancy, the information contained in the notice must be
+            followed.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14623'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.9
+      </extid>
+      <num st='1'>
+        1783.9
+      </num>
+      <head>
+        What are the criteria for scoring applications?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='9' psec='' tq='N'>
+              1783.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What are the criteria for scoring applications?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications that are incomplete or ineligible will be returned to
+            the applicant, accompanied by a statement explaining why the
+            application is being returned.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Promptly after an application period closes, all applications that
+            are complete and eligible will be ranked competitively based on the
+            following scoring criteria:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Degree of expertise and successful experience in making and
+            servicing commercial loans, with a successful record, for the
+            following number of full years:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             At least 1 but less than 3 years—5 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             At least 3 but less than 5 years—10 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             At least 5 but less than 10 years—20 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             10 or more years—30 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Extent to which the work plan demonstrates a well thought out,
+            comprehensive approach to accomplishing the objectives of this part,
+            clearly defines who will be served by the project, clearly
+            articulates the problem/issues to be addressed, identifies the
+            service area to be covered by the RFP loans, and appears likely to
+            be sustainable. Up to 40 points.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Percentage of applicant contributions. Points allowed under this
+            paragraph will be based on written evidence of the availability of
+            funds from sources other than the proceeds of an RFP grant to pay
+            part of the cost of a loan recipient&apos;s project. In-kind
+            contributions will not be considered. Funds from other sources as a
+            percentage of the RFP grant and points corresponding to such
+            percentages are as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Less than 20%—ineligible
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             At least 20% but less than 50%—10 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             50% or more—20 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Extent to which the goals and objectives are clearly defined, tied
+            to the work plan, and are measurable. Up to 15 points.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Lowest ratio of projected administrative expenses to loans
+            advanced. Up to 10 points.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The evaluation methods for considering loan applications and making
+            RFP loans are specific to the program, clearly defined, measurable,
+            and are consistent with program outcomes. Up to 20 points.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Administrator&apos;s discretion, considering such factors as
+            creative outreach ideas for marketing RFP loans to rural residents;
+            the amount of funds requested in relation to the amount of needs
+            demonstrated in the work plan; previous experiences demonstrating
+            excellent utilization of a revolving loan fund grant; and optimizing
+            the use of agency resources. Up to 10 points.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             All qualifying applications under this part will be scored based on
+            the criteria contained in this section. Awards will be made based on
+            the highest ranking applications and the amount of financial
+            assistance available for RFP grants. All applicants will be notified
+            of the results in writing on form AD-622.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14624'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.10
+      </extid>
+      <num st='1'>
+        1783.10
+      </num>
+      <head>
+        What is the grant agreement?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='10' psec='' tq='N'>
+              1783.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What is the grant agreement?
+        </SUBJECT>
+        <P>
+          RUS and the grant recipient will enter into a contract setting forth
+          the terms and conditions governing a particular RFP grant award. RUS
+          will furnish the form of grant agreement. No funds awarded under this
+          part shall be disbursed to the grant recipient before the grant
+          agreement is binding and 
+          <PRTPAGE P='358' />
+          RUS has received a fully executed counterpart of the grant agreement.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14625'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.11
+      </extid>
+      <num st='1'>
+        1783.11
+      </num>
+      <head>
+        What is the revolving loan fund?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='11' psec='' tq='N'>
+              1783.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What is the revolving loan fund?
+        </SUBJECT>
+        <P>
+          The grant recipient shall establish and maintain a revolving loan fund
+          for the purposes set forth in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='12' psec='' tq='N'>
+              1783.12
+            </subref>
+          </aref>
+          . The revolving loan fund shall be comprised of revolving loan fund
+          grant funds and the grant recipient&apos;s contributed funds. All
+          revolving loan fund loans made to loan recipients shall be drawn from
+          the revolving loan fund. All revolving loan fund loans shall be
+          serviced and the revolving loan fund maintained, in accordance with
+          this part and applicable law.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14626'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.12
+      </extid>
+      <num st='1'>
+        1783.12
+      </num>
+      <head>
+        What are eligible uses of grant proceeds?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='12' psec='' tq='N'>
+              1783.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What are eligible uses of grant proceeds?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Grant proceeds shall be used solely for the purpose of establishing
+            the revolving loan fund to provide loans to eligible entities for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Pre-development costs associated with proposed water and wastewater
+            projects or with existing water and wastewater systems, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Short-term costs incurred for replacement equipment, small-scale
+            extension of services, or other small capital projects that are not
+            part of the regular operations and maintenance activities of
+            existing water and wastewater systems.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A grant recipient may not use grant funds in any manner
+            inconsistent with the terms of the grant agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14627'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:B:1783.13
+      </extid>
+      <num st='1'>
+        1783.13
+      </num>
+      <head>
+        What administrative expenses may be funded with grant proceeds?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='13' psec='' tq='N'>
+              1783.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What administrative expenses may be funded with grant proceeds?
+        </SUBJECT>
+        <P>
+          RFP grant funds may not be used for any purposes not described in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='12' psec='' tq='N'>
+              1783.12
+            </subref>
+          </aref>
+          , including, without limitation, payment or reimbursement of any of
+          the grant recipient&apos;s administrative costs or expenses.
+          Administrative expenses may, however, be paid or reimbursed from
+          revolving loan fund assets that are not RFP grant funds, including
+          revolved funds and cash originally contributed by the grant recipient.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14628'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:C:1783.14
+      </extid>
+      <num st='1'>
+        1783.14
+      </num>
+      <head>
+        What are the eligibility criteria for RFP loan recipients?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='14' psec='' tq='N'>
+              1783.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What are the eligibility criteria for RFP loan recipients?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A loan recipient must be an eligible entity as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1783' sect='3' psec='' tq='N'>
+                1783.3
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The loan recipient must be unable to finance the proposed project
+            from their own resources or through commercial credit at reasonable
+            rates and terms.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The loan recipient must have or will obtain the legal authority
+            necessary for owning, constructing, operating and maintaining the
+            proposed service or facility, and for obtaining, giving security
+            for, and repaying the proposed loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The project funded by the proceeds of an RFP loan must be located
+            in, or the services provided as the result of such project must
+            benefit, rural areas.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14629'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:C:1783.15
+      </extid>
+      <num st='1'>
+        1783.15
+      </num>
+      <head>
+        What are the terms of RFP loans?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='15' psec='' tq='N'>
+              1783.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What are the terms of RFP loans?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             RFP loans under this part—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Shall have an interest rate that is determined by the grant
+            recipient and approved by RUS;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Shall have a terms not to exceed 10 years; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Shall not exceed the lesser of $100,000 or 75 percent of the total
+            cost of a project. The total outstanding balance for all loans under
+            this program to any one entity shall not exceed $100,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The grant recipient must set forth the RFP loan terms in written
+            documentation signed by the loan recipient.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Grant recipients must develop and use RFP loan documentation that
+            conforms to the terms of this part, the grant agreement, and the
+            laws of the state or states having jurisdiction.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14630'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1783:C:1783.16
+      </extid>
+      <num st='1'>
+        1783.16
+      </num>
+      <head>
+        How will the loans given from the revolving fund be serviced?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1783' sect='16' psec='' tq='N'>
+              1783.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How will the loans given from the revolving fund be serviced?
+        </SUBJECT>
+        <P>
+          The grant recipient shall be responsible for servicing all loans, to
+          include preparing loan agreements, processing loan payments, reviewing
+          financial statements and debt reserves balances, and other
+          responsibilities such as enforcement of loan terms. Loan servicing
+          will be in accordance with the 
+          <PRTPAGE P='359' />
+          work plan approved by the Agency when the grant is awarded for as long
+          as any loan made in whole or in part with Agency grant funds is
+          outstanding.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

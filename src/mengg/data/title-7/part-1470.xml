@@ -1,0 +1,4406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1470
+    </extid>
+    <num>
+      1470
+    </num>
+    <head>
+      CONSERVATION STEWARDSHIP PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='3838d-383' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3838d-383.html'>
+              16 U.S.C. 3838d-383
+            </subref>
+          </aref>
+          8g.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            75 FR 31653
+          </aref>
+          , June 3, 2010, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='13027'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:A:1470.1
+      </extid>
+      <num st='1'>
+        1470.1
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='1' psec='' tq='N'>
+              1470.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This part sets forth the policies, procedures, and requirements for
+            the Conservation Stewardship Program (CSP) as administered by the
+            Natural Resources Conservation Service (NRCS), for enrollment during
+            fiscal year (FY) 2009 and thereafter.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The purpose of CSP is to encourage producers to address resource
+            concerns in a comprehensive manner by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Undertaking additional conservation activities; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Improving, maintaining, and managing existing conservation
+            activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             CSP is applicable in any of the 50 States, District of Columbia,
+            Commonwealth of Puerto Rico, Guam, Virgin Islands of the United
+            States, American Samoa, and Commonwealth of the Northern Mariana
+            Islands.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS provides financial assistance and technical assistance to
+            participants for the conservation, protection, and improvement of
+            soil, water, and other related natural resources, and for any
+            similar conservation purpose as determined by NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13028'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:A:1470.2
+      </extid>
+      <num st='1'>
+        1470.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='2' psec='' tq='N'>
+              1470.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations in this part will be administered under the general
+            supervision and direction of the Chief, NRCS, who is a Vice
+            President of the Commodity Credit Corporation (CCC).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief is authorized to modify or waive a provision of this part
+            if the Chief deems the application of that provision to a particular
+            limited situation to be inappropriate and inconsistent with the
+            purposes of the program. This authority cannot be further delegated.
+            The Chief may not modify or waive any provision of this part which
+            is required by applicable law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To achieve the conservation goals of CSP, NRCS will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Make the program available nationwide to eligible applicants on a 
+            <PRTPAGE P='854' />
+            continuous application basis with one or more ranking periods to
+            determine enrollments. One of the ranking periods will occur in the
+            first quarter of each fiscal year, to the extent practicable; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Develop conservation measurement tools (CMT) for the purpose of
+            carrying out the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             During the period beginning on October 1, 2008, and ending on
+            September 30, 2017, NRCS will, to the maximum extent practicable:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Enroll in CSP an additional 12,769,000 acres for each fiscal year;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Manage CSP to achieve a national average rate of $18 per acre,
+            which includes the costs of all financial and technical assistance
+            and any other expenses associated with program enrollment and
+            participation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Obtain advice from the State Technical Committee and local working
+            groups on the development of State-level technical, outreach, and
+            program matters, including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Establishment of ranking pools appropriate for the conduct of CSP
+            within the State to ensure program availability and prioritization
+            of conservation activities. Ranking pools may be based on
+            watersheds, geographic areas, or other appropriate regions within a
+            State and may consider high-priority regional and State-level
+            resource concern areas;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Identification of not less than three, nor more than five priority
+            resource concerns in particular watersheds, geographic areas, or
+            other appropriate regions within a State;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Identification of resource-conserving crops that will be part of
+            resource-conserving crop rotations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Development of design protocols and participation procedures for
+            participation in on-farm research, and demonstration and pilot
+            projects; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Evaluation of Cooperative Conservation Partnership Initiative
+            (CCPI) projects and allowable program adjustments for the conduct of
+            projects.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Assign NRCS employees as designated conservationists to be
+            responsible for CSP at the local level; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Be responsible for the program in their assigned State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may enter into agreements with Federal, State, and local
+            agencies, conservation districts, Indian tribes, private entities,
+            and individuals to assist NRCS with program implementation.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13029'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:A:1470.3
+      </extid>
+      <num st='1'>
+        1470.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='3' psec='' tq='N'>
+              1470.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions will apply to this part and all documents
+          issued in accordance with this part, unless specified otherwise:
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural land
+          </E>
+           means cropland, rangeland, and pastureland on which agricultural
+          products or livestock are produced and resource concerns may be
+          addressed. Agricultural lands may also include other land and
+          incidental areas included in the agricultural operation as determined
+          by NRCS. Other agricultural lands include cropped woodland, marshes,
+          incidental areas included in the agricultural operation, and other
+          types of agricultural land used for production of livestock.
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural operation
+          </E>
+           means all agricultural land and other land, as determined by NRCS,
+          whether contiguous or noncontiguous:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Which is under the effective control of the applicant; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Which is operated by the applicant with equipment, labor,
+            management, and production or cultivation practices that are
+            substantially separate from other operations.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Animal waste storage or treatment facility
+          </E>
+           means a structural conservation practice used for storing or treating
+          animal waste.
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means a person, legal entity, joint operation, or Indian tribe that
+          has an interest in an agricultural operation, as defined in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1400' tq='N'>
+              1400
+            </subref>
+          </aref>
+          , who has requested in writing to participate in CSP.
+        </P>
+        <P>
+          <E T='03'>
+            Beginning farmer or rancher
+          </E>
+           means:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An individual or legal entity who:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Has not operated a farm, ranch, or nonindustrial private forest
+            land (NIPF), or who has operated a farm, ranch, or NIPF for not more
+            than 10 consecutive years (this requirement applies to all members
+            of a legal entity); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Will materially and substantially participate in the operation of
+            the farm or ranch.
+            <PRTPAGE P='855' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a contract with an individual, individually, or with
+            the immediate family, material and substantial participation
+            requires that the individual provide substantial day-to-day labor
+            and management of the farm or ranch, consistent with the practices
+            in the county or State where the farm is located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a contract with a legal entity or joint operation,
+            all members must materially and substantially participate in the
+            operation of the farm or ranch. Material and substantial
+            participation requires that each of the members provide some amount
+            of the management or labor and management necessary for day-to-day
+            activities, such that if each of the members did not provide these
+            inputs, operation of the farm or ranch would be seriously impaired.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Chief
+          </E>
+           means the Chief of NRCS, or designee.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation activities
+          </E>
+           means conservation systems, practices, or management measures needed
+          to address a resource concern or improve environmental quality through
+          the treatment of natural resources, and includes structural,
+          vegetative, and management activities as determined by NRCS.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation district
+          </E>
+           means any district or unit of State, tribal, or local government
+          formed under State, tribal, or territorial law for the express purpose
+          of developing and carrying out a local soil and water conservation
+          program. Such district or unit of government may be referred to as a
+          “conservation district,” “soil conservation district,” “soil and water
+          conservation district,” “resource conservation district,” “land
+          conservation committee,” “natural resource district,” or similar name.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation measurement tool
+          </E>
+           means procedures developed by NRCS to estimate the level of
+          environmental benefit to be achieved by a producer using the proxy of
+          conservation performance.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation planning
+          </E>
+           means using the planning process outlined in the applicable National
+          Planning Procedures Handbook (NPPH).
+        </P>
+        <P>
+          <E T='03'>
+            Conservation practice
+          </E>
+           means a specified treatment, such as a structural or vegetative
+          practice or management technique, commonly used to meet a specific
+          need in planning and carrying out conservation programs for which
+          standards and specifications have been developed. Conservation
+          practices are in the NRCS Field Office Technical Guide, section IV,
+          which is based on the National Handbook of Conservation Practices.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation stewardship plan
+          </E>
+           means a record of the participant&apos;s decisions that describes the
+          schedule of conservation activities to be implemented, managed, or
+          improved. Associated supporting information that identifies and
+          inventories resource concerns and existing conservation activities,
+          establishes benchmark data, and documents the participant&apos;s
+          conservation objectives will be maintained with the plan.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation system
+          </E>
+           means a combination of conservation practices, management measures,
+          and enhancements used to address natural resource and environmental
+          concerns in a comprehensive, holistic, and integrated manner.
+        </P>
+        <P>
+          <E T='03'>
+            Contract
+          </E>
+           means a legal document that specifies the rights and obligations of
+          any participant who has been accepted into the program. A CSP contract
+          is an agreement for the transfer of assistance from NRCS to the
+          participant for installing, adopting, improving, managing, and
+          maintaining conservation activities.
+        </P>
+        <P>
+          <E T='03'>
+            Designated conservationist
+          </E>
+           means an NRCS employee whom the State Conservationist has designated
+          as responsible for CSP at the local level.
+        </P>
+        <P>
+          <E T='03'>
+            Effective control
+          </E>
+           means possession of the land by ownership, written lease, or other
+          legal agreement and authority to act as decisionmaker for the
+          day-to-day management of the operation both at the time the applicant
+          enters into a stewardship contract and for the required period of the
+          contract.
+        </P>
+        <P>
+          <E T='03'>
+            Enhancement
+          </E>
+           means a type of conservation activity used to treat natural resources
+          and improve conservation performance. Enhancements are installed at a
+          level of management intensity that exceeds the sustainable level for a
+          given resource concern, and those enhancements directly related to a
+          practice standard are applied in a manner that exceeds the minimum
+          treatment requirements of the standard.
+          <PRTPAGE P='856' />
+        </P>
+        <P>
+          <E T='03'>
+            Enrollment
+          </E>
+           means for the initial sign-up for FY 2009, NRCS will consider a
+          participant “enrolled” in CSP based on the fiscal year the application
+          is submitted, once NRCS approves the participant&apos;s contract. For
+          subsequent ranking cut-off periods, NRCS will consider a participant
+          enrolled in CSP based on the fiscal year the contract is approved.
+        </P>
+        <P>
+          <E T='03'>
+            Field office technical guide
+          </E>
+           means the official local NRCS source of resource information and
+          interpretations of guidelines, criteria, and standards for planning
+          and applying conservation practices and conservation management
+          systems. It contains detailed information on the conservation of soil,
+          water, air, plant, and animal resources applicable to the local area
+          for which it is prepared.
+        </P>
+        <P>
+          <E T='03'>
+            Indian lands
+          </E>
+           means all lands held in trust by the United States for individual
+          Indians or Indian tribes, or all land titles held by individual
+          Indians or tribes, subject to Federal restrictions against alienation
+          or encumbrance, or lands subject to the rights of use, occupancy, or
+          benefit of certain Indian tribes. This term also includes lands for
+          which the title is held in fee status by Indian tribes and the U.S.
+          Government-owned land under the Bureau of Indian Affairs (BIA)
+          jurisdiction.
+        </P>
+        <P>
+          <E T='03'>
+            Indian Tribe
+          </E>
+           means any Indian tribe, band, nation, pueblo, or other organized
+          group or community, including any Alaska Native village or regional or
+          village corporation as defined in or established pursuant to the
+          Alaska Native Claims Settlement Act (
+          <aref type='USC'>
+            <subref title='43' sect='1601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601.html'>
+              43 U.S.C. 1601
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ), which is recognized as eligible for the special programs and
+          services provided by the United States to Indians because of their
+          status as Indians.
+        </P>
+        <P>
+          <E T='03'>
+            Joint operation
+          </E>
+           means, as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , a general partnership, joint venture, or other similar business
+          arrangement in which the members are jointly and severally liable for
+          the obligations of the organization.
+        </P>
+        <P>
+          <E T='03'>
+            Legal entity
+          </E>
+           means, as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , an entity created under Federal or State law.
+        </P>
+        <P>
+          <E T='03'>
+            Limited Resource Farmer or Rancher
+          </E>
+           means:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A person with direct or indirect gross farm sales not more than the
+            current indexed value in each of the previous 2 years ($142,000 is
+            the amount for 2010, adjusted for inflation using Prices Paid by
+            Farmer Index as compiled by the National Agricultural Statistical
+            Service); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Has a total household income at or below the national poverty level
+            for a family of four, or less than 50 percent of county median
+            household income in each of the previous 2 years (to be determined
+            annually using Department of Commerce Data).
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Liquidated damages
+          </E>
+           means a sum of money stipulated in the CSP contract that the
+          participant agrees to pay NRCS if the participant fails to fulfill the
+          terms of the contract. The sum represents an estimate of the technical
+          assistance expenses incurred to service the contract, and reflects the
+          difficulties of proof of loss and the inconvenience or non-feasibility
+          of otherwise obtaining an adequate remedy.
+        </P>
+        <P>
+          <E T='03'>
+            Local working group
+          </E>
+           means the advisory body as described in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='610' tq='N'>
+              610
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Management measure
+          </E>
+           means one or more specific actions that is not a conservation
+          practice, but has the effect of alleviating problems or improving the
+          treatment of the natural resources.
+        </P>
+        <P>
+          <E T='03'>
+            National Organic Program
+          </E>
+           means the program, administered by the Department of Agriculture
+          (USDA) Agricultural Marketing Service, which regulates the standards
+          for any farm, wild crop harvesting, or handling operation that wants
+          to market an agricultural product as organically produced.
+        </P>
+        <P>
+          <E T='03'>
+            Natural Resources Conservation Service
+          </E>
+           means an agency of USDA which has responsibility for administering
+          CSP using the funds, facilities, and authorities of the CCC.
+        </P>
+        <P>
+          <E T='03'>
+            Nonindustrial private forest land
+          </E>
+           means rural land that has existing tree cover or is suitable for
+          growing trees, and is owned by an individual, group, association,
+          corporation, Indian tribe, or other private legal entity that has
+          definitive decisionmaking authority over the land.
+        </P>
+        <P>
+          <E T='03'>
+            Operation and maintenance
+          </E>
+           means work performed by the participant to 
+          <PRTPAGE P='857' />
+          maintain existing conservation activities to at least the level of
+          conservation performance identified at the time the application is
+          obligated into a contract, and maintain additional conservation
+          activities installed and adopted over the contract period.
+        </P>
+        <P>
+          <E T='03'>
+            Participant
+          </E>
+           means a person, legal entity, joint operation, or Indian tribe that
+          is receiving payment or is responsible for implementing the terms and
+          conditions of a CSP contract.
+        </P>
+        <P>
+          <E T='03'>
+            Payment
+          </E>
+           means financial assistance provided to the participant under the
+          terms of the CSP contract.
+        </P>
+        <P>
+          <E T='03'>
+            Person
+          </E>
+           means, as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , an individual, natural person and does not include a legal entity.
+        </P>
+        <P>
+          <E T='03'>
+            Priority resource concern
+          </E>
+           means a resource concern that is identified by the State
+          Conservationist, in consultation with the State Technical Committee
+          and local working groups, as a priority for a State, or the specific
+          geographic areas within a State.
+        </P>
+        <P>
+          <E T='03'>
+            Producer
+          </E>
+           means a person, legal entity, joint operation, or Indian tribe who
+          has an interest in the agricultural operation, as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , or who is engaged in agricultural production or forest management.
+        </P>
+        <P>
+          <E T='03'>
+            Resource concern
+          </E>
+           means a specific natural resource problem that is likely to be
+          addressed successfully through the implementation of conservation
+          activities by producers.
+        </P>
+        <P>
+          <E T='03'>
+            Resource-conserving crop
+          </E>
+           means a crop that is one of the following:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A perennial grass;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A legume grown for use as forage, seed for planting, or green
+            manure;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A legume-grass mixture;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A small grain grown in combination with a grass or legume, whether
+            inter-seeded or planted in rotation.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Resource-conserving crop rotation
+          </E>
+           means a crop rotation that:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Includes at least one resource-conserving crop as determined by the
+            State Conservationist;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Reduces erosion;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Improves soil fertility and tilth;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Interrupts pest cycles; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             In applicable areas, reduces depletion of soil moisture or
+            otherwise reduces the need for irrigation.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of USDA.
+        </P>
+        <P>
+          <E T='03'>
+            Socially disadvantaged farmer or rancher
+          </E>
+           means a producer who has been subjected to racial or ethnic
+          prejudices because of their identity as a member of a group without
+          regard to their individual qualities. A socially disadvantaged group
+          is a group whose members have been subject to racial or ethnic
+          prejudice because of their identity as members of a group, without
+          regard to their individual qualities. These groups consist of American
+          Indians or Alaskan Natives, Asians, Blacks or African Americans,
+          Native Hawaiians or other Pacific Islanders, and Hispanics. A socially
+          disadvantaged applicant is an individual or entity who is a member of
+          a socially disadvantaged group. For an entity, at least 50 percent
+          ownership in the farm business must be held by socially disadvantaged
+          individuals.
+        </P>
+        <P>
+          <E T='03'>
+            State Conservationist
+          </E>
+           means the NRCS employee authorized to implement CSP and direct and
+          supervise NRCS activities in a State, Caribbean Area, or Pacific
+          Islands Area.
+        </P>
+        <P>
+          <E T='03'>
+            State Technical Committee
+          </E>
+           means a committee established by the Secretary in a State pursuant to
+          
+          <aref type='USC'>
+            <subref title='16' sect='3861' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3861.html'>
+              16 U.S.C. 3861
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Stewardship threshold
+          </E>
+           means the level of natural resource conservation and environmental
+          management required, as determined by NRCS using the CMT, to conserve
+          and improve the quality and condition of a natural resource.
+        </P>
+        <P>
+          <E T='03'>
+            Technical assistance
+          </E>
+           means technical expertise, information, and tools necessary for the
+          conservation of natural resources on land active in agricultural,
+          forestry, or related uses. The term includes the following:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Technical services provided directly to farmers, ranchers, forest
+            producers, and other eligible entities, such as conservation
+            planning, technical consultation, preparation of forest stewardship
+            management plans, and assistance with the design and implementation
+            of conservation activities; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Technical infrastructure, including processes, tools, and agency
+            functions needed to support delivery of technical services, such as
+            technical standards, resource inventories, training, data,
+            technology, monitoring, and effects analyses.
+            <PRTPAGE P='858' />
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Technical Service Provider
+          </E>
+           means an individual, private-sector entity, or public agency
+          certified by NRCS to provide technical services to program
+          participants in lieu of, or on behalf of, NRCS as referenced in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='652' tq='N'>
+              652
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='13030'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:A:1470.4
+      </extid>
+      <num st='1'>
+        1470.4
+      </num>
+      <head>
+        Allocation and management.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='4' psec='' tq='N'>
+              1470.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Allocation and management.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief will allocate acres and associated funds to State
+            Conservationists:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Primarily on each State&apos;s proportion of eligible land to the
+            total amount of eligible land in all States; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             On consideration of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The extent and magnitude of the conservation needs associated with
+            agricultural production in each State based on natural resource
+            factors that consider national, regional, and State-level priority
+            ecosystem areas,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The degree to which implementation of the program in the State is,
+            or will be, effective in helping producers address those needs, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Other considerations determined by the Chief to achieve equitable
+            geographic distribution of program participation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will allocate acres to ranking pools, to
+            the extent practicable, based on the same factors the Chief
+            considers in making allocations to States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Of the acres made available for each of fiscal years 2009 through
+            2012 to carry out CSP, NRCS will use, as a minimum:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Five percent to assist beginning farmers or ranchers, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Five percent to assist socially disadvantaged farmers or ranchers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In any fiscal year, allocated acres that are not enrolled by a date
+            determined by NRCS may be reallocated with associated funds for use
+            in that fiscal year under CSP. As part of the reallocation process,
+            NRCS will consider several factors, including demand from
+            applicants, national and regional conservation priorities, and
+            prior-year CSP performance in States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Of the CSP funds and acres made available for each fiscal year:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief will reserve 6 percent of funds and acres to ensure an
+            adequate source of funds and acres for the CCPI. Of the funds and
+            acres reserved, the Chief will allocate:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Ninety percent to projects based on the direction of State
+            Conservationists, with the advice of State Technical Committees; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Ten percent to projects based on a national competitive process
+            established by the Chief. In determining funding allocation
+            decisions for these projects, NRCS will consider the extent to which
+            they address national and regional conservation priorities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any funds and acres reserved for the CCPI in a fiscal year that are
+            not obligated by April 1 of that fiscal year may be used to carry
+            out other CSP activities during the remainder of that fiscal year.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13031'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:A:1470.5
+      </extid>
+      <num st='1'>
+        1470.5
+      </num>
+      <head>
+        Outreach activities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='5' psec='' tq='N'>
+              1470.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Outreach activities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will establish program outreach activities at the national,
+            State, and local levels to ensure that potential applicants who
+            control eligible land are aware and informed that they may be
+            eligible to apply for program assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Special outreach will be made to eligible producers with
+            historically low participation rates, including but not restricted
+            to, beginning farmers or ranchers, limited resource farmers or
+            ranchers, and socially disadvantaged farmers or ranchers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will ensure that outreach is provided so as not to limit
+            producer participation because of size or type of operation or
+            production system, including specialty crop and organic production.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will conduct focused outreach in regions of national
+            significance in order to maximize program participation. These areas
+            could include landscapes such as the Chesapeake Bay watershed and
+            Great Lakes basin.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13032'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:A:1470.6
+      </extid>
+      <num st='1'>
+        1470.6
+      </num>
+      <head>
+        Eligibility requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 31653
+        </aref>
+        , June 3, 2010, as amended at 
+        <aref type='FREGIST'>
+          76 FR 19684
+        </aref>
+        , Apr. 8, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='6' psec='' tq='N'>
+              1470.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Eligible applicant.
+            </head>
+          </npcatch>
+          <text>
+             To be an eligible applicant for CSP, a producer must be the
+            operator in the Farm Service Agency (FSA) farm records management
+            system. Potential applicants that are not in the FSA farm records
+            management system must establish records with FSA. Potential
+            applicants whose records are not current in the FSA 
+            <PRTPAGE P='859' />
+            farm records management system must update those records prior to
+            the close of the evaluation period to be considered eligible. NRCS
+            may grant exceptions to the “operator of record” requirement for
+            producers, tenants, and owners in the FSA farm records management
+            system that can demonstrate, to the satisfaction of NRCS, they will
+            operate and have effective control of the land. Applicants must also
+            meet all of the following requirements:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Have effective control of the land unless an exception is made by
+            the Chief in the case of land administered by the BIA, Indian lands,
+            or other instances in which the Chief determines that there is
+            sufficient assurance of control;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be in compliance with the highly erodible land and wetland
+            conservation provisions found at 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='12' tq='N'>
+                12
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Be in compliance with Adjusted Gross Income provisions found at 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1400' tq='N'>
+                1400
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Supply information, as required by NRCS, to determine eligibility
+            for the program, including but not limited to, information related
+            to eligibility requirements and ranking factors, conservation
+            activity and production system records, information to verify the
+            applicant&apos;s status as a historically underserved producer, if
+            applicable, and payment eligibility as established by 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1400' tq='N'>
+                1400
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Provide a list of all members of the legal entity and embedded
+            entities along with members&apos; tax identification numbers and
+            percentage interest in the entity. Where applicable, American
+            Indians, Alaska Natives, and Pacific Islanders may use another
+            unique identification number for each individual eligible for
+            payment; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with applicable registration and reporting requirements of
+            the Federal Funding Accountability and Transparency Act of 2006 (
+            <aref target='_blank' title='Pub. L. 109-282' alt='Pub. L. 109-282' href='http://www.gpo.gov/fdsys/pkg/PLAW-109publ282/html/PLAW-109publ282.htm'>
+              Pub. L. 109-282
+            </aref>
+            , as amended), and 
+            <aref type='CFR'>
+              2 CFR parts 
+              <subref title='2' part='25' tq='N'>
+                25
+              </subref>
+               and 
+              <subref title='2' part='170' tq='N'>
+                170
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Eligible land.
+            </head>
+          </npcatch>
+          <text>
+             A contract application must include all of the eligible land on an
+            applicant&apos;s agricultural operation, except as identified in
+            paragraph (b)(3) of this section. A participant may submit an
+            application(s) to enter into an additional contract(s) for newly
+            acquired eligible land, which would then compete with other
+            applications in a subsequent ranking period. The land as described
+            below is part of the agricultural operation and eligible for
+            enrollment in the CSP:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Private agricultural land;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Agricultural Indian lands;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             NIPF:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             By special rule in the statute, NIPF is eligible land,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             No more than 10 percent of the acres enrolled nationally in any
+            fiscal year may be NIPF,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant will designate by submitting a separate application
+            if they want to offer NIPF for funding consideration,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             If designated for funding consideration, then the NIPF component of
+            the operation will include all the applicant&apos;s NIPF. If not
+            designated for funding consideration, then the applicant&apos;s NIPF
+            will not be part of the agricultural operation; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Other private agricultural land, as determined by the Chief, on
+            which resource concerns related to agricultural production could be
+            addressed by enrolling the land in CSP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Ineligible land.
+            </head>
+          </npcatch>
+          <text>
+             The following ineligible lands are part of the agricultural
+            operation, but ineligible for inclusion in the contract or for
+            payment in CSP:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Land enrolled in the Conservation Reserve Program (CRP), 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1410' tq='N'>
+                1410
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Land enrolled in the Wetlands Reserve Program (WRP), 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1467' tq='N'>
+                1467
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Land enrolled in the Grassland Reserve Program (GRP), 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1415' tq='N'>
+                1415
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Land enrolled in the Conservation Security Program, 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1469' tq='N'>
+                1469
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Public land including land owned by a Federal, State, or local unit
+            of government; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Land used for crop production after June 18, 2008, that had not
+            been planted, considered to be planted, or devoted to crop
+            production for at least 4 of the 6 years preceding that date, unless
+            that land:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Had previously been enrolled in CRP,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Has been maintained using long-term crop rotation practices as
+            determined by the designated conservationist, or
+            <PRTPAGE P='860' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Is incidental land needed for efficient operation of the farm or
+            ranch as determined by the designated conservationist.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 31653
+          </aref>
+          , June 3, 2010, as amended at 
+          <aref type='FREGIST'>
+            76 FR 19684
+          </aref>
+          , Apr. 8, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13033'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:A:1470.7
+      </extid>
+      <num st='1'>
+        1470.7
+      </num>
+      <head>
+        Enhancements and conservation practices.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='7' psec='' tq='N'>
+              1470.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Enhancements and conservation practices.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Participant decisions describing the additional enhancements and
+            conservation practices to be implemented under the conservation
+            stewardship contract will be recorded in the conservation
+            stewardship plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will make available to the public the list of enhancements and
+            conservation practices available to be installed, adopted,
+            maintained, and managed through the CSP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will make available bundled suites of conservation activities
+            for participants to voluntarily select to include as part of their
+            conservation stewardship plans. The bundles will be designed to
+            coordinate the installation and adoption of enhancements with each
+            other to address resource concerns in a more comprehensive and
+            cost-effective manner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             CSP encourages the use of other NRCS programs to install
+            conservation practices that are required to meet agreed-upon
+            stewardship thresholds, but the practices may not be compensated
+            through CSP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13034'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:A:1470.8
+      </extid>
+      <num st='1'>
+        1470.8
+      </num>
+      <head>
+        Technical and other assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='8' psec='' tq='N'>
+              1470.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Technical and other assistance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may provide technical assistance to an eligible applicant or
+            participant either directly or through a technical service provider
+            (TSP) as set forth in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='652' tq='N'>
+                652
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS retains approval authority over certification of work done by
+            non-NRCS personnel for the purpose of approving CSP payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will ensure that technical assistance is available and program
+            specifications are appropriate so as not to limit producer
+            participation because of size or type or operation or production
+            system, including specialty crop and organic production. In
+            providing technical assistance to specialty crop and organic
+            producers, NRCS will provide appropriate training to field staff to
+            enable them to work with these producers and to utilize cooperative
+            agreements and contracts with nongovernmental organizations with
+            expertise in delivering technical assistance to these producers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will assist potential applicants dealing with the requirements
+            of certification under the National Organic Program and CSP
+            requirements concerning how to coordinate and simultaneously meet
+            eligibility standards under each program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may utilize the services of State foresters and existing
+            technical assistance programs such as the Forest Stewardship Program
+            of the U.S. Forest Service, in coordinating assistance to NIPF
+            owners.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13035'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:B:1470.20
+      </extid>
+      <num st='1'>
+        1470.20
+      </num>
+      <head>
+        Application for contracts and selecting offers from applicants.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='20' psec='' tq='N'>
+              1470.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for contracts and selecting offers from applicants.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Submission of contract applications.
+            </head>
+          </npcatch>
+          <text>
+             Applicants may submit an application to enroll all of their
+            eligible land into CSP on a continuous basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Stewardship threshold requirement.
+            </head>
+          </npcatch>
+          <text>
+             To be eligible to participate in CSP, an applicant must submit to
+            the designated conservationist for approval, a contract application
+            that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Indicates the applicant&apos;s conservation activities, at the time
+            of application, are meeting the stewardship threshold for at least
+            one resource concern;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Would, at a minimum, meet or exceed the stewardship threshold for
+            at least one priority resource concern in addition to the resource
+            concern described in paragraph (b)(1) of this section by the end of
+            the conservation stewardship contract by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Installing and adopting additional conservation activities, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Improving, maintaining, and managing conservation activities
+            present on the agricultural operation at the time the contract
+            application is accepted by NRCS;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Provides a map, aerial photograph, or overlay that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Identifies the applicant&apos;s agricultural operation and NIPF
+            component of the operation, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Delineates eligible land with associated acreage amounts; and
+            <PRTPAGE P='861' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is applying for on-farm research and demonstration
+            activities or for pilot testing, describes the nature of the
+            research, demonstration, or pilot testing in a manner consistent
+            with design protocols and application procedures established by
+            NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Evaluation of contract applications.
+            </head>
+          </npcatch>
+          <text>
+             NRCS will conduct one or more ranking periods each fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To the extent practicable, one ranking period will occur in the
+            first quarter of the fiscal year;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In evaluating CSP applications, the State Conservationist or
+            designated conservationist will rank applications based on the
+            following factors, using the CMT, to the maximum extent practicable:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Level of conservation treatment on all applicable priority resource
+            concerns at the time of application,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Degree to which the proposed conservation treatment on applicable
+            priority resource concerns effectively increases conservation
+            performance,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Number of applicable priority resource concerns proposed to be
+            treated to meet or exceed the stewardship threshold by the end of
+            the contract, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Extent to which other resource concerns, in addition to priority
+            resource concerns, will be addressed to meet or exceed the
+            stewardship threshold by the end of the contract period;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In the event that application ranking scores from (2) above are
+            similar, the application that represents the least cost to the
+            program will be given higher priority; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist or designated conservationist may not
+            assign a higher priority to any application because the applicant is
+            willing to accept a lower payment than the applicant would otherwise
+            be eligible to receive.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Weighting of ranking factors.
+            </head>
+          </npcatch>
+          <text>
+             To the extent the CSP objective of additional conservation is not
+            being achieved, as determined by the Chief, NRCS will adjust the
+            weighting of ranking factors in order to place emphasis on
+            increasing net conservation benefits.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              State and local priorities.
+            </head>
+          </npcatch>
+          <text>
+             The Chief may develop and use additional criteria for evaluating
+            applications that are determined necessary to ensure that national,
+            State, and local conservation priorities are effectively addressed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Ranking pools.
+            </head>
+          </npcatch>
+          <text>
+             Ranking pools will be established in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='2' psec='#e_1_i' tq='N'>
+                1470.2(e)(1)(i)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             NIPF will compete in ranking pools separate from agricultural land.
+            An applicant with both NIPF and agricultural land will have the
+            options to submit:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             One application for NIPF;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             One application for agricultural land; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Two applications, one for each land type.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant with an agricultural operation or NIPF component of
+            the operation that crosses ranking pool boundaries will make
+            application and be ranked in the ranking pool where the largest
+            acreage portion of their operation occurs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Within each State or established ranking pool, the State
+            Conservationist will address conservation access for certain farmers
+            or ranchers, including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Socially disadvantaged farmers or ranchers; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Beginning farmers or ranchers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Application pre-approval.
+            </head>
+          </npcatch>
+          <text>
+             The State Conservationist or designated conservationist will make
+            application pre-approval determinations during established ranking
+            periods based on eligibility and ranking score.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Field verification.
+            </head>
+          </npcatch>
+          <text>
+             NRCS will conduct onsite field verification prior to obligation of
+            contract funding to substantiate the accuracy of the information
+            provided by pre-approved applicants during the application process.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13036'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:B:1470.21
+      </extid>
+      <num st='1'>
+        1470.21
+      </num>
+      <head>
+        Contract requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='21' psec='' tq='N'>
+              1470.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             After a determination that the application will be approved and a
+            conservation stewardship plan will be developed in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='22' psec='' tq='N'>
+                1470.22
+              </subref>
+            </aref>
+            , the State Conservationist or designee will enter into a
+            conservation stewardship contract with the participant to enroll all
+            of the eligible land on a participant&apos;s agricultural operation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation stewardship contract will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Provide for payments over a period of 5 years;
+            <PRTPAGE P='862' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Incorporate by reference the conservation stewardship plan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             State the payment amount NRCS agrees to make to the participant
+            annually, subject to the availability of funds;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Incorporate all provisions as required by law or statute, including
+            requirements that the participant will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Implement the conservation stewardship plan approved by NRCS during
+            the term of the contract,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Operate and maintain conservation activities on the agricultural
+            operation consistent with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='23' psec='' tq='N'>
+                1470.23
+              </subref>
+            </aref>
+            ,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with the terms of the contract or documents incorporated by
+            reference into the contract,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Refund as determined by NRCS, any program payments received with
+            interest, and forfeit any future payments under the program, upon
+            the violation of a term or condition of the contract, consistent
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='27' psec='' tq='N'>
+                1470.27
+              </subref>
+            </aref>
+            ,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Refund as determined by NRCS, all program payments received with
+            interest, upon the transfer of the right and interest of the
+            participant, in land subject to the contract, unless the transferee
+            of the right and interest agrees to assume all obligations of the
+            contract, consistent with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='25' psec='' tq='N'>
+                1470.25
+              </subref>
+            </aref>
+            ,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain and make available to NRCS upon request, appropriate
+            records documenting applied conservation activity and production
+            system information, and provide evidence of the effective and timely
+            implementation of the conservation stewardship plan and contract,
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Not engage in any action during the term of the conservation
+            stewardship contract on the eligible land covered by the contract
+            that would interfere with the purposes of the conservation
+            stewardship contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Permit all economic uses of the land that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain the agricultural or forestry nature of the land, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Are consistent with the conservation purposes of the contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Include a provision to ensure that a participant will not be
+            considered in violation of the contract for failure to comply with
+            the contract due to circumstances beyond the control of the
+            participant, including a disaster or related condition, as
+            determined by the State Conservationist; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Include such other provisions as NRCS determines necessary to
+            ensure the purposes of the program are achieved.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13037'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:B:1470.22
+      </extid>
+      <num st='1'>
+        1470.22
+      </num>
+      <head>
+        Conservation stewardship plan.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='22' psec='' tq='N'>
+              1470.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation stewardship plan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will use the conservation planning process as outlined in the
+            NPPH to encourage participants to address resource concerns in a
+            comprehensive manner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation stewardship plan will contain a record of the
+            participant&apos;s decisions that describes the schedule of
+            conservation activities to be implemented, managed, or improved
+            under the conservation stewardship contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Associated supporting information maintained with the
+            participant&apos;s plan will include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             CMT documentation that will be the basis for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Identifying and inventorying resource concerns,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Establishing benchmark data on the condition of existing
+            conservation activities, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Documenting the participant&apos;s conservation objectives to reach
+            and exceed stewardship thresholds;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A plan map delineating enrolled land with associated acreage
+            amounts;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In the case where a participant wishes to initiate or retain
+            organic certification, documentation that will support the
+            participant&apos;s transition to or participation in the National
+            Organic Program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             In the case where a participant is approved for the on-farm
+            research and demonstration or pilot testing option, a research,
+            demonstration, or pilot testing plan consistent with design
+            protocols and application procedures established by NRCS; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Other information as determined appropriate by NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13038'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:B:1470.23
+      </extid>
+      <num st='1'>
+        1470.23
+      </num>
+      <head>
+        Conservation activity operation and maintenance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='23' psec='' tq='N'>
+              1470.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation activity operation and maintenance.
+        </SUBJECT>
+        <P>
+          The participant will maintain and manage existing conservation
+          activities on the agricultural operation to at 
+          <PRTPAGE P='863' />
+          least the level of conservation performance identified at the time the
+          application is obligated into a contract for the conservation
+          stewardship contract period, and additional activities installed and
+          adopted over the term of the conservation stewardship contract.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13039'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:B:1470.24
+      </extid>
+      <num st='1'>
+        1470.24
+      </num>
+      <head>
+        Payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='24' psec='' tq='N'>
+              1470.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Annual payments.
+            </head>
+          </npcatch>
+          <text>
+             Subject to the availability of funds, NRCS will provide, as
+            appropriate, annual payments under the program to compensate a
+            participant for installing and adopting additional conservation
+            activities, and improving, maintaining, and managing existing
+            conservation activities. A split-rate annual payment structure will
+            be used to provide separate payments for additional and existing
+            conservation activities in order to place emphasis on implementing
+            additional conservation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To receive annual payments, a participant must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Install and adopt additional conservation activities as scheduled
+            in the conservation stewardship plan. At least one additional
+            enhancement must be scheduled, installed, and adopted in the first
+            fiscal year of the contract. All enhancements must be scheduled,
+            installed, and adopted by the end of the third fiscal year of the
+            contract, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             As a minimum, maintain existing activities to the level of existing
+            conservation performance identified at the time the application is
+            obligated into a contract for the conservation stewardship contract
+            period;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             To earn annual payments for an eligible land use, a participant
+            must schedule, install, and adopt at least one additional
+            conservation activity on that land-use type. Eligible land-use types
+            that fail to have at least one additional conservation activity
+            scheduled, installed, and adopted will not receive annual payments;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A participant&apos;s annual payments will be determined using the
+            conservation performance estimated by the CMT and computed by
+            land-use type for eligible land earning payments. Conservation
+            performance is prorated over the contract term so as to accommodate,
+            to the extent practicable, participants earning equal annual
+            payments in each fiscal year;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The annual payment rates will be based to the maximum extent
+            practicable, on the following factors:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Costs incurred by the participant associated with planning, design,
+            materials, installation, labor, management, maintenance, or
+            training,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Income foregone by the participant, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Expected environmental benefits, determined by estimating
+            conservation performance improvement using the CMT;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The annual payment method will accommodate some participant
+            operational adjustments without the need for contract modification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_5_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Enhancements may be replaced with similar enhancements without
+            adjustment of annual payment as long as the conservation performance
+            is determined by NRCS to be equal to or better than the conservation
+            performance of the additional enhancements offered at enrollment. An
+            enhancement replacement that results in a decline below that
+            conservation performance level will not be allowed, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Adjustments to existing activities may occur consistent with
+            conservation performance requirements from 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='23' psec='' tq='N'>
+                1470.23
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Enhancements may be applied on other land included in an
+            agricultural operation, as determined by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Supplemental payments.
+            </head>
+          </npcatch>
+          <text>
+             Subject to the availability of funds, NRCS will provide a
+            supplemental payment to a participant receiving annual payments, who
+            also agrees to adopt a resource-conserving crop rotation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will determine whether a
+            resource-conserving crop rotation is eligible for supplemental
+            payments based on whether the resource-conserving crop rotation is
+            designed to provide natural resource conservation and production
+            benefits;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A participant must agree to adopt and maintain a beneficial
+            resource-conserving crop rotation for the term of the contract to be
+            eligible to receive a supplemental payment. A resource-conserving
+            crop rotation is considered adopted when the resource-conserving
+            crop is planted on at least one-third of the rotation acres. The
+            resource-conserving crop must be adopted by the third fiscal year of
+            the contract and 
+            <PRTPAGE P='864' />
+            planted on all rotation acres by the fifth fiscal year of the
+            contract; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The supplemental payment is set at a rate needed to encourage a
+            producer to adopt a resource-conserving crop rotation and will be
+            based, to the maximum extent practicable, on costs incurred and
+            income foregone by the participant and expected environmental
+            benefits, determined by estimating conservation performance
+            improvement using the CMT.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              On-farm research and demonstration or pilot testing.
+            </head>
+          </npcatch>
+          <text>
+             A participant may be compensated through their annual payment for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             On-farm research and demonstration activities; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Pilot testing of new technologies or innovative conservation
+            activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Minimum contract payment.
+            </head>
+          </npcatch>
+          <text>
+             NRCS will make a minimum contract payment to participants who are
+            socially disadvantaged farmers or ranchers, beginning farmers or
+            ranchers, or limited resource farmers or ranchers, at a rate
+            determined by the Chief in any fiscal year that a contract&apos;s
+            payment amount total is less than $1,000. Definitions of socially
+            disadvantaged farmers or ranchers, beginning farmers or ranchers,
+            and limited resource farmers or ranchers are contained in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='3' psec='' tq='N'>
+                1470.3
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Timing of payments.
+            </head>
+          </npcatch>
+          <text>
+             NRCS will make payments as soon as practicable after October 1 of
+            each fiscal year for activities carried out in the previous fiscal
+            year. For newly enrolled contracts, payments will be made as soon as
+            practicable after October 1 following the fiscal year of enrollment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Non-compensatory matters.
+            </head>
+          </npcatch>
+          <text>
+             A CSP payment to a participant will not be provided for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             New conservation practices or enhancements applied with financial
+            assistance through other USDA conservation programs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The design, construction, or maintenance of animal waste storage or
+            treatment facilities, or associated waste transport or transfer
+            devices for animal feeding operations; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation activities for which there is no cost incurred or
+            income foregone by the participant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Payment limits.
+            </head>
+          </npcatch>
+          <text>
+             A person or legal entity may not receive, directly or indirectly,
+            payments that, in the aggregate, exceed $40,000 during any fiscal
+            year for all CSP contracts entered into, and $200,000 for all CSP
+            contracts entered into during any 5-year period, excluding funding
+            arrangements with federally recognized Indian tribes or Alaska
+            Native corporations, regardless of the number of contracts entered
+            into under the CSP by the person or legal entity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Contract limits.
+            </head>
+          </npcatch>
+          <text>
+             Payments under a conservation stewardship contract with joint
+            operations will be limited to $80,000 per fiscal year and $400,000
+            over the term of the initial contract period, excluding funding
+            arrangements with federally recognized Indian tribes or Alaska
+            Native corporations. The payment limits for contracts with persons
+            or legal entities are contained in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='24' psec='#g' tq='N'>
+                1470.24(g)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Payment limitation provisions for individual Indians and Indian
+              tribes.
+            </head>
+          </npcatch>
+          <text>
+             Payment limitations apply to individual tribal member(s) when
+            applying and subsequently being granted a contract as an
+            individual(s). Contracts with Indian tribes or Alaska Native
+            corporations are not subject to payment or contract limitations.
+            Indian tribes and BIA will certify in writing that no one
+            individual, directly or indirectly, will receive more than the
+            payment limitation. Certification provided at the time of contract
+            obligation will cover the entire contract period. The tribal entity
+            must also provide, upon request from NRCS, a listing of individuals
+            and payment made, by Social Security number or other unique
+            identification number, during the previous year for calculation of
+            overall payment limitations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Tax Identification Number.
+            </head>
+          </npcatch>
+          <text>
+             To be eligible to receive a CSP payment, all legal entities or
+            persons applying, either alone or as part of a joint operation, must
+            provide a tax identification number and percentage interest in the
+            legal entity. In accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1400' tq='N'>
+                1400
+              </subref>
+            </aref>
+            , an applicant applying as a joint operation or legal entity must
+            provide a list of all members of the legal entity and joint
+            operation and associated embedded entities, along with the
+            members&apos; Social Security numbers and percentage of interest in
+            the joint operation or legal entity. Payments 
+            <PRTPAGE P='865' />
+            will be directly attributed to legal entity members for the purpose
+            of complying with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='24' psec='#g' tq='N'>
+                1470.24(g)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Unique tax identification numbers.
+            </head>
+          </npcatch>
+          <text>
+             Where applicable, American Indians, Alaska Natives, and Pacific
+            Islanders may use another unique identification number for each
+            individual eligible for payment. Any participant that utilizes a
+            unique identification number as an alternative to a tax
+            identification number will utilize only that identifier for any and
+            all other CSP contracts to which the participant is a party.
+            Violators will be considered to have provided fraudulent
+            representation and be subject to full penalties of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='36' psec='' tq='N'>
+                1470.36
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+            <head>
+              Payment data.
+            </head>
+          </npcatch>
+          <text>
+             NRCS will maintain detailed and segmented data on CSP contracts and
+            payments to allow for quantification of the amount of payments made
+            for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Installing and adopting additional activities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Improving, maintaining, and managing existing activities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Participation in research and demonstration or pilot projects; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Development and periodic assessment and evaluation of conservation
+            stewardship plans developed under this rule.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13040'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:B:1470.25
+      </extid>
+      <num st='1'>
+        1470.25
+      </num>
+      <head>
+        Contract modifications and transfers of land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='25' psec='' tq='N'>
+              1470.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract modifications and transfers of land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may allow a participant to modify a conservation stewardship
+            contract if NRCS determines that the modification is consistent with
+            achieving the purposes of the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will allow modification to a conservation stewardship contract
+            to remove contract acres enrolled in the CRP, WRP, or GRP or other
+            Federal or State programs that offer greater natural resource
+            protection. Such modifications are consistent with the purposes of
+            CSP. Participants will not be subject to liquidated damages or
+            refund of payments received for enrolling land in these programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will not allow a participant to modify a conservation
+            stewardship contract to increase the contract obligation beyond the
+            amount of the initial contract, with exception for contracts
+            approved by NRCS for renewal or other exceptional cases as
+            determined by the Chief.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Land under contract will be considered transferred if the
+            participant loses control of the acreage for any reason.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The participant is responsible to notify NRCS prior to any
+            voluntary or involuntary transfer of land under contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If all or part of the land under contract is transferred, the
+            contract terminates with respect to the transferred land unless:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The transferee of the land provides written notice within 60 days
+            to NRCS that all duties and rights under the contract have been
+            transferred to, and assumed by, the transferee, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The transferee meets the eligibility requirements of the program;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Contract payment adjustments due to modifications will be reflected
+            in the fiscal year following the modification.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13041'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:B:1470.26
+      </extid>
+      <num st='1'>
+        1470.26
+      </num>
+      <head>
+        Contract renewal.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='26' psec='' tq='N'>
+              1470.26
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract renewal.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             At the end of an initial conservation stewardship contract, NRCS
+            may allow a participant to renew the contract to receive payments
+            for one additional 5-year period, subject to the availability of
+            funds, if they meet criteria from paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To be considered for contract renewal, the participant must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be in compliance with the terms of their initial contract as
+            determined by NRCS;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Add any newly acquired eligible land that is part of the
+            agricultural operation and meets minimum treatment criteria as
+            established and determined by NRCS;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             At a minimum, meet stewardship thresholds for at least two priority
+            resource concerns; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to adopt additional conservation activities to address at
+            least one additional priority resource concern during the term of
+            the renewed conservation stewardship contract.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13042'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:B:1470.27
+      </extid>
+      <num st='1'>
+        1470.27
+      </num>
+      <head>
+        Contract violations and termination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='27' psec='' tq='N'>
+              1470.27
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract violations and termination.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist may terminate, or by mutual consent with
+            the participants, terminate a contract where:
+            <PRTPAGE P='866' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The participants are unable to comply with the terms of the
+            contract as the result of conditions beyond their control; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             As determined by the State Conservationist, it is in the public
+            interest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If a contract is terminated in accordance with the provisions of
+            paragraph (a) of this section, the State Conservationist may allow
+            the participant to retain a portion of any payments received
+            appropriate to the effort the participant has made to comply with
+            the contract, or in cases of hardship, where forces beyond the
+            participant&apos;s control prevented compliance with the contract.
+            If a participant claims hardship, such claims must be clearly
+            documented and cannot have existed when the applicant applied for
+            participation in the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS determines that a participant is in violation of the
+            contract terms or documents incorporated therein, NRCS will give the
+            participant a period of time, as determined by NRCS, to correct the
+            violation and comply with the contract terms and attachments
+            thereto. If a participant continues in violation, NRCS may terminate
+            the CSP contract in accordance with paragraph (e) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding the provisions of paragraph (c) of this section, a
+            contract termination will be effective immediately upon a
+            determination by NRCS that the participant:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Has submitted false information or filed a false claim;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Engaged in any act, scheme, or device for which a finding of
+            ineligibility for payments is permitted under the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='36' psec='' tq='N'>
+                1470.36
+              </subref>
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Engaged in actions that are deemed to be sufficiently purposeful or
+            negligent to warrant a termination without delay.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS terminates a contract, the participant will forfeit all
+            rights to future payments under the contract, pay liquidated
+            damages, and refund all or part of the payments received, plus
+            interest. Participants violating CSP contracts may be determined
+            ineligible for future NRCS-administered conservation program
+            funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may require a participant to provide only a partial refund of
+            the payments received if a previously installed conservation
+            activity has achieved the expected conservation performance
+            improvement, is not adversely affected by the violation or the
+            absence of other conservation activities that would have been
+            installed under the contract, and has met the associated operation
+            and maintenance requirement of the activity; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will have the option to reduce or waive the liquidated
+            damages, depending upon the circumstances of the case—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             When terminating a contract, NRCS may reduce the amount of money
+            owed by the participant by a proportion that reflects the good faith
+            effort of the participant to comply with the contract or the
+            existence of hardships beyond the participant&apos;s control that
+            have prevented compliance with the contract. If a participant claims
+            hardship, that claim must be well documented and cannot have existed
+            when the applicant applied for participation in the program, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             In carrying out its role in this section, NRCS may consult with the
+            local conservation district.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13043'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:C:1470.30
+      </extid>
+      <num st='1'>
+        1470.30
+      </num>
+      <head>
+        Fair treatment of tenants and sharecroppers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='30' psec='' tq='N'>
+              1470.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fair treatment of tenants and sharecroppers.
+        </SUBJECT>
+        <P>
+          Payments received under this part must be divided in the manner
+          specified in the applicable contract. NRCS will ensure that tenants
+          and sharecroppers who would have an interest in acreage being offered
+          receive treatment which NRCS deems to be equitable, as determined by
+          the Chief. NRCS may refuse to enter into a contract when there is a
+          disagreement among joint applicants seeking enrollment as to an
+          applicant&apos;s eligibility to participate in the contract as a
+          tenant.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13044'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:C:1470.31
+      </extid>
+      <num st='1'>
+        1470.31
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='31' psec='' tq='N'>
+              1470.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          A participant may obtain administrative review of an adverse decision
+          under this part in accordance with 
+          <aref type='CFR'>
+            7 CFR parts 
+            <subref title='7' part='11' tq='N'>
+              11
+            </subref>
+             and 
+            <subref title='7' part='614' tq='N'>
+              614
+            </subref>
+          </aref>
+          . Determinations in matters of general applicability, such as payment
+          rates, payment limits, the designation of identified priority 
+          <PRTPAGE P='867' />
+          resource concerns, and eligible conservation activities are not
+          subject to appeal.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13045'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:C:1470.32
+      </extid>
+      <num st='1'>
+        1470.32
+      </num>
+      <head>
+        Compliance with regulatory measures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='32' psec='' tq='N'>
+              1470.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance with regulatory measures.
+        </SUBJECT>
+        <P>
+          Participants will be responsible for obtaining the authorities,
+          rights, easements, permits, or other approvals or legal compliance
+          necessary for the implementation, operation, and maintenance
+          associated with the conservation stewardship plan. Participants will
+          be responsible for compliance with all laws and for all effects or
+          actions resulting from the implementation of the contract.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13046'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:C:1470.33
+      </extid>
+      <num st='1'>
+        1470.33
+      </num>
+      <head>
+        Access to agricultural operation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='33' psec='' tq='N'>
+              1470.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to agricultural operation.
+        </SUBJECT>
+        <P>
+          NRCS, or its authorized representative, will have the right to enter
+          an agricultural operation for the purpose of determining eligibility
+          and for ascertaining the accuracy of any representations, including
+          natural resource information provided by an applicant for the purpose
+          of evaluating a contract application. Access will include the right to
+          provide technical assistance, determine eligibility, assess natural
+          resource conditions, inspect any work undertaken under the contract,
+          and collect information necessary to evaluate the implementation of
+          conservation activities in the contract. NRCS, or its authorized
+          representative, will make an effort to contact the participant prior
+          to the exercise of this provision.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13047'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:C:1470.34
+      </extid>
+      <num st='1'>
+        1470.34
+      </num>
+      <head>
+        Equitable relief.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='34' psec='' tq='N'>
+              1470.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Equitable relief.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If a participant relied upon the advice or action of NRCS and did
+            not know, or have reason to know, that the action or advice was
+            improper or erroneous, the participant may be eligible for equitable
+            relief under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='635' tq='N'>
+                635
+              </subref>
+            </aref>
+            . The financial or technical liability for any action by a
+            participant that was taken based on the advice of a TSP will remain
+            with the TSP and will not be assumed by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If a participant has been found in violation of a provision of the
+            conservation stewardship contract or any document incorporated by
+            reference through failure to comply fully with that provision, the
+            participant may be eligible for equitable relief under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='635' tq='N'>
+                635
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13048'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:C:1470.35
+      </extid>
+      <num st='1'>
+        1470.35
+      </num>
+      <head>
+        Offsets and assignments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='35' psec='' tq='N'>
+              1470.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Offsets and assignments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any payment or portion thereof due to any participant under this
+            part will be allowed without regard to any claim or lien in favor of
+            any creditor, except agencies of the United States Government. The
+            regulations governing offsets and withholdings found at 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1403' tq='N'>
+                1403
+              </subref>
+            </aref>
+             will be applicable to contract payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any participant entitled to any payment may assign such payments in
+            accordance with regulations governing assignment of payment found at
+            
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1404' tq='N'>
+                1404
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13049'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:C:1470.36
+      </extid>
+      <num st='1'>
+        1470.36
+      </num>
+      <head>
+        Misrepresentation and scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='36' psec='' tq='N'>
+              1470.36
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentation and scheme or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS determines that an applicant intentionally misrepresented
+            any fact affecting a CSP determination, the application will be
+            determined ineligible immediately.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A participant who is determined to have erroneously represented any
+            fact affecting a program determination made in accordance with this
+            part will not be entitled to contract payments and must refund to
+            NRCS all payments, plus interest determined in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1403' tq='N'>
+                1403
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A participant will refund to NRCS all payments, plus interest
+            determined in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1403' tq='N'>
+                1403
+              </subref>
+            </aref>
+            , received by such participant with respect to all CSP contracts if
+            they are determined to have:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device that tends to defeat the purpose of
+            the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Made any fraudulent representation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device for the purpose of depriving any
+            tenant or sharecropper of the payments to which such person would
+            otherwise be entitled under the program; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Misrepresented any fact affecting a program determination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Participants determined to have committed actions identified in
+            paragraph (c) of this section will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Have their interest in all CSP contracts terminated; and
+            <PRTPAGE P='868' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1470' sect='27' psec='#e' tq='N'>
+                1470.27(e)
+              </subref>
+            </aref>
+            , may be determined by NRCS to be ineligible for future
+            NRCS-administered conservation program funding.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13050'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1470:C:1470.37
+      </extid>
+      <num st='1'>
+        1470.37
+      </num>
+      <head>
+        Environmental credits for conservation improvements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='37' psec='' tq='N'>
+              1470.37
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Environmental credits for conservation improvements.
+        </SUBJECT>
+        <P>
+          NRCS believes that environmental benefits will be achieved by
+          implementing conservation activities funded through CSP. These
+          environmental benefits may result in opportunities for the program
+          participant to sell environmental credits. Any requirements related to
+          these environmental credits must be compatible with the purposes of
+          the contract. NRCS asserts no direct or indirect interest on these
+          credits. However, NRCS retains the authority to ensure that operation
+          and maintenance (O&amp;M) requirements for CSP-funded improvements are
+          met, consistent with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='21' psec='' tq='N'>
+              1470.21
+            </subref>
+          </aref>
+           and 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1470' sect='23' psec='' tq='N'>
+              1470.23
+            </subref>
+          </aref>
+          . Where actions may impact the land and conservation activities under
+          a CSP contract, NRCS will at the request of the participant, assist
+          with the development of an O&amp;M compatibility assessment prior to
+          the participant entering into any credit agreement.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

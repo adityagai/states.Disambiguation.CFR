@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXIX:-:2901
+    </extid>
+    <num>
+      2901
+    </num>
+    <head>
+      ADMINISTRATIVE PROCEDURES FOR ADJUSTMENTS OF NATURAL GAS CURTAILMENT
+      PRIORITY
+    </head>
+    <text>
+      <AUTH>
+        <PRTPAGE P='105' />
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Secs. 502, 507
+          </aref>
+          . 
+          <aref target='_blank' title='Pub. L. 95-621' alt='Pub. L. 95-621' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d95:./list/bd/d95pl.lst:621%28Public_Laws%29'>
+            Pub. L. 95-621
+          </aref>
+          , 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=95_statutes2_at_large&amp;position=all&amp;page=3397'>
+            92 Stat. 3397, 3405
+          </aref>
+          , Nov. 9, 1978.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            44 FR 55803
+          </aref>
+          , Sept. 28, 1979, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15945'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.1
+      </extid>
+      <num st='1'>
+        2901.1
+      </num>
+      <head>
+        Purpose and scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='1' psec='' tq='N'>
+              2901.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and scope.
+        </SUBJECT>
+        <P>
+          The purpose of this 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='2901' tq='N'>
+              2901
+            </subref>
+          </aref>
+           is to provide procedures for the making of certain adjustments to the
+          Secretary of Agriculture&apos;s Essential Agricultural Uses and
+          Requirements regulations in accordance with 
+          <aref type='UNKNOWN'>
+            section 502(c) of
+          </aref>
+           the Natural Gas Policy Act of 1978, in order to prevent special
+          hardship, inequity, or an unfair distribution of burdens. The
+          procedures in this 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='2901' tq='N'>
+              2901
+            </subref>
+          </aref>
+           apply to any person seeking an interpretation of, modification of,
+          rescission of, exception of, or exemption from the Essential
+          Agricultural Uses and Requirements regulations in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='2900' tq='N'>
+              2900 of this chapter
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='15946'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.2
+      </extid>
+      <num st='1'>
+        2901.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='2' psec='' tq='N'>
+              2901.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means any individual, firm, sole proprietorship, partnership,
+            association, company, joint venture or corporation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Director
+            </E>
+             means the Director of the Office of Energy, U.S. Department of
+            Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Secretary
+            </E>
+             means the Secretary of the U.S. Department of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Adjustment
+            </E>
+             means an interpretation, modification, rescission of, exception to
+            or exemption from the Essential Agricultural Uses and Requirements
+            regulations, 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2900' tq='N'>
+                2900 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              NGPA
+            </E>
+             means the Natural Gas Policy Act of 1978, 
+            <aref target='_blank' title='Pub. L. 95-621' alt='Pub. L. 95-621' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d95:./list/bd/d95pl.lst:621%28Public_Laws%29'>
+              Pub. L. 95-621
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Petitioner
+            </E>
+             means any person seeking an adjustment under this 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2901' tq='N'>
+                2901
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15947'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.3
+      </extid>
+      <num st='1'>
+        2901.3
+      </num>
+      <head>
+        Oral presentation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='3' psec='' tq='N'>
+              2901.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Oral presentation.
+        </SUBJECT>
+        <P>
+          Any person seeking an adjustment under this 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='2901' tq='N'>
+              2901
+            </subref>
+          </aref>
+           shall be given an opportunity to make an oral presentation of data,
+          views and arguments in support of the request for an adjustment,
+          provided that a request to make an oral presentation is submitted in
+          writing with the request for the adjustment. An official of the
+          Department of Agriculture shall preside at such oral presentation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15948'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.4
+      </extid>
+      <num st='1'>
+        2901.4
+      </num>
+      <head>
+        Interpretations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='4' psec='' tq='N'>
+              2901.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interpretations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Request for an interpretation.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Any person seeking an interpretation of the Essential Agricultural
+            Uses and Requirements regulations in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2900' tq='N'>
+                2900
+              </subref>
+            </aref>
+             shall file a formal written request with the Director. The request
+            should contain a full and complete statement of all relevant facts
+            pertaining to the circumstances, act or transaction that is the
+            subject of the request and to the action sought, and should state
+            the special hardship, inequity, or unfair distribution of burdens
+            that will be prevented by the interpretation sought and why the
+            interpretation is consistent with the purposes of NGPA. The Director
+            shall publish a notice in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             advising the public that a request for an interpretation has been
+            received and that written comments will be accepted with respect
+            thereto, if received within 20 days of the notice. The 
+            <E T='04'>
+              Federal Register
+            </E>
+             notice will provide that copies of the request for interpretation
+            from which confidential information has been deleted in accordance
+            with paragraph (a)(2) of this section may be obtained from the
+            petitioner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the petitioner wishes to claim confidential treatment for any
+            information contained in the request or other documents submitted
+            under this 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2901' tq='N'>
+                2901
+              </subref>
+            </aref>
+            , such person shall file together with the document a second copy of
+            the document from which has been deleted the information for which
+            such person wishes to claim confidential treatment. The petitioner
+            shall indicate in the original document that it is confidential or
+            contains confidential information and may file a statement
+            specifying the justification for non-disclosure of the information
+            for which non-disclosure is sought. The Director shall consider such
+            requests, and subject to the Freedom of Information Act, 
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+                5 U.S.C. 552
+              </subref>
+            </aref>
+             and other applicable laws and regulations, shall treat such
+            information as confidential.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Investigations.
+            </head>
+          </npcatch>
+          <text>
+             The Director may initiate an investigation of any statement in a
+            request and utilize in his evaluation any relevant facts obtained in
+            such investigation. The Director may accept submissions from third
+            persons relevant to any request for interpretation provided that the
+            petitioner 
+            <PRTPAGE P='106' />
+            is afforded an opportunity to respond to all such submissions. In
+            evaluating a request for interpretation, the Director may consider
+            any other source of information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Applicability.
+            </head>
+          </npcatch>
+          <text>
+             Any interpretation issued hereunder shall be issued on the basis of
+            the information provided on the request, as supplemented by other
+            information brought to the attention of the Director during the
+            consideration of the request. The interpretation shall, therefore,
+            depend for its authority on the accuracy of the factual statement
+            and may be relied upon only to the extent that the facts of the
+            actual situation correspond to those upon which the interpretation
+            was based.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Issuance of an interpretation.
+            </head>
+          </npcatch>
+          <text>
+             Upon consideration of the request for interpretation and other
+            relevant information received or obtained by the Director, the
+            Director may issue a written interpretation. A copy of the written
+            interpretation shall be provided to FERC and the Secretary of
+            Energy. Notice of the issuance of the written interpretation shall
+            be published in the 
+            <E T='04'>
+              Federal Register.
+            </E>
+             The granting of a request for issuance of an interpretation shall
+            be considered final agency action for purposes of judicial review
+            under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='8' psec='' tq='N'>
+                2901.8
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Denial of an interpretation.
+            </head>
+          </npcatch>
+          <text>
+             An interpretation shall be considered denied for purpose of review
+            of such denial under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='7' psec='' tq='N'>
+                2901.7
+              </subref>
+            </aref>
+             only if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Director notifies the petitioner in writing that the request is
+            denied and that an interpretation will not be issued; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Director does not respond to a request for an interpretation,
+            by (i) issuing an interpretation, or (ii) giving notice of when an
+            interpretation will be issued within 45 days of the date of receipt
+            of the request, or within such extended time as the Director may
+            prescribe by written notice within the 45-day period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes of this 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2901' tq='N'>
+                2901
+              </subref>
+            </aref>
+             the word 
+            <E T='03'>
+              interpretation
+            </E>
+             shall not be deemed to include a simple clarification of an actual
+            or purported ambiguity in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2900' tq='N'>
+                2900
+              </subref>
+            </aref>
+            . The Director reserves the right to determine whether a request
+            involves simple clarification and shall advise the requester of his
+            decision.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15949'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.5
+      </extid>
+      <num st='1'>
+        2901.5
+      </num>
+      <head>
+        Modifications and rescissions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='5' psec='' tq='N'>
+              2901.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Modifications and rescissions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Request for modification or rescission.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Any person seeking a modification or a rescission of the Essential
+            Agricultural Uses and Requirements regulations of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2900' tq='N'>
+                2900
+              </subref>
+            </aref>
+             shall file a formal written request with the Director. The request
+            shall contain a full and complete statement of all relevant facts
+            pertaining to the circumstance, act or transaction that is the
+            subject of the request and to the action sought. The request should
+            state the special hardship, inequity or unfair distribution of
+            burdens that will be prevented by making the modification or
+            rescission.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the petitioner wishes to claim confidential treatment for any
+            information contained in the request or other documents submitted
+            under this 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2901' tq='N'>
+                2901
+              </subref>
+            </aref>
+            , such person shall file together with the document a second copy of
+            the document from which has been deleted the information for which
+            such person wishes to claim confidential treatment. The petitioner
+            shall indicate in the original document that it is confidential or
+            contains confidential information and may file a statement
+            specifying the justification for non-disclosure of the information
+            for which non-disclosure is sought. The Director shall consider such
+            requests, and subject to the Freedom of Information Act, 
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+                5 U.S.C. 552
+              </subref>
+            </aref>
+             and other applicable laws and regulations, shall treat such
+            information as confidential.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The request shall be filed as a petition for rulemaking and treated
+            in accordance with the procedures, as applicable, of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1' tq='N'>
+                1
+              </subref>
+            </aref>
+            , subpart B.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Institution of rulemaking.
+            </head>
+          </npcatch>
+          <text>
+             Upon consideration of the request for modification or rescission
+            and other relevant information received or obtained by the Director,
+            the Director may institute rulemaking proceedings in accordance with
+            the Administrative Procedures Act 
+            <aref type='USC'>
+              <subref title='5' sect='551' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/551.html'>
+                5 U.S.C. 551
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+             and applicable regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Denial of a modification or rescission.
+            </head>
+          </npcatch>
+          <text>
+             If the Director (1) denies the request for modification or
+            rescission in writing by notifying the petitioner that he does not
+            intend to institute rulemaking proceedings as proposed and stating
+            the reasons therefor, or (2) does not respond to a request for a 
+            <PRTPAGE P='107' />
+            modification or rescission in accordance with paragraph (b) of this
+            section or (3) notifies the petitioner in writing that the matter is
+            under continuing consideration and that no decision can be made at
+            that time because of the inadequacy of available information,
+            changing circumstances or other reasons as set forth therein, within
+            45 days of the date of the receipt thereof, or within such extended
+            time as the Director may prescribe by written notice within that
+            45-day period, the request shall be considered denied for the
+            purpose of review of such denial under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='7' psec='' tq='N'>
+                2901.7
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15950'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.6
+      </extid>
+      <num st='1'>
+        2901.6
+      </num>
+      <head>
+        Exceptions and exemptions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='6' psec='' tq='N'>
+              2901.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exceptions and exemptions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Request for exception or exemption.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Any person seeking an exception or exemption from the Essential
+            Agricultural Uses and Requirements regulations in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2900' tq='N'>
+                2900
+              </subref>
+            </aref>
+             shall file a formal written request with the Director. The request
+            shall contain a full and complete statement of all relevant facts
+            pertaining to the circumstance, act, or transaction that is the
+            subject of the request and to the action sought. The request should
+            state the special hardship, inequity or unfair distribution of
+            burdens that will be prevented by making the exception or exemption.
+            The Director shall publish a notice in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             advising the public that a request for an exception or exemption
+            has been received and that written comments will be accepted with
+            respect thereto if received within 20 days of the notice. The 
+            <E T='04'>
+              Federal Register
+            </E>
+             notice will provide that copies of the request from which
+            confidential information has been deleted in accordance with
+            paragraph (a)(2) of this section may be obtained from the
+            petitioner. The Petitioner shall be afforded an opportunity to
+            respond to such submissions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the petitioner wishes to claim confidential treatment for any
+            information contained in the request or other documents submitted
+            under this 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='2901' tq='N'>
+                2901
+              </subref>
+            </aref>
+            , such person shall file together with the document a second copy of
+            the document from which has been deleted the information for which
+            such person wishes to claim confidential treatment. The petitioner
+            shall indicate in the original document that it is confidential or
+            contains confidential information and may file a statement
+            specifying the justification for non-disclosure of the information
+            for which non-disclosure is sought. The Director shall consider such
+            requests, and subject to the Freedom of Information Act, 
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+                5 U.S.C. 552
+              </subref>
+            </aref>
+             and other applicable laws and regulations, shall treat such
+            information as confidential.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Decision and order.
+            </head>
+          </npcatch>
+          <text>
+             Upon consideration of the request for an exception or exemption and
+            other relevant information received or obtained during the
+            proceedings, the Director shall issue an order granting or denying
+            the request. The Director shall publish a notice in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             of the issuance of a decision and order on the request. The
+            granting of a request for an exception or exemption shall be
+            considered final agency action for purposes of judicial review under
+            
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='8' psec='' tq='N'>
+                2901.8
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Denial of an exception or exemption.
+            </head>
+          </npcatch>
+          <text>
+             A request for an exception or exemption shall be considered denied
+            for purposes of review of such denial under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='7' psec='' tq='N'>
+                2901.7
+              </subref>
+            </aref>
+             only if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Director has notified the petitioner in writing that the
+            request is denied under paragraph (b) of this section; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Director does not respond to a request for an exception or
+            exemption by (i) granting the request for an exception or exemption
+            under paragraph (b) of this section or (ii) giving notice of when a
+            decision will be made within 45 days of the receipt of the request,
+            or with such extended time as the Director may prescribe by written
+            notice within the 45-day period.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15951'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.7
+      </extid>
+      <num st='1'>
+        2901.7
+      </num>
+      <head>
+        Review of denials.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='7' psec='' tq='N'>
+              2901.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Review of denials.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Request for review.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Any person aggrieved or adversely affected by a denial of a request
+            for any interpretation under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='4' psec='' tq='N'>
+                2901.4
+              </subref>
+            </aref>
+             may request a review of the denial by the Secretary, within 30 days
+            from the date of the denial.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any person aggrieved or adversely affected by a denial of a request
+            for a modification or rescission under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='5' psec='' tq='N'>
+                2901.5
+              </subref>
+            </aref>
+            , may request a review of the denial by the Secretary within 30 days
+            from the date of the denial.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Any person aggrieved or adversely affected by a denial of a request
+            for an exception or an exemption under 
+            <PRTPAGE P='108' />
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='6' psec='' tq='N'>
+                2901.6
+              </subref>
+            </aref>
+            , may request a review of the denial by the Secretary within 30 days
+            from the date of the denial.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Procedures.
+            </head>
+          </npcatch>
+          <text>
+             Any request for review under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='7' psec='#a' tq='N'>
+                2901.7(a)
+              </subref>
+            </aref>
+             shall be in writing and shall set forth the specific ground upon
+            which the request is based. There is no final agency action for
+            purposes of judicial review under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='8' psec='' tq='N'>
+                2901.8
+              </subref>
+            </aref>
+             until that request has been acted upon. If the request for review
+            has not been acted upon within 30 days after it is received, the
+            request shall be deemed to have been denied. That denial shall then
+            constitute final agency action for the purpose of judicial review
+            under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2901' sect='8' psec='' tq='N'>
+                2901.8
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15952'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.8
+      </extid>
+      <num st='1'>
+        2901.8
+      </num>
+      <head>
+        Judicial review.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='8' psec='' tq='N'>
+              2901.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Judicial review.
+        </SUBJECT>
+        <P>
+          Any person aggrieved or adversely affected by a final agency action
+          taken on a request for an adjustment under this section may obtain
+          judicial review in accordance with 
+          <aref type='UNKNOWN'>
+            section 506 of
+          </aref>
+           the Natural Gas Policy Act of 1978.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15953'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2901:-:2901.9
+      </extid>
+      <num st='1'>
+        2901.9
+      </num>
+      <head>
+        Effective date.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2901' sect='9' psec='' tq='N'>
+              2901.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effective date.
+        </SUBJECT>
+        <P>
+          This rule shall become effective on October 29, 1979.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

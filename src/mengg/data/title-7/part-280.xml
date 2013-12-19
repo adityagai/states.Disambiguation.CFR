@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol4'>
+    <extid>
+      lii:cfr:2013:7:0:B:II:C:280
+    </extid>
+    <num>
+      280
+    </num>
+    <head>
+      EMERGENCY FOOD ASSISTANCE FOR VICTIMS OF DISASTERS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='2011-203' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2011-203.html'>
+              7 U.S.C. 2011-203
+            </subref>
+          </aref>
+          6.
+        </P>
+      </AUTH>
+      <EDNOTE>
+        <HD SOURCE='HED'>
+          Editorial Note:
+        </HD>
+        <P>
+          OMB control numbers relating to this 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='280' tq='N'>
+              280
+            </subref>
+          </aref>
+           are contained in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='271' sect='8' psec='' tq='N'>
+              271.8
+            </subref>
+          </aref>
+          .
+        </P>
+      </EDNOTE>
+    </text>
+    <section orderid='4997'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:280:-:280.1
+      </extid>
+      <num st='1'>
+        280.1
+      </num>
+      <head>
+        Interim disaster procedures.
+      </head>
+      <citation>
+        [Amdt. 192, 
+        <aref type='FREGIST'>
+          46 FR 8922
+        </aref>
+        , Jan. 27, 1981, as amended by Amdt. 338, 
+        <aref type='FREGIST'>
+          56 FR 63617
+        </aref>
+        , Dec. 4, 1991; Amdt. 397, 
+        <aref type='FREGIST'>
+          70 FR 72354
+        </aref>
+        , Dec. 5, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='280' sect='1' psec='' tq='N'>
+              280.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interim disaster procedures.
+        </SUBJECT>
+        <P>
+          The Secretary shall, after consultation with the official empowered to
+          exercise the authority provided for by 
+          <aref type='UNKNOWN'>
+            section 302(a) of
+          </aref>
+           the Disaster Relief Act of 1974, establish temporary emergency
+          standards of eligibility for the duration of the emergency for
+          households who are victims of a disaster which disrupts commercial
+          channels of food distribution, if such households are in need of
+          temporary food assistance and if commercial channels of food
+          distribution have again become available to meet the temporary food
+          needs of such households. Such standards as are prescribed for
+          individual emergencies may be promulgated without regard to 
+          <aref type='UNKNOWN'>
+            section 4(c) of
+          </aref>
+           this Act or the procedures set forth in 
+          <aref type='UNKNOWN'>
+            section 553 of
+          </aref>
+           Title 5 of the United States Code. In addition to establishing
+          temporary emergency standards of eligibility, the Secretary shall
+          provide for emergency allotments to eligible households to replace
+          food destroyed in a disaster. Such emergency allotments would be equal
+          to the value of the food actually lost in such disaster but not
+          greater than the applicable maximum monthly allotment for the
+          household size. The Secretary may also approve alternate methods for
+          issuing food stamp benefits during a disaster when reliance on
+          Electronic Benefits Transfer (EBT) systems is impracticable.
+        </P>
+        <CITA>
+          [Amdt. 192, 
+          <aref type='FREGIST'>
+            46 FR 8922
+          </aref>
+          , Jan. 27, 1981, as amended by Amdt. 338, 
+          <aref type='FREGIST'>
+            56 FR 63617
+          </aref>
+          , Dec. 4, 1991; Amdt. 397, 
+          <aref type='FREGIST'>
+            70 FR 72354
+          </aref>
+          , Dec. 5, 2005]
+          <PRTPAGE P='1032' />
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

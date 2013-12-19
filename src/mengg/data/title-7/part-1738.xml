@@ -1,0 +1,5458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol11'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1738
+    </extid>
+    <num>
+      1738
+    </num>
+    <head>
+      RURAL BROADBAND ACCESS LOANS AND LOAN GUARANTEES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref target='_blank' title='Pub. L. 107-171' alt='Pub. L. 107-171' href='http://www.gpo.gov/fdsys/pkg/PLAW-107publ171/html/PLAW-107publ171.htm'>
+            Pub. L. 107-171
+          </aref>
+          , 
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            76 FR 13785
+          </aref>
+          , Mar. 14, 2011, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='13986'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:A:1738.1
+      </extid>
+      <num st='1'>
+        1738.1
+      </num>
+      <head>
+        Overview.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='1' psec='' tq='N'>
+              1738.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Overview.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Rural Broadband Access Loan and Loan Guarantee Program
+            furnishes loans and loan guarantees to provide funds for the costs
+            of construction, improvement, or acquisition of facilities and
+            equipment needed to provide service at the broadband lending speed
+            in eligible rural areas. This part sets forth the general policies,
+            eligibility requirements, types and terms of loans and loan
+            guarantees, and program requirements under 
+            <aref target='_blank' title='Public Law 107-171' alt='Public Law 107-171' href='http://www.gpo.gov/fdsys/pkg/PLAW-107publ171/html/PLAW-107publ171.htm'>
+              Public Law 107-171
+            </aref>
+             and 
+            <aref type='USC'>
+              <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+                7 U.S.C. 901
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Additional information and application materials regarding the
+            Rural Broadband Access Loan and Loan Guarantee Program can be found
+            on the Rural Development Web site.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13987'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:A:1738.2
+      </extid>
+      <num st='1'>
+        1738.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='2' psec='' tq='N'>
+              1738.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The following definitions apply to 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1738' tq='N'>
+                1738
+              </subref>
+            </aref>
+            :
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Acquisition
+          </E>
+           means the purchase of assets by acquiring facilities, equipment,
+          operations, licenses, or majority stock interest of one or more
+          organizations. Stock acquisitions must be arms-length transactions.
+        </P>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the Administrator of the Rural Utilities Service (RUS), or the
+          Administrator&apos;s designee.
+        </P>
+        <P>
+          <E T='03'>
+            Advance
+          </E>
+           means the transfer of loan funds from the Agency to the borrower.
+        </P>
+        <P>
+          <E T='03'>
+            Affiliate
+          </E>
+           or 
+          <E T='03'>
+            affiliated company
+          </E>
+           of any specified person or entity means any other person or entity
+          directly or indirectly controlling of, controlled by, under direct or
+          indirect common control with, or related to, such specified entity, or
+          which exists for the sole purpose of providing any service to one
+          company or exclusively to companies which otherwise meet the
+          definition of affiliate. This definition includes Variable Interest
+          Entities as described in Financial Accounting Standards Board
+          Interpretation (FIN) No. 46(R), 
+          <E T='03'>
+            Consolidation of Variable Interest Entities.
+          </E>
+           For the purpose of this definition, “control” means the possession
+          directly or indirectly, of the power to direct or cause the direction
+          of the management and policies of a company, whether such power is
+          exercised through one or more intermediary companies, or alone, or in
+          conjunction with or pursuant to an agreement with, one or more other
+          companies, and whether such power is established through a majority or
+          minority ownership voting of securities, common directors, officers,
+          or stockholders, voting trust, or holding trusts (other than money
+          exchanged) for property or services.
+        </P>
+        <P>
+          <E T='03'>
+            Agency
+          </E>
+           means the Rural Utilities Service, which administers the United
+          States Department of Agriculture&apos;s (USDA&apos;s) Rural
+          Development Utilities Programs, including the Rural Broadband Access
+          Loan and Loan Guarantee Program.
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means an entity requesting approval of a loan or loan guarantee under
+          this part.
+        </P>
+        <P>
+          <E T='03'>
+            Arm&apos;s-length transaction
+          </E>
+           means a transaction between two related or affiliated parties that is
+          conducted as if they were unrelated, so that there is no question of
+          conflict of interest, or a transaction between two otherwise unrelated
+          or unaffiliated parties.
+        </P>
+        <P>
+          <E T='03'>
+            Borrower
+          </E>
+           means any organization that has an outstanding broadband or
+          telecommunications loan made or guaranteed by the Agency.
+          <PRTPAGE P='346' />
+        </P>
+        <P>
+          <E T='03'>
+            Broadband borrower
+          </E>
+           means any organization that has an outstanding broadband loan made or
+          guaranteed by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Broadband grant
+          </E>
+           means a Community Connect or Broadband Initiatives Program grant
+          approved by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Broadband lending speed
+          </E>
+           means the minimum bandwidth requirement, as published by the Agency
+          in its latest notice in the 
+          <E T='04'>
+            Federal Register
+          </E>
+           that an applicant must propose to deliver to every customer in the
+          proposed funded service area in order for the Agency to approve a
+          broadband loan and may be different for fixed and mobile broadband
+          service. Broadband lending speed may be different from the minimum
+          rate of data transmission required to determine the availability of
+          broadband service when qualifying a service area. If a new broadband
+          lending speed is published in the 
+          <E T='04'>
+            Federal Register
+          </E>
+           while an application is pending, the pending application may be
+          returned unless the proposed broadband system can provide service at
+          the new broadband lending speed. Returned applications will lose their
+          place in the processing queue.
+        </P>
+        <P>
+          <E T='03'>
+            Broadband loan
+          </E>
+           means any loan approved under Title VI of the Rural Electrification
+          Act of 1936 (RE Act).
+        </P>
+        <P>
+          <E T='03'>
+            Broadband service
+          </E>
+           means any technology identified by the Administrator as having the
+          capacity to provide transmission facilities that enable the subscriber
+          to the service to originate and receive high-quality voice, data,
+          graphics, and video. The Agency will publish the minimum rate of data
+          transmission that will qualify as broadband service in a notice in the
+          
+          <E T='04'>
+            Federal Register
+          </E>
+           and this rate may be different for fixed and mobile broadband
+          service. The minimum rate of data transmission that defines broadband
+          service may be different than the broadband lending speed. If a new
+          minimum rate of data transmission is published in the 
+          <E T='04'>
+            Federal Register
+          </E>
+           while an application is pending, broadband service for the purpose of
+          reviewing the application will be defined by the minimum rate of data
+          transmission that was required at the time the application was
+          received by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Build-out
+          </E>
+           means the construction, improvement, or acquisition of facilities and
+          equipment.
+        </P>
+        <P>
+          <E T='03'>
+            Competitive analysis
+          </E>
+           means a study that identifies service providers and products in the
+          service area that will compete with the applicant&apos;s proposed
+          project.
+        </P>
+        <P>
+          <E T='03'>
+            Composite economic life
+          </E>
+           means the weighted (by dollar amount of each class of facility in the
+          loan) average economic life as determined by the Agency of all classes
+          of facilities financed by the loan.
+        </P>
+        <P>
+          <E T='03'>
+            Cost share
+          </E>
+           means equity, as defined by generally accepted accounting principles
+          (GAAP).
+        </P>
+        <P>
+          <E T='03'>
+            Customer premises equipment
+          </E>
+           (CPE), in the context of network services, means any network-related
+          equipment (
+          <E T='03'>
+            e.g.
+          </E>
+           routers, switches, modems, etc.) used by a customer to connect to a
+          service provider&apos;s network.
+        </P>
+        <P>
+          <E T='03'>
+            Derivative
+          </E>
+           means any right, interest, instrument or security issued or traded on
+          the credit of the guaranteed loan or any guaranteed loan portion,
+          including but not limited to any participation share of, or undivided
+          ownership or other equity interest in, the guaranteed loan or any
+          guaranteed loan portion; any note, bond or other debt instrument or
+          obligation which is collateralized or otherwise secured by a pledge
+          of, or security interest in, the guaranteed loan or any guaranteed
+          loan portion; or any such interest in such an interest or any such
+          instrument secured by such an instrument.
+        </P>
+        <P>
+          <E T='03'>
+            Economic life
+          </E>
+           means the estimated useful service life of an asset financed by the
+          loan, as determined by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Equity
+          </E>
+           means total assets minus total liabilities, as determined by GAAP and
+          as classified according to the Agency&apos;s system of accounts and as
+          used in this Part for purposes of 
+          <aref type='UNKNOWN'>
+            section 306F of
+          </aref>
+           the RE Act includes the requirements of credit support and cost share
+          in Title VI of the RE Act.
+        </P>
+        <P>
+          <E T='03'>
+            Feasibility study
+          </E>
+           means the evaluation of the pro forma financial analysis prepared by
+          the Agency, based on the financial projections supplied by the
+          applicant and as found acceptable by the Agency, to determine the
+          financial feasibility of a loan request. Financial feasibility will be
+          based on the entire 
+          <PRTPAGE P='347' />
+          operation of the applicant and not limited to the funded project.
+        </P>
+        <P>
+          <E T='03'>
+            Financial feasibility
+          </E>
+           means the applicant&apos;s ability to generate sufficient revenues to
+          cover its expenses, sufficient cash flow to service its debts and
+          obligations as they come due, and meet the minimum Times Interest
+          Earned Ratio (TIER) requirement of 1.25 (see 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='211' psec='#b_2_ii' tq='N'>
+              1738.211(b)(2)(ii)
+            </subref>
+          </aref>
+          ) by the end of the forecast period, as evaluated by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Fiscal year
+          </E>
+           refers to the applicant or borrower&apos;s fiscal year, unless
+          otherwise indicated.
+        </P>
+        <P>
+          <E T='03'>
+            Forecast period
+          </E>
+           means the time period used in the feasibility study to determine if
+          an application is financially feasible. Financial feasibility of a
+          loan application is based on five-year projections.
+        </P>
+        <P>
+          <E T='03'>
+            Funded service area
+          </E>
+           means the geographic area within which an applicant proposes to offer
+          service at the broadband lending speed using loan funds. (See also
+          “service area.”)
+        </P>
+        <P>
+          <E T='03'>
+            GAAP
+          </E>
+           means generally accepted accounting principles.
+        </P>
+        <P>
+          <E T='03'>
+            Guaranteed-amount debt derivative
+          </E>
+           means any note, bond, or other debt instrument or obligation which is
+          collateralized or otherwise secured by a pledge of, or security
+          interest in, the guaranteed loan note or any guaranteed loan portion
+          note or any derivative, as the case may be, which has an exclusive or
+          preferred claim to the guaranteed loan amount or the respective
+          guaranteed loan portion amount or the respective guaranteed-amount
+          equivalent, as the case may be.
+        </P>
+        <P>
+          <E T='03'>
+            Guaranteed-amount equity derivative
+          </E>
+           means any participation share of, or undivided ownership or other
+          equity interest in, the guaranteed loan or any guaranteed loan portion
+          or any derivative, as the case may be, which has an exclusive or
+          preferred claim to the guaranteed loan amount or the respective
+          guaranteed loan portion amount or the respective guaranteed-amount
+          equivalent, as the case may be.
+        </P>
+        <P>
+          <E T='03'>
+            Guaranteed-amount equivalent
+          </E>
+           means, with respect to any derivative which is equal in principal
+          amount to the guaranteed loan or any guaranteed loan portion, that
+          amount of payment on account of such derivative which is equal to the
+          guaranteed loan amount or the respective guaranteed loan portion
+          amount, as the case may be; or with respect to any derivative which in
+          the aggregate are equal in principal amount to the guaranteed loan or
+          any guaranteed loan portion, that amount of payment on account of such
+          derivatives which is equal to the guaranteed loan amount or the
+          respective guaranteed loan portion amount, as the case may be.
+        </P>
+        <P>
+          <E T='03'>
+            Guaranteed loan amount
+          </E>
+           means the amount of the loan which is guaranteed by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Guaranteed loan note
+          </E>
+           means, collectively, the note or notes executed and delivered by the
+          borrower to evidence the guaranteed loan.
+        </P>
+        <P>
+          <E T='03'>
+            Guaranteed loan portion
+          </E>
+           means any portion of the guaranteed loan.
+        </P>
+        <P>
+          <E T='03'>
+            Guaranteed loan portion amount
+          </E>
+           means that amount of payment on account of any guaranteed loan
+          portion which is guaranteed under the terms of the guarantee.
+        </P>
+        <P>
+          <E T='03'>
+            Guaranteed loan portion note
+          </E>
+           means any note executed and delivered by the borrower to evidence a
+          guaranteed loan portion.
+        </P>
+        <P>
+          <E T='03'>
+            Grantee
+          </E>
+           means any organization that has an outstanding broadband grant made
+          by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Incumbent service provider
+          </E>
+           (i) Means a service provider that:
+        </P>
+        <P>
+          <npcatch lev='4' id='a_1_i_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Offers terrestrial broadband service in the proposed funded service
+            area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_1_i_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Has not less than five percent of the households in an
+            applicant&apos;s proposed funded service area subscribing to their
+            broadband service at the time of application submission; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_1_i_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Provides this information to the Agency through a timely response
+            to the public notice described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='204' psec='' tq='N'>
+                1738.204
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Resellers are not considered incumbent service providers. If an
+            applicant proposes an acquisition, the applicant will be considered
+            a service provider for that area.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Indefeasible right to use agreement
+          </E>
+           (IRU) means the effective long-term lease of the capacity, or a
+          portion thereof, of a cable, specified in terms of a certain number of
+          channels of a given bandwidth.
+        </P>
+        <P>
+          <E T='03'>
+            Interim financing
+          </E>
+           means funds used for eligible loan purposes after the applicant is
+          notified by the Agency that the application is complete. Such funds 
+          <PRTPAGE P='348' />
+          may be eligible for reimbursement from loan funds if a loan is made.
+        </P>
+        <P>
+          <E T='03'>
+            Loan
+          </E>
+           means any loan made or guaranteed under this part by the Agency,
+          unless otherwise noted.
+        </P>
+        <P>
+          <E T='03'>
+            Loan contract
+          </E>
+           means the loan agreement between the Agency and the borrower,
+          including all amendments thereto.
+        </P>
+        <P>
+          <E T='03'>
+            Loan documents
+          </E>
+           means the loan agreement, note(s), and security instrument between
+          the borrower and the Agency and any associated documents pertaining to
+          the broadband loan.
+        </P>
+        <P>
+          <E T='03'>
+            Loan guarantee
+          </E>
+           means a loan made by another lender, some portion of which is
+          guaranteed by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Loan guarantee documents
+          </E>
+           means the guarantee agreement between RUS and the lender, the loan
+          and security agreement(s) between the guaranteed lender and the
+          borrower, the loan note guarantee made by RUS, the guaranteed loan
+          note, and other security documents.
+        </P>
+        <P>
+          <E T='03'>
+            Loan funds
+          </E>
+           means funds provided pursuant to a broadband loan made or guaranteed
+          under this part by the Agency.
+        </P>
+        <P>
+          <E T='03'>
+            Market survey
+          </E>
+           means the collection of information on the supply, demand, usage, and
+          rates for proposed services to be offered by an applicant within each
+          service area. It supports the applicant&apos;s financial projections.
+        </P>
+        <P>
+          <E T='03'>
+            Pre-loan expense
+          </E>
+           means any expense associated with the preparation of a loan
+          application. Pre-loan expenses may be reimbursed with loan funds, as
+          approved by RUS.
+        </P>
+        <P>
+          <E T='03'>
+            RE Act
+          </E>
+           means the Rural Electrification Act of 1936, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Reject
+          </E>
+           means that the Agency returns the application to the applicant and
+          discontinues processing of the loan application because the
+          application failed to meet the requirements set forth herein. If an
+          application is rejected, the loan application loses its place in the
+          application processing queue.
+        </P>
+        <P>
+          <E T='03'>
+            Reseller
+          </E>
+           means, in the context of network services, a company that purchases
+          network services from network service providers in bulk and resells
+          them to commercial businesses and residential households. Resellers
+          are not considered incumbent service providers.
+        </P>
+        <P>
+          <E T='03'>
+            Rural area
+          </E>
+           means any area, as confirmed by the latest decennial census of the
+          Bureau of the Census, which is not located within:
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A city, town, or incorporated area that has a population of greater
+            than 20,000 inhabitants; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             An urbanized area contiguous and adjacent to a city or town that
+            has a population of greater than 50,000 inhabitants. For purposes of
+            the definition of rural area, an urbanized area means a densely
+            populated territory as defined in the latest decennial census of the
+            U.S. Census Bureau.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Security documents
+          </E>
+           means any mortgage, deed of trust, security agreement, financing
+          statement, or other document which grants to the Agency or perfects a
+          security interest, including any amendments and supplements thereto.
+        </P>
+        <P>
+          <E T='03'>
+            Service area
+          </E>
+           means the geographic area within which a service provider offers
+          telecommunications service.
+        </P>
+        <P>
+          <E T='03'>
+            Service level objectives (SLOs)
+          </E>
+           means the characteristics of the service to be delivered to the
+          customer, for example the speed with which new service will be
+          established, service availability, and response time for reports of
+          system failure at a residence.
+        </P>
+        <P>
+          <E T='03'>
+            Service provider
+          </E>
+           means an entity providing telecommunications service.
+        </P>
+        <P>
+          <E T='03'>
+            Service territory
+          </E>
+           means “service area.”
+        </P>
+        <P>
+          <E T='03'>
+            Start-up
+          </E>
+           means a new business venture without operations or service delivery
+          available.
+        </P>
+        <P>
+          <E T='03'>
+            System of accounts
+          </E>
+           means the Agency&apos;s system of accounts for maintaining financial
+          records as described in RUS Bulletin 1770B-1.
+        </P>
+        <P>
+          <E T='03'>
+            Telecommunications
+          </E>
+           means electronic transmission and reception of voice, data, video,
+          and graphical information using wireline and wireless transmission
+          media.
+        </P>
+        <P>
+          <E T='03'>
+            Telecommunications loan
+          </E>
+           means any telecommunication loan made or guaranteed under Title II,
+          III, or IV of the RE Act.
+        </P>
+        <P>
+          <E T='03'>
+            TIER
+          </E>
+           means times interest earned ratio. TIER is the ratio of an
+          applicant&apos;s net income (after taxes) plus (adding back) interest
+          expense, all divided by interest expense (existing and that required
+          in the proposed loan), and with all financial terms defined by GAAP.
+          <PRTPAGE P='349' />
+        </P>
+        <P>
+          <E T='03'>
+            Underserved household or Underserved area
+          </E>
+           means a household or an area that is not offered broadband service,
+          or that is offered broadband service by only one incumbent service
+          provider.
+        </P>
+        <P>
+          <E T='03'>
+            Unguaranteed amount equivalent
+          </E>
+           means all amounts of payment on account of any derivative other than
+          the respective guaranteed-amount equivalent.
+        </P>
+        <P>
+          <E T='03'>
+            Unguaranteed loan amount
+          </E>
+           means all amounts of payment on account of the guaranteed loan other
+          than the guaranteed amount.
+        </P>
+        <P>
+          <E T='03'>
+            Unguaranteed loan portion amount
+          </E>
+           means all amounts of payment on account of any guaranteed loan
+          portion other than the respective guaranteed loan portion amount.
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Accounting terms not otherwise defined in this part shall have the
+            definition ascribed to them under GAAP and shall be recorded using
+            the Agency&apos;s system of accounts.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13988'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:A:1738.3
+      </extid>
+      <num st='1'>
+        1738.3
+      </num>
+      <head>
+        Substantially underserved trust areas.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='3' psec='' tq='N'>
+              1738.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Substantially underserved trust areas.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the Administrator determines that a community in “trust land”
+            (as defined in 
+            <aref type='UNKNOWN'>
+              section 3765 of
+            </aref>
+             title 38, United States Code) has a high need for the benefits of
+            the Broadband Loan Program, he/she may designate the community as a
+            “substantially underserved trust area” (as defined in 
+            <aref type='UNKNOWN'>
+              section 306F of
+            </aref>
+             the RE Act).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In order to improve the availability of the Broadband Loan Program
+            in communities in substantially underserved trust areas, the
+            Administrator retains the discretion to
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Make available to qualified utilities or applicants, financing with
+            an interest rate as low as 2 percent, and with extended repayment
+            terms;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Waive nonduplication restrictions, matching fund and equity
+            requirements, or credit support requirements; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Give the highest funding priority to designated projects in
+            substantially underserved trust areas.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator will only make loans and loan guarantees that RUS
+            finds are financially feasible and that provide eligible program
+            benefits to substantially underserved trust areas.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants should notify the National Office before preparing their
+            applications that they are planning to seek waivers or adjustments
+            based on this section (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='201' psec='' tq='N'>
+                1738.201
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13989'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:A:1738.4-1738.50
+      </extid>
+      <num st='2'>
+        1738.4-1738.50
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1738' sect='4-1738' psec='' tq='N'>
+              1738.4-1738
+            </subref>
+          </aref>
+          .50
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13990'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:B:1738.51
+      </extid>
+      <num st='1'>
+        1738.51
+      </num>
+      <head>
+        Eligible loan purposes.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='51' psec='' tq='N'>
+              1738.51
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible loan purposes.
+        </SUBJECT>
+        <P>
+          Loan funds may be used to pay for the following expenses:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To fund the construction, improvement, or acquisition of all
+            facilities required to provide service at the broadband lending
+            speed to rural areas, including facilities required for providing
+            other services over the same facilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To fund the cost of leasing facilities required to provide service
+            at the broadband lending speed if such lease qualifies as a capital
+            lease under GAAP. Notwithstanding, loan funds can only be used to
+            fund the cost of the capital lease for no more than the first three
+            years of the loan amortization period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To fund an acquisition, provided that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The acquisition is necessary for furnishing or improving service at
+            the broadband lending speed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The acquired service area, if any, meets the eligibility
+            requirements set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='102' psec='' tq='N'>
+                1738.102
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The acquisition cost does not exceed 50 percent of the broadband
+            loan amount; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For the acquisition of another entity, the purchase provides the
+            applicant with a controlling majority interest in the entity
+            acquired.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             To refinance an outstanding telecommunications loan made under the
+            RE Act if refinancing the loan supports the construction,
+            improvement, or acquisition of facilities and equipment for the
+            provision of service at the broadband lending speed in rural areas
+            provided that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             No more than 40 percent of the broadband loan amount is used to
+            refinance the outstanding telecommunications loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant is current with its payments on the telecommunication
+            loan(s) to be refinanced; and
+            <PRTPAGE P='350' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The amortization period for that portion of the broadband loan that
+            will be needed for refinancing will not exceed the remaining
+            amortization period for the telecommunications loan(s) to be
+            refinanced. If multiple notes are being refinanced, an average
+            remaining amortization period will be calculated based on the
+            weighted dollar average of the notes being refinanced.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             To fund pre-loan expenses in an amount not to exceed five percent
+            of the broadband loan excluding amounts requested to refinance
+            outstanding telecommunication loans. Pre-loan expenses may be
+            reimbursed only if they are incurred prior to the date on which
+            notification of a complete application is issued (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='205' psec='' tq='N'>
+                1738.205
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13991'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:B:1738.52
+      </extid>
+      <num st='1'>
+        1738.52
+      </num>
+      <head>
+        Ineligible loan purposes.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='52' psec='' tq='N'>
+              1738.52
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Ineligible loan purposes.
+        </SUBJECT>
+        <P>
+          Loan funds must not be used for any of the following purposes:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To fund operating expenses of the applicant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To fund costs incurred prior to the date on which notification of a
+            complete application is issued (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='205' psec='' tq='N'>
+                1738.205
+              </subref>
+            </aref>
+            ), with the exception of eligible pre-loan expenses (see
+            1738.51(e)).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To fund the acquisition of the stock of an affiliate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             To fund the purchase or acquisition of any facilities or equipment
+            of an affiliate, unless approved by the Agency in writing. The
+            Agency may approve such a purchase or acquisition if the applicant
+            demonstrates that the purchase or acquisition will involve an
+            arms-length transaction and that the cost is advantageous for the
+            applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             To fund the purchase of CPE and the installation of associated
+            inside wiring unless the CPE will be owned by the applicant
+            throughout its economic life or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant pledges additional collateral that is not currently
+            owned by the applicant, acceptable to the Agency. Such collateral
+            must have a value at least equal to the purchase price of the CPE
+            and cannot be purchased with loan funds; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant establishes a revolving fund for the initial purchase
+            of CPE to be sold, and as CPE is sold to the customer, at least the
+            applicant&apos;s cost of such equipment is returned to the revolving
+            fund and used to purchase additional CPE units.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             To fund the purchase or lease of any vehicle unless it is used
+            primarily in construction or system improvements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             To fund the cost of systems or facilities that have not been
+            designed and constructed in accordance with the loan contract and
+            other applicable requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             To fund broadband facilities leased under the terms of an operating
+            lease.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             To fund merger or consolidation of entities.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13992'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:B:1738.53-1738.100
+      </extid>
+      <num st='2'>
+        1738.53-1738.100
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1738' sect='53-1738' psec='' tq='N'>
+              1738.53-1738
+            </subref>
+          </aref>
+          .100
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13993'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:C:1738.101
+      </extid>
+      <num st='1'>
+        1738.101
+      </num>
+      <head>
+        Eligible applicants.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='101' psec='' tq='N'>
+              1738.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible applicants.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for a broadband loan, an applicant may be either a
+            nonprofit or for-profit organization, and must take one of the
+            following forms:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Corporation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Limited liability company (LLC);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Cooperative or mutual organization;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Indian tribe or tribal organization as defined in 
+            <aref type='USC'>
+              <subref title='25' sect='450b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/25/450b.html'>
+                25 U.S.C. 450b
+              </subref>
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             State or local government, including any agency, subdivision, or
+            instrumentality thereof.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for a broadband loan, the applicant must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Submit a loan application which meets the requirements set forth
+            herein as well as any additional requirements published in the 
+            <E T='04'>
+              Federal Register
+            </E>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to complete the build-out of the broadband system described
+            in the loan application within three years from the day the
+            applicant is notified that loan funds are available. The loan
+            application must demonstrate that all proposed construction be
+            completed within this three year period with the exception of CPE.
+            CPE can be funded throughout the forecast period;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrate an ability to furnish, improve, or extend broadband
+            facilities to provide service at the broadband lending speed in
+            rural areas;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrate an equity position equal to at least 10 percent of the 
+            <PRTPAGE P='351' />
+            amount of the loan requested in the application (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='207' psec='' tq='N'>
+                1738.207
+              </subref>
+            </aref>
+            ); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Provide additional security if it is necessary to ensure financial
+            feasibility (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='208' psec='' tq='N'>
+                1738.208
+              </subref>
+            </aref>
+            ) as determined by the Administrator.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13994'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:C:1738.102
+      </extid>
+      <num st='1'>
+        1738.102
+      </num>
+      <head>
+        Eligible service area.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='102' psec='' tq='N'>
+              1738.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible service area.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A service area may be eligible for a broadband loan if all of the
+            following are true:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The service area is completely contained within a rural area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             At least 25 percent of the households in the service area are
+            underserved households;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             No part of the service area has three or more incumbent service
+            providers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             No part of the funded service area overlaps with the service area
+            of current RUS borrowers and grantees;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             No part of the funded service area is included in a pending
+            application before RUS seeking funding to provide broadband service.
+            If two or more applications are submitted for the same service area,
+            a lending decision must be made on the application that was
+            submitted to the Agency first before a lending decision can be made
+            on the other application(s).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Multiple service areas may be included in a single broadband loan
+            application. Non-contiguous areas are considered separate service
+            areas and must be treated separately for the purpose of determining
+            service area eligibility. If non-contiguous areas within an
+            application are determined to be ineligible, the Agency may pursuant
+            to this regulation consider the remaining areas in the application.
+            If an applicant fails to respond to agency requests for additional
+            information or modifications to remove ineligible areas, the
+            application may be returned and the application will lose its place
+            in the processing queue.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13995'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:C:1738.103
+      </extid>
+      <num st='1'>
+        1738.103
+      </num>
+      <head>
+        Eligible service area exceptions for broadband facility upgrades.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='103' psec='' tq='N'>
+              1738.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible service area exceptions for broadband facility upgrades.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Broadband borrowers that apply to upgrade existing broadband
+            facilities in its existing service area are exempt from the
+            requirement concerning the number of underserved households in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='102' psec='#b_2' tq='N'>
+                1738.102(b)(2)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Incumbent service providers, including borrowers and grantees,
+            which apply to upgrade existing broadband facilities in existing
+            service territories are exempt from the requirement concerning the
+            number of incumbent service providers in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='102' psec='#b_3' tq='N'>
+                1738.102(b)(3)
+              </subref>
+            </aref>
+             unless they are eligible for funding under Titles II and III of the
+            RE Act. Eligibility requirements for entities that would be eligible
+            under Titles II and III can be found in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1735' tq='N'>
+                1735
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant which is a borrower, grantee or incumbent service
+            provider may submit one application to upgrade existing broadband
+            facilities in existing service areas, which qualify for the
+            exemptions specified in paragraphs (a) and (b) of this section, and
+            to expand services at the broadband lending speed into new service
+            areas, provided the upgrade area and the expansion area are proposed
+            as two separate service areas even if the upgrade and expansion
+            areas are contiguous.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant will be asked to remove areas determined to be
+            ineligible from their funding request. The application will then be
+            evaluated on the basis of what remains. The applicant may be
+            requested to provide additional information to the agency relating
+            to the ineligible areas. If the applicant fails to respond, the
+            application will be returned and the application will lose its place
+            in the processing queue.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13996'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:C:1738.104
+      </extid>
+      <num st='1'>
+        1738.104
+      </num>
+      <head>
+        Preliminary assessment of service area eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='104' psec='' tq='N'>
+              1738.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Preliminary assessment of service area eligibility.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will make information available to prospective
+            applicants to allow a preliminary assessment of a proposed service
+            area&apos;s eligibility. At a minimum, the prospective applicant
+            will be able to determine:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Whether the proposed service area is located in a rural area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Whether the proposed service area overlaps with any part of a
+            borrower&apos;s or grantee&apos;s service area; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Whether the proposed service area overlaps with any part of a
+            proposed service area in a pending application for a loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A preliminary assessment of service area eligibility does not
+            account for all eligibility factors, and the situation within a
+            proposed service area may 
+            <PRTPAGE P='352' />
+            change between the preliminary assessment and application
+            submission. A preliminary assessment indicating that a proposed
+            service area may be eligible does not guarantee that the area will
+            remain eligible at the time of application.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13997'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:C:1738.105-1738.150
+      </extid>
+      <num st='2'>
+        1738.105-1738.150
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1738' sect='105-1738' psec='' tq='N'>
+              1738.105-1738
+            </subref>
+          </aref>
+          .150
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13998'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:D:1738.151
+      </extid>
+      <num st='1'>
+        1738.151
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='151' psec='' tq='N'>
+              1738.151
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Direct loans shall be in the form of a cost-of-money loan, a
+            4-percent loan, or a combination of the two.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The amount of funds available for each type of loan, as well as
+            maximum and minimum loan amounts, will be published in the 
+            <E T='04'>
+              Federal Register
+            </E>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant that provides telecommunications or broadband service
+            to at least 20 percent of the households in the United States is
+            limited to a loan amount that is no more than 15 percent of the
+            funds available to the Broadband Loan Program for the Federal fiscal
+            year.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13999'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:D:1738.152
+      </extid>
+      <num st='1'>
+        1738.152
+      </num>
+      <head>
+        Interest rates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='152' psec='' tq='N'>
+              1738.152
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interest rates.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Direct cost-of-money loans shall bear interest at a rate equal to
+            the cost of borrowing to the Department of Treasury for obligations
+            of comparable maturity. The applicable interest rate will be set at
+            the time of each advance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14000'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:D:1738.153
+      </extid>
+      <num st='1'>
+        1738.153
+      </num>
+      <head>
+        Loan terms and conditions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='153' psec='' tq='N'>
+              1738.153
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan terms and conditions.
+        </SUBJECT>
+        <P>
+          Terms and conditions of loans are set forth in a mortgage, note, and
+          loan contract. Samples of the mortgage, note, and loan contract can be
+          found on the Agency&apos;s Web site.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Unless requested to be shorter by the applicant, broadband loans
+            must be repaid with interest within a period that, rounded to the
+            nearest whole year, is equal to the expected composite economic life
+            of the assets to be financed, as determined by the Agency based upon
+            acceptable depreciation rates.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Loan advances are made at the request of the borrower. Principal
+            payments for each advance are amortized over the remaining term of
+            the loan and are due monthly. Principal payments will be deferred
+            until one year after the date of the first advance of loan funds.
+            Interest begins accruing when the advance is made and interest
+            payments are due monthly, with no deferral period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers are required to carry fidelity bond coverage. Generally
+            this amount will be 15 percent of the loan amount, not to exceed $5
+            million. The Agency may reduce the percentage required if it
+            determines that the amount is not commensurate with the risk
+            involved.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14001'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:D:1738.154
+      </extid>
+      <num st='1'>
+        1738.154
+      </num>
+      <head>
+        Loan security.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='154' psec='' tq='N'>
+              1738.154
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan security.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The broadband loan must be secured by the assets purchased with the
+            loan funds, as well as all other assets of the applicant and any
+            other signer of the loan documents except as provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='155' psec='' tq='N'>
+                1738.155
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency must be given an exclusive first lien, in form and
+            substance satisfactory to the Agency, on all of the applicant&apos;s
+            property and revenues and such additional security as the Agency may
+            require. The Agency may share its first lien position with another
+            lender on a 
+            <E T='03'>
+              pari passu,
+            </E>
+             prorated basis if security arrangements are acceptable to the
+            Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Unless otherwise designated by the Agency, all property purchased
+            with loan funds must be owned by the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of loans that include financing of facilities that do
+            not constitute self-contained operating systems, the applicant shall
+            furnish assurance, satisfactory to the Agency, that continuous and
+            efficient service at the broadband lending speed will be rendered.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will require financial, investment, operational,
+            reporting, and managerial controls in the loan documents.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14002'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:D:1738.155
+      </extid>
+      <num st='1'>
+        1738.155
+      </num>
+      <head>
+        Special terms and conditions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='155' psec='' tq='N'>
+              1738.155
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Special terms and conditions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may, when it is in the best interest of the Agency and
+            its mission, the affected community, and the applicant, aid in
+            achieving financial feasibility in an underserved area by taking the
+            following steps:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Extend the loan term up to 35 years, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Modify its security requirements.
+            <PRTPAGE P='353' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may reduce the security requirements discussed in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='154' psec='#a' tq='N'>
+                1738.154(a)
+              </subref>
+            </aref>
+             to ensure that the security is commensurate with the risk involved.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14003'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:D:1738.156
+      </extid>
+      <num st='1'>
+        1738.156
+      </num>
+      <head>
+        Other Federal requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='156' psec='' tq='N'>
+              1738.156
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Other Federal requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To receive a broadband loan, the applicant must certify or agree in
+            writing to comply with a variety of Federal regulations including,
+            but not limited to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The nondiscrimination and equal employment opportunity requirements
+            of Title VI of the Civil Rights Act of 1964, as amended (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='15' tq='N'>
+                15
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Section 504 of
+            </aref>
+             the Rehabilitation Act of 1973, as amended (
+            <aref type='USC'>
+              <subref title='29' sect='794' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/29/794.html'>
+                29 U.S.C. 794
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ; 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='15b' tq='N'>
+                15b
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The Age Discrimination Act of 1975, as amended (
+            <aref type='USC'>
+              <subref title='42' sect='6101' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/6101.html'>
+                42 U.S.C. 6101
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ; 
+            <aref type='CFR'>
+              45 CFR part 
+              <subref title='45' part='90' tq='N'>
+                90
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Executive Order 11375, amending Executive Order (E.O.) 11246,
+            Relating to Equal Employment Opportunity (3 CFR, 1966-1970). See 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='15' tq='N'>
+                15
+              </subref>
+               and 
+              <subref title='7' part='15b' tq='N'>
+                15b
+              </subref>
+               and 
+              <subref title='7' part='45' tq='N'>
+                45
+              </subref>
+            </aref>
+             CFR 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='90' tq='N'>
+                90
+              </subref>
+            </aref>
+            , RUS Bulletin 1790-1 (“Nondiscrimination Among Beneficiaries of RUS
+            Programs”), and RUS Bulletin 20-15:320-15 (“Equal Employment
+            Opportunity in Construction Financed with RUS Loans”);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The Architectural Barriers Act of 1968, as amended (
+            <aref type='USC'>
+              <subref title='42' sect='4151' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/4151.html'>
+                42 U.S.C. 4151
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The Uniform Federal Accessibility Standards (UFAS) (Appendix A to 
+            <aref type='CFR'>
+              41 CFR subpart 
+              <subref title='41' part='101-19' subpart='6' tq='N'>
+                101-19.6
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The requirements of the National Environmental Policy Act of 1969
+            (NEPA), as amended;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             The Council on Environmental Quality Regulations for Implementing
+            the Procedural Provisions of NEPA and certain related Federal
+            environmental laws, statutes, regulations, and Executive Orders
+            found in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1794' tq='N'>
+                1794
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             The Uniform Relocation Assistance and Real Property Acquisition
+            Policies Act of 1970, as amended, 
+            <aref type='USC'>
+              <subref title='42' sect='4601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/4601.html'>
+                42 U.S.C. 4601
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            , and with implementing Federal regulations in 
+            <aref type='CFR'>
+              49 CFR part 
+              <subref title='49' part='24' tq='N'>
+                24
+              </subref>
+               and 
+              <subref title='49' part='7' tq='N'>
+                7
+              </subref>
+            </aref>
+             CFR 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='21' tq='N'>
+                21
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations implementing E.O. 12549, Debarment and Suspension, 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3017' sect='510' psec='' tq='N'>
+                3017.510
+              </subref>
+            </aref>
+            , Participants&apos; Responsibilities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             The requirements regarding Lobbying for Contracts, Grants, Loans,
+            and Cooperative Agreements in 
+            <aref type='USC'>
+              <subref title='31' sect='1352' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/31/1352.html'>
+                31 U.S.C. 1352
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Certification regarding Flood Hazard Area Precautions;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+          </npcatch>
+          <text>
+             Certification regarding Debarment, Suspension, and Other
+            Responsibility Matters—Primary Covered Transactions; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_14'>
+            <enum src='gpotxt' cln='1'>
+              (14)
+            </enum>
+          </npcatch>
+          <text>
+             Certification that the borrower is not delinquent on any Federal
+            debt and has been informed of the collection options the Federal
+            Government may use to collect delinquent debt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants must agree in writing to comply with all Federal, State
+            and local laws, rules, regulations, ordinances, codes, and orders
+            applicable to the project.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14004'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:D:1738.157-1739.200
+      </extid>
+      <num st='2'>
+        1738.157-1739.200
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1738' sect='157-1739' psec='' tq='N'>
+              1738.157-1739
+            </subref>
+          </aref>
+          .200
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14005'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.201
+      </extid>
+      <num st='1'>
+        1738.201
+      </num>
+      <head>
+        Application submission.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='201' psec='' tq='N'>
+              1738.201
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application submission.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Loan applications must be submitted directly to the Agency&apos;s
+            National Office or to the General Field Representative (GFR) that is
+            assigned to the area where the applicant&apos;s headquarters are
+            located. A list of GFRs and the areas they are assigned can be found
+            on the Agency&apos;s Web site. All applications must contain two
+            hard copies and an electronic copy of the entire application. An
+            application is considered received upon receipt of the hard and
+            electronic copies by the National Office. The date and time of that
+            receipt will establish the application&apos;s placement in the
+            processing queue.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may publish additional application submission
+            requirements in the 
+            <E T='04'>
+              Federal Register.
+            </E>
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14006'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.202
+      </extid>
+      <num st='1'>
+        1738.202
+      </num>
+      <head>
+        Elements of a complete application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='202' psec='' tq='N'>
+              1738.202
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Elements of a complete application.
+        </SUBJECT>
+        <P>
+          An applicant must submit to the Agency a complete application in a
+          format as required by the Agency in the Rural Broadband Access Loan
+          and Loan Guarantee Program Application Guide (the Application Guide).
+          To be considered complete, the application must contain at least the
+          following items, each of which must be completed in a manner
+          acceptable to the Agency:
+          <PRTPAGE P='354' />
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A completed RUS Form 532, including any additional items required
+            by the form;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Information required for the public notice to determine service
+            area eligibility (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='204' psec='' tq='N'>
+                1738.204
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Documentation demonstrating how the applicant will meet the equity
+            requirement (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='207' psec='' tq='N'>
+                1738.207
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A market survey, unless not required by 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='209' psec='#b' tq='N'>
+                1738.209(b)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             A competitive analysis (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='210' psec='' tq='N'>
+                1738.210
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Required financial information (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='211' psec='' tq='N'>
+                1738.211
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             A network design (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='212' psec='' tq='N'>
+                1738.212
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             A legal opinion that addresses the applicant&apos;s ability to
+            enter into a loan as requested in the loan application, to pledge
+            security as required by the Agency, to describe all pending
+            litigation matters, and such other requirements as are detailed in
+            the Application Guide;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             All required licenses and regulatory approvals for the proposed
+            operation or the status of obtaining these items; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             Additional items that may be required by the Administrator through
+            a notice in the 
+            <E T='04'>
+              Federal Register.
+            </E>
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14007'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.203
+      </extid>
+      <num st='1'>
+        1738.203
+      </num>
+      <head>
+        Priority for processing loan applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='203' psec='' tq='N'>
+              1738.203
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Priority for processing loan applications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in 
+            <aref type='UNKNOWN'>
+              Section 306F of
+            </aref>
+             the RE Act (SUTA) and 
+            <aref type='CFR-TIC-SECT'>
+              section 
+              <subref title='7' part='1738' sect='3' psec='' tq='N'>
+                1738.3
+              </subref>
+            </aref>
+             herein, in making or guaranteeing loans, the Agency shall give
+            priority to applications in the following order:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Applications in which no broadband service is available in any
+            funded service area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Applications in which at least 75 percent of households in the
+            funded service area have no incumbent service provider. For
+            applications with multiple funded service areas, the 75 percent
+            calculation is based on all funded service areas combined;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Applications in which at least 50 percent of households in the
+            funded service area have no incumbent service provider. For
+            applications with multiple funded service areas, the 50 percent
+            calculation is based on all funded service areas combined;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Applications in which at least 25 percent of households in the
+            funded service area have no incumbent service provider. For
+            applications with multiple funded service areas, the 25 percent
+            calculation is based on all funded service areas combined; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             All other applications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Once applications have been prioritized according to the criteria
+            listed in paragraph (a) of this section, the applications will be
+            processed on a first-in, first-out basis within each priority
+            category.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency shall establish the National and State reserve levels in
+            accordance with Title VI of the RE Act. In instances when funds in a
+            particular area are insufficient to cover a loan request, priority
+            will be given to processing applications for which funding is
+            available.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14008'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.204
+      </extid>
+      <num st='1'>
+        1738.204
+      </num>
+      <head>
+        Public notice.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='204' psec='' tq='N'>
+              1738.204
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Public notice.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will publish a public notice of each application. The
+            application must provide a summary of the information required for
+            such public notice including all of the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The identity of the applicant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A map of each service area showing the rural area boundaries and
+            the underserved areas using the Agency&apos;s Mapping Tool;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The estimated number of underserved households in each service
+            area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The estimated number of households without terrestrial-based
+            broadband service in each service area; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A description of all the types of services that the applicant
+            proposes to offer in each service area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will publish the public notice on an Agency webpage
+            after the application has been received in the Agency&apos;s
+            National Office. The notice will remain on the webpage for a period
+            of 30 calendar days. The notice will ask existing service providers
+            to submit to the Agency, within this 30-day period, the following
+            information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The number of residential and business customers within the
+            applicant&apos;s service area that are currently offered broadband
+            service by the existing service provider;
+            <PRTPAGE P='355' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The number of residential and business customers within the
+            applicant&apos;s service area currently purchasing the existing
+            service provider&apos;s broadband service, the rates of data
+            transmission being offered, and the cost of each level of broadband
+            service charged by the existing service provider;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The number of residential and business customers within the
+            applicant&apos;s service area receiving the existing service
+            provider&apos;s non-broadband services and the associated rates for
+            these other services; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A map showing where the existing service provider&apos;s services
+            coincide with the applicant&apos;s service area using the
+            Agency&apos;s Mapping Tool.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Whether the existing service provider is an existing RUS borrower
+            or grantee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will use the information submitted to determine if the
+            existing service provider will be classified as an incumbent service
+            provider. If an existing service provider does not submit a response
+            within the timeframe specified in the public notice, it will not be
+            considered an incumbent service provider. However, all existing
+            service providers will be considered in the Agency&apos;s
+            feasibility study and lending decision.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will determine whether the service areas included in the
+            application are eligible for funding based on the information
+            provided during the public notice period, whether all portions of
+            the service area qualify as rural areas, and the number of incumbent
+            service providers servicing any portion of the service area. If the
+            applicant&apos;s funded service area is ineligible, the Agency will
+            contact the applicant and require that those ineligible areas be
+            removed from the funded service area. If the ineligible service
+            areas are not removed from the funding request, the Agency will
+            reject the application and remove it from the processing queue. The
+            applicant will be notified, in writing, and the application will be
+            returned with an explanation of the reasons for the rejection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The information submitted by an existing service provider will be
+            treated as proprietary and confidential to the extent permitted
+            under applicable law.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14009'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.205
+      </extid>
+      <num st='1'>
+        1738.205
+      </num>
+      <head>
+        Notification of completeness.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='205' psec='' tq='N'>
+              1738.205
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notification of completeness.
+        </SUBJECT>
+        <P>
+          If all funded service areas are eligible, the Agency will review the
+          application for completeness. The completeness review will include an
+          assessment of whether all required documents and information have been
+          submitted and whether the information provided is of adequate quality
+          to allow further analysis.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the application contains all required documents and information
+            and is of adequate quality, the Agency will notify the applicant, in
+            writing, that the application is complete. The notification of
+            completeness will mark the date as of which costs incurred for the
+            eligible purposes listed in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='51' psec='#a' tq='N'>
+                1738.51(a)
+              </subref>
+            </aref>
+             through (d) can be reimbursed with loan funds if the loan is
+            ultimately made and proper procedures have been followed. A
+            notification of completeness is not a commitment that the loan will
+            be approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the application is of adequate quality but does not contain all
+            required documents and information, the Agency will notify the
+            applicant, in writing, that the application is incomplete. The
+            notification of incompleteness will include a list of items that the
+            applicant must address and will specify a date by which the
+            applicant&apos;s additional information must be received.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant fails to respond by the specified date, the
+            application will be rejected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant responds by the specified date but does not
+            satisfactorily address the issues identified, the Agency will assess
+            the applicant&apos;s progress toward submission of a complete
+            application. If the applicant has made progress acceptable to the
+            Agency, a second notification of incompleteness will be provided. If
+            the applicant&apos;s progress is not acceptable to the Agency, the
+            application will be rejected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the application is considered to be of inadequate quality, the
+            Agency will notify the applicant, in writing, that the application
+            has been rejected. 
+            <PRTPAGE P='356' />
+            The rejection letter will include an explanation of the reasons for
+            the rejection and the application will be removed from the queue.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14010'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.206
+      </extid>
+      <num st='1'>
+        1738.206
+      </num>
+      <head>
+        Evaluation for feasibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='206' psec='' tq='N'>
+              1738.206
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evaluation for feasibility.
+        </SUBJECT>
+        <P>
+          After an applicant is notified that the application is complete, the
+          Agency will evaluate the application&apos;s financial and technical
+          feasibility. The Agency will only make a broadband loan if the
+          applicant&apos;s financial operations, taking into account the impact
+          of the facilities financed with the proceeds of the loan and the
+          associated debt, are financially and technically feasible, as
+          determined by the Agency.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will determine financial feasibility by evaluating the
+            applicant&apos;s equity, market survey (if required), competitive
+            analysis, financial information, and other relevant information in
+            the application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will determine technical feasibility by evaluating the
+            applicant&apos;s network design and other relevant information in
+            the application.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14011'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.207
+      </extid>
+      <num st='1'>
+        1738.207
+      </num>
+      <head>
+        Equity requirement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='207' psec='' tq='N'>
+              1738.207
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Equity requirement.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for a loan, an applicant must demonstrate a minimum
+            equity position equal to 10 percent of the requested loan amount at
+            the time of application which must remain available at loan closing.
+            In addition to this minimum equity requirement, please refer to
+            section 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='208' psec='' tq='N'>
+                1738.208
+              </subref>
+            </aref>
+            , Additional Cash Requirements which could cause the equity
+            requirement to be higher than 10 percent.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant does not have the required equity at the time the
+            application is submitted, the applicant may satisfy the equity
+            requirement at the time of application with an investor&apos;s
+            unconditional legal commitment to cover the shortfall by providing
+            additional equity. The additional equity must be transferred to the
+            applicant prior to loan closing. If this option is elected, the
+            applicant must provide evidence in the application that clearly
+            identifies the investor&apos;s commitment to the applicant; the
+            amount, terms, and conditions of the investment; and the
+            investor&apos;s bank or financial statements that demonstrate its
+            ability to fulfill its commitment. The terms and conditions of the
+            investment must be acceptable to the Agency, which generally
+            prohibits redemption of the investment until such time as stated
+            requirements and financial thresholds are achieved by the applicant.
+            The Agency will reject applications that do not provide evidence
+            acceptable to the Agency regarding the investor&apos;s commitment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For State and local government applicants, the equity requirement
+            can be satisfied with a general obligation bond, as long as the
+            additional equity will be available to the applicant at closing. If
+            the equity requirement is satisfied with a general obligation bond,
+            the broadband loan cannot be subordinate to the bond. The applicant
+            must submit an opinion from its legal counsel that the applicant has
+            the authority to issue a general obligation bond in an amount
+            sufficient to meet the minimum equity requirement. Revenue bonds
+            supported by the operations to be funded cannot be used to satisfy
+            the equity requirement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14012'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.208
+      </extid>
+      <num st='1'>
+        1738.208
+      </num>
+      <head>
+        Additional cash requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='208' psec='' tq='N'>
+              1738.208
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Additional cash requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the Agency&apos;s financial analysis indicates that the
+            applicant&apos;s entire operation (existing operations and new
+            operations combined) will show a negative cash balance at the end of
+            any year during the five-year forecast period, the Agency will
+            require the applicant to obtain additional cash infusions necessary
+            to maintain an appropriate cash balance throughout the five-year
+            forecast period. This cash infusion would be in conjunction with the
+            required 10 percent minimum equity position.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will require the applicant and its investors to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Infuse additional cash to cover projected deficits for the first
+            two years of operations at loan closing; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Enter into legal arrangements that commit them to making additional
+            cash infusions to ensure that the operation will sustain a positive
+            cash position on a quarterly basis throughout the five-year forecast
+            period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes of identifying the additional cash requirement for a
+            start-up operation or an operation that has not demonstrated
+            positive cash flow for the two years prior to the submission 
+            <PRTPAGE P='357' />
+            date of the application, 50 percent of projected revenues for each
+            year of the five-year forecast period will be considered to
+            determine if an operation can sustain a positive cash position. In
+            addition to the initial financial projections required to
+            demonstrate financial feasibility, such applicants must complete
+            adjusted financial projections using the reduced revenue projections
+            in order to identify the amount of additional cash that will be
+            required. Projections must be fully supported with assumptions
+            acceptable to the Agency. The applicant may present evidence in its
+            loan application that projected revenues or a portion of projected
+            revenues are based on binding commitments and request that more than
+            50 percent of the projected revenues be considered for the purpose
+            of identifying the additional cash requirement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes of satisfying the additional cash requirements for an
+            existing operation that has demonstrated a positive cash flow for
+            the two fiscal years prior to the submission date of the
+            application, 100 percent of the projected revenues for each year of
+            the five-year forecast period will be used to determine if an
+            operation can sustain a positive cash position, as long as these
+            projections are fully supported with assumptions acceptable to the
+            Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If debt is incurred to satisfy the additional cash requirement,
+            this debt must take a subordinate lien position to the Agency debt
+            and must be at terms acceptable to the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant may satisfy the additional cash requirement with an
+            unconditional, irrevocable letter of credit (LOC) satisfactory to
+            the Agency. The LOC must be issued from a financial institution
+            acceptable to the Agency and must remain in effect throughout the
+            forecast period. The applicant and the Agency must both be payees
+            under the LOC. The LOC must have payment conditions acceptable to
+            the Agency, and it must be in place prior to loan closing. The
+            applicant cannot secure the LOC with its assets and cannot pay for
+            any LOC charges or fees with its funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the Agency offers a loan to the applicant, the applicant must
+            ensure that the additional cash infusion required in the first two
+            years is deposited into its bank account within 120 days from the
+            date the applicant signs the loan offer letter (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='251' psec='' tq='N'>
+                1738.251
+              </subref>
+            </aref>
+            ) and must enter into any other legal arrangements necessary to
+            cover further projected operating deficits (or in the case of the
+            LOC, to provide an acceptable LOC to the Agency) prior to closing.
+            If these requirements are not completed within this timeframe, the
+            loan offer will be terminated, unless the applicant requests and the
+            Agency approves an extension based on extenuating circumstances that
+            the Agency was not aware of at the time the offer was made.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may modify the requirements of this section for
+            loans in service areas that are underserved when it is in the best
+            interests of the Agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14013'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.209
+      </extid>
+      <num st='1'>
+        1738.209
+      </num>
+      <head>
+        Market survey.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='209' psec='' tq='N'>
+              1738.209
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Market survey.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (b) of this section, the applicant
+            must complete a separate market survey for each service area where
+            the applicant proposes to provide service at the broadband lending
+            speed. Each market survey must demonstrate the need for the service
+            at the broadband lending speed, support the projected penetration
+            rates and price points for the services to be offered, and support
+            the feasibility analysis. The market survey must also address all
+            other services that will be provided in connection with the
+            broadband loan. Additional information on the requirements of the
+            market survey can be found in the Application Guide.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant is not required to complete a market survey for any
+            service offering for which the applicant is projecting less than a
+            20 percent penetration rate in each service area by the end of the
+            five-year forecast period. For example, if the applicant is
+            projecting a penetration rate of 30 percent for data services and 15
+            percent for video services, a market survey must be completed for
+            the data services. The proposed prices for those services with a
+            projected penetration rate less than 20 percent must be affordable,
+            as determined by the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For a market survey to be acceptable to the Agency, it must have
+            been completed within six months of the application submission date.
+            The Agency 
+            <PRTPAGE P='358' />
+            may reject any application in which the financial projections are
+            not supported by the market survey. If the demographics of the
+            proposed service area have significantly changed since the survey
+            was completed, the Agency may require an updated market survey.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may modify the requirements of this section for
+            loans in service areas that are underserved when it is in the best
+            interests of the Agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14014'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.210
+      </extid>
+      <num st='1'>
+        1738.210
+      </num>
+      <head>
+        Competitive analysis.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='210' psec='' tq='N'>
+              1738.210
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Competitive analysis.
+        </SUBJECT>
+        <P>
+          The applicant must submit a competitive market analysis for each
+          service area regardless of projected penetration rates. Each analysis
+          must identify all existing service providers and all resellers in each
+          service area regardless of the provider&apos;s market share, for each
+          type of service the applicant proposes to provide. This analysis must
+          include each competitor&apos;s rate packages for all services offered,
+          the area that is being covered, and to the extent possible, the
+          quality of service being provided.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14015'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.211
+      </extid>
+      <num st='1'>
+        1738.211
+      </num>
+      <head>
+        Financial information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='211' psec='' tq='N'>
+              1738.211
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial information.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must submit financial information acceptable to the
+            Agency that demonstrates that the applicant has the financial
+            capacity to fulfill the loan requirements and to successfully
+            complete the proposed project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is an existing company, it must provide complete
+            copies of audited financial statements (opinion letter, balance
+            sheet, income statement, statement of changes in financial position,
+            and notes to the financial statement) for the three fiscal years
+            preceding the application submission. If audited statements are not
+            available, the applicant must submit unaudited financial statements
+            and tax returns for those fiscal years. Applications from start-up
+            entities must, at a minimum, provide an opening balance sheet dated
+            within 30 days of the application submission date.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is a subsidiary operation, it must also provide
+            complete copies of audited financial statements for the parent
+            operation for the fiscal year preceding the application submission.
+            If audited statements are not available, unaudited financial
+            statements and tax returns for the previous year must be submitted.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant relies on services provided by an affiliated
+            operation, it must also provide complete copies of audited financial
+            statements for any affiliate for the fiscal year preceding the
+            application submission. If audited statements are not available,
+            unaudited statements and tax returns for the previous year must be
+            submitted.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants must provide a list of all its outstanding obligations.
+            Copies of existing notes and loan and security agreements must be
+            included in the application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants must provide a detailed description of working capital
+            requirements and the source of these funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants must submit the following documents that demonstrate the
+            proposed project&apos;s financial viability and ability to repay the
+            requested loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Customer projections for the five-year forecast period that
+            substantiate the projected revenues for each service that is to be
+            provided. The projections must be provided on at least an annual
+            basis and must be developed separately for each service area. These
+            projections must be clearly supported by the information contained
+            in the market survey, unless no market survey is required (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='209' psec='#b' tq='N'>
+                1738.209(b)
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Annual financial projections in the form of balance sheets, income
+            statements, and cash flow statements for the five-year forecast
+            period. Prior to the submission of an application, an applicant may
+            request that alternative information related to financial viability
+            be considered when the applicant can for good cause demonstrate why
+            a full five-year forecast cannot be provided. If this request is
+            approved by the Agency, then the applicant can submit the
+            application using the alternative information that was approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             These projections must use a system of accounts acceptable to the
+            Agency and be supported by a detailed narrative that fully explains
+            the methodology and assumptions used to develop the projections.
+            <PRTPAGE P='359' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The financial projections submitted by the applicant must
+            demonstrate that their entire operation will be able to meet a
+            minimum TIER requirement equal to 1.25 by the end of the five-year
+            forecast period. Demonstrating that the operation can achieve a
+            projected TIER of 1.25 does not ensure that the Agency will approve
+            the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             If the financial analysis suggests that the operation will not be
+            able to achieve the required TIER ratio, the Agency will not approve
+            the loan without additional capital, additional cash, additional
+            security, and/or a change in the loan terms.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Based on the financial evaluation, the loan documents will specify
+            TIER requirements that must be met throughout the amortization
+            period.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14016'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.212
+      </extid>
+      <num st='1'>
+        1738.212
+      </num>
+      <head>
+        Network design.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='212' psec='' tq='N'>
+              1738.212
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Network design.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications must include a network design that demonstrates the
+            project&apos;s technical feasibility. The network design must fully
+            support the delivery of service at the broadband lending speed,
+            together with any other services to be provided. In measuring speed,
+            the Agency will take into account industry and regulatory standards.
+            The design must demonstrate that the project will be complete within
+            three years from the day the Agency notifies the applicant that loan
+            funds are available and must include the following items:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A detailed description of the proposed technology that will be used
+            to provide service at the broadband lending speed. This description
+            must clearly demonstrate that all households in the funded service
+            area will be offered service at the broadband lending speed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A detailed description of the existing network. This description
+            should provide a synopsis of the current network infrastructure;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A detailed description of the proposed network. This description
+            should provide a synopsis of the proposed network infrastructure;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A description of measurable service metrics and target service
+            level objectives (SLOs) that will be provided to the customer, and
+            the methods that will be used to measure performance and respond to
+            unmet SLOs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the approach and methodology for monitoring
+            ongoing service delivery and service quality for the services being
+            deployed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated project costs detailing all facilities that are required
+            to complete the project. These estimated costs must be broken down
+            to indicate costs associated with each proposed service area and
+            must specify how Agency and non-Agency funds will be used to
+            complete the project;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             A construction build-out schedule of the proposed facilities by
+            service area on a quarterly basis. The build-out schedule must
+            include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the work force that will be required to complete
+            the proposed construction;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             A timeline demonstrating project completion within three years from
+            the date the Agency notifies the applicant that loan funds are
+            available;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Detailed information showing that all households within the funded
+            service area will be offered service at the broadband lending speed
+            when the system is complete; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Detailed information showing that construction of the proposed
+            facilities will start within six months from the date the Agency
+            notifies the borrower that loan funds are available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             A depreciation schedule for all facilities financed with loan and
+            non-loan funds;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             An environmental report prepared in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1794' tq='N'>
+                1794
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Any other system requirements required by the Administrator through
+            a notice published in the 
+            <E T='04'>
+              Federal Register
+            </E>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The network design must be prepared by a registered Professional
+            Engineer with telecommunications experience or by qualified
+            personnel on the applicant&apos;s staff. If the network design is
+            prepared by the applicant&apos;s staff, the application must clearly
+            demonstrate the staff&apos;s qualifications, experience, and ability
+            to complete the network design. To be considered qualified, staff
+            must have at least three years of experience in designing the type
+            of broadband system proposed in the application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may modify the requirements of this section for
+            loans in underserved service areas.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14017'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.213
+      </extid>
+      <num st='1'>
+        1738.213
+      </num>
+      <head>
+        Loan determination.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='360' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='213' psec='' tq='N'>
+              1738.213
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan determination.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the application meets all statutory and regulatory requirements
+            and the feasibility study demonstrates that the TIER requirement can
+            be satisfied, the application will be submitted to the Agency&apos;s
+            credit committees for consideration. Submission of the application
+            to the Agency&apos;s credit committees does not guarantee that a
+            loan will be approved. In making a loan determination, the
+            Administrator shall consider the recommendations of the credit
+            committees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant will be notified of the Agency&apos;s decision in
+            writing. If the Agency approves the loan, a loan offer will be
+            extended. If the Agency does not approve the loan, a rejection
+            letter will be sent to the applicant, and the application will be
+            returned with an explanation of the reasons for the rejection.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14018'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:E:1738.214-1738.250
+      </extid>
+      <num st='2'>
+        1738.214-1738.250
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1738' sect='214-1738' psec='' tq='N'>
+              1738.214-1738
+            </subref>
+          </aref>
+          .250
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14019'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:F:1738.251
+      </extid>
+      <num st='1'>
+        1738.251
+      </num>
+      <head>
+        Loan offer and loan closing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='251' psec='' tq='N'>
+              1738.251
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan offer and loan closing.
+        </SUBJECT>
+        <P>
+          The Agency will notify the applicant of the loan offer, in writing,
+          and the applicant will typically have 10 working days to accept the
+          offer. If the applicant accepts the loan offer, a loan contract will
+          be executed and sent to the applicant. The applicant must execute the
+          loan contract and satisfy all conditions precedent to loan closing
+          within the timeframe specified by the Agency which is typically 120
+          days from the date of the loan contract. If the conditions are not met
+          within this timeframe, the loan offer will be terminated, unless the
+          applicant requests and the Agency approves an extension. The Agency
+          may approve such a request if the applicant has diligently sought to
+          meet the conditions required for loan closing and has been unable to
+          do so for reasons outside its control.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14020'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:F:1738.252
+      </extid>
+      <num st='1'>
+        1738.252
+      </num>
+      <head>
+        Construction.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='252' psec='' tq='N'>
+              1738.252
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Construction.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Construction paid for with broadband loan funds must comply with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1788' tq='N'>
+                1788, 7
+              </subref>
+            </aref>
+             CFR 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1794' tq='N'>
+                1794
+              </subref>
+            </aref>
+            , RUS Bulletin 1738-2 and any other guidance from the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Upon notification by the Agency that an applicant has submitted all
+            the required documentation and the application is considered
+            complete for analysis (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='205' psec='' tq='N'>
+                1738.205
+              </subref>
+            </aref>
+            ), the applicant, at its own risk, may enter into an interim
+            financing agreement with a third-party lender or use its own funds
+            to start construction that is included in the loan application. For
+            this construction to be eligible for reimbursement with loan funds,
+            all construction procedures contained herein must be followed. The
+            Agency&apos;s determination that an application is complete is not a
+            commitment that a loan will be approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower must begin construction within six months from the
+            date the Agency notifies the applicant that loan funds are
+            available. This is the final step in closing the loan with the
+            applicant. If the borrower fails to begin construction, the Agency
+            may cancel the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The build-out must be complete within three years from the day the
+            Agency notifies the applicant that loan funds are available.
+            Build-out is considered complete when the network design has been
+            fully implemented, the service operations and management systems
+            infrastructure is operational, and the borrower is ready to support
+            the activation and commissioning of individual customers to the new
+            system.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14021'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:F:1738.253
+      </extid>
+      <num st='1'>
+        1738.253
+      </num>
+      <head>
+        Servicing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='253' psec='' tq='N'>
+              1738.253
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Servicing.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers must make payments on the broadband loan as required in
+            the note.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers must comply with all terms, conditions, affirmative
+            covenants, and negative covenants contained in the loan documents.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In the event of default of any required payment or other term or
+            condition:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A late charge shall be charged on any payment not made in
+            accordance with the terms of the note.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may exercise the default remedies provided in the loan
+            documents but is not required to do so.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the Agency chooses to not exercise its default remedies, it does
+            not waive its right to do so in the future.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14022'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:F:1738.254
+      </extid>
+      <num st='1'>
+        1738.254
+      </num>
+      <head>
+        Accounting, reporting, and monitoring requirements.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='361' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='254' psec='' tq='N'>
+              1738.254
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Accounting, reporting, and monitoring requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers must adopt a system of accounts for maintaining financial
+            records acceptable to the Agency, as described in 
+            <aref type='CFR'>
+              7 CFR 1770
+            </aref>
+            , subpart B.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers must submit annual audited financial statements along
+            with a report on compliance and on internal control over financial
+            reporting, and management letter in accordance with the requirements
+            of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1773' tq='N'>
+                1773
+              </subref>
+            </aref>
+            . The Certified Public Accountant (CPA) conducting the annual audit
+            is selected by the borrower and must be approved by RUS as set forth
+            in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1773' sect='4' psec='' tq='N'>
+                1773.4
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers must comply with all reasonable Agency requests to
+            support ongoing monitoring efforts. The Borrower shall afford RUS,
+            through its representatives, reasonable opportunity, at all times
+            during business hours and upon prior notice, to have access to and
+            the right to inspect the Broadband System, and any other property
+            encumbered by the Mortgage, and any or all books, records, accounts,
+            invoices, contracts, leases, payrolls, timesheets, cancelled checks,
+            statements, and other documents, electronic or paper of every kind
+            belonging to or in the possession of the Borrower or in anyway
+            pertaining to its property or business, including its subsidiaries,
+            if any, and to make copies or extracts therefore.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers records shall be retained and preserved in accordance
+            with the provisions of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1770' tq='N'>
+                1770
+              </subref>
+            </aref>
+            , subpart A.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14023'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:F:1738.255-1738.300
+      </extid>
+      <num st='2'>
+        1738.255-1738.300
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1738' sect='255-1738' psec='' tq='N'>
+              1738.255-1738
+            </subref>
+          </aref>
+          .300
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14024'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.301
+      </extid>
+      <num st='1'>
+        1738.301
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='301' psec='' tq='N'>
+              1738.301
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants wishing to obtain a loan guarantee for private financing
+            are subject to the same requirements as direct loan borrowers with
+            respect to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Loan purposes as described in subpart B;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible borrowers and eligible areas as described in subpart C;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The loan terms described in subpart D, with the exception of the
+            interest rates described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='152' psec='' tq='N'>
+                1738.152
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The application review and underwriting requirements in subpart E.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will publish a notice annually in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             indicating any additional requirements, as well as the amount of
+            funds available, if any, for loan guarantees.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14025'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.302
+      </extid>
+      <num st='1'>
+        1738.302
+      </num>
+      <head>
+        Eligible guaranteed lenders.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='302' psec='' tq='N'>
+              1738.302
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible guaranteed lenders.
+        </SUBJECT>
+        <P>
+          To be eligible for a loan guarantee, a guaranteed lender must be:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A financial institution in good standing that has been a concurrent
+            lender with RUS; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A legally organized lending institution, such as commercial bank,
+            trust company, mortgage banking firm, insurance company, or any
+            other institutional investor authorized by law to loan money, which
+            must be subject to credit examination and supervision by a Federal
+            or State agency, unless the Agency determines that alternative
+            examination and supervisory mechanisms are adequate.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14026'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.303
+      </extid>
+      <num st='1'>
+        1738.303
+      </num>
+      <head>
+        Requirements for the loan guarantee.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='303' psec='' tq='N'>
+              1738.303
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requirements for the loan guarantee.
+        </SUBJECT>
+        <P>
+          At the time of application, applicants must provide in form and
+          substance acceptable to the Agency:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence of the guaranteed lender&apos;s eligibility under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1738' sect='302' psec='' tq='N'>
+                1738.302
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence that the guaranteed lender has the demonstrated capacity
+            to adequately service the guaranteed loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence that the guaranteed lender is in good standing with its
+            licensing authority and meets the loan making, loan servicing, and
+            other requirements of the jurisdiction in which the lender makes
+            loans;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence satisfactory to the Agency of its qualification under this
+            part, along with the name of the authority that supervises it;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             A commitment letter from the guaranteed lender that will be
+            providing the funding, and the terms of such funding, all of which
+            may be conditioned on final approval of the broadband loan guarantee
+            by the Agency; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A description of any and all charges and fees for the loan, along
+            with documentation that they are comparable to those normally
+            charged other applicants for the same type of 
+            <PRTPAGE P='362' />
+            loan in the ordinary course of business. Such charges and fees will
+            not be included within the Agency&apos;s loan guarantee.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14027'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.304
+      </extid>
+      <num st='1'>
+        1738.304
+      </num>
+      <head>
+        Terms for guarantee.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='304' psec='' tq='N'>
+              1738.304
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms for guarantee.
+        </SUBJECT>
+        <P>
+          Loan guarantees will only be given on the conditions that:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The loan guarantee is no more than 80 percent of the principal
+            amount, which shall exclude any and all charges and fees;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The guarantee is limited to the outstanding loan repayment
+            obligation of the borrower and does not extend to guaranteeing that
+            the guaranteed lender will remit to a holder, loan payments made by
+            the borrower;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The interest rate must be fixed and must be the same or lesser for
+            the guaranteed loan amount or the respective guaranteed loan portion
+            amount or the respective guaranteed amount equivalent, as the case
+            may be, and unguaranteed loan amount or the respective unguaranteed
+            loan portion amount or the respective unguaranteed-amount
+            equivalent, as the case may be;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The entire loan will be secured by the same security with equal
+            lien priority for the guaranteed loan amount or the respective
+            guaranteed loan portion amount or the respective guaranteed-amount
+            equivalent, as the case may be, and unguaranteed loan amount or the
+            respective unguaranteed loan portion amount or the respective
+            unguaranteed-amount equivalent, as the case may be;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The unguaranteed loan amount or the respective unguaranteed loan
+            portion amount or the respective unguaranteed-amount equivalent, as
+            the case may be, will neither be paid first nor given any preference
+            or priority over the guaranteed loan amount or the respective
+            guaranteed loan portion amount or the respective guaranteed-amount
+            equivalent, as the case may be;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Prior written approval is obtained from the Agency for any
+            assignment by the guaranteed lender. Any assignment shall entitle
+            the holder to all of the guaranteed lender&apos;s rights but shall
+            maintain the guaranteed lender responsible for servicing the entire
+            loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower, its principal officers, members of the
+            borrower&apos;s board of directors and members of the immediate
+            families of said officials shall not be a holder of the guaranteed
+            lender&apos;s loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will not guarantee any loan under this subpart that
+            provides for a balloon payment of principal or interest at the final
+            maturity date of the loan or for the payment of interest on
+            interest;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             All loan guarantee documents between the Agency and the guaranteed
+            lender are prepared by the Agency; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             The guaranteed loan agreement between the borrower and the lender
+            shall be subject to Agency approval.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14028'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.305
+      </extid>
+      <num st='1'>
+        1738.305
+      </num>
+      <head>
+        Obligations of guaranteed lender.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='305' psec='' tq='N'>
+              1738.305
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Obligations of guaranteed lender.
+        </SUBJECT>
+        <P>
+          Once a loan guarantee has been approved, the guaranteed lender will be
+          responsible for:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Servicing the loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Determining that all prerequisites to each advance of loan funds by
+            the lender under the terms of the contract of guarantee, all
+            financing documents, and all related security documents have been
+            fulfilled;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Obtaining approval from the Agency to advance funds prior to each
+            advance;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Billing and collecting loan payments from the borrower;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Notifying the Administrator promptly of any default in the payment
+            of principal and interest on the loan and submit a report no later
+            than 30 days thereafter, setting forth the reasons for the default,
+            how long it expects the borrower will be in default, and what
+            corrective actions the borrower states that it is taking to achieve
+            a current debt service position; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Notifying the Administrator of any known violations or defaults by
+            the borrower under the lending agreement, contract of guarantee, or
+            related security instruments or conditions of which the lender is
+            aware which might lead to nonpayment, violation, or other default.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14029'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.306
+      </extid>
+      <num st='1'>
+        1738.306
+      </num>
+      <head>
+        Agency rights and remedies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='306' psec='' tq='N'>
+              1738.306
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Agency rights and remedies.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The guarantee must provide that upon notice to the lender, the
+            Agency 
+            <PRTPAGE P='363' />
+            may assume loan servicing responsibilities for the loan or the
+            guaranteed loan amount or the respective guaranteed loan portion
+            amount or the respective guaranteed-amount equivalent, as the case
+            may be, or require the lender to assign such responsibilities to a
+            different entity, if the lender fails to perform its loan servicing
+            responsibilities under the loan guarantee agreement, or if the
+            lender becomes insolvent, makes an admission in writing of its
+            inability to pay its debts generally as they become due, or becomes
+            the subject of proceedings commenced under the Bankruptcy Reform Act
+            of 1978 (
+            <aref type='USC'>
+              <subref title='11' sect='101' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/11/101.html'>
+                11 U.S.C. 101
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ) or any similar applicable Federal or State law, or is no longer in
+            good standing with its licensing authority, or ceases to meet the
+            eligibility requirements of this subpart. Such negligent servicing
+            is defined as the failure to perform those services which a
+            reasonable prudent lender would perform in servicing its own
+            portfolio of loans that are not guaranteed and includes not only a
+            failure to act but also not acting in a timely manner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The guarantee shall cease to be effective with respect to any
+            guaranteed loan amount or any guaranteed loan portion amount or any
+            guaranteed-amount equivalent to the extent that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The guaranteed loan amount or the respective guaranteed loan
+            portion amount or the respective guaranteed amount equivalent, as
+            the case may be, is separated at any time from the unguaranteed loan
+            amount or the respective unguaranteed loan portion amount or the
+            respective unguaranteed-amount equivalent, as the case may be, in
+            any way, directly or through the issuance of any guaranteed-amount
+            equity derivative or any guaranteed-amount debt derivative; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any holder of the guaranteed loan note or any guaranteed loan
+            portion note or any derivative, as the case may be, having a claim
+            to payments on the guaranteed loan receives more than its pro-rata
+            percentage of any payment due to such holder from payments made
+            under the guarantee at any time during the term of the guaranteed
+            loan.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14030'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.307
+      </extid>
+      <num st='1'>
+        1738.307
+      </num>
+      <head>
+        Additional policies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='307' psec='' tq='N'>
+              1738.307
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Additional policies.
+        </SUBJECT>
+        <P>
+          The Agency shall provide additional loan guarantee policies,
+          consistent with OMB Circular A-129, in order to achieve its mission of
+          promoting broadband in rural areas, which shall be published annually
+          in the 
+          <E T='04'>
+            Federal Register
+          </E>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='14031'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.308
+      </extid>
+      <num st='1'>
+        1738.308
+      </num>
+      <head>
+        Full faith and credit of the United States.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='308' psec='' tq='N'>
+              1738.308
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Full faith and credit of the United States.
+        </SUBJECT>
+        <P>
+          Loan guarantees made under this part are supported by the full faith
+          and credit of the United States and are incontestable except for fraud
+          or misrepresentation of which the holder had actual knowledge at the
+          time it became a holder.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14032'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.309-1738.349
+      </extid>
+      <num st='2'>
+        1738.309-1738.349
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1738' sect='309-1738' psec='' tq='N'>
+              1738.309-1738
+            </subref>
+          </aref>
+          .349
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14033'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1738:G:1738.350
+      </extid>
+      <num st='1'>
+        1738.350
+      </num>
+      <head>
+        OMB control number.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1738' sect='350' psec='' tq='N'>
+              1738.350
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB control number.
+        </SUBJECT>
+        <P>
+          The information collection requirements in this part are approved by
+          the Office of Management and Budget (OMB) and assigned OMB control
+          number 0572-0130.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

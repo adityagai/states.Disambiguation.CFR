@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XV:-:1560
+    </extid>
+    <num>
+      1560
+    </num>
+    <head>
+      PROCEDURES TO MONITOR CANADIAN FRESH FRUIT AND VEGETABLE IMPORTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='UNKNOWN'>
+            Secs. 105 and 301(a) of
+          </aref>
+           the United States-Canada Free-Trade Agreement Implementation Act of
+          1988, 
+          <aref target='_blank' title='Pub. L. 100-449' alt='Pub. L. 100-449' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d100:./list/bd/d100pl.lst:449%28Public_Laws%29'>
+            Pub. L. 100-449
+          </aref>
+           (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=100_statutes2_at_large&amp;position=all&amp;page=1855'>
+            102 Stat. 1855
+          </aref>
+           and 1865-67).
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            54 FR 1327
+          </aref>
+          , Jan. 13, 1989, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='13316'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1560:-:1560.1
+      </extid>
+      <num st='1'>
+        1560.1
+      </num>
+      <head>
+        Scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1560' sect='1' psec='' tq='N'>
+              1560.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope.
+        </SUBJECT>
+        <P>
+          This part outlines the procedures that will be used by the
+          Administrator of the Foreign Agricultural Service to monitor and
+          inform the Secretary of Agriculture of data regarding the importation
+          of fresh fruits and vegetables from Canada.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13317'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1560:-:1560.2
+      </extid>
+      <num st='1'>
+        1560.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1560' sect='2' psec='' tq='N'>
+              1560.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions shall be applicable to this part:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Administrator
+            </E>
+             means the Administrator of the Foreign Agricultural Service, United
+            States Department of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Average Monthly Import Price
+            </E>
+             means the average unit value for all shipments of a particular
+            Canadian fresh fruit or vegetable imported into the United States
+            from Canada during a particular calendar month based on official
+            data from the U.S. Customs Service and/or the Bureau of Census, and
+            shall be calculated by dividing the total value of the fresh fruit
+            or vegetable imported in that month by the total quantity of the
+            fresh fruit or vegetable imported in that month.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Average Planted Acreage
+            </E>
+             means the average of the annual planted acreage in the U.S. for a
+            particular fresh fruit or vegetable for the preceding five years
+            excluding the years with the highest and lowest acreages based on
+            available data from agencies within the United States Department of
+            Agriculture and data from appropriate state agencies, as required.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Canadian fresh fruit or vegetable
+            </E>
+             means a fresh fruit or vegetable that is a product of Canada as
+            determined in accordance with the rules of origin set forth in 
+            <aref type='UNKNOWN'>
+              section 202 of
+            </aref>
+             the U.S.-Canada Free-Trade Agreement Implementation Act of 1988.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Corresponding Five-Year Average Monthly Import Price
+            </E>
+             for a particular day means the average import price of a Canadian
+            fresh fruit or vegetable imported into the United States from
+            Canada, for the calendar month in which that day occurs, for that
+            month in each of the preceding 5 years, excluding the years with the
+            highest and lowest monthly averages.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              F.O.B. Point of Shipment Price in Canada
+            </E>
+             means the daily average of prices of a particular Canadian fresh
+            fruit or vegetable imported into the United States from Canada that
+            are reported to the U.S. Customs Service at the U.S. border as part
+            of the official documentation accompanying such shipments less
+            freight costs where applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Fresh Fruit or Vegetable
+            </E>
+             means a fruit or vegetable determined in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1560' sect='3' psec='' tq='N'>
+                1560.3
+              </subref>
+            </aref>
+             within one of the HS headings.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              HS heading
+            </E>
+             means any of the following tariff headings of the Harmonized System
+            (HS) as modified by the description for each heading:
+          </text>
+        </P>
+        <table class='gpotable' CDEF='xs40,r20' COLS='2' OPTS='L2,i1'>
+          <caption />
+          <thead>
+            <tr>
+              <th>
+                HS tariff heading
+              </th>
+              <th>
+                Description
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                07.01
+              </td>
+              <td>
+                Potatoes, fresh or chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                07.02
+              </td>
+              <td>
+                Tomatoes, fresh or chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                07.03
+              </td>
+              <td>
+                Onions, shallots, garlic, leeks, and other alliaceous
+                vegetables, fresh or chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                07.04
+              </td>
+              <td>
+                Cabbages, cauliflowers, kohlrabi, kale and similar edible
+                brassicas, fresh or chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                07.05
+              </td>
+              <td>
+                Lettuce (lactica sativa) and chicory (cichorium spp.), fresh or
+                chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                07.06
+              </td>
+              <td>
+                Carrots, salad beets or beetroot, salsify, celeriac, radishes
+                and similar edible roots (excluding turnips), fresh or chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                07.07
+              </td>
+              <td>
+                Cucumbers and gherkins, fresh or chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                07.08
+              </td>
+              <td>
+                Leguminous vegetables, shelled or unshelled, fresh or chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                07.09
+              </td>
+              <td>
+                Other vegetables (excluding truffles), fresh or chilled.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                08.06.10
+              </td>
+              <td>
+                Grapes, fresh.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                08.08.20
+              </td>
+              <td>
+                Pears and quinces, fresh.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                08.09
+              </td>
+              <td>
+                Apricots, cherries, peaches (including nectarines), plums and
+                sloes, fresh.
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                08.10
+              </td>
+              <td>
+                Other fruit (excluding cranberries and blueberries), fresh.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Import Price
+            </E>
+             means the unit value based on data available from the U.S. Customs
+            Service of a particular Canadian fresh fruit or vegetable imported
+            into the U.S. from Canada taking into account any other relevant
+            data, as necessary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Secretary
+            </E>
+             means the Secretary of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              United States
+            </E>
+             means the United States Customs Territory which includes the fifty
+            states, the District of Columbia and Puerto Rico.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Wine Grape
+            </E>
+             means grapes of labrusca, vinifera or hybrid vinifera varieties
+            used for making wine.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Working Day
+            </E>
+             means a day which falls on a Monday through Friday, excluding
+            holidays observed by the United States Government and days in which
+            the U.S. Customs Service is not operating.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13318'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1560:-:1560.3
+      </extid>
+      <num st='1'>
+        1560.3
+      </num>
+      <head>
+        Determination of fresh fruit or vegetable.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1560' sect='3' psec='' tq='N'>
+              1560.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determination of fresh fruit or vegetable.
+        </SUBJECT>
+        <P>
+          The specific group of articles that will be monitored as a particular
+          fresh fruit or vegetable will be determined based on the
+          practicability of monitoring at the eight digit subheading level of
+          the Harmonized Tariff Schedule of the United States. The determination
+          of practicability will be made by the Administrator taking into
+          account: (a) The availability of reliable volume and price data on
+          imports from Canada and data on U.S. planted acreage, (b) market
+          differentiation for the group of articles, and (c) such other factors
+          as the Administrator determines to be appropriate.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13319'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1560:-:1560.4
+      </extid>
+      <num st='1'>
+        1560.4
+      </num>
+      <head>
+        Calculation of data to support imposition of temporary duty.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1560' sect='4' psec='' tq='N'>
+              1560.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Calculation of data to support imposition of temporary duty.
+        </SUBJECT>
+        <P>
+          The Administrator will inform the Secretary when the following
+          conditions are met with respect to a particular fresh fruit or
+          vegetable imported into the United States from Canada:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If for each of five consecutive working days the import price of
+            the fresh fruit or vegetable is below ninety percent of the
+            corresponding five-year average monthly import price for such fresh
+            fruit or vegetable excluding the years with the highest and lowest
+            corresponding monthly import price; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The planted acreage in the United States for such fresh fruit or
+            vegetable based on the most recent data available is no higher than
+            the average planted acreage over the preceding five years excluding
+            the years with the highest and lowest planted acreages. For the
+            purposes of calculating any planted acreage increase attributed
+            directly to a reduction in wine grape planted acreage existing on
+            October 4, 1987 shall be excluded.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13320'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1560:-:1560.5
+      </extid>
+      <num st='1'>
+        1560.5
+      </num>
+      <head>
+        Calculation of data to support removal of temporary duty.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1560' sect='5' psec='' tq='N'>
+              1560.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Calculation of data to support removal of temporary duty.
+        </SUBJECT>
+        <P>
+          During the time a temporary duty on a particular fresh fruit or
+          vegetable is imposed pursuant to 
+          <aref type='UNKNOWN'>
+            section 301(a) of
+          </aref>
+           the United States-Canada Free-Trade Agreement Implementation Act of
+          1988, the Administrator will inform the Secretary if the F.O.B. point
+          of shipment price in Canada of such fresh fruit or vegetable exceeds,
+          for five consecutive working days, ninety percent of the corresponding
+          five-year average monthly import price excluding the years with the
+          highest and lowest average corresponding monthly import price,
+          adjusted to an F.O.B. point of shipment price, if necessary, for that
+          fresh fruit or vegetable.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

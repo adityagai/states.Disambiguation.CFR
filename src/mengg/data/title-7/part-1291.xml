@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XI:-:1291
+    </extid>
+    <num>
+      1291
+    </num>
+    <head>
+      SPECIALTY CROP BLOCK GRANT PROGRAM—FARM BILL
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1621' note='notes' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621.html'>
+              7 U.S.C. 1621 note,
+            </subref>
+          </aref>
+           as amended.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            73 FR 51589
+          </aref>
+          , Sept. 4, 2008, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12168'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.1
+      </extid>
+      <num st='1'>
+        1291.1
+      </num>
+      <head>
+        Purpose and scope.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 13316
+        </aref>
+        , Mar. 27, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='1' psec='' tq='N'>
+              1291.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and scope.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Pursuant to the authority conferred by 
+            <aref type='UNKNOWN'>
+              Section 101 of
+            </aref>
+             the Specialty Crops Competitiveness Act of 2004 (
+            <aref type='USC'>
+              <subref title='7' sect='1621' note='notes' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621.html'>
+                7 U.S.C. 1621 note)
+              </subref>
+            </aref>
+            , as amended by 
+            <aref type='UNKNOWN'>
+              Section 10109 of
+            </aref>
+             the Food, Conservation, and Energy Act of 2008, 
+            <aref target='_blank' title='Public Law 110-246' alt='Public Law 110-246' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ246/html/PLAW-110publ246.htm'>
+              Public Law 110-246
+            </aref>
+            , AMS will make grants to states to enhance the competitiveness of
+            specialty crops in accordance with the terms and conditions set
+            forth herein and other applicable federal statutes and regulations,
+            including, but not limited to, 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+             and 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3016' tq='N'>
+                3016
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             AMS encourages states to develop projects solely to enhance the
+            competitiveness of specialty crops pertaining to the following
+            issues affecting the specialty crop industry: increasing child and
+            adult nutrition knowledge 
+            <PRTPAGE P='408' />
+            and consumption of specialty crops; participation of industry
+            representatives at meetings of international standard setting bodies
+            in which the U.S. government participates; improving efficiency and
+            reducing costs of distribution systems; assisting all entities in
+            the specialty crop distribution chain in developing “Good
+            Agricultural Practices”, “Good Handling Practices”, “Good
+            Manufacturing Practices”, and in cost-share arrangements for funding
+            audits of such systems for small farmers, packers and processors;
+            investing in specialty crop research, including organic research to
+            focus on conservation and environmental outcomes; enhancing food
+            safety; developing new and improved seed varieties and specialty
+            crops; pest and disease control; and sustainability.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 13316
+          </aref>
+          , Mar. 27, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12169'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.2
+      </extid>
+      <num st='1'>
+        1291.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 13316
+        </aref>
+        , Mar. 27, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='2' psec='' tq='N'>
+              1291.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              AMS
+            </E>
+             means the Agricultural Marketing Service of the U.S. Department of
+            Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Application
+            </E>
+             means the application for the Specialty Crop Block Grant
+            Program—Farm Bill (SCBGP-FB).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Beginning farmer or rancher
+            </E>
+             means an individual or entity who has not operated a farm or ranch
+            for more than 10 years and substantially participates in the
+            operation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Capital expenditures
+            </E>
+             means expenditures for the acquisition cost of capital assets
+            (equipment, buildings, land), or expenditures to make improvements
+            to capital assets that materially increase their value or useful
+            life. Acquisition cost means the cost of the asset including the
+            cost to put it in place. Acquisition cost for equipment, for
+            example, means the net invoice price of the equipment, including the
+            cost of any modifications, attachments, accessories, or auxiliary
+            apparatus necessary to make it usable for the purpose for which it
+            is acquired. Ancillary charges, such as taxes, duty, protective in
+            transit insurance, freight, and installation may be included in, or
+            excluded from the acquisition cost in accordance with the
+            governmental unit&apos;s regular accounting practices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Equipment
+            </E>
+             means an article of nonexpendable, tangible personal property
+            having a useful life of more than one year and an acquisition cost
+            which equals or exceeds the lesser of the capitalization level
+            established by the governmental unit for financial statement
+            purposes, or $5000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              General purpose equipment
+            </E>
+             means equipment, which is not limited to research, scientific or
+            other technical activities. Examples include office equipment and
+            furnishings, telephone networks, information technology equipment
+            and systems, reproduction and printing equipment, and motor
+            vehicles.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Grant period
+            </E>
+             means the period of time from when the grant agreement is signed to
+            the completion of all SCBGP-FB projects submitted in the State plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Grantee
+            </E>
+             means the government to which a grant is awarded and which is
+            accountable for the use of the funds provided. The grantee is the
+            entire legal entity even if only a particular component of the
+            entity is designated in the grant agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Indirect costs
+            </E>
+             means those costs incurred for a common or joint purpose
+            benefitting more than one cost objective, and not readily assignable
+            to the cost objectives specifically benefitted, without effort
+            disproportionate to the results achieved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Outcome measure
+            </E>
+             means an event or condition that is external to the project and
+            that is of direct importance to the intended beneficiaries and/or
+            the public.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Project
+            </E>
+             means all proposed activities to be funded by the Specialty Crop
+            Block Grant Program—Farm Bill.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Socially disadvantaged farmer or rancher
+            </E>
+             means a farmer or rancher who is a member of a socially
+            disadvantaged group. A “Socially Disadvantaged Group” is a group
+            whose members have been subject to discrimination on the basis of
+            race, color, national origin, age, disability, and where applicable,
+            sex, marital status, familial status, parental status, religion,
+            sexual orientation, genetic information, political beliefs,
+            reprisal, or because all or a part of an individual&apos;s income is
+            derived from any public assistance program.
+            <PRTPAGE P='409' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Special purpose equipment
+            </E>
+             means equipment which is used only for research, scientific, or
+            other technical activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='n'>
+            <enum src='gpotxt' cln='1'>
+              (n)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Specialty crop
+            </E>
+             means fruits and vegetables, tree nuts, dried fruits, horticulture
+            and nursery crops (including floriculture).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='o'>
+            <enum src='gpotxt' cln='1'>
+              (o)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              State
+            </E>
+             means the fifty states, the District of Columbia, the Commonwealth
+            of Puerto Rico, Guam, American Samoa, the United States Virgin
+            Islands, and the Commonwealth of the Northern Mariana Islands.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='p'>
+            <enum src='gpotxt' cln='1'>
+              (p)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              State department of agriculture
+            </E>
+             means the agency, commission, or department of a state government
+            responsible for agriculture within the state.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='q'>
+            <enum src='gpotxt' cln='1'>
+              (q)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Subgrantee
+            </E>
+             means the government or other legal entity to which a subgrant is
+            awarded and which is accountable to the grantee for the use of funds
+            provided.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 13316
+          </aref>
+          , Mar. 27, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12170'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.3
+      </extid>
+      <num st='1'>
+        1291.3
+      </num>
+      <head>
+        Eligible grant applicants.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='3' psec='' tq='N'>
+              1291.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible grant applicants.
+        </SUBJECT>
+        <P>
+          Eligible grant applicants are State departments of agriculture from
+          the fifty states, the District of Columbia, the Commonwealth of Puerto
+          Rico, Guam, American Samoa, the United States Virgin Islands, and the
+          Commonwealth of the Northern Mariana Islands.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12171'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.4
+      </extid>
+      <num st='1'>
+        1291.4
+      </num>
+      <head>
+        Eligible grant project.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          73 FR 51589
+        </aref>
+        , Sept. 4, 2008, as amended at 
+        <aref type='FREGIST'>
+          74 FR 13317
+        </aref>
+        , Mar. 27, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='4' psec='' tq='N'>
+              1291.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible grant project.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for a grant, the project(s) must solely enhance the
+            competitiveness of U.S. grown or U.S. territory grown eligible
+            specialty crops, in either domestic or foreign markets.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for a grant, the project(s) must be completed within
+            three calendar years after the grant agreement prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1291' sect='8' psec='' tq='N'>
+                1291.8
+              </subref>
+               of this part
+            </aref>
+             is signed. The grant period is established by the longest approved
+            project submitted in the State plan. However, for cause, an
+            extension of the grant period not to exceed three years may be
+            granted by AMS on a case by case basis with a written request from
+            the State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Projects should benefit the specialty crop industry and/or the
+            public rather than a single organization, institution, individual,
+            or commercial product. Single organizations, institutions, and
+            individuals are eligible to participate as project partners.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Multi-state projects that address solutions to problems that cross
+            state boundaries are eligible.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            73 FR 51589
+          </aref>
+          , Sept. 4, 2008, as amended at 
+          <aref type='FREGIST'>
+            74 FR 13317
+          </aref>
+          , Mar. 27, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12172'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.5
+      </extid>
+      <num st='1'>
+        1291.5
+      </num>
+      <head>
+        Restrictions and limitations on grant funds.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          73 FR 51589
+        </aref>
+        , Sept. 4, 2008, as amended at 
+        <aref type='FREGIST'>
+          74 FR 13317
+        </aref>
+        , Mar. 27, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='5' psec='' tq='N'>
+              1291.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Restrictions and limitations on grant funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Grant funds may not be used to fund political activities in
+            accordance with provisions of the Hatch Act (
+            <aref type='USC'>
+              <subref title='5' sect='1501-150' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/1501-150.html'>
+                5 U.S.C. 1501-150
+              </subref>
+            </aref>
+            8 and 7321-7326).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Development or participation in lobbying activities pursuant to 
+            <aref type='USC'>
+              <subref title='31' sect='1352' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/31/1352.html'>
+                31 U.S.C. 1352
+              </subref>
+            </aref>
+             including costs of membership in organizations substantially
+            engaged in lobbying are unallowable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Grant funds shall supplement the expenditure of State funds in
+            support of specialty crops grown in that State, rather than replace
+            State funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Grantees and subgrantees must comply with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Capital expenditures for general purpose equipment, buildings, and
+            land are unallowable as direct and indirect charges.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Capital expenditures for special purpose equipment are allowable as
+            direct costs, provided that items with a unit cost of $5000 or more
+            have the prior approval of AMS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Rental costs of buildings and equipment are allowable as direct
+            costs in accordance with the cost principles in subpart T of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            73 FR 51589
+          </aref>
+          , Sept. 4, 2008, as amended at 
+          <aref type='FREGIST'>
+            74 FR 13317
+          </aref>
+          , Mar. 27, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12173'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.6
+      </extid>
+      <num st='1'>
+        1291.6
+      </num>
+      <head>
+        Completed application.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 13317
+        </aref>
+        , Mar. 27, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='6' psec='' tq='N'>
+              1291.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Completed application.
+        </SUBJECT>
+        <P>
+          Completed applications shall be clear and succinct and shall include
+          the following documentation satisfactory to AMS.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             One SF-424 “Application for Federal Assistance”.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             SF-424A “Budget Information—Non-Construction Programs” showing the
+            budget for each project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             One SF-424B “Assurances—Non-Construction Program”.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Completed applications must also include one State plan to show how
+            grant funds will be utilized solely to 
+            <PRTPAGE P='410' />
+            enhance the competitiveness of specialty crops. The State plan shall
+            include the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Cover page and granting processes.
+            </head>
+          </npcatch>
+          <text>
+             Include the point of contact and lead agency for administering the
+            plan. Provide a description of the affirmative steps taken to
+            conduct outreach to socially disadvantaged farmers and beginning
+            farmers. Describe how these groups were identified and the methods
+            used to reach out to them. Identify if an award was made to either a
+            socially disadvantaged farmer or a beginning farmer. If steps were
+            not taken to conduct outreach to these groups, provide a
+            justification for why not. Provide a description of the affirmative
+            steps taken to conduct a competitive grant process. Include the
+            steps taken to conduct outreach to specialty crop stakeholders to
+            receive and consider public comment to identify their priority needs
+            in enhancing the competiveness of specialty crops. Identify the
+            methods used to solicit proposals that meet specialty crop
+            stakeholders&apos; needs, including any focus on multi-state
+            projects. Include a description of the process used to review
+            proposals in a fair and equitable manner. State departments of
+            agriculture may also provide a copy of the issued request for
+            proposals. If a competitive grant process was not used, provide a
+            justification why not.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Project title and abstract.
+            </head>
+          </npcatch>
+          <text>
+             Include the title of the project and an abstract of 200 or fewer
+            words for each project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Project purpose.
+            </head>
+          </npcatch>
+          <text>
+             For each project, clearly state the purpose of the project.
+            Describe the specific issue, problem, interest, or need to be
+            addressed. Explain why the project is important and timely. If
+            funding is being directed at a state marketing program, describe how
+            the state will ensure that funding is being used solely to enhance
+            the competitiveness of specialty crops as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1291' sect='2' psec='#n' tq='N'>
+                1291.2(n)
+              </subref>
+            </aref>
+            . If a project builds on a previous Specialty Crop Block Grant
+            Program (SCBGP) or SCBGP-FB project, indicate clearly how the new
+            project compliments previous work. For each project, indicate if the
+            project will be or has been submitted to or funded by another
+            Federal or State grant program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Potential impact.
+            </head>
+          </npcatch>
+          <text>
+             Discuss the number of people or operations affected, the intended
+            beneficiaries of each project, and/or potential economic impact if
+            such data are available and relevant to the project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Expected measurable outcomes.
+            </head>
+          </npcatch>
+          <text>
+             For each project, describe at least one distinct, quantifiable, and
+            measurable outcome-oriented objective that directly and meaningfully
+            supports the project&apos;s purpose. The measurable outcome-oriented
+            objective must define an event or condition that is external to the
+            project and that is of direct importance to the intended
+            beneficiaries and/or the public. Outcome measures may be long term
+            that exceed the grant period. Describe how performance toward
+            meeting outcomes will be monitored. For each project, include a
+            performance-monitoring plan to describe the process of collecting
+            and analyzing data to meet the outcome-oriented objectives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+            <head>
+              Work plan.
+            </head>
+          </npcatch>
+          <text>
+             For each project, explain briefly the activities that will be
+            performed to accomplish the objectives of the project. Be clear
+            about who will do the work. Include appropriate time lines.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+            <head>
+              Budget narrative.
+            </head>
+          </npcatch>
+          <text>
+             The limit on indirect costs, not to exceed 10 percent, will be
+            published in a 
+            <E T='04'>
+              Federal Register
+            </E>
+             notice each fiscal year. Provide a justification if indirect costs
+            exceed 10 percent or exceed that fiscal year&apos;s limit as
+            announced in the 
+            <E T='04'>
+              Federal Register.
+            </E>
+             Provide in sufficient detail information about the budget
+            categories listed on SF-424A for each project to demonstrate that
+            grant funds are being expended on eligible grant activities that
+            meet the purpose of the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+            <head>
+              Project oversight.
+            </head>
+          </npcatch>
+          <text>
+             Describe the oversight practices that provide sufficient knowledge
+            of grant activities to ensure proper and efficient administration
+            for each project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+            <head>
+              Project commitment.
+            </head>
+          </npcatch>
+          <text>
+             Describe how all grant partners commit to and work toward the goals
+            and outcome measures of each proposed project(s).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+            <head>
+              Multi-state projects.
+            </head>
+          </npcatch>
+          <text>
+             If the project is a multi-state project, describe how the states
+            are going to collaborate effectively with related projects with one
+            state assuming the coordinating role. 
+            <PRTPAGE P='411' />
+            Indicate the percent of the budget covered by each state.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 13317
+          </aref>
+          , Mar. 27, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12174'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.7
+      </extid>
+      <num st='1'>
+        1291.7
+      </num>
+      <head>
+        Review of grant applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='7' psec='' tq='N'>
+              1291.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Review of grant applications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications will be reviewed and approved or rejected as
+            appropriate for conformance with the provisions in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1291' sect='6' psec='' tq='N'>
+                1291.6
+              </subref>
+               of this part
+            </aref>
+            . AMS may request the applicant provide additional information or
+            clarification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Incomplete applications as of the deadline for submission will not
+            be considered.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12175'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.8
+      </extid>
+      <num st='1'>
+        1291.8
+      </num>
+      <head>
+        Grant agreements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='8' psec='' tq='N'>
+              1291.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grant agreements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             After approval of a grant application, AMS will enter into a grant
+            agreement with the State department of agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             AMS grant agreements will include at a minimum the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The projects in the approved State plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Total amount of Federal financial assistance that will be advanced.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Beginning and end dates of the grant agreement period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Terms and conditions pursuant to which AMS will fund the
+            project(s).
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12176'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.9
+      </extid>
+      <num st='1'>
+        1291.9
+      </num>
+      <head>
+        Unobligated funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='9' psec='' tq='N'>
+              1291.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Unobligated funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             States who do not apply for or do not request all available funding
+            during the specified grant application period will forfeit all or
+            that portion of available funding not requested for that application
+            year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Funds not obligated will be allocated, by a date as determined by
+            the Secretary, pro rata to the remaining States who applied during
+            the specified grant application period to be solely expended on
+            projects previously approved in their State plan.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12177'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.10
+      </extid>
+      <num st='1'>
+        1291.10
+      </num>
+      <head>
+        Reporting and oversight requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          73 FR 51589
+        </aref>
+        , Sept. 4, 2008, as amended at 
+        <aref type='FREGIST'>
+          74 FR 13318
+        </aref>
+        , Mar. 27, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='10' psec='' tq='N'>
+              1291.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reporting and oversight requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An annual performance report will be required of all State
+            departments&apos; of agriculture within 90 days after the completion
+            of the first year of the project(s), until the expiration date of
+            the grant agreement. If the grant period is one year or less, then
+            only a final performance report is required (See paragraph (b) of
+            this section). The annual performance report shall include the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Activities Performed.
+            </head>
+          </npcatch>
+          <text>
+             Briefly summarize activities performed, targets, and/or performance
+            goals achieved during the reporting period to meet measurable
+            outcomes for each project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Problems and Delays.
+            </head>
+          </npcatch>
+          <text>
+             Note unexpected delays or impediments for each project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Future Project Plans.
+            </head>
+          </npcatch>
+          <text>
+             Outline work to be performed during the next reporting period for
+            each project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Funding Expended To Date.
+            </head>
+          </npcatch>
+          <text>
+             Comment on the level of grant funds expended to date for each
+            project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A final performance report will be required of all State
+            departments of agriculture within 90 days following the expiration
+            date of the grant period. The final progress report shall include
+            the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Project Summary.
+            </head>
+          </npcatch>
+          <text>
+             An outline of the issue, problem, interest, or need for each
+            project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Project Approach.
+            </head>
+          </npcatch>
+          <text>
+             How the issue or problem was approached via each project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Goals and Outcomes Achieved.
+            </head>
+          </npcatch>
+          <text>
+             How the performance goals and measurable outcomes were achieved for
+            each project(s). If outcome measures were long term, summarize the
+            progress that has been made towards achievement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Beneficiaries.
+            </head>
+          </npcatch>
+          <text>
+             Description and quantitative data for the number of people or
+            operations that have benefited from the project&apos;s
+            accomplishments, and/or the potential economic impact of each
+            project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Lessons Learned.
+            </head>
+          </npcatch>
+          <text>
+             Lessons learned, results, conclusions, for each project. If outcome
+            measures were not achieved, identify and share the lessons learned
+            to help expedite problem-solving.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+            <head>
+              Contact Person.
+            </head>
+          </npcatch>
+          <text>
+             List the contact person for each project with telephone number and
+            email address.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+            <head>
+              Additional Information.
+            </head>
+          </npcatch>
+          <text>
+             Include other relevant project information available (e.g.
+            publications, Web sites, photographs).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A final SF-269A “Financial Status Report (Short Form)” or SF-269
+            “Financial Status Report (Long Form)” if the project(s) had program
+            income, is required within 90 days following the expiration date of
+            the grant period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             AMS will monitor States, as it determines necessary, to assure that
+            
+            <PRTPAGE P='412' />
+            projects are completed in accordance with the approved State plan.
+            If AMS, after reasonable notice to a State, and opportunity to be
+            heard, finds that there has been a failure by the State to comply
+            substantially with any provision or requirement of the State plan,
+            AMS may disqualify, for one or more years, the State from receipt of
+            future grants under the SCBGP or SCBGP-FB.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             States shall diligently monitor performance to ensure that time
+            schedules are being met, project work within designated time periods
+            is being accomplished, and other performance measures are being
+            achieved.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            73 FR 51589
+          </aref>
+          , Sept. 4, 2008, as amended at 
+          <aref type='FREGIST'>
+            74 FR 13318
+          </aref>
+          , Mar. 27, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12178'>
+      <extid>
+        lii:cfr:2013:7:0:B:XI:-:1291:-:1291.11
+      </extid>
+      <num st='1'>
+        1291.11
+      </num>
+      <head>
+        Audit requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1291' sect='11' psec='' tq='N'>
+              1291.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Audit requirements.
+        </SUBJECT>
+        <P>
+          Each year that a State receives a grant under the SCBGP-FB, the State
+          is required to conduct an audit of the expenditures of SCBGP-FB funds.
+          If the Single Audit Act applies to an eligible grantee, the State
+          shall submit the annual audit results to AMS within 30 days after
+          completion of the audit. If the Single Audit Act does not apply, the
+          State shall conduct an audit of all SCBGP-FB funds no later than 60
+          days after the end date of the grant agreement. The State shall submit
+          to AMS not later than 30 days after completion of the audit, a copy of
+          the audit results.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

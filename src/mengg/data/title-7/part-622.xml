@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:C:622
+    </extid>
+    <num>
+      622
+    </num>
+    <head>
+      WATERSHED PROJECTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          Pub. L. 83-566, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=83_statutes2_at_large&amp;position=all&amp;page=666'>
+            68 Stat. 666
+          </aref>
+           as amended (
+          <aref type='USC'>
+            <subref title='16' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1001.html'>
+              16 U.S.C. 1001
+            </subref>
+          </aref>
+          , 
+          <E T='03'>
+            et seq.
+          </E>
+          ); Pub. L. 78-534, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=78_statutes2_at_large&amp;position=all&amp;page=889'>
+            58 Stat. 889
+          </aref>
+          , 
+          <aref type='USC'>
+            <subref title='33' sect='701b-1' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/33/701b-1.html'>
+              33 U.S.C. 701b-1
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            49 FR 6078
+          </aref>
+          , Feb. 17, 1984, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6210'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:A:622.1
+      </extid>
+      <num st='1'>
+        622.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='1' psec='' tq='N'>
+              622.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This part sets forth the general policies for planning and carrying
+          out watershed projects under Pub. L. 83-566, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=83_statutes2_at_large&amp;position=all&amp;page=666'>
+            68 Stat. 666
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='16' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1001.html'>
+              16 U.S.C. 1001
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ) and flood prevention projects under Pub. L. 78-534, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=78_statutes2_at_large&amp;position=all&amp;page=889'>
+            58 Stat. 889
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='33' sect='701b-1' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/33/701b-1.html'>
+              33 U.S.C. 701b-1
+            </subref>
+          </aref>
+          ).
+        </P>
+      </contents>
+    </section>
+    <section orderid='6211'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:A:622.2
+      </extid>
+      <num st='1'>
+        622.2
+      </num>
+      <head>
+        Scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='2' psec='' tq='N'>
+              622.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To assist sponsors in preparing and carrying out watershed plans,
+            the Natural Resources Conservation Service (NRCS) shall conduct
+            investigations and surveys, with the cooperation and assistance of
+            other Federal agencies, to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Determine the extent of watershed problems and needs, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Set forth viable alternative solutions consistent with local,
+            regional, and national objectives, including an alternative solution
+            which makes the greatest net contribution to national economic
+            development.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Alternatives will consist of either land treatment, nonstructural
+            or structural measures, or combinations thereof that will help
+            accomplish one or more of the authorized project purposes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Authorized project purposes are watershed protection, conservation
+            and proper utilization of land, flood prevention, agricultural water
+            management including irrigation and drainage, public recreation,
+            public fish and wildlife, municipal and industrial water supply,
+            hydropower, water quality management, ground water supply,
+            agricultural pollution control, and other water management.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             After a final plan for works of improvement is agreed upon between
+            NRCS and the sponsors and the approval processes are completed, NRCS
+            will provide technical and financial assistance to install the
+            project, subject to the availability of funds and the budgeting and
+            fiscal policies of the President.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6212'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:A:622.3
+      </extid>
+      <num st='1'>
+        622.3
+      </num>
+      <head>
+        Relationship to the Pub. L. 78-534 Program.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='472' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='3' psec='' tq='N'>
+              622.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Relationship to the Pub. L. 78-534 Program.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             The purposes and objectives of the programs under Pub. L. 83-566
+            and Pub. L. 78-534 are the same in most cases. Planning criteria,
+            economic justification, local sponsorship, agency participation,
+            financial assistance, eligible measures, operation and maintenance
+            arrangements for the Pub. L. 78-534 program are consistent with
+            those of the Pub. L. 83-566 program. The differences with the Pub.
+            L. 78-534 program are outlined below.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Initiation.
+            </head>
+          </npcatch>
+          <text>
+             Flood prevention projects are individually authorized by Federal
+            legislation. The state conservationist and the sponsors agree on a
+            plan of action and notify interested parties to solicit their
+            participation. The sponsors keep the public informed and solicit
+            their views and comments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Subwatershed plans.
+            </head>
+          </npcatch>
+          <text>
+             These plans are administratively approved by the state
+            conservationist. If the plan involves purposes other than flood
+            prevention, clearance must be obtained from the Office of Management
+            and Budget before approval. Financial assistance available differs
+            only in that program funds may be used for the purchase of land
+            rights for single-purpose flood prevention structures and installing
+            land treatment on Federal lands.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Installation.
+            </head>
+          </npcatch>
+          <text>
+             NRCS shall award and administer contracts for the installation of
+            project measures unless the sponsors agree to perform the work.
+            Project agreements between the sponsors and NRCS are not required if
+            the work consists of flood prevention structures built and funded by
+            NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6213'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:A:622.4
+      </extid>
+      <num st='1'>
+        622.4
+      </num>
+      <head>
+        Relationship to other agencies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='4' psec='' tq='N'>
+              622.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Relationship to other agencies.
+        </SUBJECT>
+        <P>
+          NRCS will coordinate responsibilities with other water and land
+          resource development agencies on projects that may come under the
+          jurisdictions of various authorities. This will include any land
+          management agencies which may have land which would be affected by
+          project measures. Coordination with the U.S. Department of the
+          Interior&apos;s Fish and Wildlife Service will be in accordance with 
+          <aref type='UNKNOWN'>
+            section 12 of
+          </aref>
+           Pub. L. 83-566 (as amended).
+        </P>
+      </contents>
+    </section>
+    <section orderid='6214'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:A:622.5
+      </extid>
+      <num st='1'>
+        622.5
+      </num>
+      <head>
+        Guidelines.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='5' psec='' tq='N'>
+              622.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Guidelines.
+        </SUBJECT>
+        <P>
+          Guidelines for carrying out programs authorized under Pub. L. 83-566
+          and Pub. L. 78-534 are contained in miscellaneous instructions,
+          manuals, and handbooks issued by the Natural Resources Conservation
+          Service, Regulations for Implementing NEPA (
+          <aref type='CFR'>
+            40 CFR parts 
+            <subref title='40' part='1500-1508' tq='N'>
+              1500-1508
+            </subref>
+          </aref>
+          ) issued by the Council on Environmental Quality, and in Economic and
+          Environmental Principles and Guidelines for Water and Related Land
+          Resources Implementation Studies issued by the Water Resources
+          Council. Watershed projects are to be planned and carried out in a way
+          that will conform to conditions mandated by the above and other
+          applicable laws, Executive orders, and codified rules.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6215'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:A:622.6
+      </extid>
+      <num st='1'>
+        622.6
+      </num>
+      <head>
+        Equal opportunity.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='6' psec='' tq='N'>
+              622.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Equal opportunity.
+        </SUBJECT>
+        <P>
+          The Pub. L. 83-566 and Pub. L. 78-534 programs will be conducted in
+          compliance with all requirements respecting nondiscrimination as
+          contained in the Civil Rights Act of 1964, as amended, and in the
+          regulations of the Secretary of Agriculture (
+          <aref type='CFR'>
+            7 CFR Part 
+            <subref title='7' part='15' tq='N'>
+              15
+            </subref>
+          </aref>
+          ), which provide that no person in the United States shall, on the
+          grounds of race, color, national origin, sex, age, handicap, or
+          religion be excluded from participation in, be denied the benefits of,
+          or be otherwise subjected to discrimination under any program or
+          activity conducted or assisted by the Department of Agriculture.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6216'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:A:622.7
+      </extid>
+      <num st='1'>
+        622.7
+      </num>
+      <head>
+        Notification under Executive Order 12372.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='7' psec='' tq='N'>
+              622.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notification under Executive Order 12372.
+        </SUBJECT>
+        <P>
+          This program is covered under Executive Order 12372,
+          “Intergovernmental Review of Federal Programs” and 
+          <aref type='CFR'>
+            7 CFR Part 
+            <subref title='7' part='3015' tq='N'>
+              3015
+            </subref>
+          </aref>
+          , Subpart V, “Intergovernmental Review of the Department of
+          Agriculture Programs and Activities.” State processes or directly
+          affected State, areawide, regional and local officials and entities
+          have 60 days for comment starting from the date of submission of the
+          application to the State Single Point of Contact.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6217'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:B:622.10
+      </extid>
+      <num st='1'>
+        622.10
+      </num>
+      <head>
+        Sponsors.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='10' psec='' tq='N'>
+              622.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Sponsors.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Watershed projects are sponsored by one or more local organizations
+            
+            <PRTPAGE P='473' />
+            qualifying as sponsors. All watershed plans shall be sponsored by
+            entities legally organized under State law or by any Indian tribe or
+            tribal organization having the authority to carry out, operate and
+            maintain works of improvement. Those plans that incorporate the use
+            of nonstructural or structural measures shall be sponsored by
+            organizations that, individually or collectively, have:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The power of eminent domain,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The authority to levy taxes or use other adequate funding sources,
+            including state, regional, or local appropriations, to finance their
+            share of the project cost and all operation and maintenance costs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To receive Federal assistance for project installation, sponsors
+            must commit themselves to use their powers and authority to carry
+            out and maintain the project as planned.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6218'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:B:622.11
+      </extid>
+      <num st='1'>
+        622.11
+      </num>
+      <head>
+        Eligible watershed projects.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='11' psec='' tq='N'>
+              622.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible watershed projects.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for Federal assistance, a watershed project must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Meet the definition of a watershed area as defined in NRCS&apos;s
+            National Watersheds Manual.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Not exceed 250,000 acres in size.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Not include any single structure that provides more than 12,500
+            acre-feet of floodwater detention capacity nor more than 25,000
+            acre-feet of total capacity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Have significant land or water management problems that can be
+            solved or alleviated by measures for watershed protection, flood
+            prevention, drainage, irrigation, recreation, fish and wildlife,
+            municipal or industrial water supply, or other water management.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Produce substantial benefits to the general public, to communities,
+            and to groups of landowners.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Cannot be installed by individual or collective landowners under
+            alternative cost-sharing assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Have strong local citizen and sponsor support through agreement to
+            obtain land rights, contribute the local cost of construction, and
+            carry out operation and maintenance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Works and improvement that may be included in a watershed project
+            are those that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Contribute to reducing floodwater, erosion, and sediment damages.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Further the conservation, development, utilization, and disposal of
+            water and the conservation and proper utilization of land.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Have the greatest net national economic benefits consistent with
+            protecting the Nation&apos;s environment (for structural water
+            resource projects) relative to alternative works, unless an
+            exception is granted by the Secretary.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6219'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:C:622.20
+      </extid>
+      <num st='1'>
+        622.20
+      </num>
+      <head>
+        Application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='20' psec='' tq='N'>
+              622.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application.
+        </SUBJECT>
+        <P>
+          Sponsors shall follow State developed procedures (based on Executive
+          Order 12372) for coordination of proposed Federal financial assistance
+          and also USDA&apos;s 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='3015' tq='N'>
+              3015
+            </subref>
+          </aref>
+           in applying for Pub. L. 83-566 assistance. Standard forms for Federal
+          assistance or other approved forms may be obtained from NRCS State,
+          area, or field offices. These forms should be submitted to the Single
+          Point of Contact in accordance with the State developed procedures.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6220'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:C:622.21
+      </extid>
+      <num st='1'>
+        622.21
+      </num>
+      <head>
+        State agency approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='21' psec='' tq='N'>
+              622.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          State agency approval.
+        </SUBJECT>
+        <P>
+          The governor or designated State agency will approve or disapprove the
+          application. If disapproved, no further action is required of NRCS. If
+          approved or not disapproved within 45 days, the application shall be
+          sent to the NRCS state conservationist. After the state
+          conservationist has determined that the application is legally valid,
+          he will notify the sponsor of receipt of the application. If found not
+          legally valid, the state conservationist will return it to the
+          originator with an opinion.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6221'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:D:622.30
+      </extid>
+      <num st='1'>
+        622.30
+      </num>
+      <head>
+        General.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 6078
+        </aref>
+        , Feb. 17, 1984, as amended at 
+        <aref type='FREGIST'>
+          76 FR 19684
+        </aref>
+        , Apr. 8, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='30' psec='' tq='N'>
+              622.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Watershed projects are to be planned and carried out in a way that
+            will (1) minimize all adverse impacts, and (2) mitigate unavoidable
+            losses to the maximum practicable degree. Projects must comply with
+            the requirements of the National Environmental Policy Act of 1969
+            (Pub. L. 91-190, 
+            <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=91_statutes_at_large&amp;position=all&amp;page=852'>
+              83 Stat. 852
+            </aref>
+            ) (
+            <aref type='USC'>
+              <subref title='42' sect='4321' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/4321.html'>
+                42 U.S.C. 4321
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Fish and Wildlife enhancement measures proposed by Federal or State
+            
+            <PRTPAGE P='474' />
+            fish and wildlife agencies will be included if they are technically
+            and economically feasible and are acceptable to the sponsors and the
+            NRCS. If additional sponsors are needed to carry out the recommended
+            fish and wildlife measures, NRCS will assist fish and wildlife
+            agencies in attempting to obtain such sponsors.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             All planning efforts by NRCS and the sponsors must include well
+            publicized public meetings to obtain public input and views on the
+            project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Sponsors who receive financial assistance awarded after October 1,
+            2010, must comply with applicable registration and reporting
+            requirements of the Federal Funding Accountability and Transparency
+            Act of 2006 (
+            <aref target='_blank' title='Pub. L. 109-282' alt='Pub. L. 109-282' href='http://www.gpo.gov/fdsys/pkg/PLAW-109publ282/html/PLAW-109publ282.htm'>
+              Pub. L. 109-282
+            </aref>
+            , as amended), and 
+            <aref type='CFR'>
+              2 CFR parts 
+              <subref title='2' part='25' tq='N'>
+                25
+              </subref>
+               and 
+              <subref title='2' part='170' tq='N'>
+                170
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 6078
+          </aref>
+          , Feb. 17, 1984, as amended at 
+          <aref type='FREGIST'>
+            76 FR 19684
+          </aref>
+          , Apr. 8, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='6222'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:D:622.31
+      </extid>
+      <num st='1'>
+        622.31
+      </num>
+      <head>
+        Basic planning efforts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='31' psec='' tq='N'>
+              622.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Basic planning efforts.
+        </SUBJECT>
+        <P>
+          Upon receipt of an application, the NRCS will make any necessary field
+          studies and develop a report to justify the need for planning effort.
+          Once planning is authorized by the Chief of NRCS, a watershed
+          plan-environmental impact statement (plan-EIS) or a watershed
+          plan-environmental assessment (plan-EA) will be prepared by NRCS to
+          request funding. This effort must be coordinated with other State and
+          Federal agencies.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6223'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:622:D:622.32
+      </extid>
+      <num st='1'>
+        622.32
+      </num>
+      <head>
+        Reviews and approvals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='622' sect='32' psec='' tq='N'>
+              622.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reviews and approvals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The watershed plan-environmental impact statement (or assessment)
+            will be subject to internal technical reviews, sponsor and other
+            local party review, interagency review by other Federal, state, and
+            concerned groups, and a final review as stated in NRCS&apos;s
+            National Watersheds Manual.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             After thorough review by NRCS and other agencies, the NRCS and the
+            sponsors shall accept the plan-EIS or plan-EA by signing the
+            watershed agreement. The watershed plan must be approved by the
+            Committees of Congress or the Chief of NRCS. Funding for
+            installation can then be granted by the Chief of NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

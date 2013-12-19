@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol5'>
+    <extid>
+      lii:cfr:2013:7:0:B:III:-:355
+    </extid>
+    <num>
+      355
+    </num>
+    <head>
+      ENDANGERED SPECIES REGULATIONS CONCERNING TERRESTRIAL PLANTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='1532' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1532.html'>
+              16 U.S.C. 1532
+            </subref>
+            , 
+            <subref title='16' sect='1538' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1538.html'>
+              1538
+            </subref>
+          </aref>
+          , and 1540; 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='22' psec='' tq='N'>
+              2.22
+            </subref>
+            , 
+            <subref title='7' part='2' sect='80' psec='' tq='N'>
+              2.80
+            </subref>
+            , and 
+            <subref title='7' part='371' sect='3' psec='' tq='N'>
+              371.3
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            49 FR 42912
+          </aref>
+          , Oct. 25, 1984, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='5642'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:355:lii105:355.1
+      </extid>
+      <num st='1'>
+        355.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          66 FR 21060
+        </aref>
+        , Apr. 27, 2001]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='1' psec='' tq='N'>
+              355.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          Pursuant to the Endangered Species Act of 1973, as amended (
+          <aref type='USC'>
+            <subref title='16' sect='1531' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1531.html'>
+              16 U.S.C. 1531
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ), the Secretary is responsible for the enforcement of the provisions
+          of the Act and Convention that pertain to the importation,
+          exportation, or reexportation of terrestrial plants. 
+          <SU>
+            1
+          </SU>
+          <FTREF />
+           The regulations in this part are for the purpose of implementing this
+          authority. Regulations of the U.S. Department of the Interior that
+          correlate with the regulations in this part are contained in 50 CFR
+          chapter I. 
+          <SU>
+            2
+          </SU>
+          <FTREF />
+        </P>
+        <FTNT>
+          <P>
+            <SU>
+              1
+            </SU>
+             Under 
+            <aref type='UNKNOWN'>
+              section 11 of
+            </aref>
+             the Act (
+            <aref type='USC'>
+              <subref title='16' sect='1540' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1540.html'>
+                16 U.S.C. 1540
+              </subref>
+            </aref>
+            ), it is unlawful for any person to knowingly violate any provision
+            of the Act, any permit or certificate issued under the Act, or any
+            regulation promulgated under the Act. 
+            <aref type='UNKNOWN'>
+              Section 11 of
+            </aref>
+             the Act also provides for criminal, civil, and administrative
+            penalties for any such violation.
+          </P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>
+              2
+            </SU>
+             Plant Protection and Quarantine also administers programs under the
+            Lacey Act Amendments of 1981, as amended (
+            <aref type='USC'>
+              <subref title='16' sect='3371' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3371.html'>
+                16 U.S.C. 3371
+              </subref>
+            </aref>
+             through 3378), 
+            <aref type='USC'>
+              <subref title='7' sect='2814' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2814.html'>
+                7 U.S.C. 2814
+              </subref>
+            </aref>
+            , and the Plant Protection Act (
+            <aref type='USC'>
+              <subref title='7' sect='7701-777' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7701-777.html'>
+                7 U.S.C. 7701-777
+              </subref>
+            </aref>
+            2), which authorize additional prohibitions and restrictions on the
+            importation of plants subject to this part (see other parts of 7 CFR
+            chapter III for regulations containing prohibitions and restrictions
+            under these authorities).
+          </P>
+        </FTNT>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            66 FR 21060
+          </aref>
+          , Apr. 27, 2001]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5643'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:355:lii105:355.2
+      </extid>
+      <num st='1'>
+        355.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 42912
+        </aref>
+        , Oct. 25, 1984, as amended at 
+        <aref type='FREGIST'>
+          70 FR 57995
+        </aref>
+        , Oct. 5, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='2' psec='' tq='N'>
+              355.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Terms used in the singular form in this part shall be construed as the
+          plural, and vice versa, as the case may demand. The following terms,
+          when used in this part, shall be construed, respectively, to mean:
+        </P>
+        <P>
+          <E T='03'>
+            Act.
+          </E>
+           The Endangered Species Act of 1973, as amended (
+          <aref type='USC'>
+            <subref title='16' sect='1531' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1531.html'>
+              16 U.S.C. 1531
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Convention.
+          </E>
+           The Convention on International Trade in Endangered Species of Wild
+          Fauna and Flora, TIAS 8249, 27 U.S.T. 1087, signed on March 3, 1973,
+          and the Appendices thereto.
+        </P>
+        <P>
+          <E T='03'>
+            Deputy Administrator.
+          </E>
+           The Deputy Administrator of the Animal and Plant Health Inspection
+          Service for Plant Protection and Quarantine, U.S. Department of
+          Agriculture, or any other officer or employee of the Department to
+          whom authority to act in his or her stead has been or may hereafter be
+          delegated.
+        </P>
+        <P>
+          <E T='03'>
+            Engage in business as an importer, exporter, or reexporter of
+            terrestrial plants.
+          </E>
+           To import, export, or reexport terrestrial plants for the purpose of
+          selling, bartering, collecting, or otherwise exchanging or acquiring
+          the plants as a livelihood or enterprise engaged in for gain or
+          profit. This term shall not include persons engaged in business merely
+          as carriers or customhouse brokers.
+        </P>
+        <P>
+          <E T='03'>
+            Export (exported, exporting, exportation).
+          </E>
+           To carry, send, take, transport or otherwise remove, or to attempt to
+          carry, send, take, transport or otherwise remove from any place
+          subject to the jurisdiction of the United States.
+        </P>
+        <P>
+          <E T='03'>
+            Import (imported, importing, importation).
+          </E>
+           To land on, bring into, or introduce into, or attempt to land on,
+          bring 
+          <PRTPAGE P='493' />
+          into, or introduce into, any place subject to the jurisdiction of the
+          United States, whether or not such landing, bringing, or introduction
+          constitutes an importation within the meaning of the customs laws of
+          the United States.
+        </P>
+        <P>
+          <E T='03'>
+            Inspector.
+          </E>
+           Any employee of Plant Protection and Quarantine, Animal and Plant
+          Health Inspection Service, U.S. Department of Agriculture, or other
+          person, authorized by the Deputy Administrator in accordance with law
+          to enforce the provisions of the Act and Convention, and regulations
+          promulgated thereunder.
+        </P>
+        <P>
+          <E T='03'>
+            Person.
+          </E>
+           Any individual, corporation, partnership, trust, association, or any
+          other private entity; or any officer, employee, agent, department, or
+          instrumentality of the Federal Government, of any State or political
+          subdivision thereof or of any foreign government.
+        </P>
+        <P>
+          <E T='03'>
+            Plant.
+          </E>
+           Any member of the plant kingdom, including seeds, roots and other
+          parts thereof.
+        </P>
+        <P>
+          <E T='03'>
+            Plant Protection and Quarantine.
+          </E>
+           The organizational unit within the Animal and Plant Health Inspection
+          Service, U.S. Department of Agriculture, delegated responsibility for
+          enforcing provisions of the Act and Convention, and regulations
+          promulgated thereunder.
+        </P>
+        <P>
+          <E T='03'>
+            Protected plant permit.
+          </E>
+           PPQ Form 622, “Protected Plant Permit to Engage in the Business of
+          Importing, Exporting, or Reexporting Terrestrial Plants Regulated by 
+          <aref type='CFR'>
+            50 CFR 
+            <subref title='50' part='17' sect='12' psec='' tq='N'>
+              17.12
+            </subref>
+             and 
+            <subref title='50' part='23' sect='23' psec='' tq='N'>
+              23.23
+            </subref>
+          </aref>
+          .”
+        </P>
+        <P>
+          <E T='03'>
+            Reexport (reexported, reexportation).
+          </E>
+           To export following importation.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary.
+          </E>
+           The Secretary of Agriculture, or any other officer or employee of the
+          Department of Agriculture to whom authority to act in his or her stead
+          has been or may hereafter be delegated.
+        </P>
+        <P>
+          <E T='03'>
+            Terrestrial plants.
+          </E>
+           Any plants (including epiphytic plants), except marine plants.
+        </P>
+        <P>
+          <E T='03'>
+            Validation.
+          </E>
+           An original stamp, signature, and date of inspection placed upon
+          documentation required by 
+          <aref type='CFR'>
+            50 CFR part 
+            <subref title='50' part='17' tq='N'>
+              17
+            </subref>
+          </aref>
+           or 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='23' tq='N'>
+              23
+            </subref>
+          </aref>
+           by an inspector at the port where the terrestrial plants are to be
+          imported, exported or reexported.
+        </P>
+        <P>
+          <E T='03'>
+            United States.
+          </E>
+           Any of the several States, the District of Columbia, the Commonwealth
+          of Puerto Rico, American Samoa, the U.S. Virgin Islands, Guam, and the
+          Trust Territory of the Pacific Islands.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 42912
+          </aref>
+          , Oct. 25, 1984, as amended at 
+          <aref type='FREGIST'>
+            70 FR 57995
+          </aref>
+          , Oct. 5, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5644'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:355:lii106:355.10
+      </extid>
+      <num st='1'>
+        355.10
+      </num>
+      <head>
+        Permission to engage in business concerning nonlisted terrestrial
+        plants.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 42912
+        </aref>
+        , Oct. 25, 1984, as amended at 
+        <aref type='FREGIST'>
+          70 FR 57995
+        </aref>
+        , Oct. 5, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='10' psec='' tq='N'>
+              355.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Permission to engage in business concerning nonlisted terrestrial
+          plants.
+        </SUBJECT>
+        <P>
+          The Secretary hereby grants permission for any person engaged in
+          business as an importer, exporter, or reexporter of terrestrial
+          plants, other than terrestrial plants listed in 
+          <aref type='CFR'>
+            50 CFR 
+            <subref title='50' part='17' sect='12' psec='' tq='N'>
+              17.12
+            </subref>
+             or 
+            <subref title='50' part='23' sect='23' psec='' tq='N'>
+              23.23
+            </subref>
+          </aref>
+          , to engage in such business without a protected plant permit issued
+          under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='11' psec='' tq='N'>
+              355.11
+            </subref>
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 42912
+          </aref>
+          , Oct. 25, 1984, as amended at 
+          <aref type='FREGIST'>
+            70 FR 57995
+          </aref>
+          , Oct. 5, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5645'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:355:lii106:355.11
+      </extid>
+      <num st='1'>
+        355.11
+      </num>
+      <head>
+        Protected plant permits.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 42912
+        </aref>
+        , Oct. 25, 1984, as amended at 
+        <aref type='FREGIST'>
+          59 FR 67611
+        </aref>
+        , Dec. 30, 1994; 
+        <aref type='FREGIST'>
+          66 FR 21060
+        </aref>
+        , Apr. 27, 2001; 
+        <aref type='FREGIST'>
+          70 FR 57995
+        </aref>
+        , Oct. 5, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='11' psec='' tq='N'>
+              355.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Protected plant permits.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             On or after March 26, 1985 no person shall engage in business as an
+            importer, exporter, or reexporter of any terrestrial plants listed
+            in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+             unless such person has obtained a protected plant permit for
+            engaging in such business from Plant Protection and Quarantine.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An application for a protected plant permit shall be submitted to
+            the Animal and Plant Health Inspection Service, Plant Protection and
+            Quarantine, Permit Services, 4700 River Road Unit 133, Riverdale, MD
+            20737-1236. The completed application shall include the following
+            information: 
+            <SU>
+              3
+            </SU>
+            <FTREF />
+          </text>
+        </P>
+        <FTNT>
+          <P>
+            <SU>
+              3
+            </SU>
+             Application forms are available on the Internet (
+            <E T='03'>
+              http://www.aphis.usda.gov/ppq/permits
+            </E>
+            ), by calling (877) 770-5990, or by writing to the address in this
+            paragraph. Application forms may also be obtained from local offices
+            at any of the ports designated in 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='24' tq='N'>
+                24
+              </subref>
+            </aref>
+            . Telephone numbers and addresses of local offices are listed in
+            telephone directories.
+          </P>
+        </FTNT>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Date of application;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Applicant&apos;s name, mailing address, and telephone number;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is an individual, the business affiliation, if
+            any, having to do with the importation, exportation, or
+            reexportation of terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+            ;
+            <PRTPAGE P='494' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is in the name of a business or if the applicant
+            is affiliated with a business which imports, exports, or reexports
+            terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+            , the form of the business, e.g., corporation, firm, partnership;
+            and the name and address of each partner, officer, director, holder,
+            and owner of 10 percent or more of the voting stock, and employee in
+            a managerial or executive capacity;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The address of all applicants&apos; business locations, including
+            but not limited to locations of nurseries, growing fields,
+            propagating beds, holding beds and similar facilities where
+            activities relating to terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+             would be conducted;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             A brief and complete description of the nature of the
+            applicant&apos;s business as it relates to engaging in business as
+            an importer, exporter, or reexporter of terrestrial plants listed in
+            
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Any address where books or records concerning the importation,
+            exportation, or reexportation of terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+             would be kept;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Name, address, and telephone number of the person authorized to
+            make records or plant inventories available for examination by
+            inspectors or other duly authorized representatives of the
+            Secretary; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Certification by signature of the applicant (must be a partner or
+            officer if the applicant is a business) after the following
+            language: “I hereby certify that the information in this application
+            is complete and accurate to the best of my knowledge and belief.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Each application for a protected plant permit must be accompanied
+            by a check or money order for $70 made payable to Plant Protection
+            and Quarantine. The fee shall not be refunded if the application is
+            denied or abandoned.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             After receipt and review of the application by Plant Protection and
+            Quarantine, a protected plant permit for the importation,
+            exportation, and reexportation of terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+             shall be issued if the applicant has submitted an application
+            containing all information requested in paragraph (b) of this
+            section, if the applicant has paid the fee in accordance with
+            paragraph (c) of this section, and if a protected plant permit of
+            the applicant or anyone responsibly connected with the business of
+            the applicant has not been and is not denied, suspended or revoked
+            pursuant to paragraph (i) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant shall be notified in writing by Plant Protection and
+            Quarantine of the approval or denial of any request for a protected
+            plant permit. If a protected plant permit is denied, the
+            notification shall state the reasons therefor. If a protected plant
+            permit is denied, the applicant may request a hearing pursuant to
+            paragraph (i)(1) of this section and may submit to Plant Protection
+            and Quarantine, in writing, reasons why the permit should not have
+            been denied. Such submissions of the applicant shall not be
+            considered a new application if submitted within 60 days following
+            the receipt of notification of the denial by the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Upon receipt of an incomplete or improperly executed application,
+            the applicant shall be notified by Plant Protection and Quarantine
+            of the deficiency of the application. If the applicant fails to
+            supply the deficient information or otherwise fails to correct the
+            deficiency within 60 days following the receipt of the notification
+            by the applicant, the application shall be considered abandoned.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Upon receipt of an application filed with an insufficient fee, or
+            without a fee, the application and any fee submitted will be
+            returned to the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             A protected plant permit shall be valid for 2 years from the date
+            of issuance unless suspended or revoked pursuant to paragraph (i) of
+            this section. A new application must be submitted for the renewal of
+            the protected plant permit. A protected plant permit shall not be
+            transferred, tampered with, amended or otherwise altered in any
+            manner or form by any person.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='i_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Any application for a protected plant permit may be denied and any
+            protected plant permit which has been issued may be suspended or
+            revoked for a time specified by the Deputy Administrator for any of
+            the reasons provided in paragraph (i)(2) of this section. Before
+            such action is taken, the applicant or permittee will be informed of
+            the 
+            <PRTPAGE P='495' />
+            reasons for the proposed action, and upon request, shall be afforded
+            an opportunity for a hearing with respect to the merits or validity
+            of such action, in accordance with rules of practice which shall be
+            adopted for the proceeding. However, such denial, suspension or
+            revocation may become effective pending final determination in the
+            proceeding, if the permittee has been convicted or a criminal
+            violation of the Act, or of any regulation, permit, or certificate
+            issued under the Act. Such denial, suspension or revocation shall be
+            effective upon oral or written notification, whichever is earlier,
+            to the permittee. In the event of oral notification of the denial,
+            suspension or revocation, written confirmation shall be given to the
+            permittee as promptly as circumstances allow. This denial,
+            suspension or revocation shall continue in effect pending the
+            completion of the proceeding and any judicial review thereof, unless
+            otherwise ordered by the Deputy Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             An application for a protected plant permit may be denied and any
+            protected plant permit which has been issued may be suspended or
+            revoked if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Any requirement of this subpart is not complied with, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant, permittee, or a person responsibly connected with
+            the business of the applicant or permittee has been criminally
+            convicted or had a civil penalty imposed for a violation of the Act
+            or of any regulation, permit, or certificate issued under the Act,
+            or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant, permittee, or a person responsibly connected with
+            the business of the applicant or permittee has been convicted of any
+            crime involving fraud, bribery, extortion, or any other crime
+            involving a lack of integrity needed for the conduct of operations
+            concerning the importation, exportation, or reexportation of
+            terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For the purposes of this section, a person shall be deemed to be
+            responsibly connected with the business of the applicant or
+            permittee if the person is a partner, officer, director, holder, or
+            owner of 10 percent or more or its voting stock, or an employee in a
+            managerial or executive capacity.
+          </text>
+        </P>
+        <APPRO>
+          (Information collection requirements were approved by the Office of
+          Management and Budget under control number 0579-0076)
+        </APPRO>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 42912
+          </aref>
+          , Oct. 25, 1984, as amended at 
+          <aref type='FREGIST'>
+            59 FR 67611
+          </aref>
+          , Dec. 30, 1994; 
+          <aref type='FREGIST'>
+            66 FR 21060
+          </aref>
+          , Apr. 27, 2001; 
+          <aref type='FREGIST'>
+            70 FR 57995
+          </aref>
+          , Oct. 5, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5646'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:355:lii107:355.20
+      </extid>
+      <num st='1'>
+        355.20
+      </num>
+      <head>
+        Marketing and notification requirements for plants imported, exported,
+        or reexported by means other than mail. 4
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 42912
+        </aref>
+        , Oct. 25, 1984, as amended at 
+        <aref type='FREGIST'>
+          70 FR 57995
+        </aref>
+        , Oct. 5, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='20' psec='' tq='N'>
+              355.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Marketing and notification requirements for plants imported, exported,
+          or reexported by means other than mail. 
+          <SU>
+            4
+          </SU>
+          <FTREF />
+        </SUBJECT>
+        <FTNT>
+          <P>
+            <SU>
+              4
+            </SU>
+             Certain terrestrial plants listed in Appendices I, II, or III of
+            the Convention or determined by the U.S. Department of the Interior
+            to be endangered or threatened or similar in appearance to
+            endangered or threatened species are required to be accompanied by
+            documentation at the time of importation, exportation, or
+            reexportation (see 50 CFR chapter I). Plants are allowed to be
+            imported, exported or reexported only at ports authorized for such
+            purposes by the U.S. Department of the Interior, or, under certain
+            circumstances as determined by the U.S. Department of the Interior,
+            at nondesignated ports, pursuant to 
+            <aref type='UNKNOWN'>
+              section 9(f) of
+            </aref>
+             the Act (
+            <aref type='USC'>
+              <subref title='16' sect='1538' note='' psec='#f' tq='N' target='http://www.law.cornell.edu/uscode/16/1538.html#f'>
+                16 U.S.C. 1538(f)
+              </subref>
+            </aref>
+            ). (see 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='24' tq='N'>
+                24
+              </subref>
+            </aref>
+             for a list of designated ports.)
+          </P>
+        </FTNT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any terrestrial plant which is to be imported, exported, or
+            reexported by means other than mail and which may be imported,
+            exported, or reexported under 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             only if accompanied by documentation, shall at the time of
+            importation, exportation, or reexportation plainly and correctly
+            bear on the outer container or on a tag, invoice, packing list, or
+            other document accompanying the plant, the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Genus and species, and quantity of each (if a hybrid, genus of each
+            parent, and quantity of each hybrid),
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Country and locality where collected from the wild or where
+            produced from cultivated stock,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address (in the United States if exported or reexported)
+            of shipper, owner or person shipping or forwarding the plants,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address (in the United States if imported) of consignee,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Identifying shipper&apos;s mark and number, and
+            <PRTPAGE P='496' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Serial number and type (e.g., permit, certificate) of document
+            issued for the importation, exportation, or reexportation of the
+            plant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Promptly upon arrival at a port of import (listed in 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='24' tq='N'>
+                24
+              </subref>
+            </aref>
+            , or, if allowed by the U.S. Department of the Interior, at a
+            nondesignated port) of any terrestrial plant which is imported by
+            means other than mail and which may be imported under 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             only if accompanied by documentation, the importer shall notify
+            Plant Protection and Quarantine of the arrival and of the genus and
+            species of the plant by such means as a manifest, Customs entry
+            document, commercial invoice, waybill, broker&apos;s document, or
+            notice form provided for that purpose.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Prior to the exportation or reexportation of any terrestrial plant
+            which is to be exported or reexported by other than mail and which
+            may be exported or reexported under 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             only if accompanied by documentation, the exporter or reexporter
+            shall notify Plant Protection and Quarantine of the intended
+            exportation or reexportation and of the genus and species of the
+            plant by such means as a manifest, commercial invoice, waybill,
+            broker&apos;s document, or notice form provided for that purpose.
+          </text>
+        </P>
+        <APPRO>
+          (Information collection requirements were approved by the Office of
+          Budget and Management under control number 0579-0076)
+        </APPRO>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 42912
+          </aref>
+          , Oct. 25, 1984, as amended at 
+          <aref type='FREGIST'>
+            70 FR 57995
+          </aref>
+          , Oct. 5, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5647'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:355:lii107:355.21
+      </extid>
+      <num st='1'>
+        355.21
+      </num>
+      <head>
+        Marking and mailing requirements for plants imported, exported, or
+        reexported by mail. 5
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='21' psec='' tq='N'>
+              355.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Marking and mailing requirements for plants imported, exported, or
+          reexported by mail. 
+          <SU>
+            5
+          </SU>
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any terrestrial plant which is to be imported by mail and which may
+            be imported under 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             only if accompanied by documentation, shall be mailed to Plant
+            Protection and Quarantine (at a port authorized for such purpose by
+            the U.S. Department of the Interior in 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='24' tq='N'>
+                24
+              </subref>
+            </aref>
+             pursuant to 
+            <aref type='UNKNOWN'>
+              section 9(f) of
+            </aref>
+             the Act (
+            <aref type='USC'>
+              <subref title='16' sect='1538' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1538.html'>
+                16 U.S.C. 1538
+              </subref>
+            </aref>
+             (f))); and shall be accompanied by a separate sheet of paper within
+            the package plainly and correctly bearing the name, address, and
+            telephone number of the intended recipient in the United States; and
+            shall plainly and correctly bear on the outer container the
+            following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Genus and species, and quantity of each (if a hybrid, genus of each
+            parent, and quantity of each hybrid),
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Country and locality where collected from the wild or where
+            produced from cultivated stock,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address of shipper, owner, or person shipping or
+            forwarding the plants, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Serial number and type (e.g. permit, certificate) of document
+            issued for the importation of the plant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any terrestrial plant which is to be exported or reexported by mail
+            and which may be exported or reexported under 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             only if accompanied by documentation, shall be mailed to Plant
+            Protection and Quarantine (at a port authorized for such purpose by
+            the U.S. Department of the Interior in 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='24' tq='N'>
+                24
+              </subref>
+            </aref>
+             pursuant to 
+            <aref type='UNKNOWN'>
+              section 9(f) of
+            </aref>
+             the Act (
+            <aref type='USC'>
+              <subref title='16' sect='1538' note='' psec='#f' tq='N' target='http://www.law.cornell.edu/uscode/16/1538.html#f'>
+                16 U.S.C. 1538(f)
+              </subref>
+            </aref>
+            )); shall be wrapped in double wrapping, with an unsealed inner
+            wrapping addressed to the foreign recipient and bearing sufficient
+            postage for mailing to the foreign destination; shall be accompanied
+            by a separate sheet of paper within the package plainly and
+            correctly bearing the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Genus and species, and quantity of each (if a hybrid, genus of each
+            parent, and quantity of each hybrid),
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Country and locality where collected from the wild or where
+            produced from cultivated stock,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address in the United States of shipper, owner, or person
+            shipping or forwarding the plants, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Serial number and type (e.g. permit, certificate) of document
+            issued for the exportation or reexportation of the plant.
+          </text>
+        </P>
+        <APPRO>
+          (Information collection requirements were approved by the Office of
+          Budget and Management under control number 0579-0076)
+        </APPRO>
+      </contents>
+    </section>
+    <section orderid='5648'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:355:lii107:355.22
+      </extid>
+      <num st='1'>
+        355.22
+      </num>
+      <head>
+        Validation of documentation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 42912
+        </aref>
+        , Oct. 25, 1984, as amended at 
+        <aref type='FREGIST'>
+          59 FR 67611
+        </aref>
+        , Dec. 30, 1994; 
+        <aref type='FREGIST'>
+          70 FR 57995
+        </aref>
+        , Oct. 5, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='22' psec='' tq='N'>
+              355.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Validation of documentation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Documentation for any mailed or nonmailed terrestrial plant which
+            is required to have documentation under 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             at the time of importation, must be validated by an inspector prior
+            to movement of such plant from the Customs inspection area at the
+            port of entry. The original documentation must be surrendered to the
+            inspector at the time of validation.
+            <PRTPAGE P='497' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Documentation for any mailed or nonmailed terrestrial plant which
+            is listed in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+             and which is required to have documentation under 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             at the time of exportation or reexportation, must be validated at
+            the port of export or reexport by an inspector prior to the
+            exportation or reexportation of such plant. 
+            <SU>
+              5
+            </SU>
+            <FTREF />
+             The original and one copy of the documentation must be submitted
+            for validation, and the copy must be surrendered to the inspector at
+            the time of validation.
+          </text>
+        </P>
+        <FTNT>
+          <P>
+            <SU>
+              5
+            </SU>
+             It is the policy of the Department of Agriculture to allow, if
+            inspectors are available, terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='12' psec='' tq='N'>
+                17.12
+              </subref>
+               or 
+              <subref title='50' part='23' sect='23' psec='' tq='N'>
+                23.23
+              </subref>
+            </aref>
+             which are intended for export to be inspected at the premises where
+            such plants are grown. However, the documentation required for the
+            export of such plants by 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             shall only be validated at the port of export and only when such
+            plants are presented at the port for export together with the
+            documents required by 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             and a certified statement by the inspector who inspected the plants
+            that the plants are apparently eligible for exportation in
+            accordance with the provisions of this part and provisions of 50 CFR
+            chapter I relating to the Act and Convention. Plants which have been
+            previously inspected must be exported through a designated port
+            (unless allowed by the United States Department of the Interior to
+            be exported through a nondesignated port) in order to comply with 
+            <aref type='UNKNOWN'>
+              section 9(f) of
+            </aref>
+             the Act [
+            <aref type='USC'>
+              <subref title='16' sect='1538' note='' psec='#f' tq='N' target='http://www.law.cornell.edu/uscode/16/1538.html#f'>
+                16 U.S.C. 1538(f)
+              </subref>
+            </aref>
+            ]. Plants which are inspected at the premises of origin must be
+            available at the port of export for monitoring inspections and for
+            other inspections deemed need for enforcement purposes, but, unless
+            so inspected, will not need to be unpacked, inspected and repacked
+            at the port. Information concerning the availability of inspectors
+            to conduct inspections at the premise of origin may be obtained by
+            calling local offices of Plant Protection and Quarantine, which are
+            listed in telephone directories, or by writing the Animal and Plant
+            Health Inspection Service, Plant Protection and Quarantine,
+            Operational Support—Director&apos;s Office, 4700 River Road, Unit
+            131, Riverdale, Maryland 20737-1236.
+          </P>
+        </FTNT>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Documentation for a plant shall be validated under this section
+            upon endorsement of the documentation by an inspector when he or she
+            determines that the plant was apparently eligible for importation,
+            exportation, or reexportation in accordance with the provisions of
+            this part and the provisions of 50 CFR chapter I relating to the Act
+            and Convention.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             To obtain validation of documentation, the importer, exporter, or
+            reexporter, or agent thereof, shall make available to an inspector:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             All shipping documents (including bills of lading, waybills,
+            packing lists, and invoices):
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All documents required by the Act and Convention; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The plant being imported, exported, or reexported.
+          </text>
+        </P>
+        <APPRO>
+          (Information collection requirements were approved by the Office of
+          Budget and Management under control number 0579-0076)
+        </APPRO>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 42912
+          </aref>
+          , Oct. 25, 1984, as amended at 
+          <aref type='FREGIST'>
+            59 FR 67611
+          </aref>
+          , Dec. 30, 1994; 
+          <aref type='FREGIST'>
+            70 FR 57995
+          </aref>
+          , Oct. 5, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5649'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:355:lii107:355.23
+      </extid>
+      <num st='1'>
+        355.23
+      </num>
+      <head>
+        Recordkeeping, access, and reports.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='355' sect='23' psec='' tq='N'>
+              355.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recordkeeping, access, and reports.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any person engaged in business as an importer, exporter, or
+            reexporter of terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             shall keep such records as will fully and correctly disclose each
+            importation, exportation, or reexportation of terrestrial plants
+            made by such person and the subsequent disposition made by such
+            person of the plants. Such records shall include shipping documents
+            for each shipment of plants imported, exported, or reexported; a
+            description of the form of the plants (such as whole live plants,
+            cuttings, seeds, or other specific parts or derivatives of plants);
+            the scientific and common names of the plants; the country or place
+            of origin of the plants; the date and place of importation,
+            exportation, or reexportation of the plants; the number (weight if
+            the plants cannot be quantified by number) and specific location of
+            plants; the date and means of subsequent disposition of the plants,
+            whether by sale, barter, consignment, loan, delivery, destruction,
+            or other means; and names and addresses of persons to whom the
+            plants were disposed, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Every record required to be kept under this section shall be kept
+            for a period of 5 years after the occurrence of the transactions to
+            which the records relate, and for such further time as the Deputy
+            Administrator may require by written notice to the person required
+            to keep such records under 
+            <PRTPAGE P='498' />
+            this part for purposes of any investigation, litigation, or other
+            proceeding under the Act or this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any person engaged in business as an importer, exporter, or
+            reexporter of terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+             shall, upon presentation of credentials by an inspector or duly
+            authorized representatives of the Secretary; during ordinary
+            business hours of the person given notice, afford such inspector
+            access to the person&apos;s place of business, the opportunity to
+            examine the person&apos;s inventory of plants and the records
+            required to be kept under paragraph (a) of this section, and the
+            opportunity to copy such records. The use of a room, table, or other
+            facilities (other than reproduction equipment) necessary for
+            examination and copying of records and for such examination of
+            inventory shall be afforded such inspector.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Any person engaged in business as an importer, exporter, or
+            reexporter of terrestrial plants listed in 
+            <aref type='CFR'>
+              50 CFR part 
+              <subref title='50' part='17' tq='N'>
+                17
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='23' tq='N'>
+                23
+              </subref>
+            </aref>
+            , upon written request by the Deputy Administrator, shall submit
+            within 60 days of such request, a report concerning any of the
+            information required to be maintained under paragraphs (a) and (b)
+            of this section.
+          </text>
+        </P>
+        <APPRO>
+          (Information collection requirements were approved by the Office of
+          Budget and Management under control number 0579-0076)
+        </APPRO>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

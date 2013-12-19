@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1413
+    </extid>
+    <num>
+      1413
+    </num>
+    <head>
+      COMMODITY INCENTIVE PAYMENT PROGRAMS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='8788' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/8788.html'>
+              7 U.S.C. 8788
+            </subref>
+             and 
+            <subref title='7' sect='15' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/15.html'>
+              15
+            </subref>
+          </aref>
+           U.S.C. 714.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            75 FR 41965
+          </aref>
+          , July 20, 2010, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12371'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.101
+      </extid>
+      <num st='1'>
+        1413.101
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='101' psec='' tq='N'>
+              1413.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This subpart establishes the terms and conditions under which the
+            Durum Wheat Quality Program (DWQP) as authorized by 
+            <aref type='UNKNOWN'>
+              section 1613 of
+            </aref>
+             the Food, Conservation, and Energy Act of 2008 (
+            <aref target='_blank' title='Pub. L. 110-246' alt='Pub. L. 110-246' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ246/html/PLAW-110publ246.htm'>
+              Pub. L. 110-246
+            </aref>
+            ) will be administered.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This program will operate only to the extent appropriated funding
+            is available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to available funding, eligible producers of durum wheat
+            will be partially compensated for the cost of purchasing and
+            applying fungicides to a crop of durum wheat to control Fusarium
+            head blight on acres accurately certified as planted to durum wheat.
+            “Available funding” requires that there be a specific appropriation
+            for the program that applies to a particular crop for which the
+            producer seeks compensation under this program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12372'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.102
+      </extid>
+      <num st='1'>
+        1413.102
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='102' psec='' tq='N'>
+              1413.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this subpart. The definitions in 
+          <aref type='CFR-TIC-PART'>
+            parts 
+            <subref title='7' part='718' tq='N'>
+              718
+            </subref>
+             and 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this title
+            </subref>
+          </aref>
+           also apply, except where they conflict with the definitions in this
+          section.
+        </P>
+        <P>
+          <E T='03'>
+            Application period
+          </E>
+           means the dates established by the Deputy Administrator for Farm
+          Programs for producers to apply for program benefits.
+        </P>
+        <P>
+          <E T='03'>
+            CCC
+          </E>
+           means the Commodity Credit Corporation.
+        </P>
+        <P>
+          <E T='03'>
+            Crop year
+          </E>
+           means the calendar year in which the wheat was harvested or intended
+          to be harvested. For example, a reference to the 2010 crop year of
+          wheat means wheat that when planted was intended for harvest in
+          calendar year 2010.
+        </P>
+        <P>
+          <E T='03'>
+            Durum wheat
+          </E>
+           means all varieties of white (amber) durum wheat as defined in the
+          U.S. Standards for Wheat (
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='810' tq='N'>
+              810
+            </subref>
+          </aref>
+          , subpart M) including, but not limited to, hard amber durum wheat and
+          amber durum wheat.
+        </P>
+        <P>
+          <E T='03'>
+            Flowering stage
+          </E>
+           means the period of time during the wheat growth stage, after the
+          head emergence has completed and prior to milk development in the
+          kernel.
+        </P>
+        <P>
+          <E T='03'>
+            State committee, county committee or county office
+          </E>
+           means the respective FSA committee or office.
+        </P>
+        <P>
+          <E T='03'>
+            United States
+          </E>
+           means all 50 States of the United States, the District of Columbia,
+          the Commonwealth of Puerto Rico, and any other territory or possession
+          of the United States.
+        </P>
+        <P>
+          <E T='03'>
+            USDA
+          </E>
+           means the United States Department of Agriculture.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12373'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.103
+      </extid>
+      <num st='1'>
+        1413.103
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='103' psec='' tq='N'>
+              1413.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             DWQP will be administered under the general supervision of the
+            Executive Vice President, CCC (Administrator, Farm Service Agency
+            (FSA)), or a designee, and will be carried out in the field by FSA
+            State and county committees and FSA employees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             FSA representatives do not have authority to modify or waive any of
+            the provisions of the regulations of this subpart, except as
+            specified in paragraph (e) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The State FSA committee will take any action required by the
+            provisions of this subpart that the county FSA committee has not
+            taken. The State FSA committee will also:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Correct, or require a county FSA committee to correct, any action
+            taken by such county FSA committee that is 
+            <PRTPAGE P='521' />
+            not in compliance with the provisions of this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require a county FSA committee to not take an action that is not in
+            compliance with the provisions of this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             No provision or delegation to a State or county FSA committee will
+            preclude the Administrator, Deputy Administrator, or a designee from
+            determining any question arising under the program in this subpart,
+            or from reversing or modifying any determination made by a State or
+            county FSA committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Deputy Administrator may authorize State and county FSA
+            committees to waive or modify non-statutory program requirements of
+            this subpart in cases where failure to meet such requirements does
+            not adversely affect operation of the program in this subpart.
+            Producers have no right to seek an exception under this provision.
+            The Deputy Administrator&apos;s refusal to consider cases or
+            circumstances or decision not to exercise this discretionary
+            authority under this provision will not be considered an adverse
+            decision and is not appealable.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12374'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.104
+      </extid>
+      <num st='1'>
+        1413.104
+      </num>
+      <head>
+        Eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='104' psec='' tq='N'>
+              1413.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be considered eligible for DWQP payments, the person or entity
+            must have a share in the treated wheat crop on those acres planted
+            to durum wheat on which an eligible fungicide was applied, as
+            certified on the application, have incurred the cost of acquiring
+            and applying eligible fungicide, and meet the requirements in
+            paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for benefits, a person or entity must be a:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Citizen of the United States;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             “Lawful alien” as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1400' sect='3' psec='' tq='N'>
+                1400.3
+              </subref>
+               of this chapter
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Partnership of citizens of the United States; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Corporation, limited liability corporation, or other farm
+            organizational structure organized under State law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A minor child is eligible to apply for DWQP payments if all the
+            eligibility requirements of this subpart are met and the
+            requirements in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this chapter
+              </subref>
+            </aref>
+             that apply to minor children are met.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A person or entity determined to be a foreign person under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this title
+              </subref>
+            </aref>
+             is not eligible to receive benefits under this subpart, unless that
+            person provides land, capital, and a substantial amount of active
+            personal labor in the production of crops on such farm.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             State and local governments and their political subdivisions and
+            related agencies are not eligible for DWQP payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             To be considered an eligible fungicide under this subpart, the
+            fungicide must be:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Registered with the U.S. Environmental Protection Agency, as
+            required under the Federal Insecticide, Fungicide, and Rodenticide
+            Act (FIFRA), unless exempt from FIFRA requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In compliance with State pesticide regulations, if applicable, in
+            the State in which benefits are being requested; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Applied specifically to control Fusarium head blight on acres
+            certified as planted by the producer to durum wheat for the
+            applicable crop year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will provide program benefits to reimburse eligible costs for a
+            maximum of one fungicide treatment, including application cost,
+            during the flowering stage, to a crop of durum wheat per crop year.
+            Multiple or additional fungicide treatments, beyond a single
+            treatment, to the same crop of wheat are not eligible for benefits.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12375'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.105
+      </extid>
+      <num st='1'>
+        1413.105
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='105' psec='' tq='N'>
+              1413.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='12376'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.106
+      </extid>
+      <num st='1'>
+        1413.106
+      </num>
+      <head>
+        Application process.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='106' psec='' tq='N'>
+              1413.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application process.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To apply for DWQP payment, the producer must submit, to the FSA
+            county office that maintains the producer&apos;s farm records for
+            the agricultural operation, a completed application as specified in
+            paragraph (c) of this section, including any supporting
+            documentation required by FSA, and a report of acreage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The producer must submit a completed application for payment and
+            required supporting documentation to the administrative FSA county
+            office during the relevant, for the crop, application period
+            announced by FSA which will end no later than September 15 of 
+            <PRTPAGE P='522' />
+            the crop year in which the fungicide was applied to a crop of durum
+            wheat.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A complete application includes all of the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An application form provided by FSA;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Certification of the total number and location of acres planted to
+            durum wheat on which an eligible fungicide was applied specifically
+            to control Fusarium head blight;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Certification of the date durum wheat, on which an eligible
+            fungicide was applied specifically to control Fusarium head blight,
+            was planted;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Certification of the type of eligible fungicide applied to acres
+            certified as planted to durum wheat;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Certification of the date eligible fungicide was applied to acres
+            certified as planted to durum wheat;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Documentation providing adequate proof, as determined by FSA, of
+            the producer&apos;s actual cost of purchasing and applying eligible
+            fungicide to acres certified as planted to durum wheat for one
+            treatment; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Any other documentation as determined by FSA to be necessary to
+            make a determination of eligibility of the producer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The producer requesting benefits under this program certifies the
+            accuracy and truthfulness of the information provided in the
+            application as well as any documentation filed with or in support of
+            the application. All information provided is subject to verification
+            by FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Data furnished by the producer will be used to determine
+            eligibility for program benefits. Furnishing the data is voluntary;
+            however, without all required data program benefits will not be
+            approved or provided.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12377'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.107
+      </extid>
+      <num st='1'>
+        1413.107
+      </num>
+      <head>
+        Availability of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='107' psec='' tq='N'>
+              1413.107
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The 2008 Farm Bill authorizes up to $10 million to be appropriated
+            for each of the 2009 through 2012 fiscal years for DWQP. Payments
+            will not be made for claims for a particular crop year until after
+            the application deadline, which is September 15 of that crop year,
+            for the crop for which payment for the fungicide application is
+            sought and only if funds are made available through an
+            appropriation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In the event that approval of all eligible applications for
+            fungicide treatments for a particular crop would result in
+            expenditures in excess of the amounts appropriated for that crop
+            year, the FSA Deputy Administrator will prorate the funds by a
+            national factor to reduce the total expected payments to the amount
+            made available by the Secretary. FSA will prorate the payments in
+            such manner as it determines appropriate and reasonable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Claims that are unpaid or paid at a reduced rate for a crop year
+            for any reason will not be carried forward for payment under other
+            funds for later crop years, unless provided for by law and approved
+            by the Deputy Administrator. Such unpaid claims will be considered,
+            as to any unpaid amount, void and nonpayable.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12378'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.108
+      </extid>
+      <num st='1'>
+        1413.108
+      </num>
+      <head>
+        Payment calculation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='108' psec='' tq='N'>
+              1413.108
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment calculation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the availability of DWQP funds, the payment to an
+            eligible producer will be the result of adding (adjusted for the
+            producer&apos;s share of the crop):
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The lesser of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The result of multiplying the number of acres certified by the
+            producer as planted to durum wheat on which an eligible fungicide
+            was applied, during the flowering stage, times the per acre national
+            fungicide acquisition payment rate as set by the Deputy
+            Administrator; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Fifty percent of the producer&apos;s actual cost of purchasing
+            eligible fungicide for acres certified as planted to durum wheat and
+            treated for the applicable crop year in a manner that would
+            otherwise generate a payment under paragraph (a)(1)(i) of this
+            section; plus
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The result of multiplying the number of acres certified as planted
+            to durum wheat on which an eligible fungicide was applied during the
+            flowering stage, times the State application per-acre payment rate
+            set by the State committee, with such application payment not to
+            exceed 50 percent of the actual application cost certified to by the
+            producer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The national fungicide acquisition payment rate set by the Deputy
+            Administrator will be based on 50 percent of the national average
+            cost of eligible fungicide (only including the cost 
+            <PRTPAGE P='523' />
+            of the chemical itself), applied to one acre of durum wheat for the
+            applicable crop year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The State application payment rate set by the State committee will
+            be based on 50 percent of the State average cost of applying an
+            eligible fungicide to one acre of durum wheat for the applicable
+            crop year.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12379'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.109
+      </extid>
+      <num st='1'>
+        1413.109
+      </num>
+      <head>
+        Refunds, joint and several liability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='109' psec='' tq='N'>
+              1413.109
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Refunds, joint and several liability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Excess payments, payments provided as the result of erroneous
+            information provided by any person, or payments resulting from a
+            failure to comply with any requirement or condition for payment in
+            the application or this subpart, must be refunded to CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A refund required as specified in this section will be due with
+            interest from the date of CCC disbursement and otherwise determined
+            in accordance with paragraph (d) of this section and late payment
+            charges as provided in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Persons signing an application for payment as having an interest in
+            an operation will be jointly and severally liable for any refund and
+            related charges found to be due as specified in this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Interest will be applicable to any refunds required as specified in
+            
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='792' tq='N'>
+                792
+              </subref>
+               and 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this title
+              </subref>
+            </aref>
+            . Such interest will be charged at the rate that the U.S. Department
+            of the Treasury charges CCC for funds, and will accrue from the date
+            CCC made the erroneous payment to the date of repayment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may waive the accrual of interest if it determines that the
+            cause of the erroneous determination was not due to any action of
+            the person, or was beyond the control of the person committing the
+            violation. Any waiver is at the discretion of CCC alone.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12380'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.110
+      </extid>
+      <num st='1'>
+        1413.110
+      </num>
+      <head>
+        Misrepresentation and scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='110' psec='' tq='N'>
+              1413.110
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentation and scheme or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In addition to other penalties, sanctions, or remedies as may
+            apply, a producer will be ineligible for payment through the DWQP if
+            the producer is determined by CCC to have:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device that tends to defeat the purpose of
+            the program,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Made any fraudulent representation, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Misrepresented any fact affecting a program determination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any funds disbursed pursuant to this subpart to any producer
+            engaged in a misrepresentation, scheme, or device, must be refunded
+            with interest together with such other sums as may become due and
+            all charges including interest will run from the date of
+            disbursement of the CCC funds. Any producer engaged in acts
+            prohibited by this section and any producer receiving payment as
+            specified in this subpart will be jointly and severally liable with
+            other persons or producers involved in such claim for payment for
+            any refund due as specified in this section and for related charges.
+            The remedies provided in this subpart will be in addition to other
+            civil, criminal, or administrative remedies that may apply.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12381'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.111
+      </extid>
+      <num st='1'>
+        1413.111
+      </num>
+      <head>
+        Miscellaneous provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='111' psec='' tq='N'>
+              1413.111
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Miscellaneous provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Other interests.
+            </head>
+          </npcatch>
+          <text>
+             Any payment to any producer under this part will be made without
+            regard to questions of title under State law, and without regard to
+            any claim or lien against the commodity, or proceeds, in favor of
+            the owner or any other creditor except agencies of the U.S.
+            Government.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Assignments.
+            </head>
+          </npcatch>
+          <text>
+             Any producer entitled to any payment may assign any payment(s) in
+            accordance with regulations governing the assignment of payments in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1404' tq='N'>
+                1404 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Offsets.
+            </head>
+          </npcatch>
+          <text>
+             CCC may offset or withhold any amount due to CCC from any benefit
+            provided under this subpart in accordance with the provisions of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+             and 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='792' tq='N'>
+                792 of this title
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Violations of highly erodible land and wetland conservation
+              provisions.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='12' tq='N'>
+                12 of this title
+              </subref>
+            </aref>
+             apply to this subpart. That part sets out certain conservation
+            requirements as a general condition for farm benefits.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Violations regarding controlled substances.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='718' sect='6' psec='' tq='N'>
+                718.6
+              </subref>
+               of this title
+            </aref>
+            , which generally limit program payment eligibility for persons who
+            have engaged in certain offenses with respect to controlled
+            substances, will apply to this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12382'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.112
+      </extid>
+      <num st='1'>
+        1413.112
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='524' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='112' psec='' tq='N'>
+              1413.112
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Appeals.
+            </head>
+          </npcatch>
+          <text>
+             Appeal regulations set forth at 
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+               and 
+              <subref title='7' part='780' tq='N'>
+                780 of this title
+              </subref>
+            </aref>
+             apply to determinations made under this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Determinations not eligible for administrative review or appeal.
+            </head>
+          </npcatch>
+          <text>
+             CCC determinations and policies that are not limited to a specific
+            individual producer&apos;s application are not to be construed to be
+            individual program eligibility determinations or adverse decisions
+            and are, therefore, not subject to administrative review or appeal
+            under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='780' tq='N'>
+                780 of this title
+              </subref>
+            </aref>
+             (but nothing in the regulations for this program will limit the
+            ability of the National Appeals Division to decide its own
+            jurisdiction under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+            </aref>
+            ). Such determinations include, but are not limited to, application
+            periods, deadlines, crop years, prices, general statutory or
+            regulatory provisions that apply to similarly situated producers,
+            national average payment prices, and payment factors established by
+            CCC for DWQP for which this subpart applies or similar matters
+            requiring CCC determinations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12383'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.113
+      </extid>
+      <num st='1'>
+        1413.113
+      </num>
+      <head>
+        Deceased individuals or dissolved entities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='113' psec='' tq='N'>
+              1413.113
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Deceased individuals or dissolved entities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Payment may be made for an eligible application on behalf of an
+            eligible producer who is now a deceased individual or is a dissolved
+            entity if a representative who currently has authority to enter into
+            a contract on behalf of the producer signs the application for
+            payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Legal documents showing proof of authority to sign for the deceased
+            individual or dissolved entity must be provided.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If a producer is now a dissolved general partnership or joint
+            venture, all members of the general partnership or joint venture at
+            the time of dissolution or their duly authorized representatives
+            must sign the application for payment.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12384'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1413:A:1413.114
+      </extid>
+      <num st='1'>
+        1413.114
+      </num>
+      <head>
+        Records and inspections.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1413' sect='114' psec='' tq='N'>
+              1413.114
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Records and inspections.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any producer receiving DWQP payments, or any other legal entity or
+            person who provides information for the purposes of enabling a
+            producer to receive a DWQP payment, must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain any books, records, and accounts supporting the
+            information for 3 years following the end of the year during which
+            the request for payment was submitted, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Allow authorized representatives of USDA and the U.S. Government
+            Accountability Office, during regular business hours, to inspect,
+            examine, and make copies of such books or records, and to enter the
+            farm and to inspect and verify all applicable acreage in which the
+            producer has an interest for the purpose of confirming the accuracy
+            of information provided by or for the producer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

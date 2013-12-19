@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol5'>
+    <extid>
+      lii:cfr:2013:7:0:B:III:-:370
+    </extid>
+    <num>
+      370
+    </num>
+    <head>
+      FREEDOM OF INFORMATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              5 U.S.C. 552
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            40 FR 43223
+          </aref>
+          , Sept. 19, 1975, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='5681'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:370:-:370.1
+      </extid>
+      <num st='1'>
+        370.1
+      </num>
+      <head>
+        Scope and purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='370' sect='1' psec='' tq='N'>
+              370.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope and purpose.
+        </SUBJECT>
+        <P>
+          These regulations are issued pursuant to the Freedom of Information
+          Act, as amended (
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              5 U.S.C. 552
+            </subref>
+          </aref>
+          ), and in accordance with the requirements of the Department of
+          Agriculture regulations in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1' tq='N'>
+              1
+            </subref>
+          </aref>
+          , subpart A of this title. The availability of records of the Animal
+          and Plant Health Inspection Service (APHIS), and the procedures by
+          which the public may obtain such information, shall be governed by the
+          Department regulations as implemented by the regulations in this part.
+          It is the policy of APHIS to be an open agency and to promptly make
+          available for public inspection any records or information which are
+          required to be released under the Act. Material which is exempt from
+          disclosure will also be promptly made available when the Agency in its
+          discretion determines that release of such material is in the public
+          interest.
+        </P>
+      </contents>
+    </section>
+    <section orderid='5682'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:370:-:370.2
+      </extid>
+      <num st='1'>
+        370.2
+      </num>
+      <head>
+        Published materials.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          44 FR 53490
+        </aref>
+        , Sept. 14, 1979]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='370' sect='2' psec='' tq='N'>
+              370.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Published materials.
+        </SUBJECT>
+        <P>
+          Rules and regulations of APHIS relating to its regulatory
+          responsibilities are continuously published in the 
+          <E T='04'>
+            Federal Register,
+          </E>
+           and codified in this chapter III, title 7, and in 9 CFR chapter I.
+          APHIS issues publications explaining animal and plant health programs
+          and the laws and regulations, including quarantines, under which the
+          programs are conducted. These publications are, for the most part
+          available free from the Office of Governmental and Public Affairs,
+          USDA, Washington, DC 20250; or, in some cases from the Superintendent
+          of Documents, U.S. Government Printing Office, Washington, DC 20402,
+          at established rates.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            44 FR 53490
+          </aref>
+          , Sept. 14, 1979]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5683'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:370:-:370.3
+      </extid>
+      <num st='1'>
+        370.3
+      </num>
+      <head>
+        Index.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='370' sect='3' psec='' tq='N'>
+              370.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Index.
+        </SUBJECT>
+        <P>
+          Pursuant to the regulations in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='4' psec='#b' tq='N'>
+              1.4(b)
+            </subref>
+             of this title
+          </aref>
+          , APHIS will maintain and make available for public inspection and
+          copying a current index providing identifying information regarding
+          the materials required to be published or made available under the
+          Freedom of Information Act (
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a_2' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a_2'>
+              5 U.S.C. 552(a)(2)
+            </subref>
+          </aref>
+          ). Notice is hereby given that publication of this index is
+          unnecessary and impracticable, since the material is voluminous and
+          does not change often enough to justify the expense of publication.
+        </P>
+      </contents>
+    </section>
+    <section orderid='5684'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:370:-:370.4
+      </extid>
+      <num st='1'>
+        370.4
+      </num>
+      <head>
+        Facilities for inspection and copying.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          44 FR 53490
+        </aref>
+        , Sept. 14, 1979, as amended at 
+        <aref type='FREGIST'>
+          51 FR 30836
+        </aref>
+        , Aug. 29, 1986; 
+        <aref type='FREGIST'>
+          59 FR 67611
+        </aref>
+        , Dec. 30, 1994]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='370' sect='4' psec='' tq='N'>
+              370.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Facilities for inspection and copying.
+        </SUBJECT>
+        <P>
+          Facilities for public inspection and copying of the index and
+          materials required to be made available under 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#c_2' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#c_2'>
+              5 U.S.C. 552(c)(2)
+            </subref>
+          </aref>
+           will be provided by APHIS, on business days between 8 a.m. and 4:30
+          p.m. Requests for this information should be made to the FOIA
+          Coordinator at the following address: 
+        </P>
+        <EXTRACT>
+          <FP SOURCE='FP-1'>
+            Freedom of Information Act Coordinator, Animal and Plant Health
+            Inspection Service, Legislative and Public Affairs, Freedom of
+            Information, 4700 River Road, Unit 50, Riverdale, Maryland
+            20737-1231.
+          </FP>
+        </EXTRACT>
+        <P>
+          Copies of such material may be obtained in person or by mail.
+          Applicable fees for copies will be charged in accordance with the
+          regulations prescribed by the Office of Operations and Finance, USDA,
+          pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2' sect='75' psec='' tq='N'>
+              2.75
+            </subref>
+             of this title
+          </aref>
+          . See 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='10' psec='' tq='N'>
+              1.10
+            </subref>
+          </aref>
+           and appendix A—Fee Schedule in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1' tq='N'>
+              1
+            </subref>
+          </aref>
+          , subtitle A of this title.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            44 FR 53490
+          </aref>
+          , Sept. 14, 1979, as amended at 
+          <aref type='FREGIST'>
+            51 FR 30836
+          </aref>
+          , Aug. 29, 1986; 
+          <aref type='FREGIST'>
+            59 FR 67611
+          </aref>
+          , Dec. 30, 1994]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5685'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:370:-:370.5
+      </extid>
+      <num st='1'>
+        370.5
+      </num>
+      <head>
+        Requests for records.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          40 FR 43223
+        </aref>
+        , Sept. 19, 1975, as amended at 
+        <aref type='FREGIST'>
+          44 FR 53490
+        </aref>
+        , Sept. 14, 1979; 
+        <aref type='FREGIST'>
+          51 FR 30837
+        </aref>
+        , Aug. 29, 1986; 
+        <aref type='FREGIST'>
+          59 FR 67611
+        </aref>
+        , Dec. 30, 1994]
+      </citation>
+      <contents>
+        <PRTPAGE P='527' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='370' sect='5' psec='' tq='N'>
+              370.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requests for records.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for APHIS records or information other than material
+            published or made available under the preceding sections, shall be
+            made in writing in accordance with 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1' sect='3' psec='#a' tq='N'>
+                1.3(a)
+              </subref>
+            </aref>
+             and submitted to the APHIS Freedom of Information Act Coordinator
+            at the following address: 
+          </text>
+        </P>
+        <EXTRACT>
+          <FP SOURCE='FP-1'>
+            Freedom of Information Act Coordinator, (FOIA Request), Animal and
+            Plant Health Inspection Service, Legislative and Public Affairs,
+            Freedom of Information, 4700 River Road, Unit 50, Riverdale,
+            Maryland 20737-1231.
+          </FP>
+        </EXTRACT>
+        <P>
+          The request shall identify each record with reasonable specificity as
+          prescribed in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='3' psec='#b' tq='N'>
+              1.3(b)
+            </subref>
+             of this title
+          </aref>
+          . The APHIS FOIA Coordinator is hereby delegated authority to make
+          determinations with respect to such requests in accordance with 7 CFR.
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The FOIA Coordinator or his designee is authorized to receive
+            requests and to exercise the authority under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1' sect='4' psec='#c' tq='N'>
+                1.4(c)
+              </subref>
+               of this title
+            </aref>
+             to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Make determinations to grant or deny requests,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Extend the administrative deadline,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Make discretionary releases of exempt records, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Make determinations regarding charges pursuant to the fee schedule.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In exercising his authority under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1' sect='4' psec='#c' tq='N'>
+                1.4(c)
+              </subref>
+               of this title
+            </aref>
+             to grant and deny requests, the Coordinator will comply with
+            subsection (b) of the Freedom of Information Act, as amended (
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='#b' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#b'>
+                5 U.S.C. 552(b)
+              </subref>
+            </aref>
+            ), which requires that any reasonably segregable portion of a
+            document shall be provided to a person requesting such document
+            after deletion of any portions which are exempt under the Act.
+            Therefore, unless the disclosable and non-disclosable portions are
+            so inextricably linked that it is not reasonably possible to
+            separate them, the document will be released with the
+            non-disclosable portions deleted, except that the Coordinator may
+            exercise discretion as limited by 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1' sect='11' psec='' tq='N'>
+                1.11
+              </subref>
+               of this title
+            </aref>
+            , to release the entire document, or to make only a minimum number
+            of deletions, e.g., the names of individuals.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            40 FR 43223
+          </aref>
+          , Sept. 19, 1975, as amended at 
+          <aref type='FREGIST'>
+            44 FR 53490
+          </aref>
+          , Sept. 14, 1979; 
+          <aref type='FREGIST'>
+            51 FR 30837
+          </aref>
+          , Aug. 29, 1986; 
+          <aref type='FREGIST'>
+            59 FR 67611
+          </aref>
+          , Dec. 30, 1994]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5686'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:370:-:370.6
+      </extid>
+      <num st='1'>
+        370.6
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          44 FR 53490
+        </aref>
+        , Sept. 14, 1979]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='370' sect='6' psec='' tq='N'>
+              370.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          If the request for information made under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='370' sect='5' psec='' tq='N'>
+              370.5
+            </subref>
+          </aref>
+           is denied in whole or in part, the requester may file an appeal
+          pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='3' psec='#e' tq='N'>
+              1.3(e)
+            </subref>
+             of this title
+          </aref>
+          . The appeal should be in writing and should be addressed as follows: 
+        </P>
+        <EXTRACT>
+          <FP SOURCE='FP-1'>
+            Administrator, Animal and Plant Health Inspection Service (FOIA
+            Appeal), Room 313-E, U.S. Department of Agriculture, Washington, DC
+            20250.
+          </FP>
+        </EXTRACT>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            44 FR 53490
+          </aref>
+          , Sept. 14, 1979]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='5687'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:370:-:370.7
+      </extid>
+      <num st='1'>
+        370.7
+      </num>
+      <head>
+        Agency response to requests.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='370' sect='7' psec='' tq='N'>
+              370.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Agency response to requests.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The response to requests for information and to appeals shall be
+            made in accordance with the Department regulations in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1' sect='5' psec='' tq='N'>
+                1.5
+              </subref>
+               of this title
+            </aref>
+             and the regulations in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for records and information which have customarily been
+            directed to field stations and agency headquarters may continue to
+            be directed to those locations, notwithstanding the provisions of
+            these regulations. If the information is not available at the
+            location at which the request is made, or the official receiving the
+            request is in doubt as to whether the information should be
+            released, the official shall (1) promptly forward the request to the
+            FOIA Coordinator, or (2) inform the requester of the procedures
+            established in these regulations by which the request may be sent
+            directly to the FOIA Coordinator. The date of receipt of the request
+            by the Coordinator shall be the determining date for purposes of the
+            time limitations under the Freedom of Information Act and the
+            regulations.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

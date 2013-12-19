@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol9'>
+    <extid>
+      lii:cfr:2013:7:0:B:X:-:1145
+    </extid>
+    <num>
+      1145
+    </num>
+    <head>
+      DAIRY FORWARD PRICING PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='8772' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/8772.html'>
+              7 U.S.C. 8772
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            73 FR 64871
+          </aref>
+          , Oct. 31, 2008, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='10546'>
+      <extid>
+        lii:cfr:2013:7:0:B:X:-:1145:A:1145.1
+      </extid>
+      <num st='1'>
+        1145.1
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1145' sect='1' psec='' tq='N'>
+              1145.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Program
+            </E>
+             means the dairy forward pricing program as established by 
+            <aref type='UNKNOWN'>
+              Section 1502 of
+            </aref>
+             Public Law No. 110-246.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Eligible milk
+            </E>
+             means the quantity of milk equal to the contracting handler&apos;s
+            Class II, III and IV utilization of producer milk, in product
+            pounds, during the month, combining all plants of a single handler
+            regulated under the same Federal milk marketing order.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Forward contract
+            </E>
+             means an agreement covering the terms and conditions for the sale
+            of Class II, III or IV milk from a producer defined in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1001' sect='12' psec='' tq='N'>
+                1001.12
+              </subref>
+              , 
+              <subref title='7' part='1005' sect='12' psec='' tq='N'>
+                1005.12
+              </subref>
+              , 
+              <subref title='7' part='1006' sect='12' psec='' tq='N'>
+                1006.12
+              </subref>
+              , 
+              <subref title='7' part='1007' sect='12' psec='' tq='N'>
+                1007.12
+              </subref>
+              , 
+              <subref title='7' part='1030' sect='12' psec='' tq='N'>
+                1030.12
+              </subref>
+              , 
+              <subref title='7' part='1032' sect='12' psec='' tq='N'>
+                1032.12
+              </subref>
+              , 
+              <subref title='7' part='1033' sect='12' psec='' tq='N'>
+                1033.12
+              </subref>
+              , 
+              <subref title='7' part='1124' sect='12' psec='' tq='N'>
+                1124.12
+              </subref>
+              , 
+              <subref title='7' part='1126' sect='12' psec='' tq='N'>
+                1126.12
+              </subref>
+              , 
+              <subref title='7' part='1131' sect='12' psec='' tq='N'>
+                1131.12
+              </subref>
+            </aref>
+             or a cooperative association of producers defined in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1000' sect='18' psec='' tq='N'>
+                1000.18
+              </subref>
+            </aref>
+            , and a handler defined in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1000' sect='9' psec='' tq='N'>
+                1000.9
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Contract milk
+            </E>
+             means the producer milk regulated under a Federal milk marketing
+            order covered by a forward contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Disclosure statement
+            </E>
+             means the following statement which must be signed by each producer
+            or cooperative representative entering into a forward contract with
+            a handler before the Federal milk marketing order administrator will
+            recognize the contract as satisfying the provisions of this program.
+          </text>
+        </P>
+        <EXTRACT>
+          <P>
+            Attachment to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1145' sect='1' psec='' tq='N'>
+                1145.1
+              </subref>
+            </aref>
+            , paragraph (e):
+          </P>
+          <HD SOURCE='HD1'>
+            Disclosure Statement
+          </HD>
+          <P>
+            I am voluntarily entering into a forward contract with [insert
+            handler&apos;s name]. I have been given a copy of the contract. By
+            signing this form, I understand that I am forfeiting my right to
+            receive the Federal milk marketing order&apos;s minimum prices for
+            that portion of the milk which is under contract for the duration of
+            the contract. I also understand that this contract milk will be
+            priced in accordance with the terms and conditions of the contract. 
+          </P>
+          <FP SOURCE='FP-DASH'>
+            Printed Name:
+          </FP>
+          <FP SOURCE='FP-DASH'>
+            Signature:
+          </FP>
+          <FP SOURCE='FP-DASH'>
+            Date:
+          </FP>
+          <FP SOURCE='FP-DASH'>
+            Address:
+          </FP>
+          <FP SOURCE='FP-DASH'>
+            Producer Number:
+          </FP>
+        </EXTRACT>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Other definitions.
+            </head>
+          </npcatch>
+          <text>
+             The definition of any term in 
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='1000-1131' tq='N'>
+                1000-1131 of this chapter
+              </subref>
+            </aref>
+             apply to, and are hereby made a part of this part, as appropriate.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='10547'>
+      <extid>
+        lii:cfr:2013:7:0:B:X:-:1145:B:1145.2
+      </extid>
+      <num st='1'>
+        1145.2
+      </num>
+      <head>
+        Program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1145' sect='2' psec='' tq='N'>
+              1145.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any handler defined in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1000' sect='9' psec='' tq='N'>
+                1000.9
+              </subref>
+            </aref>
+             may enter into forward contracts with producers or cooperative
+            associations of producers for the handler&apos;s eligible volume of
+            milk. Milk under forward contract in compliance with the provisions
+            of this part will be exempt from the minimum payment provisions that
+            would apply to such milk pursuant to 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1001' sect='73' psec='' tq='N'>
+                1001.73
+              </subref>
+              , 
+              <subref title='7' part='1005' sect='73' psec='' tq='N'>
+                1005.73
+              </subref>
+              , 
+              <subref title='7' part='1006' sect='73' psec='' tq='N'>
+                1006.73
+              </subref>
+              , 
+              <subref title='7' part='1007' sect='73' psec='' tq='N'>
+                1007.73
+              </subref>
+              , 
+              <subref title='7' part='1030' sect='73' psec='' tq='N'>
+                1030.73
+              </subref>
+              , 
+              <subref title='7' part='1032' sect='73' psec='' tq='N'>
+                1032.73
+              </subref>
+              , 
+              <subref title='7' part='1033' sect='73' psec='' tq='N'>
+                1033.73
+              </subref>
+              , 
+              <subref title='7' part='1124' sect='73' psec='' tq='N'>
+                1124.73
+              </subref>
+              , 
+              <subref title='7' part='1126' sect='73' psec='' tq='N'>
+                1126.73
+              </subref>
+               and 
+              <subref title='7' part='1131' sect='73' psec='' tq='N'>
+                1131.73
+              </subref>
+            </aref>
+             for the period of time covered by the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             No forward price contract may be entered into under the program
+            after September 30, 2012, and no forward contract entered into under
+            the program may extend beyond September 30, 2015.
+            <PRTPAGE P='191' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Forward contracts must be signed and dated by the contracting
+            handler and producer (or cooperative association) prior to the 1st
+            day of the 1st month for which they are to be effective and must be
+            received by the Federal milk market administrator by the 15th day of
+            that month. The disclosure statement must be signed on the same date
+            as the contract by each producer entering into a forward contract,
+            and this signed disclosure statement must be attached to or
+            otherwise included in each contract submitted to the market
+            administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In the event that a handler&apos;s contract milk exceeds the
+            handler&apos;s eligible milk for any month in which the specified
+            contract price(s) are below the order&apos;s minimum prices, the
+            handler must designate which producer milk shall not be contract
+            milk. If the handler does not designate the suppliers of the
+            over-contracted milk, the market administrator shall prorate the
+            over-contracted milk to each producer and cooperative association
+            having a forward contract with the handler.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Payments for milk covered by a forward contract must be made on or
+            before the dates applicable to payments for milk that are not under
+            forward contract under the respective Federal milk marketing order.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Nothing in this part shall impede the contractual arrangements that
+            exist between a cooperative association and its members.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='10548'>
+      <extid>
+        lii:cfr:2013:7:0:B:X:-:1145:C:1145.3
+      </extid>
+      <num st='1'>
+        1145.3
+      </num>
+      <head>
+        Enforcement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1145' sect='3' psec='' tq='N'>
+              1145.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Enforcement.
+        </SUBJECT>
+        <P>
+          A handler may not require participation in a forward pricing contract
+          as a condition of the handler receiving milk from a producer or
+          cooperative association of producers. USDA will investigate all
+          complaints made by producers or cooperative associations alleging
+          coercion by handlers to enter into forward contracts and based on the
+          results of the investigation will take appropriate action.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

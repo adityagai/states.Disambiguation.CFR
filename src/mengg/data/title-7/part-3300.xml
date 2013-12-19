@@ -1,0 +1,3268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXXIII:-:3300
+    </extid>
+    <num>
+      3300
+    </num>
+    <head>
+      AGREEMENT ON THE INTERNATIONAL CARRIAGE OF PERISHABLE FOODSTUFFS AND ON
+      THE SPECIAL EQUIPMENT TO BE USED FOR SUCH CARRIAGE (ATP); INSPECTION,
+      TESTING, AND CERTIFICATION OF SPECIAL EQUIPMENT
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Sec. 4
+          </aref>
+          , 
+          <aref target='_blank' title='Pub. L. 97-325' alt='Pub. L. 97-325' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d97:./list/bd/d97pl.lst:325%28Public_Laws%29'>
+            Pub. L. 97-325
+          </aref>
+          , International Carriage of Perishable Foodstuffs Act (
+          <aref type='USC'>
+            <subref title='7' sect='4403' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/4403.html'>
+              7 U.S.C. 4403
+            </subref>
+          </aref>
+          ).
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            51 FR 33879
+          </aref>
+          , Sept. 24, 1986, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='16378'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:A:3300.1
+      </extid>
+      <num st='1'>
+        3300.1
+      </num>
+      <head>
+        Scope of authority and purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='1' psec='' tq='N'>
+              3300.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope of authority and purpose.
+        </SUBJECT>
+        <P>
+          The International Carriage of Perishable Foodstuffs Act assigns to the
+          Secretary of Agriculture the responsibility for implementation of the
+          Agreement on the International Carriage of Perishable Foodstuffs and
+          on the Special Equipment to be Used for Such Carriage (ATP). The
+          purpose of this rule is to establish procedures for the inspection,
+          testing, and certification of insulated, refrigerated, mechanically
+          refrigerated, and heated transport equipment in accordance with the
+          Act and the standards specified in the Agreement. In the process, the
+          intent is to utilize existing industry organizations and facilities
+          for testing and inspection of equipment. The Secretary is the sole
+          authority to issue certificates of compliance.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16379'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:A:3300.4
+      </extid>
+      <num st='1'>
+        3300.4
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='4' psec='' tq='N'>
+              3300.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the Administrator, Office of Transportation, U.S. Department of
+          Agriculture, whose address is: 1405 Auditors Building, 201 14th
+          Street, SW., Washington, DC 20250.
+          <PRTPAGE P='334' />
+        </P>
+        <P>
+          <E T='03'>
+            ATP
+          </E>
+           means the Agreement on the International Carriage of Perishable
+          Foodstuffs and on the Special Equipment to be Used for Such Carriage
+          (ATP), and the annexes and appendices thereto, done at Geneva,
+          September 1, 1970, under the auspices of the Economic Commission for
+          Europe, and any subsequent amendments thereto. 
+          <SU>
+            1
+          </SU>
+          <FTREF />
+        </P>
+        <FTNT>
+          <P>
+            <SU>
+              1
+            </SU>
+             A copy of the agreement can be obtained by request to the ATP
+            Manager, Office of Transportation, U.S. Department of Agriculture,
+            1405 Auditors Building, 201 14th Street, SW., Washington, DC 20250.
+          </P>
+        </FTNT>
+        <P>
+          <E T='03'>
+            ATP manager
+          </E>
+           means the person designated by the Administrator to manage the
+          program established by this rule, whose address is: ATP Manager,
+          Office of Transportation, U.S Department of Agriculture, 1405 Auditors
+          Building, 201 14th Street, SW., Washington, DC 20250.
+        </P>
+        <P>
+          <E T='03'>
+            Contracting party
+          </E>
+           means a country which is signatory to the ATP.
+        </P>
+        <P>
+          <E T='03'>
+            Domestic owner
+          </E>
+           means an organization incorporated or chartered under the laws of,
+          and with principal office in, the United States, and to which one of
+          the following applies:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The organization owns and operates the equipment directly.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The organization owns and operates the equipment through a wholly
+            owned subsidiary in a foreign country.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The organization is a lessee or bailee of the equipment, and a
+            written lease or bailment provides that the organization is
+            responsible for any inspection, testing, and certification of the
+            equipment with respect to the ATP rule.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Equipment
+          </E>
+           means the special transport equipment that meets the definitions and
+          standards set forth in ATP, Annex 1, including, but not limited to,
+          railcars, trucks, trailers, semitrailers, and intermodal freight
+          containers that have an insulated body only, or an insulated body
+          equipped with a refrigerating, mechanically refrigerating, or heating
+          appliance.
+        </P>
+        <P>
+          <E T='03'>
+            Equipment manufacturer
+          </E>
+           means an organization which producers or assembles the complete unit
+          of equipment, that is, the insulated body with the thermal appliance
+          installed.
+        </P>
+        <P>
+          <E T='03'>
+            Foreign owner
+          </E>
+           means an organization registered under the laws of, or with principal
+          office in, a country outside the United States, and which owns or
+          operates the equipment.
+        </P>
+        <P>
+          <E T='03'>
+            Foreign-ATP certificate
+          </E>
+           means a certificate issued by a foreign country which is a
+          contracting party to the ATP, attesting that the equipment listed in
+          the certificate complies with pertinent standards in the ATP.
+        </P>
+        <P>
+          <E T='03'>
+            Identical mechanical refrigerating appliance
+          </E>
+           means an appliance which is of the same model number and design as
+          the reference mechanical refrigerating appliance.
+        </P>
+        <P>
+          <E T='03'>
+            Insulated body
+          </E>
+           means the six-sided structural component of equipment, consisting of
+          insulated doors, sidewalls, roof, floor, and endwall, inside which
+          perishable foodstuffs are carried.
+        </P>
+        <P>
+          <E T='03'>
+            International carriage
+          </E>
+           means transportation of perishable foodstuffs if such foodstuffs are
+          loaded in equipment or the equipment containing them is loaded onto a
+          rail or road vehicle, in the territory of any country and such
+          foodstuffs are, or the equipment containing them is, unloaded in the
+          territory of another country that is a contracting party, where such
+          transportation is by:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Rail,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Road,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any combination of rail and road, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Any sea crossing of less than one hundred and fifty kilometers, if
+            preceded or followed by one or more land journeys as referred to in
+            clauses (a), (b), and (c) of this definition, and the perishable
+            foodstuffs are shipped in the same equipment used for such land
+            journeys without transloading of such foodstuffs.
+          </text>
+        </P>
+        <FP>
+          In the case of any transportation that involves one or more sea
+          crossings other than as specified in clause (d) of this definition,
+          each land journey shall be considered separately.
+        </FP>
+        <P>
+          <E T='03'>
+            New equipment
+          </E>
+           means equipment produced or assembled on or after the effective date
+          of this rule.
+        </P>
+        <P>
+          <E T='03'>
+            Perishable foodstuffs
+          </E>
+           means the quick deep-frozen and frozen food products listed in Annex
+          2, and the chilled food products listed in Annex 3 to the ATP.
+        </P>
+        <P>
+          <E T='03'>
+            Reference equipment
+          </E>
+           means a unit of equipment which has passed a test in an approved
+          testing station, and can thereby serve as a basis for certification of
+          related serially-produced equipment.
+          <PRTPAGE P='335' />
+        </P>
+        <P>
+          <E T='03'>
+            Reference insulated body
+          </E>
+           means an insulated body which has passed a test in an approved
+          testing station for measurement of the K-coefficient of the body, and
+          can thereby serve as the basis for approval of serially-produced
+          bodies in the case in which the body and the mechanical refrigerating
+          appliance of the equipment are tested separately.
+        </P>
+        <P>
+          <E T='03'>
+            Reference mechanical refrigerating appliance
+          </E>
+           means an appliance which has passed a test in an approved testing
+          laboratory, and can thereby serve as the basis for approval of
+          identical mechanical refrigerating appliances in the case in which the
+          appliance and the insulated body of the equipment are tested
+          separately.
+        </P>
+        <P>
+          <E T='03'>
+            Serially-produced bodies
+          </E>
+           means insulated bodies which meet the definition in ATP, Annex 1
+          Appendix 1, paragraph 2(c)(i).
+        </P>
+        <P>
+          <E T='03'>
+            Serially-produced equipment
+          </E>
+           means equipment of a specific type (container, semi-trailer, trailer,
+          truck, or container), which meets the definition in ATP, Annex 1,
+          Appendix 1, paragraphs 2(c), (i), (ii), (iii), and (iv).
+        </P>
+        <P>
+          <E T='03'>
+            Thermal appliance
+          </E>
+           means the refrigerating, mechanical refrigerating, or heating
+          appliance which is installed in the insulated body of the equipment.
+        </P>
+        <P>
+          <E T='03'>
+            United States
+          </E>
+           means the fifty States of the United States, the District of
+          Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the
+          Virgin Islands of the United States, the Commonwealth of the Northern
+          Mariana Islands, and any other territory or possession of the United
+          States.
+        </P>
+        <P>
+          <E T='03'>
+            U.S. ATP certificate
+          </E>
+           means a certificate issued by the U.S. Department of Agriculture,
+          attesting that the equipment listed in the certificate complies with
+          pertinent standards in the ATP.
+        </P>
+        <P>
+          <E T='03'>
+            U.S. ATP testing laboratory
+          </E>
+           means a facility in the United States which has been approved by the
+          Administrator to conduct tests of mechanical refrigerating appliances.
+        </P>
+        <P>
+          <E T='03'>
+            U.S. ATP testing station
+          </E>
+           means a facility in the United States which has been approved by the
+          Administrator to conduct tests of equipment.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16380'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:B:3300.7
+      </extid>
+      <num st='1'>
+        3300.7
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='7' psec='' tq='N'>
+              3300.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Testing of equipment according to the ATP is basically done in two
+          phases:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Measurement of the insulating capacity, that is, the K-coefficient,
+            of the insulated body.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Determination of the efficiency of the thermal appliance as
+            installed in the insulated body. In the case of mechanically
+            refrigerated equipment, the mechanical refrigerating appliance may
+            be tested separate from the body.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16381'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:B:3300.10
+      </extid>
+      <num st='1'>
+        3300.10
+      </num>
+      <head>
+        Measurement of the K-coefficient of an insulated body.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='10' psec='' tq='N'>
+              3300.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Measurement of the K-coefficient of an insulated body.
+        </SUBJECT>
+        <P>
+          The K-coefficient shall be measured according to the procedures in
+          ATP, Annex 1, Appendix 2, paragraphs 1-28, and the following shall
+          apply:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The internal heating method shall be used.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In ATP, Annex 1, Appendix 2, paragraph 8, last line, “about +20 °C
+            for the mean temperature of the walls of the body shall be
+            interpreted to mean between +19 °C (+66 °F) and 21 °C (+70 °F).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A report of each test shall be completed on a form corresponding to
+            the pertinent test report model prescribed in ATP, Annex 1, Appendix
+            2. Report forms may be obtained by a request to the ATP manager.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16382'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:B:3300.13
+      </extid>
+      <num st='1'>
+        3300.13
+      </num>
+      <head>
+        Determination of the efficiency of the thermal appliances as installed
+        in the insulated body.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='13' psec='' tq='N'>
+              3300.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determination of the efficiency of the thermal appliances as installed
+          in the insulated body.
+        </SUBJECT>
+        <P>
+          In determining the efficiency of a thermal appliance with respect to
+          maintaining a prescribed temperature inside the body, the procedures
+          in ATP, Annex 1, Appendix 2, paragraphs 31-40 and 43-47 shall be used.
+          A report of each test shall be completed on a form corresponding to
+          the pertinent test report model prescribed in ATP, Annex 1, Appendix
+          2. Report forms may be obtained by a request to the ATP manager.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16383'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:C:3300.16
+      </extid>
+      <num st='1'>
+        3300.16
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='16' psec='' tq='N'>
+              3300.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Any public or private organization incorporated or chartered under the
+          laws of, and with principal office in, the United States may apply to
+          have one or more of its facilities in the United States designated as
+          a U.S. ATP testing station.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16384'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:C:3300.19
+      </extid>
+      <num st='1'>
+        3300.19
+      </num>
+      <head>
+        Application for approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='19' psec='' tq='N'>
+              3300.19
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for approval.
+        </SUBJECT>
+        <P>
+          An application by an officer of the organization shall be submitted to
+          the Administrator for each facility for which approval is sought.
+          Copies of the Form, Application for Approval as a U.S. ATP Testing
+          Station, may be obtained by a request to the ATP manager. The
+          following information must be supplied in the application:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the organization is incorporated or chartered
+            under the laws of, and that it has its principal office in, the
+            United States, including the name, address, and telephone number of
+            the principal office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The address and telephone number of the testing station, and name
+            and title of person in charge of the station.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A summary of experience at the facility which would indicate the
+            capability to conduct tests of equipment according to Subpart B of
+            this rule.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A general description of the station, including drawings on letter
+            size (8 
+            <FR>
+              1/2
+            </FR>
+             × 11 inches) paper to show the floor plan and cross-sections of the
+            test chamber, basic dimensions, location of heat exchangers and
+            instruments, and any other pertinent information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             An indication of which of the following types of equipment, as
+            defined in ATP, Annex 1, that the station is capable of testing:
+            intermodal freight containers, semi-trailers, trailers, railcars,
+            and trucks.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the ATP manager or other representative of the
+            Administrator may, before a decision is made concerning the
+            application, observe a test at the station of a Class “C”
+            mechanically refrigerated container or semi-trailer, with Class “C”
+            being defined as in ATP, Annex 1, paragraph 3.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the station will be open to public use, that is,
+            to manufacturers and owners of equipment which may apply to have
+            equipment tested.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the fees to be charged by the organization for
+            testing will be reasonable with respect to costs involved, and that
+            such fees will be payable directly to the organization by those who
+            seek testing of their equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the station will maintain records of basic data
+            developed in each test conducted under this rule, such records to be
+            available for review by the ATP manager or other representative of
+            the Administrator upon request. The record for each test shall be
+            maintained for a period of three years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the organization will advise the ATP manager as
+            soon as practicable of its intent to conduct a test under this rule
+            and that it will, as soon as possible, advise when a firm test date
+            has been set so that the ATP manager or other representative of the
+            Administrator may observe the test.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the organization will send to the ATP manager a
+            copy of each test report for equipment tested at the station
+            according to this rule, within 30 days after completion of the test.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that, should any significant change occur in the
+            facility with respect to structure or test equipment as a result of
+            redesign or other cause during the period of approval, the
+            organization will so advise the ATP manager within 30 days after
+            such change.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+          </npcatch>
+          <text>
+             Any other pertinent information.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16385'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:C:3300.22
+      </extid>
+      <num st='1'>
+        3300.22
+      </num>
+      <head>
+        Response to application for approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='22' psec='' tq='N'>
+              3300.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Response to application for approval.
+        </SUBJECT>
+        <P>
+          The Administrator will, within 30 days of receipt of the application
+          and any relevant information required, advise the applicant whether or
+          not the facility is approved as a testing station. Approval is for a
+          5-year period.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16386'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:C:3300.25
+      </extid>
+      <num st='1'>
+        3300.25
+      </num>
+      <head>
+        Application for renewal of approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='25' psec='' tq='N'>
+              3300.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for renewal of approval.
+        </SUBJECT>
+        <P>
+          If an organization wishes to have an approval renewed at the end of a
+          5-year 
+          <PRTPAGE P='337' />
+          period, it shall submit a request for renewal to the Administrator 90
+          days before expiration of the existing approval. The request for
+          renewal shall contain the same type of information as required in the
+          original application, that is, the information called for in 
+          <aref type='UNKNOWN'>
+            § 3300.19 of
+          </aref>
+           subpart C.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16387'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:C:3300.28
+      </extid>
+      <num st='1'>
+        3300.28
+      </num>
+      <head>
+        Response to application for renewal of approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='28' psec='' tq='N'>
+              3300.28
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Response to application for renewal of approval.
+        </SUBJECT>
+        <P>
+          The Administrator will, within 30 days of receipt of application and
+          any relevant information required, advise the applicant whether or not
+          approval is renewed. A renewal is good for 5 years.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16388'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:C:3300.31
+      </extid>
+      <num st='1'>
+        3300.31
+      </num>
+      <head>
+        Termination of approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='31' psec='' tq='N'>
+              3300.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Termination of approval.
+        </SUBJECT>
+        <P>
+          An approved testing station may at any time withdraw as an approved
+          testing station by written notice to the Administrator. Similarly, the
+          Administrator may suspend or terminate for cause the approved status
+          of a testing station by written notice to the organization, setting
+          forth the reasons for such action. Examples of causes for suspension
+          or termination of approval of a testing station would be a change in
+          equipment or operations at the station which would render the station
+          incapable of performing tests according to the standards in the ATP,
+          or noncompliance of the station with pertinent portions of this rule.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16389'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:D:3300.34
+      </extid>
+      <num st='1'>
+        3300.34
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='34' psec='' tq='N'>
+              3300.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          ATP, Annex 1, Appendix 2, paragraph 41, provides that approval of
+          mechanically refrigerated equipment may be done on the basis of
+          separate testing of the mechanical refrigerating appliance.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16390'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:D:3300.37
+      </extid>
+      <num st='1'>
+        3300.37
+      </num>
+      <head>
+        Testing of a mechanical refrigerating appliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='37' psec='' tq='N'>
+              3300.37
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Testing of a mechanical refrigerating appliance.
+        </SUBJECT>
+        <P>
+          For separate testing of a mechanical refrigerating appliance, the
+          following shall pertain:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The calibrated-box method shall be used, as set forth in ARI
+            Standard 1110, Standard for Mechanical Refrigeration Units, of the
+            Air-Conditioning and Refrigeration Institute.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The appliance shall be rated according to the class, or classes, of
+            service for which the appliance is intended, with classes being
+            defined as in ATP, Annex 1, paragraph 3.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A report of each test shall be completed on a form corresponding to
+            the pertinent test report model prescribed in ATP, Annex 1, Appendix
+            2. Report forms may be obtained by a request to the ATP manager.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16391'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:E:3300.40
+      </extid>
+      <num st='1'>
+        3300.40
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='40' psec='' tq='N'>
+              3300.40
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Any public or private organization incorporated or chartered under the
+          laws of, and with principal office in, the United States may apply to
+          have one or more of its facilities in the United States designated as
+          a U.S. ATP testing laboratory.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16392'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:E:3300.43
+      </extid>
+      <num st='1'>
+        3300.43
+      </num>
+      <head>
+        Application for approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='43' psec='' tq='N'>
+              3300.43
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for approval.
+        </SUBJECT>
+        <P>
+          An application by an officer of the organization shall be submitted to
+          the Administrator for each facility for which approval is sought.
+          Copies of the Form, Application for Approval as a U.S. ATP Testing
+          Laboratory, may be obtained by a request to the ATP manager. The
+          following information must be supplied in the application:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the organization is incorporated or chartered
+            under the laws of, and that it has its principal office in, the
+            United States, including the address and telephone number of the
+            principal office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The address and telephone number of the testing laboratory, and
+            name and title of person in charge of the laboratory.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A summary of the experience at the facility which would indicate a
+            capability to conduct tests of mechanical refrigerating appliances
+            according to subpart D of this rule.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A general description of the laboratory, including drawings on
+            letter size (8
+            <FR>
+              1/2
+            </FR>
+             × 11 inches) paper to show the floor plan and cross-section of the
+            test chamber, basic dimensions, location of heat exchangers and
+            instruments, and any other pertinent information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the ATP manager or other representative of the
+            Administrator may, before a decision is 
+            <PRTPAGE P='338' />
+            made concerning the application, observe a test at the laboratory of
+            a mechanical refrigerating appliance for a Class “C” mechanically
+            refrigerated container or trailer, with Class “C” as defined in ATP,
+            Annex 1, paragraph 3.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the laboratory will maintain records of basic data
+            developed in each test conducted under this rule, such records to be
+            available for review by the ATP manager or other representative of
+            the Administrator, upon request. The record for each test shall be
+            maintained for a period of three years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the organization will advise the ATP manager as
+            soon as practicable of its intent to conduct a test under this rule
+            and that it will, as soon as possible, advise when a firm test has
+            been set so that the ATP manager or other representative of the
+            Administrator may observe the test.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the organization will send to the ATP manager a
+            copy of each test report for an appliance tested at the laboratory
+            according to this rule, within 30 days after completion of the test.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that, should any significant change occur in the
+            facility with respect to structure or test equipment as a result of
+            redesign or other cause during the period of approval, the
+            organization will so advise the ATP manager within 30 days after
+            such change.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             Any other pertinent information.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16393'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:E:3300.46
+      </extid>
+      <num st='1'>
+        3300.46
+      </num>
+      <head>
+        Response to application for approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='46' psec='' tq='N'>
+              3300.46
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Response to application for approval.
+        </SUBJECT>
+        <P>
+          The Administrator will, within 30 days of receipt of an application
+          and any relevant information required, advise the applicant whether or
+          not the facility is approved as a testing laboratory. Approval is for
+          a 5-year period from date of approval.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16394'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:E:3300.49
+      </extid>
+      <num st='1'>
+        3300.49
+      </num>
+      <head>
+        Application for renewal of approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='49' psec='' tq='N'>
+              3300.49
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for renewal of approval.
+        </SUBJECT>
+        <P>
+          If an organization wishes to have an approval renewed at the end of a
+          5-year period, it shall submit a request for renewal to the
+          Administrator 90 days before expiration of the existing approval. The
+          request for renewal shall contain the same type of information as
+          required in the original application, that is, the information called
+          for in 
+          <aref type='UNKNOWN'>
+            § 3300.43 of
+          </aref>
+           subpart E.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16395'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:E:3300.52
+      </extid>
+      <num st='1'>
+        3300.52
+      </num>
+      <head>
+        Response to application for renewal of approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='52' psec='' tq='N'>
+              3300.52
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Response to application for renewal of approval.
+        </SUBJECT>
+        <P>
+          The Administrator will, within 30 days of receipt of application and
+          any relevant information required, advise the applicant whether or not
+          approval is renewed. A renewal extends the period of approval for 5
+          years.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16396'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:E:3300.55
+      </extid>
+      <num st='1'>
+        3300.55
+      </num>
+      <head>
+        Termination of approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='55' psec='' tq='N'>
+              3300.55
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Termination of approval.
+        </SUBJECT>
+        <P>
+          An approved testing laboratory may at any time withdraw as an approved
+          testing laboratory by written notice to the Administrator. Similarly,
+          the Administrator may suspend or terminate for cause the approved
+          status of a testing laboratory by written notice to the organization,
+          setting forth the reasons for such action. Examples of causes for
+          suspension or termination of approval would be a change in equipment
+          or operations at the laboratory which would render it incapable of
+          performing tests according to the standards in the ATP, or
+          noncompliance of the laboratory with pertinent portions of this rule.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16397'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:F:3300.58
+      </extid>
+      <num st='1'>
+        3300.58
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='58' psec='' tq='N'>
+              3300.58
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          The following shall apply for certification of new equipment:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Domestic owners are eligible to receive U.S. ATP certificates for
+            equipment produced or assembled in the United States or in a foreign
+            country.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Foreign owners are eligible to receive U.S. ATP certificates only
+            for equipment produced or assembled in the United States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment manufactured (
+            <E T='03'>
+              i.e.
+            </E>
+            , produced or assembled) in the United States:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             When the complete unit of equipment is tested, the test shall be
+            performed in a U.S. ATP testing station.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             When the mechanical refrigerating appliance and the insulated body
+            are tested separately, such tests shall be performed in approved
+            testing facilities in the United States or in test facilities
+            located in, and approved by, a foreign country which is a
+            Contracting Party.
+            <PRTPAGE P='339' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment manufactured in a foreign country which is a
+            Contracting Party, a domestic owner may receive a U.S. ATP
+            certiticate in exchange for the Foreign-ATP certificate issued by
+            the country of manufacture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment manufactured in a foreign country which is not a
+            Contracting Party, tests shall be performed in approved testing
+            facilities in the United States or in facilities located in and
+            approved by a foreign country which is a Contracting Party.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             In accordance with ATP, Annex 1, Appendix 1, paragraphs 2(a) and
+            (d), the validity of a test report for a reference equipment shall
+            expire at the end of a period of 3 years or at the end of the
+            manufacture of 1,000 units of serially-produced equipment, whichever
+            occurs first.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The validity of a test report for a reference mechanical
+            refrigerating appliance shall expire at the end of a period of three
+            years, or at the end of the manufacture of 1,000 identical
+            mechanical refrigerating appliances, whichever occurs first.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The validity of a test report for a reference insulated body shall
+            expire at the end of a period of three years, or at the end of the
+            manufacture of 1,000 serially-produced bodies, whichever occurs
+            first.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Serially-produced equipment shall be produced or assembled by the
+            same manufacturer and at the same manufacturing plant as the
+            reference equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             Identical mechanical refrigerating appliances shall be manufactured
+            by the same manufacturer and at the same manufacturing plant as the
+            reference mechanical refrigerating appliance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             Serially-produced bodies shall be manufactured by the same
+            manufacturer and at the same manufacturing plant as the reference
+            insulated body.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+             Equipment manufacturers shall notify the ATP manager 30 days before
+            start of manufacture so that the ATP manager or other representative
+            of the Administrator may observe the manufacturing operation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+          </npcatch>
+          <text>
+             Owners who receive a U.S. ATP certificate have the responsibility
+            to manitain the equipment in good repair and operating condition
+            with the understanding that the certificate is valid only so long
+            as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='m_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The insulated body and the thermal appliance are maintained in good
+            condition;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='m_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             No material alteration is made to the thermal appliance which
+            decreases its refrigerating capacity, and;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='m_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the thermal appliance is replaced, it is replaced by an
+            appliance of equal or greater refrigerating capacity.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16398'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:F:3300.61
+      </extid>
+      <num st='1'>
+        3300.61
+      </num>
+      <head>
+        Testing and verification requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='61' psec='' tq='N'>
+              3300.61
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Testing and verification requirements.
+        </SUBJECT>
+        <P>
+          In accordance with ATP, Annex 1, Appendix 1, paragraphs 1, 1(a), 2(a),
+          2(b), 2(c) and 3, and Appendix 2, paragraph 41, certification of new
+          equipment is based upon the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For a unit of equipment, a test of the equipment in an approved
+            testing station.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For serially-produced equipment:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A test of one unit of equipment in an approved testing station,
+            such unit to serve as the reference equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Verification that production of other units of equipment is in
+            conformity with the reference equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For mechanically refrigerated equipment, certification may be based
+            upon a separate test of the mechanical refrigerating appliance and a
+            separate test of the insulated body.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16399'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:F:3300.64
+      </extid>
+      <num st='1'>
+        3300.64
+      </num>
+      <head>
+        Application for certificate for new equipment produced or assembled in
+        the United States or in a foreign country which is not a contracting
+        party to the ATP.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='64' psec='' tq='N'>
+              3300.64
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for certificate for new equipment produced or assembled in
+          the United States or in a foreign country which is not a contracting
+          party to the ATP.
+        </SUBJECT>
+        <P>
+          Application for certification shall be submitted to the ATP manager by
+          an officer in the organization of the owner of the equipment. In the
+          case of equipment manufactured in the United States, application may
+          be made by an officer in the organization of the equipment
+          manufacturer, acting on behalf of the owner. Copies of the Form,
+          Application for U.S. ATP Certificate for New Equipment Produced or
+          Assembled in the United States or in a Foreign Country Which is not a
+          Contracting Party to the ATP, may be obtained by a request to the ATP
+          manager. The following information must be supplied in the
+          application:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A statement whether the owner is a domestic owner or a foreign
+            owner, with the name, address and telephone 
+            <PRTPAGE P='340' />
+            number of its principal office, and the name and title of person to
+            contact.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the operator of the equipment is different from the owner, the
+            name and address of the operator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Type of equipment (intermodal freight container, semi-trailer,
+            trailer, railcar, or truck).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Total number of units of equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Definition and distinguishing mark of the equipment for which
+            certification is sought, referring to ATP, Annex 1, paragraph 3 and
+            Appendix 4.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Name, address, and telephone number of the principal office of the
+            equipment manufacturer, and name and title of the person to contact.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address of the plant at which the equipment was
+            manufactured.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a unit of equipment (
+            <E T='03'>
+              i.e.
+            </E>
+            , the insulated body with its mechanical refrigerating appliance
+            installed) that has been tested to serve as the reference equipment
+            for serially-produced equipment:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the test report for the
+            reference equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For the serially-produced equipment:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The manufacturer&apos;s make and model number for the equipment,
+            including a brief description of the equipment and enclosure of any
+            brochure on the equipment which might be available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The basis upon which the equipment meets the definition of
+            serially-produced equipment, with respect to the reference
+            equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the equipment was manufactured at the same plant
+            at which the reference equipment was manufactured.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that production of the equipment was in conformity with
+            the reference equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             In the case where the mechanical refrigerating appliance and the
+            insulated body have been tested separately:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For the reference mechanical refrigerating appliance:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the test report.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             From the test report, the effective refrigerating capacity, W, in
+            watts, of the appliance at an outside temperature of +30 °C and the
+            inside temperature (
+            <E T='03'>
+              see
+            </E>
+             ATP, Annex 1, paragraph 3 and Appendix 4) for the class of
+            equipment for which certification is sought. “W” must be equal to,
+            or greater than, the increased heat transfer rate, H
+            <E T='52'>
+              i
+            </E>
+            , for the reference insulated body. See paragraph (3)(iii) below.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For the identical mechanical refrigerating appliances:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address of the plant at which the identical appliances and
+            reference appliance were manufactured.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The manufacturer&apos;s make, model number, and a brief description
+            of the appliances with enclosure of any brochure on the appliances
+            which might be available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the appliances meet the definition of identical
+            mechanical refrigerating appliances.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For the reference insulated body:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the test report.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The total heat transfer rate of the body, H
+            <E T='52'>
+              t
+            </E>
+            =S×K×Δ T, in watts, where: “S” is the mean surface area of the body,
+            from the test report; “K” is the heat transfer coefficient of the
+            body, from the test report; and, “Δ T” is the difference in degrees
+            Kelvin between an outside temperature of +30 °C and the inside
+            temperature for the class of equipment for which certification is
+            sought.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The increased beat transfer rate, H
+            <E T='52'>
+              i
+            </E>
+            , obtained by multiplying the total heat transfer rate H
+            <E T='52'>
+              t
+            </E>
+            , by the factor of 1.75.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For the serially-produced insulated bodies:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address of the plant at which the serially-produced bodies
+            and reference body were manufactured.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The manufacturer&apos;s make, model number, and a brief description
+            of the bodies, with any brochure on the bodies which might be
+            available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The basis upon which the bodies meet the definition of
+            serially-produced bodies, with respect to the reference insulated
+            body.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_4_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that production of the bodies was in conformity with
+            the reference insulated body.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             Information on the equipment after manufacture:
+            <PRTPAGE P='341' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that each mechanical refrigerating appliance, after it
+            was installed in the body, was operated and thoroughly checked and
+            that each appliance functioned properly.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that each body and each appliance has affixed to it a
+            manufacturer&apos;s plate or other means of identification which
+            shows the items of information required by ATP, Annex 1, paragraph
+            6.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that each unit of equipment, before it is put into
+            service, will have affixed to it a certification plate and
+            distinguishing mark as specified in ATP, Annex 1, Appendix 1,
+            paragraphs 4 and 5, and Appendixes 3 and 4.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A list showing, for each unit of equipment, the serial number of
+            the body and the corresponding owner&apos;s equipment identification
+            number.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16400'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:F:3300.67
+      </extid>
+      <num st='1'>
+        3300.67
+      </num>
+      <head>
+        Application for certificate for new equipment produced or assembled in a
+        foreign country which is a contracting party to the ATP.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='67' psec='' tq='N'>
+              3300.67
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for certificate for new equipment produced or assembled in
+          a foreign country which is a contracting party to the ATP.
+        </SUBJECT>
+        <P>
+          An application for certification of equipment shall be submitted to
+          the ATP manager by an officer in the organization of the owner of the
+          equipment. Copies of the Form, Application for U.S. ATP Certificate
+          for New Equipment Produced or Assembled in a Foreign Country Which is
+          a Contracting Party, may be obtained by a request to the ATP manager.
+          The following information must be submitted in the application:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the owner is a domestic owner, with the name,
+            address and telephone number of its principal office, and the name
+            and title of the person to contact.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the operator of the equipment is different from the owner, the
+            name and address of the operator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The type of equipment (intermodal freight container, trailer,
+            semi-trailer, railcar, or truck.)
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Total number of units of equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Definition of the equipment for which certification is sought,
+            referring to ATP, Annex 1, paragraph 3, and Appendix 4.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Name, address, and telephone number of the manufacturer of the
+            equipment, and the name and title of the person to contact.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The manufacturer&apos;s make and model number for the equipment,
+            including a brief description of the equipment and any brochure on
+            the equipment which might be available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the test report for the
+            reference equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the Foreign-ATP certificate
+            issued for the equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that each unit of equipment, before it is put into
+            service, will have affixed to it a certification plate and
+            distinguishing mark as specified in ATP, Annex 1, Appendix 1,
+            paragraphs 4 and 5, and Appendixes 3 and 4.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             A list showing, for each unit of equipment, the serial number of
+            the body and the corresponding owner&apos;s equipment identification
+            number.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16401'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:F:3300.70
+      </extid>
+      <num st='1'>
+        3300.70
+      </num>
+      <head>
+        Issuance of certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='70' psec='' tq='N'>
+              3300.70
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of certificate.
+        </SUBJECT>
+        <P>
+          The ATP manager will evaluate the documents received and, for
+          equipment deemed qualified, will issue a U.S. ATP certificate to the
+          applicant within 30 days of the receipt of an application and any
+          relevant information required. The certificate will be in the format
+          prescribed in ATP, Annex 1, Appendix 3. For equipment deemed not
+          qualified, the applicant will be advised of the reasons for
+          non-qualification within 30 days of the receipt of an application and
+          any relevant information required.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16402'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:F:3300.73
+      </extid>
+      <num st='1'>
+        3300.73
+      </num>
+      <head>
+        Period of validity of certificates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='73' psec='' tq='N'>
+              3300.73
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Period of validity of certificates.
+        </SUBJECT>
+        <P>
+          In accordance with ATP, Annex 1, Appendix 1, paragraphs 1(a) and 1(b),
+          certificates issued for new equipment are valid for a period of 6
+          years from date of issue.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16403'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:G:3300.76
+      </extid>
+      <num st='1'>
+        3300.76
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='76' psec='' tq='N'>
+              3300.76
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Only domestic owners are eligible to receive U.S. ATP certificates for
+          equipment in service, with certification based upon the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment which has not previously been certified:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For each unit of equipment, a test in a U.S. ATP testing station or
+            in a testing station located in and approved by a country which is a
+            Contracting 
+            <PRTPAGE P='342' />
+            Party, to measure the K-coefficient of the insulated body and the
+            efficiency of the thermal appliance in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3300' sect='10' psec='' tq='N'>
+                3300.10
+              </subref>
+            </aref>
+             and 
+            <aref type='UNKNOWN'>
+              § 3300.13 of
+            </aref>
+             this rule.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the equipment consists of serially-produced equipment
+            manufactured by a particular equipment manufacturer, and belonging
+            to one owner, certification may be based upon the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A test of 1 percent of the units of equipment as prescribed in
+            preceding paragraph (a)(1) of this section, the units tested to
+            serve as reference equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             An inspection of each unit of equipment, using the procedures set
+            forth in ATP, Annex 1, Appendix 2, paragraphs 29 and 49. The
+            inspections shall be performed by one of the following, at the
+            choice of the owner:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Persons in the owner&apos;s organization whom the owner deems
+            qualified to perform inspections, or;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             By an independent inspection agency which the owner deems competent
+            to perform inspections. Fees charged by such inspection agency shall
+            be payable directly to the agency by the owner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             A report of each inspection shall be completed on a form
+            corresponding to the pertinent test report model in ATP, Annex 1,
+            Appendix 2. Report forms may be obtained by a request to the ATP
+            manager.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For renewal of a U.S. ATP certificate which is nearing its
+            expiration date, any of the following three procedures:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For each unit of equipment, a test as prescribed in preceding
+            paragraph (a)(1) of this section, or;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the equipment is serially-produced by a particular manufacturer
+            and belongs to one owner, test and inspection of the equipment
+            according to the procedures prescribed in preceding paragraphs
+            (a)(2)(i), (ii), and (iii) of this section, or;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             An inspection of each unit of equipment as prescribed in paragraphs
+            (a)(2)(ii) and (iii) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment which is currently certified according to a U.S. ATP
+            certificate, and which has been transferred from one domestic owner
+            to another, the new owner may obtain a U.S. ATP certificate by
+            submitting the original or certified true copy of the certificate
+            issued to the previous owner, and by performing an inspection and
+            submitting an inspection report for each unit of equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment which is currently certified according to a
+            Foreign-ATP certificate, and which has been transferred from a
+            foreign owner to a domestic owner, the domestic owner may obtain a
+            U.S. ATP certificate by submitting the original or certified true
+            copy of the test report for the reference equipment and the original
+            or certified true copy of the foreign certificate, and by performing
+            an inspection and submitting an inspection report for each unit of
+            equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Owners who receive a U.S. ATP certificate have the responsibility
+            to maintain equipment in good repair and operating condition with
+            the understanding that the certificate is valid only so long as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The insulated body and the thermal appliance are maintained in good
+            condition;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             No material alteration is made to the thermal appliance which
+            decreases its refrigeration capacity, and;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the thermal appliance is replaced, it is replaced by an
+            appliance of equal or greater refrigerating capacity.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16404'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:G:3300.79
+      </extid>
+      <num st='1'>
+        3300.79
+      </num>
+      <head>
+        Application for certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='79' psec='' tq='N'>
+              3300.79
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for certificate.
+        </SUBJECT>
+        <P>
+          An application shall be submitted to the ATP manager by an officer in
+          the organization of the owner of the equipment. Copies of the Form,
+          Application for U.S. ATP Certificate for Equipment in Service, may be
+          obtained by a request to the ATP manager. The following information is
+          requested in the application:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the owner is a domestic owner, with the name,
+            address, and telephone number of its principal office, and name and
+            title of person to contact.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the operator of the equipment is different from the owner, the
+            name and address of the operator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The type of equipment (intermodal freight container, trailer,
+            semi-trailer, railcar, or truck).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The total number of units of equipment.
+            <PRTPAGE P='343' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The definition of the equipment for which certification is sought,
+            referring to ATP, Annex 1, paragraph 3 and Appendix 4.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment which has not been previously certified, one of the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For each unit of equipment, the original or certified true copy of
+            the test report, or;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the equipment is serially-produced by one manufacturer:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Name of manufacturer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the test report(s) of 1
+            percent of the equipment which was tested to serve as reference
+            equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             A report of inspection for each unit of equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             For renewal of a U.S. ATP Certificate which is nearing its
+            expiration date:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of that certificate, and;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             One of the following, (i) (ii), or (iii):
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             For each unit of equipment, the original or certified true copy of
+            the test report.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If the equipment is serially-produced by one manufacturer:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='g_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Name of manufacturer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='g_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the test report(s) of 1
+            percent of the equipment which was tested to serve as reference
+            equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='g_2_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             A report of inspection from each unit of equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             A report of inspection for each unit of equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment which is currently certified according to a U.S. ATP
+            certificate, and which has been transferred from one domestic owner
+            to another:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of that certificate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A report of inspection for each unit of equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment which is currently certified according to a
+            Foreign-ATP certificate, and which has been transferred from a
+            foreign owner to a domestic owner:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the test report for the
+            reference equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The original or certified true copy of the Foreign-ATP certificate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A report of inspection for each unit of equipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that each unit of equipment has, or will have, affixed
+            to it a certification plate and distinguishing mark as prescribed in
+            ATP, Annex 1, Appendix 1, paragraphs 4 and 5, and Appendices 3 and
+            4.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             A list showing, for each unit of equipment, the serial number of
+            the body and the corresponding owner&apos;s equipment identification
+            number.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16405'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:G:3300.82
+      </extid>
+      <num st='1'>
+        3300.82
+      </num>
+      <head>
+        Issuance of certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='82' psec='' tq='N'>
+              3300.82
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of certificate.
+        </SUBJECT>
+        <P>
+          The ATP manager will evaluate documents received and, for equipment
+          deemed qualified, will issue a U.S. ATP certificate to the applicant
+          within 30 days of receipt of the application and any relevant
+          information required. The certificate will be in the format prescribed
+          in ATP, Annex 1, Appendix 3. For equipment deemed not qualified, the
+          applicant will be advised of reasons for non-qualification within 30
+          days of receipt of an application and any relevant information
+          required.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16406'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:G:3300.85
+      </extid>
+      <num st='1'>
+        3300.85
+      </num>
+      <head>
+        Period of validity of certificates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='85' psec='' tq='N'>
+              3300.85
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Period of validity of certificates.
+        </SUBJECT>
+        <P>
+          In accordance with ATP, Annex 1, Appendix 1, paragraphs 1(b), and
+          Appendix 2, paragraphs 29(c) and 49(b) and (d), considered in
+          combination, certificates will be valid for periods as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment which passes a test, 6 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For serially-produced equipment of which 1 percent have passed a
+            test, and all units have been inspected and passed such inspection,
+            6 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For renewal of a U.S. ATP certificate which is nearing its
+            expiration date, where the equipment has passed an inspection but
+            has not been tested, 3 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment currently certified according to a U.S. ATP
+            certificate, where the equipment has been transferred from one
+            domestic owner to another and the equipment has passed an
+            inspection, 3 years or the date of expiration of the current U.S.
+            ATP certificate, whichever gives the later expiration date on the
+            new U.S. ATP certificate.
+            <PRTPAGE P='344' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             For equipment currently certified according to a Foreign-ATP
+            certificate, where the equipment has been transferred from a foreign
+            owner to a domestic owner and the equipment has passed an
+            inspection, 3 years or the date of expiration of the foreign
+            certificate, whichever gives the later expiration date on the newly
+            issued U.S. ATP certificate.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16407'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:H:3300.88
+      </extid>
+      <num st='1'>
+        3300.88
+      </num>
+      <head>
+        Fees for U.S. ATP certificates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='88' psec='' tq='N'>
+              3300.88
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees for U.S. ATP certificates.
+        </SUBJECT>
+        <P>
+          The fee schedule for issuance of U.S. ATP certificates by the U.S.
+          Department of Agriculture will be calculated according to the criteria
+          in Circular A-25 
+          <SU>
+            2
+          </SU>
+          <FTREF />
+          , issued by the Office of Management and Budget. Fees may be revised
+          as required on an annual basis.
+        </P>
+        <FTNT>
+          <P>
+            <SU>
+              2
+            </SU>
+             A copy of Circular A-25 can be obtained by a request to the Office
+            of Management and Budget (OMB), 17th Street and Pennsylvania Avenue,
+            NW., Washington, DC 20503.
+          </P>
+        </FTNT>
+      </contents>
+    </section>
+    <section orderid='16408'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:H:3300.91
+      </extid>
+      <num st='1'>
+        3300.91
+      </num>
+      <head>
+        List of approved testing stations, approved testing laboratories, and
+        fees for certificates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='91' psec='' tq='N'>
+              3300.91
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          List of approved testing stations, approved testing laboratories, and
+          fees for certificates.
+        </SUBJECT>
+        <P>
+          A current list of U.S. ATP testing stations, U.S. ATP testing
+          laboratories, and fees for issuance of U.S. ATP certificates may be
+          obtained by request to the ATP manager.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16409'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIII:-:3300:H:3300.94
+      </extid>
+      <num st='1'>
+        3300.94
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3300' sect='94' psec='' tq='N'>
+              3300.94
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          Any organization aggrieved by an action in connection with this rule
+          may obtain a review of such action by submitting pertinent information
+          by letter to the Administrator. The decision of the Administrator is
+          the final agency action.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

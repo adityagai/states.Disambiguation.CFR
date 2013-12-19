@@ -1,0 +1,2933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:F:652
+    </extid>
+    <num>
+      652
+    </num>
+    <head>
+      TECHNICAL SERVICE PROVIDER ASSISTANCE
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='3842' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3842.html'>
+              16 U.S.C. 3842
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            69 FR 69472
+          </aref>
+          , Nov. 29, 2004, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6416'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:A:652.1
+      </extid>
+      <num st='1'>
+        652.1
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='1' psec='' tq='N'>
+              652.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations in this part set forth the policies, procedures,
+            and requirements related to delivery of technical assistance by
+            individuals and entities other than the Department, hereinafter
+            referred to as technical service providers (TSPs). The Food Security
+            Act of 1985, requires the Secretary to deliver technical assistance
+            to eligible participants for implementation of its Title XII
+            Programs and the conservation activities in the Agricultural
+            Management Assistance Program, 
+            <aref type='USC'>
+              <subref title='7' sect='1524' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1524.html'>
+                7 U.S.C. 1524
+              </subref>
+            </aref>
+            , directly, through an agreement with a third party provider, or at
+            the option of the producer through payment to the producer for an
+            approved third party provider. This regulation defines how a
+            participant acquires technical service from a third party TSP, sets
+            forth a certification and decertification process, and establishes a
+            method to make payments for technical services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             TSPs may provide technical services to eligible participants in
+            conservation planning, education and outreach, and assistance with
+            design and implementation of conservation practices applied on
+            private land, Indian land, or where allowed by conservation program
+            rules on public land.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief may implement this part in any of the 50 States, District
+            of Columbia, Commonwealth of Puerto Rico, Guam, Virgin Islands,
+            American Samoa, and the Commonwealth of the Northern Marianna
+            Islands.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6417'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:A:652.2
+      </extid>
+      <num st='1'>
+        652.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 6845
+        </aref>
+        , Feb. 12, 2010, as amended at 
+        <aref type='FREGIST'>
+          75 FR 48273
+        </aref>
+        , Aug. 10, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='2' psec='' tq='N'>
+              652.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this part and all documents issued
+          in accordance with this part, unless specified otherwise:
+        </P>
+        <P>
+          <E T='03'>
+            Approved list
+          </E>
+           means the list of individuals, private sector entities, or public
+          agencies certified by the Natural Resources Conservation Service
+          (NRCS) to provide technical services to a participant.
+        </P>
+        <P>
+          <E T='03'>
+            Certification
+          </E>
+           means the action taken by NRCS to approve:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An individual as meeting the minimum NRCS criteria for providing
+            technical service for conservation planning or a specific
+            conservation practice or system.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             An entity or public agency having an employee or employees that
+            meet the minimum NRCS criteria for providing technical service for
+            conservation planning or a specific conservation practice or system.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Chief
+          </E>
+           means the Chief of NRCS or designee.
+          <PRTPAGE P='585' />
+        </P>
+        <P>
+          <E T='03'>
+            Conservation activity plan
+          </E>
+           means the conservation practices associated with plan development as
+          authorized under the Food, Conservation, and Energy Act of 2008 (2008
+          Act).
+        </P>
+        <P>
+          <E T='03'>
+            Conservation plan
+          </E>
+           means a record of the client&apos;s decisions and supporting
+          information for treatment of a land unit or water as a result of the
+          planning process that meets the Field Office Technical Guide quality
+          criteria for each natural resource (soil, water, air, plants, and
+          animals), and takes into account economic and social considerations.
+          The plan describes the schedule of operations and activities needed to
+          solve identified natural resource problems and takes advantage of
+          opportunities at a conservation management system level. The needs of
+          the client, the resources, and Federal, State, and local requirements
+          will be met.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation practice
+          </E>
+           means a specified treatment, such as a structural or vegetative
+          practice, or a land management practice that is planned and applied
+          according to NRCS standards and specifications.
+        </P>
+        <P>
+          <E T='03'>
+            Contribution agreement
+          </E>
+           means the instrument used to acquire technical services under the
+          authority of 
+          <aref type='USC'>
+            <subref title='7' sect='6962a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6962a.html'>
+              7 U.S.C. 6962a
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Cooperative agreement
+          </E>
+           means the same as defined in the Federal Grants and Cooperative
+          Agreement Act, 
+          <aref type='USC'>
+            <subref title='31' sect='6301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/31/6301.html'>
+              31 U.S.C. 6301
+            </subref>
+          </aref>
+           et seq.
+        </P>
+        <P>
+          <E T='03'>
+            Department
+          </E>
+           means the NRCS, the Farm Service Agency, or any other agency or
+          instrumentality of the Department of Agriculture (USDA) that is
+          assigned responsibility for all or a part of a conservation program
+          subject to this part.
+        </P>
+        <P>
+          <E T='03'>
+            Eligible participant
+          </E>
+           means a producer, landowner, or entity that is participating in, or
+          seeking to participate in, a conservation program covered by this rule
+          in which the producer, landowner, or entity is otherwise eligible to
+          participate.
+        </P>
+        <P>
+          <E T='03'>
+            Entity
+          </E>
+           means a corporation, joint stock company, association, cooperative,
+          limited partnership, limited liability partnership, limited liability
+          company, nonprofit organization, a member of a joint venture, or a
+          member of a similar organization.
+        </P>
+        <P>
+          <E T='03'>
+            Indian land
+          </E>
+           means all lands held in trust by the United States for individual
+          Indians or tribes, or all lands, titles to which are held by
+          individual Indians or tribes, subject to Federal restrictions against
+          alienation or encumbrance, or all lands which are subject to the
+          rights of use, occupancy, and benefit of certain tribes. The term
+          Indian land also includes land for which the title is held in fee
+          status by Indian tribes and the United States Government-owned land
+          under the Bureau of Indian Affairs jurisdiction.
+        </P>
+        <P>
+          <E T='03'>
+            Procurement contract
+          </E>
+           means the same as the term “contract” means under the Federal Grants
+          and Cooperative Agreement Act, 
+          <aref type='USC'>
+            <subref title='31' sect='6301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/31/6301.html'>
+              31 U.S.C. 6301
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+        </P>
+        <P>
+          <E T='03'>
+            Program contract
+          </E>
+           means the document that specifies the rights and obligations of any
+          individual or entity that has been accepted for participation in a
+          program authorized under Title XII of the Food Security Act of 1985,
+          or the Agricultural Management Assistance Program, authorized under 
+          <aref type='USC'>
+            <subref title='7' sect='1524' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1524.html'>
+              7 U.S.C. 1524
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Public agency
+          </E>
+           means a unit or subdivision of Federal, State, local, or tribal
+          government other than the Department.
+        </P>
+        <P>
+          <E T='03'>
+            Recommending organization
+          </E>
+           means a professional organization, association, licensing board, or
+          similar organization with which NRCS has entered into an agreement to
+          recommend qualified individuals for NRCS certification as TSPs for
+          specific technical services.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of the Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            State Conservationist
+          </E>
+           means the NRCS employee authorized to direct and supervise NRCS
+          activities in a State, Caribbean Area, or Pacific Basin Area.
+        </P>
+        <P>
+          <E T='03'>
+            Technical service
+          </E>
+           means the technical assistance provided by TSPs, including
+          conservation planning; education and outreach; and the design,
+          installation, and check-out of approved conservation practices.
+        </P>
+        <P>
+          <E T='03'>
+            Technical service contract
+          </E>
+           means a document that specifies the rights and obligations of an
+          eligible participant to obtain technical services from a TSP where the
+          eligible participant will not receive financial assistance for the
+          implementation of the practice paid for in the technical service
+          contract through 
+          <PRTPAGE P='586' />
+          participation in a Title XII conservation program or the Agricultural
+          Management Assistance Program, 
+          <aref type='USC'>
+            <subref title='7' sect='1524' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1524.html'>
+              7 U.S.C. 1524
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Technical service provider
+          </E>
+           means an individual, entity, Indian Tribe, or public agency either:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Certified by NRCS and placed on the approved list to provide
+            technical services to participants; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Selected by the Department to assist the Department in the
+            implementation of conservation programs covered by this part through
+            a procurement contract, contribution agreement, or cooperative
+            agreement with the Department.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Written agreement
+          </E>
+           means the document that specifies the rights and obligations of any
+          individual or entity that has been authorized by NRCS to receive
+          conservation planning assistance without having a program contract.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 6845
+          </aref>
+          , Feb. 12, 2010, as amended at 
+          <aref type='FREGIST'>
+            75 FR 48273
+          </aref>
+          , Aug. 10, 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='6418'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:A:652.3
+      </extid>
+      <num st='1'>
+        652.3
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='3' psec='' tq='N'>
+              652.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             As provided in this part, the Department will provide technical
+            assistance to participants directly, or at the option of the
+            participant, through a TSP in accordance with the requirements of
+            this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief of NRCS will direct and supervise the administration of
+            the regulations in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Provide overall leadership and management for the development and
+            administration of a TSP process;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Consult with the Farm Service Agency and other appropriate agencies
+            and entities concerning the availability and utilization of TSPs and
+            the implementation of technical service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Establish policies, procedures, guidance, and criteria for
+            certification, recertification, decertification, certification
+            renewal, and implementation of the use of TSPs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Provide training to ensure that persons meet the certification
+            criteria for certain technical expertise when there is a lack of
+            training resources or market outside the agency for such technical
+            expertise. However, any training provided by the Department will be
+            limited to training about Department regulations, policies,
+            procedures, processes, and business and technical tools unique to
+            NRCS; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Establish a process for verifying information provided to NRCS
+            under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will not make payments under a program contract or
+            written agreement with a participant for technical services provided
+            by a TSP unless the TSP is certified by NRCS for the services
+            provided and is identified on the approved list.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Department may enter into procurement contracts, contribution
+            agreements, cooperative agreements, or other appropriate instruments
+            to assist the Department in providing technical assistance when
+            implementing conservation programs covered by this part. The
+            Department will ensure that such instruments contain the
+            qualification and performance criteria necessary to ensure quality
+            implementation of the goals and objectives of these conservation
+            programs; therefore, when the Department obtains assistance from a
+            TSP in this manner, the TSP is authorized to provide technical
+            services and receive payment even if such TSP is not certified in
+            accordance with subpart B, nor identified on the approved list.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             When a participant acquires technical services from a TSP, the
+            Department is not a party to the agreement between the participant
+            and the TSP. To ensure that quality implementation of the goals and
+            objectives of the conservation programs are met, the TSP must be
+            certified by NRCS in accordance with subpart B of this part and
+            identified on the approved list. Upon request of NRCS, TSPs are
+            required to submit copies of all transcripts, licensing, and
+            certification documentation.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6419'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:A:652.4
+      </extid>
+      <num st='1'>
+        652.4
+      </num>
+      <head>
+        Technical service standards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='4' psec='' tq='N'>
+              652.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Technical service standards.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All technical services provided by TSPs must meet USDA standards
+            and specifications as set forth in Departmental manuals, handbooks,
+            guides, and other references for soils mapping and natural resources
+            information, conservation planning, conservation practice
+            application, and other areas of technical assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will only pay a participant for technical services
+            provided in accordance with established 
+            <PRTPAGE P='587' />
+            NRCS standards, specifications, and requirements. The Department
+            must approve all new technologies and innovative practices,
+            including interim standards and specifications, prior to a TSP
+            initiating technical services for those technologies and practices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A TSP must assume responsibility in writing for the particular
+            technical services provided. Technical services provided by the TSP
+            must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with all applicable Federal, State, tribal, and local laws
+            and requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Meet applicable Department standards, specifications, and program
+            requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Be consistent with the particular conservation program goals and
+            objectives for which the program contract was entered into by the
+            Department and the participant; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Incorporate alternatives that are both cost effective and
+            appropriate to address the resource issues. Conservation
+            alternatives will meet the objectives for the program and
+            participant to whom assistance is provided.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             TSPs are responsible for the technical services provided, including
+            any costs, damages, claims, liabilities, and judgments arising from
+            past, present, and future negligent or wrongful acts or omissions of
+            the TSP in connection with the technical service provided.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will not be in breach of any program contract or
+            written agreement if it fails to implement conservation plans or
+            practices or make payment for conservation plans or practices
+            resulting from technical services that do not meet USDA standards
+            and specifications or are not consistent with program requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The participant is responsible for complying with the terms and
+            conditions of the program contract or written agreement, which
+            includes meeting USDA technical standards and specifications for any
+            technical services provided by a TSP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The TSP will report in the NRCS conservation accomplishment
+            tracking system the appropriate data elements associated with the
+            technical services provided to the Department or participant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             To the extent allowed under State or tribal law, TSPs may utilize
+            the services of subcontractors to provide specific technical
+            services or expertise needed by the TSP, provided that the
+            subcontractors are certified by NRCS in accordance with this part
+            for the particular technical services to be provided and the
+            technical services are provided in terms of their Certification
+            Agreement. Payments will not be made for any technical services
+            provided by uncertified subcontractors, except when such technical
+            services are provided under the provisions of a procurement
+            contract, cooperative agreement, or contribution agreement with the
+            NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6420'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:A:652.5
+      </extid>
+      <num st='1'>
+        652.5
+      </num>
+      <head>
+        Participant acquisition of technical services.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='5' psec='' tq='N'>
+              652.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Participant acquisition of technical services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Participants may obtain technical assistance directly from the
+            Department or, when available, from a TSP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To acquire technical assistance directly from the Department,
+            participants should contact their local USDA Service Center.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To acquire technical services from a TSP, participants must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Enter into and comply with a program contract or a written
+            agreement prior to acquiring technical services; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Select a certified TSP from the approved list of TSPs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Department may approve written agreements for technical
+            assistance prior to program participation based on available funding
+            and natural resource priorities as identified by the State
+            Conservationist.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The technical assistance indicated in paragraph (d) may include the
+            development of conservation plans or activity plans suitable for
+            subsequent incorporation into a program contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The Department may make payment to eligible participants who have a
+            technical service contract and utilize it for technical assistance
+            from a TSP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will identify in the particular program contract or
+            written agreement the payment provisions for TSPs hired directly by
+            the participant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             To obtain payment for technical services, participants must submit
+            to the Department valid invoices, supporting documentation, and
+            requests for payment. The Department will 
+            <PRTPAGE P='588' />
+            issue payment within 30 days of receiving these items. The
+            Department may pay a participant for some or all of the costs
+            associated with the technical services provided by a TSP hired by
+            the participant, or upon receipt of an assignment of payment from
+            the participant, make payment directly to the TSP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Participants must authorize in writing to the Department the
+            disclosure of their records on file with the Department that they
+            wish to make available to specific TSPs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             Payments for technical services will be made only one time for the
+            same technical service provided unless, as determined by the
+            Department, the emergence of new technologies or major changes in
+            the participant&apos;s farming or ranching operations necessitate
+            the need for additional technical services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will not make payment for activities or services
+            that are customarily provided at no cost by a TSP to a participant
+            as determined by the State Conservationist.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+             Payment rates for technical services acquired by participants.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will calculate TSP payment rates for technical services using
+            national, regional, and locally determined price data.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Establishing TSP payment rates.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will establish guidelines to analyze the local pricing
+            information using a standardized method.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will establish TSP payment rates in each
+            State for the various categories of technical services. The State
+            Conservationist will determine the rates according to local NRCS
+            cost data, procurement data, and market data.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             National Headquarters will review and approve State payment rates
+            to ensure consistency where similar resource conditions and
+            agricultural operations exist. Payment rates may vary to some degree
+            between or within States due to differences in State laws, the cost
+            of doing business, competition, and other variables.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             National Headquarters and State levels will review payment rates
+            annually or more frequently, as needed, and adjust the rates based
+            upon data from existing procurement contracts, Federal cost rates,
+            and other appropriate sources.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may adjust payment rates, as needed, on a case-by-case basis
+            in response to unusual conditions or unforeseen circumstances in
+            delivering technical services such as highly complex technical
+            situations, emergency conditions, serious threats to human health or
+            the environment, or major resource limitations. In these cases, NRCS
+            will set a case-specific TSP payment rate based on the
+            Department&apos;s determination of the scope, magnitude, and
+            timeliness of the technical services needed.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6421'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:A:652.6
+      </extid>
+      <num st='1'>
+        652.6
+      </num>
+      <head>
+        Department delivery of technical services.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='6' psec='' tq='N'>
+              652.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Department delivery of technical services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Department may enter into a procurement contract, contribution
+            agreement, cooperative agreement, or other appropriate instrument to
+            assist the Department in providing technical assistance when
+            implementing the conservation programs covered by this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Department may enter into a procurement contract, contribution
+            agreement, cooperative agreement, or other appropriate instrument
+            with TSPs to provide related technical assistance services that
+            accelerate conservation program delivery. Related technical
+            assistance services may include activities or services that
+            facilitate the development, processing, or implementation of a
+            program contract, such as recording conservation planning decisions
+            and specifications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may enter into agreements with other agencies or with a
+            non-Federal entity to provide technical services to eligible
+            participants.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will ensure that such legal instruments contain
+            qualification and performance criteria necessary to ensure quality
+            implementation of these conservation programs. When the Department
+            obtains assistance from a TSP through a procurement contract,
+            contribution agreement, cooperative agreement, or other similar
+            instrument, the TSP is authorized to provide technical services and
+            receive payment even if such TSP is not certified in accordance with
+            subpart B of this part nor identified on the approved list.
+            <PRTPAGE P='589' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will implement procurement contracts, contribution
+            agreements, cooperative agreements, and other appropriate
+            instruments in accordance with applicable Federal acquisition or
+            USDA Federal assistance rules and requirements for competency,
+            quality, and selection, as appropriate. Any contract, contribution
+            agreement, cooperative agreement, or other appropriate instrument
+            entered into under this section will be for a minimum of one year,
+            will not exceed 3 years in duration, and may be renewed upon mutual
+            agreement of the parties.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A TSP may not receive payment twice for the same technical service,
+            such as once from a participant through a program contract or
+            written agreement and then again through a separate contract or
+            agreement made directly with the Department.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will, to the extent practicable, ensure that the
+            amounts paid for technical service under this part are consistent
+            across conservation program areas, unless specific conservation
+            program requirements include additional tasks.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6422'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:A:652.7
+      </extid>
+      <num st='1'>
+        652.7
+      </num>
+      <head>
+        Quality assurance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='7' psec='' tq='N'>
+              652.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Quality assurance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will review, in consultation with the Farm Service Agency, as
+            appropriate, the quality of the technical services provided by TSPs.
+            As a requirement of certification, TSPs must develop and maintain
+            documentation in accordance with Departmental manuals, handbooks,
+            and technical guidance for the technical services provided, and
+            provide this documentation to NRCS and the participant when the
+            particular technical service is completed. NRCS may utilize
+            information obtained through its quality assurance process,
+            documentation submitted by the TSP, and other relevant information
+            in determining how to improve the quality of technical service, as
+            well as determining whether to decertify a TSP under subpart C of
+            this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Upon discovery of a deficiency in the provision of technical
+            service through its quality assurance process or other means, NRCS
+            will, to the greatest extent practicable, send a notice to the TSP
+            detailing the deficiency and requesting remedial action by the TSP.
+            Failure by the TSP to promptly remedy the deficiency, or the
+            occurrence of repeated deficiencies in providing technical services,
+            may trigger the decertification process set forth in subpart C of
+            this part. A failure by NRCS to identify a deficiency does not
+            affect any action under the decertification process. TSPs are solely
+            responsible for providing technical services that meet all NRCS
+            standards and specifications.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6423'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:B:652.21
+      </extid>
+      <num st='1'>
+        652.21
+      </num>
+      <head>
+        Certification criteria and requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='21' psec='' tq='N'>
+              652.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Certification criteria and requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To qualify for certification an individual must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Have the required technical training, education, and experience to
+            perform the level of technical assistance for which certification is
+            sought;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Meet any applicable professional or business licensing or similar
+            qualification standards established by State or Tribal law;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrate, through documentation of training or experience,
+            familiarity with NRCS guidelines, criteria, standards, and
+            specifications as set forth in the applicable NRCS manuals,
+            handbooks, field office technical guides, and supplements thereto
+            for the planning and applying of specific conservation practices and
+            management systems for which certification is sought; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Not be decertified in any State under subpart C of this part at the
+            time of application for certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To qualify for certification an entity or public agency must be
+            authorized to provide such services in the jurisdiction and have a
+            certified individual providing, in accordance with this part,
+            technical services on its behalf.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A technical service provider, as part of the certification by NRCS,
+            must enter into a Certification Agreement with NRCS specifying the
+            terms and conditions of the certification, including adherence to
+            the requirements of this part, and acknowledging that failure to
+            meet these requirements may result in ineligibility to receive
+            payments from the Department, either directly or through the
+            participant, for 
+            <PRTPAGE P='590' />
+            the technical services provided or may result in decertification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will certify Technical Service Providers for a time period
+            specified by NRCS in the Certification Agreement, not to exceed 3
+            years. Decertification and Renewal of Certification is administered
+            in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='26' psec='' tq='N'>
+                652.26
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may, pursuant to 
+            <aref type='USC'>
+              <subref title='31' sect='9701' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/31/9701.html'>
+                31 U.S.C. 9701
+              </subref>
+            </aref>
+            , establish and collect fees for the certification of technical
+            service providers.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6424'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:B:652.22
+      </extid>
+      <num st='1'>
+        652.22
+      </num>
+      <head>
+        Certification process for individuals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='22' psec='' tq='N'>
+              652.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Certification process for individuals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In order to be considered for certification as a technical service
+            provider, an individual must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Submit an Application for Certification to NRCS in accordance with
+            this section;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Request certification through a recommending organization pursuant
+            to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='25' psec='' tq='N'>
+                652.25
+              </subref>
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Request certification through an application submitted by a
+            private-sector entity or public agency pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='23' psec='' tq='N'>
+                652.23
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='24' psec='' tq='N'>
+                652.24
+              </subref>
+            </aref>
+            , as appropriate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The application must contain the documentation demonstrating that
+            the individual meets all requirements of paragraph (a) of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='21' psec='' tq='N'>
+                652.21
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will, within 60 days of receipt of an application, make a
+            determination on the application submitted by an individual under
+            paragraph (a)(1) of this section and in accordance with paragraph
+            (a) of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='21' psec='' tq='N'>
+                652.21
+              </subref>
+            </aref>
+            . If all requirements are met, NRCS will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Enter into a Certification Agreement and certify the applicant as
+            qualified to provide technical services for a specific practice,
+            category, or categories of technical service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Place the applicant on the list of approved technical service
+            providers when certified; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Make available to the public the list of approved technical service
+            providers by practice or category of technical services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may decertify an individual in accordance with the
+            decertification process set forth in subpart C of this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6425'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:B:652.23
+      </extid>
+      <num st='1'>
+        652.23
+      </num>
+      <head>
+        Certification process for private-sector entities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='23' psec='' tq='N'>
+              652.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Certification process for private-sector entities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A private sector entity that applies for certification must
+            identify, and provide supporting documentation, that it has the
+            requisite professional and business licensure within the
+            jurisdiction for which it seek certification, and that it employs at
+            least one individual, authorized to act on its behalf that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Has received certification on an individual basis in accordance
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='22' psec='' tq='N'>
+                652.22
+              </subref>
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Seeks certification on an individual basis as part of the
+            private-sector entity&apos;s certification and ensures that the
+            requirements set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='21' psec='#a' tq='N'>
+                652.21(a)
+              </subref>
+            </aref>
+             are contained within the private-sector entity&apos;s application
+            to support such certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will determine pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='22' psec='' tq='N'>
+                652.22
+              </subref>
+            </aref>
+             whether the individual(s) identified in the private-sector
+            entity&apos;s application meets the certification standards set
+            forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='21' psec='' tq='N'>
+                652.21
+              </subref>
+            </aref>
+             for the specific services the entity wishes to provide.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will, within 60 days of receipt of an application, make a
+            determination on the application submitted by an entity. If NRCS
+            determines that all requirements for the private-sector entity and
+            the identified individual(s) are met, NRCS will complete the actions
+            described in paragraphs (c)(1) through (c)(3) of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='22' psec='' tq='N'>
+                652.22
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Certification Agreement entered into with the private-sector
+            entity shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Identify the certified individuals who are authorized to perform
+            technical services on behalf of and under the auspices of the
+            entity&apos;s certification;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require that the entity has, at all times, an individual who is a
+            certified technical service provider authorized to act on the
+            entity&apos;s behalf;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Require that the entity promptly provide an amended Certification
+            Agreement to NRCS for approval when the list of certified
+            individuals performing technical services under its auspices
+            changes;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Require that responsibility for any work performed by non-certified
+            individuals be assumed by a certified individual who is authorized
+            to act on the entity&apos;s behalf; and
+            <PRTPAGE P='591' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Require that the entity be legally responsible for the work
+            performed by any individual working under the auspices of its
+            certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may, in accordance with the decertification process set forth
+            in this part, decertify the private sector entity, the certified
+            individual(s) acting under the auspices of its certification, or
+            both the private sector entity and the certified individual(s)
+            acting under the auspices of its certification.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6426'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:B:652.24
+      </extid>
+      <num st='1'>
+        652.24
+      </num>
+      <head>
+        Certification process for public agencies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='24' psec='' tq='N'>
+              652.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Certification process for public agencies.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A public agency that applies for certification must identify, and
+            provide supporting documentation, that it has the authority within
+            the jurisdiction within which it seeks to provide technical services
+            and an individual or individuals authorized to act on its behalf:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Has been certified as an individual in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='22' psec='' tq='N'>
+                652.22
+              </subref>
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Seeks certification as an individual as part of the public
+            agency&apos;s certification and sufficient information as set forth
+            in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='21' psec='#a' tq='N'>
+                652.21(a)
+              </subref>
+            </aref>
+             is contained within the public agency&apos;s application to support
+            such certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS shall determine whether the individual identified in the
+            public agency&apos;s application meets the certification standards
+            set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='22' psec='' tq='N'>
+                652.22
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will, within 60 days of receipt of an application, make a
+            determination on the application submitted by a public agency. If
+            NRCS determines that all requirements for the public agency and the
+            identified individual(s) are met, NRCS will perform the actions
+            described in paragraph (c)(1) through (c)(3) of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='22' psec='' tq='N'>
+                652.22
+              </subref>
+            </aref>
+            . The Certification Agreement entered into with the public agency
+            shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Identify the certified individuals that are authorized to perform
+            technical services on behalf of and under the auspices of the public
+            agency&apos;s certification;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require that the public agency have, at all times, an individual
+            that is a certified technical service provider and is an authorized
+            official of the public agency;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Require that the public agency promptly provide to NRCS for NRCS
+            approval an amended Certification Agreement when the list of
+            certified individuals performing technical services under its
+            auspices changes;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Require that responsibility for any work performed by non-certified
+            individuals be assumed by a certified individual that is authorized
+            to act on the public agency&apos;s behalf; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Require that the public agency be legally responsible for the work
+            performed by any individual working under the auspices of its
+            certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may, in accordance with the decertification process set forth
+            in subpart C of this part, decertify the public agency, the
+            certified individual(s) acting under its auspices, or both the
+            public agency and the certified individual(s) acting under its
+            auspices.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6427'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:B:652.25
+      </extid>
+      <num st='1'>
+        652.25
+      </num>
+      <head>
+        Alternative application process for individual certification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='25' psec='' tq='N'>
+              652.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Alternative application process for individual certification.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may enter into an agreement, including a memorandum of
+            understanding or other appropriate instrument, with a recommending
+            organization that NRCS determines has an adequate accreditation
+            program in place to train, test, and evaluate candidates for
+            competency in a particular area or areas of technical service
+            delivery and whose accreditation program NRCS determines meets the
+            certification criteria as set forth for the technical services to be
+            provided.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Recommending organizations will, pursuant to an agreement entered
+            into with NRCS:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Train, test, and evaluate candidates for competency in the area of
+            technical service delivery;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Recommend to NRCS individuals who it determines meet the NRCS
+            certification requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='21' psec='#a' tq='N'>
+                652.21(a)
+              </subref>
+            </aref>
+             for providing specific practices or categories of technical
+            services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Inform the recommended individuals that they must meet the
+            requirements of this part, including entering into a Certification
+            Agreement with NRCS, in order to provide technical services under
+            this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Reassess individuals that request renewal of their certification
+            pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='26' psec='' tq='N'>
+                652.26
+              </subref>
+            </aref>
+             through the recommendation of the organization; and
+            <PRTPAGE P='592' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Notify NRCS of any concerns or problems that may affect the
+            organization&apos;s recommendation concerning the individual&apos;s
+            certification, recertification, certification renewal, or technical
+            service delivery.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Pursuant to an agreement with NRCS, a recommending organization may
+            provide to the appropriate NRCS official a current list of
+            individuals identified by the recommending organization as meeting
+            NRCS criteria as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='21' psec='#a' tq='N'>
+                652.21(a)
+              </subref>
+            </aref>
+             for specific practices or categories of technical service and
+            recommend that the NRCS official certify these individuals as
+            technical service providers in accordance with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will, within 60 days, make a determination on the
+            recommendation for certification issued by the recommending
+            organization. If NRCS determines that all requirements for
+            certification are met by the recommended individual(s), NRCS will
+            perform the actions described in paragraphs (c)(1) through (c)(3) of
+            
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='652' sect='22' psec='' tq='N'>
+                652.22
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may terminate an agreement with a recommending organization if
+            concerns or problems with its accreditation program, its
+            recommendations for certification, or other requirements under the
+            agreement arise.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6428'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:B:652.26
+      </extid>
+      <num st='1'>
+        652.26
+      </num>
+      <head>
+        Certification renewal.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='26' psec='' tq='N'>
+              652.26
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Certification renewal.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS certifications are in effect for a time period specified by
+            NRCS in the Certification Agreement, not to exceed 3 years and
+            automatically expire unless they are renewed for an additional time
+            period in accordance with this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A technical service provider may request renewal of an NRCS
+            certification by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Submitting a complete certification renewal application to NRCS or
+            through a private sector entity, a public agency, or a recommending
+            organization to NRCS at least 60 days prior to expiration of the
+            current certification;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Providing verification on the renewal form that the requirements of
+            this part are met; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Agreeing to abide by the terms and conditions of a Certification
+            Agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             All certification renewals are in effect for a time period
+            specified by NRCS in the Certification Agreement, not to exceed
+            three years and before expiration, may be renewed for subsequent
+            time period in accordance with this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6429'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.31
+      </extid>
+      <num st='1'>
+        652.31
+      </num>
+      <head>
+        Policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='31' psec='' tq='N'>
+              652.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy.
+        </SUBJECT>
+        <P>
+          In order to protect the public interest, it is the policy of NRCS to
+          maintain certification of those technical service providers who act
+          responsibly in the provision of technical service, including meeting
+          NRCS standards and specifications when providing technical service to
+          participants. This section, which provides for the decertification of
+          technical service providers, is an appropriate means to implement this
+          policy.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6430'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.32
+      </extid>
+      <num st='1'>
+        652.32
+      </num>
+      <head>
+        Causes for decertification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='32' psec='' tq='N'>
+              652.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Causes for decertification.
+        </SUBJECT>
+        <P>
+          A State Conservationist, in whose State a technical service provider
+          is certified to provide technical service, may decertify the technical
+          service provider, in accordance with these provisions, if the
+          technical service provider, or someone acting on behalf of the
+          technical service provider:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Fails to meet NRCS standards and specifications in the provision of
+            technical services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Violates the terms of the Certification Agreement, including but
+            not limited to, a demonstrated lack of understanding of, or an
+            unwillingness or inability to implement, NRCS standards and
+            specifications for a particular practice for which the technical
+            service provider is certified, or the provision of technical
+            services for which the technical service provider is not certified;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Engages in a scheme or device to defeat the purposes of this part,
+            including, but not limited to, coercion, fraud, misrepresentation,
+            or providing incorrect or misleading information; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Commits any other action of a serious or compelling nature as
+            determined by NRCS that demonstrates the technical service
+            provider&apos;s inability to fulfill the terms of the Certification
+            Agreement or provide technical services under this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6431'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.33
+      </extid>
+      <num st='1'>
+        652.33
+      </num>
+      <head>
+        Notice of proposed decertification.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='593' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='33' psec='' tq='N'>
+              652.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notice of proposed decertification.
+        </SUBJECT>
+        <P>
+          The State Conservationist will send by certified mail, return receipt
+          requested, to the technical service provider proposed for
+          decertification a written Notice of Proposed Decertification, which
+          will contain the cause(s) for decertification, as well as any
+          documentation supporting decertification. In cases where a private
+          sector entity or public agency is being notified of a proposed
+          decertification, any certified individuals working under the auspices
+          of such organization who are also being considered for decertification
+          will receive a separate Notice of Decertification and will be afforded
+          separate appeal rights following the process set forth below.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6432'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.34
+      </extid>
+      <num st='1'>
+        652.34
+      </num>
+      <head>
+        Opportunity to contest decertification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='34' psec='' tq='N'>
+              652.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Opportunity to contest decertification.
+        </SUBJECT>
+        <P>
+          To contest decertification, the technical service provider must submit
+          in writing to the State Conservationist, within 20 calendar days from
+          the date of receipt of the Notice of Proposed Decertification, the
+          reasons why the State Conservationist should not decertify, including
+          any mitigating factors as well as any supporting documentation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6433'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.35
+      </extid>
+      <num st='1'>
+        652.35
+      </num>
+      <head>
+        State Conservationist decision.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='35' psec='' tq='N'>
+              652.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          State Conservationist decision.
+        </SUBJECT>
+        <P>
+          Within 40 calendar days from the date of the notice of proposed
+          decertification, the State Conservationist will issue a written
+          determination. If the State Conservationist decides to decertify, the
+          decision will set forth the reasons for decertification, the period of
+          decertification, and the scope of decertification. If the State
+          Conservationist decides not to decertify the technical service
+          provider, the technical service provider will be given written notice
+          of that determination. The decertification determination will be based
+          on an administrative record, which will be comprised of: the Notice of
+          Proposed Decertification and supporting documents, and, if submitted,
+          the technical service provider&apos;s written response and supporting
+          documentation. Both a copy of the decision and administrative record
+          will be sent promptly by certified mail, return receipt requested, to
+          the technical service provider.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6434'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.36
+      </extid>
+      <num st='1'>
+        652.36
+      </num>
+      <head>
+        Appeal of decertification decisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='36' psec='' tq='N'>
+              652.36
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeal of decertification decisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Within 20 calendar days from the date of receipt of the State
+            Conservationist&apos;s decertification determination, the technical
+            service provider may appeal, in writing, to the Chief of NRCS. The
+            written appeal must state the reasons for appeal and any arguments
+            in support of those reasons. If the technical service provider fails
+            to appeal, the decision of the State Conservationist is final.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Final decision. Within 30 calendar days of receipt of the technical
+            service provider&apos;s written appeal, the Chief or his designee,
+            will make a final determination, in writing, based upon the
+            administrative record and any additional information submitted to
+            the Chief by the technical service provider. The decision of the
+            Chief, or his designee, is final and not subject to further
+            administrative review. The Chief&apos;s determination will include
+            the reasons for decertification, the period of decertification, and
+            the scope of decertification.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6435'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.37
+      </extid>
+      <num st='1'>
+        652.37
+      </num>
+      <head>
+        Period of decertification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='37' psec='' tq='N'>
+              652.37
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Period of decertification.
+        </SUBJECT>
+        <P>
+          The period of decertification will not exceed three years in duration
+          and will be decided by the decertifying official, either the State
+          Conservationist or Chief, as applicable, based upon their weighing of
+          all relevant facts and the seriousness of the reasons for
+          decertification, mitigating factors, if any, and the following general
+          guidelines:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For failures in the provision of technical service for which there
+            are no mitigating factors, 
+            <E T='03'>
+              e.g.
+            </E>
+            , no remedial action by the technical service provider, a maximum
+            period of three years decertification;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For repeated failures in the provision of technical assistance for
+            which there are mitigating factors, 
+            <E T='03'>
+              e.g.
+            </E>
+            , the technical service provider has taken remedial action to the
+            satisfaction of NRCS, a maximum period of one to two years
+            decertification; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For a violation of Certification Agreement terms, 
+            <E T='03'>
+              e.g.
+            </E>
+            , failure to possess technical competency for a listed practice, a
+            period of one year or less, if 
+            <PRTPAGE P='594' />
+            the technical service provider can master such competency within a
+            year period.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6436'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.38
+      </extid>
+      <num st='1'>
+        652.38
+      </num>
+      <head>
+        Scope of decertification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='38' psec='' tq='N'>
+              652.38
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope of decertification.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             When the technical service provider is a private sector entity or
+            public agency, the decertifying official may decertify the entire
+            organization, including all the individuals identified as authorized
+            to provide technical services under the auspices of such
+            organization. The decertifying official may also limit the scope of
+            decertification, for example, to one or more specifically named
+            individuals identified as authorized to provide technical services
+            under the organization&apos;s auspices or to an organizational
+            element of such private sector entity or public agency. The scope of
+            decertification will be set forth in the decertification
+            determination and will be based upon the facts of each
+            decertification action, including whether actions of particular
+            individuals can be imputed to the larger organization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In cases where specific individuals are decertified only, an entity
+            or public agency must file within 10 calendar days an amended
+            Certification Agreement removing the decertified individual(s) from
+            the Certification Agreement. In addition, the entity or public
+            agency must demonstrate that, to the satisfaction of the State
+            Conservationist, the entity or public agency has taken affirmative
+            steps to ensure that the circumstances resulting in decertification
+            have been addressed.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6437'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.39
+      </extid>
+      <num st='1'>
+        652.39
+      </num>
+      <head>
+        Mitigating factors.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='39' psec='' tq='N'>
+              652.39
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mitigating factors.
+        </SUBJECT>
+        <P>
+          In considering whether to decertify, the period of decertification,
+          and scope of decertification, the deciding official will take into
+          consideration any mitigating factors. Examples of mitigating factors
+          include, but are not limited to the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The technical service provider worked, in a timely manner, to
+            correct any deficiencies in the provision of technical service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The technical service provider took the initiative to bring any
+            deficiency in the provision of their technical services to the
+            attention of NRCS and sought NRCS advice to remediate the situation;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The technical service provider took affirmative steps to prevent
+            any failures in the provision of technical services from occurring
+            in the future.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6438'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.40
+      </extid>
+      <num st='1'>
+        652.40
+      </num>
+      <head>
+        Effect of decertification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='40' psec='' tq='N'>
+              652.40
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effect of decertification.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will not make payment under a program contract for
+            the technical services of a decertified technical service provider
+            that were provided during the period of decertification. Likewise,
+            NRCS will not procure, or otherwise enter into an agreement for, the
+            services of a decertified technical service provider during the
+            period of decertification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             National decertification list. NRCS shall maintain a current list
+            of decertified technical service providers. NRCS shall remove
+            decertified providers from the list of certified providers.
+            Participants may not hire a decertified technical service provider.
+            It is the participant&apos;s responsibility to check the decertified
+            list before hiring a technical service provider. Decertification of
+            a technical service provider in one State decertifies the technical
+            service provider from providing technical services under current
+            programs in all States, the Caribbean Area, and the Pacific Basin
+            Area.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6439'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.41
+      </extid>
+      <num st='1'>
+        652.41
+      </num>
+      <head>
+        Effect of filing deadlines.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='41' psec='' tq='N'>
+              652.41
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effect of filing deadlines.
+        </SUBJECT>
+        <P>
+          A technical service provider&apos;s failure to meet the filing
+          deadlines under this subpart will result in the forfeiture of appeal
+          rights. All filings must be received by NRCS no later than the close
+          of business (5 p.m.) the last day of the filing period.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6440'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:652:C:652.42
+      </extid>
+      <num st='1'>
+        652.42
+      </num>
+      <head>
+        Recertification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='652' sect='42' psec='' tq='N'>
+              652.42
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recertification.
+        </SUBJECT>
+        <P>
+          A decertified technical service provider may apply to be re-certified
+          under the certification provisions of this part after the period of
+          decertification has expired. A technical service provider may not
+          utilize the certification renewal process in an attempt to be
+          recertified after being decertified.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:G:170
+    </extid>
+    <num>
+      170
+    </num>
+    <head>
+      USDA FARMERS MARKET
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='1621-162' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621-162.html'>
+              7 U.S.C. 1621-162
+            </subref>
+          </aref>
+          7.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            70 FR 76131
+          </aref>
+          , Dec. 23, 2005, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='4270'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.1
+      </extid>
+      <num st='1'>
+        170.1
+      </num>
+      <head>
+        To which farmers markets does this rule apply?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='1' psec='' tq='N'>
+              170.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          To which farmers markets does this rule apply?
+        </SUBJECT>
+        <P>
+          This rule applies only to the USDA Farmers Market at headquarters on
+          the corner of 12th Street &amp; Independence Avenue, SW., Washington,
+          DC.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4271'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.2
+      </extid>
+      <num st='1'>
+        170.2
+      </num>
+      <head>
+        Is the USDA Farmers Market a producer-only market?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='2' psec='' tq='N'>
+              170.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Is the USDA Farmers Market a producer-only market?
+        </SUBJECT>
+        <P>
+          Yes. A producer-only market is one that does not offer agricultural
+          products that are commercially made, created, or produced, and only
+          allows agricultural products that are grown by a principal farmer. A
+          producer-only market offers raw agricultural products such as fruits,
+          vegetables, flowers, bedding plants, and potted plants. The USDA
+          Farmers Market is a producer-only market since only farmers who may
+          sell products that they grow or produce will be selected for
+          participation. It also allows the sale of value-added products and
+          other specialized non-produce items.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4272'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.3
+      </extid>
+      <num st='1'>
+        170.3
+      </num>
+      <head>
+        What products may be sold at the USDA Farmers Market?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='3' psec='' tq='N'>
+              170.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What products may be sold at the USDA Farmers Market?
+        </SUBJECT>
+        <P>
+          Products that may be sold at the market include, but are not limited
+          to, fresh, high-quality fruits, vegetables, herbs, honey, jams and
+          jellies, cheese, vinegars, cider, maple syrup, fish, flowers, bedding
+          plants, and potted plants. USDA inspected meats and poultry items also
+          may be sold.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4273'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.4
+      </extid>
+      <num st='1'>
+        170.4
+      </num>
+      <head>
+        Who may participate in the USDA Farmers Market?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='4' psec='' tq='N'>
+              170.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who may participate in the USDA Farmers Market?
+        </SUBJECT>
+        <P>
+          Members of three groups may participate in the USDA Farmers Markets:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Principal farmers or producers who sell their own agricultural
+              products.
+            </head>
+          </npcatch>
+          <text>
+             The principal farmer must be in full control and supervision of the
+            individual steps of production of crops including tilling, planting,
+            cultivating, fertilizer and pesticide applications (if applicable),
+            harvesting and post-harvest handling on its own farm with its own
+            machinery and labor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Principal farmer or producers who sell their own value-added
+              agricultural products.
+            </head>
+          </npcatch>
+          <text>
+             Value-added products may include agricultural products that have
+            been enhanced through a modification of the product, such as
+            braiding, weaving, hulling, extracting, handcrafting, and the like.
+            It also may result from growing the product in a way that is
+            acknowledged as safer. Farmers and vendors selling these types of
+            products must prepare them predominately with material they have
+            grown or gathered.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Nonproduce vendors.
+            </head>
+          </npcatch>
+          <text>
+             A limited number of non-produce vendors may be selected by market
+            management to sell specialized products that enhance the market
+            atmosphere and historically attract customers to a farmers market.
+            These specialized vendors, such as bakers, may be exempted from the
+            reselling restrictions that apply to the farmers and vendors
+            described in paragraphs (a) and (b) of this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4274'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.5
+      </extid>
+      <num st='1'>
+        170.5
+      </num>
+      <head>
+        Is there a fee to participate in the USDA Farmers Market?
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='311' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='5' psec='' tq='N'>
+              170.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Is there a fee to participate in the USDA Farmers Market?
+        </SUBJECT>
+        <P>
+          No, there are no fees charged to participate in the market.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4275'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.6
+      </extid>
+      <num st='1'>
+        170.6
+      </num>
+      <head>
+        How are potential market participants identified for the USDA Farmers
+        Market?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='6' psec='' tq='N'>
+              170.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How are potential market participants identified for the USDA Farmers
+          Market?
+        </SUBJECT>
+        <P>
+          Potential market participants are recruited by AMS market management
+          through local farm organizations in the Washington DC metropolitan
+          area State Departments of Agriculture from the mid-Atlantic region
+          including, Virginia, West Virginia, Maryland, Delaware, and
+          Pennsylvania. Upon receiving a list of potential farmers and vendors
+          from the organizations and the State Departments of Agriculture, an
+          information packet, which includes an application and this rule, will
+          be mailed to each potential participant identified by the contacts.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4276'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.7
+      </extid>
+      <num st='1'>
+        170.7
+      </num>
+      <head>
+        Can I apply if I am not recruited?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='7' psec='' tq='N'>
+              170.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Can I apply if I am not recruited?
+        </SUBJECT>
+        <P>
+          Yes. Interested persons may call or write USDA to request an
+          information packet even if they are not recruited. Those interested
+          may write USDA/AMS/TM/MSB, Room 2646-South Building, 1400 Independence
+          Avenue, SW., Washington, DC, 20250, or call (202) 720-8317. They may
+          also call the USDA Farmers Market Hotline at 1-800-384-8704 to leave a
+          message to have a packet mailed or faxed. They may also visit the web
+          site at 
+          <E T='03'>
+            http://www.ams.usda.gov/farmersmarkets/
+          </E>
+           to review the selection criteria, the operating rules, and to receive
+          an application electronically.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4277'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.8
+      </extid>
+      <num st='1'>
+        170.8
+      </num>
+      <head>
+        What are the application procedures?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='8' psec='' tq='N'>
+              170.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What are the application procedures?
+        </SUBJECT>
+        <P>
+          In January of each year, prospective and returning participants must
+          submit to USDA a completed application for participation in the
+          upcoming market season. Each application will include a copy of this
+          rule, which includes the selection criteria and operating guidelines.
+          Each applicant also will certify that each is the owner or
+          representative of the farm or business submitting the application.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4278'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.9
+      </extid>
+      <num st='1'>
+        170.9
+      </num>
+      <head>
+        What type of information does the application require?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='9' psec='' tq='N'>
+              170.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What type of information does the application require?
+        </SUBJECT>
+        <P>
+          The application for participation in the USDA Farmers Market will
+          provide market management with information on contacts, farm location,
+          type of farming operation, types of products grown, and business
+          practices, including insurance coverage.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4279'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.10
+      </extid>
+      <num st='1'>
+        170.10
+      </num>
+      <head>
+        Must a participant in the market have insurance?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='10' psec='' tq='N'>
+              170.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Must a participant in the market have insurance?
+        </SUBJECT>
+        <P>
+          There is no requirement for a participant to have insurance; however,
+          USDA asks that participants with insurance provide insurance
+          information for our records.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4280'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.11
+      </extid>
+      <num st='1'>
+        170.11
+      </num>
+      <head>
+        How are farmers and vendors selected for participation in the USDA
+        Farmers Market?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='11' psec='' tq='N'>
+              170.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How are farmers and vendors selected for participation in the USDA
+          Farmers Market?
+        </SUBJECT>
+        <P>
+          USDA reviews all applications and selects participants based primarily
+          on the type of farmer or vendor (i.e., fruit, vegetable, herb, baker)
+          and secondly, on the specific types of products to be sold. The
+          selection of the participants is conducted by the market management to
+          ensure a balanced product mix of fruits, vegetables, herbs,
+          value-added products, and baked goods.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4281'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.12
+      </extid>
+      <num st='1'>
+        170.12
+      </num>
+      <head>
+        What are the selection criteria for participation in the USDA Farmers
+        Market?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='12' psec='' tq='N'>
+              170.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What are the selection criteria for participation in the USDA Farmers
+          Market?
+        </SUBJECT>
+        <P>
+          The selection criteria are designed to ensure a consistently high
+          level of quality and diverse products are available at the market,
+          while operating in the constraints of space available at the market
+          site. The criteria are:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Member of one of the three participant groups specified in 
+              <aref type='CFR-TIC-SECT'>
+                § 
+                <subref title='7' part='170' sect='4' psec='' tq='N'>
+                  170.4
+                </subref>
+                 of this part
+              </aref>
+              .
+            </head>
+          </npcatch>
+          <text>
+             The participant must be a producer-only farmer or producer, seller
+            of value-added products, or specialized non-produce vendor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Participant offers a product that adds to a product mix.
+            </head>
+          </npcatch>
+          <text>
+             Market management will ensure that a balanced mix of fresh fruits
+            and vegetables will be maintained throughout the season. Final
+            selection of fruit and vegetable producers will be made based on
+            their ability to ensure a wide range of fresh farm products
+            throughout the season.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Willingness to Glean.
+            </head>
+          </npcatch>
+          <text>
+             Participants should commit to supporting the USDA food
+            gleaning/food recovery initiative. 
+            <PRTPAGE P='312' />
+            This commitment requires farmers and vendors to donate surplus food
+            and food products at the end of each market day to a local nonprofit
+            organization identified by USDA. Questions about tax deductions for
+            gleaning should be referred to the Internal Revenue Service or a tax
+            advisor. Receipts for donated foods may be obtained from the
+            receiving nonprofit organization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Commitment to market.
+            </head>
+          </npcatch>
+          <text>
+             Participants must commit to the entire market season and be willing
+            to participate on a regular basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Grandfather provision.
+            </head>
+          </npcatch>
+          <text>
+             Market management reserves the right to select several farmers or
+            vendors based on previous participation in the program, consistency
+            in providing quality products, and compliance with operating
+            guidelines.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4282'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.13
+      </extid>
+      <num st='1'>
+        170.13
+      </num>
+      <head>
+        What are the operating guidelines for the USDA Farmers Market?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='13' psec='' tq='N'>
+              170.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What are the operating guidelines for the USDA Farmers Market?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Market Operation.
+            </head>
+          </npcatch>
+          <text>
+             The Market will be held in parking court #9 of the USDA
+            Headquarters Complex located on the corner of 12th Street and
+            Independence Avenue, SW., Washington, DC. Selling will not begin
+            before 10 a.m. and will end promptly at 2 p.m. each market day. All
+            participants must be in place, setup and ready to sell by 10 a.m.
+            Due to space restrictions at the site, late arrivals will be located
+            at market management&apos;s discretion. All vehicles must vacate the
+            market site no later than 3 p.m.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Notification of Attendance.
+            </head>
+          </npcatch>
+          <text>
+             Each participant must call USDA within 48 hours of a market day if
+            they cannot attend. Failure to provide proper and timely
+            notification may result in termination of participation in the
+            market.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Participant Space.
+            </head>
+          </npcatch>
+          <text>
+             One vehicle is permitted per space; all other vehicles must be
+            removed from the immediate market premises. One space is 16w × 17d
+            feet, and all trucks must fit within that area. There is only room
+            for 15 spaces.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Signage.
+            </head>
+          </npcatch>
+          <text>
+             Participants must clearly display the name of their farm/business
+            and post prices for all items being sold.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Clean-up.
+            </head>
+          </npcatch>
+          <text>
+             Participants are responsible for cleaning all trash and waste
+            within and around their allotted space. Garbage bins are provided on
+            the market site for this purpose.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Cooperative Marketing.
+            </head>
+          </npcatch>
+          <text>
+             Participants are permitted to share space with another participant
+            or sell another&apos;s products if the arrangement is deemed by
+            market management as beneficial to the market. A co-op must be
+            pre-approved by market management and will not be accepted if
+            similar products are already sold by existing farmers or vendors.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Farm/Business Visits.
+            </head>
+          </npcatch>
+          <text>
+             Market management may visit farm/business locations to verify
+            compliance with market criteria and guidelines. Participants should
+            submit a map and directions to their farm/businesses with their
+            market applications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Conduct on Federal Property:
+            </head>
+          </npcatch>
+          <text>
+             Participants must comply with 
+            <aref type='UNKNOWN'>
+              Subpart 20.3 of
+            </aref>
+             the Federal Property Management Regulations, “Conduct on Federal
+            Property,” 
+            <aref type='CFR'>
+              41 CFR 
+              <subref title='41' part='20' sect='3' psec='' tq='N'>
+                20.3
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4283'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:G:170:-:170.14
+      </extid>
+      <num st='1'>
+        170.14
+      </num>
+      <head>
+        What circumstances will prevent participation in the USDA Farmers
+        Market?
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='170' sect='14' psec='' tq='N'>
+              170.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          What circumstances will prevent participation in the USDA Farmers
+          Market?
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Efforts will be made to accommodate all who apply to participate in
+            the market. However, market management may deny participation in the
+            market because of insufficient space or excess supply of the
+            products to sell, failure to meet the stated criteria, or the
+            participant&apos;s noncompliance with the operating guidelines or
+            regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Participants who sell before the 10 a.m. opening time will be
+            restricted from participating in the market following their second
+            violation. A written warning will be given to the participant for
+            the first violation of this guideline. After the second violation
+            occurs, a letter of reprimand will be given to the participant
+            restricting their participation for the next immediate market day.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Participants who arrive after the 10 a.m. opening time may be
+            restricted from participating in the market following their second
+            violation. A written warning may be given to the participant for the
+            first violation of this guideline. After the second violation
+            occurs, a letter of reprimand may be given to the participant
+            restricting their participation for the next immediate market day.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

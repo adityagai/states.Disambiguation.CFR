@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1424
+    </extid>
+    <num>
+      1424
+    </num>
+    <head>
+      BIOENERGY PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='8108' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/8108.html'>
+              7 U.S.C. 8108
+            </subref>
+            , 
+            <subref title='7' sect='15' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/15.html'>
+              15
+            </subref>
+          </aref>
+           U.S.C. 714b and 714c.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            68 FR 24600
+          </aref>
+          , May 7, 2003, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12527'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.1
+      </extid>
+      <num st='1'>
+        1424.1
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='1' psec='' tq='N'>
+              1424.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          This part sets out regulations for the Bioenergy Program (program). It
+          sets forth, subject to the availability of funds as provided herein,
+          or as may be limited by law, the terms and conditions a bioenergy
+          producer must meet to obtain payments under this program and part from
+          the Commodity Credit Corporation (CCC) for eligible bioenergy
+          production. Additional terms and conditions may be set forth in the
+          document required to request program benefits and in the program
+          contract or agreement prescribed by CCC. This program is effective
+          October 1, 2002, through September 30, 2006.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12528'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.2
+      </extid>
+      <num st='1'>
+        1424.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='2' psec='' tq='N'>
+              1424.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          This part shall be administered by the Executive Vice President, CCC,
+          under the general direction and supervision of the Executive Vice
+          President 
+          <PRTPAGE P='599' />
+          or designee. The Executive Vice President or a designee may authorize
+          a waiver or modification of deadlines and other program requirements
+          in cases where lateness or failure to meet such other requirements
+          does not adversely affect the operation of the program, and may set
+          such additional requirements as will facilitate the operation of the
+          program. The funds available for the program shall be limited as set
+          by this rule, otherwise announced by the Executive Vice President,
+          CCC, or limited by law.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12529'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.3
+      </extid>
+      <num st='1'>
+        1424.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='3' psec='' tq='N'>
+              1424.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The definitions set forth in this section shall be applicable for all
+          purposes of program administration under this subpart.
+        </P>
+        <P>
+          <E T='03'>
+            Agreement
+          </E>
+           means the Bioenergy Program Agreement or other form prescribed by CCC
+          that must be executed for participation in the program.
+        </P>
+        <P>
+          <E T='03'>
+            Application
+          </E>
+           means the application form prescribed by CCC or another form that
+          contains the same terms, conditions, and information required.
+        </P>
+        <P>
+          <E T='03'>
+            ATF
+          </E>
+           means the Bureau of Alcohol, Tobacco, Firearms, and Explosives of the
+          United States Department of Justice.
+        </P>
+        <P>
+          <E T='03'>
+            Base production
+          </E>
+           means a biodiesel producer&apos;s current FY&apos;s biodiesel
+          production from eligible commodities that is not an increase over
+          biodiesel production in the previous FY to date.
+        </P>
+        <P>
+          <E T='03'>
+            Biodiesel
+          </E>
+           means a mono alkyl ester manufactured in the United States and its
+          territories that meets the requirements of an appropriate American
+          Society for Testing and Materials Standard.
+        </P>
+        <P>
+          <E T='03'>
+            Biodiesel
+          </E>
+           producer means a producer that produces and sells biodiesel who is
+          also registered and in compliance with 
+          <aref type='UNKNOWN'>
+            section 211 (b) of
+          </aref>
+           the Environmental Protection Agency Clean Air Act Amendment of 1990.
+        </P>
+        <P>
+          <E T='03'>
+            Bioenergy
+          </E>
+           means ethanol and biodiesel produced from eligible commodities.
+        </P>
+        <P>
+          <E T='03'>
+            Conversion factor
+          </E>
+           means:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For ethanol production, a factor that converts the number of
+            ethanol gallons back to commodity units as determined in the manner
+            announced by CCC;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For biodiesel production, the factor that will treat 1.4 gallons of
+            biodiesel produced as having involved the consumption of one bushel
+            of soybeans in any case when the feedstock was an eligible commodity
+            that has a corresponding oil or grease market price; if there is
+            none, then the factor shall be as determined and announced by CCC.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Eligible commodity
+          </E>
+           means barley; corn; grain sorghum; oats; rice; wheat; soybeans;
+          cotton seed; sunflower seed; canola; crambe; rapeseed; safflower;
+          sesame seed; flaxseed; mustard seed; cellulosic crops, such as
+          switchgrass and hybrid poplars; fats, oils, and greases (including
+          recycled fats, oils and greases) derived from an agricultural product;
+          and any animal byproduct (in addition to oils, fats and greases) that
+          may be used to produce bioenergy, as CCC determines, that is produced
+          in the United States and its territories.
+        </P>
+        <P>
+          <E T='03'>
+            Eligible producer
+          </E>
+           means a bioenergy producer who meets all requirements for program
+          payments.
+        </P>
+        <P>
+          <E T='03'>
+            Ethanol
+          </E>
+           means anhydrous ethyl alcohol manufactured in the United States and
+          its territories and sold either:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For fuel use, rendered unfit for beverage use, produced at a
+            facility and in a manner approved by ATF for the production of
+            ethanol for fuel; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             As denatured ethanol used by blenders and refiners and rendered
+            unfit for beverage use.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Ethanol producer
+          </E>
+           means a person authorized by ATF to produce ethanol.
+        </P>
+        <P>
+          <E T='03'>
+            FSA
+          </E>
+           means the Farm Service Agency, USDA.
+        </P>
+        <P>
+          <E T='03'>
+            FY
+          </E>
+           means the fiscal year beginning each October 1 and ending September
+          30 of the following calendar year.
+        </P>
+        <P>
+          <E T='03'>
+            KCCO
+          </E>
+           means the FSA, Kansas City Commodity Office.
+        </P>
+        <P>
+          <E T='03'>
+            Posted County Price
+          </E>
+           means the same Posted County Price for different locations as is used
+          under other CCC commodity programs for marketing loan gains and other
+          matters.
+        </P>
+        <P>
+          <E T='03'>
+            Producer
+          </E>
+           is a legal entity (individual, partnership, cooperative, or
+          corporation, etc.) who is a commercial bioenergy producer making
+          application or otherwise involved under this program.
+        </P>
+        <P>
+          <E T='03'>
+            Quarter
+          </E>
+           means the respective time periods of October 1 through December 
+          <PRTPAGE P='600' />
+          31, January 1 through March 31, April 1 through June 30, and July 1
+          through September 30 of each FY, as applicable.
+        </P>
+        <P>
+          <E T='03'>
+            Sign-up period
+          </E>
+           means the time period announced by CCC during which CCC will accept
+          program agreements.
+        </P>
+        <P>
+          <E T='03'>
+            USDA
+          </E>
+           means the United States Department of Agriculture.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12530'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.4
+      </extid>
+      <num st='1'>
+        1424.4
+      </num>
+      <head>
+        General eligibility rules.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='4' psec='' tq='N'>
+              1424.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General eligibility rules.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant must be determined eligible by KCCO and be assigned an
+            agreement number.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for program payments, a producer must maintain
+            records indicating for all relevant FY&apos;s and FY quarters:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The use of eligible commodities in bioenergy production;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of bioenergy produced from an eligible commodity by
+            location;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of eligible commodity used by location to produce the
+            bioenergy referred to in paragraph (b)(2) of this section; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             All other records, needed, or required by the agreement to
+            establish program eligibility and compliance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A producer must allow verification by CCC of all information
+            provided. Refusal to allow CCC or any other agency of USDA to verify
+            any information provided will result in a producer being determined
+            not eligible.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             For producers not purchasing raw commodity inputs, the production
+            must equal or exceed that amount of production that would be
+            calculated using the raw commodity inputs and the conversion factor
+            set out in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1424' sect='3' psec='' tq='N'>
+                1424.3
+              </subref>
+            </aref>
+            . A producer that purchases soy oil from a soybean crushing plant
+            for further refinement into biodiesel must be able to prove to
+            CCC&apos;s satisfaction both soy oil purchases and biodiesel
+            production for the applicable quarter. Any special conversion
+            factors needed will be the province of CCC and CCC alone and
+            CCC&apos;s decision will be final.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             A producer must meet all other conditions set out in these
+            regulations, in the agreement, or in other program documents.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12531'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.5
+      </extid>
+      <num st='1'>
+        1424.5
+      </num>
+      <head>
+        Agreement process.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='5' psec='' tq='N'>
+              1424.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Agreement process.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To participate, an eligible producer must submit a signed agreement
+            during the FY sign-up period. Agreements may be for single or
+            multiple FY&apos;s. However, multiple FY agreements require
+            producers to submit annual production estimate reports during each
+            applicable FY sign-up period. Such reports must comply with the
+            terms of the agreement and this part. In all cases, the accounting
+            for compliance will be made on a per FY basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Sign-up each FY will be held for 30 calendar days beginning for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             FY 2003 on the date of publication of this rule;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             FY 2004 and beyond on August 1 of the FY before the applicable FY.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             After agreements are submitted:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If determined eligible by KCCO, an agreement number will be
+            assigned, and a notification will be mailed to the producer;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If additional information is needed for KCCO to determine
+            eligibility, the producer will be contacted as soon as practicable
+            and requested to provide additional supporting documentation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If determined ineligible by KCCO, producers will be notified in
+            writing that their agreement was rejected and the reason for the
+            determination.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12532'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.6
+      </extid>
+      <num st='1'>
+        1424.6
+      </num>
+      <head>
+        Payment application process.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='6' psec='' tq='N'>
+              1424.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment application process.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To apply for payments under this program during an FY, an eligible
+            producer must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Submit an application or eligibility report for each quarter.
+            Submit the last quarterly application or report of the FY within 30
+            calendar days of the end of the FY for which payment is requested.
+            If the actual deadline is a non-workday, the deadline will be the
+            next business day;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Certify with respect to the accuracy and truthfulness of the
+            information provided;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Furnish CCC such certification, and access to such records, as CCC
+            considers necessary to verify compliance with program provisions;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Provide documentation as requested by CCC of both the
+            producer&apos;s net purchases of eligible commodities and net
+            production of bioenergy compared to such production at all locations
+            during the relevant periods. CCC may adjust the formulaic payments
+            otherwise payable to the producer if there is a difference between
+            the amount actually used and certified and 
+            <PRTPAGE P='601' />
+            the amount of increased commodity use calculated under the formula.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             After applications or reports are submitted, eligible producers:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Shall submit such additional supporting documentation as requested
+            by KCCO when additional information is needed to determine
+            eligibility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Will be notified in writing of their ineligibility and reason for
+            the determination, when the application is determined ineligible by
+            KCCO; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Shall promptly refund payments when a refund to CCC is due. If a
+            refund is not made promptly, CCC may establish a claim.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12533'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.7
+      </extid>
+      <num st='1'>
+        1424.7
+      </num>
+      <head>
+        Gross payable units.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='7' psec='' tq='N'>
+              1424.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Gross payable units.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For ethanol, producers will be eligible for payments on gross
+            payable units for only their ethanol production from eligible inputs
+            that exceeds, for the program year to date, their total comparable
+            production at all locations as compared to the comparable portion of
+            the previous year. Producers of ethanol are not eligible for base
+            production payments. Producers shall not be paid twice for the same
+            increase and any decline in relative production between quarters
+            will require a comparable refund. For example, if at the end of the
+            first quarter, a producer were to be paid for an increase of 500
+            gallons of ethanol, but at the end of the second quarter, that
+            producer&apos;s year-to-date production was down to a net increase
+            for the year of 450 gallons, then a refund would be due for the loss
+            of the corresponding 50 gallons of net extra production. Repayment
+            rates shall be based on previous payment rates. Unless otherwise
+            determined by CCC, the extra ethanol production from eligible inputs
+            will be converted to gross payable units by dividing the gallons of
+            increased ethanol by the applicable conversion factor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Biodiesel producers will be eligible for payments on gross payable
+            units for all biodiesel production from eligible inputs. For
+            eligibility purposes there will be two kinds of payment: additional
+            production payments (APP), and base production payments (BPP).
+            Repayment rates shall be based on previous payment rates. Unless
+            otherwise determined by CCC, gross payable units for biodiesel
+            production from eligible inputs will be calculated as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For APP, by dividing the gallons of increased biodiesel by the
+            biodiesel conversion factor of 1.4. APP payments will be made on
+            increases as compared with the previous FY. Producers will not be
+            paid twice for the same production. Failure to maintain year to date
+            biodiesel production increases between quarters will require a
+            comparable APP refund as specified below. That is, for example, if a
+            producer were to be paid, at the end of the first quarter, for 500
+            gallons of increased biodiesel production, but by the end of the
+            second quarter that producer&apos;s production, for the year to
+            date, was only 450 gallons, then a refund of the APP premium would
+            be due for the loss of the corresponding 50 gallons of net
+            production increase.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For BPP, which will be made on production not eligible for the APP,
+            by dividing the base production by the biodiesel conversion factor
+            of 1.4 and multiplying the result by 0.5 in FY 2003, 0.3 in FY 2004,
+            0.15 in FY 2005, or 0.0 (zero) in FY 2006 to determine base
+            biodiesel production gross payable units.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Adding the APP and BPP to determine biodiesel gross payable units.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             There shall only be one eligible producer per plant location.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             When producers move production from one plant to another between
+            FY&apos;s, the prior FY&apos;s production for the producer for
+            program payment calculations tied to increases in production shall
+            be the greater of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The production at the plant operated by the producer in the prior
+            FY, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The production in the prior FY at the plant being taken over by the
+            producer in the current FY.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             New producers who are taking over a plant with prior bioenergy
+            production shall assume that production history for program
+            purposes. For example: in FY 2002, Producer A produced 1,000 gallons
+            of bioenergy in plant 1 and Producer B produced 500,000 of bioenergy
+            in plant 2. In FY 2003, Producer A assumes operation of plant 2;
+            Producer B moves to plant 3, which was not in the program in FY
+            2002, but with FY 2002 production of 400,000 gallons 
+            <PRTPAGE P='602' />
+            from eligible commodities; and Producer C assumes operations of
+            plant 1. In FY 2003, for program purposes solely based on these
+            respective plants, Producer A would have a prior FY production of
+            500,000 gallons; Producer B would have a prior FY production of
+            500,000 gallons; and Producer C would have a prior FY production of
+            1,000 gallons. These examples would apply when a producer moves its
+            entire operation from one plant to another. Otherwise, for purposes
+            of computing whether a producer has increased production in the
+            current year from the previous year, the determination will be made
+            by comparing for the current year the producer&apos;s production
+            figures from all locations in which the producer has an interest
+            with, for the previous year, the sum of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Production at those locations by any person including, but not
+            limited to, the producer, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Additional production by the producer at any other location in that
+            year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Also, as needed to avoid frustrating the goals of the program, the
+            Executive Vice President of CCC may treat producers with common
+            interests, common ownership, or common facilities or arrangements as
+            the same producer.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12534'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.8
+      </extid>
+      <num st='1'>
+        1424.8
+      </num>
+      <head>
+        Payment amounts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='8' psec='' tq='N'>
+              1424.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment amounts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An eligible producer may be paid the amount specified in this
+            section, subject to the availability of funds. Total available funds
+            shall be as determined appropriate by CCC and shall not exceed $150
+            million in any of FY&apos;s 2003 through 2006.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For agreements submitted during an FY sign-up, applicants must
+            project increases in production. Based on expected commodity prices,
+            using the formula set out in this section, submissions will be
+            assigned an expected payment value. When the payment value of all
+            timely submitted and validly executed agreements exceed available
+            funding, CCC may, at its discretion, prorate payments to be made
+            under such agreements based on total available funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             When the payment value of all timely submitted applications exceed
+            available funding, CCC will prorate payments based on total
+            available funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to this section and conditions in the agreement, a
+            producer&apos;s payment eligibility shall be adjusted at the end of
+            each quarter, and calculated as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Gross payable units, calculated and determined in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1424' sect='7' psec='' tq='N'>
+                1424.7
+              </subref>
+            </aref>
+            , shall be converted to net payable units for producers whose annual
+            bioenergy production is:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Less than 65 million gallons, by dividing by 2.5;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Equal to or more than 65 million gallons, by dividing by 3.5;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Net payable units calculated under paragraph (d)(1) of this section
+            shall then be converted to a gross payment by multiplying net
+            payable units by the per-unit value of the commodity as of the 10th
+            business day before the start of the production quarter, determined
+            as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             For ethanol:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             For those agricultural commodities with an established Posted
+            County Price, CCC will use the Posted County Price that CCC
+            announces daily for the county in which the plant is located and
+            applicable quality factors as CCC may establish.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             For agricultural commodities that CCC determines do not have Posted
+            County Prices, CCC will use market data CCC determines to be
+            appropriate for the applicable commodity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             For biodiesel made from:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Soybeans or soy oil, CCC will use the Posted County Price for
+            soybeans for the county where the plant is located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible commodities other than soybeans or soy oil that have a
+            corresponding oil or grease market price, CCC will first use the
+            soybeans Posted County Price for Macon County, Illinois. Then, the
+            applicable feedstock&apos;s oil or yellow grease (for animal fats
+            and oils) market price, as determined by CCC, will be divided by the
+            soy oil price published in the Agricultural Marketing Service&apos;s
+            weekly “Soybean Crush Report” (Central Illinois (Decatur, Macon
+            County, Illinois)) for the applicable date. The resulting percentage
+            will be multiplied by the soybean gross payment to determine the
+            producer&apos;s gross payment.
+            <PRTPAGE P='603' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible commodities that do not have a corresponding oil or grease
+            market price, in a manner as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The gross payment calculated under paragraph (d)(2) of this section
+            shall be reduced to a net payment by multiplying the gross payment
+            figure by the proration factor determined under paragraph (c) of
+            this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to other provisions of this section, producers shall be
+            paid the net current payment, if positive, determined for the
+            quarter, subject to the requirements and refund provisions of this
+            part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             After the first quarter, adjustments shall be made based on changes
+            in production. Refunds, when due, shall be due at the per unit
+            values at which they were paid.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             For an FY, no producer may receive more than 5 percent of the
+            available funding for this program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             When the commodity&apos;s conversion factor has been established,
+            that factor will, as practicable, be posted on the program&apos;s
+            website.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If the commodity&apos;s conversion factor is not determined when
+            the sign-up is announced, the conversion factor will be provided in
+            a letter to producers with accepted agreements to the extent
+            practicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             After FY 2003, changes to established conversion factors shall be
+            announced in a press release issued by CCC 90 calendar days before
+            the applicable FY&apos;s sign-up, to the extent practicable.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12535'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.9
+      </extid>
+      <num st='1'>
+        1424.9
+      </num>
+      <head>
+        Reports required.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='9' psec='' tq='N'>
+              1424.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reports required.
+        </SUBJECT>
+        <P>
+          Once an eligible producer has submitted a payment application, that
+          producer shall file cumulative and per-plant information for each
+          relevant bioenergy producing facility quarterly through the end of the
+          applicable FY as specified by CCC or as otherwise needed to establish
+          compliance with this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12536'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.10
+      </extid>
+      <num st='1'>
+        1424.10
+      </num>
+      <head>
+        Succession and control of facilities and production.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='10' psec='' tq='N'>
+              1424.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Succession and control of facilities and production.
+        </SUBJECT>
+        <P>
+          A person who obtains a facility that is under contract under this part
+          may request permission to succeed to the program agreement and CCC may
+          grant such request if it is determined that permitting such succession
+          would serve the purposes of the program. If appropriate, CCC may
+          require the consent of the original party to such succession. Also,
+          CCC may terminate a contract and demand full refund of payments made
+          if a contracting party loses control of a facility whose increased
+          production is the basis of a program payment or otherwise fails to
+          retain the ability to assure that all program obligations and
+          requirements will be met.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12537'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.11
+      </extid>
+      <num st='1'>
+        1424.11
+      </num>
+      <head>
+        Maintenance and inspection of records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='11' psec='' tq='N'>
+              1424.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Maintenance and inspection of records.
+        </SUBJECT>
+        <P>
+          For the purpose of verifying compliance with the requirements of this
+          part, each eligible producer shall make available at one place at all
+          reasonable times for examination by representatives of USDA, all
+          books, papers, records, contracts, scale tickets, settlement sheets,
+          invoices, written price quotations, or other documents related to the
+          program that is within the control of such entity for not less than
+          three years from the payment date.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12538'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.12
+      </extid>
+      <num st='1'>
+        1424.12
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='12' psec='' tq='N'>
+              1424.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A participant subject to an adverse determination under this part
+            may appeal by submitting a written request to: Deputy Administrator,
+            Commodity Operations, Farm Service Agency, United States Department
+            of Agriculture, STOP 0550, 1400 Independence Avenue, SW.,
+            Washington, D.C. 20250-0550. The appeal must be delivered in writing
+            to the Deputy Administrator or postmarked within 30 days after the
+            date the Agency decision is mailed or otherwise provided to the
+            participant. The Deputy Administrator may consider a late appeal if
+            determined warranted by the circumstances.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations at 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+            </aref>
+             apply to decisions made under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Producers who believe they have been adversely affected by a
+            determination by the Agency must seek review with the Deputy
+            Administrator before any other review may be requested within the
+            Agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12539'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.13
+      </extid>
+      <num st='1'>
+        1424.13
+      </num>
+      <head>
+        Misrepresentation and scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='13' psec='' tq='N'>
+              1424.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentation and scheme or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A producer shall be ineligible to receive payments under this
+            program if CCC determines the producer:
+            <PRTPAGE P='604' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device that tends to defeat the purpose of
+            the program in this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Made any fraudulent representation; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Misrepresented any fact affecting a program determination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any funds disbursed pursuant to this part to a producer engaged in
+            a misrepresentation, scheme, or device, or to any other person as a
+            result of the bioenergy producer&apos;s actions, shall be refunded
+            with interest together with such other sums as may become due, plus
+            damages as may be determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any producer or person engaged in an act prohibited by this section
+            and any producer or person receiving payment under this part shall
+            be jointly and severally liable for any refund due under this part
+            and for related charges.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The remedies provided in this part shall be in addition to other
+            civil, criminal, or administrative remedies that may apply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Late payment interest shall be assessed on all refunds in
+            accordance with the provisions and rates prescribed in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12540'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1424:-:1424.14
+      </extid>
+      <num st='1'>
+        1424.14
+      </num>
+      <head>
+        Offsets, assignments, interest and waivers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1424' sect='14' psec='' tq='N'>
+              1424.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Offsets, assignments, interest and waivers.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any payment or portion thereof to any person shall be made without
+            regard to questions of title under State law and without regard to
+            any claim or lien against the bioenergy, or proceeds thereof, in
+            favor of the owner or any other creditor except agencies of the U.S.
+            Government. The regulations governing offsets and withholdings found
+            in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+             shall be applicable to agreement payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any producer entitled to any payment may assign any payments in
+            accordance with regulations governing the assignment of payments
+            found at 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1404' tq='N'>
+                1404 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Interest charged by CCC under this part shall be at the rate of
+            interest that the United States Treasury charges CCC for funds, as
+            of the date CCC made such funds available. Such interest shall
+            accrue from the date such payments were made available to the date
+            of repayment or the date interest increases as determined in
+            accordance with applicable regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may waive the accrual of interest and/or damages if CCC
+            determines that the cause of the erroneous determination was not due
+            to any action of the bioenergy producer.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

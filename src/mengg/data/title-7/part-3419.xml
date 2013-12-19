@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXXIV:-:3419
+    </extid>
+    <num>
+      3419
+    </num>
+    <head>
+      MATCHING FUNDS REQUIREMENT FOR AGRICULTURAL RESEARCH AND EXTENSION FORMULA
+      FUNDS AT 1890 LAND-GRANT INSTITUTIONS, INCLUDING TUSKEGEE UNIVERSITY, AND
+      AT 1862 LAND-GRANT INSTITUTIONS IN INSULAR AREAS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+            , 
+            <subref title='5' sect='7' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/7.html'>
+              7
+            </subref>
+          </aref>
+           U.S.C. 3222d; 
+          <aref type='CFR-TIC-SECT'>
+            Sec. 753
+          </aref>
+          , Pub. L. No. 105-277, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=105_statutes2_at_large&amp;position=all&amp;page=2681'>
+            112 Stat. 2681
+          </aref>
+          -33.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            65 FR 21631
+          </aref>
+          , Apr. 21, 2000, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='16575'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3419:-:3419.1
+      </extid>
+      <num st='1'>
+        3419.1
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='1' psec='' tq='N'>
+              3419.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in this part:
+        </P>
+        <P>
+          <E T='03'>
+            Eligible institution
+          </E>
+           means a college or university eligible to receive funds under the Act
+          of August 30, 1890 (
+          <aref type='USC'>
+            <subref title='7' sect='321' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/321.html'>
+              7 U.S.C. 321
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ) (commonly known as the Second Morrill Act), including Tuskegee
+          University, or a college or university designated under the Act of
+          July 2, 1862 (
+          <aref type='USC'>
+            <subref title='7' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/301.html'>
+              7 U.S.C. 301
+            </subref>
+          </aref>
+          , 
+          <E T='03'>
+            et seq.
+          </E>
+          ) (commonly known as the First Morrill Act) and located in the
+          Commonwealth of Puerto Rico and the insular areas of American Samoa,
+          Guam, Micronesia, Northern Marianas, and the Virgin Islands.
+        </P>
+        <P>
+          <E T='03'>
+            Formula funds
+          </E>
+           means agricultural research funds provided to the eligible
+          institutions under 
+          <aref type='UNKNOWN'>
+            section 1445 of
+          </aref>
+           the National Agricultural Research, Extension, and Teaching Policy
+          Act of 1977 (NARETPA), as amended, or under 
+          <aref type='UNKNOWN'>
+            section 3 of
+          </aref>
+           the Hatch Act of 1887, 
+          <aref type='USC'>
+            <subref title='7' sect='361c' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/361c.html'>
+              7 U.S.C. 361c
+            </subref>
+          </aref>
+          , and agricultural extension funds provided to the eligible
+          institutions under 
+          <aref type='UNKNOWN'>
+            section 1444 of
+          </aref>
+           NARETPA or under 
+          <aref type='UNKNOWN'>
+            sections 3(b) and (c) of
+          </aref>
+           the Smith-Lever Act, 
+          <aref type='USC'>
+            <subref title='7' sect='343' note='' psec='#b' tq='N' target='http://www.law.cornell.edu/uscode/7/343.html#b'>
+              7 U.S.C. 343(b)
+            </subref>
+          </aref>
+           and (c).
+        </P>
+        <P>
+          <E T='03'>
+            Matching funds
+          </E>
+           means funds from non-Federal sources made available by the State to
+          the eligible institutions:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For programs or activities that fall within the purposes of
+            agricultural research and cooperative extension under 
+            <aref type='UNKNOWN'>
+              sections 1444 and 1445 of
+            </aref>
+             NARETPA, the Hatch Act of 1887, and the Smith-Lever Act; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For qualifying educational activities. Matching funds means cash
+            contributions and excludes in-kind matching contributions.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Non-Federal sources
+          </E>
+           means funds made available by the State to the eligible institution
+          either through direct appropriation or under any authority (other than
+          authority to charge tuition and fees paid by students) provided by a
+          State to an eligible institution to raise revenue, such as gift
+          acceptance authority or user fees.
+        </P>
+        <P>
+          <E T='03'>
+            Qualifying educational activities
+          </E>
+           means programs that address food and agricultural sciences components
+          of an eligible institution.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of Agriculture and any other officer or employee
+          of the Department of Agriculture to whom the authority involved may be
+          delegated.
+          <PRTPAGE P='456' />
+        </P>
+        <P>
+          <E T='03'>
+            State
+          </E>
+           means the government of any one of the fifty States, the Commonwealth
+          of Puerto Rico, Guam, American Samoa, the Commonwealth of Northern
+          Marianas, the Virgin Islands of the United States, the Republic of
+          Palau, the Republic of the Marshall Islands, and the Federated States
+          of Micronesia.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16576'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3419:-:3419.2
+      </extid>
+      <num st='1'>
+        3419.2
+      </num>
+      <head>
+        Matching funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='2' psec='' tq='N'>
+              3419.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Matching funds.
+        </SUBJECT>
+        <P>
+          The distribution of formula funds shall be subject to the following
+          matching requirements:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For fiscal year 2000, matching funds shall equal not less than 30
+            percent of the formula funds to be distributed to the eligible
+            institution;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For fiscal year 2001, matching funds shall equal not less than 45
+            percent of the formula funds to be distributed to the eligible
+            institution; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For fiscal year 2002 and each fiscal year thereafter, the matching
+            funds shall equal not less than 50 percent of the formula funds to
+            be distributed to the eligible institution.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16577'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3419:-:3419.3
+      </extid>
+      <num st='1'>
+        3419.3
+      </num>
+      <head>
+        Determination of non-Federal sources of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='3' psec='' tq='N'>
+              3419.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determination of non-Federal sources of funds.
+        </SUBJECT>
+        <P>
+          Each eligible institution shall submit by September 30, 1999, a report
+          describing for fiscal year 1999:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The sources of non-Federal funds made available to the eligible
+            institutions for agricultural research, extension, and qualified
+            educational activity to meet the matching requirements of 
+            <aref type='UNKNOWN'>
+              section 1449 of
+            </aref>
+             NARETPA, as amended; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The amount of funds generally available from each source. This
+            report for the fiscal year ending September 30, 1999, may also
+            include a request for a waiver of the matching funds requirement for
+            fiscal year 2000.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16578'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3419:-:3419.4
+      </extid>
+      <num st='1'>
+        3419.4
+      </num>
+      <head>
+        Limited waiver authority.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='4' psec='' tq='N'>
+              3419.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Limited waiver authority.
+        </SUBJECT>
+        <P>
+          The Secretary may waive the matching funds requirement for fiscal year
+          2000 for an eligible institution of a State if the Secretary
+          determines that, based on the report received under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='3' psec='' tq='N'>
+              3419.3
+            </subref>
+          </aref>
+          , the State will be unlikely to satisfy the matching requirement. The
+          criteria to waive the match in fiscal year 2000 may include:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Natural disaster, flood, fire, tornado, hurricane, or drought;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             State and/or institution facing a financial crisis; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstration of a good faith effort to obtain funds. Approval or
+            disapproval of the request for a waiver will be based on the report
+            submitted under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3419' sect='3' psec='' tq='N'>
+                3419.3
+              </subref>
+            </aref>
+            . The Secretary may not waive the matching requirement for any
+            fiscal year other than fiscal year 2000.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16579'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3419:-:3419.5
+      </extid>
+      <num st='1'>
+        3419.5
+      </num>
+      <head>
+        Certification of matching funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='5' psec='' tq='N'>
+              3419.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Certification of matching funds.
+        </SUBJECT>
+        <P>
+          Prior to the distribution of formula funds each fiscal year, each
+          eligible institution must certify as to the availability of matching
+          funds. Eligible institutions may revise their certification of
+          matching funds through July 1 of the fiscal year in which funds are
+          appropriated.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16580'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3419:-:3419.6
+      </extid>
+      <num st='1'>
+        3419.6
+      </num>
+      <head>
+        Use of matching funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='6' psec='' tq='N'>
+              3419.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Use of matching funds.
+        </SUBJECT>
+        <P>
+          The required matching funds for the formula programs shall be used by
+          an eligible institution for agricultural research and extension
+          activities that have been approved in the plan of work required under 
+          <aref type='UNKNOWN'>
+            sections 1444(d) and 1445(c) of
+          </aref>
+           the National Agricultural Research, Extension, and Teaching Policy
+          Act of 1977, 
+          <aref type='UNKNOWN'>
+            section 7 of
+          </aref>
+           the Hatch Act of 1887, 
+          <aref type='UNKNOWN'>
+            section 4 of
+          </aref>
+           the Smith-Lever Act, or for approved qualifying education activities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16581'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3419:-:3419.7
+      </extid>
+      <num st='1'>
+        3419.7
+      </num>
+      <head>
+        Redistribution of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='7' psec='' tq='N'>
+              3419.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Redistribution of funds.
+        </SUBJECT>
+        <P>
+          All formula funds not matched and reported under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='5' psec='' tq='N'>
+              3419.5
+            </subref>
+          </aref>
+           by July 1 of each fiscal year will be reapportioned to the other
+          eligible institutions who have satisfied their current fiscal year
+          requirement for matching funds for the formula funds. Unmatched
+          research and extension funds will be reapportioned in accordance with
+          the research and extension statutory distribution formulas applicable
+          to the 1890 and 1862 land-grant institutions, respectively. Any
+          redistribution of funds shall be subject to the same matching
+          requirement under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3419' sect='2' psec='' tq='N'>
+              3419.2
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

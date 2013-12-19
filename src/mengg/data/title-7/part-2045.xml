@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVIII:I:2045
+    </extid>
+    <num>
+      2045
+    </num>
+    <head>
+      GENERAL
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1989' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1989.html'>
+              7 U.S.C. 1989
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='42' sect='1480' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/1480.html'>
+              42 U.S.C. 1480
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            43 FR 3694
+          </aref>
+          , Jan. 27, 1978, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15807'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2045:JJ:2045.1751
+      </extid>
+      <num st='1'>
+        2045.1751
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2045' sect='1751' psec='' tq='N'>
+              2045.1751
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <aref type='UNKNOWN'>
+            Section 331(b) of
+          </aref>
+           the Consolidated Farm and Rural Development Act (Pub. L. 92-419), and
+          
+          <aref type='UNKNOWN'>
+            section 506(a) of
+          </aref>
+           the Housing Act of 1949, empower the Secretary of Agriculture to
+          accept and utilize voluntary and uncompensated services in carrying
+          out the provisions of the above cited Acts. The Secretary has
+          delegated those authorities to the Administrator of the Farmers Home
+          Administration (FmHA) or its successor agency under 
+          <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+            Public Law 103-354
+          </aref>
+           in 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='70' psec='#a' tq='N'>
+              2.70(a) (1) and (2)
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='15808'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2045:JJ:2045.1752
+      </extid>
+      <num st='1'>
+        2045.1752
+      </num>
+      <head>
+        Policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2045' sect='1752' psec='' tq='N'>
+              2045.1752
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy.
+        </SUBJECT>
+        <P>
+          Voluntary and uncompensated (gratuitous) services may be accepted with
+          the consent of the agency concerned, from the following sources under
+          the conditions set forth in Exhibit A, “Agreement for Utilization of
+          Employee of (
+          <E T='03'>
+            Enter Official Title of Governing Body or Other Authorized
+            Organization
+          </E>
+          ) By the Farmers Home Administration or its successor agency under 
+          <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+            Public Law 103-354
+          </aref>
+          ” (Agreement Form).
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any agency of State government or of any territory or political
+            subdivision.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Non-profit, educational, and charitable organizations, provided
+            that no partisan, political, or profit motive is involved either
+            explicitly or implicitly.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15809'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2045:JJ:2045.1753
+      </extid>
+      <num st='1'>
+        2045.1753
+      </num>
+      <head>
+        Authority to accept gratuitous services.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2045' sect='1753' psec='' tq='N'>
+              2045.1753
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Authority to accept gratuitous services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             State Directors, Director, Personnel Division, and Director,
+            Finance Office, are hereby authorized to accept and utilize
+            gratuitous services offered by the governmental agencies listed in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2045' sect='1752' psec='#a' tq='N'>
+                2045.1752(a)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An offer received by an FmHA or its successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             State or County Office from a source listed in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2045' sect='1752' psec='#b' tq='N'>
+                2045.1752(b)
+              </subref>
+            </aref>
+             shall be transmitted to the National Office, Attention: Director,
+            Personnel Division, for decision. The offer will be accompanied by
+            copies of the Articles of Incorporation and By-laws (if the
+            organization is incorporated), a statement that the organization
+            accepts the conditions set forth in the Agreement Form, and evidence
+            that the organization is financially able to meet the required
+            fiscal obligations of the agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15810'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2045:JJ:2045.1754
+      </extid>
+      <num st='1'>
+        2045.1754
+      </num>
+      <head>
+        Scope of gratuitous services performed.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          43 FR 3694
+        </aref>
+        , Jan. 27, 1978, as amended at 
+        <aref type='FREGIST'>
+          68 FR 61333
+        </aref>
+        , Oct. 28, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2045' sect='1754' psec='' tq='N'>
+              2045.1754
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope of gratuitous services performed.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Gratuitous services accepted in accordance with this subpart may be
+            utilized to perform any function performed by regular FmHA or its
+            successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             employees (excluding Committee members). Such services must not
+            result in the displacement of employees. Most of the gratuitous
+            services should be performed at the County Office level and conform
+            to a standard FmHA or its successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             position description. A nonstandard position description may be
+            developed and used, depending on current agency needs in a
+            particular office and gratuitous skills available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Orientation and other training will be provided by FmHA or its
+            successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             so that gratuitous services may be performed in accordance with
+            current 
+            <PRTPAGE P='20' />
+            FmHA or its successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             procedure.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Persons performing authorized gratuitous services will be held to
+            the same standard as regular FmHA or its successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             employees performing similar duties. The issuance of, and
+            accountability for, identification cards and clearance of employee
+            accountability will be as prescribed in FmHA or its successor agency
+            under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             Instruction 2024-B which is available in all FmHA or its successor
+            agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             Offices. Such persons, except Construction Inspectors may, when
+            under direct supervision of County Supervisors, act as Collection
+            Officers and be allowed to use receipt books.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            43 FR 3694
+          </aref>
+          , Jan. 27, 1978, as amended at 
+          <aref type='FREGIST'>
+            68 FR 61333
+          </aref>
+          , Oct. 28, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='15811'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2045:JJ:2045.1755
+      </extid>
+      <num st='1'>
+        2045.1755
+      </num>
+      <head>
+        Preparation and disposition of agreement forms.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2045' sect='1755' psec='' tq='N'>
+              2045.1755
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Preparation and disposition of agreement forms.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Agreements to accept and utilize gratuitous services must be
+            identical to the attached Exhibit A (Agreement Form) with such
+            exceptions as may be authorized by the Office of the General
+            Counsel, Department of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Two copies of each signed Agreement Form will be forwarded to the
+            Personnel Division. One copy will be retained in the State or
+            Finance Office.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15812'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:I:2045:JJ:2045.1756
+      </extid>
+      <num st='1'>
+        2045.1756
+      </num>
+      <head>
+        Records and reports.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2045' sect='1756' psec='' tq='N'>
+              2045.1756
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Records and reports.
+        </SUBJECT>
+        <P>
+          The FmHA or its successor agency under 
+          <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+            Public Law 103-354
+          </aref>
+           official signing the Agreement Form will maintain records to show the
+          names, duty assignments, time worked and work locations of all persons
+          performing gratuitous services. Copies of time reports submitted to
+          the persons&apos; employers should suffice. These records will be
+          necessary to respond to occasional requests for reports on the
+          acceptance and utilization of gratuitous services in the FmHA or its
+          successor agency under 
+          <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+            Public Law 103-354
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

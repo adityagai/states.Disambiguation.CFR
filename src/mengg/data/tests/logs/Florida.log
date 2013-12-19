@@ -1,0 +1,19 @@
+------------------ Evaluation model for Florida ---------------------
+
+Number of attributes : 3628
+
+Correctly Classified Instances          38               95      %
+Incorrectly Classified Instances         2                5      %
+Kappa statistic                          0.9   
+Mean absolute error                      0.05  
+Root mean squared error                  0.2236
+Relative absolute error                 10      %
+Root relative squared error             44.7214 %
+Total Number of Instances               40     
+
+=========== Confusion Matrix ===================
+20.0|0.0|
+2.0|18.0|
+
+
+----------- ModelPath : C:\Users\Prasannjit Kumar\workspace\stateDisambiguation/src/mengg/data/tests/trainingModel/Florida.model

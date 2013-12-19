@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXXVI:-:3601
+    </extid>
+    <num>
+      3601
+    </num>
+    <head>
+      PUBLIC INFORMATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+            , 
+            <subref title='5' sect='552' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              552
+            </subref>
+          </aref>
+          ; 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1' tq='N'>
+              1
+            </subref>
+          </aref>
+          , subpart A and appendix A thereto.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            66 FR 57843
+          </aref>
+          , Nov. 19, 2001, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='17274'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXVI:-:3601:-:3601.1
+      </extid>
+      <num st='1'>
+        3601.1
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='756' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3601' sect='1' psec='' tq='N'>
+              3601.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part is issued in accordance with the regulations of the
+          Secretary of Agriculture in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1' tq='N'>
+              1
+            </subref>
+          </aref>
+          , subpart A of this title and appendix A thereto, implementing the
+          Freedom of Information Act (FOIA) (
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              5 U.S.C. 552
+            </subref>
+          </aref>
+          ), and governs the availability of records of the National
+          Agricultural Statistics Service (NASS) to the public.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17275'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXVI:-:3601:-:3601.2
+      </extid>
+      <num st='1'>
+        3601.2
+      </num>
+      <head>
+        Public inspection, copying, and indexing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3601' sect='2' psec='' tq='N'>
+              3601.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Public inspection, copying, and indexing.
+        </SUBJECT>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a_2' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a_2'>
+              5 U.S.C. 552(a)(2)
+            </subref>
+          </aref>
+           requires that certain materials be made available for public
+          inspection and copying and that a current index of these materials be
+          published quarterly or otherwise be made available. Members of the
+          public may request access to such materials maintained by NASS at the
+          following office: Information Staff, ARS, REE, USDA, Room 1-2248, Mail
+          Stop 5128, 5601 Sunnyside Avenue, Beltsville, MD 20705-5128; Telephone
+          (301) 504-1640 or (301) 504-1655; TTY-VOICE (301) 504-1743. Office
+          hours are 8 a.m. to 4:30 p.m. Information maintained in our electronic
+          reading room can be accessed at 
+          <E T='03'>
+            http://www.ars.usda.gov/is/foia/#Electronic.
+          </E>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17276'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXVI:-:3601:-:3601.3
+      </extid>
+      <num st='1'>
+        3601.3
+      </num>
+      <head>
+        Requests for records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3601' sect='3' psec='' tq='N'>
+              3601.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requests for records.
+        </SUBJECT>
+        <P>
+          Requests for records of NASS under 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a_3' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a_3'>
+              5 U.S.C. 552(a)(3)
+            </subref>
+          </aref>
+           shall be made in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='5' psec='' tq='N'>
+              1.5
+            </subref>
+             of this title
+          </aref>
+           and submitted to the FOIA Coordinator, Information Staff, ARS, REE,
+          USDA, Mail Stop 5128, 5601 Sunnyside Avenue, Beltsville, MD
+          20705-5128; Telephone (301) 504-1640 or (301) 504-1655; TTY-VOICE
+          (301) 504-1643; Facsimile (301) 504-1648; e-mail 
+          <E T='03'>
+            vherberger@ars.usda.gov
+          </E>
+           or 
+          <E T='03'>
+            shutchison@ars.usda.gov.
+          </E>
+           The FOIA Coordinator is delegated authority to make determinations
+          regarding such requests in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='3' psec='#c' tq='N'>
+              1.3(c)
+            </subref>
+             of this title
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='17277'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXVI:-:3601:-:3601.4
+      </extid>
+      <num st='1'>
+        3601.4
+      </num>
+      <head>
+        Multitrack processing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3601' sect='4' psec='' tq='N'>
+              3601.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Multitrack processing.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             When NASS has a significant number of requests, the nature of which
+            precludes a determination within 20 working days, the requests may
+            be processed in a multitrack processing system, based on the date of
+            receipt, the amount of work and time involved in processing the
+            request, and whether the request qualifies for expedited processing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NASS may establish as many processing tracks as appropriate;
+            processing within each track shall be based on a first-in, first-out
+            concept, and rank-ordered by the date of receipt of the request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A requester whose request does not qualify for the fastest track
+            may be given an opportunity to limit the scope of the request in
+            order to qualify for the fastest track. This multitrack processing
+            system does not lessen agency responsibility to exercise due
+            diligence in processing requests in the most expeditious manner
+            possible.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NASS shall process requests in each track on a “first-in,
+            first-out” basis, unless there are unusual circumstances as set
+            forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1' sect='16' psec='' tq='N'>
+                1.16
+              </subref>
+               of this title
+            </aref>
+            , or the requester is entitled to expedited processing as set forth
+            in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1' sect='9' psec='' tq='N'>
+                1.9
+              </subref>
+               of this title
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17278'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXVI:-:3601:-:3601.5
+      </extid>
+      <num st='1'>
+        3601.5
+      </num>
+      <head>
+        Denials.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3601' sect='5' psec='' tq='N'>
+              3601.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Denials.
+        </SUBJECT>
+        <P>
+          If the FOIA Coordinator determines that a requested record is exempt
+          from mandatory disclosure and that discretionary release would be
+          improper, the FOIA Coordinator shall give written notice of denial in
+          accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='7' psec='#a' tq='N'>
+              1.7(a)
+            </subref>
+             of this title
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='17279'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXVI:-:3601:-:3601.6
+      </extid>
+      <num st='1'>
+        3601.6
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3601' sect='6' psec='' tq='N'>
+              3601.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          Any person whose request is denied shall have the right to appeal such
+          denial. Appeals shall be made in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='13' psec='' tq='N'>
+              1.13
+            </subref>
+             of this title
+          </aref>
+           and should be addressed as follows: Administrator, NASS, U.S.
+          Department of Agriculture, Washington, DC 20250.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17280'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXVI:-:3601:-:3601.7
+      </extid>
+      <num st='1'>
+        3601.7
+      </num>
+      <head>
+        Requests for published data and information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3601' sect='7' psec='' tq='N'>
+              3601.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requests for published data and information.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Published data and reports produced by NASS since 1995 are
+            available via the NASS Web site at 
+            <E T='03'>
+              http://www.usda.gov/nass/
+            </E>
+             or an e-mail subscription may be established via the website under
+            Publications. Searching on the website is available by topic, by
+            title, or by date. The titles displayed in the search include
+            NASS&apos;s published periodicals and annual reports. Full text of
+            all the titles is available at no cost (PDF Files beginning 1999).
+            Printed copies and reports published after 1996 can be purchased
+            from the ERS-NASS sales desk at the National Technical Information
+            Center at 1 (800) 999-
+            <PRTPAGE P='757' />
+            6779 (8:30 a.m.-5 p.m. Eastern Time, M-F).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Information on published data, printed subscription rates, and
+            historic publications is available from the Secretary, Agricultural
+            Statistics Board, NASS, U.S. Department of Agriculture, Washington,
+            DC 20250. This information is also available from the NASS website
+            under Publications, NASS Catalog, NASS Periodicals and Annual
+            Reports. Published data, from each State Statistical Office, are
+            available via the NASS website under State Information or by e-mail
+            subscription. Published data subscription forms are available from
+            the State Statistician at each State Statistical Office. Addresses
+            are listed in appendix A to 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3600' tq='N'>
+                3600 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

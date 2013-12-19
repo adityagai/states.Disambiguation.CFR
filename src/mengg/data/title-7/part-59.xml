@@ -1,0 +1,4455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:C:59
+    </extid>
+    <num>
+      59
+    </num>
+    <head>
+      LIVESTOCK MANDATORY REPORTING
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1635-163' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1635-163.html'>
+              7 U.S.C. 1635-163
+            </subref>
+          </aref>
+          6i.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            73 FR 28633
+          </aref>
+          , May 16, 2008, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='3669'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:A:59.10
+      </extid>
+      <num st='1'>
+        59.10
+      </num>
+      <head>
+        General administrative provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='10' psec='' tq='N'>
+              59.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General administrative provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Reporting by packers and importers.
+            </head>
+          </npcatch>
+          <text>
+             A packer or importer shall report all information required under
+            this part on an individual lot basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Reporting schedule.
+            </head>
+          </npcatch>
+          <text>
+             Whenever a packer or importer is required to report information on
+            transactions of livestock and livestock products under this part by
+            a set time, all covered transactions up to within one half hour of
+            the reporting deadline shall be reported. Transactions completed
+            during the one half hour prior to the previous reporting time, but
+            not reported in the previous report, shall be reported at the next
+            scheduled reporting time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Regional reporting and aggregation.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make information obtained under this part
+            available to the public only in a manner that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Ensures that the information is published on a national and a
+            regional or statewide basis as the Secretary determines to be
+            appropriate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Ensures that the identity of a reporting person or the entity which
+            they represent is not disclosed; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Market information reported to the Secretary by packers and
+            importers shall be aggregated in such a manner that the market
+            reports issued will not disclose the identity of persons, packers
+            and importers, including parties to a contract and packer&apos;s and
+            importer&apos;s proprietary information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Adjustments.
+            </head>
+          </npcatch>
+          <text>
+             Prior to the publication of any information required under this
+            part, the Secretary may make reasonable adjustments in information
+            reported by packers and importers to reflect price aberrations or
+            other unusual or unique occurrences that the Secretary determines
+            would distort the published information to the detriment of
+            producers, packers, or other market participants.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Reporting of activities on weekends and holidays.
+            </head>
+          </npcatch>
+          <text>
+             Livestock and livestock products committed to a packer, or
+            importer, or purchased, sold, or slaughtered by a packer or importer
+            on a weekend day or holiday shall be reported to the Secretary in
+            accordance with the provisions of this Part and reported by the
+            Secretary on the immediately following reporting day. A packer shall
+            not be required to report such actions more than once on the
+            immediately following reporting day.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Reporting methods.
+            </head>
+          </npcatch>
+          <text>
+             Whenever information is required to be reported under this part, it
+            shall be reported by electronic means and shall adhere to a
+            standardized format established by the Secretary to achieve the
+            objectives of this part, except in emergencies or in cases when an
+            alternative method is agreeable to the entity required to report and
+            AMS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3670'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:A:59.20
+      </extid>
+      <num st='1'>
+        59.20
+      </num>
+      <head>
+        Recordkeeping.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='20' psec='' tq='N'>
+              59.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recordkeeping.
+        </SUBJECT>
+        <EXT-XREF HREF='20120525' REFID='1'>
+          Link to an amendment published at 
+          <aref type='FREGIST'>
+            77 FR 50573
+          </aref>
+          , Aug. 22, 2012.
+        </EXT-XREF>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              In general.
+            </head>
+          </npcatch>
+          <text>
+             Each packer or importer required to report information to the
+            Secretary under the Act and this Part shall maintain for 2 years and
+            make available to the Secretary the following information on
+            request:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The original contracts, agreements, receipts, and other records
+            associated with any transaction relating to the purchase, sale,
+            pricing, transportation, delivery, weighing, slaughter, or carcass
+            characteristics of all livestock or livestock products; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Such records or other information as is necessary or appropriate to
+            verify the accuracy of the information required to be reported under
+            the Act and this Part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Purchases of cattle and swine and sales of boxed beef cuts.
+            </head>
+          </npcatch>
+          <text>
+             A record of a purchase of a lot of cattle or swine, or a sale of a
+            unit of boxed beef cuts, by a packer shall evidence whether the
+            purchase or sale occurred:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Before 10 a.m. central time;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Between 10 a.m. and 2 p.m. central time; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             After 2 p.m. central time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Purchases of lambs.
+            </head>
+          </npcatch>
+          <text>
+             A record of a purchase of a lot of lambs by a packer shall evidence
+            whether the purchase occurred:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Before 2 p.m. central time; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             After 2 p.m. central time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Sales of lamb carcasses and sales of boxed lamb cuts.
+            </head>
+          </npcatch>
+          <text>
+             A record of a sale by a packer of lamb carcasses and cuts, shall
+            evidence time and date the sale occurred:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Before 2 p.m. central time; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             After 2 p.m. central time.
+            <PRTPAGE P='157' />
+          </text>
+        </P>
+        <FP>
+          A record of sale by an importer of lamb cuts shall evidence the date
+          the sale occurred.
+        </FP>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Reporting sales of boxed beef cuts and sales of boxed lamb cuts.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Beef packers must report all sales of boxed beef items by the
+            applicable Institutional Meat Purchase Specifications (IMPS) item
+            number or the boxed beef items&apos; cutting and trimming
+            specifications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Lamb packers and importers must report all sales of boxed lamb
+            items by the applicable Institutional Meat Purchase Specifications
+            (IMPS) item number or the boxed lamb items&apos; cutting and
+            trimming specifications.
+          </text>
+        </P>
+        <EFFDNOTP>
+          <HD SOURCE='HED'>
+            Effective Date Note:
+          </HD>
+          <P>
+            At 
+            <aref type='FREGIST'>
+              77 FR 50573
+            </aref>
+            , Aug. 22, 2012, 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='20' psec='' tq='N'>
+                59.20
+              </subref>
+            </aref>
+             was amended by adding paragraph (f), effective Jan. 7, 2013. For
+            the convenience of the user, the added text is set forth as follows:
+          </P>
+          <REVTXT>
+            <SECTION>
+              <SECTNO>
+                <aref type='CFR-TIC-SECT'>
+                  § 
+                  <subref title='7' part='59' sect='20' psec='' tq='N'>
+                    59.20
+                  </subref>
+                </aref>
+              </SECTNO>
+              <SUBJECT>
+                Recordkeeping.
+              </SUBJECT>
+              <STARS />
+              <P>
+                (f) 
+                <E T='03'>
+                  Reporting sales of wholesale pork.
+                </E>
+                 A record of a sale of wholesale pork by a packer shall evidence
+                whether the sale occurred:
+              </P>
+              <P>
+                (1) Before 10:00 a.m. central time;
+              </P>
+              <P>
+                (2) Between 10:00 a.m. and 2:00 p.m. central time; or
+              </P>
+              <P>
+                (3) After 2:00 p.m. central time.
+              </P>
+            </SECTION>
+          </REVTXT>
+        </EFFDNOTP>
+      </contents>
+    </section>
+    <section orderid='3671'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:A:59.30
+      </extid>
+      <num st='1'>
+        59.30
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='30' psec='' tq='N'>
+              59.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this part.
+        </P>
+        <P>
+          <E T='03'>
+            Act.
+          </E>
+           The term “Act” means Subtitle B of the Agricultural Marketing Act of
+          1946, as amended; 
+          <aref type='USC'>
+            <subref title='7' sect='1635-163' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1635-163.html'>
+              7 U.S.C. 1635-163
+            </subref>
+          </aref>
+          6h.
+        </P>
+        <P>
+          <E T='03'>
+            Base price.
+          </E>
+           The term “base price” means the price paid for livestock, delivered
+          at the packing plant, before application of any premiums or discounts,
+          expressed in dollars per hundred pounds of hot carcass weight.
+        </P>
+        <P>
+          <E T='03'>
+            Basis level.
+          </E>
+           The term “basis level” means the agreed on adjustment to a future
+          price to establish the final price paid for livestock.
+        </P>
+        <P>
+          <E T='03'>
+            Current slaughter week.
+          </E>
+           The term “current slaughter week” means the period beginning Monday,
+          and ending Sunday, of the week in which a reporting day occurs.
+        </P>
+        <P>
+          <E T='03'>
+            Discount.
+          </E>
+           The term “discount” means the adjustment, expressed in dollars per
+          one hundred pounds, subtracted from the base price due to weight,
+          quality characteristics, yield characteristics, livestock class, dark
+          cutting, breed, dressing percentage, or other characteristic.
+        </P>
+        <P>
+          <E T='03'>
+            Exported.
+          </E>
+           The term “exported” means livestock or livestock products that are
+          physically shipped to locations outside of the 50 States.
+        </P>
+        <P>
+          <E T='03'>
+            F.O.B.
+          </E>
+           The term “F.O.B.” means free on board, regardless of the mode of
+          transportation, at the point of direct shipment by the seller to the
+          buyer (e.g., F.O.B. Plant, F.O.B. Feedlot).
+        </P>
+        <P>
+          <E T='03'>
+            Imported.
+          </E>
+           The term “imported” means livestock that are raised to slaughter
+          weight outside of the 50 States or livestock products produced outside
+          of the 50 States.
+        </P>
+        <P>
+          <E T='03'>
+            Institutional Meat Purchase Specifications.
+          </E>
+           Specifications describing various meat cuts, meat products, and meat
+          food products derived from all livestock species, commonly abbreviated
+          “IMPS”, and intended for use by any meat procuring activity. Copies of
+          the IMPS may be obtained from the U.S. Department of Agriculture,
+          Agricultural Marketing Service, Livestock and Seed Program located at
+          Room 2603 South Building, 1400 Independence Ave., SW., Washington, DC
+          20250. Phone (202) 720-4486 or Fax (202) 720-1112. Copies may also be
+          obtained over the Internet at: 
+          <E T='03'>
+            http://www.ams.usda.gov/lsg/stand/st-pubs.htm.
+          </E>
+        </P>
+        <P>
+          <E T='03'>
+            Livestock.
+          </E>
+           The term “livestock” means cattle, swine, and lambs.
+        </P>
+        <P>
+          <E T='03'>
+            Lot.
+          </E>
+           (1) When used in reference to livestock, the term “lot” means a group
+          of one or more livestock that is identified for the purpose of a
+          single transaction between a buyer and a seller;
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to lamb carcasses, the term “lot” means a
+            group of one or more lamb carcasses sharing a similar weight range
+            category and comprising a single transaction between a buyer and
+            seller; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to boxed beef and lamb, the term “lot” means
+            a group of one or more boxes of beef or lamb items sharing cutting
+            and trimming specifications and comprising a single transaction
+            between a buyer and seller.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Marketing.
+          </E>
+           The term “marketing” means the sale or other disposition of
+          livestock, livestock products, or meat or meat food products in
+          commerce.
+          <PRTPAGE P='158' />
+        </P>
+        <P>
+          <E T='03'>
+            Negotiated purchase.
+          </E>
+           The term “negotiated purchase” means a cash or spot market purchase
+          by a packer of livestock from a producer under which the base price
+          for the livestock is determined by seller-buyer interaction and
+          agreement on a delivery day. The livestock are scheduled for delivery
+          to the packer not more than 14 days after the date on which the
+          livestock are committed to the packer.
+        </P>
+        <P>
+          <E T='03'>
+            Negotiated grid purchase.
+          </E>
+           The term “negotiated grid purchase” in reference to cattle means the
+          negotiation of a base price, from which premiums are added and
+          discounts are subtracted, determined by seller-buyer interaction and
+          agreement on a delivery day. The livestock are scheduled for delivery
+          to the packer not more than 14 days after the date on which the
+          livestock are committed to the packer.
+        </P>
+        <P>
+          <E T='03'>
+            Negotiated sale.
+          </E>
+           The term “negotiated sale” means a cash or spot market sale by a
+          producer of livestock to a packer under which the base price for the
+          livestock is determined by seller-buyer interaction and agreement on a
+          delivery day. The livestock are scheduled for delivery to the packer
+          not later than 14 days after the date on which the livestock are
+          committed to the packer. When used in reference to sales of boxed beef
+          or lamb cuts or lamb carcasses the term “negotiated sale” means a sale
+          by a packer selling boxed beef or lamb cuts or lamb carcasses to a
+          buyer of boxed beef or lamb cuts or lamb carcasses under which the
+          price for the boxed beef or lamb cuts or lamb carcasses is determined
+          by seller-buyer interaction and agreement on a day.
+        </P>
+        <P>
+          <E T='03'>
+            Origin.
+          </E>
+           The term “origin” means the State where the livestock were fed to
+          slaughter weight.
+        </P>
+        <P>
+          <E T='03'>
+            Percent lean.
+          </E>
+           The term “percent lean” means the value equal to the average
+          percentage of the carcass weight comprised of lean meat.
+        </P>
+        <P>
+          <E T='03'>
+            Person.
+          </E>
+           The term “person” means any individual, group of individuals,
+          partnership, corporation, association, or other entity.
+        </P>
+        <P>
+          <E T='03'>
+            Premium.
+          </E>
+           The term “premium” means the adjustment, expressed in dollars per one
+          hundred pounds, added to the base price due to weight, quality
+          characteristics, yield characteristics, livestock class, and breed.
+        </P>
+        <P>
+          <E T='03'>
+            Priced.
+          </E>
+           The term “priced” means the time when the final price is determined
+          either through buyer-seller interaction and agreement or as a result
+          of some other price determining method.
+        </P>
+        <P>
+          <E T='03'>
+            Prior slaughter week.
+          </E>
+           The term prior “slaughter week” means the Monday through Sunday prior
+          to a reporting day.
+        </P>
+        <P>
+          <E T='03'>
+            Producer.
+          </E>
+           The term “producer” means any person engaged in the business of
+          selling livestock to a packer for slaughter (including the sale of
+          livestock from a packer to another packer).
+        </P>
+        <P>
+          <E T='03'>
+            Purchased.
+          </E>
+           The term “purchased” means the agreement on a price, or the method
+          for calculating a price, determined through buyer-seller interaction
+          and agreement.
+        </P>
+        <P>
+          <E T='03'>
+            Reporting day.
+          </E>
+           The term “reporting day” means a day on which a packer conducts
+          business regarding livestock committed to the packer, or livestock
+          purchased, sold, or slaughtered by the packer; the Secretary is
+          required to make such information available to the public; and the
+          Department of Agriculture is open to conduct business.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary.
+          </E>
+           The term “Secretary” means the Secretary of Agriculture of the United
+          States or any other officer or employee of the Department of
+          Agriculture to whom authority has been delegated or may hereafter be
+          delegated to act in the Secretary&apos;s stead.
+        </P>
+        <P>
+          <E T='03'>
+            State.
+          </E>
+           The term “State” means each of the 50 States.
+        </P>
+        <EFFDNOTP>
+          <HD SOURCE='HED'>
+            Effective Date Note:
+          </HD>
+          <P>
+            At 
+            <aref type='FREGIST'>
+              77 FR 50573
+            </aref>
+            , Aug. 22, 2012, 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='30' psec='' tq='N'>
+                59.30
+              </subref>
+            </aref>
+             was amended by revising the definition of “F.O.B.”, the last two
+            sentences in the definition of “Institutional Meat Purchase
+            Specifications”, and paragraph (3) of the definition of “Lot”,
+            effective Jan. 7, 2013. For the convenience of the user, the revised
+            text is set forth as follows:
+          </P>
+          <REVTXT>
+            <SECTION>
+              <SECTNO>
+                <aref type='CFR-TIC-SECT'>
+                  § 
+                  <subref title='7' part='59' sect='30' psec='' tq='N'>
+                    59.30
+                  </subref>
+                </aref>
+              </SECTNO>
+              <SUBJECT>
+                Definitions.
+              </SUBJECT>
+              <STARS />
+              <P>
+                <E T='03'>
+                  F.O.B.
+                </E>
+                 The term “F.O.B.” means free on board, regardless of the mode
+                of transportation, at the point of direct shipment by the seller
+                to the buyer (e.g., F.O.B. Plant, F.O.B. Feedlot) or from a
+                common basis point to the buyer (e.g., F.O.B. Omaha).
+                <STARS />
+              </P>
+              <P>
+                <E T='03'>
+                  Institutional Meat Purchase Specifications.
+                </E>
+                 * * * Phone (202) 260-8295 or Fax (202) 720-
+                <PRTPAGE P='159' />
+                1112. Copies may also be obtained over the Internet at 
+                <E T='03'>
+                  http://www.ams.usda.gov/AMSv1.0/LivestockStandardizationIMPS.
+                </E>
+                <STARS />
+              </P>
+              <P>
+                <E T='03'>
+                  Lot.
+                </E>
+                 * * *
+              </P>
+              <P>
+                (3) When used in reference to boxed beef, wholesale pork, and
+                lamb, the term `lot&apos; means a group of one or more boxes of
+                beef, wholesale pork, or lamb items sharing cutting and trimming
+                specifications and comprising a single transaction between a
+                buyer and seller.
+                <STARS />
+              </P>
+            </SECTION>
+          </REVTXT>
+        </EFFDNOTP>
+      </contents>
+    </section>
+    <section orderid='3672'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:B:59.100
+      </extid>
+      <num st='1'>
+        59.100
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='100' psec='' tq='N'>
+              59.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this subpart.
+        </P>
+        <P>
+          <E T='03'>
+            Boxed beef.
+          </E>
+           The term “boxed beef” means those carlot-based portions of a beef
+          carcass including fresh and frozen primals, subprimals, cuts
+          fabricated from subprimals (excluding portion-control cuts such as
+          chops and steaks similar to those portion cut items described in the
+          Institutional Meat Purchase Specifications (IMPS) for Fresh Beef
+          Products Series 100), thin meats (e.g. inside and outside skirts,
+          pectoral meat, cap and wedge meat, and blade meat), and fresh and
+          frozen ground beef, beef trimmings, and boneless processing beef.
+        </P>
+        <P>
+          <E T='03'>
+            Branded.
+          </E>
+           The term “branded” means boxed beef cuts produced and marketed under
+          a corporate trademark (for example, products that are marketed on
+          their quality, yield, or breed characteristics), or boxed beef cuts
+          produced and marketed under one of USDA&apos;s Meat Grading and
+          Certification Branch, Certified Beef programs.
+        </P>
+        <P>
+          <E T='03'>
+            Carcass characteristics.
+          </E>
+           The term “carcass characteristics” means the range and average
+          carcass weight in pounds, the quality grade and yield grade (if
+          applicable), and the average cattle dressing percentage.
+        </P>
+        <P>
+          <E T='03'>
+            Carlot-based.
+          </E>
+           The term “carlot-based” means any transaction between a buyer and a
+          seller destined for two or less delivery stops consisting of one or
+          more individual boxed beef items. When used in reference to cow and
+          bull boxed beef items, the term “carlot-based” means any transaction
+          between a buyer and seller consisting of 2,000 pounds or more of one
+          or more individual items.
+        </P>
+        <P>
+          <E T='03'>
+            Cattle committed.
+          </E>
+           The term “cattle committed” means cattle that are scheduled to be
+          delivered to a packer within the 7-day period beginning on the date of
+          an agreement to sell the cattle.
+        </P>
+        <P>
+          <E T='03'>
+            Cattle type.
+          </E>
+           The term “cattle type” means the following types of cattle purchased
+          for slaughter:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Fed steers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Fed heifers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Fed Holsteins and other fed dairy steers and heifers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Cows; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Bulls.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Established
+          </E>
+          . The term “established”, when used in connection with prices, means
+          that point in time when the buyer and seller agree upon a net price.
+        </P>
+        <P>
+          <E T='03'>
+            Formula marketing arrangement
+          </E>
+          .
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to live cattle, the term “formula marketing
+            arrangement” means the advance commitment of cattle for slaughter by
+            any means other than through a negotiated purchase or a forward
+            contract, using a method for calculating price in which the price is
+            determined at a future date.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to boxed beef, the term “formula marketing
+            arrangement” means the advance commitment of boxed beef by any means
+            other than through a negotiated purchase or a forward contract,
+            using a method for calculating price in which the price is
+            determined at a future date.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Forward contract.
+          </E>
+           (1) When used in reference to live cattle, the term “forward
+          contract” means an agreement for the purchase of cattle, executed in
+          advance of slaughter, under which the base price is established by
+          reference to prices quoted on the Chicago Mercantile Exchange, or
+          other comparable publicly available prices.
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to boxed beef, the term “forward contract”
+            means an agreement for the sale of boxed beef, executed in advance
+            of manufacture, under which the base price is established by
+            reference to publicly available quoted prices.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Packer
+          </E>
+          . The term “packer” means any person engaged in the business of 
+          <PRTPAGE P='160' />
+          buying cattle in commerce for purposes of slaughter, of manufacturing
+          or preparing meats or meat food products from cattle for sale or
+          shipment in commerce, or of marketing meats or meat food products from
+          cattle in an unmanufactured form acting as a wholesale broker, dealer,
+          or distributor in commerce. For any calendar year, the term “packer”
+          includes only a federally inspected cattle processing plant that
+          slaughtered an average of 125,000 head of cattle per year during the
+          immediately preceding 5 calendar years. Additionally, in the case of a
+          cattle processing plant that did not slaughter cattle during the
+          immediately preceding 5 calendar years, it shall be considered a
+          packer if the Secretary determines the processing plant should be
+          considered a packer under this subpart after considering its capacity.
+        </P>
+        <P>
+          <E T='03'>
+            Packer-owned cattle
+          </E>
+          . The term “packer-owned cattle” means cattle that a packer owns for
+          at least 14 days immediately before slaughter.
+        </P>
+        <P>
+          <E T='03'>
+            Prices for cattle
+          </E>
+          . The term “prices for cattle” includes the price per hundredweight;
+          the purchase type; the quantity on a live and a dressed weight basis;
+          the estimated live weight range; the average live weight; the
+          estimated percentage of cattle of a USDA quality grade Choice or
+          better; beef carcass classification; any premiums or discounts
+          associated with weight, quality grade, yield grade, or type of
+          purchase; cattle State of origin; estimated cattle dressing
+          percentage; and price basis as F.O.B. feedlot or delivered at the
+          plant.
+        </P>
+        <P>
+          <E T='03'>
+            Terms of trade
+          </E>
+          . The term “terms of trade” means, with respect to the purchase of
+          steers and heifers for slaughter:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Whether a packer provided any financing agreement or arrangement
+            with regard to the steers and heifers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Whether the delivery terms specified the location of the producer
+            or the location of the packer&apos;s plant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Whether the producer is able to unilaterally specify the date and
+            time during the business day of the packer that the cattle are to be
+            delivered for slaughter; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The percentage of steers and heifers purchased by a packer as a
+            negotiated purchase that are scheduled to be delivered to the plant
+            for slaughter not later than 14 days and the percentage of slaughter
+            steers and heifers purchased by a packer as a negotiated purchase
+            that are scheduled to be delivered to the plant for slaughter more
+            than 14 days, but fewer than 30 days.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Type of purchase
+          </E>
+          . The term “type of purchase” with respect to cattle, means a
+          negotiated purchase, negotiated grid purchase, a formula market
+          arrangement, and a forward contract.
+        </P>
+        <P>
+          <E T='03'>
+            Type of sale
+          </E>
+          . The term “type of sale” with respect to boxed beef, means a
+          negotiated sale, a formula market arrangement, and a forward contract.
+        </P>
+        <P>
+          <E T='03'>
+            White cow
+          </E>
+          . Cow on a ration that tends to produce white fat.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3673'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:B:59.101
+      </extid>
+      <num st='1'>
+        59.101
+      </num>
+      <head>
+        Mandatory daily reporting for steers and heifers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='101' psec='' tq='N'>
+              59.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory daily reporting for steers and heifers.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              In general.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each steer and heifer packer processing plant shall report to the
+            Secretary at least two times each reporting day not later than 10
+            a.m. central time and not later than 2 p.m. central time the
+            following information, inclusive since the last reporting,
+            categorized to clearly delineate domestic from imported market
+            purchases as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The prices for cattle (per hundredweight) established on that day,
+            categorized by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle purchased on a live weight basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle purchased on a dressed weight basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The estimated weights of cattle purchased;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             An estimate of the percentage of the cattle purchased that were of
+            a quality grade of Choice or better; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Any premiums or discounts associated with weight, quality grade,
+            yield grade, or other characteristic expressed in dollars per
+            hundredweight on a dressed basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle delivered to the packer (quoted in numbers
+            of head) on that day, categorized by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle delivered on a live weight basis; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle delivered on a dressed weight basis.
+            <PRTPAGE P='161' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle committed to the packer (quoted in numbers
+            of head) as of that day, categorized by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle committed on a live weight basis; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle committed on a dressed weight basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The terms of trade regarding the cattle, as applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make the information available to the public
+            not less frequently than three times each reporting day.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3674'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:B:59.102
+      </extid>
+      <num st='1'>
+        59.102
+      </num>
+      <head>
+        Mandatory daily reporting for cows and bulls.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='102' psec='' tq='N'>
+              59.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory daily reporting for cows and bulls.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              In General.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each cow and bull packer processing plant shall report to the
+            Secretary each reporting day the following information for each
+            cattle type, inclusive since the last reporting, categorized to
+            clearly delineate domestic from imported market purchases as
+            described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The base bid price (per hundredweight) intended to be paid for
+            slaughter cow and bull carcasses on that day not later than 10 a.m.
+            central time categorized by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Weight; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             For slaughter cows, percent lean (e.g., breaker, boner, cutter
+            (lean)).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The prices for cattle (per hundredweight) purchased during the
+            previous day not later than 2 p.m. central time categorized by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle purchased on a live weight basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle purchased on a dressed weight basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The estimated weight of the cattle purchased;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The quality classification; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Any premiums or discounts associated with weight or quality
+            expressed in dollars per hundredweight on a dressed basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The volume of cows and bulls slaughtered the previous day.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make the information available to the public
+            within one hour of the required reporting time on the reporting day
+            on which the information is received from the packer.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3675'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:B:59.103
+      </extid>
+      <num st='1'>
+        59.103
+      </num>
+      <head>
+        Mandatory weekly reporting for steers and heifers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='103' psec='' tq='N'>
+              59.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory weekly reporting for steers and heifers.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              In general.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each steer and heifer packer processing plant shall report to the
+            Secretary on the first reporting day of each week, not later than 9
+            a.m. central time, the following information applicable to the prior
+            slaughter week, categorized to clearly delineate domestic from
+            imported market purchases:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle purchased through a negotiated basis that
+            were slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle purchased through a negotiated grid basis
+            that were slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle purchased through forward contracts that
+            were slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of cattle delivered under a formula marketing
+            arrangement that were slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity and carcass characteristics of packer-owned cattle
+            that were slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity, basis level, basis level month, and delivery month
+            and year for all cattle purchased through forward contracts;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The range and average of intended premiums and discounts (including
+            those associated with weight, quality grade, yield grade, or type of
+            cattle) that are expected to be in effect for the current slaughter
+            week.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make available to the public the information
+            obtained under paragraph (a) of this section on the first reporting
+            day of the current slaughter week by 10 a.m. central time.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3676'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:B:59.104
+      </extid>
+      <num st='1'>
+        59.104
+      </num>
+      <head>
+        Mandatory reporting of boxed beef sales.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='104' psec='' tq='N'>
+              59.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory reporting of boxed beef sales.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Daily reporting.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer processing plant shall report to the Secretary at least
+            twice each reporting day (once by 10 a.m. central time, and once by
+            2 p.m. central time) the following information on total boxed beef
+            domestic and export sales established on that day inclusive since
+            the last reporting as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            :
+            <PRTPAGE P='162' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The price for each lot of each boxed beef sale, quoted in dollars
+            per hundredweight on a F.O.B. plant basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity for each lot of each sale, quoted by number of pounds
+            sold; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The information regarding the characteristics of each sale is as
+            follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of sale;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The branded product characteristics, if applicable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The grade for steer and heifer beef (e.g., USDA Prime, USDA Choice
+            or better, USDA Choice, USDA Select, ungraded no-roll product);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The grade for cow beef or packer yield and/or quality sort for cow
+            beef (e.g., Breakers, Boners, White Cow, Cutters (lean));
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The cut of beef, referencing the most recent version of the
+            Institutional Meat Purchase Specifications (IMPS), when applicable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The trim specification;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             The weight range of the cut;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             The product delivery period; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ix'>
+            <enum src='gpotxt' cln='1'>
+              (ix)
+            </enum>
+          </npcatch>
+          <text>
+             The beef type (steer/heifer, dairy steer/heifer, or cow).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make available to the public the information
+            obtained under paragraph (a) of this section not less frequently
+            than twice each reporting day.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3677'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:C:59.200
+      </extid>
+      <num st='1'>
+        59.200
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='200' psec='' tq='N'>
+              59.200
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this subpart.
+        </P>
+        <P>
+          <E T='03'>
+            Affiliate.
+          </E>
+           The term “affiliate”, with respect to a packer, means:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A person that directly or indirectly owns, controls, or holds with
+            power to vote, 5 percent or more of the outstanding voting
+            securities of the packer;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A person 5 percent or more of whose outstanding voting securities
+            are directly or indirectly owned, controlled, or held with power to
+            vote, by the packer; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A person that directly or indirectly controls, or is controlled by
+            or under common control with, the packer.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Applicable reporting period
+          </E>
+          . The term “applicable reporting period” means the period of time
+          prescribed by the prior day report, the morning report, and the
+          afternoon report, as provided in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='202' psec='' tq='N'>
+              59.202
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Average carcass weight
+          </E>
+          . The term “average carcass weight” means the weight obtained by
+          dividing the total carcass weight of the swine slaughtered at the
+          packing plant during the applicable reporting period by the number of
+          these same swine.
+        </P>
+        <P>
+          <E T='03'>
+            Average lean percentage
+          </E>
+          . The term “average lean percentage” means the value equal to the
+          average percentage of the carcass weight comprised of lean meat for
+          the swine slaughtered during the applicable reporting period. Whenever
+          the packer changes the manner in which the average lean percentage is
+          calculated, the packer shall make available to the Secretary the
+          underlying data, applicable methodology and formulae, and supporting
+          materials used to determine the average lean percentage, which the
+          Secretary may convert either to the carcass measurements or lean
+          percentage of the swine of the individual packer to correlate to a
+          common percent lean measurement.
+        </P>
+        <P>
+          <E T='03'>
+            Average net price
+          </E>
+          . The term “average net price” means the quotient (stated per hundred
+          pounds of carcass weight of swine) obtained by dividing the total
+          amount paid for the swine slaughtered at a packing plant during the
+          applicable reporting period (including all premiums and less all
+          discounts) by the total carcass weight of the swine (in hundred pound
+          increments).
+        </P>
+        <P>
+          <E T='03'>
+            Average sort loss
+          </E>
+          . The term “average sort loss” means the average discount (in dollars
+          per hundred pounds carcass weight) for swine slaughtered during the
+          applicable reporting period, resulting from the fact that the swine
+          did not fall within the individual packer&apos;s established carcass
+          weight range or lot variation range.
+        </P>
+        <P>
+          <E T='03'>
+            Backfat
+          </E>
+          . The term “backfat” means the fat thickness (in inches) measured
+          between the third and fourth rib from the last rib, 7 centimeters from
+          the carcass split (or adjusted from the individual packer&apos;s
+          measurement to that reference point using an adjustment made by the
+          Secretary) of the swine slaughtered during the applicable reporting
+          period.
+          <PRTPAGE P='163' />
+        </P>
+        <P>
+          <E T='03'>
+            Barrow
+          </E>
+          . The term “barrow” means a neutered male swine, with the neutering
+          performed before the swine reached sexual maturity.
+        </P>
+        <P>
+          <E T='03'>
+            Base market hog
+          </E>
+          . The term “base market hog” means a barrow or gilt for which no
+          discounts are subtracted from and no premiums are added to the base
+          price.
+        </P>
+        <P>
+          <E T='03'>
+            Base price
+          </E>
+          . The term “base price” means the price from which no discounts are
+          subtracted and no premiums are added.
+        </P>
+        <P>
+          <E T='03'>
+            Boars
+          </E>
+          . The term “boar” means a sexually-intact male swine.
+        </P>
+        <P>
+          <E T='03'>
+            Bred female swine
+          </E>
+          . The term “bred female swine” means any female swine, whether a sow
+          or gilt, that has been mated or inseminated, or has been confirmed, to
+          be pregnant.
+        </P>
+        <P>
+          <E T='03'>
+            Formula price
+          </E>
+          . The term “formula price” means a price determined by a mathematical
+          formula under which the price established for a specified market
+          serves as the basis for the formula.
+        </P>
+        <P>
+          <E T='03'>
+            Gilt
+          </E>
+          . The term “gilt” means a young female swine that has not produced a
+          litter.
+        </P>
+        <P>
+          <E T='03'>
+            Hog Class
+          </E>
+          . The term “hog class” means, as applicable, barrows or gilts; sows;
+          or boars or stags.
+        </P>
+        <P>
+          <E T='03'>
+            Inferior swine
+          </E>
+          . The term “inferior swine” means swine that are discounted in the
+          market place due to light-weight, health, or physical conditions that
+          affects their value.
+        </P>
+        <P>
+          <E T='03'>
+            Loin depth
+          </E>
+          . The term “loin depth” means the muscle depth (in inches) measured
+          between the third and fourth ribs from the last rib, 7 centimeters
+          from the carcass split (or adjusted from the individual packer&apos;s
+          measurement to that reference point using an adjustment made by the
+          Secretary) of the swine slaughtered during the applicable reporting
+          period.
+        </P>
+        <P>
+          <E T='03'>
+            Net price
+          </E>
+          . The term “net price” means the total amount paid by a packer to a
+          producer (including all premiums, less all discounts) per hundred
+          pounds of carcass weight of swine delivered at the plant. The total
+          amount paid shall include any sum deducted from the price (per
+          hundredweight) paid to a producer that reflects the repayment of a
+          balance owed by the producer to the packer or the accumulation of a
+          balance to later be repaid by the packer to the producer. The total
+          amount paid shall exclude any sum earlier paid to a producer that must
+          be repaid to the packer.
+        </P>
+        <P>
+          <E T='03'>
+            Noncarcass merit premium
+          </E>
+          . The term “noncarcass merit premium” means an increase in the base
+          price of the swine offered by an individual packer or packing plant,
+          based on any factor other than the characteristics of the carcass, if
+          the actual amount of the premium is known before the sale and delivery
+          of the swine.
+        </P>
+        <P>
+          <E T='03'>
+            Other market formula purchase
+          </E>
+          . The term “other market formula purchase” means a purchase of swine
+          by a packer in which the pricing mechanism is a formula price based on
+          any market other than the market for swine, pork, or a pork product.
+          The term “other market formula purchase” includes a formula purchase
+          in a case which the price formula is based on 1 or more futures or
+          options contracts.
+        </P>
+        <P>
+          <E T='03'>
+            Other purchase arrangement
+          </E>
+          . The term “other purchase arrangement” means a purchase of swine by a
+          packer that is not a negotiated purchase, swine or pork market formula
+          purchase, or other market formula purchase; and does not involve
+          packer-owned swine.
+        </P>
+        <P>
+          <E T='03'>
+            Packer
+          </E>
+          . The term “packer” means any person engaged in the business of buying
+          swine in commerce for purposes of slaughter, of manufacturing or
+          preparing meats or meat food products from swine for sale or shipment
+          in commerce, or of marketing meats or meat food products from swine in
+          an unmanufactured form acting as a wholesale broker, dealer, or
+          distributor in commerce. For any calendar year, the term “packer”
+          includes only a federally inspected swine processing plant that
+          slaughtered an average of 100,000 head of swine per year during the
+          immediately preceding 5 calendar years and a person that slaughtered
+          an average of 200,000 head of sows, boars, or combination thereof per
+          year during the immediately preceding 5 calendar years. Additionally,
+          in the case of a swine processing plant or person that did not
+          slaughter swine during the immediately preceding 5 calendar years, it
+          shall be considered a packer if the Secretary determines the
+          processing plant or person should be considered a packer under this
+          subpart after considering its capacity.
+          <PRTPAGE P='164' />
+        </P>
+        <P>
+          <E T='03'>
+            Packer-owned swine
+          </E>
+          . The term “packer-owned swine” means swine that a packer (including a
+          subsidiary or affiliate of the packer) owns for at least 14 days
+          immediately before slaughter.
+        </P>
+        <P>
+          <E T='03'>
+            Packer-sold swine
+          </E>
+          . The term “packer-sold swine” means the swine that are owned by a
+          packer (including a subsidiary or affiliate of the packer) for more
+          than 14 days immediately before sale for slaughter; and sold for
+          slaughter to another packer.
+        </P>
+        <P>
+          <E T='03'>
+            Pork
+          </E>
+          . The term “pork” means the meat of a porcine animal.
+        </P>
+        <P>
+          <E T='03'>
+            Pork product
+          </E>
+          . The term “pork product” means a product or byproduct produced or
+          processed in whole or in part from pork.
+        </P>
+        <P>
+          <E T='03'>
+            Purchase data
+          </E>
+          . The term “purchase data” means all of the applicable data, including
+          base price and weight (if purchased live), for all swine purchased
+          during the applicable reporting period, regardless of the expected
+          delivery date of the swine, reported by:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Hog class;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Type of purchase; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Packer-owned swine.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Slaughter data
+          </E>
+          . The term “slaughter data” means all of the applicable data for all
+          swine slaughtered by a packer during the applicable reporting period,
+          regardless of whether the price of the swine was negotiated or
+          otherwise determined, reported by:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Hog class;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Type of purchase; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Packer-owned swine.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Sow
+          </E>
+          . The term “sow” means an adult female swine that has produced 1 or
+          more litters.
+        </P>
+        <P>
+          <E T='03'>
+            Stag
+          </E>
+          . The term “stag” means a male swine that was neutered after reaching
+          sexual maturity.
+        </P>
+        <P>
+          <E T='03'>
+            Swine
+          </E>
+          . The term “swine” means a porcine animal raised to be a feeder pig,
+          raised for seedstock, or raised for slaughter.
+        </P>
+        <P>
+          <E T='03'>
+            Swine committed
+          </E>
+          . The term “swine committed” means swine scheduled and delivered to a
+          packer within the 14-day period beginning on the date of an agreement
+          to sell the swine.
+        </P>
+        <P>
+          <E T='03'>
+            Swine or pork market formula purchase
+          </E>
+          . The term “swine or pork market formula purchase” means a purchase of
+          swine by a packer in which the pricing mechanism is a formula price
+          based on a market for swine, pork, or a pork product, other than a
+          future or option for swine, pork, or a pork product.
+        </P>
+        <P>
+          <E T='03'>
+            Type of purchase
+          </E>
+          . The term “type of purchase”, with respect to swine, means:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A negotiated purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Other market formula purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A swine or pork market formula purchase; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Other purchase arrangement.
+          </text>
+        </P>
+        <EFFDNOTP>
+          <HD SOURCE='HED'>
+            Effective Date Note:
+          </HD>
+          <P>
+            At 
+            <aref type='FREGIST'>
+              77 FR 50573
+            </aref>
+            , Aug. 22, 2012, 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='200' psec='' tq='N'>
+                59.200
+              </subref>
+            </aref>
+             was amended by adding definitions for “Formula marketing
+            arrangement”, “Forward sale”, “Negotiated sale”, “Pork class”,
+            “Specialty pork product”, “Type of sale”, “Variety meats”, and
+            “Wholesale pork”, effective Jan. 7, 2013. For the convenience of the
+            user, the added text is set forth as follows:
+          </P>
+          <REVTXT>
+            <SECTION>
+              <SECTNO>
+                <aref type='CFR-TIC-SECT'>
+                  § 
+                  <subref title='7' part='59' sect='200' psec='' tq='N'>
+                    59.200
+                  </subref>
+                </aref>
+              </SECTNO>
+              <SUBJECT>
+                Definitions.
+              </SUBJECT>
+              <STARS />
+              <P>
+                <E T='03'>
+                  Formula marketing arrangement.
+                </E>
+                 When used in reference to wholesale pork, the term `formula
+                marketing arrangement&apos; means an agreement for the sale of
+                pork under which the price is established in reference to
+                publicly-available quoted prices.
+                <STARS />
+              </P>
+              <P>
+                <E T='03'>
+                  Forward sale.
+                </E>
+                 When used in reference to wholesale pork, the term `forward
+                sale&apos; means an agreement for the sale of pork where the
+                delivery is beyond the timeframe of a “negotiated sale” and
+                means a sale by a packer selling wholesale pork to a buyer of
+                wholesale pork under which the price is determined by
+                seller-buyer interaction and agreement.
+                <STARS />
+              </P>
+              <P>
+                <E T='03'>
+                  Negotiated sale.
+                </E>
+                 The term `negotiated sale&apos; means a sale by a packer
+                selling wholesale pork to a buyer of wholesale pork under which
+                the price is determined by seller-buyer interaction and
+                agreement, and scheduled for delivery not later than 14 days for
+                boxed product and 10 days for combo product after the date of
+                agreement. The day after the seller-buyer agreement shall be
+                considered day one for reporting delivery periods.
+                <STARS />
+              </P>
+              <P>
+                <E T='03'>
+                  Pork class.
+                </E>
+                 The term “pork class” means the following types of swine
+                purchased for slaughter:
+              </P>
+              <P>
+                (1) Barrow/gilt;
+              </P>
+              <P>
+                (2) Sow;
+                <PRTPAGE P='165' />
+              </P>
+              <P>
+                (3) Boar.
+                <STARS />
+              </P>
+              <P>
+                <E T='03'>
+                  Specialty pork product.
+                </E>
+                 The term `specialty pork product&apos; means wholesale pork
+                produced and marketed under any specialty program such as, but
+                not limited to, genetically-selected pork, certified programs,
+                or specialty selection programs for quality or breed
+                characteristics.
+                <STARS />
+              </P>
+              <P>
+                <E T='03'>
+                  Type of sale.
+                </E>
+                 The term “type of sale” with respect to wholesale pork means a
+                negotiated sale, forward sale, or formula marketing arrangement.
+              </P>
+              <P>
+                <E T='03'>
+                  Variety meats.
+                </E>
+                 The term `variety meats&apos; with respect to wholesale pork
+                means cut/processing floor items, such as neck bones, tails,
+                skins, feet, hocks, jowls, and backfat.
+              </P>
+              <P>
+                <E T='03'>
+                  Wholesale pork.
+                </E>
+                 The term `wholesale pork&apos; means fresh and frozen primals,
+                sub-primals, cuts fabricated from sub-primals, pork trimmings,
+                pork for processing, and variety meats (excluding
+                portion-control cuts, cuts flavored above and beyond normal
+                added ingredients that are used to enhance products, cured,
+                smoked, cooked, and tray packed products). When referring to
+                wholesale pork, added ingredients are used to enhance the
+                product&apos;s performance (e.g. tenderness, juiciness) through
+                adding a solution or emulsion via an injection or immersion
+                process. The ingredients shall be limited to water, salt, sodium
+                phosphate, antimicrobials, or any other similar combination of
+                foresaid or similar ingredients and in accordance with
+                established USDA regulations.
+              </P>
+            </SECTION>
+          </REVTXT>
+        </EFFDNOTP>
+      </contents>
+    </section>
+    <section orderid='3678'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:C:59.201
+      </extid>
+      <num st='1'>
+        59.201
+      </num>
+      <head>
+        General reporting provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='201' psec='' tq='N'>
+              59.201
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General reporting provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Packer-owned swine.
+            </head>
+          </npcatch>
+          <text>
+             Information required under this section for packer-owned swine
+            shall include quantity and carcass characteristics, but not price.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Type of purchase.
+            </head>
+          </npcatch>
+          <text>
+             If information regarding the type of purchase is required under
+            this section, the information shall be reported according to the
+            numbers and percentages of each type of purchase comprising:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Packer-sold swine; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All other swine.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3679'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:C:59.202
+      </extid>
+      <num st='1'>
+        59.202
+      </num>
+      <head>
+        Mandatory daily reporting for barrows and gilts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='202' psec='' tq='N'>
+              59.202
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory daily reporting for barrows and gilts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Prior day report.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer that processes barrows and gilts shall report to the
+            Secretary for each business day of the packer not later than 7 a.m.
+            central time on each reporting day information regarding all barrows
+            and gilts purchased or priced, during the prior business day of the
+            packer, and not later than 9 a.m. central time on each reporting day
+            information regarding all barrows and gilts slaughtered, excluding
+            inferior swine, as specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            :
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             All purchase data, reported by lot, including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The total number of barrows and gilts purchased;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The total number of barrows and gilts scheduled for delivery to a
+            packer for slaughter;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The base price and weight for all barrows and gilts purchased on a
+            live weight basis; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The base price and premiums and discounts paid for carcass
+            characteristics for all barrows and gilts purchased on a carcass
+            basis for which a price has been established. For barrows and gilts
+            that were not priced, this information shall be reported on the next
+            prior day report after the price is established.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The following slaughter data for the total number of barrows and
+            gilts slaughtered:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The average net price;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The average carcass weight;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The average sort loss;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The average backfat;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The average loin depth;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The average lean percentage; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Total quantity slaughtered.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Packer purchase commitments, which shall be equal to the number of
+            barrows and gilts scheduled for delivery to a packer for slaughter
+            for each of the next 14 calendar days.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall publish the information obtained in paragraph
+            (a) of this section in a prior day report not later than 8 a.m.
+            central time for all barrows and gilts purchased and 10 a.m. central
+            time for all barrows and gilts slaughtered on the reporting day on
+            which the information is received from the packer. In addition, the
+            Secretary shall publish a net price distribution for all barrows and
+            gilts slaughtered on the previous day not later than 3 p.m. central
+            time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Morning report.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer processing plant that processes barrows and gilts shall
+            report to the Secretary not later than 
+            <PRTPAGE P='166' />
+            10 a.m. central time each reporting day as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            :
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The packer&apos;s best estimate of the total number of barrows and
+            gilts, and barrows and gilts that qualify as packer-owned swine,
+            expected to be purchased throughout the reporting day through each
+            type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The total number of barrows and gilts, and barrows and gilts that
+            qualify as packer-owned swine, purchased up to that time of the
+            reporting day through each type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             All purchase data for base market hogs purchased up to that time of
+            the reporting day through negotiated purchases; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             All purchase data for base market hogs purchased through each type
+            of purchase other than negotiated purchase up to that time of the
+            reporting day, unless such information is unavailable due to pricing
+            that is determined on a delayed basis. The packer shall report
+            information on such purchases on the first reporting day or
+            scheduled reporting time on a reporting day after the price has been
+            determined.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall publish the information obtained in paragraph
+            (b) of this section in the morning report as soon as practicable,
+            but not later than 11 a.m. central time, on each reporting day.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Afternoon report.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer processing plant that processes barrows and gilts shall
+            report to the Secretary not later than 2 p.m. central time each
+            reporting day as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            :
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The packer&apos;s best estimate of the total number of barrows and
+            gilts, and barrows and gilts that qualify as packer-owned swine
+            expected to be purchased throughout the reporting day through each
+            type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The total number of barrows and gilts, and barrows and gilts that
+            qualify as packer-owned swine, purchased up to that time of the
+            reporting day through each type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The base price paid for all base market hogs purchased up to that
+            time of the reporting day through negotiated purchases; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The base price paid for all base market hogs purchased through each
+            type of purchase other than negotiated purchase up to that time of
+            the reporting day, unless such information is unavailable due to
+            pricing that is determined on a delayed basis. The packer shall
+            report information on such purchases on the first reporting day or
+            scheduled reporting time on a reporting day after the price has been
+            determined.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall publish the information obtained in paragraph
+            (c) of this section in the afternoon report as soon as practicable,
+            but not later than 3 p.m. central time, on each reporting day.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3680'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:C:59.203
+      </extid>
+      <num st='1'>
+        59.203
+      </num>
+      <head>
+        Mandatory daily reporting for sows and boars.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='203' psec='' tq='N'>
+              59.203
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory daily reporting for sows and boars.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Prior day report.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer of sows and boars shall report to the Secretary for each
+            business day of the packer not later than 7 a.m. central time on
+            each reporting day information regarding all sows and boars
+            purchased or priced, excluding inferior swine, during the prior
+            business day of the packer all purchase data, reported by lot,
+            including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The total number of sows and boars purchased divided into at least
+            three weight groups as specified by the Secretary;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The average price paid by each purchase type for all sows in each
+            weight class specified by the Secretary; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The average price paid by each purchase type for all boars in each
+            weight class specified by the Secretary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The packer is required to report only the volume of sows and boars
+            that qualify as packer owned swine and shall omit packer owned sows
+            and boars from all average price calculations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall publish the information obtained in paragraph
+            (a) of this section as soon as practicable, but not later than 8
+            a.m. central time, on the reporting day on which the information is
+            received from the packer.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3681'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:C:59.204
+      </extid>
+      <num st='1'>
+        59.204
+      </num>
+      <head>
+        Mandatory weekly reporting for swine.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='167' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='204' psec='' tq='N'>
+              59.204
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory weekly reporting for swine.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Weekly noncarcass merit premium report.
+            </head>
+          </npcatch>
+          <text>
+             Not later than 4 p.m. central time in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+             on the first reporting day of each week, the corporate officers or
+            officially designated representatives of each packer processing
+            plant shall report to the Secretary a noncarcass merit premium
+            report that lists:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Each category of standard noncarcass merit premiums used by the
+            packer in the prior slaughter week; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The dollar value (in dollars per hundred pounds of carcass weight)
+            paid to producers by the packer, by category.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Premium list.
+            </head>
+          </npcatch>
+          <text>
+             A packer shall maintain and make available to a producer, on
+            request, a current listing of the dollar values (per hundred pounds
+            of carcass weight) of each noncarcass merit premium used by the
+            packer during the current or the prior slaughter week.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall publish the information obtained under this
+            subsection as soon as practicable, but not later than 5 p.m. central
+            time, on the first reporting day of each week.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3682'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:C:59.205
+      </extid>
+      <num st='1'>
+        59.205
+      </num>
+      <head>
+        Mandatory reporting of wholesale pork sales.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='205' psec='' tq='N'>
+              59.205
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory reporting of wholesale pork sales.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Daily reporting.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer processing plant shall report to the Secretary at least
+            twice each reporting day for barrows and gilts (once by 10 a.m.
+            central time, and once by 2 p.m. central time) and once each
+            reporting day for sows and boars (by 2 p.m. central time) the
+            following information on total pork sales established on that day
+            inclusive since the last reporting as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            :
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The price for each wholesale pork sale, as defined herein, quoted
+            in dollars per hundredweight on an F.O.B. Plant and an F.O.B. Omaha
+            basis as outlined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='205' psec='#d' tq='N'>
+                59.205(d)
+              </subref>
+            </aref>
+            . The price shall include brokerage fees, if applicable. All direct,
+            specific, and identifiable marketing costs (such as point of
+            purchase material, marketing funds, accruals, rebates, and export
+            costs) shall be deducted from the net price if applicable and known
+            at the time of sale;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity for each pork sale, quoted by number of pounds sold;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The information regarding the characteristics of each sale is as
+            follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of sale;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Pork item description;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Pork item product code;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The product delivery period, in calendar days;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The pork class (barrow/gilt, sow, boar);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Destination (Domestic, Export/Overseas, NAFTA);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Type of Refrigeration (Fresh, Frozen, age range of fresh product);
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             Specialty pork product, if applicable
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make available to the public the information
+            obtained under paragraph (a) of this section not less frequently
+            than twice each reporting day for gilt and barrow product and once
+            each reporting day for sow and boar product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall obtain product specifications upon request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall provide freight information for the purpose of
+            calculating prices on an F.O.B. Omaha basis. The Secretary shall
+            provide this information periodically, but not less than quarterly.
+          </text>
+        </P>
+        <EFFDNOTP>
+          <HD SOURCE='HED'>
+            Effective Date Note:
+          </HD>
+          <P>
+            At 
+            <aref type='FREGIST'>
+              77 FR 50574
+            </aref>
+            , Aug. 22, 2012, 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='205' psec='' tq='N'>
+                59.205
+              </subref>
+            </aref>
+             was added, effective Jan. 7, 2013.
+          </P>
+        </EFFDNOTP>
+      </contents>
+    </section>
+    <section orderid='3683'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:D:59.300
+      </extid>
+      <num st='1'>
+        59.300
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='300' psec='' tq='N'>
+              59.300
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this subpart.
+        </P>
+        <P>
+          <E T='03'>
+            Boxed lamb
+          </E>
+          . The term “boxed lamb” means those carlot-based portions of a lamb
+          carcass including fresh primals, subprimals, cuts fabricated from
+          subprimals excluding portion-control cuts such as chops and steaks
+          similar to those portion cut items described in the Institutional Meat
+          Purchase Specifications (IMPS) for Fresh Lamb and Mutton Series 200,
+          and thin meats (e.g., inside and outside skirts, pectoral meat, cap
+          and wedge meat, and blade meat) not older than 14 days from date of
+          manufacture; fresh ground lamb, lamb trimmings, and boneless
+          processing lamb not older than 7 days from 
+          <PRTPAGE P='168' />
+          date of manufacture; frozen primals, subprimals, cuts fabricated from
+          subprimals, and thin meats not older than 180 days from date of
+          manufacture; and frozen ground lamb, lamb trimmings, and boneless
+          processing lamb not older than 90 days from date of manufacture.
+        </P>
+        <P>
+          <E T='03'>
+            Branded
+          </E>
+          . The term “branded” means boxed lamb cuts produced and marketed under
+          a corporate trademark (for example, products that are marketed on
+          their quality, yield, or breed characteristics), or boxed lamb cuts
+          produced and marketed under one of USDA&apos;s Meat Grading and
+          Certification Branch, Certified programs.
+        </P>
+        <P>
+          <E T='03'>
+            Carcass characteristics
+          </E>
+          . The term “carcass characteristics” means the range and average
+          carcass weight in pounds, the quality grade and yield grade (if
+          applicable), and the lamb average dressing percentage.
+        </P>
+        <P>
+          <E T='03'>
+            Carlot-based
+          </E>
+          . The term “carlot-based” means any transaction between a buyer and a
+          seller destined for three or less delivery stops consisting of any
+          combination of carcass weights. When used in reference to boxed lamb
+          cuts the term “carlot-based” means any transaction between a buyer and
+          seller consisting of 1,000 pounds or more of one or more individual
+          boxed lamb items.
+        </P>
+        <P>
+          <E T='03'>
+            Established
+          </E>
+          . The term “established”, when used in connection with prices, means
+          that point in time when the buyer and seller agree upon a net price.
+        </P>
+        <P>
+          <E T='03'>
+            Formula marketing arrangement
+          </E>
+          .
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to live lambs, the term “formula marketing
+            arrangement” means the advance commitment of lambs for slaughter by
+            any means other than through a negotiated purchase or a forward
+            contract, using a method for calculating price in which the price is
+            determined at a future date.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to boxed lamb, the term “formula marketing
+            arrangement” means the advance commitment of boxed lamb by any means
+            other than through a negotiated purchase or a forward contract,
+            using a method for calculating price in which the price is
+            determined at a future date.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Forward contract
+          </E>
+          .
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to live lambs, the term “forward contact”
+            means an agreement for the purchase of lambs, executed in advance of
+            slaughter, under which the base price is established by reference to
+            publicly available prices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             When used in reference to boxed lamb, the term “forward contract”
+            means an agreement for the sale of boxed lamb, executed in advance
+            of manufacture, under which the base price is established by
+            reference to publicly available quoted prices.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Importer
+          </E>
+          . The term “importer” means any person engaged in the business of
+          importing lamb meat products who takes ownership of such lamb meat
+          products with the intent to sell or ship in U.S. commerce. For any
+          calendar year, the term includes only those that imported an average
+          of 2,500 metric tons of lamb meat products per year during the
+          immediately preceding 5 calendar years. Additionally, the term
+          includes those that did not import an average of 2,500 metric tons of
+          lamb meat products during the immediately preceding 5 calendar years,
+          if the Secretary determines that the person should be considered an
+          importer based on their volume of lamb imports.
+        </P>
+        <P>
+          <E T='03'>
+            Packer
+          </E>
+          . The term “packer” means any person engaged in the business of buying
+          lambs in commerce for purposes of slaughter, of manufacturing or
+          preparing meat products from lambs for sale or shipment in commerce,
+          or of marketing meats or meat products from lambs in an unmanufactured
+          form acting as a wholesale broker, dealer, or distributor in commerce.
+          For any calendar year, the term includes only a federally inspected
+          lamb processing plant which slaughtered or processed the equivalent of
+          an average of 75,000 head of lambs per year during the immediately
+          preceding 5 calendar years. Additionally, the term includes a lamb
+          processing plant that did not slaughter or process an average of
+          75,000 lambs during the immediately preceding 5 calendar years if the
+          Secretary determines that the processing plant should be considered a
+          packer after considering its capacity.
+        </P>
+        <P>
+          <E T='03'>
+            Packer-owned lambs
+          </E>
+          . The term “packer-owned lambs” means lambs that a 
+          <PRTPAGE P='169' />
+          packer owns for at least 14 days immediately before slaughter.
+        </P>
+        <P>
+          <E T='03'>
+            Type of purchase
+          </E>
+          . The term “type of purchase” means a negotiated purchase, a formula
+          market arrangement, and a forward contract.
+        </P>
+        <P>
+          <E T='03'>
+            Type of sale
+          </E>
+          . The term “type of sale” with respect to boxed lamb, means a
+          negotiated sale, a formula market arrangement, and a forward contract.
+        </P>
+        <P>
+          <E T='03'>
+            Yield grade lamb carcass reporting
+          </E>
+          . The term “yield grade lamb carcass reporting” means if the lot
+          includes 80 percent or more of one yield grade, the lot will be
+          considered a single yield grade lot. If the lot contains less than 80
+          percent of one yield grade, the lot will be considered a mixed grade
+          lot and all yield grades comprising 10 percent or more will be used to
+          describe the lot.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3684'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:D:59.301
+      </extid>
+      <num st='1'>
+        59.301
+      </num>
+      <head>
+        Mandatory Daily Reporting for Lambs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='301' psec='' tq='N'>
+              59.301
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory Daily Reporting for Lambs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              In general.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer processing plant shall report to the Secretary at least
+            once each reporting day not later than 2 p.m. central time the
+            prices for lambs (per hundredweight) established on that day as
+            F.O.B. feedlot or delivered at the plant, categorized to clearly
+            delineate domestic from imported market purchases as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+             and categorized by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The class of lamb;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of lambs purchased on a live weight basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of lambs purchased on a dressed weight basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A range and average of estimated live weights of lambs purchased;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             An estimate of the percentage of the lambs purchased that were of a
+            quality grade of Choice or better;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Any premiums or discounts associated with weight, quality grade,
+            yield grade, or any type of purchase;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Lamb state of origin;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             The pelt type; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             The estimated lamb dressing percentage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make the information available to the public
+            not less than once each reporting day.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3685'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:D:59.302
+      </extid>
+      <num st='1'>
+        59.302
+      </num>
+      <head>
+        Mandatory weekly reporting for lambs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='302' psec='' tq='N'>
+              59.302
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory weekly reporting for lambs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              In general.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer processing plant shall report to the Secretary the
+            following information applicable to the prior slaughter week
+            contained in paragraphs (a)(1) through (a)(5) and (a)(7) of this
+            section not later than 9 a.m. central time on the second reporting
+            day of the current slaughter week, and the following information
+            applicable to the prior slaughter week contained in paragraph (a)(6)
+            of this section not later than 9 a.m. central time on the first
+            reporting day of the current slaughter week categorized to clearly
+            delineate domestic from imported market purchases:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of lambs purchased through a negotiated purchase that
+            were slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of lambs purchased through forward contracts that were
+            slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of lambs delivered under a formula marketing
+            arrangement that were slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity and carcass characteristics of packer-owned lambs that
+            were slaughtered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity, basis level, and delivery month for all lambs
+            purchased through forward contracts;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The following information applicable to the current slaughter week.
+            The range and average of intended premiums and discounts (including
+            those associated with weight, quality grade, yield grade, or type of
+            lamb) that are expected to be in effect for the current slaughter
+            week; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The following information for lambs purchased through a formula
+            marketing arrangement and slaughtered during the prior slaughter
+            week, categorized to clearly delineate domestic from imported market
+            purchases:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity (quoted in both numbers of head and pounds) of lambs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The weighted average price paid for a carcass, including applicable
+            premiums and discounts;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The range of premiums and discounts paid;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The weighted average of premiums and discounts paid; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The range of prices paid.
+            <PRTPAGE P='170' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make available to the public the information
+            obtained in paragraphs (a)(1) through (a)(5) and (a)(7) of this
+            section on the second reporting day of the current slaughter week
+            and information obtained in paragraph (a)(6) of this section on the
+            first reporting day of the current slaughter week.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3686'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:D:59.303
+      </extid>
+      <num st='1'>
+        59.303
+      </num>
+      <head>
+        Mandatory reporting of lamb carcasses and boxed lamb.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='303' psec='' tq='N'>
+              59.303
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Mandatory reporting of lamb carcasses and boxed lamb.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Daily reporting of lamb carcass transactions.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer shall report to the Secretary each reporting day the
+            following information on total carlot-based lamb carcass
+            transactions not later than 3 p.m. central time in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            :
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The price for each lot of each lamb carcass transaction, quoted in
+            dollars per hundredweight on an F.O.B. plant basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity for each lot of each transaction, quoted by number of
+            carcasses sold and purchased; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The following information regarding the characteristics of each
+            transaction:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of transaction;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The USDA quality grade of lamb;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The USDA yield grade;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The estimated weight range of the carcasses; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The product delivery period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Daily reporting of domestic boxed lamb sales.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each packer shall report to the Secretary each reporting day the
+            following information on total domestic boxed lamb cut sales not
+            later than 2:30 p.m. central time as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='59' sect='10' psec='#b' tq='N'>
+                59.10(b)
+              </subref>
+            </aref>
+            :
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The price for each lot of each boxed lamb cut sale, quoted in
+            dollars per hundredweight on a F.O.B. plant basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity for each lot of each sale, quoted by product weight
+            sold; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The following information regarding the characteristics of each
+            transaction:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of sale;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The branded product characteristics, if applicable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The USDA quality grade of lamb;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The cut of lamb, referencing the most recent version of the
+            Institutional Meat Purchase Specifications (IMPS), when applicable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             USDA yield grade, if applicable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The product state of refrigeration;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             The weight range of the cut; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             The product delivery period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Weekly Reporting of Imported Boxed Lamb Sales.
+            </head>
+          </npcatch>
+          <text>
+             The corporate officers or officially designated representatives of
+            each lamb importer shall report to the Secretary on the first
+            reporting day of each week the following information applicable to
+            the prior week for imported boxed lamb cut sales not later than 10
+            a.m. central time:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The price for each lot of a boxed lamb cut sale, quoted in dollars
+            per hundredweight on a F.O.B. plant basis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity for each lot of a transaction, quoted by product
+            weight sold; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The following information regarding the characteristics of each
+            transaction:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The type of sale;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The branded product characteristics, if applicable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The cut of lamb, referencing the most recent version of the
+            Institutional Meat Purchase Specifications (IMPS), when applicable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The product state of refrigeration;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The weight range of the cut; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The product delivery period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Publication.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make available to the public the information
+            required to be reported in paragraphs (a) and (b) of this section
+            not less frequently than once each reporting day and the information
+            required to be reported in paragraph (c) of this section on the
+            first reporting day of the current slaughter week.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3687'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:59:E:59.400
+      </extid>
+      <num st='1'>
+        59.400
+      </num>
+      <head>
+        OMB control number assigned pursuant to the Paperwork Reduction Act.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='59' sect='400' psec='' tq='N'>
+              59.400
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB control number assigned pursuant to the Paperwork Reduction Act.
+        </SUBJECT>
+        <P>
+          The information collection and recordkeeping requirements of this part
+          have been approved by the Office of Management and Budget (OMB) under
+          the provisions of 44 U.S.C. Chapter 35 
+          <PRTPAGE P='171' />
+          and have been assigned OMB Control Number 0581-0186.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:C:75
+    </extid>
+    <num>
+      75
+    </num>
+    <head>
+      REGULATIONS FOR INSPECTION AND CERTIFICATION OF QUALITY OF AGRICULTURAL
+      AND VEGETABLE SEEDS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1622' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1622.html'>
+              7 U.S.C. 1622
+            </subref>
+             and 
+            <subref title='7' sect='1624' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1624.html'>
+              1624
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            49 FR 18724
+          </aref>
+          , May 2, 1984, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='3911'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.1
+      </extid>
+      <num st='1'>
+        75.1
+      </num>
+      <head>
+        Meaning of words.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='1' psec='' tq='N'>
+              75.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Meaning of words.
+        </SUBJECT>
+        <P>
+          Words used in the regulations in this part in the singular form shall
+          be deemed to import the plural and vice versa, as the case may demand.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3912'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.2
+      </extid>
+      <num st='1'>
+        75.2
+      </num>
+      <head>
+        Terms defined.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='2' psec='' tq='N'>
+              75.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms defined.
+        </SUBJECT>
+        <P>
+          For the purpose of these regulations unless the context otherwise
+          requires, the following terms shall be construed, respectively, as
+          follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Act
+            </E>
+             means the Agricultural Marketing Act of 1946, as amended (
+            <aref type='USC'>
+              <subref title='7' sect='1621' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621.html'>
+                7 U.S.C. 1621
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Regulations
+            </E>
+             means the regulations in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Department
+            </E>
+             means the United States Department of Agriculture (USDA).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Secretary
+            </E>
+             means the Secretary of the United States Department of Agriculture,
+            or any officer or employee of the Department to whom authority has
+            been delegated to act in the Secretary&apos;s stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Administrator
+            </E>
+             means the Administrator of the Agricultural Marketing Service (AMS)
+            of the Department, or any other officer or employee of AMS to whom
+            authority has been delegated to act in the Administrator&apos;s
+            stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Division
+            </E>
+             means the Warehouse and Seed Division (WSD), AMS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Director
+            </E>
+             means the Director of the Division or any other officer or employee
+            of the Division to whom authority has been delegated to act in the
+            Director&apos;s stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means any individual, partnership, association, business trust,
+            corporation, entity, or any other organized group of persons,
+            whether incorporated or not.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Seed
+            </E>
+             means any agricultural or vegetable seed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Interested Party
+            </E>
+             means any person financially interested in a transaction involving
+            seed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Applicant
+            </E>
+             means an interested party who requests any inspection service with
+            respect to seed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Authorized agent
+            </E>
+             means an agent to whom authority to represent a person or
+            government agency has been given by that person or government agency
+            through delegation, contract or 
+            <PRTPAGE P='221' />
+            cooperative agreement, or other means.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Memorandum of Understanding
+            </E>
+             means a written plan between AMS and a State for carrying out their
+            separate activities in a project of mutual interest to the parties
+            involved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='n'>
+            <enum src='gpotxt' cln='1'>
+              (n)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inspector
+            </E>
+             means a licensed employee of a State authorized pursuant to a
+            Memorandum of Understanding or an employee of the Department
+            authorized by the Director, to draw samples of seeds, seal
+            containers, inspect records, test seeds for quality, issue
+            certificates and reports, and bill for services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='o'>
+            <enum src='gpotxt' cln='1'>
+              (o)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inspection
+            </E>
+             means sampling seeds, sealing containers, testing seeds for quality
+            and reviewing records.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='p'>
+            <enum src='gpotxt' cln='1'>
+              (p)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Appeal inspector
+            </E>
+             means an inspector or other person designated or authorized by the
+            Division to perform appeal inspections under the Act and regulations
+            in this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='q'>
+            <enum src='gpotxt' cln='1'>
+              (q)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Certificate
+            </E>
+             means a certificate issued under the Act and the regulations in
+            this subpart.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3913'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.3
+      </extid>
+      <num st='1'>
+        75.3
+      </num>
+      <head>
+        Authority.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='3' psec='' tq='N'>
+              75.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Authority.
+        </SUBJECT>
+        <P>
+          The Director is charged with the administration of the provisions of
+          the regulations and the Act insofar as they relate to the subject
+          matter of the regulations, under the supervision of the Secretary and
+          the Administrator.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3914'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.4
+      </extid>
+      <num st='1'>
+        75.4
+      </num>
+      <head>
+        Federal and State cooperation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='4' psec='' tq='N'>
+              75.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Federal and State cooperation.
+        </SUBJECT>
+        <P>
+          Pursuant to the Act, the Administrator is authorized to cooperate with
+          the appropriate State agencies in carrying out provisions of the Act
+          and these regulations through Memoranda of Understanding. The
+          Memorandum of Understanding shall specify the duties to be performed
+          by the parties concerned with each party directing its own activities
+          and utilizing its own resources.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3915'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.5
+      </extid>
+      <num st='1'>
+        75.5
+      </num>
+      <head>
+        Regulations not applicable for certain purposes.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='5' psec='' tq='N'>
+              75.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Regulations not applicable for certain purposes.
+        </SUBJECT>
+        <P>
+          The regulations do not apply to the inspection of grain in the United
+          States under the U.S. Grain Standards Act, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='71' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/71.html'>
+              7 U.S.C. 71
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ), except to the extent that official grain samples received from the
+          Federal Grain Inspection Service (FGIS) shall be examined for the
+          presence of specified weed and crop seeds upon the request of FGIS.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3916'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.6
+      </extid>
+      <num st='1'>
+        75.6
+      </num>
+      <head>
+        Nondiscrimination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='6' psec='' tq='N'>
+              75.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Nondiscrimination.
+        </SUBJECT>
+        <P>
+          The conduct of all services under these regulations shall be
+          accomplished without discrimination as to race, color, religion, sex,
+          or national origin.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3917'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.7
+      </extid>
+      <num st='1'>
+        75.7
+      </num>
+      <head>
+        Inspection in accordance with methods prescribed or approved.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='7' psec='' tq='N'>
+              75.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspection in accordance with methods prescribed or approved.
+        </SUBJECT>
+        <P>
+          Inspection of seed shall be rendered pursuant to these regulations and
+          under such conditions and in accordance with the methods of either the
+          Association of Official Seed Analysts (AOSA) or the International Seed
+          Testing Association (ISTA).
+        </P>
+      </contents>
+    </section>
+    <section orderid='3918'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.8
+      </extid>
+      <num st='1'>
+        75.8
+      </num>
+      <head>
+        Basis of service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='8' psec='' tq='N'>
+              75.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Basis of service.
+        </SUBJECT>
+        <P>
+          The regulations provide for inspection services pursuant to the Act.
+          Seeds shall be inspected in accordance with the methods of either the
+          Association of Official Seed Analysts (AOSA) or the International Seed
+          Testing Association (ISTA); provided, that limitations in these rules
+          respecting maximum lot size will not be observed and, provided
+          further, that certification as to origin may be based on examination
+          of records and certification of other seed certifying agencies.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3919'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.9
+      </extid>
+      <num st='1'>
+        75.9
+      </num>
+      <head>
+        Who may obtain service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='9' psec='' tq='N'>
+              75.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who may obtain service.
+        </SUBJECT>
+        <P>
+          An application for inspection service may be made by any interested
+          party or his authorized agent.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3920'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.10
+      </extid>
+      <num st='1'>
+        75.10
+      </num>
+      <head>
+        How to make application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='10' psec='' tq='N'>
+              75.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How to make application.
+        </SUBJECT>
+        <P>
+          An application for service shall be confirmed in writing and addressed
+          to the Federal Seed Laboratory, WSD, AMS, USDA, Beltsville, Maryland
+          20705.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3921'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.11
+      </extid>
+      <num st='1'>
+        75.11
+      </num>
+      <head>
+        Content of application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='11' psec='' tq='N'>
+              75.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Content of application.
+        </SUBJECT>
+        <P>
+          An application for service shall include the following information;
+          (a) The date of application; (b) the kind and quantity of seed, and
+          test(s) to be 
+          <PRTPAGE P='222' />
+          performed; (c) the methods and instructions for the inspection of the
+          seed (either Association of Official Seed Analysts (AOSA) or
+          International Seed Testing Association (ISTA) rules); (d) the name and
+          address of the applicant and, if made by an authorized agent; and (e)
+          such further information relating to the inspection as may be
+          required.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3922'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.12
+      </extid>
+      <num st='1'>
+        75.12
+      </num>
+      <head>
+        When application deemed filed.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='12' psec='' tq='N'>
+              75.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When application deemed filed.
+        </SUBJECT>
+        <P>
+          An application shall be deemed filed when received by the Division or
+          the Federal Seed Laboratory.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3923'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.13
+      </extid>
+      <num st='1'>
+        75.13
+      </num>
+      <head>
+        When application may be rejected.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='13' psec='' tq='N'>
+              75.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When application may be rejected.
+        </SUBJECT>
+        <P>
+          Any application for service may be rejected by the Director (a) for
+          noncompliance with the Act or the regulations relating to applications
+          for service in this subpart, or (b) when it is not practicable to
+          provide the service. Each such applicant shall be promptly notified in
+          writing.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3924'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.14
+      </extid>
+      <num st='1'>
+        75.14
+      </num>
+      <head>
+        When application may be withdrawn.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='14' psec='' tq='N'>
+              75.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When application may be withdrawn.
+        </SUBJECT>
+        <P>
+          An application may be withdrawn at any time before the requested
+          service is rendered. The applicant will remain responsible for payment
+          of expenses incurred in connection therewith as provided in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='44' psec='' tq='N'>
+              75.44
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='3925'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.15
+      </extid>
+      <num st='1'>
+        75.15
+      </num>
+      <head>
+        Authority of agent.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='15' psec='' tq='N'>
+              75.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Authority of agent.
+        </SUBJECT>
+        <P>
+          Proof of authority of any person making an application as an agent may
+          be required in the discretion of the official receiving the
+          application.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3926'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.16
+      </extid>
+      <num st='1'>
+        75.16
+      </num>
+      <head>
+        Accessibility of seeds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='16' psec='' tq='N'>
+              75.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Accessibility of seeds.
+        </SUBJECT>
+        <P>
+          Each lot of seed for which a lot inspection is requested shall be
+          placed by the applicant so as to permit the entire lot to be sampled
+          and a representative sample to be obtained as required.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3927'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.17
+      </extid>
+      <num st='1'>
+        75.17
+      </num>
+      <head>
+        Testing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='17' psec='' tq='N'>
+              75.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Testing.
+        </SUBJECT>
+        <P>
+          Upon request by the applicant, tests may be made for kind, variety,
+          germination, purity, weed seeds, disease pathogens, treatment,
+          moisture, and other special tests, or any combination thereof for
+          which prescribed methods of testing are established. The tests shall
+          be in accordance with the methods of either the Association of
+          Official Seed Analysts (AOSA) or the International Seed Testing
+          Association (ISTA) as requested by the applicant.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3928'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.18
+      </extid>
+      <num st='1'>
+        75.18
+      </num>
+      <head>
+        Sampling.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='18' psec='' tq='N'>
+              75.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Sampling.
+        </SUBJECT>
+        <P>
+          Sampling, when requested by the applicant, shall be in accordance with
+          the methods of either the Association of Official Seed Analysts (AOSA)
+          or the International Seed Testing Association (ISTA), depending upon
+          the test method requested by the applicant.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3929'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.19
+      </extid>
+      <num st='1'>
+        75.19
+      </num>
+      <head>
+        Seed lot inspection.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='19' psec='' tq='N'>
+              75.19
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Seed lot inspection.
+        </SUBJECT>
+        <P>
+          A lot inspection shall be made by obtaining a representative sample
+          from a specified quantity of seed identified with a distinguishing
+          mark or number to appear on all containers in the lot, and performing
+          such test(s) as may be requested by the applicant. The identification
+          mark or number must be approved by the inspector and will appear on
+          the certificate to be issued.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3930'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.20
+      </extid>
+      <num st='1'>
+        75.20
+      </num>
+      <head>
+        Submitted sample inspection.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='20' psec='' tq='N'>
+              75.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Submitted sample inspection.
+        </SUBJECT>
+        <P>
+          A sample inspection shall be made by testing a sample of seed
+          submitted by an applicant for inspection.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3931'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.21
+      </extid>
+      <num st='1'>
+        75.21
+      </num>
+      <head>
+        Grain sample inspection.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='21' psec='' tq='N'>
+              75.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grain sample inspection.
+        </SUBJECT>
+        <P>
+          A sample inspection shall be performed by examining official grain
+          samples received from FGIS to identify specified weed and crop seeds
+          upon the request of FGIS.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3932'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.22
+      </extid>
+      <num st='1'>
+        75.22
+      </num>
+      <head>
+        Form of inspection certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='22' psec='' tq='N'>
+              75.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Form of inspection certificate.
+        </SUBJECT>
+        <P>
+          Inspection certificates shall be approved by the Director as to their
+          form. No correction, erasure, or other change shall be made in the
+          information on a certificate.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3933'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.23
+      </extid>
+      <num st='1'>
+        75.23
+      </num>
+      <head>
+        Issuance of inspection certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='23' psec='' tq='N'>
+              75.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of inspection certificate.
+        </SUBJECT>
+        <P>
+          After an inspection has been completed, an inspection certificate
+          shall be issued showing the results of the inspection in accordance
+          with paragraph (a) or (b) of this section.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Lot inspection certificate.
+            </head>
+          </npcatch>
+          <text>
+             A lot inspection certificate shall be issued to include the name of
+            the inspector sampling and sealing the seed lot, the analysis
+            results from testing the sample, the identifying mark or number
+            which has been approved by the inspector to appear on each container
+            in the seed 
+            <PRTPAGE P='223' />
+            lot, and any other factual information pertinent to the inspection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Sample inspection certificate.
+            </head>
+          </npcatch>
+          <text>
+             A sample inspection certificate shall be issued to show the results
+            of the inspection of a sample of seed or grain submitted by an
+            interested party. Each sample inspection certificate shall state the
+            results of the inspection that applies only to the sample described
+            in the certificate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              General authorization to issue certificates.
+            </head>
+          </npcatch>
+          <text>
+             Certificates for inspections may be issued by any inspector
+            authorized by the Director to perform the inspection covered by the
+            certificate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Name requirements.
+            </head>
+          </npcatch>
+          <text>
+             The name and signature of the person who issued the inspection
+            certificate shall be shown on the certificate. The original
+            certificate must be signed, and the signature or a stamped facsimile
+            shall be shown on each copy.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3934'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.24
+      </extid>
+      <num st='1'>
+        75.24
+      </num>
+      <head>
+        Disposition of inspection certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='24' psec='' tq='N'>
+              75.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disposition of inspection certificate.
+        </SUBJECT>
+        <P>
+          Upon issuance, the original and one copy of each inspection
+          certificate shall be delivered or mailed to the applicant or otherwise
+          delivered or mailed in accordance with the applicant&apos;s
+          instructions. One copy of each inspection certificate shall be filed
+          in the Federal Seed Laboratory. In case of a lost or destroyed
+          certificate, a duplicate thereof labeled as such may be issued under
+          the same number, date, and name.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3935'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.25
+      </extid>
+      <num st='1'>
+        75.25
+      </num>
+      <head>
+        Issuance of corrected certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='25' psec='' tq='N'>
+              75.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of corrected certificate.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If any error is made in an inspection, a corrected inspection
+            certificate may be issued.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The original and copies of the corrected certificate shall be
+            issued as promptly as possible to the same interested persons who
+            received the incorrect certificate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The corrected certificate shall supersede the incorrect inspection
+            certificate previously issued. The corrected certificate shall
+            clearly identify, by certificate number and date, the incorrect
+            certificate which it supersedes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The original and all copies of the superseded incorrect certificate
+            shall be obtained by the Director, if possible. If it is not
+            possible to obtain the original and all copies of the superseded
+            certificate, to the extent possible, all parties involved will be
+            notified to prevent misuse of the superseded certificate and the
+            corrected certificate so marked as to the outstanding certificate.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3936'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.26
+      </extid>
+      <num st='1'>
+        75.26
+      </num>
+      <head>
+        When appeal inspection may be requested.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='26' psec='' tq='N'>
+              75.26
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When appeal inspection may be requested.
+        </SUBJECT>
+        <P>
+          A request for an appeal inspection may be made by any interested party
+          regarding the results of an inspection as stated on an inspection
+          certificate. Such request shall be made within thirty (30) days
+          following the day on which an inspection certificate was issued.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3937'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.27
+      </extid>
+      <num st='1'>
+        75.27
+      </num>
+      <head>
+        How to file an appeal.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='27' psec='' tq='N'>
+              75.27
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How to file an appeal.
+        </SUBJECT>
+        <P>
+          Any request for an appeal inspection may be made orally or in writing
+          to the Federal Seed Laboratory. If made orally, written confirmation
+          is required. The applicant shall clearly state the reasons for
+          requesting the appeal service. The original and all available copies
+          of the certificate shall be returned to the appeal inspector assigned
+          to make the appeal inspection.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3938'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.28
+      </extid>
+      <num st='1'>
+        75.28
+      </num>
+      <head>
+        When a request for an appeal inspection may be withdrawn.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='28' psec='' tq='N'>
+              75.28
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When a request for an appeal inspection may be withdrawn.
+        </SUBJECT>
+        <P>
+          A request for an appeal inspection may be withdrawn by the applicant
+          at any time before the appeal inspection is performed: 
+          <E T='03'>
+            Provided,
+          </E>
+           that, the appellant shall pay any expenses incurred in connection
+          with the appeal as provided in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='46' psec='' tq='N'>
+              75.46
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='3939'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.29
+      </extid>
+      <num st='1'>
+        75.29
+      </num>
+      <head>
+        When an appeal may be refused.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='29' psec='' tq='N'>
+              75.29
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When an appeal may be refused.
+        </SUBJECT>
+        <P>
+          A request for an appeal inspection may be refused if:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The reasons for an appeal inspection are frivolous or not
+            substantial;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The quality or condition of the seed has been altered since the
+            inspection covering the seed on which the appeal inspection is
+            requested;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The lot in question in a lot inspection is not or cannot be made
+            accessible for sampling;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The lot relative to which appeal inspection is requested cannot be
+            positively identified by the inspection as the lot from which drawn
+            samples were 
+            <PRTPAGE P='224' />
+            previously inspected in a lot inspection; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The application is not in compliance with the regulations; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Such applicant shall be notified promptly of the reason for such
+            refusal.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3940'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.30
+      </extid>
+      <num st='1'>
+        75.30
+      </num>
+      <head>
+        Who shall perform appeal inspection.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='30' psec='' tq='N'>
+              75.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who shall perform appeal inspection.
+        </SUBJECT>
+        <P>
+          An appeal inspection shall be performed by an inspector (other than
+          the one from whose inspection the appeal is requested) authorized for
+          this purpose by the Director.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3941'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.31
+      </extid>
+      <num st='1'>
+        75.31
+      </num>
+      <head>
+        Appeal inspection certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='31' psec='' tq='N'>
+              75.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeal inspection certificate.
+        </SUBJECT>
+        <P>
+          After an appeal inspection has been completed, an appeal inspection
+          certificate shall be issued showing the results of such appeal
+          inspection; and such certificate shall supersede the inspection
+          certificate previously issued for the seed involved. Each appeal
+          inspection certificate shall clearly identify the number and date of
+          the inspection certificate which it supersedes. The superseded
+          certificate shall become null and void upon the issuance of the appeal
+          inspection certificate and shall no longer represent the quality or
+          condition of the seed described therein. The inspector issuing an
+          appeal inspection certificate shall forward notice of such issuance to
+          such persons as considered necessary to prevent misuse of the
+          superseded certificate if the original and all copies of such
+          superseded certificate have not previously been delivered to the
+          inspector issuing the appeal inspection certificate. The appeal
+          inspection certificate shall be marked as to the existence of the
+          outstanding certificate. The provisions in the regulations concerning
+          forms of certificates and disposition of certificates shall apply to
+          appeal inspection certificates, except that copies of such appeal
+          inspection certificates shall be furnished to all interested parties
+          who received copies of the superseded certificate.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3942'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.32
+      </extid>
+      <num st='1'>
+        75.32
+      </num>
+      <head>
+        Who may become licensed inspector.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='32' psec='' tq='N'>
+              75.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who may become licensed inspector.
+        </SUBJECT>
+        <P>
+          Any person nominated by a cooperating State and who is found to have
+          the necessary qualifications may be licensed by the Director as an
+          inspector to perform such duties of inspection as specified by the
+          Memorandum of Understanding. Such a license shall bear the signature
+          of an authorized employee of the Department. A licensed inspector
+          shall perform duties pursuant to the regulations in accordance with
+          instructions issued or approved by the Director.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3943'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.33
+      </extid>
+      <num st='1'>
+        75.33
+      </num>
+      <head>
+        Suspension or revocation of license of inspector.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='33' psec='' tq='N'>
+              75.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Suspension or revocation of license of inspector.
+        </SUBJECT>
+        <P>
+          Pending final action by the Administrator, the Director may suspend,
+          whenever it is deemed that such action is necessary to assure that any
+          service provided is performed properly, the license of any inspector,
+          issued pursuant to the regulations by giving notice of such suspension
+          to the respective licensee, accompanied by a statement of the reasons
+          therefore. Within 7 days after receipt of notice and statement of
+          reasons by a licensee, an appeal may be filed in writing with the
+          Administrator supported by any argument or evidence as to why the
+          license should not be suspended. After expiration of the 7-day period
+          and consideration of such argument and evidence, the Administrator
+          shall take such action as deemed appropriate with respect to a
+          suspension or revocation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3944'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.34
+      </extid>
+      <num st='1'>
+        75.34
+      </num>
+      <head>
+        Surrender of license.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='34' psec='' tq='N'>
+              75.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Surrender of license.
+        </SUBJECT>
+        <P>
+          Upon termination of service as an inspector or suspension or
+          revocation of such license, such licensee shall surrender the license
+          immediately to the Federal Seed Laboratory.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3945'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.35
+      </extid>
+      <num st='1'>
+        75.35
+      </num>
+      <head>
+        Obtaining samples for lot inspections.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='35' psec='' tq='N'>
+              75.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Obtaining samples for lot inspections.
+        </SUBJECT>
+        <P>
+          Samples of seed for lot inspections may be obtained by licensed
+          inspectors or authorized employees of the Department.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3946'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.36
+      </extid>
+      <num st='1'>
+        75.36
+      </num>
+      <head>
+        Representative sample.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='36' psec='' tq='N'>
+              75.36
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Representative sample.
+        </SUBJECT>
+        <P>
+          No lot inspection sample shall be deemed representative of a lot of
+          seed unless the sample (a) has been obtained by a licensed inspector
+          or an authorized employee of the Department; (b) is 
+          <PRTPAGE P='225' />
+          of the size prescribed in the instructions; and (c) has been obtained,
+          handled, and submitted in accordance with the Association of Official
+          Seed Analysts (AOSA) or the International Seed Testing Association
+          (ISTA) procedures.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3947'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.37
+      </extid>
+      <num st='1'>
+        75.37
+      </num>
+      <head>
+        Submitted samples.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='37' psec='' tq='N'>
+              75.37
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Submitted samples.
+        </SUBJECT>
+        <P>
+          Submitted samples may be obtained by or for any interested person.
+          (Instructions for sampling seed may be obtained upon request to the
+          Director or the Federal Seed Laboratory.)
+        </P>
+      </contents>
+    </section>
+    <section orderid='3948'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.38
+      </extid>
+      <num st='1'>
+        75.38
+      </num>
+      <head>
+        Lot inspections.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='38' psec='' tq='N'>
+              75.38
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Lot inspections.
+        </SUBJECT>
+        <P>
+          Each lot inspection shall be made on the basis of a representative
+          sample obtained from that lot of seed by a licensed inspector or an
+          authorized employee of the Department. Each lot of seed which is
+          offered for lot inspection shall be sealed at the time of sampling in
+          accordance with methods and procedures of the Association of Official
+          Seed Analysts (AOSA) or the International Seed Testing Association
+          (ISTA).
+        </P>
+      </contents>
+    </section>
+    <section orderid='3949'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.39
+      </extid>
+      <num st='1'>
+        75.39
+      </num>
+      <head>
+        Use of file samples.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='39' psec='' tq='N'>
+              75.39
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Use of file samples.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             File samples which are retained by inspection personnel in
+            accordance with the regulations may be deemed representative for
+            appeal inspections: Provided, that (1) the samples have remained in
+            the custody of the inspection personnel who certificated the
+            inspection; and (2) the inspection personnel who performed the
+            inspection and the inspection personnel who are to perform the
+            appeal inspection determine that the sample was representative of
+            the seed at the time of the inspection and that the quality or
+            condition of the seed in the sample and in the lot has not changed
+            since the time of the inspection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Upon request of the applicant, and if practicable, a new sample may
+            be obtained and examined as a part of an appeal inspection.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3950'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.40
+      </extid>
+      <num st='1'>
+        75.40
+      </num>
+      <head>
+        Protecting samples.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='40' psec='' tq='N'>
+              75.40
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Protecting samples.
+        </SUBJECT>
+        <P>
+          Inspection personnel shall protect each sample from manipulation,
+          substitution, and improper or careless handling which would deprive
+          the sample of its representative character from the time of collection
+          until the inspection is completed and the file sample has been
+          discarded.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3951'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.41
+      </extid>
+      <num st='1'>
+        75.41
+      </num>
+      <head>
+        General.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 18724
+        </aref>
+        , May 2, 1984, as amended at 
+        <aref type='FREGIST'>
+          56 FR 51320
+        </aref>
+        , Oct. 11, 1991; 
+        <aref type='FREGIST'>
+          58 FR 64101
+        </aref>
+        , Dec. 6, 1993; 
+        <aref type='FREGIST'>
+          60 FR 21035
+        </aref>
+        , May 1, 1995; 
+        <aref type='FREGIST'>
+          65 FR 15832
+        </aref>
+        , Mar. 24, 2000; 
+        <aref type='FREGIST'>
+          67 FR 11384
+        </aref>
+        , Mar. 14, 2002]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='41' psec='' tq='N'>
+              75.41
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Fees and charges for inspection services performed by Federal
+          employees shall cover the cost of performing the service. Fees shall
+          be for actual time required to render the service, calculated to the
+          nearest 15-minute period except that a minimum of 1 hour shall apply
+          for testing and a 2-hour minimum shall apply for sampling and sealing.
+          Fees and charges shall be at the rate of $52.00 per hour. (Cost
+          estimates may be obtained upon request to the Director or the Federal
+          Seed Laboratory.)
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 18724
+          </aref>
+          , May 2, 1984, as amended at 
+          <aref type='FREGIST'>
+            56 FR 51320
+          </aref>
+          , Oct. 11, 1991; 
+          <aref type='FREGIST'>
+            58 FR 64101
+          </aref>
+          , Dec. 6, 1993; 
+          <aref type='FREGIST'>
+            60 FR 21035
+          </aref>
+          , May 1, 1995; 
+          <aref type='FREGIST'>
+            65 FR 15832
+          </aref>
+          , Mar. 24, 2000; 
+          <aref type='FREGIST'>
+            67 FR 11384
+          </aref>
+          , Mar. 14, 2002]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3952'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.42
+      </extid>
+      <num st='1'>
+        75.42
+      </num>
+      <head>
+        Sampling and sealing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='42' psec='' tq='N'>
+              75.42
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Sampling and sealing.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Fees for inspection services provided by licensed inspectors may be
+            charged by States participating in the program at rates established
+            by the individual States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             When onsite inspection services are performed by Federal employees
+            at the request of the applicant:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Fees for onsite inspections for sampling and sealing shall include
+            the time for actual sampling and sealing, standby at the service
+            site, travel time and actual travel costs to and from the site, and
+            a per diem charge if the employee performing the service is paid per
+            diem in accordance with existing travel regulations as appear in
+            Agricultural Travel Regulations, including the Federal Travel
+            Regulations, DM 2300-1.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Hourly rates shall begin when the inspector begins travel to the
+            service site and end when the inspector arrives back at his official
+            station or residence, computed to the nearest quarter hour, less
+            meal time, if any.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A 2-hour minimum shall be charged for each onsite inspection.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3953'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.43
+      </extid>
+      <num st='1'>
+        75.43
+      </num>
+      <head>
+        Laboratory testing.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 18724
+        </aref>
+        , May 2, 1984, as amended at 
+        <aref type='FREGIST'>
+          67 FR 11384
+        </aref>
+        , Mar. 14, 2002]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='43' psec='' tq='N'>
+              75.43
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Laboratory testing.
+        </SUBJECT>
+        <P>
+          Fees for testing each sample shall include the time required for
+          actual testing, preparation of test records, issuing 
+          <PRTPAGE P='226' />
+          the certificate, and filing of samples and documents, with:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Charges billed at the hourly rate in increments of 15 minutes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A minimum fee of 1 hour per sample for testing shall be charged.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The charge for a preliminary report issued prior to completion of
+            testing shall be $13.00 and billed in accordance with paragraph (a)
+            of this section.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 18724
+          </aref>
+          , May 2, 1984, as amended at 
+          <aref type='FREGIST'>
+            67 FR 11384
+          </aref>
+          , Mar. 14, 2002]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3954'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.44
+      </extid>
+      <num st='1'>
+        75.44
+      </num>
+      <head>
+        When application rejected or withdrawn.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='44' psec='' tq='N'>
+              75.44
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When application rejected or withdrawn.
+        </SUBJECT>
+        <P>
+          When an application for inspection is rejected in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='13' psec='' tq='N'>
+              75.13
+            </subref>
+          </aref>
+           or withdrawn in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='14' psec='' tq='N'>
+              75.14
+            </subref>
+          </aref>
+          , the applicant will be required to pay applicable fees for the time
+          used by an inspector and other expenses incurred in connection with
+          such application prior to its rejection or withdrawal.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3955'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.45
+      </extid>
+      <num st='1'>
+        75.45
+      </num>
+      <head>
+        Charge for appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='45' psec='' tq='N'>
+              75.45
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Charge for appeals.
+        </SUBJECT>
+        <P>
+          A charge of 1 hour shall be made for each appeal filed under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='26' psec='' tq='N'>
+              75.26
+            </subref>
+          </aref>
+          , and the fee for an appeal inspection shall equal the fee for the
+          original inspection from which the appeal is taken, plus any charges
+          for travel or other expenses incurred in performing the appeal: 
+          <E T='03'>
+            Provided,
+          </E>
+           That when a material error in the certificate or sample from which
+          the appeal is taken is found by the appeal inspector the charge and
+          fee shall be waived.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3956'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.46
+      </extid>
+      <num st='1'>
+        75.46
+      </num>
+      <head>
+        When appeal refused or withdrawn.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='46' psec='' tq='N'>
+              75.46
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When appeal refused or withdrawn.
+        </SUBJECT>
+        <P>
+          When an appeal is refused in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='29' psec='' tq='N'>
+              75.29
+            </subref>
+          </aref>
+           or withdrawn in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='28' psec='' tq='N'>
+              75.28
+            </subref>
+          </aref>
+          , the applicant will be required to pay for the time used by the
+          appeal inspector and other expenses incurred in connection with such
+          appeal prior to its denial, dismissal, or withdrawal.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3957'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.47
+      </extid>
+      <num st='1'>
+        75.47
+      </num>
+      <head>
+        For certificates.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 18724
+        </aref>
+        , May 2, 1984, as amended at 
+        <aref type='FREGIST'>
+          56 FR 51320
+        </aref>
+        , Oct. 11, 1991; 
+        <aref type='FREGIST'>
+          58 FR 64101
+        </aref>
+        , Dec. 6, 1993; 
+        <aref type='FREGIST'>
+          60 FR 21035
+        </aref>
+        , May 1, 1995; 
+        <aref type='FREGIST'>
+          65 FR 15832
+        </aref>
+        , Mar. 24, 2000; 
+        <aref type='FREGIST'>
+          67 FR 11384
+        </aref>
+        , Mar. 14, 2002]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='47' psec='' tq='N'>
+              75.47
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          For certificates.
+        </SUBJECT>
+        <P>
+          A charge of $13.00 per certificate will be made for copies of
+          certificates other than those required to be distributed in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='23' psec='' tq='N'>
+              75.23
+            </subref>
+          </aref>
+           and for the issuance of a duplicate certificate in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='24' psec='' tq='N'>
+              75.24
+            </subref>
+          </aref>
+           and an appeal certificate in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='31' psec='' tq='N'>
+              75.31
+            </subref>
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 18724
+          </aref>
+          , May 2, 1984, as amended at 
+          <aref type='FREGIST'>
+            56 FR 51320
+          </aref>
+          , Oct. 11, 1991; 
+          <aref type='FREGIST'>
+            58 FR 64101
+          </aref>
+          , Dec. 6, 1993; 
+          <aref type='FREGIST'>
+            60 FR 21035
+          </aref>
+          , May 1, 1995; 
+          <aref type='FREGIST'>
+            65 FR 15832
+          </aref>
+          , Mar. 24, 2000; 
+          <aref type='FREGIST'>
+            67 FR 11384
+          </aref>
+          , Mar. 14, 2002]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3958'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.48
+      </extid>
+      <num st='1'>
+        75.48
+      </num>
+      <head>
+        Identification number.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='48' psec='' tq='N'>
+              75.48
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Identification number.
+        </SUBJECT>
+        <P>
+          The Director may require the use of official identification numbers in
+          connection with seed certificated or sampled under the Act. When
+          identification numbers are required, they shall be specified by the
+          Director and shall be attached to, or stamped, printed, or stenciled
+          on the lot of seed certificated or sampled in a manner specified by
+          the Director.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3959'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:75:-:75.49
+      </extid>
+      <num st='1'>
+        75.49
+      </num>
+      <head>
+        OMB control numbers.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          56 FR 51320
+        </aref>
+        , Oct. 11, 1991]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='75' sect='49' psec='' tq='N'>
+              75.49
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB control numbers.
+        </SUBJECT>
+        <P>
+          The control number assigned to the information collection requirements
+          by the Office of Management and Budget pursuant to the Paperwork
+          Reduction Act of 1980 is as follows: OMB Control No. 0581-0140.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            56 FR 51320
+          </aref>
+          , Oct. 11, 1991]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

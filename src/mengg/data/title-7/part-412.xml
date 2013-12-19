@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:IV:-:412
+    </extid>
+    <num>
+      412
+    </num>
+    <head>
+      PUBLIC INFORMATION—FREEDOM OF INFORMATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              5 U.S.C. 552
+            </subref>
+             and 
+            <subref title='5' sect='7' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/7.html'>
+              7
+            </subref>
+          </aref>
+           U.S.C. 1506.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            62 FR 67694
+          </aref>
+          , Dec. 30, 1997, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='5882'>
+      <extid>
+        lii:cfr:2013:7:0:B:IV:-:412:-:412.1
+      </extid>
+      <num st='1'>
+        412.1
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='412' sect='1' psec='' tq='N'>
+              412.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part is issued in accordance with the regulations of the
+          Secretary of Agriculture published at 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='1-1' psec='' tq='N'>
+              1.1-1
+            </subref>
+          </aref>
+          .23, and appendix A, implementing the Freedom of Information Act (
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              5 U.S.C. 552
+            </subref>
+          </aref>
+          ). The Secretary&apos;s regulations, as implemented by this part, and
+          the Risk Management Agency (RMA) govern availability of records of the
+          Federal Crop Insurance Corporation (FCIC) as administration of the
+          crop insurance program for FCIC.
+        </P>
+      </contents>
+    </section>
+    <section orderid='5883'>
+      <extid>
+        lii:cfr:2013:7:0:B:IV:-:412:-:412.2
+      </extid>
+      <num st='1'>
+        412.2
+      </num>
+      <head>
+        Public inspection and copying.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='412' sect='2' psec='' tq='N'>
+              412.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Public inspection and copying.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Members of the public may request access to the information
+            specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='412' sect='2' psec='#d' tq='N'>
+                412.2(d)
+              </subref>
+            </aref>
+             for inspection and copying.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To obtain access to specified information, the public should submit
+            a written request, in accordance with 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1' sect='6' psec='' tq='N'>
+                1.6
+              </subref>
+            </aref>
+            , to the Appeals, Litigation and Legal Liaison Staff, Risk
+            Management Agency, United States Department of Agriculture, 1400
+            Independence Avenue, SW, STOP 0807, room 6618-S, Washington, DC
+            20250-0807, from 9:00 a.m.-4:00 pm., EDT Monday through Friday,
+            except holidays.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             When the information requested is not located at the office of the
+            Appeals, Litigation and Legal Liaison Staff, the Appeals, Litigation
+            and Legal Liaison Staff will direct the request to the appropriate
+            office where the information can be obtained. The requester will be
+            informed that the request has been forwarded to the appropriate
+            office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             FCIC will make available for inspection and copying, unless
+            otherwise exempt from publication under 
+            <aref type='CFR-TIC-SECT'>
+              sections 552(a)(2)(C) and 552(b)
+            </aref>
+            :
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Final opinions, including concurring and dissenting opinions and
+            orders made in the adjudication of cases; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Those statements of policy and interpretations that have been
+            adopted by FCIC and RMA and are not published in the 
+            <E T='04'>
+              Federal Register
+            </E>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Administrative staff manuals and instructions to staff that affect
+            a member of the public.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='5884'>
+      <extid>
+        lii:cfr:2013:7:0:B:IV:-:412:-:412.3
+      </extid>
+      <num st='1'>
+        412.3
+      </num>
+      <head>
+        Index.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='412' sect='3' psec='' tq='N'>
+              412.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Index.
+        </SUBJECT>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a_2' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a_2'>
+              5 U.S.C. 552(a)(2)
+            </subref>
+          </aref>
+           requires that each agency publish, or otherwise make available, a
+          current index of all materials available for public inspection and
+          copying. RMA and FCIC will maintain a current index providing
+          identifying information for the public as to any material issued,
+          adopted, or promulgated by the Agency since July 4, 1967, and required
+          by 
+          <aref type='CFR-TIC-SECT'>
+            section 552(a)(2)
+          </aref>
+          . Pursuant to the Freedom of Information Act provisions, RMA and FCIC
+          have determined that in view of the 
+          <PRTPAGE P='104' />
+          small number of public requests for such index, publication of such an
+          index would be unnecessary and impracticable. Copies of the index will
+          be available upon request in person or by mail at the address stated
+          in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='412' sect='2' psec='#b' tq='N'>
+              412.2(b)
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='5885'>
+      <extid>
+        lii:cfr:2013:7:0:B:IV:-:412:-:412.4
+      </extid>
+      <num st='1'>
+        412.4
+      </num>
+      <head>
+        Requests for records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='412' sect='4' psec='' tq='N'>
+              412.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requests for records.
+        </SUBJECT>
+        <P>
+          The Director of the Appeals, Litigation and Legal Liaison staff, RMA
+          located at the above stated address, is the person authorized to
+          receive Freedom of Information Act and to determine whether to grant
+          or deny such requests in accordance with 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='8' psec='' tq='N'>
+              1.8
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='5886'>
+      <extid>
+        lii:cfr:2013:7:0:B:IV:-:412:-:412.5
+      </extid>
+      <num st='1'>
+        412.5
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='412' sect='5' psec='' tq='N'>
+              412.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          Any person whose request under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='412' sect='4' psec='' tq='N'>
+              412.4
+            </subref>
+          </aref>
+           is denied shall have the right to appeal such denial. This appeal
+          shall be submitted in accordance with 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='13' psec='' tq='N'>
+              1.13
+            </subref>
+          </aref>
+           and addressed to the Manager, Federal Crop Insurance Corporation,
+          United States Department of Agriculture, 1400 Independence Avenue,
+          SW., STOP 0807, room 6618-S, Washington, DC 20250-0807.
+        </P>
+      </contents>
+    </section>
+    <section orderid='5887'>
+      <extid>
+        lii:cfr:2013:7:0:B:IV:-:412:-:412.6
+      </extid>
+      <num st='1'>
+        412.6
+      </num>
+      <head>
+        Timing of responses to requests.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='412' sect='6' psec='' tq='N'>
+              412.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Timing of responses to requests.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In general, FCIC will respond to requests according to their order
+            of receipt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Existing responsive documents or information may be maintained in
+            RMA&apos;s field offices. Therefore, extra time may be necessary to
+            search and collect the documents.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

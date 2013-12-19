@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol1'>
+    <extid>
+      lii:cfr:2013:7:0:A:-:-:1a
+    </extid>
+    <num>
+      1a
+    </num>
+    <head>
+      LAW ENFORCEMENT AUTHORITIES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Sec. 1337
+          </aref>
+          , 
+          <aref target='_blank' title='Pub. L. 97-98' alt='Pub. L. 97-98' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d97:./list/bd/d97pl.lst:98%28Public_Laws%29'>
+            Pub. L. 97-98
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 5 U.S.C. App. I.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            47 FR 2073
+          </aref>
+          , Jan. 14, 1982, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='239'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1a:-:1a.1
+      </extid>
+      <num st='1'>
+        1a.1
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1a' sect='1' psec='' tq='N'>
+              1a.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part sets forth the rules issued by the Secretary of Agriculture
+          to implement 
+          <aref type='UNKNOWN'>
+            section 1337 of
+          </aref>
+          <aref target='_blank' title='Public Law 97-98' alt='Public Law 97-98' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d97:./list/bd/d97pl.lst:98%28Public_Laws%29'>
+            Public Law 97-98
+          </aref>
+           relating to:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Arrests without warrant for certain criminal felony violations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Execution of warrants for arrests, searches of premises and
+            seizures of evidence; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The carrying of firearms by designated officials of the Office of
+            Inspector General.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='240'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1a:-:1a.2
+      </extid>
+      <num st='1'>
+        1a.2
+      </num>
+      <head>
+        Authorization.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          50 FR 13759
+        </aref>
+        , Apr. 8, 1985]
+      </citation>
+      <contents>
+        <PRTPAGE P='119' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1a' sect='2' psec='' tq='N'>
+              1a.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Authorization.
+        </SUBJECT>
+        <P>
+          Any official of the Office of Inspector General who is designated by
+          the Inspector General according to 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1a' sect='3' psec='' tq='N'>
+              1a.3
+            </subref>
+             and 
+            <subref title='7' part='1a' sect='5' psec='' tq='N'>
+              1a.5
+            </subref>
+             of this part
+          </aref>
+           and who is engaged in the performance of his/her official duties
+          under the authority provided in 
+          <aref type='CFR-TIC-SECT'>
+            section 6
+          </aref>
+          , or described in 
+          <aref type='UNKNOWN'>
+            section 9, of
+          </aref>
+           the Inspector General Act of 1978 (5 U.S.C. App.), is authorized to—
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Make an arrest without a warrant for any criminal felony violation
+            subject to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1a' sect='4' psec='' tq='N'>
+                1a.4
+              </subref>
+            </aref>
+            , if such violation is committed, or if the official has probable
+            cause to believe that such violation is being committed, in his/her
+            presence;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Execute and serve a warrant for an arrest, for the search of
+            premises, or the seizure of evidence if such warrant is issued under
+            authority of the United States upon probable cause to believe that
+            any criminal felony violation, subject to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1a' sect='4' psec='' tq='N'>
+                1a.4
+              </subref>
+            </aref>
+            , has been committed; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Carry a firearm.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            50 FR 13759
+          </aref>
+          , Apr. 8, 1985]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='241'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1a:-:1a.3
+      </extid>
+      <num st='1'>
+        1a.3
+      </num>
+      <head>
+        Persons authorized.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1a' sect='3' psec='' tq='N'>
+              1a.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Persons authorized.
+        </SUBJECT>
+        <P>
+          Any person who is employed in the Office of Inspector General and who
+          is designated by the Inspector General in accordance with and subject
+          to 
+          <aref type='CFR-TIC-SECT'>
+            § 1a
+          </aref>
+          . and who conducts investigations of alleged or suspected felony
+          criminal violations of statutes administered by the Secretary of
+          Agriculture or any agency of the Department of Agriculture may
+          exercise the authorities listed in and pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1a' sect='2' psec='' tq='N'>
+              1a.2
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='242'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1a:-:1a.4
+      </extid>
+      <num st='1'>
+        1a.4
+      </num>
+      <head>
+        Limitations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          50 FR 13759
+        </aref>
+        , Apr. 8, 1985]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1a' sect='4' psec='' tq='N'>
+              1a.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Limitations.
+        </SUBJECT>
+        <P>
+          The powers granted by 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1a' sect='2' psec='#a' tq='N'>
+              1a.2(a)
+            </subref>
+             and 
+            <subref title='7' part='1a' sect='2' psec='#b' tq='N'>
+              1a.2(b)
+            </subref>
+          </aref>
+           shall be exercised only when a designated official is engaged in an
+          investigation of alleged or suspected felony violations of statutes
+          administered by the Secretary of Agriculture or any agency of the
+          Department.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            50 FR 13759
+          </aref>
+          , Apr. 8, 1985]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='243'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1a:-:1a.5
+      </extid>
+      <num st='1'>
+        1a.5
+      </num>
+      <head>
+        Responsibility of the Inspector General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1a' sect='5' psec='' tq='N'>
+              1a.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Responsibility of the Inspector General.
+        </SUBJECT>
+        <P>
+          The Inspector General shall:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Issue directives conforming to this part governing the exercise of
+            the authorities granted by this part. These directives should
+            contain the policies and procedures by which the authorities will be
+            exercised by designated officials of the Office of Inspector
+            General;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Establish criteria for qualification by officials of the Office of
+            Inspector General who are designated to exercise the authorities
+            granted in this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Monitor the implementation and exercise of the authorities granted
+            by this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Designate, pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='1a' sect='2' psec='' tq='N'>
+                1a.2
+              </subref>
+              , 
+              <subref title='7' part='1a' sect='3' psec='' tq='N'>
+                1a.3
+              </subref>
+               and 
+              <subref title='7' part='1a' sect='4' psec='' tq='N'>
+                1a.4
+              </subref>
+            </aref>
+            , and the directives issued under paragraph (a) of this section, and
+            the criteria established under paragraph (b) of this section,
+            employees who have satisfied all the qualifications set by the
+            Inspector General to exercise the authorities granted by 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1a' sect='2' psec='' tq='N'>
+                1a.2
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Submit to the Attorney General of the United States the name of any
+            employee of the Office of Inspector General designated pursuant to
+            paragraph (d) of this section. Any designation not specifically
+            disapproved by the Attorney General within 30 days after the date of
+            submission shall be deemed approved.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

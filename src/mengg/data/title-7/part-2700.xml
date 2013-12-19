@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXVII:-:2700
+    </extid>
+    <num>
+      2700
+    </num>
+    <head>
+      ORGANIZATION AND FUNCTIONS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+            , 
+            <subref title='5' sect='552' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              552
+            </subref>
+          </aref>
+          ; 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='81' psec='' tq='N'>
+              2.81
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            47 FR 39128
+          </aref>
+          , Sept. 7, 1982, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15913'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVII:-:2700:-:2700.1
+      </extid>
+      <num st='1'>
+        2700.1
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2700' sect='1' psec='' tq='N'>
+              2700.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part is issued in accordance with 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a'>
+              5 U.S.C. 552(a)
+            </subref>
+          </aref>
+           to provide guidance for the general public as to the organization and
+          functions of the Office of Information Resources Management.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15914'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVII:-:2700:-:2700.2
+      </extid>
+      <num st='1'>
+        2700.2
+      </num>
+      <head>
+        Organization.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2700' sect='2' psec='' tq='N'>
+              2700.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Organization.
+        </SUBJECT>
+        <P>
+          The Office of Information Resources Management (OIRM) was established
+          on January 12, 1982. Delegations of authority to the Director, OIRM
+          appear at 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='81' psec='' tq='N'>
+              2.81
+            </subref>
+          </aref>
+          . The organization is comprised of five headquarters divisions, an
+          administrative staff and three computer centers to serve the
+          Department. The organization is headed by the Director or, in the
+          Director&apos;s absence, by the Deputy Director or, in the absence of
+          both, by the Director&apos;s desginee.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15915'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVII:-:2700:-:2700.3
+      </extid>
+      <num st='1'>
+        2700.3
+      </num>
+      <head>
+        Functions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2700' sect='3' psec='' tq='N'>
+              2700.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Functions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Director.
+            </head>
+          </npcatch>
+          <text>
+             Provides executive direction for OIRM. Develops and recommends
+            Departmental information resources management principles, policies,
+            and objectives; develops and disseminates Departmental information
+            resources management standards, guidelines, rules, and regulations
+            necessary to implement approved principles, policies, and programs;
+            designs, develops, implements, and revises systems, processes, work
+            methods, and techniques to improve the management of information
+            resources and the operational effectiveness of the Department;
+            provides telecommunications and automated data processing services
+            to the Department&apos;s agencies and staff offices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Deputy Director.
+            </head>
+          </npcatch>
+          <text>
+             Assists the Director and, in the absence of the Director, serves as
+            the Acting Director.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Administrative Management Staff.
+            </head>
+          </npcatch>
+          <text>
+             Provides support for agency management regarding budget,
+            accounting, personnel, and other administrative matters.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Planning Division.
+            </head>
+          </npcatch>
+          <text>
+             Defines, develops, guides, and administers the Department&apos;s
+            long-range planning process for information resources.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Information Management Division.
+            </head>
+          </npcatch>
+          <text>
+             Develops policy, standards and guidelines for collection,
+            protection, access, use and management of information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Review and Evaluation Division.
+            </head>
+          </npcatch>
+          <text>
+             Reviews and evaluates information resources programs and activities
+            of Department agencies and staff offices for conformance with plans,
+            policies, and standards.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Agency Technical Services Division.
+            </head>
+          </npcatch>
+          <text>
+             Advises and consults with and assists Department agencies and staff
+            offices on activities related to the development and implementation
+            of automated information systems.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Operations and Telecommunications Division.
+            </head>
+          </npcatch>
+          <text>
+             Coordinates the development and implementation of programs for ADP
+            and telecommunications resource planning within Departmental
+            computer centers and the National Finance Center, and for the
+            acquisition and use of Department-wide telecommunications facilities
+            and services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Departmental Computer Centers.
+            </head>
+          </npcatch>
+          <text>
+             The following centers provide ADP facilities and services to
+            agencies and staff offices of the Department.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Washington Computer Center, 14th and Independence Ave., SW., Rm.
+            S-107-South, Washington, DC 20250.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Fort Collins Computer Center, 3825 E. Mulberry Street (P.O. Box
+            1206), Fort Collins, CO 80524.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Kansas City Computer Center, 8930 Ward Parkway (P.O. Box 205),
+            Kansas City, MO 64141.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,2786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:E:110
+    </extid>
+    <num>
+      110
+    </num>
+    <head>
+      RECORDKEEPING ON RESTRICTED USE PESTICIDES BY CERTIFIED APPLICATORS;
+      SURVEYS AND REPORTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='136a' note='' psec='#d_1_c' tq='N' target='http://www.law.cornell.edu/uscode/7/136a.html#d_1_c'>
+              7 U.S.C. 136a(d)(1)(c)
+            </subref>
+            , 
+            <subref title='7' sect='136i-1' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/136i-1.html'>
+              136i-1
+            </subref>
+          </aref>
+          , and 450; 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='17' psec='' tq='N'>
+              2.17
+            </subref>
+            , 
+            <subref title='7' part='2' sect='50' psec='' tq='N'>
+              2.50
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            58 FR 19022
+          </aref>
+          , Apr. 9, 1993, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='4159'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.1
+      </extid>
+      <num st='1'>
+        110.1
+      </num>
+      <head>
+        Scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='1' psec='' tq='N'>
+              110.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope.
+        </SUBJECT>
+        <P>
+          This part sets forth the requirements for recordkeeping on restricted
+          use pesticides by all certified applicators, both private applicators
+          and commercial applicators.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4160'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.2
+      </extid>
+      <num st='1'>
+        110.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 19022
+        </aref>
+        , Apr. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          60 FR 8123
+        </aref>
+        , Feb. 10, 1995]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='2' psec='' tq='N'>
+              110.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in this part, the following terms shall be construed,
+          respectively, to mean:
+        </P>
+        <P>
+          <E T='03'>
+            Administrator.
+          </E>
+           The Administrator of the Agricultural Marketing Service, United
+          States Department of Agriculture, or any individual to whom the
+          Administrator delegates authority to act in his or her behalf.
+        </P>
+        <P>
+          <E T='03'>
+            Authorized representative.
+          </E>
+           Any person who is authorized to act on behalf of the Secretary or a
+          State lead agency for the purpose of surveying records required to be
+          kept under this part and enforcing this part.
+        </P>
+        <P>
+          <E T='03'>
+            Certification number.
+          </E>
+           A number issued by EPA or a State to an individual who is authorized
+          by EPA or the State to use or supervise the use of any restricted use
+          pesticide.
+        </P>
+        <P>
+          <E T='03'>
+            Certified applicator.
+          </E>
+           Any individual who is certified by EPA or the State to use or
+          supervise the use of any restricted use pesticide covered by that
+          individual&apos;s certification.
+        </P>
+        <P>
+          <E T='03'>
+            Commercial applicator.
+          </E>
+           A certified applicator, whether or not the individual is a private
+          applicator with respect to some uses, who uses or supervises the use
+          of any restricted use pesticide for any purpose on any property other
+          than as provided by the definition of private applicator.
+        </P>
+        <P>
+          <E T='03'>
+            Comparable.
+          </E>
+           With respect to the records required to be kept under this part,
+          similar to those required under EPA-approved State certification
+          programs.
+        </P>
+        <P>
+          <E T='03'>
+            Complainant.
+          </E>
+           The Administrator or an official of a cooperating State that deals
+          with pesticide use or health or environmental issues related to the
+          pesticide use, who institutes a proceeding pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='8' psec='' tq='N'>
+              110.8
+            </subref>
+             of this part
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            EPA.
+          </E>
+           The United States Environmental Protection Agency.
+        </P>
+        <P>
+          <E T='03'>
+            EPA registration number.
+          </E>
+           The number assigned to a product registered with 
+          <PRTPAGE P='282' />
+          EPA in accordance with 
+          <aref type='UNKNOWN'>
+            sections 3 or 24c of
+          </aref>
+           the Federal Insecticide, Fungicide, and Rodenticide Act and
+          implementing regulations, and borne on the label of the product.
+        </P>
+        <P>
+          <E T='03'>
+            Indian governing body.
+          </E>
+           The governing body of any tribe, band, or group of Indians subject to
+          the jurisdiction of the United States and recognized by the United
+          States as possessing power of self-government.
+        </P>
+        <P>
+          <E T='03'>
+            Licensed health care professional.
+          </E>
+           A physician, nurse, emergency medical technician, or other qualified
+          individual, licensed or certified by a State to provide medical
+          treatment.
+        </P>
+        <P>
+          <E T='03'>
+            Medical emergency.
+          </E>
+           A situation that requires immediate medical treatment or first aid to
+          treat possible symptoms of pesticide poisoning or exposure.
+        </P>
+        <P>
+          <E T='03'>
+            Parties.
+          </E>
+           Includes the Administrator or cooperating State agencies who
+          institute proceedings against whom such proceedings are instituted,
+          under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='8' psec='' tq='N'>
+              110.8
+            </subref>
+             of this part
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Person.
+          </E>
+           Any individual, corporation, company, association, firm, partnership,
+          society, or other legal entity.
+        </P>
+        <P>
+          <E T='03'>
+            Presiding officer.
+          </E>
+           Any individual designated in writing by the Administrator to preside
+          at a proceeding conducted pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='8' psec='' tq='N'>
+              110.8
+            </subref>
+             of this part
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Private applicator.
+          </E>
+           A certified applicator who uses or supervises the use of any
+          restricted use pesticide for purposes of producing any agricultural
+          commodity:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             On property owned or rented by the applicator or the employer of
+            the applicator; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If applied without compensation, other than trading of personal
+            services between producers of agricultural commodities, on the
+            property of another person.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Record.
+          </E>
+           The legible recording of all required elements under 
+          <aref type='CFR-TIC-SECT'>
+            section 
+            <subref title='7' part='110' sect='3' psec='#a' tq='N'>
+              110.3(a) (1)
+            </subref>
+          </aref>
+           through (6) for the application of a federally restricted use
+          pesticide. 
+          <SU>
+            1
+          </SU>
+          <FTREF />
+        </P>
+        <FTNT>
+          <P>
+            <SU>
+              1
+            </SU>
+             Records can be handwritten on individual notes or forms, consist of
+            invoices, be computerized, and or be maintained in recordkeeping
+            books.
+          </P>
+        </FTNT>
+        <P>
+          <E T='03'>
+            Recordkeeping.
+          </E>
+           The recording by the certified applicator, or the agent of the
+          certified applicator, of the information required by 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='3' psec='#a' tq='N'>
+              110.3(a) and (b)
+            </subref>
+          </aref>
+           concerning each restricted use pesticide application, either
+          electronically or manually in writing, and the maintenance of such
+          records in a manner accessible to authorized representatives.
+        </P>
+        <P>
+          <E T='03'>
+            Respondent.
+          </E>
+           The party proceeded against pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='8' psec='' tq='N'>
+              110.8
+            </subref>
+             of this part
+          </aref>
+          , restricted use pesticide. A pesticide that is federally classified
+          for restricted use under 
+          <aref type='UNKNOWN'>
+            section 3(d)(1)(c) of
+          </aref>
+           the Federal Insecticide, Fungicide, and Rodenticide Act.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary.
+          </E>
+           The Secretary of Agriculture, United States Department of
+          Agriculture, or any individual to whom the Secretary delegates
+          authority to act in his or her behalf.
+        </P>
+        <P>
+          <E T='03'>
+            State.
+          </E>
+           A State of the United States, the District of Columbia, the
+          Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa,
+          the Northern Mariana Islands, and any other territory or possession of
+          the United States, or an Indian governing body.
+        </P>
+        <P>
+          <E T='03'>
+            State lead agency.
+          </E>
+           The agency designated by a State to have access to the records
+          required to be maintained under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Supervise.
+          </E>
+           To provide instruction and guidance in the application of restricted
+          use pesticides and exercise control over an applicator of restricted
+          use pesticides in accordance with standards prescribed by the EPA in 
+          <aref type='CFR'>
+            40 CFR part 
+            <subref title='40' part='171' tq='N'>
+              171
+            </subref>
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 19022
+          </aref>
+          , Apr. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            60 FR 8123
+          </aref>
+          , Feb. 10, 1995]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4161'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.3
+      </extid>
+      <num st='1'>
+        110.3
+      </num>
+      <head>
+        Records, retention, and access to records.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 19022
+        </aref>
+        , Apr. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          60 FR 8123
+        </aref>
+        , Feb. 10, 1995]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='3' psec='' tq='N'>
+              110.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Records, retention, and access to records.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Certified applicators of restricted use pesticides shall maintain
+            records of the application of restricted use pesticides. Except as
+            provided in paragraph (b) of this section, these records shall
+            include the following information for each application:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The brand or product name, and the EPA registration number of the
+            restricted use pesticide that was applied;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The total amount of the restricted use pesticide applied;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The location of the application, the size of area treated, and the
+            crop, commodity, stored product, or site to which a restricted use
+            pesticide was applied. The location of the application may be
+            recorded using any of the following designations:
+            <PRTPAGE P='283' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             County, range, township, and section;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             An identification system utilizing maps and/or written descriptions
+            which accurately identify location;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             An identification system established by a United States Department
+            of Agriculture agency which utilizes maps and numbering system to
+            identify field locations; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The legal property description.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The month, day, and year on which the restricted use pesticide
+            application occurred; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The name and certification number (if applicable) of the certified
+            applicator who applied or who supervised the application of the
+            restricted use pesticide.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Certified applicators shall maintain records of the application of
+            restricted use pesticides made on the same day in a total area of
+            less than one-tenth (
+            <FR>
+              1/10
+            </FR>
+            ) of an acre. Except for applications of restricted use pesticides
+            in greenhouses and nurseries, to which the requirements of paragraph
+            (a) of this section apply, these records shall include the following
+            information for the application:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The brand or product name, and the EPA registration number of the
+            restricted use pesticide that was applied;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The total amount of the restricted use pesticide applied;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The location of the application, designated as “spot application,”
+            followed by a concise description of location and treatment; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The month, day, and year on which the restricted use pesticide
+            application occurred.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The information required in this section shall be recorded within
+            14 days following the pesticide application. However, whether or not
+            the written record has been completed, the certified applicator
+            shall provide the information to be recorded in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='110' sect='5' psec='#a' tq='N'>
+                110.5(a)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The records required in this section shall be retained for a period
+            of 2 years from the date of the restricted use pesticide application
+            and be maintained in a manner that is accessible by authorized
+            representatives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             A commercial applicator shall, within 30 days of a restricted use
+            pesticide application, provide a copy of records required under this
+            section or under State or Federal regulations (whichever is
+            applicable) under which the commercial applicator is holding
+            certification, to the person for whom the restricted use pesticide
+            was applied.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A certified applicator shall, upon oral request and presentation of
+            credentials by an authorized representative, make available to the
+            authorized representative the records required to be maintained
+            under this section and permit the authorized representative to copy
+            any of the records. The original of the records required to be
+            maintained under this section shall be retained by the certified
+            pesticide applicators.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             No Federal or State agency shall release information obtained under
+            this part that would directly or indirectly reveal the identity of
+            producers of commodities to which restricted use pesticides have
+            been applied.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Certified applicators who apply restricted use pesticides in States
+            where they are required to maintain records on applications of
+            restricted use pesticides, comparable to those for commercial
+            applicators in that State, and such records are maintained in
+            accordance with State requirements, are not subject to paragraphs
+            (a), (b), and (c) of this section.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 19022
+          </aref>
+          , Apr. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            60 FR 8123
+          </aref>
+          , Feb. 10, 1995]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4162'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.4
+      </extid>
+      <num st='1'>
+        110.4
+      </num>
+      <head>
+        Demonstration of compliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='4' psec='' tq='N'>
+              110.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Demonstration of compliance.
+        </SUBJECT>
+        <P>
+          The Secretary is authorized to inspect and copy any record required to
+          be maintained by this part in order to determine whether a certified
+          applicator is complying with this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4163'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.5
+      </extid>
+      <num st='1'>
+        110.5
+      </num>
+      <head>
+        Availability of records to facilitate medical treatment.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          60 FR 8123
+        </aref>
+        , Feb. 10, 1995]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='5' psec='' tq='N'>
+              110.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of records to facilitate medical treatment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             When the attending licensed health care professional, or an
+            individual acting under the direction of the attending licensed
+            health care professional, determines that any record of the
+            application of any restricted use pesticide required to be
+            maintained under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='110' sect='3' psec='' tq='N'>
+                110.3
+              </subref>
+            </aref>
+             is necessary to provide medical treatment or first aid to an
+            individual who may have been exposed to the restricted use pesticide
+            for which the record is or will be maintained, the 
+            <PRTPAGE P='284' />
+            certified applicator required to maintain the record shall promptly
+            provide the record information and any available label information.
+            If it is determined by the attending licensed health care
+            professional, or an individual acting under the direction of the
+            attending licensed health care professional, to be a medical
+            emergency, the record information of the restricted use pesticide,
+            relating to the medical emergency, shall be provided immediately.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The attending licensed health care professional, or an individual
+            acting under the direction of the attending licensed health care
+            professional, may utilize and release the record or record
+            information obtained under paragraph (a) of this section when
+            necessary to provide medical treatment or first aid to an individual
+            who may have been exposed to the restricted use pesticide for which
+            the record is or will be maintained.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The attending licensed health care professional may release the
+            record or record information to appropriate federal or state
+            agencies that deal with pesticide use or any health issue related to
+            the use of pesticides when necessary to prevent further injury or
+            illness.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A licensed health care professional may release the record or
+            record information to submit pesticide poisoning incident reports to
+            appropriate state or federal agencies.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            60 FR 8123
+          </aref>
+          , Feb. 10, 1995]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4164'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.6
+      </extid>
+      <num st='1'>
+        110.6
+      </num>
+      <head>
+        Federal cooperation with States.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='6' psec='' tq='N'>
+              110.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Federal cooperation with States.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For the purpose of carrying out this part, the Administrator may
+            enter into agreements with States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may, after entering a State-Federal cooperative
+            agreement with a State, utilize employees and facilities of the
+            State to carry out any provisions of this part in that State. This
+            State-Federal cooperative agreement shall specify:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The agency of the State that is designated as the State lead
+            agency;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The responsibilities of State agencies for the enforcement of this
+            part and the imposition of penalties under this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The qualifications required of the State employees administering
+            and enforcing this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             That the State-Federal cooperative agreement may be terminated at
+            any time by the mutual agreement of the parties to the agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             That the State-Federal cooperative agreement may be terminated by
+            either party by giving written notice to the other party at least 90
+            days before a specified date of termination; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions for liaison between the State and the Administrator
+            concerning the administration and enforcement of this part as may be
+            agreed by the Administrator and the State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If at any time the Administrator shall determine that the State
+            lead agency or other State agencies charged with carrying out the
+            terms of the State-Federal cooperative agreement are unable or
+            unwilling to carry out the terms of the agreement, or, if for any
+            reason the Administrator or State shall determine that the agreement
+            is no longer in effect, the Administrator shall administer and
+            enforce this part in the State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If a State shall notify the Administrator of its readiness to enter
+            into a State-Federal cooperative agreement prior to passage of State
+            legislation and regulations governing recordkeeping by certified
+            applicators of restricted use pesticides, the Administrator may
+            enter into a State-Federal cooperative agreement with the State on
+            an annual basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             For a State to be eligible for Federal technical or financial
+            assistance under a State-Federal cooperative agreement, the State
+            requirements for recordkeeping by all certified applicators of
+            restricted use pesticides must be comparable to the recordkeeping
+            requirements under this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4165'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.7
+      </extid>
+      <num st='1'>
+        110.7
+      </num>
+      <head>
+        Penalties.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 29579
+        </aref>
+        , May 24, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='7' psec='' tq='N'>
+              110.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Penalties.
+        </SUBJECT>
+        <P>
+          Any certified applicator who violates 
+          <aref type='USC'>
+            <subref title='7' sect='136i-1' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/7/136i-1.html#a'>
+              7 U.S.C. 136i-1(a)
+            </subref>
+          </aref>
+          , (b), or (c) or this part shall be subject to a civil penalty of not
+          more than the amount specified in section 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3' sect='91' psec='#b_1_i_A' tq='N'>
+              3.91(b)(1)(i)(A)
+            </subref>
+             of this title
+          </aref>
+           in the case of the first offense, and in the case of subsequent
+          offenses, be subject to a civil penalty of not less than the 
+          <PRTPAGE P='285' />
+          amount specified in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3' sect='91' psec='#b_1_i_B' tq='N'>
+              3.91(b)(1)(i)(B)
+            </subref>
+             of this title
+          </aref>
+           for each violation, except that the civil penalty shall be less than
+          the amount specified in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3' sect='91' psec='#b_1_i_B' tq='N'>
+              3.91(b)(1)(i)(B)
+            </subref>
+             of this title
+          </aref>
+           if the Administrator determines that the certified applicator made a
+          good faith effort to comply with 
+          <aref type='USC'>
+            <subref title='7' sect='136i-1' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/7/136i-1.html#a'>
+              7 U.S.C. 136i-1(a)
+            </subref>
+          </aref>
+          , (b), and (c) and this part.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 29579
+          </aref>
+          , May 24, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4166'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.8
+      </extid>
+      <num st='1'>
+        110.8
+      </num>
+      <head>
+        Rules of practice.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='8' psec='' tq='N'>
+              110.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Rules of practice.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Notice of violation.
+            </head>
+          </npcatch>
+          <text>
+             If there is reason to believe that a person has violated or is
+            violating any provision of this part, the complainant may file with
+            the Presiding Officer a notice of violation signed by the
+            complainant. The notice of violation shall state:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The date of issuance of the notice of violation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The nature of the proceeding;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The identification of the complainant and respondent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The legal authority under which the proceeding is instituted;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The allegations of fact and provisions of law which constitute the
+            basis for the proceeding;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The amount of the proposed civil penalty; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The name, mailing address, and telephone number of the Presiding
+            Officer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Answer.
+            </head>
+          </npcatch>
+          <text>
+             Within 30 days after the service of the notice of violation, the
+            respondent shall file with the Presiding Officer an answer signed by
+            the respondent or by the attorney of record in the proceeding. The
+            answer shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Admit, deny, or explain each of the allegations in the notice of
+            violation and set forth any defense asserted by the respondent; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             State that the respondent admits all the facts alleged in the
+            notice of violation; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             State that the respondent admits the jurisdictional allegations in
+            the notice of violation and neither admits nor denies the remaining
+            allegations and consents to the issuance of an order without further
+            procedure.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Default.
+            </head>
+          </npcatch>
+          <text>
+             Failure to file an answer within 30 days after service of the
+            notice of violation shall be deemed, for purposes of the proceeding,
+            an admission of the allegations in the notice of violation, and
+            failure to deny or otherwise respond to an allegation in the notice
+            of violation shall be deemed, for purposes of the proceeding, an
+            admission of the allegation, unless the complainant and respondent
+            have agreed to a consent decision pursuant to paragraph (e) of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Amendment of notice of violation or answer.
+            </head>
+          </npcatch>
+          <text>
+             At any time prior to the filing of a motion for a hearing, the
+            notice of violation or answer may be amended with the consent of the
+            complainant and respondent or as authorized by the Presiding Officer
+            upon a showing of good cause.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Consent decision.
+            </head>
+          </npcatch>
+          <text>
+             At any time before the Presiding Officer files the decision, the
+            complainant and respondent may agree to the entry of a consent
+            decision. The agreement shall be in the form of a decision signed by
+            the complainant and respondent with appropriate space for signature
+            by the Presiding Officer, and shall contain an admission of at least
+            the jurisdictional facts, consent to the issuance of the agreed
+            decision without further procedure, and such other admissions or
+            statements as may be agreed to by the complainant and respondent.
+            The Presiding Officer shall enter such decision without further
+            procedure, unless an error is apparent on the face of the document.
+            The consent decision shall have the same force and effect as a
+            decision issued after a full hearing, shall become final upon
+            issuance, and shall become effective in accordance with the terms of
+            the decision.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Procedure upon failure to file an answer or admission of facts.
+            </head>
+          </npcatch>
+          <text>
+             The failure to file an answer with the Presiding Officer, or the
+            admission by the answer of all the material allegations of fact
+            contained in the notice of violation, shall constitute a waiver of
+            hearing. Upon such admission or failure to submit an answer,
+            complainant shall file with the Presiding Officer a proposed
+            decision, along with a motion for the adoption of the proposed
+            decision both of which shall be served upon the respondent by the
+            Presiding Officer. Within 20 days after service of the motion and
+            proposed decision, the respondent may file with the Presiding
+            Officer objections to the motion and proposed decision. If the
+            Presiding Officer finds that meritorious objections have been filed,
+            
+            <PRTPAGE P='286' />
+            complainant&apos;s motion shall be denied with supporting reasons.
+            If meritorious objections are not filed, the Presiding Officer shall
+            issue a decision without further procedure or hearing. Copies of the
+            decision or denial of complainant&apos;s motion shall be served by
+            the Presiding Officer upon the respondent and the complainant and
+            may be appealed pursuant to paragraph (l) of this section. Where the
+            decision as proposed by complainant is entered, such decision shall
+            become final and effective without further proceedings 35 days after
+            the date of service of the decision upon the respondent, unless
+            there is an appeal to the Administrator by the complainant or
+            respondent, pursuant to paragraph (l) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Conferences.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Upon motion of the complainant or respondent, the Presiding Officer
+            may direct the complainant and respondent or their counsel to attend
+            a conference at any reasonable time, prior to or during the course
+            of the hearing, when the Presiding Officer finds that the proceeding
+            would be expedited by a conference. Reasonable notice of the time
+            and place of the conference shall be given. The Presiding Officer
+            may order the complainant or respondent to furnish at or subsequent
+            to the conference any or all of the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             An outline of the case or defense;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The legal theories upon which the party will rely;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             A list of documents which the party anticipates introducing at the
+            hearing; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             A list of anticipated witnesses who will testify on behalf of the
+            party. At the discretion of the party furnishing such list of
+            witnesses, the names of the witnesses need not be furnished if they
+            are otherwise identified in some meaningful way such as a short
+            statement of the type of evidence they will offer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Presiding Officer shall not order a party to furnish the
+            information or documents listed in paragraph (g)(1) (i) through (iv)
+            of this section if the party can show that providing the particular
+            information or document is inappropriate or unwarranted under the
+            circumstances of the particular case.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             At the conference, the following matters may be considered:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The simplification of issues;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The necessity of amendments to the notice of violation or answer;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The possibility of obtaining stipulations of facts and of the
+            authenticity, accuracy, and admissibility of documents, which will
+            avoid unnecessary proof;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The limitation of the number of expert or other witnesses;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Negotiation, compromise, or settlement of issues;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The exchange of copies of proposed exhibits;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             The identification of documents or matters of which official notice
+            may be requested;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             A schedule to be followed by the parties for completion of the
+            actions decided at the conference; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_3_ix'>
+            <enum src='gpotxt' cln='1'>
+              (ix)
+            </enum>
+          </npcatch>
+          <text>
+             Such other matters as may expedite and aid in the disposition of
+            the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A conference will not be stenographically reported unless so
+            directed by the Presiding Officer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             In the event the Presiding Officer concludes that personal
+            attendance by the Presiding Officer and the parties or counsel at a
+            conference is unwarranted or impractical, but determines that a
+            conference would expedite the proceeding, the Presiding Officer may
+            conduct the conference by telephone or correspondence.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Actions taken as a result of a conference shall be reduced to a
+            written appropriate order, unless the Presiding Officer concludes
+            that a stenographic report shall suffice, or, the Presiding Officer
+            elects to make a statement on the record at the hearing summarizing
+            the actions taken.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Procedure for hearing—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Request for hearing.
+            </head>
+          </npcatch>
+          <text>
+             The complainant or respondent may request a hearing on the facts by
+            including such a request in the notice of violation or answer, or by
+            a separate request, in writing, filed with the Presiding Officer
+            within the time in which an answer may be filed. Failure to request
+            a hearing within the time allowed for the filing of the answer shall
+            constitute a waiver of a hearing. In the event the respondent denies
+            any material fact and fails to file a timely request for a hearing,
+            the 
+            <PRTPAGE P='287' />
+            matter may be set down for hearing on motion of the complainant
+            filed with the Presiding Officer or upon the Presiding
+            Officer&apos;s own motion.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Time and place.
+            </head>
+          </npcatch>
+          <text>
+             If any material issue of fact is joined by the pleading, the
+            Presiding Officer, upon motion of any of the parties stating that
+            the matter is at issue and is ready for hearing, shall set a time
+            and place for hearing as soon as feasible with due regard for the
+            public interest and the convenience and necessity of the parties.
+            The Presiding Officer shall issue a notice stating the time and
+            place of hearing. If any change in the time or place of the hearing
+            is made, the Presiding Officer shall issue a notice of this change,
+            which notice shall be served upon the complainant and respondent,
+            unless it is made during the course of an oral hearing and made a
+            part of the transcript, or actual notice is given to the parties.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Appearances.
+            </head>
+          </npcatch>
+          <text>
+             The parties may appear in person or by attorney of record in the
+            proceeding. Any individual who appears as an attorney must conform
+            to the standard of ethical conduct required of practitioners before
+            the courts of the United States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Debarment of attorney.
+            </head>
+          </npcatch>
+          <text>
+             Whenever a Presiding Officer finds that an individual acting as
+            attorney for any party to the proceeding is guilty of unethical or
+            contumacious conduct, in or in connection with a proceeding, the
+            Presiding Officer may order that the individual be precluded from
+            further acting as attorney in the proceeding. An appeal to the
+            Administrator may be taken from any such order, but no proceeding
+            shall be delayed or suspended pending disposition of the appeal: 
+            <E T='03'>
+              Provided,
+            </E>
+             That the Presiding Officer shall suspend the proceeding for a
+            reasonable time for the purpose of enabling the party to obtain
+            another attorney.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Failure to appear.
+            </head>
+          </npcatch>
+          <text>
+             A respondent who, after being duly notified, fails to appear at the
+            hearing without good cause, shall be deemed to have waived the right
+            to an oral hearing in the proceeding and to have admitted any facts
+            which may be presented at the hearing. The failure by the respondent
+            to appear at the hearing shall also constitute an admission of all
+            the material allegations of fact contained in the notice of
+            violation. The complainant shall have an election whether to follow
+            the procedure set forth in paragraph (f) of this section or whether
+            to present evidence, in whole or in part, in the form of affidavits,
+            exhibits, or by oral testimony before the Presiding Officer. Failure
+            to appear at a hearing shall not be deemed to be a waiver of the
+            right to be served with a copy of the Presiding Officer&apos;s
+            decision and to appeal to the Administrator pursuant to paragraph
+            (l) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+            <head>
+              Order of proceeding.
+            </head>
+          </npcatch>
+          <text>
+             Except as may be determined otherwise by the Presiding Officer, the
+            complainant shall proceed first at the hearing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+            <head>
+              Evidence.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='h_7_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The testimony of witnesses at a hearing shall be on oath or
+            affirmation and subject to cross-examination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_7_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Upon a finding of good cause, the Presiding Officer may order that
+            any witness be examined separately and apart from all other
+            witnesses except those who are parties to the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_7_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence which is immaterial, irrelevant, or unduly repetitious, or
+            which is not of the sort upon which responsible persons are
+            accustomed to rely, shall be excluded insofar as practicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+            <head>
+              Objections.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='h_8_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If a party objects to the admission of any evidence or to the
+            limitation of the scope of any examination or cross-examination or
+            to any other ruling of the Presiding Officer, the party shall state
+            briefly the grounds of such objection, whereupon an automatic
+            exception will follow if the objection is overruled by the Presiding
+            Officer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_8_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Only objections made before the Presiding Officer may subsequently
+            be relied upon in the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+            <head>
+              Exhibits.
+            </head>
+          </npcatch>
+          <text>
+             Unless the Presiding Officer finds that the furnishing of copies is
+            impracticable, four copies of each exhibit shall be filed with the
+            Presiding Officer: 
+            <E T='03'>
+              Provided,
+            </E>
+             That, where there are more than two parties in the proceeding, an
+            additional copy shall be filed for each additional party. A true
+            copy of an exhibit may be substituted for the original.
+            <PRTPAGE P='288' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+            <head>
+              Official records or documents.
+            </head>
+          </npcatch>
+          <text>
+             An official government record or document or entry in such a record
+            or document, if admissible for any purpose, shall be admissible in
+            evidence without the production of the individual who made or
+            prepared the same, and shall be prima facie evidence of the relevant
+            facts stated in the record or document. Such record or document
+            shall be evidenced by an official publication of the record or
+            document or by a copy certified by an individual having legal
+            authority to make such certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+            <head>
+              Official notice.
+            </head>
+          </npcatch>
+          <text>
+             Official notice shall be taken of such matters as are judicially
+            noticed by the courts of the United States and of any other matter
+            of technical, scientific, or commercial fact of established
+            character: 
+            <E T='03'>
+              Provided,
+            </E>
+             That the parties shall be given adequate notice of matters so
+            noticed, and shall be given adequate opportunity to show that such
+            facts are erroneously noticed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+            <head>
+              Offer of proof.
+            </head>
+          </npcatch>
+          <text>
+             Whenever evidence is excluded by the Presiding Officer, the party
+            offering such evidence may make an offer of proof, which shall be
+            included in the transcript. The offer of proof shall consist of a
+            brief statement describing the evidence excluded. If the evidence
+            consists of a brief oral statement, the statement shall be included
+            in the transcript in its entirety. If the evidence consists of an
+            exhibit, it shall be marked for identification and inserted in the
+            hearing record. In either event, the evidence shall be considered a
+            part of the transcript and hearing record if the Administrator, upon
+            appeal, decides the Presiding Officer&apos;s ruling excluding the
+            evidence was erroneous and prejudicial. If the Administrator, upon
+            appeal, decides the Presiding Officer&apos;s ruling excluding the
+            evidence was erroneous and prejudicial and that it would be
+            appropriate to have such evidence considered a part of the hearing
+            record, the Administrator may direct that the hearing be reopened to
+            permit the taking of such evidence or for any purpose in connection
+            with the excluded evidence.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+            <head>
+              Transcript.
+            </head>
+          </npcatch>
+          <text>
+             Hearings shall be recorded and transcribed verbatim.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_13_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Post-hearing procedure—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Corrections to transcript.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='h_1_i'>
+            <enum src='gpotxt' cln='3'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Within the period of time fixed by the Presiding Officer, any party
+            may file a motion proposing corrections to the transcript.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Unless a party files a motion proposing corrections to the
+            transcript in the time fixed by the Presiding Officer, the
+            transcript shall be presumed, except for obvious typographical
+            errors, to be a true, correct, and complete transcript of the
+            testimony given at the hearing and to contain an accurate
+            description or reference to all exhibits received in evidence and
+            made part of the hearing record and shall be deemed to be certified
+            without further action by the Presiding Officer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             As soon as practicable after the close of the hearing and after
+            consideration of any timely objection filed as to the transcript,
+            the Presiding Officer shall issue an order making any corrections to
+            the transcript which the Presiding Officer finds are warranted,
+            which corrections shall be entered on to the original transcript by
+            the Presiding Officer without obscuring the original text.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Proposed finding of fact, conclusions, order, and briefs.
+            </head>
+          </npcatch>
+          <text>
+             Prior to the Presiding Officer&apos;s decision, each party shall be
+            afforded a reasonable opportunity to submit for consideration
+            proposed findings of fact, conclusions, order, and brief in support
+            of the proposed findings of fact, conclusions and order. A copy of
+            each such document filed by a party shall be served upon each of the
+            other parties.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Presiding Officer&apos;s decision.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='h_3_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The Presiding Officer shall issue a decision within 30 days after
+            the hearing, or, if any party submits proposed findings of fact,
+            conclusions, order, and a brief in support thereof in accordance
+            with paragraph (i)(2) of this section, 30 days after the last such
+            submission. The Presiding Officer&apos;s decision shall include the
+            Presiding Officer&apos;s findings of the fact, conclusions of law,
+            and the reasons or basis for the findings of fact and conclusions of
+            law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The Presiding Officer&apos;s decision shall become effective
+            without further proceedings 35 days after the date of service of the
+            decision upon the respondent, unless there is an appeal to the
+            Administrator by a party to the proceeding pursuant to paragraph (l)
+            of this section.
+            <PRTPAGE P='289' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Motions and requests—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='j_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             All motions and requests shall be filed with the Presiding Officer,
+            and served upon all the parties, except:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='j_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             requests for extensions of time pursuant to paragraph (m)(3) of
+            this section; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='j_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             motions and requests made on the record during the oral hearing.
+            The Presiding Officer shall rule upon all motions and requests filed
+            or made prior to the filing of an appeal of the Presiding
+            Officer&apos;s decision pursuant to paragraph (l) of this section
+            except motions directly relating to the appeal. Thereafter, the
+            Administrator will rule on any motions and requests, as well as the
+            motions directly relating to the appeal.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Motions entertained.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='j_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Any motion will be entertained other than a motion to dismiss on
+            the pleading. (A motion by the complainant seeking the voluntary
+            dismissal of the notice of violation may be entertained by the
+            Presiding Officer or the Administrator.)
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='j_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             All motions and requests concerning the notice of violation must be
+            made within the time allowed for filing an answer, except motions by
+            the complainant seeking voluntary dismissal of the notice of
+            violation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Contents.
+            </head>
+          </npcatch>
+          <text>
+             All written motions and requests shall state the particular order,
+            ruling, or action desired and the grounds for the order, ruling, or
+            action desired.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Response to motions and requests.
+            </head>
+          </npcatch>
+          <text>
+             Within 10 days after service of any written motion or request, or
+            within a shorter or longer period as may be fixed by the Presiding
+            Officer or the Administrator, an opposing party may file a response
+            to the motion or request. The other party shall have no right to
+            reply to the response; however, the Presiding Officer or the
+            Administrator, in their discretion, may order that a reply be filed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Presiding Officer—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='k_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Assignment.
+            </head>
+          </npcatch>
+          <text>
+             No Presiding Officer shall be assigned to serve in any proceeding
+            who:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Has any pecuniary interest in any matter or business involved in
+            the proceeding;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Is related within the third degree by blood or marriage to any
+            party to the proceeding; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Has any conflict of interest which might impair the Presiding
+            Officer&apos;s objectivity in the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Disqualification of Presiding Officer.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='k_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Any party to the proceeding may, by motion made to the Presiding
+            Officer, request that the Presiding Officer withdraw from the
+            proceeding because of an alleged disqualifying reason. Such motion
+            shall set forth with particularity the grounds of alleged
+            disqualification. The Presiding Officer may then either rule upon or
+            certify the motion to the Administrator, but not both.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             A Presiding Officer shall withdraw from any proceeding for any
+            reason deemed by the Presiding Officer to be disqualifying.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Powers.
+            </head>
+          </npcatch>
+          <text>
+             The Presiding Officer, in any assigned proceeding, shall have power
+            to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Rule upon motions and requests;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Set the time and place of a conference and the hearing, adjourn the
+            hearing from time to time, and change the time and place of hearing;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Administer oaths and affirmations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Summon and examine witnesses and receive evidence at the hearing;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Admit or exclude evidence;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Hear oral argument on facts or law;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Do all acts and take all measures necessary for maintenance or
+            order, including the exclusion of contumacious counsel or other
+            persons; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             Take all other actions authorized under this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+            <head>
+              Appeal to the Administrator—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='l_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Filing of petition.
+            </head>
+          </npcatch>
+          <text>
+             Within 30 days after receiving notice of the Presiding
+            Officer&apos;s decision, a party who disagrees with the decision, or
+            any part of the Presiding Officer&apos;s decision, or any ruling by
+            the Presiding Officer or a party who alleges a deprivation of
+            rights, may appeal the Presiding Officer&apos;s decision or rulings
+            to the Administrator by filing an appeal petition with the
+            Administrator. As provided in paragraph (h)(8) of this section,
+            objections regarding evidence or a limitation regarding examination
+            or cross examination or other ruling made before the Presiding
+            Officer may be relied upon in an appeal. The appeal petition shall
+            state 
+            <PRTPAGE P='290' />
+            the name and address of the person filing the appeal petition. Each
+            issue set forth in the appeal petition, and the arguments on each
+            issue, shall be separately numbered; shall be plainly and concisely
+            stated; and shall contain detailed citations of the record,
+            statutes, regulations, or authorities being relied upon in support
+            of the argument. A brief may be filed in support of the appeal
+            simultaneously with the appeal petition.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Response to appeal petition.
+            </head>
+          </npcatch>
+          <text>
+             Within 20 days after the service of a copy of an appeal petition
+            and any brief in support of the appeal petition, filed by a party to
+            the proceeding, any other party may file with the Administrator a
+            response in support of or in opposition to the appeal petition and,
+            in such response any relevant issue, not presented in the appeal
+            petition, may be raised.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Transmittal of record.
+            </head>
+          </npcatch>
+          <text>
+             Whenever an appeal to the Presiding Officer&apos;s decision is
+            filed and a response to the appeal has been filed or time for filing
+            a response has expired, the Presiding Officer shall transmit to the
+            Administrator the record of the proceeding. The record shall
+            include: the pleading; motions and requests filed and rulings on
+            such motions and requests; the transcript of the testimony taken at
+            the hearing, together with the exhibits filed in connection with the
+            hearing; any documents or papers filed in connection with a
+            conference; such proposed findings of fact, conclusions, and orders,
+            and briefs in support thereof, as may have been filed in connection
+            with the proceeding; the Presiding Officer&apos;s decision; and such
+            exceptions, statements of objections and briefs in support thereof
+            as may have been filed in the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Decision of the Administrator on appeal.
+            </head>
+          </npcatch>
+          <text>
+             As soon as practicable after the receipt of the record from the
+            Presiding Officer, the Administrator, upon the basis of and after
+            due consideration of the record and any matter of which official
+            notice is taken, shall rule on the appeal. If the Administrator
+            decides that no change or modification of the Presiding
+            Officer&apos;s decision is warranted, the Administrator may adopt
+            the Presiding Officer&apos;s decision as the final order in the
+            proceeding, preserving any right of the party bringing the appeal to
+            seek judicial review of such decision in the proper forum.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+            <head>
+              Filing; service; extensions of time; and computation of time—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='m_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Filing; number of copies.
+            </head>
+          </npcatch>
+          <text>
+             Except as otherwise provided in this section, all documents or
+            papers required or authorized by this section to be filed with the
+            Presiding Officer or Administrator shall be filed in quadruplicate: 
+            <E T='03'>
+              Provided,
+            </E>
+             That where there are more than two parties in the proceeding, an
+            additional copy shall be filed for each additional party.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='m_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Service; proof of service.
+            </head>
+          </npcatch>
+          <text>
+             Copies of all documents or papers required or authorized by this
+            section to be filed with the Presiding Officer or Administrator
+            shall be served upon the parties by the person with whom such
+            documents or papers are filed. Service shall be made either:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='m_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             By delivering a copy of the document or paper to the individual to
+            be served or to a member of the partnership to be served, or to the
+            president, secretary, or other executive officer or any director of
+            the corporation or association to be served, or to the attorney of
+            record representing such person; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='m_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             By leaving a copy of the document or paper at the principal office
+            or place of business or residence of such individual, partnership,
+            corporation, organization, or association, or of the attorney of
+            record representing such person and mailing by regular mail another
+            copy to such person at such address; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='m_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             By registering or certifying and mailing a copy of the document or
+            paper, addressed to such individual, partnership, corporation,
+            organization, or association, or to the attorney of record
+            representing such person, at the last known residence or principal
+            office or place of business of such person: 
+            <E T='03'>
+              Provided,
+            </E>
+             That if the registered or certified document or paper is returned
+            undelivered because the addressee refused or failed to accept
+            delivery, the document or paper shall be served by remailing it by
+            regular mail. Proof of service under this paragraph shall be made by
+            the certificate of the person who actually made the service: 
+            <E T='03'>
+              Provided,
+            </E>
+             That if the service be made by mail, under paragraph (m)(2)(iii) of
+            this section, proof of service shall be made by the return 
+            <PRTPAGE P='291' />
+            post-office receipt, in the case of registered or certified mail, or
+            by the certificate of the person who mailed the matter by regular
+            mail. Any certificate or post-office receipt returned to the
+            Presiding Officer or Administrator shall be filed by the Presiding
+            Officer or Administrator, and made a part of the record of the
+            proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='m_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Extensions of time.
+            </head>
+          </npcatch>
+          <text>
+             The time for the filing of any document or paper required or
+            authorized under this section to be filed may be extended by the
+            Presiding Officer or the Administrator as provided in paragraph (j)
+            of this section, if in the judgment of the Presiding Officer or the
+            Administrator, as the case may be, there is good reason for the
+            extension. In all instances in which time permits, notice of the
+            request for extension of the time shall be given to the other party
+            with opportunity to submit views concerning the request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='m_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Effective date of filing.
+            </head>
+          </npcatch>
+          <text>
+             Any document or paper required or authorized under this section to
+            be filed shall be deemed to be filed at the time when it reaches the
+            person with whom the document or paper must be filed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='m_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Computation of time.
+            </head>
+          </npcatch>
+          <text>
+             Saturdays, Sundays, and holidays shall be included in computing the
+            time allowed for the filing of any document or paper: 
+            <E T='03'>
+              Provided,
+            </E>
+             That, when such time expires on a Saturday, Sunday, or holiday,
+            such period shall be extended to include the next following business
+            day.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='n'>
+            <enum src='gpotxt' cln='1'>
+              (n)
+            </enum>
+            <head>
+              Ex parte communications.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='n_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             At no stage of the proceeding between its institution and the
+            issuance of the final decision shall the Presiding Officer or
+            Administrator discuss ex parte the merits of the proceeding with any
+            person who is connected with the proceeding in an advocative or in
+            an investigative capacity, or with any representative of such
+            person: 
+            <E T='03'>
+              Provided,
+            </E>
+             That the Presiding Officer or Administrator may discuss the merits
+            of the case with such a person if all parties to the proceeding, or
+            their attorneys have been given notice and an opportunity to
+            participate. A memorandum of such discussion shall be included in
+            the record.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='n_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             No interested person shall make or knowingly cause to be made to
+            the Presiding Officer or Administrator an ex parte communication
+            relevant to the merits of the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='n_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the Presiding Officer of the Administrator receives an ex parte
+            communication in violation of this paragraph (n), the individual who
+            receives the communication shall place in the public record of the
+            proceeding:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='n_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Any such written communication;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='n_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Memoranda stating the substance of such oral communication; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='n_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Any written response, and memoranda stating the substance of any
+            oral response to the ex parte communication.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='n_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes of this section 
+            <E T='03'>
+              ex parte communication
+            </E>
+             means an oral or written communication not on the public record
+            with respect to which reasonable prior notice to all parties is not
+            given, but it shall not include requests for status reports on any
+            matter or the proceeding.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4167'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:110:-:110.9
+      </extid>
+      <num st='1'>
+        110.9
+      </num>
+      <head>
+        Miscellaneous.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='110' sect='9' psec='' tq='N'>
+              110.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Miscellaneous.
+        </SUBJECT>
+        <P>
+          In accordance with 
+          <aref type='UNKNOWN'>
+            Section 3507 of
+          </aref>
+           the Paperwork Reduction Act of 1980 (
+          <aref type='USC'>
+            <subref title='44' sect='3507' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/44/3507.html'>
+              44 U.S.C. 3507
+            </subref>
+          </aref>
+          ), the recordkeeping provisions in this rule have been approved by the
+          Office of Management and Budget (OMB) and there are no new
+          requirements. The assigned OMB control number is 0581-AA39.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

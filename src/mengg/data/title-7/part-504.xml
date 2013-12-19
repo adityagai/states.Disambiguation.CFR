@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:V:-:504
+    </extid>
+    <num>
+      504
+    </num>
+    <head>
+      USER FEES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='31' sect='9701' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/31/9701.html'>
+              31 U.S.C. 9701
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            50 FR 5365
+          </aref>
+          , Feb. 8, 1985, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6038'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:504:-:504.1
+      </extid>
+      <num st='1'>
+        504.1
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='504' sect='1' psec='' tq='N'>
+              504.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part sets forth fees to be charged for the deposit and
+          distribution of microbial patent cultures. The fees set forth in this
+          part are applicable to the Agricultural Research Service (ARS) Patent
+          Culture Collection, Northern Regional Research Center, Peoria,
+          Illinois.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6039'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:504:-:504.2
+      </extid>
+      <num st='1'>
+        504.2
+      </num>
+      <head>
+        Fees for deposit and requisition of microbial cultures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='504' sect='2' psec='' tq='N'>
+              504.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees for deposit and requisition of microbial cultures.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Depositors of microbial cultures must pay a one-time $500 user fee
+            for each culture deposited on or after November 1, 1983.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For cultures deposited on or after November 1, 1983, requesters
+            must pay a $20 user fee for each culture distributed. Cultures which
+            were deposited on or after November 1, 1983 have an identification
+            number greater than 15,722.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6040'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:504:-:504.3
+      </extid>
+      <num st='1'>
+        504.3
+      </num>
+      <head>
+        Payment of fees.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='504' sect='3' psec='' tq='N'>
+              504.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment of fees.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Payment of user fees must accompany a culture deposit or request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payment shall be made by check, draft, or money order payable to
+            USDA, National Finance Center.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6041'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:504:-:504.4
+      </extid>
+      <num st='1'>
+        504.4
+      </num>
+      <head>
+        Exemptions from user fee charges.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='504' sect='4' psec='' tq='N'>
+              504.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exemptions from user fee charges.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             USDA laboratories and ARS cooperators designated by the Curator of
+            the ARS Patent Culture Collection are exempt from fee assessments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Curator of the ARS Patent Culture Collection is delegated the
+            authority to approve and revoke exemptions from fee assessments.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6042'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:504:-:504.5
+      </extid>
+      <num st='1'>
+        504.5
+      </num>
+      <head>
+        Address.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='504' sect='5' psec='' tq='N'>
+              504.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Address.
+        </SUBJECT>
+        <P>
+          Deposits of and requests for microbial patent cultures should be
+          directed to the Curator, ARS Patent Culture Collection, Northern
+          Regional Research Center, USDA-ARS, 1815 N. University St., Peoria,
+          Illinois 61604; (309) 685-4011.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

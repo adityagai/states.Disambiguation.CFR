@@ -1,0 +1,19 @@
+------------------ Evaluation model for New Jersey ---------------------
+
+Number of attributes : 3036
+
+Correctly Classified Instances          14               36.8421 %
+Incorrectly Classified Instances        24               63.1579 %
+Kappa statistic                         -0.2632
+Mean absolute error                      0.6316
+Root mean squared error                  0.7947
+Relative absolute error                126.1364 %
+Root relative squared error            158.7091 %
+Total Number of Instances               38     
+
+=========== Confusion Matrix ===================
+8.0|11.0|
+13.0|6.0|
+
+
+----------- ModelPath : C:\Users\Prasannjit Kumar\workspace\stateDisambiguation/src/mengg/data/tests/trainingModel/New Jersey.model

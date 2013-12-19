@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol7'>
+    <extid>
+      lii:cfr:2013:7:0:B:VII:D:750
+    </extid>
+    <num>
+      750
+    </num>
+    <head>
+      SOIL BANK
+    </head>
+    <text>
+      <EDNOTE>
+        <HD SOURCE='HED'>
+          Editorial Note:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-PART'>
+            Part 
+            <subref title='7' part='750' tq='N'>
+              750
+            </subref>
+          </aref>
+           (formerly 
+          <aref type='UNKNOWN'>
+            part 485 of
+          </aref>
+           title 6), published at 
+          <aref type='FREGIST'>
+            21 FR 6289
+          </aref>
+          , Aug. 22, 1956, and redesignated at 
+          <aref type='FREGIST'>
+            26 FR 5788
+          </aref>
+          , June 29, 1961, is no longer carried in the Code of Federal
+          Regulations. This deletion does not relieve any person of any
+          obligation or liability incurred under these regulations, nor deprive
+          any person of any rights received or accrued under the provisions of
+          this part. For 
+          <E T='04'>
+            Federal Register
+          </E>
+           citations affecting this part, see the “List of CFR Sections
+          Affected, 1949-1963, 1964-1972, and 1973-1985,” published in seven
+          separate volumes.
+        </P>
+      </EDNOTE>
+    </text>
+  </part>
+</lii_cfr_xml>

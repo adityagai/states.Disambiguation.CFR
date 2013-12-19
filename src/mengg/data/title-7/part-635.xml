@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:D:635
+    </extid>
+    <num>
+      635
+    </num>
+    <head>
+      EQUITABLE RELIEF FROM INELIGIBILITY
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='7996' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7996.html'>
+              7 U.S.C. 7996
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            69 FR 56347
+          </aref>
+          , Sept. 21, 2004, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6369'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:635:-:635.1
+      </extid>
+      <num st='1'>
+        635.1
+      </num>
+      <head>
+        Definitions and abbreviations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='635' sect='1' psec='' tq='N'>
+              635.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions and abbreviations.
+        </SUBJECT>
+        <P>
+          The following terms apply to this part:
+        </P>
+        <P>
+          <E T='03'>
+            Covered program
+          </E>
+           means a natural resource conservation program specified in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='635' sect='3' psec='' tq='N'>
+              635.3
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Chief
+          </E>
+           means the Chief of the Natural Resources Conservation Service or the
+          person delegated authority to act for the Chief.
+        </P>
+        <P>
+          <E T='03'>
+            FSA
+          </E>
+           means the Farm Service Agency of the United States Department of
+          Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            NRCS
+          </E>
+           means the Natural Resources Conservation Service of the United States
+          Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            OGC
+          </E>
+           means the Office of the General Counsel of the United States
+          Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of the U.S. Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            State Conservationist
+          </E>
+           means the NRCS employee authorized to direct and supervise NRCS
+          activities in a State, the Caribbean Area, or the Pacific Basin area,
+          or the State Conservationist&apos;s designee.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6370'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:635:-:635.2
+      </extid>
+      <num st='1'>
+        635.2
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='545' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='635' sect='2' psec='' tq='N'>
+              635.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This part is applicable to all covered conservation programs
+            administered by the Natural Resources Conservation Service, except
+            for the Highly Erodible Land and Wetland Conservation provisions of
+            Title XII, subtitles B and C of the Food Security Act of 1985, as
+            amended, (
+            <aref type='USC'>
+              <subref title='16' sect='3811' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3811.html'>
+                16 U.S.C. 3811
+              </subref>
+            </aref>
+             et seq.). Administration of this part shall be under the
+            supervision of the Chief, except that such authority shall not limit
+            the exercise of authority by State Conservationists of the Natural
+            Resources Conservation Service provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='635' sect='6' psec='' tq='N'>
+                635.6
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The equitable relief available under this part does not apply where
+            the action for which relief is requested occurred before May 13,
+            2002. In such cases, authority that was effective prior to May 13,
+            2002, shall be applied.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             This part does not apply to a conservation program administered by
+            the Farm Service Agency of the United States Department of
+            Agriculture.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6371'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:635:-:635.3
+      </extid>
+      <num st='1'>
+        635.3
+      </num>
+      <head>
+        Reliance on incorrect actions or information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='635' sect='3' psec='' tq='N'>
+              635.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reliance on incorrect actions or information.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief, or designee, may grant relief by extending benefits or
+            payments in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='635' sect='5' psec='' tq='N'>
+                635.5
+              </subref>
+            </aref>
+             when any participant that has been determined to be not in
+            compliance with the requirements of a covered NRCS program, and
+            therefore ineligible for a loan, payment, or other benefit under the
+            covered program, if the participant, acting in good faith, relied
+            upon the action or advice of an NRCS employee or representative of
+            the United States Department of Agriculture, to the detriment of the
+            participant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This section applies only to a participant who relied upon the
+            action of, or information provided by, an NRCS employee, or
+            representative of USDA, and the participant acted, or failed to act,
+            as a result of that action or information. This part does not apply
+            to cases where the participant had sufficient reason to know that
+            the action or information upon which they relied was improper or
+            erroneous or where the participant acted in reliance on their own
+            misunderstanding or misinterpretation of program provisions, notices
+            or information.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6372'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:635:-:635.4
+      </extid>
+      <num st='1'>
+        635.4
+      </num>
+      <head>
+        Failure to fully comply.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='635' sect='4' psec='' tq='N'>
+              635.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Failure to fully comply.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             When a participant fails to fully comply with the terms and
+            conditions of a covered program, the Chief, or designee, may grant
+            relief in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='635' sect='5' psec='' tq='N'>
+                635.5
+              </subref>
+            </aref>
+             if the participant made a good faith effort to comply fully with
+            the requirements of the covered program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This section only applies to participants who are determined by the
+            Chief to have made a good faith effort to comply fully with the
+            terms and conditions of the program and rendered substantial
+            performance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In determining whether a participant acted in good faith and
+            rendered substantial performance under paragraph (b) of this
+            section, the Chief, or designee, shall consider such factors as
+            whether—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Performance of the primary conservation program requirements were
+            completed; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The actions of the participant resulted in minimal damages or
+            failure that were minor in nature.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6373'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:635:-:635.5
+      </extid>
+      <num st='1'>
+        635.5
+      </num>
+      <head>
+        Forms of relief.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='635' sect='5' psec='' tq='N'>
+              635.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Forms of relief.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief, or designee, may authorize a participant in a covered
+            program to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Retain loans, payments, or other benefits received under the
+            covered program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Continue to receive loans, payments, and other benefits under the
+            covered program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Continue to participate, in whole or in part, under any contract
+            executed under the covered program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a conservation program, re-enroll all or part of the
+            land covered by the program; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Receive such other equitable relief as determined to be
+            appropriate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             As a condition of receiving relief under this part, the participant
+            may be required to remedy their failure to meet the program
+            requirement or mitigate its affects.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6374'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:635:-:635.6
+      </extid>
+      <num st='1'>
+        635.6
+      </num>
+      <head>
+        Equitable relief by State Conservationists.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='635' sect='6' psec='' tq='N'>
+              635.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Equitable relief by State Conservationists.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             General nature of the authority. Notwithstanding provisions in this
+            part providing supervision and relief authority to other officials,
+            the State 
+            <PRTPAGE P='546' />
+            Conservationist, without further review by other officials (other
+            than the Secretary), may grant relief as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='635' sect='5' psec='' tq='N'>
+                635.5
+              </subref>
+            </aref>
+             to a participant under the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='635' sect='3' psec='' tq='N'>
+                635.3
+              </subref>
+               and 
+              <subref title='7' part='635' sect='4' psec='' tq='N'>
+                635.4
+              </subref>
+            </aref>
+             so long as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The program matter with respect to which the relief is sought is a
+            program matter in a covered program which is operated within the
+            State under the control of the State Conservationist;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The total amount of relief which will be provided to the
+            participant (that is, to the individual or entity that applies for
+            the relief) under this authority for errors during the fiscal year
+            is less than $20,000 (included in that calculation, any loan amount
+            or other benefit of any kind payable for the fiscal year);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The total amount of such relief which has been previously provided
+            to the participant using this authority for errors in a fiscal year,
+            as calculated in paragraph (a)(2) of this section, is not more than
+            $5,000;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The total amount of loans, payments, and benefits of any kind for
+            which relief is provided to similarly situated participants by a
+            State Conservationist for errors for a fiscal year under the
+            authority provided in this section, as calculated in paragraph
+            (a)(2), is not more than $1,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Additional limits on the authority. The authority provided under
+            this section does not extend to the administration of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Payment limitations under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1400' tq='N'>
+                1400
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Payment limitations under a conservation program administered by
+            the Secretary; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The highly erodible land and wetland conservation requirements
+            under subtitles B or C of Title XII of the Food Security Act of 1985
+            (
+            <aref type='USC'>
+              <subref title='16' sect='3811' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3811.html'>
+                16 U.S.C. 3811
+              </subref>
+            </aref>
+             et seq.).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Relief shall only be made under this part after consultation with,
+            and the approval of, the Office of the General Counsel.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Secretary&apos;s reversal authority. A decision made under this
+            part by the State Conservationist may be reversed only by the
+            Secretary, who may not delegate that authority.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Relation to other authorities. The authority provided under this
+            section is in addition to any other applicable authority that may
+            allow relief.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6375'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:635:-:635.7
+      </extid>
+      <num st='1'>
+        635.7
+      </num>
+      <head>
+        Procedures for granting equitable relief.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='635' sect='7' psec='' tq='N'>
+              635.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Procedures for granting equitable relief.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Application for equitable relief by covered program participants.
+            For the purposes of this part, the following conservation programs
+            administered by NRCS are identified as “covered programs”:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Agricultural Management Assistance (AMA);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation Security Program (CSP);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Emergency Watershed Protection, Floodplain Easement Component
+            (EWP-FPE);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Environmental Quality Incentives Program (EQIP);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Farm and Ranch Lands Protection Program (FRPP);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Grassland Reserve Program (GRP);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Resource Conservation and Development Program (RC&amp;D);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Water Bank Program (WBP);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Watershed Protection and Flood Prevention Program, (WPFPP)
+            (long-term contracts only);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Wetlands Reserve Program (WRP);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Wildlife Habitat Incentives Program (WHIP);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Any other conservation program administered by NRCS which
+            subsequently incorporates these procedures within the program
+            regulations or policies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Participants may request equitable relief from the Chief or the
+            State Conservationist with respect to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Reliance on the actions or advice of an authorized NRCS
+            representative; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to fully comply with the program requirements but made a
+            good faith effort to comply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Only a participant directly affected by the non-compliance with the
+            covered program requirements may seek equitable relief under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='635' sect='6' psec='' tq='N'>
+                635.6
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for equitable relief must be made in writing, no later
+            than 30 calendar days from the date of receipt of the notification
+            of non-compliance 
+            <PRTPAGE P='547' />
+            with the requirements of the covered conservation program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for equitable relief shall include the following
+            information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The reason why the participant was unable to comply with the
+            requirements of the conservation program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Details regarding how much of the required action had been
+            completed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Why the participant did not have sufficient reason to know that the
+            action or information relied upon was improper or erroneous;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Whether the participant did not act in reliance on their own
+            misunderstanding or misinterpretation of the conservation program
+            provisions, notices, or information; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Any other pertinent facts or supporting documentation.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol4'>
+    <extid>
+      lii:cfr:2013:7:0:B:II:C:279
+    </extid>
+    <num>
+      279
+    </num>
+    <head>
+      ADMINISTRATIVE AND JUDICIAL REVIEW—FOOD RETAILERS AND FOOD WHOLESALERS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='2011-203' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2011-203.html'>
+              7 U.S.C. 2011-203
+            </subref>
+          </aref>
+          6.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          Amdt. 136, 
+          <aref type='FREGIST'>
+            43 FR 43279
+          </aref>
+          , Sept. 22, 1978, unless otherwise noted.
+        </P>
+      </SOURCE>
+      <EDNOTE>
+        <HD SOURCE='HED'>
+          Editorial Note:
+        </HD>
+        <P>
+          Nomenclature changes to 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='279' tq='N'>
+              279
+            </subref>
+          </aref>
+           appear at 
+          <aref type='FREGIST'>
+            68 FR 41052
+          </aref>
+          , July 10, 2003.
+        </P>
+      </EDNOTE>
+    </text>
+    <section orderid='4989'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:279:A:279.1
+      </extid>
+      <num st='1'>
+        279.1
+      </num>
+      <head>
+        Jurisdiction and authority.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 41052
+        </aref>
+        , July 10, 2003, as amended at 
+        <aref type='FREGIST'>
+          73 FR 79595
+        </aref>
+        , Dec. 30, 2008]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='279' sect='1' psec='' tq='N'>
+              279.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Jurisdiction and authority.
+        </SUBJECT>
+        <P>
+          A food retailer or wholesale food concern aggrieved by administrative
+          action under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='278' sect='1' psec='' tq='N'>
+              278.1
+            </subref>
+          </aref>
+          , 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='278' sect='6' psec='' tq='N'>
+              278.6
+            </subref>
+          </aref>
+           or 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='278' sect='7' psec='' tq='N'>
+              278.7
+            </subref>
+             of this chapter
+          </aref>
+           may, within a period stated in this Part, file a written request for
+          review of the administrative action with FNS. On receipt of the
+          request for review, the questioned administrative action shall be
+          stayed pending disposition of the request for review, except in the
+          case of a permanent disqualification as specified in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='278' sect='6' psec='#e_1' tq='N'>
+              278.6(e)(1)
+            </subref>
+             of this chapter
+          </aref>
+          .
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Jurisdiction.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers designated by the Secretary shall act for the Department
+            on requests for review filed by food retailers or wholesale food
+            concerns aggrieved by any of the following actions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Denial of an application or withdrawal of authorization to
+            participate in the program under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='1' psec='' tq='N'>
+                278.1
+              </subref>
+               of this chapter
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Disqualification under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='6' psec='' tq='N'>
+                278.6
+              </subref>
+               of this chapter
+            </aref>
+            , except that a disqualification for failure to pay a civil money
+            penalty shall not be subject to administrative review and a
+            disqualification imposed under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='6' psec='#e_8' tq='N'>
+                278.6(e)(8)
+              </subref>
+               of this chapter
+            </aref>
+             shall not be subject to administrative or judicial review;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Imposition of a fine under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='6' psec='' tq='N'>
+                278.6
+              </subref>
+               of this chapter
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Denial of all or part of any claim asserted by a firm against FNS
+            under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='7' psec='#c' tq='N'>
+                278.7(c), (d), or (e)
+              </subref>
+               of this chapter
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Assertion of a claim under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='7' psec='#a' tq='N'>
+                278.7(a)
+              </subref>
+               of this chapter
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Forfeiture of part or all of a collateral bond or a draw down of
+            part or all of a letter of credit under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='1' psec='' tq='N'>
+                278.1
+              </subref>
+               of this chapter
+            </aref>
+            , if the request for review is made by the authorized firm. FNS
+            shall not accept requests for review made by a bonding company or
+            agent or commercial bank.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Authority.
+            </head>
+          </npcatch>
+          <text>
+             The determination of the designated reviewer shall be the final
+            administrative determination of the Department, subject, however, to
+            judicial review under 
+            <aref type='UNKNOWN'>
+              section 14 of
+            </aref>
+             the Food Stamp Act and subpart B of this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 41052
+          </aref>
+          , July 10, 2003, as amended at 
+          <aref type='FREGIST'>
+            73 FR 79595
+          </aref>
+          , Dec. 30, 2008]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4990'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:279:A:279.2
+      </extid>
+      <num st='1'>
+        279.2
+      </num>
+      <head>
+        Manner of filing requests for review.
+      </head>
+      <citation>
+        [Amdt. 136, 
+        <aref type='FREGIST'>
+          43 FR 43279
+        </aref>
+        , Sept. 22, 1978, as amended by Amdt. 236, 
+        <aref type='FREGIST'>
+          49 FR 22058
+        </aref>
+        , May 25, 1984. Redesignated and amended at 
+        <aref type='FREGIST'>
+          68 FR 41053
+        </aref>
+        , July 10, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='279' sect='2' psec='' tq='N'>
+              279.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Manner of filing requests for review.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Submitting requests for review.
+            </head>
+          </npcatch>
+          <text>
+             Requests for review submitted by firms shall be mailed to or filed
+            with Director, Administrative Review Division, U.S. Department of
+            Agriculture, Food and Nutrition Service, 3101 Park Center Drive,
+            Alexandria, Virginia 22302.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Content of requests.
+            </head>
+          </npcatch>
+          <text>
+             Requests for review shall be in writing and shall state the name
+            and business address of the firm involved, and the name, address and
+            position with the firm of the person who signed the request. The
+            request shall be signed by the owner of the firm, an officer or
+            partner of the firm, or by counsel, and need not be under oath.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Time limit for requesting review.
+            </head>
+          </npcatch>
+          <text>
+             A request for review shall be filed within 10 days of the date of
+            delivery of the notice of the action for which review is requested.
+            For purposes of determining whether a filing date is timely:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The filing date shall be the postmark date of the request, or
+            equivalent if the written request is filed by a means other than
+            mail;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In computing the 10 day period, the day of delivery of the notice
+            of the 
+            <PRTPAGE P='1029' />
+            action for which review is requested may not be included. The last
+            day of the period so computed shall be included, unless it is a
+            Saturday, a Sunday, or a legal holiday. In that case, the period
+            runs until the end of the next day which is not a Saturday, a
+            Sunday, or a legal holiday. As used in this paragraph, “legal
+            holiday” includes New Year&apos;s Day, Washington&apos;s Birthday,
+            Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans
+            Day, Thanksgiving Day, Christmas Day, and any other day designated
+            as a holiday by the President or the Congress of the United States.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 136, 
+          <aref type='FREGIST'>
+            43 FR 43279
+          </aref>
+          , Sept. 22, 1978, as amended by Amdt. 236, 
+          <aref type='FREGIST'>
+            49 FR 22058
+          </aref>
+          , May 25, 1984. Redesignated and amended at 
+          <aref type='FREGIST'>
+            68 FR 41053
+          </aref>
+          , July 10, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4991'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:279:A:279.3
+      </extid>
+      <num st='1'>
+        279.3
+      </num>
+      <head>
+        Content of request for review.
+      </head>
+      <citation>
+        [Amdt. 136, 
+        <aref type='FREGIST'>
+          43 FR 43279
+        </aref>
+        , Sept. 22, 1978, as amended by Amdt. 236, 
+        <aref type='FREGIST'>
+          49 FR 22058
+        </aref>
+        , May 25, 1984; Amdt. 334, 
+        <aref type='FREGIST'>
+          57 FR 3913
+        </aref>
+        , Feb. 3, 1992. Redesignated and amended at 
+        <aref type='FREGIST'>
+          68 FR 41053
+        </aref>
+        , July 10, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='279' sect='3' psec='' tq='N'>
+              279.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Content of request for review.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Identifying the request.
+            </head>
+          </npcatch>
+          <text>
+             Requests for review shall clearly identify the administrative
+            action from which the review is requested. This identification shall
+            include the date of the letter or other written communication
+            notifying the firm of the administrative action, the name and title
+            of the person who signed the letter or other communication, and
+            whether the action under appeal concerns a denial of an application
+            or a withdrawal of authorization to participate, a disqualification
+            from further participation, a civil money penalty, or a denial of
+            all or any part of a claim or a fine.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Supporting the request.
+            </head>
+          </npcatch>
+          <text>
+             The request shall include information in support of the request
+            showing the grounds on which review is being sought, or shall state
+            that supporting information will be filed in writing at a later
+            date. In the latter case, the designated reviewer shall notify the
+            firm of the date by which the information must be filed.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 136, 
+          <aref type='FREGIST'>
+            43 FR 43279
+          </aref>
+          , Sept. 22, 1978, as amended by Amdt. 236, 
+          <aref type='FREGIST'>
+            49 FR 22058
+          </aref>
+          , May 25, 1984; Amdt. 334, 
+          <aref type='FREGIST'>
+            57 FR 3913
+          </aref>
+          , Feb. 3, 1992. Redesignated and amended at 
+          <aref type='FREGIST'>
+            68 FR 41053
+          </aref>
+          , July 10, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4992'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:279:A:279.4
+      </extid>
+      <num st='1'>
+        279.4
+      </num>
+      <head>
+        Action upon receipt of a request for review.
+      </head>
+      <citation>
+        [Amdt. 136, 
+        <aref type='FREGIST'>
+          43 FR 43279
+        </aref>
+        , Sept. 22, 1978, as amended by Amdt. 236, 
+        <aref type='FREGIST'>
+          49 FR 22059
+        </aref>
+        , May 25, 1984; Amdt. 258, 
+        <aref type='FREGIST'>
+          49 FR 28393
+        </aref>
+        , July 12, 1984; 
+        <aref type='FREGIST'>
+          49 FR 29769
+        </aref>
+        , July 24, 1984; Amdt. 356, 
+        <aref type='FREGIST'>
+          59 FR 29714
+        </aref>
+        , June 9, 1994; 
+        <aref type='FREGIST'>
+          64 FR 23174
+        </aref>
+        , Apr. 30, 1999. Redesignated and amended at 
+        <aref type='FREGIST'>
+          68 FR 41053
+        </aref>
+        , July 10, 2003; 
+        <aref type='FREGIST'>
+          73 FR 79595
+        </aref>
+        , Dec. 30, 2008]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='279' sect='4' psec='' tq='N'>
+              279.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Action upon receipt of a request for review.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Holding action.
+            </head>
+          </npcatch>
+          <text>
+             Upon receipt of a request for review of administrative action, the
+            administrative action shall be held in abeyance until the designated
+            reviewer has made a determination. However, permanent
+            disqualifications for trafficking shall not be held in abeyance and
+            shall be effective immediately as specified in 278.6(b)(2) of this
+            chapter. If the disqualification is reversed through administrative
+            or judicial review, the Secretary shall not be held liable for the
+            value of any sales lost during the disqualification period. If the
+            administrative action in question involves the denial of a claim
+            brought by a firm against FNS, or the forfeiture of a collateral
+            bond or the draw down on an irrevocable letter of credit, the
+            designated reviewer shall direct the firm not be approved for
+            participation, not be paid any part of the disputed claim, or not be
+            reimbursed for any bond forfeiture or irrevocable letter of credit
+            withdrawal, as appropriate until the designated reviewer has made a
+            determination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Filing supporting information.
+            </head>
+          </npcatch>
+          <text>
+             If the request filed by the firm includes a request for an
+            opportunity to file written information in support of its position
+            at a later date, the designated reviewer shall promptly notify the
+            firm of the date by which the information shall be filed. If the
+            firm fails to file any information in support of its position by the
+            designated date, the information submitted with the original request
+            shall be considered to be the only information submitted by the
+            firm. In that case, if no information in support of the firm&apos;s
+            position was submitted with the original request, the action of the
+            appropriate FNS office shall be final.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Extensions of time.
+            </head>
+          </npcatch>
+          <text>
+             Upon timely written request to FNS by the firm requesting the
+            review, FNS may grant extensions of time if, in FNS&apos;
+            discretion, additional time is required for the firm to fully
+            present information in support of its position. However, no
+            extension may be made in the time allowed for the filing of a
+            request for review.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 136, 
+          <aref type='FREGIST'>
+            43 FR 43279
+          </aref>
+          , Sept. 22, 1978, as amended by Amdt. 236, 
+          <aref type='FREGIST'>
+            49 FR 22059
+          </aref>
+          , May 25, 1984; Amdt. 258, 
+          <aref type='FREGIST'>
+            49 FR 28393
+          </aref>
+          , July 12, 1984; 
+          <aref type='FREGIST'>
+            49 FR 29769
+          </aref>
+          , July 24, 1984; Amdt. 356, 
+          <aref type='FREGIST'>
+            59 FR 29714
+          </aref>
+          , June 9, 1994; 
+          <aref type='FREGIST'>
+            64 FR 23174
+          </aref>
+          , Apr. 30, 1999. Redesignated and amended at 
+          <aref type='FREGIST'>
+            68 FR 41053
+          </aref>
+          , July 10, 2003; 
+          <aref type='FREGIST'>
+            73 FR 79595
+          </aref>
+          , Dec. 30, 2008]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4993'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:279:A:279.5
+      </extid>
+      <num st='1'>
+        279.5
+      </num>
+      <head>
+        Determination of the designated reviewer.
+      </head>
+      <citation>
+        [Amdt. 136, 
+        <aref type='FREGIST'>
+          43 FR 43279
+        </aref>
+        , Sept. 22, 1978, as amended by Amdt. 334, 
+        <aref type='FREGIST'>
+          57 FR 3913
+        </aref>
+        , Feb. 3, 1992; Amdt. 356, 
+        <aref type='FREGIST'>
+          59 FR 29714
+        </aref>
+        , June 9, 1994. Redesignated and amended at 
+        <aref type='FREGIST'>
+          68 FR 41053
+        </aref>
+        , July 10, 2003]
+      </citation>
+      <contents>
+        <PRTPAGE P='1030' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='279' sect='5' psec='' tq='N'>
+              279.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determination of the designated reviewer.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Basis for designated reviewer determination.
+            </head>
+          </npcatch>
+          <text>
+             The designated reviewer shall make a determination based upon:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The information submitted by the appropriate FNS office;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Information submitted by the firm in support of its position; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Any additional information, in writing, obtained by the designated
+            reviewer from any other person having relevant information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Review of denial or withdrawal of authorization.
+            </head>
+          </npcatch>
+          <text>
+             When the action under review is the denial of an application for
+            authorization or the withdrawal of an existing authorization, the
+            designated reviewer shall sustain the action under review; sustain
+            the action under review, but specify a shorter period of time the
+            action will remain in effect; or direct that the action under review
+            be reversed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Review of disqualification or civil money penalty or fine.
+            </head>
+          </npcatch>
+          <text>
+             When the action under review is disqualifying a firm from program
+            participation or assessing a civil money penalty or fine against a
+            firm, the designated reviewer shall: Sustain the action under
+            review; specify a shorter period of disqualification; specify a
+            reduced money penalty or fine; direct that an official warning
+            letter be issued to the firm in lieu of a disqualification, civil
+            money penalty or fine; or, direct that the action under review be
+            reversed. The designated reviewer may change a disqualification of a
+            firm to a civil money penalty if the disqualification would cause a
+            hardship to participating households (except in the case of a
+            permanent disqualification). The designated reviewer, working with
+            the appropriate FNS office, shall determine if circumstances warrant
+            a civil money penalty in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='6' psec='' tq='N'>
+                278.6
+              </subref>
+               of this chapter
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Review of denial of claim.
+            </head>
+          </npcatch>
+          <text>
+             In the case of a request for review of a denial of all or part of a
+            claim of a firm, the determination of the designated reviewer shall
+            sustain the action under review or shall specify the amount of the
+            claim to be paid by FNS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Determination notifications.
+            </head>
+          </npcatch>
+          <text>
+             FNS shall notify the firm of the determination. Such notification
+            will be sent to the representative of the firm who filed the request
+            for review.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Effective date.
+            </head>
+          </npcatch>
+          <text>
+             The determination of the designated reviewer shall take effect 30
+            days after the date of delivery of the determination to the firm.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 136, 
+          <aref type='FREGIST'>
+            43 FR 43279
+          </aref>
+          , Sept. 22, 1978, as amended by Amdt. 334, 
+          <aref type='FREGIST'>
+            57 FR 3913
+          </aref>
+          , Feb. 3, 1992; Amdt. 356, 
+          <aref type='FREGIST'>
+            59 FR 29714
+          </aref>
+          , June 9, 1994. Redesignated and amended at 
+          <aref type='FREGIST'>
+            68 FR 41053
+          </aref>
+          , July 10, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4994'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:279:A:279.6
+      </extid>
+      <num st='1'>
+        279.6
+      </num>
+      <head>
+        Legal advice and extensions of time.
+      </head>
+      <citation>
+        [Amdt. 136, 
+        <aref type='FREGIST'>
+          43 FR 43279
+        </aref>
+        , Sept. 22, 1978, as amended by Amdt. 356, 
+        <aref type='FREGIST'>
+          59 FR 29714
+        </aref>
+        , June 9, 1994. Redesignated and amended at 
+        <aref type='FREGIST'>
+          68 FR 41053
+        </aref>
+        , July 10, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='279' sect='6' psec='' tq='N'>
+              279.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Legal advice and extensions of time.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Advice from Office of the General Counsel.
+            </head>
+          </npcatch>
+          <text>
+             If any request for review involves any doubtful questions of law,
+            the Benefit Redemption Division shall obtain the advice of the
+            Department&apos;s Office of the General Counsel.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Extensions of time.
+            </head>
+          </npcatch>
+          <text>
+             Upon timely written request to the designated reviewer by the firm
+            requesting the review, the designated reviewer may grant extensions
+            of time if, in the designated reviewer&apos;s discretion, additional
+            time is required for the firm to fully present information in
+            support of its position. However, no extensions may be made in the
+            time allowed for the filing of a request for review.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 136, 
+          <aref type='FREGIST'>
+            43 FR 43279
+          </aref>
+          , Sept. 22, 1978, as amended by Amdt. 356, 
+          <aref type='FREGIST'>
+            59 FR 29714
+          </aref>
+          , June 9, 1994. Redesignated and amended at 
+          <aref type='FREGIST'>
+            68 FR 41053
+          </aref>
+          , July 10, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4995'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:279:B:279.7
+      </extid>
+      <num st='1'>
+        279.7
+      </num>
+      <head>
+        Judicial review.
+      </head>
+      <citation>
+        [Amdt. 136, 
+        <aref type='FREGIST'>
+          43 FR 43279
+        </aref>
+        , Sept. 22, 1978, as amended by Amdt. 274, 
+        <aref type='FREGIST'>
+          51 FR 18752
+        </aref>
+        , May 21, 1986; Amdt. 356, 
+        <aref type='FREGIST'>
+          59 FR 29714
+        </aref>
+        , June 9, 1994; 
+        <aref type='FREGIST'>
+          64 FR 23174
+        </aref>
+        , Apr. 30, 1999. Redesignated and amended at 
+        <aref type='FREGIST'>
+          68 FR 41053
+        </aref>
+        , July 10, 2003; Amdt. 397, 
+        <aref type='FREGIST'>
+          70 FR 72354
+        </aref>
+        , Dec. 5, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='279' sect='7' psec='' tq='N'>
+              279.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Judicial review.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Filing for judicial review.
+            </head>
+          </npcatch>
+          <text>
+             Except for firms disqualified from the program in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='6' psec='#e_8' tq='N'>
+                278.6(e)(8)
+              </subref>
+               of this chapter
+            </aref>
+            , a firm aggrieved by the determination of the designated reviewer
+            may obtain judicial review of the determination by filing a
+            complaint against the United States in the U.S. district court for
+            the district in which the owner resides or is engaged in business,
+            or in any court of record of the State having competent
+            jurisdiction. The complaint must be filed within 30 days after the
+            date of delivery or service upon the firm of the notice of
+            determination of the designated reviewer in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='279' sect='5' psec='#e' tq='N'>
+                279.5(e)
+              </subref>
+            </aref>
+            ; otherwise the determination shall be final.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Summons and complaint.
+            </head>
+          </npcatch>
+          <text>
+             Service of the summons and complaint in any 
+            <PRTPAGE P='1031' />
+            such action shall be made in accordance with the rules of civil
+            procedure for the U.S. district courts. The copy of the summons and
+            complaint required by the rules to be served on the agency whose
+            order is being attacked shall be sent by using any delivery method
+            as long as the method provides evidence of delivery to the person in
+            charge of the applicable regional office of FNS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Trial de novo.
+            </head>
+          </npcatch>
+          <text>
+             The suit in the U.S. district court or in the State court, as the
+            case may be, shall be a trial de novo by the court in which the
+            court shall determine the validity of the questioned administrative
+            action. If the court determines that the administrative action is
+            invalid, it shall enter a judgment or order which it determines is
+            in accordance with the law and the evidence.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Stay of action.
+            </head>
+          </npcatch>
+          <text>
+             During the pendency of any judicial review, or any appeal
+            therefrom, the administrative action under review shall remain in
+            force unless the firm makes a timely application to the court and
+            after hearing thereon, the court stays the administrative action
+            after a showing that irreparable injury will occur absent a stay and
+            that the firm is likely to prevail on the merits of the case.
+            However, permanent disqualification actions taken in accordance with
+            
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='278' sect='6' psec='#e_1' tq='N'>
+                278.6(e)(1)
+              </subref>
+               of this chapter
+            </aref>
+             shall not be subject to such a stay of administrative action. If
+            the disqualification action is reversed through administrative or
+            judicial review, the Secretary shall not be liable for the value of
+            any sales lost during the disqualification period.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 136, 
+          <aref type='FREGIST'>
+            43 FR 43279
+          </aref>
+          , Sept. 22, 1978, as amended by Amdt. 274, 
+          <aref type='FREGIST'>
+            51 FR 18752
+          </aref>
+          , May 21, 1986; Amdt. 356, 
+          <aref type='FREGIST'>
+            59 FR 29714
+          </aref>
+          , June 9, 1994; 
+          <aref type='FREGIST'>
+            64 FR 23174
+          </aref>
+          , Apr. 30, 1999. Redesignated and amended at 
+          <aref type='FREGIST'>
+            68 FR 41053
+          </aref>
+          , July 10, 2003; Amdt. 397, 
+          <aref type='FREGIST'>
+            70 FR 72354
+          </aref>
+          , Dec. 5, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4996'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:C:279:B:279.8
+      </extid>
+      <num st='1'>
+        279.8
+      </num>
+      <head>
+        Implementation of amendments relating to administrative and judicial
+        review.
+      </head>
+      <citation>
+        [Amdt. 257, 
+        <aref type='FREGIST'>
+          49 FR 32539
+        </aref>
+        , Aug. 15, 1984; Amdt. 262, 
+        <aref type='FREGIST'>
+          49 FR 50598
+        </aref>
+        , Dec. 31, 1984, as amended by Amdt. 274, 
+        <aref type='FREGIST'>
+          51 FR 18752
+        </aref>
+        , May 21, 1986; Amdt. 334, 
+        <aref type='FREGIST'>
+          57 FR 3913
+        </aref>
+        , Feb. 3, 1992. Redesignated at 
+        <aref type='FREGIST'>
+          68 FR 41053
+        </aref>
+        , July 10, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='279' sect='8' psec='' tq='N'>
+              279.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Implementation of amendments relating to administrative and judicial
+          review.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Amendment No. 257.
+            </head>
+          </npcatch>
+          <text>
+             The program change to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='279' sect='3' psec='#a_4' tq='N'>
+                279.3(a)(4)
+              </subref>
+            </aref>
+             shall be effective September 14, 1984.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Amendment No. 274.
+            </head>
+          </npcatch>
+          <text>
+             The program change of 
+            <E T='03'>
+              Amendment No. 274
+            </E>
+             at 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='279' sect='10' psec='#d' tq='N'>
+                279.10(d)
+              </subref>
+            </aref>
+             is effective retroactively to December 23, 1985.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Amendment No. 334.
+            </head>
+          </npcatch>
+          <text>
+             The program changes made to 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='279' tq='N'>
+                279
+              </subref>
+            </aref>
+             by this amendment are effective February 1, 1992.
+          </text>
+        </P>
+        <CITA>
+          [Amdt. 257, 
+          <aref type='FREGIST'>
+            49 FR 32539
+          </aref>
+          , Aug. 15, 1984; Amdt. 262, 
+          <aref type='FREGIST'>
+            49 FR 50598
+          </aref>
+          , Dec. 31, 1984, as amended by Amdt. 274, 
+          <aref type='FREGIST'>
+            51 FR 18752
+          </aref>
+          , May 21, 1986; Amdt. 334, 
+          <aref type='FREGIST'>
+            57 FR 3913
+          </aref>
+          , Feb. 3, 1992. Redesignated at 
+          <aref type='FREGIST'>
+            68 FR 41053
+          </aref>
+          , July 10, 2003]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

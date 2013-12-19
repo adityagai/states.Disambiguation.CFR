@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:D:80
+    </extid>
+    <num>
+      80
+    </num>
+    <head>
+      FRESH RUSSET POTATO DIVERSION PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='612c' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/612c.html'>
+              7 U.S.C. 612c
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            66 FR 58349
+          </aref>
+          , Nov. 21, 2001, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='3960'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:80:A:80.1
+      </extid>
+      <num st='1'>
+        80.1
+      </num>
+      <head>
+        Applicability and payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='80' sect='1' psec='' tq='N'>
+              80.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability and payments.
+        </SUBJECT>
+        <P>
+          Payment be received or retained with respect to diversions of 2001
+          Fresh Russet potatoes as allowed by the Administrator of the
+          Agricultural Marketing Service (AMS), of the Department of Agriculture
+          (USDA) using standards set out for consideration in the relevant 
+          <E T='04'>
+            Federal Register
+          </E>
+           notice published on April 13, 2001 (
+          <aref type='FREGIST'>
+            66 FR 19099
+          </aref>
+          ) except that total funding for the program may be an amount up to $12
+          million. If a person has or will receive such a payment and there is a
+          failure to comply with the conditions for payment or any condition for
+          payment set out in the application, or that otherwise applies, all
+          sums received by a person shall be returned with interest. No other
+          claims for payment by producers or other persons under this part based
+          upon their diversion of potatoes, shall be allowed except as approved
+          by the Administrator of the Agricultural Marketing Service (AMS), of
+          the Department of Agriculture (USDA). In all cases, the Administrator
+          may set such other conditions for payment as may be allowable and
+          serve the accomplishment of the goals of the program.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3961'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:80:A:80.2
+      </extid>
+      <num st='1'>
+        80.2
+      </num>
+      <head>
+        Administration and disputes.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='80' sect='2' psec='' tq='N'>
+              80.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration and disputes.
+        </SUBJECT>
+        <P>
+          Administration of this part shall be under the supervision of the
+          Deputy Administrator, Fruit and Vegetable Programs, AMS, and
+          implemented for AMS through the Farm Service Agency (FSA) of USDA.
+          Disputes shall be resolved by FSA by using regulations found in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='780' tq='N'>
+              780
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

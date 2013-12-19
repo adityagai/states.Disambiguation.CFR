@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1429
+    </extid>
+    <num>
+      1429
+    </num>
+    <head>
+      ASPARAGUS REVENUE MARKET LOSS ASSISTANCE PAYMENT PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='15' sect='714b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714b.html'>
+              15 U.S.C. 714b
+            </subref>
+             and 
+            <subref title='15' sect='714c' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714c.html'>
+              714c
+            </subref>
+          </aref>
+          , and 
+          <aref type='CFR-TIC-SECT'>
+            Sec. 10404
+          </aref>
+          , 
+          <aref target='_blank' title='Pub. L. 110-246' alt='Pub. L. 110-246' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ246/html/PLAW-110publ246.htm'>
+            Pub. L. 110-246
+          </aref>
+          , 
+          <aref target='_blank' title='122 Stat. 2111' alt='122 Stat. 2111' href='http://www.gpo.gov/fdsys/pkg/STATUTE-122/html/STATUTE-122-Pg2111.htm'>
+            122 Stat. 2111
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <PRTPAGE P='644' />
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            76 FR 6316
+          </aref>
+          , Feb. 4, 2011, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12630'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.101
+      </extid>
+      <num st='1'>
+        1429.101
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='101' psec='' tq='N'>
+              1429.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations in this part are applicable to program applicants
+            who produced both 2003- and 2007-crop asparagus. Asparagus producers
+            may apply to the Commodity Credit Corporation (CCC) for a payment
+            based on the actual quantity of their 2003 asparagus production and
+            their share of that production.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Total payments made through the Asparagus Revenue Marketing Loss
+            Assistance Payment Program will not exceed $15 million, allocated as
+            $7.5 million for fresh asparagus and $7.5 million for processed
+            asparagus, less any reserve allocated for disputed claims.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12631'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.102
+      </extid>
+      <num st='1'>
+        1429.102
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='102' psec='' tq='N'>
+              1429.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Asparagus Revenue Market Loss Assistance Payment Program will
+            be administered under the general supervision of the Executive Vice
+            President, CCC (Administrator, Farm Service Administration (FSA)),
+            or a designee, and will be carried out in the field by FSA State and
+            county committees and FSA employees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             FSA State and county committees, and representatives and employees
+            of those committees, do not have the authority to modify or waive
+            any of the provisions of this part, except as provided in paragraph
+            (e) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The FSA State committee will take any action required by this part
+            that has not been taken by the FSA county committee. The FSA State
+            committee will also:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Correct or require correction of an action taken by an FSA county
+            committee that is not in compliance with this part; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require an FSA county committee to not take an action or implement
+            a decision that is not in compliance with the regulations of this
+            part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             No delegation in this part to an FSA State or county committee will
+            preclude the Executive Vice President, CCC, or a designee, from
+            determining any question for the Asparagus Revenue Marketing Loss
+            Assistance Payment Program, or from reversing or modifying any
+            determination made by a State or county committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Deputy Administrator for Farm Programs, FSA, may authorize FSA
+            State and county committees to waive or modify program requirements
+            that are not statutory in cases where failure to meet such
+            requirements does not adversely affect the operation of the
+            Asparagus Revenue Market Loss Assistance Payment Program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12632'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.103
+      </extid>
+      <num st='1'>
+        1429.103
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='103' psec='' tq='N'>
+              1429.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this part. The definitions in 
+          <aref type='CFR-TIC-PART'>
+            parts 
+            <subref title='7' part='718' tq='N'>
+              718
+            </subref>
+             and 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this title
+            </subref>
+          </aref>
+           also apply, except where they conflict with the definitions in this
+          section.
+        </P>
+        <P>
+          <E T='03'>
+            Application
+          </E>
+           means the Asparagus Revenue Market Loss Assistance Payment Program
+          application form approved for use in this program by CCC and any
+          required accompanying information or documentation.
+        </P>
+        <P>
+          <E T='03'>
+            Application period
+          </E>
+           means the 60-day period established by the Deputy Administrator for
+          producers to apply for the Asparagus Revenue Marketing Loss Assistance
+          Payment Program.
+        </P>
+        <P>
+          <E T='03'>
+            Asparagus producer
+          </E>
+           means any individual, group of individuals, partnership, corporation,
+          estate, trust, association, cooperative, or other business enterprise
+          or other legal entity, as defined in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1400' sect='3' psec='' tq='N'>
+              1400.3
+            </subref>
+             of this chapter
+          </aref>
+          , who is an owner, operator, landlord, tenant, or sharecropper, who
+          directly or indirectly, as determined by the Secretary, shares in the
+          risk of producing asparagus and who is entitled to ownership share in
+          the asparagus crop available for marketing from the farm operation.
+          Growers producing asparagus under contract for crop owners are not
+          considered asparagus producers unless the grower can be determined to
+          have an ownership share of the crop.
+        </P>
+        <P>
+          <E T='03'>
+            Base period
+          </E>
+           means the 2003 crop year of asparagus.
+        </P>
+        <P>
+          <E T='03'>
+            County office
+          </E>
+           means the FSA office responsible for administering CCC programs
+          located in a specific area in a State.
+        </P>
+        <P>
+          <E T='03'>
+            Crop year
+          </E>
+           means the marketing season or year as defined by the National
+          Agricultural Statistics Service (NASS).
+        </P>
+        <P>
+          <E T='03'>
+            Department or USDA
+          </E>
+           means the U.S. Department of Agriculture.
+          <PRTPAGE P='645' />
+        </P>
+        <P>
+          <E T='03'>
+            Determined production
+          </E>
+           means, with respect to the base period, the total amount of fresh and
+          processed asparagus specified on the application for payment verified
+          by CCC as having been produced and marketed by the producer in the
+          base period.
+        </P>
+        <P>
+          <E T='03'>
+            Farm Service Agency or FSA
+          </E>
+           means the Farm Service Agency of the U.S. Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Fresh asparagus
+          </E>
+           means domestically-produced asparagus that, regardless of intended
+          use, was marketed as a fresh product without any processing other than
+          cleaning, grading, sorting, trimming, drying, cooling, and packing.
+        </P>
+        <P>
+          <E T='03'>
+            Hundredweight or cwt.
+          </E>
+           means 100 pounds.
+        </P>
+        <P>
+          <E T='03'>
+            Processed asparagus
+          </E>
+           means domestically-produced asparagus that, regardless of intended
+          use, was marketed as frozen, canned, pickled, or otherwise treated or
+          handled in such fashion that the buyer would not consider the
+          asparagus to be consumed as fresh, as determined by CCC.
+        </P>
+        <P>
+          <E T='03'>
+            Reliable production records
+          </E>
+           means evidence provided by the producer to the FSA county office that
+          FSA determines is adequate to substantiate the amount of production
+          reported when verifiable records are not available, including copies
+          of receipts, ledgers of income, income statements, deposit slips,
+          register tapes, invoices for custom harvesting, records to verify
+          production costs, contemporaneous measurements, truck scale tickets,
+          and contemporaneous diaries. When the term “acceptable production
+          records” is used in this rule, it may be either reliable or verifiable
+          production records, as defined in this section.
+        </P>
+        <P>
+          <E T='03'>
+            Reported production
+          </E>
+           means the total amount of fresh and processed asparagus produced and
+          marketed by a producer, as specified by a producer on the application
+          for payment.
+        </P>
+        <P>
+          <E T='03'>
+            United States
+          </E>
+           means the 50 States of the United States, the District of Columbia,
+          and Puerto Rico.
+        </P>
+        <P>
+          <E T='03'>
+            Verifiable production records
+          </E>
+           means evidence that is used to substantiate the amount of production
+          reported and that can be verified by FSA through an independent
+          source.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12633'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.104
+      </extid>
+      <num st='1'>
+        1429.104
+      </num>
+      <head>
+        Application requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='104' psec='' tq='N'>
+              1429.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for payment, asparagus producers must submit a
+            completed application for payment and meet other eligibility
+            requirements as specified in this part. Asparagus producers may
+            obtain an application in person, by mail, by telephone, or by
+            facsimile from any FSA county office. In addition, applicants may
+            download a copy of the application from 
+            <E T='03'>
+              http://www.sc.egov.usda.gov.
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An application for payment must be submitted on a completed
+            application form. Applications and any other supporting
+            documentation must be submitted to the FSA county office serving the
+            county in which the producer produced asparagus in 2003 unless the
+            producer now resides in a different county than the county in which
+            asparagus was produced in the base period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Asparagus producers who apply for payment must certify the
+            information on the application before the application will be
+            considered complete. Applications may be accompanied by acceptable
+            production records for all fresh and processed asparagus produced
+            and marketed from the farm in the 2003 crop year. Producers must
+            certify they had a share interest in both 2003 and 2007 crop
+            asparagus. To be eligible for payment on asparagus produced in the
+            base period, the producer must have produced asparagus in 2007 for
+            the commercial market in commercial quantities as determined for
+            this purpose by the Deputy Administrator. At any time CCC deems
+            appropriate, either before or after payment issuance, CCC may, at
+            its discretion, require a producer to provide documentation to
+            support:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Reported production of 2003 crop fresh or processed asparagus
+            production or both entered on the application accompanied by
+            acceptable production record,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Share percentage of 2003 crop production by marketing category for
+            each producer in the asparagus farm operation, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Any other eligibility requirement specified in this part including
+            commercial quantities of 2007 production to meet the 2007 production
+            requirement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Each asparagus producer who signs the application must certify the 
+            <PRTPAGE P='646' />
+            accuracy and truthfulness of the information in the application and
+            any supporting documentation. All information provided is subject to
+            verification by CCC. Refusal to allow CCC or any other agency of
+            USDA to verify any information provided will result in a denial of
+            eligibility. Furnishing the information is voluntary; however,
+            without it program payments will not be approved. Providing a false
+            certification may be punishable by imprisonment, fines, and other
+            penalties or sanctions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Data furnished by the applicants will be used to determine
+            eligibility for program payments. Although participation in the
+            Asparagus Revenue Market Loss Assistance Payment Program is
+            voluntary, program payments will not be provided unless the
+            participant furnishes a complete application by the end of the
+            application period with all requested data.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Individuals or entities who submit applications after the
+            application period are not entitled to any payment consideration or
+            determination of eligibility. Regardless of the reason why an
+            application is not submitted to or received by the FSA county
+            office, any late application will be considered as not having been
+            timely filed and the applicants on that application will not be
+            eligible for the Asparagus Revenue Marketing Loss Assistance Payment
+            Program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12634'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.105
+      </extid>
+      <num st='1'>
+        1429.105
+      </num>
+      <head>
+        Producer eligibility requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='105' psec='' tq='N'>
+              1429.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Producer eligibility requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible to receive the Asparagus Revenue Marketing Loss
+            Assistance Payment Program payments, asparagus producers must submit
+            an application during the application period and must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Have produced and marketed asparagus in commercial quantities in
+            commercial markets in the United States during both of the 2003 and
+            2007 crop years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be an asparagus producer, as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1429' sect='103' psec='' tq='N'>
+                1429.103
+              </subref>
+            </aref>
+            , for the 2003 and 2007 crop years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Certify their shares and the pounds of fresh and processed
+            asparagus produced and marketed from the farm operation during the
+            2003 crop year as reflected on the application;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If the total value of payments claimed exceeds the available
+            funding, have an average adjusted gross income (AGI) of less than
+            $2.5 million for the 3 tax years of 2003 through 2005; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Be in compliance with the requirements in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='12' tq='N'>
+                12
+              </subref>
+            </aref>
+             regarding highly erodible cropland and wetlands and meet any
+            general farm program eligibility requirements that apply under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1400' tq='N'>
+                1400
+              </subref>
+            </aref>
+             or other regulations as applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Asparagus producers must sign an application to be considered for
+            payment eligibility. Asparagus producers who do not sign an
+            application will not receive payment or a determination of
+            eligibility, even if other producers in the asparagus farm operation
+            sign an application and receive payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Each applicant determined by spot check or other information to not
+            have an interest as an asparagus producer in 2003 and 2007 who meets
+            the other qualifications of this part will be ineligible for payment
+            and such applicant&apos;s claimed share shown on the application
+            will not be paid.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12635'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.106
+      </extid>
+      <num st='1'>
+        1429.106
+      </num>
+      <head>
+        Proof of production.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='106' psec='' tq='N'>
+              1429.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Proof of production.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Producers selected for spot check by CCC must, in accordance with
+            instructions issued by the Deputy Administrator or a designee,
+            provide adequate proof of the fresh and processed asparagus produced
+            and marketed during the 2003 and 2007 crop years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If adequate proof of marketed production and supporting
+            documentation in support of any application for payment is not
+            presented to the satisfaction of CCC or the FSA county office
+            requesting information, the application and the producers on that
+            application will be determined ineligible for payment.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12636'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.107
+      </extid>
+      <num st='1'>
+        1429.107
+      </num>
+      <head>
+        Maximum and final payment rates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='107' psec='' tq='N'>
+              1429.107
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Maximum and final payment rates.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the funding limits that may apply to the program, the
+            estimated maximum per pound payment rates for fresh market asparagus
+            and for processed market asparagus are:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             $1.06 per pound ($106.00 per hundredweight) for 2003 crop
+            quantities of asparagus marketed to fresh markets; and
+            <PRTPAGE P='647' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             $1.08 per pound ($108.00 per hundredweight) for 2003 crop
+            quantities of asparagus marketed for processing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This program will be administered to assure that total payments do
+            not exceed the available funding. If the total value of payments
+            claimed calculated using the maximum payment rates specified in
+            paragraph (a) of this section exceeds the funding available for each
+            marketing category, less any reserve that may be created as
+            specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1429' sect='109' psec='' tq='N'>
+                1429.109
+              </subref>
+            </aref>
+            , the payment quantities will be paid at a lower rate determined by
+            dividing the funds available in each marketing category of
+            asparagus, by the payment quantity from applications received by the
+            end of the application period in each marketing category.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In no event will the payment rate exceed the maximum payment rate
+            for each marketing category of asparagus determined in paragraph (a)
+            of this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12637'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.108
+      </extid>
+      <num st='1'>
+        1429.108
+      </num>
+      <head>
+        Calculation of individual payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='108' psec='' tq='N'>
+              1429.108
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Calculation of individual payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Producers will be eligible for payment for both fresh and processed
+            asparagus. CCC will calculate the payment quantity of 2003 fresh and
+            processed asparagus for an asparagus farm operation based on the
+            lower of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Reported production reflected on the application, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If applicable, determined production.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The payment quantity will be multiplied by the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Each asparagus producer&apos;s share, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The payment rate for the fresh or processed asparagus determined as
+            specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1429' sect='107' psec='' tq='N'>
+                1429.107
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the total value of payments claimed exceeds the available
+            funding, payments to producers are subject to a $100,000 cap per
+            each of the two program marketing categories (fresh and processed)
+            per asparagus producer as defined in this part, not per “person” or
+            “legal entity” as those terms might be defined in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this title
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12638'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.109
+      </extid>
+      <num st='1'>
+        1429.109
+      </num>
+      <head>
+        Availability of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='109' psec='' tq='N'>
+              1429.109
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Payments specified in this part are subject to the availability of
+            funds. The total available program funds will be $15,000,000 as
+            provided by 
+            <aref type='UNKNOWN'>
+              section 10404 of
+            </aref>
+            <aref target='_blank' title='Public Law 110-246' alt='Public Law 110-246' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ246/html/PLAW-110publ246.htm'>
+              Public Law 110-246
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Of the available funds, $7,500,000 are allocated for fresh market
+            asparagus production and $7,500,000 are allocated to processed
+            market asparagus.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will prorate the available funds by a national factor to ensure
+            that payments do not exceed $15,000,000. CCC will prorate the
+            payments in such manner as it, in its sole discretion, finds fair
+            and reasonable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A reserve will be created to handle appeals and errors. Claims will
+            not be payable once the available funding is expended. Any amount of
+            funds reserved for such purposes that are not disbursed for the
+            purpose of correcting errors or omissions, or for the payment of
+            appeals, will not otherwise be distributed to any payment applicants
+            and will be refunded to the U.S. Department of Treasury.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12639'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.111
+      </extid>
+      <num st='1'>
+        1429.111
+      </num>
+      <head>
+        Misrepresentation and scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='111' psec='' tq='N'>
+              1429.111
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentation and scheme or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In addition to other penalties, sanctions, or remedies as may
+            apply, an asparagus producer will be ineligible to receive
+            assistance through the Asparagus Revenue Market Loss Assistance
+            Payment Program if the asparagus producer is determined by CCC to
+            have:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device that tends to defeat the purpose of
+            this program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Made any fraudulent representation; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Misrepresented any fact affecting a program determination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any funds disbursed pursuant to this part to any person or
+            operation engaged in a misrepresentation, scheme, or device, must be
+            refunded with interest together with such other sums as may become
+            due and all charges including interest will run from the date of the
+            disbursement of the CCC funds. Any asparagus farm operation,
+            asparagus producer, or person engaged in acts prohibited by this
+            section and any asparagus farm operation, asparagus producer, or
+            person receiving payment as specified in this part will be jointly
+            and severally liable with other persons or operations involved in
+            such claim for payment for any refund due as specified in this
+            section and for related 
+            <PRTPAGE P='648' />
+            charges. The remedies provided in this part will be in addition to
+            other civil, criminal, or administrative remedies that may apply.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12640'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.112
+      </extid>
+      <num st='1'>
+        1429.112
+      </num>
+      <head>
+        Death, incompetence, or disappearance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='112' psec='' tq='N'>
+              1429.112
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Death, incompetence, or disappearance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of death, incompetency, disappearance, or dissolution
+            of a person or an entity that is eligible to receive payment as
+            specified in this part, an alternate person or persons as specified
+            in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='707' tq='N'>
+                707 of this title
+              </subref>
+            </aref>
+             may receive such payment, as determined appropriate by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payment may be made for asparagus market losses suffered by an
+            otherwise eligible asparagus producer who is now deceased or is a
+            dissolved entity if a representative who currently has authority to
+            enter into an application for the producer or the producer&apos;s
+            estate signs the application for payment. Proof of authority to sign
+            for the deceased producer&apos;s estate or a dissolved entity must
+            be provided. If an asparagus producer is now a dissolved general
+            partnership or joint venture, all members of the general partnership
+            or joint venture at the time of dissolution or their duly-authorized
+            representatives must sign the application for payment.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12641'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.113
+      </extid>
+      <num st='1'>
+        1429.113
+      </num>
+      <head>
+        Maintaining records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='113' psec='' tq='N'>
+              1429.113
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Maintaining records.
+        </SUBJECT>
+        <P>
+          Producers applying for payment through the Asparagus Revenue Market
+          Loss Assistance Payment Program must maintain records and accounts to
+          document all eligibility requirements specified in this part. Such
+          records and accounts must be retained for 3 years after the date of
+          payment.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12642'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.114
+      </extid>
+      <num st='1'>
+        1429.114
+      </num>
+      <head>
+        Refunds; joint and several liability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='114' psec='' tq='N'>
+              1429.114
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Refunds; joint and several liability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Excess payments, payments provided as the result of erroneous
+            information provided by any person, or payments resulting from a
+            failure to comply with any requirement or condition for payment in
+            the application or this part, must be refunded to CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A refund required as specified in this section will be due with
+            interest from the date of CCC disbursement and determined in
+            accordance with paragraph (d) of this section and late payment
+            charges as provided in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Persons signing an ALAP Program application as having an interest
+            in the asparagus farm operation will be jointly and severally liable
+            for any refund and related charges found to be due as specified in
+            this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Interest will be applicable to any refunds required as specified in
+            
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='792' tq='N'>
+                792
+              </subref>
+               and 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this title
+              </subref>
+            </aref>
+            . Such interest will be charged at the rate that the U.S. Department
+            of the Treasury charges CCC for funds, and will accrue from the date
+            CCC made the erroneous payment to the date of repayment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may waive the accrual of interest if it determines that the
+            cause of the erroneous determination was not due to any action of
+            the person, or was beyond the control of the person committing the
+            violation. Any waiver is at the discretion of CCC alone.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12643'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1429:-:1429.115
+      </extid>
+      <num st='1'>
+        1429.115
+      </num>
+      <head>
+        Miscellaneous provisions and appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1429' sect='115' psec='' tq='N'>
+              1429.115
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Miscellaneous provisions and appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Offset.
+            </head>
+          </npcatch>
+          <text>
+             CCC may offset or withhold any amount due CCC as specified in this
+            part in accordance with the provisions of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Claims.
+            </head>
+          </npcatch>
+          <text>
+             Claims or debts will be settled in accordance with the provisions
+            of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Other interests.
+            </head>
+          </npcatch>
+          <text>
+             Payments or any portion thereof due under this part will be made
+            without regard to questions of title under State law and without
+            regard to any claim or lien against the asparagus crop, or proceeds
+            thereof, in favor of the owner or any other creditor except agencies
+            and instrumentalities of the U.S. Government.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Assignments.
+            </head>
+          </npcatch>
+          <text>
+             Any asparagus producer entitled to any payment as specified in this
+            part may assign any payment in accordance with the provisions of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1404' tq='N'>
+                1404 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Appeals.
+            </head>
+          </npcatch>
+          <text>
+             Appeals will be handled as specified in 
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+               and 
+              <subref title='7' part='780' tq='N'>
+                780 of this title
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

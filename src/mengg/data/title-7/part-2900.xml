@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXIX:-:2900
+    </extid>
+    <num>
+      2900
+    </num>
+    <head>
+      ESSENTIAL AGRICULTURAL USES AND VOLUMETRIC REQUIREMENTS—NATURAL GAS POLICY
+      ACT
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref target='_blank' title='Pub. L. 95-621' alt='Pub. L. 95-621' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d95:./list/bd/d95pl.lst:621%28Public_Laws%29'>
+            Pub. L. 95-621
+          </aref>
+          , Nov. 9, 1978.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            44 FR 28786
+          </aref>
+          , May 17, 1979, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15940'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2900:-:2900.1
+      </extid>
+      <num st='1'>
+        2900.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2900' sect='1' psec='' tq='N'>
+              2900.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <aref type='UNKNOWN'>
+            Section 401(c) of
+          </aref>
+           the Natural Gas Policy Act of 1978 (NGPA) requires the Secretary of
+          Agriculture to determine the essential uses of natural gas, and to
+          certify to the Secretary of Energy and the Federal Energy Regulatory
+          Commission (FERC) the natural gas requirements, expressed either as
+          volumes or percentages of use, of persons, or classes thereof, for
+          essential agricultural uses in order to meet requirements of full food
+          and fiber production. This rule covers establishments performing
+          functions classed as essential agricultural uses whose natural gas
+          supplies are distributed through the interstate pipeline systems even
+          though such establishments may receive such gas directly from an
+          intrastate pipeline or local distribution company. The rule provides
+          to the Secretary of Energy (for purposes of 
+          <aref type='UNKNOWN'>
+            Section 401(a) of
+          </aref>
+           the NGPA) and to the Federal Energy Regulatory Commission the
+          following certifications:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Essential agricultural 
+            <E T='03'>
+              uses
+            </E>
+             of natural gas, expressed as classes of establishments that use gas
+            for essential agricultural purposes; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Essential agricultural current 
+            <E T='03'>
+              requirements
+            </E>
+             of natural gas, expressed as percentages of use.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15941'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2900:-:2900.2
+      </extid>
+      <num st='1'>
+        2900.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          44 FR 28786
+        </aref>
+        , May 17, 1979, as amended at 
+        <aref type='FREGIST'>
+          46 FR 47216
+        </aref>
+        , Sept. 25, 1981]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2900' sect='2' psec='' tq='N'>
+              2900.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Full food and fiber production
+            </E>
+             means the entire output of food and fiber produced for the domestic
+            market, and for export, for building of reserves, and crops for soil
+            building or conservation. This term also includes the processing of
+            food and fiber into stable and storable products, and the
+            maintenance of food quality after processing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Establishment
+            </E>
+             means an economic unit, generally at a single physical location
+            where business is conducted or where service or industrial
+            operations are performed (for example, a factory, mill, store, mine,
+            farm, sales office, or warehouse). (Note: This is the same
+            definition used in the Standard Industrial Classification Manual,
+            1972 edition).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Essential Agricultural Use Establishment
+            </E>
+             means any Establishment, or the portion of an Establishment, which
+            performs (or has the capability to perform) activities specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2900' sect='3' psec='' tq='N'>
+                2900.3
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Current Natural Gas Requirements
+            </E>
+             means the amount of natural gas required by an Essential
+            Agricultural Use Establishment to perform the activities devoted to
+            full food and fiber production.
+          </text>
+        </P>
+        <SECAUTH>
+          (
+          <aref target='_blank' title='Pub. L. 95-621' alt='Pub. L. 95-621' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d95:./list/bd/d95pl.lst:621%28Public_Laws%29'>
+            Pub. L. 95-621
+          </aref>
+          , Nov. 8, 1979, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=95_statutes2_at_large&amp;position=all&amp;page=3350'>
+            92 Stat. 3350
+          </aref>
+          , 
+          <aref type='USC'>
+            <subref title='15' sect='3301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/3301.html'>
+              15 U.S.C. 3301
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          )
+        </SECAUTH>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            44 FR 28786
+          </aref>
+          , May 17, 1979, as amended at 
+          <aref type='FREGIST'>
+            46 FR 47216
+          </aref>
+          , Sept. 25, 1981]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='15942'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2900:-:2900.3
+      </extid>
+      <num st='1'>
+        2900.3
+      </num>
+      <head>
+        Essential agricultural uses.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          44 FR 28786
+        </aref>
+        , May 17, 1979, as amended at 
+        <aref type='FREGIST'>
+          45 FR 5298
+        </aref>
+        , Jan. 23, 1980; 
+        <aref type='FREGIST'>
+          45 FR 45887, 45888
+        </aref>
+        , July 8, 1980; 
+        <aref type='FREGIST'>
+          45 FR 50550
+        </aref>
+        , July 30, 1980; 
+        <aref type='FREGIST'>
+          47 FR 25320
+        </aref>
+        , June 11, 1982; 
+        <aref type='FREGIST'>
+          48 FR 43670
+        </aref>
+        , Sept. 26, 1983; 
+        <aref type='FREGIST'>
+          49 FR 37733
+        </aref>
+        , Sept. 26, 1984]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2900' sect='3' psec='' tq='N'>
+              2900.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Essential agricultural uses.
+        </SUBJECT>
+        <P>
+          For purposes of 
+          <aref type='UNKNOWN'>
+            Section 401(c) of
+          </aref>
+           the NGPA the following classes or portions of classes are certified
+          as essential agricultural uses in order to meet the requirements of
+          full food and fiber production:
+        </P>
+        <EXTRACT>
+          <HD SOURCE='HD5'>
+            Essential Agricultural Uses
+          </HD>
+          <HD SOURCE='HD2'>
+            Industry SIC No. and Industry Description
+          </HD>
+          <HD SOURCE='HD1'>
+            Food and Natural Fiber Production
+          </HD>
+          <P>
+            01Agricultural Production—Crops
+          </P>
+          <P>
+            02Agricultural Production—Livestock Excluding 0272—Horses and Other
+            Equines, and Nonfood Portions of 0279—Animal Specialties, Not
+            Elsewhere Classified.
+          </P>
+          <P>
+            0723Crop Preparation Services for Market, Except Cotton Ginning (see
+            fiber processing).
+          </P>
+          <P>
+            4971Irrigation Systems.
+          </P>
+          <HD SOURCE='HD1'>
+            Fertilizer and Agricultural Chemicals
+          </HD>
+          <HD SOURCE='HD1'>
+            (Process and Feedstock Use Only)
+          </HD>
+          <P>
+            1474Potash, Soda, and Borate Materials.
+          </P>
+          <P>
+            1475Phosphate Rock.
+          </P>
+          <P>
+            1477Sulfur.
+          </P>
+          <P>
+            2819Industrial Inorganic Chemicals, n.e.c. (Agricultural related
+            only).
+          </P>
+          <P>
+            2865Cyclic Crudes and Cyclic Intermediates, Dyes and Organic
+            Pigments (Agricutural related only).
+            <PRTPAGE P='104' />
+          </P>
+          <P>
+            2869Industrial Organic Chemicals, n.e.c. (Agricutural related only).
+          </P>
+          <P>
+            287Agricultural Chemicals.
+          </P>
+          <P>
+            2899Chemicals and Chemical Preparations, n.e.c. (Salt—Feed grade
+            only).
+          </P>
+          <P>
+            3274Lime (Agricultural lime only).
+          </P>
+          <HD SOURCE='HD1'>
+            Food and Natural Fiber Processing-Food
+          </HD>
+          <P>
+            20Food and Kindred Products Except 2047Dog, Cat and Other Pet Food,
+            and 2048Prepared Feeds and Feed Ingredients for Animals and Fowls,
+            Not Elsewhere Classified.
+          </P>
+          <P>
+            2869Industrial Organic Chemicals (Monosodium Glutamate, Food-grade
+            Citric Acid and Food-grade Enzymes only).
+          </P>
+          <P>
+            2899Chemicals and Chemical Preparations, n.e.c. (Salt for food use
+            only).
+          </P>
+          <HD SOURCE='HD1'>
+            Animal Feeds, and Food
+          </HD>
+          <HD SOURCE='HD3'>
+            (Process and Feedstock Use Only)
+          </HD>
+          <P>
+            2047Dog, Cat and Other Pet Food.
+          </P>
+          <P>
+            2048Prepared Feeds and Feed Ingredients for Animals and Fowls, Not
+            Elsewhere Classified.
+          </P>
+          <HD SOURCE='HD1'>
+            Natural Fiber
+          </HD>
+          <P>
+            0724Cotton Ginning.
+          </P>
+          <P>
+            2141Tobacco Stemming and Redrying.
+          </P>
+          <P>
+            2299Textile Goods, n.e.c. (wool tops, combing and converting).
+          </P>
+          <P>
+            3111Leather Tanning and Finishing.
+          </P>
+          <HD SOURCE='HD1'>
+            Food Quality Maintenance—Food Packaging
+          </HD>
+          <P>
+            2641Paper Coating and Glazing (food related only).
+          </P>
+          <P>
+            2643Bags, Except Textile (food related only).
+          </P>
+          <P>
+            2645Die Cut Paper and Paperboard (food related only).
+          </P>
+          <P>
+            2646Pressed and Molded Pulp Goods (food related only).
+          </P>
+          <P>
+            2649Converted Paper Products (food related only).
+          </P>
+          <P>
+            2651Folding Paperboard Boxes (food related only).
+          </P>
+          <P>
+            2653Corrugated and Solid Fiber Boxes (food related only).
+          </P>
+          <P>
+            2654Sanitary Food Containers.
+          </P>
+          <P>
+            2655Fiber Cans, Tubes, Drums, and Similar Products (food related
+            only).
+          </P>
+          <P>
+            3079Miscellaneous Plastic Products (food related only).
+          </P>
+          <P>
+            3221Glass Containers (food related only).
+          </P>
+          <P>
+            3411Metal Cans (food related only).
+          </P>
+          <P>
+            3412Metal Shipping Barrels, Drums, Kegs, and Pails (food related
+            only).
+          </P>
+          <P>
+            3466Metal Crowns and Closures (Food Related Only).
+          </P>
+          <P>
+            3497Metal Foil and Leaf (food related only).
+          </P>
+          <P>
+            Petroleum wax, synthetic petroleum wax and polyethylene wax (food
+            grade only) as food containers.
+          </P>
+          <HD SOURCE='HD1'>
+            Marketing and Distribution
+          </HD>
+          <P>
+            4221Farm Product Warehousing and Storage.
+          </P>
+          <P>
+            4222Refrigerated Warehousing.
+          </P>
+          <P>
+            514Groceries and Related Products.
+          </P>
+          <P>
+            5153Farm Product Raw Materials—Grain.
+          </P>
+          <P>
+            54Food Stores.
+          </P>
+          <HD SOURCE='HD1'>
+            Energy Production
+          </HD>
+          <P>
+            (1) Agricultural production on set-aside acreage or acreage diverted
+            from the production of a commodity (as provided under the
+            Agricultural Act of 1949) to be devoted to the production of any
+            commodity for conversion into alcohol or hydrocarbons for use as
+            motor fuel or other fuels;
+          </P>
+          <P>
+            (2) Sugar refining for production of alcohol; and
+          </P>
+          <P>
+            (3) Distillation of fuel-grade alcohol from food grains and other
+            biomass by facilities in existence on June 30, 1980 which do not
+            have the installed capability to burn coal lawfully, for a period
+            ending June 29, 1985.
+          </P>
+        </EXTRACT>
+        <SECAUTH>
+          (
+          <aref target='_blank' title='Pub. L. 95-621' alt='Pub. L. 95-621' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d95:./list/bd/d95pl.lst:621%28Public_Laws%29'>
+            Pub. L. 95-621
+          </aref>
+          , Nov. 8, 1978, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=95_statutes2_at_large&amp;position=all&amp;page=3350'>
+            92 Stat. 3350
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='15' sect='3301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/3301.html'>
+              15 U.S.C. 3301
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          )
+        </SECAUTH>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            44 FR 28786
+          </aref>
+          , May 17, 1979, as amended at 
+          <aref type='FREGIST'>
+            45 FR 5298
+          </aref>
+          , Jan. 23, 1980; 
+          <aref type='FREGIST'>
+            45 FR 45887, 45888
+          </aref>
+          , July 8, 1980; 
+          <aref type='FREGIST'>
+            45 FR 50550
+          </aref>
+          , July 30, 1980; 
+          <aref type='FREGIST'>
+            47 FR 25320
+          </aref>
+          , June 11, 1982; 
+          <aref type='FREGIST'>
+            48 FR 43670
+          </aref>
+          , Sept. 26, 1983; 
+          <aref type='FREGIST'>
+            49 FR 37733
+          </aref>
+          , Sept. 26, 1984]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='15943'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2900:-:2900.4
+      </extid>
+      <num st='1'>
+        2900.4
+      </num>
+      <head>
+        Natural gas requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2900' sect='4' psec='' tq='N'>
+              2900.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Natural gas requirements.
+        </SUBJECT>
+        <P>
+          For purposes of 
+          <aref type='CFR-TIC-SECT'>
+            Section 401(c)
+          </aref>
+          , NGPA, the natural gas requirements for each Essential Agricultural
+          Use Establishment, whether such Essential Agricultural Use
+          Establishment is in existence on the effective date of this rule or
+          comes into existence thereafter, are certified to be 100 percent of
+          Current Natural Gas Requirements.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15944'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXIX:-:2900:-:2900.6
+      </extid>
+      <num st='1'>
+        2900.6
+      </num>
+      <head>
+        Effective date.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2900' sect='6' psec='' tq='N'>
+              2900.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effective date.
+        </SUBJECT>
+        <P>
+          This rule shall become effective on May 14, 1979.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:F:653
+    </extid>
+    <num>
+      653
+    </num>
+    <head>
+      TECHNICAL STANDARDS
+    </head>
+    <text>
+      <AUTH>
+        <PRTPAGE P='595' />
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='62' psec='' tq='N'>
+              2.62
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            43 FR 58079
+          </aref>
+          , Dec. 12, 1978, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6441'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:653:-:653.1
+      </extid>
+      <num st='1'>
+        653.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='653' sect='1' psec='' tq='N'>
+              653.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          The Natural Resources Conservation Service (NRCS) is responsible for
+          the technical adequacy of conservation practices installed under all
+          NRCS programs, and those practices applied under programs administered
+          by the Agricultural Stabilization and Conservation Service (ASCS)
+          where NRCS has the technical responsibility. NRCS technical or
+          financial assistance will be provided when the practices are applied
+          according to established technical standards.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6442'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:653:-:653.2
+      </extid>
+      <num st='1'>
+        653.2
+      </num>
+      <head>
+        Technical standards and criteria.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='653' sect='2' psec='' tq='N'>
+              653.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Technical standards and criteria.
+        </SUBJECT>
+        <P>
+          Technical standards and criteria have been established for all
+          conservation practices. They provide the guidance and direction needed
+          to assure that the practices meet the intended purpose and are of the
+          quality needed to assure lasting for the design life. Standards and
+          criteria are developed in consultation with universities, research
+          institutions, and individual industrial and private firms and
+          individuals. Research information and practical experience are used in
+          setting standards. Changes and new technical standards and criteria
+          are prepared in the same manner as set out above.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6443'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:653:-:653.3
+      </extid>
+      <num st='1'>
+        653.3
+      </num>
+      <head>
+        Adaptation of technical standards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='653' sect='3' psec='' tq='N'>
+              653.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Adaptation of technical standards.
+        </SUBJECT>
+        <P>
+          Technical standards and criteria developed on a national basis may
+          require special adaptation to meet local needs. These adaptations must
+          be approved by the Administrator of the Natural Resources Conservation
+          Service or his designee.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6444'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:653:-:653.4
+      </extid>
+      <num st='1'>
+        653.4
+      </num>
+      <head>
+        Availability of technical standards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='653' sect='4' psec='' tq='N'>
+              653.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of technical standards.
+        </SUBJECT>
+        <P>
+          Information on technical standards used by NRCS is available at field,
+          area, or State offices of NRCS.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,4962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1466
+    </extid>
+    <num>
+      1466
+    </num>
+    <head>
+      ENVIRONMENTAL QUALITY INCENTIVES PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='15' sect='714b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714b.html'>
+              15 U.S.C. 714b
+            </subref>
+             and 
+            <subref title='15' sect='714c' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714c.html'>
+              714c
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='16' sect='3839aa-383' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3839aa-383.html'>
+              16 U.S.C. 3839aa-383
+            </subref>
+          </aref>
+          9-8
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            68 FR 32348
+          </aref>
+          , May 30, 2003, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12938'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.1
+      </extid>
+      <num st='1'>
+        1466.1
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='1' psec='' tq='N'>
+              1466.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The purposes of the Environmental Quality Incentives Program (EQIP)
+            are to promote agricultural production, forest management, and
+            environmental quality as compatible goals, and to optimize
+            environmental benefits. Through EQIP, the Natural Resources
+            Conservation Service (NRCS) provides assistance to eligible farmers
+            and ranchers to address soil, water, and air quality, wildlife
+            habitat, surface and groundwater conservation, energy conservation,
+            and related natural resource concerns. EQIP&apos;s financial and
+            technical assistance helps producers comply with environmental
+            regulations and enhance agricultural and forested lands in a
+            cost-effective and environmentally beneficial manner. The purposes
+            of the program are achieved by planning and implementing
+            conservation practices on eligible land.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             EQIP is available in any of the 50 States, the District of
+            Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands
+            of the United States, American Samoa, and the Commonwealth of the
+            Northern Mariana Islands.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12939'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.2
+      </extid>
+      <num st='1'>
+        1466.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='2' psec='' tq='N'>
+              1466.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The funds, facilities, and authorities of the Commodity Credit
+            Corporation (CCC) are available to NRCS for carrying out EQIP.
+            Accordingly, where NRCS is mentioned in this Part, it also refers to
+            the CCC&apos;s funds, facilities, and authorities where applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS supports “locally led conservation” by using State Technical
+            Committees at the State level and local working groups at the county
+            or parish level to advise NRCS on issues relating to the EQIP
+            implementation such as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Identification of priority resource concerns;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Identification of which conservation practices should be eligible
+            for financial assistance; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Establishment of payment rates.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             No delegation in this Part to lower organizational levels shall
+            preclude the Chief from making any determinations under this Part,
+            or from reversing or modifying any determination made under this
+            Part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may enter into agreements with other Federal or State
+            agencies, Indian tribes, conservation districts, units of local
+            government, public or private organizations, and individuals to
+            assist NRCS with implementation of the program in this Part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12940'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.3
+      </extid>
+      <num st='1'>
+        1466.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='3' psec='' tq='N'>
+              1466.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions will apply to this Part and all documents
+          issued in accordance with this Part, unless specified otherwise:
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural land
+          </E>
+           means cropland, grassland, rangeland, pasture, and other agricultural
+          land, on which agricultural and forest-related products, or livestock
+          are produced and resource concerns may be addressed. Other
+          agricultural lands include cropped woodland, marshes, incidental areas
+          included in the agricultural operation, and other types of
+          agricultural land used for production of livestock.
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural operation
+          </E>
+           means a parcel or parcels of land whether contiguous or
+          noncontiguous, which the producer is listed as the operator or
+          owner/operator in the Farm Service Agency (FSA) record system, which
+          is under the effective control of the producer at the time the
+          producer applies for a contract, and which is operated by the producer
+          with equipment, labor, management, and production, forestry, or
+          cultivation practices that are substantially separate from other
+          operations.
+        </P>
+        <P>
+          <E T='03'>
+            Animal waste management facility
+          </E>
+           means a structural conservation practice, implemented in the context
+          of a Comprehensive Nutrient Management Plan and consistent with the
+          Field Office Technical Guide, which is used for storing, treating, or
+          handling animal waste or byproducts, such as animal carcasses.
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means a person, legal entity, joint operation, or tribe that has an
+          interest in an agricultural operation, as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , who has requested in writing to participate in EQIP.
+        </P>
+        <P>
+          <E T='03'>
+            At-risk species
+          </E>
+           means any plant or animal species as determined by the State
+          Conservationist, with advice 
+          <PRTPAGE P='793' />
+          from the State Technical Committee, to need direct intervention to
+          halt its population decline.
+        </P>
+        <P>
+          <E T='03'>
+            Beginning Farmer or Rancher
+          </E>
+           means a person or legal entity who:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Has not operated a farm or ranch, or who has operated a farm or
+            ranch for not more than 10 consecutive years. This requirement
+            applies to all members of an entity, who will materially and
+            substantially participate in the operation of the farm or ranch.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a contract with an individual, individually or with
+            the immediate family, material and substantial participation
+            requires that the individual provide substantial day-to-day labor
+            and management of the farm or ranch, consistent with the practices
+            in the county or State where the farm is located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a contract with an entity or joint operation, all
+            members must materially and substantially participate in the
+            operation of the farm or ranch. Material and substantial
+            participation requires that each of the members provide some amount
+            of the management, or labor and management necessary for day-to-day
+            activities, such that if each of the members did not provide these
+            inputs, operation of the farm or ranch would be seriously impaired.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Chief
+          </E>
+           means the Chief of NRCS, United States Department of Agriculture
+          (USDA), or designee.
+        </P>
+        <P>
+          <E T='03'>
+            Comprehensive Nutrient Management Plan (CNMP)
+          </E>
+           means a conservation system that is unique to an animal feeding
+          operation (AFO). A CNMP is a grouping of conservation practices and
+          management activities which, when implemented as part of a
+          conservation system, will help to ensure that both production and
+          natural resource protection goals are achieved. A CNMP incorporates
+          practices to use animal manure and organic by-products as a beneficial
+          resource. A CNMP addresses natural resource concerns dealing with soil
+          erosion, manure, and organic byproducts and their potential impacts on
+          all natural resources including water and air quality, which may
+          derive from an AFO. A CNMP is developed to assist an AFO
+          owner/operator in meeting all applicable local, Tribal, State, and
+          Federal water quality goals or regulations. For nutrient impaired
+          stream segments or water bodies, additional management activities or
+          conservation practices may be required by local, Tribal, State, or
+          Federal water quality goals or regulations.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation district
+          </E>
+           means any district or unit of State, Tribal, or local government
+          formed under State, Tribal, or territorial law for the express purpose
+          of developing and carrying out a local soil and water conservation
+          program. Such district or unit of government may be referred to as a
+          “conservation district,” “soil conservation district,” “soil and water
+          conservation district,” “resource conservation district,” “land
+          conservation committee,” “natural resource district,” or similar name.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation Innovation Grants
+          </E>
+           means competitive grants made under EQIP to individuals and
+          governmental and non-governmental organizations to stimulate and
+          transfer innovative technologies and approaches, to leverage Federal
+          funds, and to enhance and protect the environment, in conjunction with
+          agricultural production and forest management.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation practice
+          </E>
+           means one or more conservation improvements and activities, including
+          structural practices, land management practices, vegetative practices,
+          forest management practices, and other improvements that achieve the
+          program purposes, including such items as CNMPs, agricultural energy
+          management plans, dryland transition plans, forest management plans,
+          integrated pest management, and other plans determined acceptable by
+          the Chief.
+        </P>
+        <P>
+          <E T='03'>
+            Contract
+          </E>
+           means a legal document that specifies the rights and obligations of
+          any participant accepted into the program. An EQIP contract is a
+          binding agreement for the transfer of assistance from USDA to the
+          participant to share in the costs of applying conservation practices.
+        </P>
+        <P>
+          <E T='03'>
+            Cost-effectiveness
+          </E>
+           means the least costly option for achieving a given set of
+          conservation objectives.
+        </P>
+        <P>
+          <E T='03'>
+            Designated conservationist
+          </E>
+           means an NRCS employee whom the State Conservationist has designated
+          as responsible for EQIP administration in a specific area.
+          <PRTPAGE P='794' />
+        </P>
+        <P>
+          <E T='03'>
+            EQIP plan of operations
+          </E>
+           means the document that identifies the location and timing of
+          conservation practices that the participant agrees to implement on
+          eligible land in order to address the priority resource concerns,
+          optimize environmental benefits, and address program purposes as
+          defined in 
+          <E T='03'>
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='1' psec='' tq='N'>
+                1466.1
+              </subref>
+            </aref>
+          </E>
+          . The EQIP plan of operations is part of the EQIP contract.
+        </P>
+        <P>
+          <E T='03'>
+            Estimated income foregone
+          </E>
+           means an estimate of the net income loss associated with the adoption
+          of a conservation practice, including from a change in land use or
+          land taken out of production or the opportunity cost associated with
+          the adoption of a conservation practice. This shall not include losses
+          of income due to disaster or other events unrelated to the
+          conservation practice.
+        </P>
+        <P>
+          <E T='03'>
+            Field office technical guide (FOTG)
+          </E>
+           means the official local NRCS source of resource information and
+          interpretations of guidelines, criteria, and requirements for planning
+          and applying conservation practices and conservation management
+          systems. It contains detailed information on the conservation of soil,
+          water, air, plant, and animal resources applicable to the local area
+          for which it is prepared.
+        </P>
+        <P>
+          <E T='03'>
+            Forest management plan
+          </E>
+           means a site-specific plan that is prepared by a professional
+          resource manager, in consultation with the participant, and is
+          approved by the State Conservationist. Forest management plans may
+          include a forest stewardship plan, as specified in 
+          <aref type='UNKNOWN'>
+            section 5 of
+          </aref>
+           the Cooperative Forestry Assistance Act of 1978 (
+          <aref type='USC'>
+            <subref title='16' sect='2103a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/2103a.html'>
+              16 U.S.C. 2103a
+            </subref>
+          </aref>
+          ); another practice plan approved by the State Forester; or another
+          plan determined appropriate by the State Conservationist. The plan is
+          intended to comply with Federal, State, tribal, and local laws,
+          regulations, and permit requirements.
+        </P>
+        <P>
+          <E T='03'>
+            Historically underserved producer
+          </E>
+           means an eligible person, joint operation, or legal entity who is a
+          beginning farmer or rancher, socially disadvantaged farmer or rancher,
+          or limited resource farmer or rancher.
+        </P>
+        <P>
+          <E T='03'>
+            Indian land
+          </E>
+           means:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Land held in trust by the United States for individual Indians or
+            Indian tribes; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Land, the title to which is held by individual Indians or Indian
+            Tribes subject to Federal restrictions against alienation or
+            encumbrance; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Land which is subject to rights of use, occupancy and/or benefit of
+            certain Indian Tribes; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Land held in fee title by an Indian, Indian family or Indian Tribe.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Indian Tribe
+          </E>
+           means any Indian Tribe, band, nation, or other organized group or
+          community, including any Alaska Native village or regional or village
+          corporation as defined in or established pursuant to the Alaska Native
+          Claims Settlement Act (
+          <aref type='USC'>
+            <subref title='43' sect='1601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601.html'>
+              43 U.S.C. 1601
+            </subref>
+          </aref>
+           et seq.) which is recognized as eligible for the special programs and
+          services provided by the United States to Indians because of their
+          status as Indians.
+        </P>
+        <P>
+          <E T='03'>
+            Integrated Pest Management
+          </E>
+           means a sustainable approach to managing pests by combining
+          biological, cultural, physical, and chemical tools in a way that
+          minimizes economic, health, and environmental risks.
+        </P>
+        <P>
+          <E T='03'>
+            Joint operation
+          </E>
+           means, as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , a general partnership, joint venture, or other similar business
+          organization in which the members are jointly and severally liable for
+          the obligations of the organization.
+        </P>
+        <P>
+          <E T='03'>
+            Legal entity
+          </E>
+           means, as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , an entity created under Federal or State law that:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Owns land or an agricultural commodity, product, or livestock; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Produces an agricultural commodity, product, or livestock.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Lifespan
+          </E>
+           means the period of time during which a conservation practice should
+          be maintained and used for the intended purpose.
+        </P>
+        <P>
+          <E T='03'>
+            Limited Resource Farmer or Rancher
+          </E>
+           means:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A person with direct or indirect gross farm sales not more than
+            $155,200 in each of the previous two years (adjusted for inflation
+            using Prices Paid by Farmer Index as compiled by National
+            Agricultural Statistical Service), and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Has a total household income at or below the national poverty level
+            for a family of four, or less than 50 percent of county median
+            household income in each of the previous two years (to be 
+            <PRTPAGE P='795' />
+            determined annually using Commerce Department Data).
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Liquidated damages
+          </E>
+           means a sum of money stipulated in the EQIP contract that the
+          participant agrees to pay NRCS if the participant fails to adequately
+          complete the terms of the contract. The sum represents an estimate of
+          the technical assistance expenses incurred to service the contract,
+          and reflects the difficulties of proof of loss and the inconvenience
+          or non-feasibility of otherwise obtaining an adequate remedy.
+        </P>
+        <P>
+          <E T='03'>
+            Livestock
+          </E>
+           means all animals produced on farms or ranches, as determined by the
+          Chief.
+        </P>
+        <P>
+          <E T='03'>
+            Livestock production
+          </E>
+           means farm or ranch operations involving the production, growing,
+          raising, or reproduction of livestock or livestock products.
+        </P>
+        <P>
+          <E T='03'>
+            Local Working Group
+          </E>
+           means the advisory body as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='610' tq='N'>
+              610 of this title
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            National measures
+          </E>
+           mean measurable criteria identified by the Chief, with the advice of
+          other Federal agencies and State Conservationists, to help EQIP
+          achieve the national priorities and statutory requirements.
+        </P>
+        <P>
+          <E T='03'>
+            National Organic Program
+          </E>
+           means the national program, administered by the Agricultural
+          Marketing Service, which regulates the standards for any farm, wild
+          crop harvesting, or handling operation that wants to sell an
+          agricultural product as organically produced.
+        </P>
+        <P>
+          <E T='03'>
+            National priorities
+          </E>
+           means resource issues identified by the Chief, with advice from other
+          Federal agencies and State Conservationists, which will be used to
+          determine the distribution of EQIP funds and guide local EQIP
+          implementation.
+        </P>
+        <P>
+          <E T='03'>
+            Natural Resources Conservation Service
+          </E>
+           is an agency of the USDA, which has responsibility for administering
+          EQIP using the funds, facilities, and authorities of the CCC.
+        </P>
+        <P>
+          <E T='03'>
+            Nonindustrial private forest land
+          </E>
+           means rural land, as determined by the Secretary, that has existing
+          tree cover or is suitable for growing trees; and is owned by any
+          nonindustrial private individual, group, association, corporation,
+          Indian Tribe, or other private legal entity that has definitive
+          decision-making authority over the land.
+        </P>
+        <P>
+          <E T='03'>
+            Operation and maintenance
+          </E>
+           means work performed by the participant to keep the applied
+          conservation practice functioning for the intended purpose during the
+          conservation practice lifespan. Operation includes the administration,
+          management, and performance of non-maintenance actions needed to keep
+          the completed practice functioning as intended. Maintenance includes
+          work to prevent deterioration of the practice, repairing damage, or
+          replacement of the practice to its original condition if one or more
+          components fail.
+        </P>
+        <P>
+          <E T='03'>
+            Operation and maintenance (O&amp;M) agreement
+          </E>
+           means the document that, in conjunction with the EQIP plan of
+          operations, specifies the operation and maintenance responsibilities
+          of the participant for conservation practices installed with EQIP
+          assistance.
+        </P>
+        <P>
+          <E T='03'>
+            Organic System Plan
+          </E>
+           means a management plan for organic production or for an organic
+          handling operation that has been agreed to by the producer or handler
+          and the certifying agent. The Organic System Plan includes all written
+          plans that govern all aspects of agricultural production or handling.
+        </P>
+        <P>
+          <E T='03'>
+            Participant
+          </E>
+           means a person, legal entity, joint operation, or tribe that is
+          receiving payment or is responsible for implementing the terms and
+          conditions of an EQIP contract.
+        </P>
+        <P>
+          <E T='03'>
+            Payment
+          </E>
+           means financial assistance provided to the participant based on the
+          estimated costs incurred in performing or implementing conservation
+          practices, including costs for: planning, design, materials,
+          equipment, installation, labor, maintenance, management, or training,
+          as well as the estimated income foregone by the producer for
+          designated conservation practices.
+        </P>
+        <P>
+          <E T='03'>
+            Person
+          </E>
+           means, as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , an individual, natural person, and does not include a legal entity.
+        </P>
+        <P>
+          <E T='03'>
+            Priority resource concern(s)
+          </E>
+           means a resource concern that is identified by the State
+          Conservationist, in consultation with the State Technical Committee,
+          as a priority for a State, geographic area, or watershed level.
+        </P>
+        <P>
+          <E T='03'>
+            Producer
+          </E>
+           means a person, legal entity, or joint operation who has an interest
+          in the agricultural operation, according to 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1400' tq='N'>
+              1400 of this chapter
+            </subref>
+          </aref>
+          , or 
+          <PRTPAGE P='796' />
+          who is engaged in agricultural production or forestry management.
+        </P>
+        <P>
+          <E T='03'>
+            Regional Assistant Chief
+          </E>
+           means the NRCS employee authorized to direct and supervise NRCS
+          activities in an NRCS region.
+        </P>
+        <P>
+          <E T='03'>
+            Resource Concern
+          </E>
+           means a specific natural resource problem that represents a
+          significant concern in a State or region, and is likely to be
+          addressed successfully through the implementation of the conservation
+          activities by producers.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of the USDA.
+        </P>
+        <P>
+          <E T='03'>
+            Socially disadvantaged farmer or rancher
+          </E>
+           means a farmer or rancher who has been subjected to racial or ethnic
+          prejudices because of their identity as a member of a group without
+          regard to their individual qualities.
+        </P>
+        <P>
+          <E T='03'>
+            State Conservationist
+          </E>
+           means the NRCS employee authorized to implement EQIP and direct and
+          supervise NRCS activities in a State, the Caribbean Area, or the
+          Pacific Island Area.
+        </P>
+        <P>
+          <E T='03'>
+            State Technical Committee
+          </E>
+           means a committee established by the Secretary in a State pursuant to
+          
+          <aref type='USC'>
+            <subref title='16' sect='3861' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3861.html'>
+              16 U.S.C. 3861
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Structural practice
+          </E>
+           means a conservation practice, including a vegetative practice, that
+          involves establishing, constructing, or installing a site-specific
+          measure to conserve and protect a resource from degradation, or
+          improve soil, water, air, or related natural resources in the most
+          cost-effective manner. Examples include, but are not limited to,
+          animal waste management facilities, terraces, grassed waterways,
+          tailwater pits, livestock water developments, contour grass strips,
+          filterstrips, critical area plantings, tree plantings, establishment
+          or improvement of wildlife habitat, and capping of abandoned wells.
+        </P>
+        <P>
+          <E T='03'>
+            Technical assistance
+          </E>
+           means technical expertise, information, and tools necessary for the
+          conservation of natural resources on land active in agricultural,
+          forestry, or related uses. The term includes the following:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Technical services provided directly to farmers, ranchers, and
+            other eligible entities, such as conservation planning, technical
+            consultation, and assistance with design and implementation of
+            conservation practices; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Technical infrastructure, including activities, processes, tools,
+            and agency functions needed to support delivery of technical
+            services, such as technical standards, resource inventories,
+            training, data, technology, monitoring, and effects analyses.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Technical Service Provider (TSP)
+          </E>
+           means an individual, private-sector entity, or public agency
+          certified by NRCS to provide technical services to program
+          participants, in lieu of or on behalf of NRCS.
+        </P>
+        <P>
+          <E T='03'>
+            Wildlife
+          </E>
+           means non-domesticated birds, fishes, reptiles, amphibians,
+          invertebrates, and mammals.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12941'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.4
+      </extid>
+      <num st='1'>
+        1466.4
+      </num>
+      <head>
+        National priorities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='4' psec='' tq='N'>
+              1466.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          National priorities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The following national priorities, consistent with statutory
+            resource concerns that include soil, water, wildlife, air quality,
+            and related resource concerns, will be used in EQIP implementation:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Reductions of nonpoint source pollution, such as nutrients,
+            sediment, pesticides, or excess salinity in impaired watersheds
+            consistent with total maximum daily loads (TMDLs) where available;
+            the reduction of surface and groundwater contamination; and the
+            reduction of contamination from agricultural point sources, such as
+            concentrated animal feeding operations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation of ground and surface water resources;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Reduction of emissions, such as particulate matter, nitrogen
+            oxides, volatile organic compounds, and ozone precursors and
+            depleters that contribute to air quality impairment violations of
+            National Ambient Air Quality Standards;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Reduction in soil erosion and sedimentation from unacceptable
+            levels on agricultural land; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Promotion of at-risk species habitat conservation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In consultation with other Federal agencies, NRCS will undertake
+            periodic reviews of the national priorities and the effects of
+            program delivery at the State and local level to adapt the program
+            to address emerging resource issues. NRCS will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Use the national priorities to guide the allocation of EQIP funds
+            to the NRCS State offices,
+            <PRTPAGE P='797' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Use the national priorities in conjunction with State and local
+            priorities to assist with prioritization and selection of EQIP
+            applications, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Periodically review and update the national priorities utilizing
+            input from the public and affected stakeholders to ensure that the
+            program continues to address priority resource concerns.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12942'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.5
+      </extid>
+      <num st='1'>
+        1466.5
+      </num>
+      <head>
+        National allocation and management.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='5' psec='' tq='N'>
+              1466.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          National allocation and management.
+        </SUBJECT>
+        <P>
+          The Chief allocates EQIP funds to the State Conservationists to
+          implement EQIP at the State and local level. In order to optimize the
+          overall environmental benefits over the program duration, the Chief
+          will:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Use an EQIP fund allocation formula that reflects national
+            priorities and that uses available natural resource and resource
+            concerns data to distribute funds to the State level. This procedure
+            will be updated periodically to reflect adjustments to national
+            priorities and information about resource concerns and program
+            performance. The data used in the allocation formula will be updated
+            as they become available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Provide a performance incentive to NRCS in States that demonstrate
+            a high level of program accomplishment in implementing EQIP. The
+            Chief shall consider factors such as strategically planning EQIP
+            implementation, effectively addressing national priorities and
+            measures, State and local resource concerns, the program delivery
+            effectiveness, the use of TSPs, and the number of contracts with
+            historically underserved producers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Establish State level EQIP performance goals based on national,
+            regional, and State priorities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Ensure that national, State and local level information regarding
+            program implementation such as resource priorities, eligible
+            practices, ranking processes, payment schedules, fund allocation,
+            and program achievements are made available to the public.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Consult with other Federal agencies with the appropriate expertise
+            and information when evaluating the considerations described in this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Authorize the State Conservationist, with advice from the State
+            Technical Committee and local working groups, to determine how funds
+            will be used and how the program will be administered to achieve
+            national priorities in each State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Utilize assessment, evaluation, and accountability procedures based
+            on actual natural resource and environmental outcomes and results.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12943'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.6
+      </extid>
+      <num st='1'>
+        1466.6
+      </num>
+      <head>
+        State allocation and management.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='6' psec='' tq='N'>
+              1466.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          State allocation and management.
+        </SUBJECT>
+        <P>
+          The State Conservationist will:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Identify State priority resource concerns, with the advice of the
+            State Technical Committee, which directly contribute toward meeting
+            national priorities and measures, and will use NRCS&apos;s
+            accountability system and other accountability tools to establish
+            local level goals and treatment objectives;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Identify, as appropriate and necessary, designated conservationists
+            who are NRCS employees that are assigned the responsibility to
+            administer EQIP in specific areas; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Use the following to determine how to manage EQIP and how to
+            allocate funds within a State:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The nature and extent of priority resource concerns at the State
+            and local level;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The availability of human resources, incentive programs,
+            educational programs, and on-farm research programs from public,
+            private, and Tribal sources, to assist with the activities related
+            to the priority resource concerns;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The existence of multi-county and/or multi-State collaborative
+            efforts to address regional priority resource concerns;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Program performance and results;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The degree of difficulty that producers face in complying with
+            environmental laws; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The presence of additional priority resource concerns and
+            specialized farming operations, including but not limited to,
+            specialty crop producers, organic producers, and small-scale farms.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12944'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.7
+      </extid>
+      <num st='1'>
+        1466.7
+      </num>
+      <head>
+        Outreach activities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='7' psec='' tq='N'>
+              1466.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Outreach activities.
+        </SUBJECT>
+        <P>
+          NRCS will establish program outreach activities at the national,
+          State, and local levels in order to ensure that 
+          <PRTPAGE P='798' />
+          producers whose land has environmental problems and priority resource
+          concerns are aware and informed that they may be eligible to apply for
+          program assistance. Special outreach will be made to eligible
+          producers with historically low participation rates, including but not
+          restricted to, limited resource, socially disadvantaged, small-scale,
+          or beginning farmers or ranchers, Indian Tribes, Alaska Natives, and
+          Pacific Islanders.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12945'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.8
+      </extid>
+      <num st='1'>
+        1466.8
+      </num>
+      <head>
+        Program requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 32348
+        </aref>
+        , May 30, 2003, as amended at 
+        <aref type='FREGIST'>
+          74 FR 25617
+        </aref>
+        , May 29, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='8' psec='' tq='N'>
+              1466.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Program participation is voluntary. The applicant must develop an
+            EQIP plan of operations for the agricultural or nonindustrial
+            private forest land to be treated that serves as the basis for the
+            EQIP contract. NRCS provides participants with technical assistance
+            and payments to plan and apply needed conservation practices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible to participate in EQIP, an applicant must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be in compliance with the highly erodible land and wetland
+            conservation provisions found at 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='12' tq='N'>
+                12 of this title
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Have an interest in the agricultural operation as defined in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this chapter
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Have control of the land for the term of the proposed contract
+            period;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief may determine that land administered by the Bureau of
+            Indian Affairs (BIA), Indian land, or other such circumstances
+            provides sufficient assurance of control,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is a tenant of the land involved in agricultural
+            production or forestry management, the applicant shall provide the
+            Chief with the written concurrence of the landowner in order to
+            apply a structural conservation practice,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Submit an EQIP plan of operations or plan developed for the
+            purposes of acquiring an air or water quality permit, provided these
+            plans contain elements equivalent to those elements required by an
+            EQIP plan of operations and are acceptable to the State
+            Conservationist as being consistent with the purposes of the
+            program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Supply information, as required by NRCS, to determine eligibility
+            for the program, including but not limited to, information to verify
+            the applicant&apos;s status as a limited resource, beginning farmer
+            or rancher, and payment eligibility as established by 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this chapter
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Provide a list of all members of the legal entity and embedded
+            entities along with members&apos; tax identification numbers and
+            percentage interest in the entity. Where applicable, American
+            Indians, Alaska Natives, and Pacific Islanders may use another
+            unique identification number for each individual eligible for
+            payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible land includes agricultural land and nonindustrial private
+            forest land, and other land on which agricultural products,
+            livestock, or forest-related products are produced and resource
+            concerns may be addressed. Other agricultural lands include cropped
+            woodland, marshes, incidental areas included in the agricultural
+            operation, and other types of agricultural land used for production
+            of livestock. However, land may be considered for enrollment in EQIP
+            only if NRCS determines that the land is:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Privately owned land;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Publicly owned land where:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The land is a working component of the participant&apos;s
+            agricultural and forestry operation, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The participant has control of the land for the term of the
+            contract, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation practices to be implemented on the public land are
+            necessary and will contribute to an improvement in the identified
+            resource concern; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Indian land.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Sixty percent of available EQIP financial assistance will be
+            targeted to conservation practices related to livestock production,
+            including practices on grazing lands and other lands directly
+            attributable to livestock production, as measured at the national
+            level.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will establish a national target to set aside five percent of
+            EQIP funds for socially disadvantaged farmers or ranchers and an
+            additional five percent of EQIP funds for beginning farmers or
+            ranchers.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 32348
+          </aref>
+          , May 30, 2003, as amended at 
+          <aref type='FREGIST'>
+            74 FR 25617
+          </aref>
+          , May 29, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12946'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:A:1466.9
+      </extid>
+      <num st='1'>
+        1466.9
+      </num>
+      <head>
+        EQIP plan of operations.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='799' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='9' psec='' tq='N'>
+              1466.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          EQIP plan of operations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All conservation practices in the EQIP plan of operations must be
+            approved by NRCS and developed and carried out in accordance with
+            the applicable NRCS technical guidance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The participant is responsible for implementing the EQIP plan of
+            operations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The EQIP plan of operations must include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the participant&apos;s specific conservation and
+            environmental objectives to be achieved;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             To the extent practicable, the quantitative or qualitative goals
+            for achieving the participant&apos;s conservation, natural resource,
+            and environmental objectives;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A description of one or more conservation practices in the
+            conservation management system, including conservation planning,
+            design, or installation activities, to be implemented to achieve the
+            conservation and environmental objectives;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the schedule for implementing the conservation
+            practices, including timing, sequence, operation, and maintenance;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Information that will enable evaluation of the effectiveness of the
+            plan in achieving the environmental objectives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If an EQIP plan of operations includes an animal waste storage or
+            treatment facility, the participant must agree to develop and
+            implement a CNMP or demonstrate to the satisfaction of the
+            designated conservationist that a CNMP has been implemented.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If an EQIP plan of operations addresses forestland, the participant
+            must develop and implement a forest management plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A participant may receive assistance to implement an EQIP plan of
+            operations for water conservation only if the assistance will
+            facilitate a reduction in ground and surface water use on the
+            agricultural operation, unless the producer is participating in a
+            watershed-wide project, as approved by the State Conservationist,
+            which will effectively conserve water in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='20' psec='' tq='N'>
+                1466.20
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12947'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.10
+      </extid>
+      <num st='1'>
+        1466.10
+      </num>
+      <head>
+        Conservation practices.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 2313
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='10' psec='' tq='N'>
+              1466.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation practices.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will determine the conservation practices for which
+            participants may receive program payments. A list of eligible
+            practices will be available to the public.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payments will not be made to a participant for a conservation
+            practice that either the applicant or another producer has applied
+            prior to application for the program. Payments will not be made for
+            a conservation practice that has been initiated or implemented prior
+            to contract approval, unless a waiver was granted by the State
+            Conservationist or designated conservationist prior to the practice
+            implementation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A participant will be eligible for payments for water conservation
+            and irrigation related conservation practices only on land that has
+            been irrigated for two of the last five years prior to application
+            for assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Where new technologies or management approaches that provide a high
+            potential for optimizing environmental benefits have been developed,
+            NRCS may approve interim conservation practice standards that
+            incorporate the new technologies and provide financial assistance
+            for pilot work to evaluate and assess the performance, efficiency,
+            and effectiveness of the new technology or management approach.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 2313
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12948'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.11
+      </extid>
+      <num st='1'>
+        1466.11
+      </num>
+      <head>
+        Technical services provided by qualified personnel not affiliated with
+        USDA.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 2313
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='11' psec='' tq='N'>
+              1466.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Technical services provided by qualified personnel not affiliated with
+          USDA.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may use the services of qualified TSPs in performing its
+            responsibilities for technical assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Participants may use technical services from qualified personnel of
+            other Federal, State, and local agencies, Indian Tribes, or
+            individuals who are certified as TSPs by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Technical services provided by qualified personnel not affiliated
+            with USDA may include, but are not limited 
+            <PRTPAGE P='800' />
+            to: conservation planning; conservation practice survey, layout,
+            design, installation, and certification; and information; education;
+            and training for producers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS retains approval authority of work done by non-NRCS personnel
+            for the purpose of approving EQIP payments.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 2313
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12949'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.20
+      </extid>
+      <num st='1'>
+        1466.20
+      </num>
+      <head>
+        Application for contracts and selecting applications.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 2313
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='20' psec='' tq='N'>
+              1466.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for contracts and selecting applications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In evaluating EQIP applications, the State Conservationist or
+            designated conservationist, with advice from the State Technical
+            Committee or local working group, takes into account the following
+            guidelines:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Any producer who has eligible land may submit an application for
+            participation in EQIP. Applications are accepted throughout the
+            year. Producers who are members of a joint operation may file a
+            single application for the joint operation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist, to the greatest extent practicable, will
+            group applications of similar crop, forestry, and livestock
+            operations for evaluation purposes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will evaluate applications within each
+            established grouping.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In selecting EQIP applications, the State Conservationist or
+            designated conservationist, with advice from the State Technical
+            Committee or local working group, may establish ranking pools to
+            address a specific resource concern, geographic area, or
+            agricultural operation type or develop a ranking process to
+            prioritize applications for funding that address national, State,
+            and local priority resource concerns, taking into account the
+            following guidelines:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist or designated conservationist will
+            periodically select the highest ranked applications for funding
+            based on applicant eligibility, fund availability, and the NRCS
+            ranking process. The State Conservationist or designated
+            conservationist will rank all applications according to the
+            following factors:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The degree of cost-effectiveness of the proposed conservation
+            practices;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The magnitude of the expected environmental benefits resulting from
+            the conservation treatment and the priority of the resource concerns
+            that have been identified at the local, State, and national levels;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             How effectively and comprehensively the project addresses the
+            designated resource concern or resource concerns;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Use of conservation practices that provide long-term environmental
+            enhancements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Compliance with Federal, State, Tribal, or local regulatory
+            requirements concerning soil, water and air quality; wildlife
+            habitat; and ground and surface water conservation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Willingness of the applicant to complete all conservation practices
+            in an expedited manner;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             The ability to improve existing conservation practices or systems,
+            which are in place at the time the application is accepted, or that
+            complete a conservation system;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             Other locally defined pertinent factors, such as the location of
+            the conservation practice, the extent of natural resource
+            degradation, and the degree of cooperation by local producers to
+            achieve environmental improvements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For applications that include water conservation or irrigation
+            efficiency practices, the State Conservationist will give priority
+            to those applications where:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Consistent with State law in which the producer&apos;s eligible
+            land is located, there is a reduction in water use in the
+            agricultural operation, or where the producer agrees not to use any
+            associated water savings to bring new land under irrigation
+            production, other than incidental land needed for efficient
+            operations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             A producer who brings new land under irrigated production may be
+            excluded from this latter condition if the producer is participating
+            in a watershed-wide project that will effectively conserve water.
+            The State Conservationist will designate eligible watershed-wide
+            projects that effectively conserve water, using the following
+            criteria:
+            <PRTPAGE P='801' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             The project area has a current, comprehensive water resource
+            assessment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             The project plan has demonstrated effective water conservation
+            management strategies; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='b_2_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             The project sponsors have consulted relevant State and local
+            agencies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the State Conservationist determines that the environmental
+            values of two or more applications for payments are comparable, the
+            State Conservationist will not assign a higher priority to the
+            application solely because it would present the least cost to the
+            program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The ranking will not give preferential treatment to applications
+            based on size of the operation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The ranking process will determine the order in which applications
+            will be selected for funding. The approving authority for EQIP
+            contracts will be the State Conservationist or designee, except that
+            the approving authority for any EQIP contract greater than $150,000
+            and up to $300,000 will be the appropriate NRCS Regional Assistant
+            Chief.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will make available to the public all
+            information regarding priority resource concerns, the list of
+            eligible practices, payment rates, and how the EQIP program is
+            implemented in the State.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 2313
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12950'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.21
+      </extid>
+      <num st='1'>
+        1466.21
+      </num>
+      <head>
+        Contract requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 2313
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='21' psec='' tq='N'>
+              1466.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In order for a participant to receive payments, the participant
+            must enter into a contract agreeing to implement one or more
+            conservation practices. Technical services may be included in the
+            contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An EQIP contract will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Identify all conservation practices to be implemented, the timing
+            of practice installation, the operation and maintenance requirements
+            for the practices, and applicable payments allocated to the
+            practices under the contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be for a minimum duration of one year after completion of the last
+            practice, but not more than 10 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Incorporate all provisions as required by law or statute, including
+            requirements that the participant will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Not implement any practices within the agricultural or forestry
+            operation that would defeat the program&apos;s purposes;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Refund any program payments received with interest, and forfeit any
+            future payments under the program, on the violation of a term or
+            condition of the contract, consistent with the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='26' psec='' tq='N'>
+                1466.26
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Refund all program payments received on the transfer of the right
+            and interest of the producer in land subject to the contract, unless
+            the transferee of the right and interest agrees to assume all
+            obligations, including operation and maintenance of the EQIP
+            contract&apos;s conservation practices, consistent with the
+            provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='25' psec='' tq='N'>
+                1466.25
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Implement a comprehensive nutrient management plan when the EQIP
+            contract includes an animal waste management facility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Implement a forest management plan when the EQIP plan of operations
+            addresses nonindustrial private forest land;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Supply information as may be required by NRCS to determine
+            compliance with the contract and program requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Specify the participant&apos;s responsibilities for operation and
+            maintenance of the applied conservation practices, consistent with
+            the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='22' psec='' tq='N'>
+                1466.22
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Specify any other provision determined necessary or appropriate by
+            NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The participant must start at least one financially assisted
+            practice within the first 12 months of signing a contract. If a
+            participant, for reasons beyond their control, is unable to start
+            conservation practice within the first year of the contract, the
+            participant can request a waiver from the State Conservationist.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Each contract will be limited to no more than $300,000. The Chief
+            may waive this contract limitation to allow up to $450,000 for
+            projects of special environmental significance that include methane
+            digesters, other innovative technologies, and projects that will
+            result in significant environmental improvements. Projects of
+            special environmental significance must meet the 
+            <PRTPAGE P='802' />
+            following criteria, as determined by the Chief:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Site-specific evaluation documents have been completed, documenting
+            that the project will have substantial positive impacts on critical
+            resources in or near the project area (e.g., impaired water bodies,
+            at-risk species, drinking water supplies, or air quality
+            attainment);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The project clearly addresses a national priority and State,
+            Tribal, or local priority resource concerns, as applicable; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The project assists the participant in complying with Federal,
+            State, and local regulatory requirements.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 2313
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12951'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.22
+      </extid>
+      <num st='1'>
+        1466.22
+      </num>
+      <head>
+        Conservation practice operation and maintenance.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 2313
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='22' psec='' tq='N'>
+              1466.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation practice operation and maintenance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The contract will incorporate the O&amp;M agreement that addresses
+            the operation and maintenance of conservation practices applied
+            under the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS expects the participant to operate and maintain each
+            conservation practice installed under the contract for its intended
+            purpose for the conservation practice lifespan as specified in the
+            O&amp;M agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation practices installed before the contract execution, but
+            included in the contract to obtain the environmental benefits agreed
+            upon, must be operated and maintained as specified in the contract
+            and O&amp;M agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may periodically inspect the conservation practice during the
+            contract duration as specified in the O&amp;M agreement to ensure
+            that operation and maintenance requirements are being carried out,
+            and that the conservation practice is fulfilling its intended
+            objectives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS finds during the contract that a participant is not
+            operating and maintaining practices in an appropriate manner, NRCS
+            may terminate and request a refund of payments made for that
+            conservation practice under the contract.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 2313
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12952'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.23
+      </extid>
+      <num st='1'>
+        1466.23
+      </num>
+      <head>
+        Payment rates.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 2313
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='23' psec='' tq='N'>
+              1466.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment rates.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist or designated conservationist will
+            develop a list of conservation practices, eligible for payment under
+            the program, which considers:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation practice cost-effectiveness, implementation
+            efficiency, and innovation,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The degree and effectiveness in treating priority resource
+            concerns,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The number of resource concerns the practice will address,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The longevity of the practice&apos;s environmental benefits,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation practice&apos;s ability to assist producers in
+            meeting regulatory requirements, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Other pertinent local considerations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payment rates will be established by the State Conservationist or
+            designated conservationist, with advice from the State Technical
+            Committee and local working groups.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Determining payment rates. (1) A payment to a producer for
+            performing a practice may not exceed, as determined by the State or
+            designated conservationist:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             75 percent of the estimated costs incurred by implementing the
+            conservation practice;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             100 percent of the estimated income foregone; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Both conditions in paragraphs (c)(1)(i) and (ii) of this section,
+            where a producer incurs costs in implementing a conservation
+            practice and foregoes income related to that practice
+            implementation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             When determining payments for income foregone, the State
+            Conservationist may give higher priority to the following
+            conservation practices:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='iv_6_i_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Residue management;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='iv_6_i_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Nutrient management;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='iv_6_i_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Air quality management;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='iv_6_i_D'>
+            <enum src='gpotxt' cln='1'>
+              (D)
+            </enum>
+          </npcatch>
+          <text>
+             Invasive species management;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='iv_6_i_E'>
+            <enum src='gpotxt' cln='1'>
+              (E)
+            </enum>
+          </npcatch>
+          <text>
+             Pollinator habitat development or improvement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='iv_6_i_F'>
+            <enum src='gpotxt' cln='1'>
+              (F)
+            </enum>
+          </npcatch>
+          <text>
+             Animal carcass management technology; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='iv_6_i_G'>
+            <enum src='gpotxt' cln='1'>
+              (G)
+            </enum>
+          </npcatch>
+          <text>
+             Pest management.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='iv_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding paragraph (c)(1)(ii) of this section, a farmer or
+            rancher meeting the historically underserved producer designation in
+            
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='3' psec='' tq='N'>
+                1466.3
+              </subref>
+            </aref>
+             may be awarded the applicable 
+            <PRTPAGE P='803' />
+            payment rate and an additional rate that is not less than 25 percent
+            above the applicable rate, provided this increase does not exceed 90
+            percent of the incurred costs estimated for the conservation
+            practice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='iv_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The payments to a participant will be reduced proportionately below
+            the rate established by the State Conservationist or designated
+            conservationist, to the extent that total financial contributions
+            for a conservation practice from other sources exceed 100 percent of
+            the estimated costs incurred for implementing or performing the
+            conservation practice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='iv_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist shall provide payments for conservation
+            practices on some or all of the operations of a producer related to
+            organic production and the transition to organic production.
+            Payments may not be made to cover the costs associated with organic
+            certification or for practices that are eligible for cost-share
+            payments under the National Organic Program (
+            <aref type='USC'>
+              <subref title='7' sect='6523' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6523.html'>
+                7 U.S.C. 6523
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Practice payment rates greater than 50 percent for estimated costs
+            incurred, excluding those described in paragraph (c)(2) of this
+            section, are to be approved by the Chief.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to fund availability, the payment rates for conservation
+            practices scheduled after the year of contract obligation may be
+            adjusted to reflect increased costs.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 2313
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12953'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.24
+      </extid>
+      <num st='1'>
+        1466.24
+      </num>
+      <head>
+        EQIP payments.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 32348
+        </aref>
+        , May 30, 2003, as amended at 
+        <aref type='FREGIST'>
+          74 FR 10675
+        </aref>
+        , Mar. 12, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='24' psec='' tq='N'>
+              1466.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          EQIP payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except for contracts entered into prior to October 1, 2008, or as
+            provided in paragraph (b) of this section, the total amount of
+            payments paid to a person or legal entity under this Part may not
+            exceed an aggregate of $300,000, directly or indirectly, for all
+            contracts, including prior year contracts, entered into during any
+            6-year period. For the purpose of applying this requirement, the
+            6-year period will include those payments made in fiscal years
+            2009-2014. Payments received for technical assistance shall be
+            excluded from this limitation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief may waive the $300,000 payment limitation, allowing up to
+            $450,000 per person or legal entity for projects of special
+            environmental significance, as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='21' psec='#d' tq='N'>
+                1466.21(d)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Payments for conservation practices related to organic production
+            to a person or legal entity, directly or indirectly, may not exceed
+            in aggregate $20,000 per year or $80,000 during any 6-year period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             To determine eligibility for payments, NRCS will use the following
+            criteria:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this chapter
+              </subref>
+            </aref>
+            , Payment Limitation and Payment Eligibility, subparts A and G.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             States, political subdivisions, and entities thereof will not be
+            considered to be persons or legal entities eligible for payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible to receive an EQIP payment, all legal entities or
+            persons applying, either alone or as part of a joint operation, must
+            provide a tax identification number and percentage interest in the
+            legal entity. In accordance with 
+            <aref type='CFR'>
+              7 CFR 1400
+            </aref>
+            , an applicant applying as a joint operation or legal entity must
+            provide a list of all members of the legal entity and joint
+            operation and associated embedded entities, along with the
+            members&apos; social security numbers and percentage interest in the
+            joint operation or legal entity. Where applicable, American Indians,
+            Alaska Natives, and Pacific Islanders may use another unique
+            identification number for each individual eligible for payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             With regard to contracts with Indian tribes or Indians represented
+            by BIA, payments exceeding the payment limitation may be made to the
+            Tribal participant if a BIA or Tribal official certifies in writing
+            that no one individual, directly or indirectly, will receive more
+            than the payment limitation. The Tribal entity must also provide,
+            annually, a listing of individuals and payments made, by social
+            security or tax identification number or other unique identification
+            number, during the previous year for calculation of overall payment
+            limitations. The BIA or Tribal entity must also produce, at the
+            request of NRCS, proof of payments made to the person or legal
+            entity that incurred costs or sacrificed income related to
+            conservation practice implementation.
+            <PRTPAGE P='804' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Any cooperative association of producers that markets commodities
+            for producers will not be considered to be a person eligible for
+            payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Eligibility for payments in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400
+              </subref>
+            </aref>
+            , subpart G of this chapter, average adjusted gross income
+            limitation, will be determined prior to contract approval.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for payments for conservation practices related to
+            organic production or the transition to organic production, a
+            participant will develop and implement an organic system plan as
+            defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='3' psec='' tq='N'>
+                1466.3
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Eligibility for higher payments in accordance with paragraph (b) of
+            this section will be determined at the time of contract approval.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Any participant that utilizes a unique identification number as an
+            alternative to a tax identification number will utilize only that
+            identifier for any and all other EQIP contracts to which the
+            participant is a party. Violators will be considered to have
+            provided fraudulent representation and be subject to full penalties
+            of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='35' psec='' tq='N'>
+                1466.35
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             A participant will not be eligible for payments for conservation
+            practices on eligible land if the participant receives payments or
+            other benefits for the same practice on the same land under any
+            other conservation program administered by USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist may issue advance payments to
+            historically underserved producers up to 30 percent of the
+            anticipated amount of the costs incurred for the purpose of
+            purchasing materials or services to implement a conservation
+            practice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Before NRCS will approve and issue final payment, the participant
+            must certify that the conservation practice has been completed in
+            accordance with the contract, and NRCS, or an approved TSP, must
+            certify that the practice has been carried out in accordance with
+            the applicable NRCS technical guidance.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 32348
+          </aref>
+          , May 30, 2003, as amended at 
+          <aref type='FREGIST'>
+            74 FR 10675
+          </aref>
+          , Mar. 12, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12954'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.25
+      </extid>
+      <num st='1'>
+        1466.25
+      </num>
+      <head>
+        Contract modifications and transfers of land.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 2313
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='25' psec='' tq='N'>
+              1466.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract modifications and transfers of land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The participant and NRCS may modify a contract if both parties
+            agree to the contract modification, the EQIP plan of operations is
+            revised in accordance with NRCS requirements, and the contract is
+            approved by the designated conservationist.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             It is the participant&apos;s responsibility to notify NRCS when
+            he/she either anticipates the voluntary or involuntary loss of
+            control of the land covered by an EQIP contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The participant and NRCS may agree to transfer a contract to
+            another party.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To receive an EQIP payment, the transferee must be determined by
+            NRCS to be eligible to participate in EQIP and must assume full
+            responsibility under the contract, including the O&amp;M agreement
+            for those conservation practices already installed and those
+            conservation practices to be installed as a condition of the
+            contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the transferee is ineligible or refuses to accept future
+            payments, NRCS will terminate the contract and may require the
+            transferor to refund and/or forfeit all payments received.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may require a participant to refund all or a portion of any
+            financial assistance earned under EQIP if the participant sells or
+            loses control of the land covered by an EQIP contract and the new
+            owner or controller is not eligible to participate in the program or
+            refuses to assume responsibility under the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             In the event a conservation practice fails through no fault of the
+            participant, the State Conservationist may issue payments to
+            re-establish the practice, at the rates established in accordance
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='23' psec='' tq='N'>
+                1466.23
+              </subref>
+            </aref>
+            , provided such payments do not exceed the payment limitation
+            requirements as set forth 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='24' psec='' tq='N'>
+                1466.24
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 2313
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12955'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.26
+      </extid>
+      <num st='1'>
+        1466.26
+      </num>
+      <head>
+        Contract violations and terminations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 2313
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='26' psec='' tq='N'>
+              1466.26
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract violations and terminations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist may terminate, or by mutual consent with
+            the parties, terminate the contract where:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The parties to the contract are unable to comply with the terms of
+            the contract as the result of conditions beyond their control;
+            <PRTPAGE P='805' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Termination of the contract would, as determined by the State
+            Conservationist, be in the public interest; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A participant fails to correct a contract violation within the time
+            period defined by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If a contract is terminated in accordance with the provisions of
+            paragraphs (a)(1) and (a)(2) of this section, the State
+            Conservationist may allow the participant to retain a portion of any
+            payments received appropriate to the effort the participant has made
+            to comply with the contract, or, in cases of hardship, where forces
+            beyond the participant&apos;s control prevented compliance with the
+            contract. If a participant claims hardship, such claims must be
+            clearly documented and cannot have existed when the applicant
+            applied for participation in the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS determines that a participant is in violation of the terms
+            of a contract, O&amp;M agreement, or documents incorporated by
+            reference into the contract, NRCS shall give the participant a
+            period of time, as determined by NRCS, to correct the violation and
+            comply with the terms of the contract and attachments thereto. If a
+            participant continues in violation, NRCS may terminate the EQIP
+            contract in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='26' psec='#e' tq='N'>
+                1466.26(e)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding the provisions of paragraph (c) of this section, a
+            contract termination shall be effective immediately upon a
+            determination by NRCS that the participant has submitted false
+            information or filed a false claim, or engaged in any act, scheme,
+            or device for which a finding of ineligibility for payments is
+            permitted under the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='35' psec='' tq='N'>
+                1466.35
+              </subref>
+            </aref>
+            , or in a case in which the actions of the party involved are deemed
+            to be sufficiently purposeful or negligent to warrant a termination
+            without delay.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS terminates a contract due to breach of contract, the
+            participant will forfeit all rights to future payments under the
+            contract, pay liquidated damages, and refund all or part of the
+            payments received, plus interest. Participants violating EQIP
+            contracts may be determined ineligible for future NRCS-administered
+            conservation program funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may require a participant to provide only a partial refund of
+            the payments received if a previously installed conservation
+            practice can function independently, is not adversely affected by
+            the violation or the absence of other conservation practices that
+            would have been installed under the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will have the option to reduce or waive
+            the liquidated damages, depending upon the circumstances of the
+            case.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             When terminating a contract, NRCS may reduce the amount of money
+            owed by the participant by a proportion that reflects the good faith
+            effort of the participant to comply with the contract or the
+            existence of hardships beyond the participant&apos;s control that
+            have prevented compliance with the contract. If a participant claims
+            hardship, that claim must be well documented and cannot have existed
+            when the applicant applied for participation in the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             In carrying out its role in this section, NRCS may consult with the
+            local conservation district.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist, in consultation with the State Technical
+            Committee, may terminate a contract whereby a producer is receiving
+            payments for conservation practices related to organic production,
+            if the designated conservationist determines that the producer is
+            not pursuing organic certification, or has been decertified.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 2313
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12956'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:B:1466.27
+      </extid>
+      <num st='1'>
+        1466.27
+      </num>
+      <head>
+        Conservation Innovation Grants (CIG).
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 16397
+        </aref>
+        , Mar. 29, 2004; 
+        <aref type='FREGIST'>
+          70 FR 1791
+        </aref>
+        , Jan. 11, 2005; 
+        <aref type='FREGIST'>
+          74 FR 2316
+        </aref>
+        , Jan. 15, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='27' psec='' tq='N'>
+              1466.27
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation Innovation Grants (CIG).
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <text>
+             In addition to the terms defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='3' psec='' tq='N'>
+                1466.3
+              </subref>
+               of this part
+            </aref>
+            , the following definitions shall be applicable to this section:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              EQIP eligible
+            </E>
+             means any farming entity, land, and practice that meets the
+            definitions of EQIP as defined in 
+            <aref type='CFR'>
+              7 CFR 1466
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Grant agreement
+            </E>
+             means a document describing a relationship between NRCS and a State
+            or local government, or other recipient whenever the principal
+            purpose of the relationship is the 
+            <PRTPAGE P='806' />
+            transfer of a thing of value to a recipient in order to accomplish a
+            public purpose of support or stimulation authorized by Federal law,
+            and substantial Federal involvement is not anticipated.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Grant Review Board
+            </E>
+             consists of the NRCS Deputy Chief for Programs, Deputy Chief for
+            Science and Technology, Deputy Chief for Soil Survey and Resource
+            Assessment, one Regional Assistant Chief, and one State
+            Conservationist. The Review Board makes recommendations for grant
+            awards to the Chief.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Peer Review Panel
+            </E>
+             means a panel consisting of Federal and non-Federal technical
+            advisors who possess expertise in a discipline or disciplines deemed
+            important to provide a technical evaluation of project proposals
+            submitted under this notice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Project
+            </E>
+             means the activities as defined within the scope of the grant
+            agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Project Director
+            </E>
+             means the individual responsible for the technical direction and
+            management of the project as designated in the application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Purpose and scope—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Purpose.
+            </head>
+          </npcatch>
+          <text>
+             The purpose of CIG is to stimulate the development and adoption of
+            innovative conservation approaches and technologies while leveraging
+            Federal investment in environmental enhancement and protection, in
+            conjunction with agricultural production. Notwithstanding any
+            limitation of this part, NRCS will administer CIG in accordance with
+            this section. Unless otherwise provided for in this section, the
+            provisions of 
+            <aref type='CFR'>
+              7 CFR 3015
+            </aref>
+             and related Departmental regulations will be used to administer
+            grants under CIG.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Geographic scope.
+            </head>
+          </npcatch>
+          <text>
+             Applications for CIG are accepted from the fifty States, the
+            District of Columbia, the Commonwealth of Puerto Rico, Guam, the
+            Virgin Islands of the United States, American Samoa, and the
+            Commonwealth of the Northern Mariana Islands.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Program scope.
+            </head>
+          </npcatch>
+          <text>
+             Grants will be awarded using a two-tiered process. A nationwide
+            grants competition will be announced in the 
+            <E T='04'>
+              Federal Register.
+            </E>
+             In addition, at the Chief&apos;s discretion, each State
+            Conservationist may implement a separate State-level component of
+            CIG.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Program focus.
+            </head>
+          </npcatch>
+          <text>
+             Applications for CIG should demonstrate the use of innovative
+            approaches and technologies to leverage Federal investment in
+            environmental enhancement and protection, in conjunction with
+            agricultural production. CIG will fund projects that promote
+            innovative on-the-ground conservation, including pilot projects and
+            field demonstrations of promising approaches or technologies. CIG
+            projects are expected to lead to the transfer of conservation
+            technologies, management systems, and innovative approaches (such as
+            market-based systems) into NRCS technical manuals and guides, or to
+            the private sector. Technologies and approaches eligible for funding
+            in a project&apos;s geographic area through EQIP are not eligible
+            for CIG funding except where the use of those technologies and
+            approaches demonstrates clear innovation. The burden falls on the
+            applicant to sufficiently describe the innovative features of the
+            proposed technology or approach.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Innovative conservation projects or activities.
+            </head>
+          </npcatch>
+          <text>
+             For the purposes of CIG, the proposed innovative project or
+            activity must encompass the development and field testing,
+            evaluation, and implementation of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation adoption incentive systems, including market-based
+            systems; or,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Promising conservation technologies, practices, systems,
+            procedures, and approaches.
+          </text>
+        </P>
+        <P>
+          To be given priority consideration, the innovative project or
+          activity:
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Will have been studied sufficiently to indicate a good probability
+            for success;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrates, tests, evaluates, or verifies environmental (soil,
+            water, air, plants, and animal) effectiveness, utility,
+            affordability, and usability in the field;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Adapts conservation technologies, practices, systems, procedures,
+            approaches, and incentive systems to improve performance, and
+            encourage adoption;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Introduces conservation systems, approaches, and procedures from
+            another geographic area or agricultural sector; and
+            <PRTPAGE P='807' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Adapts conservation technology, management, or incentive systems to
+            improve performance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Availability of funding.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             CIG funding will be available for single-or multi-year projects.
+            Funding for CIG will be announced in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             through a Request for Proposals (RFP). The Chief will determine the
+            funding level for CIG on an annual basis. Funds for CIG are derived
+            from funds made available for EQIP. The Chief may establish funding
+            limits for individual grants.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Selected applicants may receive grants of up to 50 percent of the
+            total project cost. Applicants must provide non-Federal funding for
+            at least 50 percent of the project cost, of which up to one-half (25
+            percent of total project cost) may be from in-kind contributions. An
+            exception regarding matching funds may be made for grants that are
+            awarded to either a Beginning or Limited Resource Farmer or Rancher,
+            or Indian Tribe, or a community-based organization comprised of or
+            representing these entities. Up to 75 percent of the required
+            matching funds for these projects may derive from in-kind
+            contributions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             CIG is designed to provide financial assistance to grantees.
+            Procurement of any technical assistance required to carry out a
+            project is the responsibility of the grantee. Technical oversight
+            for grant projects will be provided by a Federal grant
+            representative, who will be designated by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             There are some costs that grantees may not cover using CIG funds,
+            such as costs incurred prior to the effective date of the grant,
+            entertainment costs, any indirect cost exceeding fifteen percent, or
+            renovation or refurbishment of facilities. A detailed list of costs
+            not allowed will be published in the Request for Proposals.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Natural resource conservation concerns.
+            </head>
+          </npcatch>
+          <text>
+             CIG applications must describe the use of innovative approaches or
+            technologies to address a natural resource conservation concern or
+            concerns. The natural resource concerns for CIG will be identified
+            by the Chief, and may change each year. The natural resource
+            concerns will be published in the RFP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Eligibility information—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Organization or individual eligibility.
+            </head>
+          </npcatch>
+          <text>
+             To be eligible, CIG applicants must be an Indian Tribe; State or
+            local unit of government; non-governmental organization; or
+            individual.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Project eligibility.
+            </head>
+          </npcatch>
+          <text>
+             To be eligible, projects must involve landowners who meet the
+            eligibility requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='8' psec='#b_1' tq='N'>
+                1466.8(b)(1)
+              </subref>
+            </aref>
+             through (3) of this part. Further, all agricultural producers
+            receiving a direct or indirect payment through participation in a
+            CIG project must meet those eligibility requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Beginning and Limited Resource Farmers and Ranchers, and Indian
+              Tribes.
+            </head>
+          </npcatch>
+          <text>
+             Up to 10 percent of the total funds available for CIG may be
+            set-aside for applications from either a Beginning or Limited
+            Resource Farmer or Rancher, or Indian Tribe, or a community-based
+            organization comprised of or representing these entities. Funds not
+            awarded from the set-aside pool will revert back into the general
+            CIG funding pool.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Application and submission information.
+            </head>
+          </npcatch>
+          <text>
+             The CIG RFP will contain guidance on how to apply for the grants
+            competition. CIG will be advertised through the 
+            <E T='04'>
+              Federal Register,
+            </E>
+             the NRCS Web site, and 
+            <E T='03'>
+              grants.gov.
+            </E>
+             Grant applications will be available on the NRCS Web site, or by
+            contacting NRCS at the address provided in the RFP. CIG grant
+            applications will consist of standard cover sheet and budget forms,
+            in addition to a narrative project description and required legal
+            declarations and certifications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Application review and grant awards.
+            </head>
+          </npcatch>
+          <text>
+             Complete applications will be evaluated by a peer review panel and
+            scored based on the Criteria for Proposal Evaluation identified in
+            the RFP. Scored applications will be forwarded to a Grant Review
+            Board. The Grant Review Board will make recommendations for awards
+            to the Chief. Final award selections will be made by the Chief.
+            Grant awards will be made by the NRCS National Office after
+            selection of the grantees is made and after the grantee agrees to
+            the terms and conditions of the NRCS Grant document.
+            <PRTPAGE P='808' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              State component.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             At the discretion of the Chief, each State Conservationist has the
+            option of implementing a State-level CIG component. A State program
+            will follow the requirements of this section, except for those
+            features described in this paragraph (h).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Funding availability, application, and submission information for
+            State competitions will be announced through public notices (and on
+            the State NRCS Web site), separately from the national program. The
+            State component will emphasize projects that cover limited
+            geographic areas, including individual farms, multi-county areas, or
+            small watersheds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will determine the funding level for the
+            grants competition, with individual grants not to exceed $75,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist may choose to adhere to the CIG national
+            natural resource concerns, or may select a subset of those concerns
+            that more closely match the natural resource concerns in his or her
+            State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Applications will be scored by the State Technical Committee, or a
+            sub-committee thereof, based on the national Criteria for Proposal
+            Evaluation published in the CIG RFP. Scored applications will be
+            forwarded to the State Conservationist, who will make the award
+            selections.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             In addition to abiding by the in-kind contribution exception for
+            Limited Resource and Beginning Farmers and Ranchers, and Indian
+            Tribes in paragraph (c)(2) of this section, the State
+            Conservationist in each participating State will determine if and
+            how to provide additional special consideration to underserved
+            groups.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Grant agreement.
+            </head>
+          </npcatch>
+          <text>
+             The CCC, through NRCS, will use a grant agreement with selected
+            grantees to document participation in CIG.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Patents and inventions.
+            </head>
+          </npcatch>
+          <text>
+             Allocation of rights to patents and inventions shall be in
+            accordance with USDA regulation 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3019' sect='36' psec='' tq='N'>
+                3019.36
+              </subref>
+            </aref>
+            . This regulation provides that small businesses normally may retain
+            the principal worldwide patent rights to any invention developed
+            with USDA support. In accordance with 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3019' sect='2' psec='' tq='N'>
+                3019.2
+              </subref>
+            </aref>
+            , this provision will also apply to commercial organizations for the
+            purposes of CIG. USDA receives a royalty-free license for Federal
+            Government use, reserves the right to require the patentee to
+            license others in certain circumstances, and requires that anyone
+            exclusively licensed to sell the invention in the United States must
+            normally manufacture it domestically.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Violations.
+            </head>
+          </npcatch>
+          <text>
+             A person found in violation of this section is subject to the
+            provisions contained in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+             and related Departmental regulations.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 16397
+          </aref>
+          , Mar. 29, 2004; 
+          <aref type='FREGIST'>
+            70 FR 1791
+          </aref>
+          , Jan. 11, 2005; 
+          <aref type='FREGIST'>
+            74 FR 2316
+          </aref>
+          , Jan. 15, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12957'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:C:1466.30
+      </extid>
+      <num st='1'>
+        1466.30
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='30' psec='' tq='N'>
+              1466.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          A participant may obtain administrative review of an adverse decision
+          under EQIP in accordance with 
+          <aref type='CFR-TIC-PART'>
+            parts 
+            <subref title='7' part='11' tq='N'>
+              11
+            </subref>
+             and 
+            <subref title='7' part='614' tq='N'>
+              614 of this title
+            </subref>
+          </aref>
+          . Determination in matters of general applicability, such as payment
+          rates, payment limits, the designation of identified priority resource
+          concerns, and eligible conservation practices are not subject to
+          appeal.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12958'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:C:1466.31
+      </extid>
+      <num st='1'>
+        1466.31
+      </num>
+      <head>
+        Compliance with regulatory measures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='31' psec='' tq='N'>
+              1466.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance with regulatory measures.
+        </SUBJECT>
+        <P>
+          Participants who carry out conservation practices shall be responsible
+          for obtaining the authorities, rights, easements, permits, or other
+          approvals necessary for the implementation, operation, and maintenance
+          of the conservation practices in keeping with applicable laws and
+          regulations. Participants shall be responsible for compliance with all
+          laws and for all effects or actions resulting from the
+          participant&apos;s performance under the contract.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12959'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:C:1466.32
+      </extid>
+      <num st='1'>
+        1466.32
+      </num>
+      <head>
+        Access to operating unit.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='32' psec='' tq='N'>
+              1466.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to operating unit.
+        </SUBJECT>
+        <P>
+          Any authorized NRCS representative shall have the right to enter an
+          agricultural operation or tract for the purposes of determining
+          eligibility and for ascertaining the accuracy of any representations
+          related to contract performance. Access shall include the right to
+          provide technical assistance, determine eligibility, inspect any work 
+          <PRTPAGE P='809' />
+          undertaken under the contract, and collect information necessary to
+          evaluate the conservation practice performance, specified in the
+          contract. The NRCS representative shall make an effort to contact the
+          participant prior to the exercising this provision.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12960'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:C:1466.33
+      </extid>
+      <num st='1'>
+        1466.33
+      </num>
+      <head>
+        Equitable relief.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='33' psec='' tq='N'>
+              1466.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Equitable relief.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If a participant relied upon the advice or action of any authorized
+            NRCS representative and did not know, or have reason to know, that
+            the action or advice was improper or erroneous, NRCS may accept the
+            advice or action as meeting program requirements and may grant
+            relief, to the extent it is deemed desirable by NRCS, to provide a
+            fair and equitable treatment because of the good-faith reliance on
+            the part of the participant. The financial or technical liability
+            for any action by a participant that was taken based on the advice
+            of a NRCS certified non-USDA TSP is the responsibility of the
+            certified TSP and will not be assumed by NRCS when NRCS authorizes
+            payment. Where a participant believes that detrimental reliance on
+            the advice or action of a NRCS representative resulted in an
+            ineligibility or program violation, but the participant believes
+            that a good faith effort to comply was made, the participant may
+            request equitable relief under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='635' sect='3' psec='' tq='N'>
+                635.3
+              </subref>
+            </aref>
+             in chapter VI of this title.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If, during the term of an EQIP contract, a participant has been
+            found in violation of a provision of the EQIP contract, the O&amp;M
+            agreement, or any document incorporated by reference through failure
+            to fully comply with that provision, the participant may be eligible
+            for equitable relief under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='635' sect='4' psec='' tq='N'>
+                635.4
+              </subref>
+            </aref>
+             in chapter VI of this title.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12961'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:C:1466.34
+      </extid>
+      <num st='1'>
+        1466.34
+      </num>
+      <head>
+        Offsets and assignments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='34' psec='' tq='N'>
+              1466.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Offsets and assignments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (b) of this section, any payment or
+            portion thereof to any person, joint venture, legal entity or tribe
+            shall be made without regard to questions of title under State law
+            and without regard to any claim or lien against the crop, or
+            proceeds thereof, in favor of the owner or any other creditor except
+            agencies of the U.S. Government. The regulations governing offsets
+            and withholdings found at 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+             shall be applicable to contract payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             EQIP participants may assign any payments in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1404' tq='N'>
+                1404 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12962'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:C:1466.35
+      </extid>
+      <num st='1'>
+        1466.35
+      </num>
+      <head>
+        Misrepresentation and scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='35' psec='' tq='N'>
+              1466.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentation and scheme or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A person, joint venture, legal entity or tribe that is determined
+            to have erroneously represented any fact affecting a program
+            determination made in accordance with this Part shall not be
+            entitled to contract payments and must refund to NRCS all payments,
+            plus interest determined in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A producer who is determined to have knowingly:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device that tends to defeat the purpose of
+            the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Made any fraudulent representation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device for the purpose of depriving any
+            tenant or sharecropper of the payments to which such person would
+            otherwise be entitled under the program; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Misrepresented any fact affecting a program determination, shall
+            refund to NRCS all payments, plus interest determined in accordance
+            with 
+            <aref type='CFR'>
+              7 CFR 1403
+            </aref>
+            , received by such producer with respect to all contracts. The
+            producer&apos;s interest in all contracts shall be terminated.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='26' psec='#e' tq='N'>
+                1466.26(e)
+              </subref>
+            </aref>
+            , NRCS may determine the producer ineligible for future conservation
+            programs funding.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12963'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1466:C:1466.36
+      </extid>
+      <num st='1'>
+        1466.36
+      </num>
+      <head>
+        Environmental credits for conservation improvements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1466' sect='36' psec='' tq='N'>
+              1466.36
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Environmental credits for conservation improvements.
+        </SUBJECT>
+        <P>
+          NRCS recognizes that environmental benefits will be achieved by
+          implementing conservation practices funded through EQIP, and
+          environmental credits may be gained as a result of implementing
+          activities compatible with the purposes of an EQIP contract. NRCS
+          asserts no direct or indirect interest on these credits. However, NRCS
+          retains the authority to ensure that operation and maintenance
+          (O&amp;M) requirements for EQIP-funded improvements are met,
+          consistent with 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1466' sect='21' psec='' tq='N'>
+              1466.21
+            </subref>
+             and 
+            <subref title='7' part='1466' sect='22' psec='' tq='N'>
+              1466.22
+            </subref>
+          </aref>
+          . Where activities may impact 
+          <PRTPAGE P='810' />
+          the land under an EQIP contract, participants are highly encouraged to
+          request an O&amp;M compatibility determination from NRCS prior to
+          entering into any credit agreements.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

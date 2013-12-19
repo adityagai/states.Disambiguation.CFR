@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:D:630
+    </extid>
+    <num>
+      630
+    </num>
+    <head>
+      LONG TERM CONTRACTING
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          Pub. L. 75-430, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=74_statutes_at_large&amp;position=all&amp;page=1151'>
+            49 Stat. 1151
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='16' sect='590d' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/590d.html'>
+              16 U.S.C. 590d
+            </subref>
+          </aref>
+          ); Pub. L. 84-1021, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=84_statutes2_at_large&amp;position=all&amp;page=1115'>
+            70 Stat. 1115
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='16' sect='590p' note='' psec='#b' tq='N' target='http://www.law.cornell.edu/uscode/16/590p.html#b'>
+              16 U.S.C. 590p(b)
+            </subref>
+          </aref>
+          ; Pub. L. 91-118, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=91_statutes_at_large&amp;position=all&amp;page=194'>
+            83 Stat. 194
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='16' sect='590d' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/590d.html'>
+              16 U.S.C. 590d
+            </subref>
+          </aref>
+          ).
+        </P>
+      </AUTH>
+    </text>
+    <section orderid='6277'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:630:-:630.1
+      </extid>
+      <num st='1'>
+        630.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          40 FR 53370
+        </aref>
+        , Nov. 18, 1975]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='630' sect='1' psec='' tq='N'>
+              630.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          The purpose of this subchapter is to provide for programs to extend
+          cost sharing and technical assistance through long term contracts to
+          landowners and others for making land use changes and to install
+          measures to conserve, develop, and utilize the soil, water, and
+          related natural resources on their lands.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            40 FR 53370
+          </aref>
+          , Nov. 18, 1975]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

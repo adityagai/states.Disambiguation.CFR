@@ -1,0 +1,2827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1465
+    </extid>
+    <num>
+      1465
+    </num>
+    <head>
+      AGRICULTURAL MANAGEMENT ASSISTANCE
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1524' note='' psec='#b' tq='N' target='http://www.law.cornell.edu/uscode/7/1524.html#b'>
+              7 U.S.C. 1524(b)
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            74 FR 64595
+          </aref>
+          , Dec. 8, 2009, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12917'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:A:1465.1
+      </extid>
+      <num st='1'>
+        1465.1
+      </num>
+      <head>
+        Purposes and applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='1' psec='' tq='N'>
+              1465.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purposes and applicability.
+        </SUBJECT>
+        <P>
+          Through the Agricultural Management Assistance program (AMA), the
+          Natural Resources Conservation Service (NRCS) provides financial
+          assistance funds annually to producers in 16 statutorily designated
+          States to: Construct or improve water management structures or
+          irrigation structures; plant trees to form windbreaks or to improve
+          water quality; and mitigate risk through production diversification or
+          resource conservation practices including soil erosion control,
+          integrated pest management, or the transition to organic farming. AMA
+          is applicable in Connecticut, Delaware, Hawaii, Maine, Maryland,
+          Massachusetts, Nevada, New Hampshire, New Jersey, New York,
+          Pennsylvania, Rhode Island, Utah, Vermont, West Virginia, and Wyoming.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12918'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:A:1465.2
+      </extid>
+      <num st='1'>
+        1465.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='2' psec='' tq='N'>
+              1465.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Administration and implementation of AMA&apos;s conservation
+            provisions for the Commodity Credit Corporation (CCC) is assigned to
+            NRCS, using the funds, facilities, and authorities of the CCC.
+            Accordingly, where NRCS is mentioned in this part, it also refers to
+            the CCC&apos;s funds, facilities, and authorities, where applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Provide overall management and implementation leadership for AMA;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Establish policies, procedures, priorities, and guidance for
+            implementation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Establish payment limits;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Determine eligible practices;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Develop and approve AMA plans of operation and contracts with
+            selected participants;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Provide technical leadership for implementation, quality assurance,
+            and evaluation of performance;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Make AMA allocation and contract funding decisions; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Issue payments for completed conservation practices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             No delegation in this part to lower organizational levels will
+            preclude the Chief of NRCS from determining any issues arising under
+            this part or from reversing or modifying any determination made
+            under this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12919'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:A:1465.3
+      </extid>
+      <num st='1'>
+        1465.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='3' psec='' tq='N'>
+              1465.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this part and all documents used in
+          accordance with this part, unless specified otherwise:
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural land
+          </E>
+           means cropland, grassland, rangeland, pasture, and other agricultural
+          land on which agricultural or forest-related products or livestock are
+          produced. Other agricultural lands may include cropped woodland,
+          marshes, incidental areas included in the agricultural operation, and
+          other types of agricultural land used for production of livestock.
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural operation
+          </E>
+           means a parcel or parcels of land whether contiguous or
+          noncontiguous, which the producer is listed as the operator or
+          owner/operator in the Farm Service Agency (FSA) record system, which
+          is under the effective control of the producer at the 
+          <PRTPAGE P='783' />
+          time the producer applies for a contract, and which is operated by the
+          producer with equipment, labor, management and production, forestry,
+          or cultivation practices that are substantially separate from other
+          operations.
+        </P>
+        <P>
+          <E T='03'>
+            AMA plan of operations (APO)
+          </E>
+           means the document that identifies the location and timing of
+          conservation practices that the participant agrees to implement on
+          eligible land in order to address the resource concerns and program
+          purposes. The APO is part of the AMA contract.
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means a person, legal entity, joint operation, or Indian Tribe that
+          has an interest in an agricultural operation, as defined in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1400' tq='N'>
+              1400
+            </subref>
+          </aref>
+          , who has requested in writing to participate in AMA.
+        </P>
+        <P>
+          <E T='03'>
+            Beginning farmer or rancher
+          </E>
+           means a person or legal entity who:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Has not operated a farm or ranch, or who has operated a farm or
+            ranch for not more than 10 consecutive years. This requirement
+            applies to all members of an entity who will materially and
+            substantially participate in the operation of the farm or ranch.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a contract with an individual, individually, or with
+            the immediate family, material and substantial participation
+            requires that the individual provide substantial day-to-day labor
+            and management of the farm or ranch consistent with the practices in
+            the county or State where the farm or ranch is located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a contract with an entity or joint operation, all
+            members must materially and substantially participate in the
+            operation of the farm or ranch. Material and substantial
+            participation requires that each of the members provide some amount
+            of the management, or labor and management necessary for day-to-day
+            activities, such that if each of the members did not provide these
+            inputs, operation of the farm or ranch would be seriously impaired.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Chief
+          </E>
+           means the Chief of NRCS, United States Department of Agriculture
+          (USDA), or designee.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation district
+          </E>
+           means any district or unit of State, Tribal, or local government
+          formed under State, Tribal, or territorial law for the express purpose
+          of developing and carrying out a local soil and water conservation
+          program. Such district or unit of government may be referred to as a
+          “conservation district,” “soil conservation district,” “soil and water
+          conservation district,” “resource conservation district,” “natural
+          resource district,” “land conservation committee,” or similar name.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation practice
+          </E>
+           means one or more conservation improvements and activities, including
+          structural practices, land management practices, vegetative practices,
+          forest management, and other improvements that achieve program
+          purposes.
+        </P>
+        <P>
+          <E T='03'>
+            Contract
+          </E>
+           means a legal document that specifies the rights and obligations of
+          any participant accepted into the program. An AMA contract is an
+          agreement for the transfer of assistance from USDA to the participant
+          to share in the costs of applying conservation practices.
+        </P>
+        <P>
+          <E T='03'>
+            Designated conservationist
+          </E>
+           means an NRCS employee whom the State Conservationist has designated
+          as responsible for AMA administration in a specific area.
+        </P>
+        <P>
+          <E T='03'>
+            Historically underserved producer
+          </E>
+           means an eligible person, joint operation, or legal entity who is a
+          beginning farmer or rancher, socially disadvantaged farmer or rancher,
+          limited resource farmer or rancher, or nonindustrial private forest
+          landowner who meets the beginning, socially disadvantaged, or limited
+          resource qualifications set forth in this section.
+        </P>
+        <P>
+          <E T='03'>
+            Indian Tribe
+          </E>
+           means any Indian Tribe, band, nation, or other organized group or
+          community, including any Alaska Native village, or regional or village
+          corporation as defined in or established pursuant to the Alaska Native
+          Claims Settlement Act (
+          <aref type='USC'>
+            <subref title='43' sect='1601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601.html'>
+              43 U.S.C. 1601
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ) that is eligible for the special programs and services provided by
+          the United States to Indians because of their status as Indians.
+        </P>
+        <P>
+          <E T='03'>
+            Indian land
+          </E>
+           is an inclusive term describing all lands held in trust by the United
+          States for individual Indians or Tribes, or all lands, titles to which
+          are held by individual Indians or Tribes, subject to Federal
+          restrictions against alienation or encumbrance, or all lands which are
+          subject to the rights of use, occupancy, and benefit of certain 
+          <PRTPAGE P='784' />
+          Tribes. For purposes of this part, the term Indian land also includes
+          land for which the title is held in fee status by Indian Tribes and
+          the United States Government-owned land under the Bureau of Indian
+          Affairs (BIA) jurisdiction.
+        </P>
+        <P>
+          <E T='03'>
+            Joint operation
+          </E>
+           means, as defined in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1400' tq='N'>
+              1400
+            </subref>
+          </aref>
+          , a general partnership, joint venture, or other similar business
+          arrangement in which the members are jointly and severally liable for
+          the obligations of the organization.
+        </P>
+        <P>
+          <E T='03'>
+            Legal entity
+          </E>
+           means, as defined in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1400' tq='N'>
+              1400
+            </subref>
+          </aref>
+          , an entity created under Federal or State law that: (1) Owns land or
+          an agricultural commodity, product, or livestock; or (2) produces an
+          agricultural commodity, product, or livestock.
+        </P>
+        <P>
+          <E T='03'>
+            Lifespan
+          </E>
+           means the period of time in which a conservation practice should be
+          operated and maintained and used for the intended purpose.
+        </P>
+        <P>
+          <E T='03'>
+            Limited resource farmer or rancher
+          </E>
+           means:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A person with direct or indirect gross farm sales of not more than
+            $155,200 in each of the previous 2 years (adjusted for inflation
+            using the Prices Paid by Farmer Index as compiled by the National
+            Agricultural Statistics Service), and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Has a total household income at or below the national poverty level
+            for a family of four, or less than 50 percent of county median
+            household income in each of the previous 2 years (to be determined
+            annually using Commerce Department data).
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Liquidated damages
+          </E>
+           means a sum of money stipulated in the AMA contract that the
+          participant agrees to pay NRCS if the participant fails to adequately
+          complete the terms of the contract. The sum represents an estimate of
+          the technical assistance expenses incurred to service the contract and
+          reflects the difficulties of proof of loss and the inconvenience or
+          non-feasibility of otherwise obtaining an adequate remedy.
+        </P>
+        <P>
+          <E T='03'>
+            Livestock
+          </E>
+           means all animals produced on farms and ranches, as determined by the
+          Chief.
+        </P>
+        <P>
+          <E T='03'>
+            Natural Resources Conservation Service
+          </E>
+           is an agency of USDA which has responsibility for administering AMA
+          using the funds, facilities, and authorities of the CCC.
+        </P>
+        <P>
+          <E T='03'>
+            Nonindustrial private forest land
+          </E>
+           means rural land that has existing tree cover or is suitable for
+          growing trees and is owned by any nonindustrial private individual,
+          group, association, corporation, Indian Tribe, or other private legal
+          entity that has definitive decision-making authority over the land.
+        </P>
+        <P>
+          <E T='03'>
+            Operation and maintenance
+          </E>
+           means work performed by the participant to keep the applied
+          conservation practice functioning for the intended purpose during the
+          conservation practice lifespan. Operation includes the administration,
+          management, and performance of non-maintenance actions needed to keep
+          the completed practice safe and functioning as intended. Maintenance
+          includes work to prevent deterioration of the practice, repairing
+          damage, or replacement of the practice to its original condition if
+          one or more components fail.
+        </P>
+        <P>
+          <E T='03'>
+            Operation and maintenance (O&amp;M) agreement
+          </E>
+           means the document that, in conjunction with the APO, specifies the
+          operation and maintenance responsibilities of the participants for
+          conservation practices installed with AMA assistance.
+        </P>
+        <P>
+          <E T='03'>
+            Participant
+          </E>
+           means a person, legal entity, joint operation, or Indian Tribe that
+          is receiving payment or is responsible for implementing the terms and
+          conditions of an AMA contract.
+        </P>
+        <P>
+          <E T='03'>
+            Payment
+          </E>
+           means the financial assistance provided to the participant based on
+          the estimated costs incurred in performing or implementing
+          conservation practices, including costs for planning, design,
+          materials, equipment, installation, labor, maintenance, management, or
+          training, as well as the estimated income foregone by the producer for
+          the designated conservation practices.
+        </P>
+        <P>
+          <E T='03'>
+            Person
+          </E>
+           means, as defined in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1400' tq='N'>
+              1400
+            </subref>
+          </aref>
+          , an individual, natural person and does not include a legal entity.
+        </P>
+        <P>
+          <E T='03'>
+            Producer
+          </E>
+           means a person, legal entity, joint operation, or Indian Tribe that
+          has an interest in the agricultural operation, according to 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1400' tq='N'>
+              1400
+            </subref>
+          </aref>
+          , or who is engaged in agricultural production or forestry management.
+        </P>
+        <P>
+          <E T='03'>
+            Resource concern
+          </E>
+           means a specific natural resource problem that represents a
+          significant concern in a State 
+          <PRTPAGE P='785' />
+          or region and is likely to be addressed successfully through the
+          implementation of the conservation practices by participants.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of USDA.
+        </P>
+        <P>
+          <E T='03'>
+            Socially disadvantaged farmer or rancher
+          </E>
+           means a farmer or rancher who has been subjected to racial or ethnic
+          prejudices because of their identity as a member of a group without
+          regard to their individual qualities.
+        </P>
+        <P>
+          <E T='03'>
+            State Conservationist
+          </E>
+           means the NRCS employee authorized to direct and supervise NRCS
+          activities in a State, Caribbean Area, or Pacific Islands Area.
+        </P>
+        <P>
+          <E T='03'>
+            Structural practice
+          </E>
+           means a conservation practice, including a vegetative practice, that
+          involves establishing, constructing, or installing a site-specific
+          measure to conserve and protect a resource from degradation, or
+          improve soil, water, air, or related natural resources in the most
+          cost-effective manner. Examples include, but are not limited to,
+          animal waste management facilities, terraces, grassed waterways,
+          tailwater pits, livestock water developments, contour grass strips,
+          filterstrips, critical area plantings, tree plantings, establishment
+          or improvement of wildlife habitat, and capping of abandoned wells.
+        </P>
+        <P>
+          <E T='03'>
+            Technical assistance
+          </E>
+           means technical expertise, information, and tools necessary for the
+          conservation of natural resources on land active in agricultural,
+          forestry, or related uses. The term includes the following:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Technical services provided directly to farmers, ranchers, and
+            other eligible entities, such as conservation planning, technical
+            consultation, and assistance with design and implementation of
+            conservation practices; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Technical infrastructure, including activities, processes, tools,
+            and agency functions needed to support delivery of technical
+            services, such as technical standards, resource inventories,
+            training, data, technology, monitoring, and effects analyses.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Technical Service Provider
+          </E>
+           (TSP) means an individual, private-sector entity, or public agency
+          certified by NRCS to provide technical services to program
+          participants or in lieu of, or on behalf of NRCS.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12920'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:A:1465.4
+      </extid>
+      <num st='1'>
+        1465.4
+      </num>
+      <head>
+        National priorities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='4' psec='' tq='N'>
+              1465.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          National priorities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief, with advice from State Conservationists, will identify
+            national priorities to achieve the conservation objectives of AMA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             National priorities will be used to guide annual funding
+            allocations to States. (c) State Conservationists will use national
+            priorities in conjunction with State and local priorities to
+            prioritize and select AMA applications for funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will undertake periodic reviews of the national priorities and
+            the effects of program delivery at the State and local levels to
+            adapt the program to address emerging resource issues.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12921'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:A:1465.5
+      </extid>
+      <num st='1'>
+        1465.5
+      </num>
+      <head>
+        Program requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          74 FR 64595
+        </aref>
+        , Dec. 8, 2009, as amended at 
+        <aref type='FREGIST'>
+          76 FR 19684
+        </aref>
+        , Apr. 8, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='5' psec='' tq='N'>
+              1465.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Participation in AMA is voluntary. The participant, in cooperation
+            with the local conservation district, applies for practice
+            installation for the agricultural operation. NRCS provides payments
+            through contracts to apply needed conservation practices within a
+            time schedule specified in the APO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief determines the funds available for financial assistance
+            according to the purpose and projected cost for which the financial
+            assistance is provided in a fiscal year. The Chief allocates the
+            funds available to carry out AMA in consideration of national
+            priorities established under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='4' psec='' tq='N'>
+                1465.4
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible to participate in AMA, an applicant must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Own or operate an agricultural operation within an applicable
+            State, as listed in 1465.1;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Provide NRCS with written evidence of ownership or legal control
+            for the life of the proposed contract, including the O&amp;M
+            agreement. An exception may be made by the Chief:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of land allotted by the BIA, Tribal land, or other
+            instances in which the Chief determines that there is sufficient
+            assurance of control; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is a tenant of the land involved in agricultural
+            production, the applicant will provide NRCS with the written
+            concurrence of the landowner in order to apply a structural
+            practice(s);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Submit an application form NRCS-CPA-1200;
+            <PRTPAGE P='786' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to provide all information to NRCS determined to be necessary
+            to assess the merits of a proposed project and to monitor contract
+            compliance;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Provide a list of all members of the legal entity and embedded
+            entities along with members&apos; tax identification numbers and
+            percentage interest in the entity. Where applicable, American
+            Indians, Alaska Natives, and Pacific Islanders may use another
+            unique identification number for each individual eligible for
+            payment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             With regard to contracts with Indian Tribes or Indians represented
+            by the BIA, payments if a BIA or Tribal official certify in writing
+            that no one individual, directly or indirectly, will receive more
+            than the payment limitation. The Tribal entity must also provide,
+            annually, a listing of individuals and payments made by social
+            security or tax identification number or other unique identification
+            number, during the previous year for calculation of overall payment
+            limitations. The BIA or Tribal entity must also provide, at the
+            request of NRCS, proof of payments made to the person or legal
+            entity that incurred costs or sacrificed income related to
+            conservation practice implementation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Supply other information, as required by NRCS, to determine payment
+            eligibility as established by 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1400' tq='N'>
+                1400
+              </subref>
+            </aref>
+            , Adjusted Gross Income;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             With regard to any participant that utilizes a unique
+            identification number as an alternative to a tax identification
+            number, the participant will utilize only that identifier for any
+            and all other AMA contracts to which the participant is a party.
+            Violators will be considered to have provided fraudulent
+            representation and be subject to full penalties of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='25' psec='' tq='N'>
+                1465.25
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             States, political subdivisions, and entities thereof will not be
+            persons eligible for payment. Any cooperative association of
+            producers that markets commodities for producers will not be
+            considered to be a person eligible for payment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Be in compliance with the terms of all other USDA-administered
+            conservation program agreements to which the participant is a party;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Develop and agree to comply with an APO and O&amp;M agreement, as
+            described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='3' psec='' tq='N'>
+                1465.3
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with applicable registration and reporting requirements of
+            the Federal Funding Accountability and Transparency Act of 2006 (
+            <aref target='_blank' title='Pub. L. 109-282' alt='Pub. L. 109-282' href='http://www.gpo.gov/fdsys/pkg/PLAW-109publ282/html/PLAW-109publ282.htm'>
+              Pub. L. 109-282
+            </aref>
+            , as amended), and 
+            <aref type='CFR'>
+              2 CFR parts 
+              <subref title='2' part='25' tq='N'>
+                25
+              </subref>
+               and 
+              <subref title='2' part='170' tq='N'>
+                170
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Land may only be considered for enrollment in AMA if NRCS
+            determines that the land is:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Privately owned land;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Publicly owned land where:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The land is a working component of the participant&apos;s
+            agricultural and forestry operation; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The participant has control of the land for the term of the
+            contract; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation practices to be implemented on the public land are
+            necessary and will contribute to an improvement in the identified
+            resource concern; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The land is Indian land.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            74 FR 64595
+          </aref>
+          , Dec. 8, 2009, as amended at 
+          <aref type='FREGIST'>
+            76 FR 19684
+          </aref>
+          , Apr. 8, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12922'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:A:1465.6
+      </extid>
+      <num st='1'>
+        1465.6
+      </num>
+      <head>
+        AMA plan of operations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='6' psec='' tq='N'>
+              1465.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          AMA plan of operations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All conservation practices in the APO must be approved by NRCS and
+            developed and carried out in accordance with the applicable NRCS
+            technical guidance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The participant is responsible for implementing the APO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The APO must include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the participant&apos;s specific conservation and
+            environmental objectives to be achieved;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             To the extent practicable, the quantitative or qualitative goals
+            for achieving the participant&apos;s conservation and environmental
+            objectives;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A description of one or more conservation practices in the
+            conservation system, including conservation planning, design, or
+            installation activities to be implemented to achieve the
+            conservation and environmental objectives;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the schedule for implementing the conservation
+            practices, including timing, sequence, operation, and maintenance;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Information that will enable evaluation of the effectiveness of the
+            plan in achieving the environmental objectives.
+            <PRTPAGE P='787' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             An APO may be modified in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='24' psec='' tq='N'>
+                1465.24
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12923'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:A:1465.7
+      </extid>
+      <num st='1'>
+        1465.7
+      </num>
+      <head>
+        Conservation practices.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='7' psec='' tq='N'>
+              1465.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation practices.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will determine the conservation practices
+            eligible for AMA payments. To be considered eligible conservation
+            practices, the practices must meet the purposes of the AMA as set
+            out in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='1' psec='' tq='N'>
+                1465.1
+              </subref>
+            </aref>
+            . A list of eligible practices will be available to the public.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The APO includes the schedule of operations, activities, and
+            payment rates of the practices needed to solve identified natural
+            resource concerns.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12924'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:A:1465.8
+      </extid>
+      <num st='1'>
+        1465.8
+      </num>
+      <head>
+        Technical services provided by qualified personnel not affiliated with
+        USDA.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='8' psec='' tq='N'>
+              1465.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Technical services provided by qualified personnel not affiliated with
+          USDA.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may use the services of qualified TSPs in performing its
+            responsibilities for technical assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Participants may use technical services from qualified personnel of
+            other Federal, State, local agencies, Indian Tribes, or individuals
+            who are certified as TSPs by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Technical services provided by qualified personnel not affiliated
+            with USDA may include, but are not limited to: conservation
+            planning; conservation practice survey, layout, design,
+            installation, and certification; and information, education, and
+            training for producers, and related technical services as defined in
+            
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='652' tq='N'>
+                652
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS retains approval authority of work done by non-NRCS personnel
+            for the purpose of approving AMA payments.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12925'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:B:1465.20
+      </extid>
+      <num st='1'>
+        1465.20
+      </num>
+      <head>
+        Applications for participation and selecting applications for
+        contracting.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='20' psec='' tq='N'>
+              1465.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applications for participation and selecting applications for
+          contracting.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any producer who has eligible land may submit an application for
+            participation in AMA at a USDA service center. Producers who are
+            members of a joint operation will file a single application for the
+            joint operation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will accept applications throughout the year. The State
+            Conservationist will distribute information on the availability of
+            assistance, national priorities, and the State-specific goals.
+            Information will be provided that explains the process to request
+            assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will develop ranking criteria and a
+            ranking process to select applications, taking into account
+            national, State, Tribal, and local priorities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist, or designated conservationist, using a
+            locally-led process will evaluate, rank, and select applications for
+            contracting based on the State-developed ranking criteria and
+            ranking process.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist, or designated conservationist, will work
+            with the applicant to collect the information necessary to evaluate
+            the application using the ranking criteria.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12926'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:B:1465.21
+      </extid>
+      <num st='1'>
+        1465.21
+      </num>
+      <head>
+        Contract requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='21' psec='' tq='N'>
+              1465.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In order for a participant to receive payments, the participant
+            will enter into a contract agreeing to implement one or more
+            eligible conservation practices. Costs for technical services may be
+            included in the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An AMA contract will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Encompass all portions of an agricultural operation receiving AMA
+            assistance;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Have a minimum duration of one year after completion of the last
+            practice, but not more than 10 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Incorporate all provisions required by law or statute, including
+            participant requirements to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Not conduct any practices on the agricultural operation that would
+            tend to defeat the purposes of the contract according to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='25' psec='' tq='N'>
+                1465.25
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Refund any AMA payments received with interest, and forfeit any
+            future payments under AMA, on the violation of a term or condition
+            of the contract, consistent with the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='25' psec='' tq='N'>
+                1465.25
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Refund all AMA payments received on the transfer of the right and
+            interest of the producer in land subject to the contract, unless the
+            transferee of the right and interest agrees to assume all
+            obligations, including operation and maintenance of the AMA
+            contract&apos;s conservation practices, consistent with the
+            provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='24' psec='' tq='N'>
+                1465.24
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Supply information as required by NRCS to determine compliance with
+            the contract and requirements of AMA.
+            <PRTPAGE P='788' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Specify the participant&apos;s requirements for operation and
+            maintenance of the applied conservation practices consistent with
+            the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='22' psec='' tq='N'>
+                1465.22
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Specify any other provision determined necessary or appropriate by
+            NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The participant must apply the practice(s) according to the
+            schedule set out in the APO.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12927'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:B:1465.22
+      </extid>
+      <num st='1'>
+        1465.22
+      </num>
+      <head>
+        Conservation practice operation and maintenance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='22' psec='' tq='N'>
+              1465.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation practice operation and maintenance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The contract will incorporate the O&amp;M agreement that addresses
+            the operation and maintenance of the conservation practices applied
+            under the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS expects the participant to operate and maintain each
+            conservation practice installed under the contract for its intended
+            purpose for the conservation practice lifespan as specified in the
+            O&amp;M agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may periodically inspect the conservation practice(s) during
+            the contract duration to ensure that operation and maintenance
+            requirements are being carried out, and that the conservation
+            practice is fulfilling its intended objectives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation practices installed before the contract execution, but
+            included in the contract to obtain the environmental benefits agreed
+            upon, must be operated and maintained as specified in the contract
+            and O&amp;M agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS finds during the contract that a participant is not
+            operating and maintaining practices in an appropriate manner, NRCS
+            may terminate and request a refund of payments made for that
+            conservation practice under the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             In the event a conservation practice fails through no fault of the
+            participant, the State Conservationist may issue payments to
+            re-establish the conservation practice, at the rates established in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='23' psec='' tq='N'>
+                1465.23
+              </subref>
+            </aref>
+            , provided such payments do not exceed the payment limitation
+            requirements as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='23' psec='' tq='N'>
+                1465.23
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12928'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:B:1465.23
+      </extid>
+      <num st='1'>
+        1465.23
+      </num>
+      <head>
+        Payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='23' psec='' tq='N'>
+              1465.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Federal share of payments to a participant will be:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Up to 75 percent of the estimated incurred cost or 100 percent of
+            the estimated income foregone of an eligible practice, except as
+            provided in (a)(2) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of historically underserved producers, the payment rate
+            will be the applicable rate and an additional rate that is not less
+            than 25 percent above the applicable rate, provided that this
+            increase does not exceed 90 percent of the estimated incurred costs
+            or estimated income foregone.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In no instance will the total financial contributions for an
+            eligible practice from other sources exceed 100 percent of the
+            estimated incurred cost of the practice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Participants may contribute their portion of the estimated costs of
+            practices through in-kind contributions, including labor and
+            materials, providing the materials contributed meet the NRCS
+            standard and specifications for the practice being installed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Payments for practices applied prior to application or contract
+            approval—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Payments will not be made to a participant for a conservation
+            practice that was applied prior to application for the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Payments will not be made to a participant for a conservation
+            practice that was initiated or implemented prior to contract
+            approval, unless the participant obtained a waiver from the State
+            Conservationist, or designated conservationist, prior to practice
+            implementation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The total amount of payments paid to a person or legal entity under
+            this part may not exceed $50,000 for any fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes of applying the payment limitations provided for in
+            this section, NRCS will use the provisions in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1400' tq='N'>
+                1400
+              </subref>
+            </aref>
+            , Payment Limitation and Payment Eligibility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A participant will not be eligible for payments for conservation
+            practices on eligible land if the participant receives payments or
+            other benefits for the same practice on the same land under any
+            other conservation program administered by USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The participant and NRCS must certify that a conservation practice
+            is 
+            <PRTPAGE P='789' />
+            completed in accordance with the contract before NRCS will approve
+            any payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to fund availability, the payment rates for conservation
+            practices scheduled after the year of contract obligation may be
+            adjusted to reflect increased costs.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12929'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:B:1465.24
+      </extid>
+      <num st='1'>
+        1465.24
+      </num>
+      <head>
+        Contract modifications, extensions, and transfers of land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='24' psec='' tq='N'>
+              1465.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract modifications, extensions, and transfers of land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The participant and NRCS may modify a contract if both parties
+            agree to the contract modification, the APO is revised in accordance
+            with NRCS requirements, and the designated conservationist approves
+            the modified contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             It is the participant&apos;s responsibility to notify NRCS when he
+            or she either anticipates the voluntary or involuntary loss of
+            control of the land.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The participant and NRCS may mutually agree to transfer a contract
+            to another party.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To receive an AMA payment, the transferee must be determined by
+            NRCS to be eligible to participate in AMA and will assume full
+            responsibility under the contract, including the O&amp;M agreement
+            for those conservation practices already installed and those
+            conservation practices to be installed as a condition of the
+            contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to any and all payment owed to participants who wish
+            to transfer ownership or control of land subject to a contract, the
+            division of payment will be determined by the original party and the
+            party&apos;s successor. In the event of a dispute or claim on the
+            distribution of payments, NRCS may withhold payments without the
+            accrual of interest pending a settlement or adjudication on the
+            rights to the funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may require a participant to refund all or a portion of any
+            assistance earned under AMA if the participant sells or loses
+            control of the land under an AMA contract, and the successor in
+            interest is not eligible or refuses to accept future payments to
+            participate in the AMA or refuses to assume responsibility under the
+            contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The contract participants will be jointly and severally responsible
+            for refunding the payments with applicable interest pursuant to
+            paragraph (d) of this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12930'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:B:1465.25
+      </extid>
+      <num st='1'>
+        1465.25
+      </num>
+      <head>
+        Contract violations and termination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='25' psec='' tq='N'>
+              1465.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract violations and termination.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS determines that a participant is in violation of the terms
+            of a contract, O&amp;M agreement, or other documents incorporated
+            into the contract, NRCS will give the participant notice and 60
+            days, unless otherwise determined by the State Conservationist, to
+            correct the violation and comply with the terms of the contract and
+            attachments thereto. If a participant continues in violation, the
+            State Conservationist may terminate the AMA contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding the provisions of (a) of this section, a contract
+            termination will be effective immediately upon a determination by
+            the State Conservationist that the participant has submitted false
+            information or filed a false claim, or engaged in any act, scheme,
+            or device for which a finding of ineligibility for payments is
+            permitted under the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='35' psec='' tq='N'>
+                1465.35
+              </subref>
+            </aref>
+            , or in a case in which the actions of the party involved are deemed
+            to be sufficiently purposeful or negligent to warrant a termination
+            without delay.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS terminates a contract, the participant will forfeit all
+            rights to future payments under the contract and refund all or part
+            of the payments received, plus interest. Participants violating AMA
+            contracts may be determined ineligible for future NRCS-administered
+            conservation program funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist may require only a partial refund of the
+            payments received if the State Conservationist determines that a
+            previously installed conservation practice can function
+            independently and is not affected by the violation or the absence of
+            other conservation practices that would have been installed under
+            the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS terminates a contract due to breach of contract, or the
+            participant voluntarily terminates the contract before any
+            contractual payments have been made, the participant will forfeit
+            all rights for further payments under the contract and will pay such
+            liquidated damages as prescribed 
+            <PRTPAGE P='790' />
+            in the contract. The State Conservationist will have the option to
+            waive the liquidated damages depending upon the circumstances of the
+            case.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             When making all contract termination decisions, NRCS may reduce the
+            amount of money owed by the participant by a proportion that
+            reflects the good faith effort of the participant to comply with the
+            contract or the existence of hardships beyond the participant&apos;s
+            control that have prevented compliance with the contract. If the
+            participant claims hardship, that claim must be well documented and
+            cannot have existed when the applicant applied for participation in
+            the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The participant may voluntarily terminate a contract if NRCS agrees
+            based on NRCS&apos; determination that termination is in the public
+            interest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             In carrying out NRCS&apos; role in this section, NRCS may consult
+            with the local conservation district.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12931'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:C:1465.30
+      </extid>
+      <num st='1'>
+        1465.30
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='30' psec='' tq='N'>
+              1465.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A participant may obtain administrative review of an adverse
+            decision under AMA in accordance with 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+               and 
+              <subref title='7' part='614' tq='N'>
+                614
+              </subref>
+            </aref>
+            , except as provided in paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The following decisions are not appealable:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Payment rates, payment limits;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Funding allocations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible conservation practices; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Other matters of general applicability, including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Technical standards and formulas;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Denial of assistance due to lack of funds or authority; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Science-based formulas and criteria.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12932'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:C:1465.31
+      </extid>
+      <num st='1'>
+        1465.31
+      </num>
+      <head>
+        Compliance with regulatory measures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='31' psec='' tq='N'>
+              1465.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance with regulatory measures.
+        </SUBJECT>
+        <P>
+          Participants who carry out conservation practices will be responsible
+          for obtaining the authorities, rights, easements, permits, or other
+          approvals necessary for the implementation, operation, and maintenance
+          of the conservation practices in keeping with applicable laws and
+          regulations. Participants will be responsible for compliance with all
+          laws and for all effects or actions resulting from the
+          participant&apos;s performance under the contract.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12933'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:C:1465.32
+      </extid>
+      <num st='1'>
+        1465.32
+      </num>
+      <head>
+        Access to operating unit.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='32' psec='' tq='N'>
+              1465.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to operating unit.
+        </SUBJECT>
+        <P>
+          Any authorized NRCS representative will have the right to enter an
+          operating unit or tract for the purpose of determining eligibility and
+          for ascertaining the accuracy of any representations related to
+          contracts and performance. Access will include the right to provide
+          technical assistance; determine eligibility; inspect any work
+          undertaken under the contracts, including the APO and O&amp;M
+          agreement; and collect information necessary to evaluate the
+          conservation practice performance as specified in the contracts. The
+          NRCS representative will make an effort to contact the participant
+          prior to exercising this provision.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12934'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:C:1465.33
+      </extid>
+      <num st='1'>
+        1465.33
+      </num>
+      <head>
+        Equitable relief.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='33' psec='' tq='N'>
+              1465.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Equitable relief.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If a participant relied upon the advice or action of any authorized
+            NRCS representative and did not know, or have reason to know, that
+            the action or advice was improper or erroneous, the participant may
+            be eligible for equitable relief under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='635' tq='N'>
+                635
+              </subref>
+            </aref>
+            , 
+            <aref type='CFR-TIC-SECT'>
+              section 
+              <subref title='7' part='635' sect='3' psec='' tq='N'>
+                635.3
+              </subref>
+            </aref>
+            . The financial or technical liability for any action by a
+            participant that was taken based on the advice of an NRCS certified
+            TSP is the responsibility of the certified TSP and will not be
+            assumed by NRCS when NRCS authorizes payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If a participant has been found in violation of a provision of the
+            AMA contract or any document incorporated by reference through
+            failure to comply fully with that provision, the participant may be
+            eligible for equitable relief under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='635' tq='N'>
+                635
+              </subref>
+            </aref>
+            , 
+            <aref type='CFR-TIC-SECT'>
+              section 
+              <subref title='7' part='635' sect='4' psec='' tq='N'>
+                635.4
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12935'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:C:1465.34
+      </extid>
+      <num st='1'>
+        1465.34
+      </num>
+      <head>
+        Offsets and assignments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='34' psec='' tq='N'>
+              1465.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Offsets and assignments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (b) of this section, any payment or
+            portion thereof to any participant will be made without regard to
+            questions of Title under State law and without regard to any claim
+            or lien against the crop, or proceeds thereof, in favor of the owner
+            or any other creditor except agencies of the United States
+            Government. The regulations governing offsets and withholdings found
+            at 7 CFR 
+            <PRTPAGE P='791' />
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403
+              </subref>
+            </aref>
+             will be applicable to contract payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             AMA participants may assign any payments in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1404' tq='N'>
+                1404
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12936'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:C:1465.35
+      </extid>
+      <num st='1'>
+        1465.35
+      </num>
+      <head>
+        Misrepresentation and scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='35' psec='' tq='N'>
+              1465.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentation and scheme or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A participant who is determined to have erroneously represented any
+            fact affecting an AMA determination made in accordance with this
+            part will not be entitled to contract payments and must refund to
+            NRCS all payments plus interest, as determined in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1403' tq='N'>
+                1403
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A participant will refund to NRCS all payments, plus interest, as
+            determined by NRCS with respect to all NRCS contracts to which they
+            are a party if they are determined to have knowingly:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device that tends to defeat the purpose of
+            AMA;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Made any fraudulent representation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device for the purpose of depriving any
+            tenant or sharecropper of the payments to which such person would
+            otherwise be entitled under the program; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Misrepresented any fact affecting an AMA determination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Where paragraph (a) or (b) of this section applies, the
+            participant&apos;s interest in all contracts will be terminated. In
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1465' sect='25' psec='#c' tq='N'>
+                1465.25(c)
+              </subref>
+            </aref>
+            , NRCS may determine the producer ineligible for future funding from
+            any NRCS conservation programs.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12937'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1465:C:1465.36
+      </extid>
+      <num st='1'>
+        1465.36
+      </num>
+      <head>
+        Environmental services credits for conservation improvements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='36' psec='' tq='N'>
+              1465.36
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Environmental services credits for conservation improvements.
+        </SUBJECT>
+        <P>
+          NRCS recognizes that environmental benefits will be achieved by
+          implementing conservation practices funded through AMA, and that
+          environmental credits may be gained as a result of implementing
+          activities compatible with the purposes of an AMA contract. NRCS
+          asserts no direct or indirect interest on these credits. However, NRCS
+          retains the authority to ensure that operation and maintenance
+          requirements for AMA-funded improvements are met, consistent with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='21' psec='' tq='N'>
+              1465.21
+            </subref>
+          </aref>
+           and 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='22' psec='' tq='N'>
+              1465.22
+            </subref>
+          </aref>
+          . Where activities may impact the land under an AMA contract,
+          participants are highly encouraged to request an operation and
+          maintenance compatibility determination prior to entering into any
+          credit agreements. The AMA conservation program contract may be
+          modified in accordance with policies outlined in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1465' sect='24' psec='' tq='N'>
+              1465.24
+            </subref>
+          </aref>
+           provided the modifications meet AMA purposes and are in compliance
+          with this part.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,2132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol7'>
+    <extid>
+      lii:cfr:2013:7:0:B:VII:D:785
+    </extid>
+    <num>
+      785
+    </num>
+    <head>
+      CERTIFIED STATE MEDIATION PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='1989' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1989.html'>
+              7 U.S.C. 1989
+            </subref>
+          </aref>
+          ; and 
+          <aref type='USC'>
+            <subref title='7' sect='5101-510' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/5101-510.html'>
+              7 U.S.C. 5101-510
+            </subref>
+          </aref>
+          4.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            67 FR 57315
+          </aref>
+          , Sept. 10, 2002, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='7255'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.1
+      </extid>
+      <num st='1'>
+        785.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='1' psec='' tq='N'>
+              785.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             States meeting conditions specified in this part may have their
+            mediation programs certified by the Farm Service Agency (FSA) and
+            receive Federal grant funds for the operation and administration of
+            agricultural mediation programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             USDA agencies participate in mediations pursuant to agency rules
+            governing their informal appeals processes. Where mediation of an
+            agency decision by a certified State mediation program is available
+            to participants in an agency program as part of the agency&apos;s
+            informal appeal process, the agency will offer a participant
+            receiving notice of an agency decision the opportunity to mediate
+            the decision under the State&apos;s certified mediation program, in
+            accordance with the agency&apos;s informal appeals regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             USDA agencies making mediation available as part of the agency
+            informal appeals process may execute memoranda of understanding with
+            a certified mediation program concerning procedures and policies for
+            mediations during agency informal appeals that are not inconsistent
+            with this part or other applicable regulations. Each such memorandum
+            of understanding will be deemed part of the grant agreement
+            governing the operation and administration of a State certified
+            mediation program receiving Federal grant funds under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A mediator in a program certified under this part has no authority
+            to make decisions that are binding on parties to a dispute.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             No person may be compelled to participate in mediation provided
+            through a mediation program certified under this part. This
+            provision shall not affect a State law requiring mediation before
+            foreclosure on agricultural land or property.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7256'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.2
+      </extid>
+      <num st='1'>
+        785.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='2' psec='' tq='N'>
+              785.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the Administrator, FSA, or authorized designee.
+        </P>
+        <P>
+          <E T='03'>
+            Certified State mediation program
+          </E>
+           means a program providing mediation services that has been certified
+          in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='3' psec='' tq='N'>
+              785.3
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Confidential mediation
+          </E>
+           means a mediation process in which the mediator will not disclose to
+          any person oral or written communications provided to the mediator in
+          confidence, except as allowed by 
+          <aref type='USC'>
+            <subref title='5' sect='574' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/574.html'>
+              5 U.S.C. 574
+            </subref>
+          </aref>
+           or 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='9' psec='' tq='N'>
+              785.9
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Covered persons
+          </E>
+           means producers, their creditors (as applicable), and other persons
+          directly affected by actions of the USDA involving one or more of the
+          following issues:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Wetlands determinations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Compliance with farm programs, including conservation programs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Agricultural loans (regardless of whether the loans are made or
+            guaranteed by the USDA or are made by a third party);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Rural water loan programs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Grazing on National Forest System lands;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Pesticides; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Such other issues as the Secretary may consider appropriate.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Fiscal year
+          </E>
+           means the period of time beginning October 1 of one year and ending
+          September 30 of the next year and designated by the year in which it
+          ends.
+        </P>
+        <P>
+          <E T='03'>
+            FSA
+          </E>
+           means the Farm Service Agency of the U.S. Department of Agriculture,
+          or a successor agency.
+        </P>
+        <P>
+          <E T='03'>
+            Mediation services
+          </E>
+           means all activities relating to the intake and scheduling of
+          mediations; the provision of background and selected information
+          regarding the mediation process; financial advisory and counseling
+          services (as reasonable and necessary to prepare parties for
+          mediation) performed by a person other than a State mediation program
+          mediator; and mediation sessions in which a mediator assists disputing
+          parties in voluntarily reaching mutually agreeable settlement of
+          issues within the laws, regulations, and the agency&apos;s generally
+          applicable program policies and procedures, but has no authoritative
+          decision making power.
+        </P>
+        <P>
+          <E T='03'>
+            Mediator
+          </E>
+           means a neutral individual who functions specifically to aid the 
+          <PRTPAGE P='369' />
+          parties in a dispute during a mediation process.
+        </P>
+        <P>
+          <E T='03'>
+            Qualified mediator
+          </E>
+           means a mediator who meets the training requirements established by
+          State law in the State in which mediation services will be provided
+          or, where a State has no law prescribing mediator qualifications, an
+          individual who has attended a minimum of 40 hours of core mediator
+          knowledge and skills training and, to remain in a qualified mediator
+          status, completes a minimum of 20 hours of additional training or
+          education during each 2-year period. Such training or education must
+          be approved by the USDA, by an accredited college or university, or by
+          one of the following organizations: State Bar of a qualifying State, a
+          State mediation association, a State approved mediation program, or a
+          society of professionals in dispute resolution.
+        </P>
+        <P>
+          <E T='03'>
+            Qualifying State
+          </E>
+           means a State with a State mediation program currently certified by
+          FSA.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7257'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.3
+      </extid>
+      <num st='1'>
+        785.3
+      </num>
+      <head>
+        Annual certification of State mediation programs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='3' psec='' tq='N'>
+              785.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Annual certification of State mediation programs.
+        </SUBJECT>
+        <P>
+          To obtain FSA certification of the State&apos;s mediation program, the
+          State must meet the requirements of this section.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              New request for certification.
+            </head>
+          </npcatch>
+          <text>
+             A new request for certification of a State mediation program must
+            include descriptive and supporting information regarding the
+            mediation program and a certification that the mediation program
+            meets certain requirements as prescribed in this subsection. If a
+            State is also qualifying its mediation program to request a grant of
+            Federal funds under the certified State mediation program, the State
+            must submit with its request for certification additional
+            information in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='4' psec='' tq='N'>
+                785.4
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Description of mediation program.
+            </head>
+          </npcatch>
+          <text>
+             The State must submit a narrative describing the following with
+            supporting documentation:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A summary of the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             An identification of issues available for mediation under the
+            program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Management of the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Mediation services offered by the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Program staffing and staffing levels;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Uses of contract mediation services in the program describing both
+            services provided by contractors and costs of such services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             State statutes and regulations in effect that are applicable to the
+            State&apos;s mediation program; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the State program&apos;s education and training
+            requirements for mediators including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_1_viii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Training in mediation skills and in USDA programs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_1_viii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Identification and compliance with any State law requirements; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_1_viii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Other steps by the State&apos;s program to recruit and deploy
+            qualified mediators.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ix'>
+            <enum src='gpotxt' cln='1'>
+              (ix)
+            </enum>
+          </npcatch>
+          <text>
+             Any other information requested by FSA;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Certification.
+            </head>
+          </npcatch>
+          <text>
+             The Governor, or head of a State agency designated by the Governor,
+            must certify in writing to the Administrator that the State&apos;s
+            mediation program meets the following program requirements:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             That the State&apos;s mediation program provides mediation services
+            to covered persons with the aim of reaching mutually agreeable
+            decisions between the parties under the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             That the State&apos;s mediation program is authorized or
+            administered by an agency of the State government or by the Governor
+            of the State;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             That the State&apos;s mediation program provides for training of
+            mediators in mediation skills and in all issues covered by the
+            State&apos;s mediation program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             That the State&apos;s mediation program shall provide confidential
+            mediation as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='2' psec='' tq='N'>
+                785.2
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             That the State&apos;s mediation program ensures, in the case of
+            agricultural loans, that all lenders and borrowers of agricultural
+            loans receive adequate notification of the mediation program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             That the State&apos;s mediation program ensures, in the case of
+            other issues covered by the mediation program, that persons directly
+            affected by actions of the USDA receive adequate notification of the
+            mediation program; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             That the State&apos;s mediation program prohibits discrimination in
+            its 
+            <PRTPAGE P='370' />
+            programs on the basis of race, color, national origin, sex,
+            religion, age, disability, political beliefs, and marital or
+            familial status.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Request for re-certification by qualifying State.
+            </head>
+          </npcatch>
+          <text>
+             If a State is a qualifying State at the time its request is made,
+            the written request need only describe the changes made in the
+            program since the previous year&apos;s request, together with such
+            documents and information as are necessary concerning such changes,
+            and a written certification that the remaining elements of the
+            program will continue as described in the previous request.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7258'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.4
+      </extid>
+      <num st='1'>
+        785.4
+      </num>
+      <head>
+        Grants to certified State mediation programs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='4' psec='' tq='N'>
+              785.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grants to certified State mediation programs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Eligibility.
+            </head>
+          </npcatch>
+          <text>
+             To be eligible to receive a grant, a State mediation program must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be certified as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='3' psec='' tq='N'>
+                785.3
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Submit an application for a grant with its certification or
+            re-certification request as set forth in this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Application for grant.
+            </head>
+          </npcatch>
+          <text>
+             A State requesting a grant will submit the following to the
+            Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Application for Federal Assistance, Standard Form 424 (available in
+            any FSA office and on the Internet, 
+            <E T='03'>
+              http://www.whitehouse.gov/omb/grants/
+            </E>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A budget with supporting details providing estimates of the cost of
+            operation and administration of the program. Proposed direct
+            expenditures will be grouped in the categories of allowable direct
+            costs under the program as set forth in paragraph (c)(1) of this
+            section;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Other information pertinent to the funding criteria specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='7' psec='#b' tq='N'>
+                785.7(b)
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Any additional supporting information requested by FSA in
+            connection with its review of the grant request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Grant purposes.
+            </head>
+          </npcatch>
+          <text>
+             Grants made under this part will be used only to pay the allowable
+            costs of operation and administration of the components of a
+            qualifying State&apos;s mediation program that have been certified
+            as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='3' psec='#b_2' tq='N'>
+                785.3(b)(2)
+              </subref>
+            </aref>
+            . Costs of services other than mediation services to covered persons
+            within the State are not considered part of the cost of operation
+            and administration of the mediation program for the purpose of
+            determining the amount of a grant award.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Allowable costs.
+            </head>
+          </npcatch>
+          <text>
+             Subject to applicable cost principles as set forth or referenced in
+            
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3016' sect='22' psec='' tq='N'>
+                3016.22
+              </subref>
+               of this title
+            </aref>
+            , allowable costs for operations and administration are limited to
+            those that are reasonable and necessary to carry out the
+            State&apos;s certified mediation program in providing mediation
+            services for covered persons within the State. Specific categories
+            of costs allowable under the certified State mediation program
+            include, and are limited to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Staff salaries and fringe benefits;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Reasonable fees and costs of mediators;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Office rent and expenses, such as utilities and equipment rental;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Office supplies;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Administrative costs, such as workers&apos; compensation, liability
+            insurance, employer&apos;s share of Social Security, and travel that
+            is necessary to provide mediation services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Education and training of participants and mediators involved in
+            mediation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Security systems necessary to assure confidentiality of mediation
+            sessions and records of mediation sessions;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             Costs associated with publicity and promotion of the program; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_ix'>
+            <enum src='gpotxt' cln='1'>
+              (ix)
+            </enum>
+          </npcatch>
+          <text>
+             Financial advisory and counseling services for parties requesting
+            mediation (as reasonable and necessary to prepare parties for
+            mediation) that are performed by a person other than a state
+            mediation program mediator and as approved under guidelines
+            established by the state mediation program and reported to FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Prohibited expenditures.
+            </head>
+          </npcatch>
+          <text>
+             Expenditures of grant funds are not allowed for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Purchase of capital assets, real estate, or vehicles and repair, or
+            maintenance of privately-owned property;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Political activities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Routine administrative activities not allowable under OMB Cost
+            Principles found in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            , subpart T, of this title and OMB Circular No. A-87; and
+            <PRTPAGE P='371' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Services provided by a State mediation program that are not
+            consistent with the features of the mediation program certified by
+            the State, including advocacy services on behalf of a mediation
+            participant, such as representation of a mediation client before an
+            administrative appeals entity of the USDA or other Federal
+            Government department or Federal or State Court proceeding.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7259'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.5
+      </extid>
+      <num st='1'>
+        785.5
+      </num>
+      <head>
+        Fees for mediation services.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='5' psec='' tq='N'>
+              785.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees for mediation services.
+        </SUBJECT>
+        <P>
+          A requirement that non-USDA parties who elect to participate in
+          mediation pay a fee for mediation services will not preclude
+          certification of a certified State mediation program or its
+          eligibility for a grant; however, if participation in mediation is
+          mandatory for a USDA agency, a certified State mediation program may
+          not require the USDA agency to pay a fee to participate in a
+          mediation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7260'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.6
+      </extid>
+      <num st='1'>
+        785.6
+      </num>
+      <head>
+        Deadlines and address.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='6' psec='' tq='N'>
+              785.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Deadlines and address.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Deadlines.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To be a qualifying State as of the beginning of a fiscal year and
+            to be eligible for grant funding as of the beginning of the fiscal
+            year, the Governor of a State or head of a State agency designated
+            by the Governor of a State must submit a request for certification
+            and application for grant on or before August 1 of the calendar year
+            in which the fiscal year begins.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Requests received after August 1.
+            </head>
+          </npcatch>
+          <text>
+             FSA will accept requests for re-certifications and for new
+            certifications of State mediation programs after August 1 in each
+            calendar year; however, such requests will not be considered for
+            grant funding under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='7' psec='#c' tq='N'>
+                785.7(c)
+              </subref>
+            </aref>
+             until after March 1.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Requests for additional grant funds during a fiscal year.
+            </head>
+          </npcatch>
+          <text>
+             Any request by a State mediation program that is eligible for grant
+            funding as of the beginning of the fiscal year for additional grant
+            funds during that fiscal year for additional, unbudgeted demands for
+            mediation services must be submitted on or before March 1 of the
+            fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Address.
+            </head>
+          </npcatch>
+          <text>
+             The request for certification or re-certification and any grant
+            request must be mailed or delivered to: Administrator, Farm Service
+            Agency, U.S. Department of Agriculture, Stop 0501, 1400 Independence
+            Avenue, SW., Washington, DC 20250-0501.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7261'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.7
+      </extid>
+      <num st='1'>
+        785.7
+      </num>
+      <head>
+        Distribution of Federal grant funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='7' psec='' tq='N'>
+              785.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Distribution of Federal grant funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Maximum grant award.
+            </head>
+          </npcatch>
+          <text>
+             A grant award shall not exceed 70 percent of the budgeted allowable
+            costs of operation and administration of the certified State
+            mediation program. In no case will the sum granted to a State exceed
+            $500,000 per fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Funding criteria.
+            </head>
+          </npcatch>
+          <text>
+             FSA will consider the following in determining the grant award to a
+            qualifying State:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Demand for and use of mediation services (historical and
+            projected);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Scope of mediation services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Service record of the State program, as evidenced by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Number of inquiries;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Number of requests for and use of mediation services, historical
+            and projected, as applicable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Number of mediations resulting in signed mediation agreements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Timeliness of mediation services; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Activities promoting awareness and use of mediation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Historic use of program funds (budgeted versus actual); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Material changes in the State program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Disbursements of grant funds.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Grant funds will be paid in advance, in installments throughout the
+            Federal fiscal year as requested by a certified State mediation
+            program and approved by FSA. The initial payment to a program in a
+            qualifying State eligible for grant funding as of the beginning of a
+            fiscal year shall represent at least one-fourth of the State&apos;s
+            annual grant award. The initial payment will be made as soon as
+            practicable after certification, or re-certification, after grant
+            funds are appropriated and available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Payment of grant funds will be by electronic funds transfer to the
+            designated account of each certified State mediation program, as
+            approved by FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Administrative reserve fund.
+            </head>
+          </npcatch>
+          <text>
+             After funds are appropriated, FSA will set aside 5 percent of the
+            annual appropriation for use as an administrative reserve.
+            <PRTPAGE P='372' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to paragraph (a) of this section and the availability of
+            funds, the Administrator will allocate and disburse sums from the
+            administrative reserve in the following priority order:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Disbursements to cover additional, unbudgeted demands for mediation
+            services in qualifying States eligible for grant funding as of the
+            beginning of the fiscal year;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Grants to qualifying States whose requests for new certification or
+            re-certification were received between August 2 and March 1. A
+            previously qualifying State that submits a request for
+            re-certification received after August 1 may receive a grant award
+            effective as of the beginning of the fiscal year. A newly qualifying
+            State that submits a request for certification received after August
+            1 may receive a grant award effective March 31 of the fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Any balance remaining in the administrative reserve will be
+            allocated pro rata to certified State mediation programs based on
+            their initial fiscal year grant awards.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All funds from the administrative reserve will be made available on
+            or before March 31 of the fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Period of availability of funds.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Certified State mediation programs receiving grant funds are
+            encouraged to obligate award funds within the Federal fiscal year of
+            the award. A State may, however, carry forward any funds disbursed
+            to its certified State mediation program that remain unobligated at
+            the end of the fiscal year of award for use in the next fiscal year
+            for costs resulting from obligations in the subsequent funding
+            period. Any carryover balances plus any additional obligated fiscal
+            year grant will not exceed the lesser of 70 percent of the
+            State&apos;s budgeted allowable costs of operation and
+            administration of the certified State mediation program for the
+            subsequent fiscal year, or $500,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Grant funds not spent in accordance with this part will be subject
+            to de-obligation and must be returned to the USDA.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7262'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.8
+      </extid>
+      <num st='1'>
+        785.8
+      </num>
+      <head>
+        Reports by qualifying States receiving mediation grant funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='8' psec='' tq='N'>
+              785.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reports by qualifying States receiving mediation grant funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Annual report by certified State mediation program.
+            </head>
+          </npcatch>
+          <text>
+             No later than 30 days following the end of a fiscal year during
+            which a qualifying State received a grant award under this part, the
+            State must submit to the Administrator an annual report on its
+            certified State mediation program. The annual report must include
+            the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A review of mediation services provided by the certified State
+            mediation program during the preceding Federal fiscal year providing
+            information concerning the following matters:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A narrative review of the goals and accomplishments of the
+            certified State mediation program in providing intake and scheduling
+            of cases; the provision of background and selected information
+            regarding the mediation process; financial advisory and counseling
+            services, training, notification, public education, increasing
+            resolution rates, and obtaining program funding from sources other
+            than the grant under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             A quantitative summary for the preceding fiscal year, and for prior
+            fiscal years, as appropriate, for comparisons of program activities
+            and outcomes of the cases opened and closed during the reporting
+            period; mediation services provided to clients grouped by program
+            and subdivided by issue, USDA agency, types of covered persons and
+            other participants; and the resolution rate for each category of
+            issue reported for cases closed during the year;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             An assessment of the performance and effectiveness of the
+            State&apos;s certified mediation program considering:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated average costs of mediation services per client with
+            estimates furnished in terms of the allowable costs set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='4' psec='#b_1' tq='N'>
+                785.4(b)(1)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated savings to the State as a result of having the State
+            mediation program certified including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Projected costs of avoided USDA administrative appeals based on
+            projections of the average costs of such appeals furnished to the
+            State by FSA, with the assistance of the USDA National Appeals
+            Division and other agencies as appropriate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             In agricultural credit mediations that do not result from a USDA
+            adverse program decision, projected cost savings to the various
+            parties as a result of resolution of their dispute in mediation.
+            Projected cost savings will be based on such reliable statistical 
+            <PRTPAGE P='373' />
+            data as may be obtained from State statistical sources including the
+            certified State&apos;s bar association, State Department of
+            Agriculture, State court system or Better Business Bureau, or other
+            reliable State or Federal sources;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Recommendations for improving the delivery of mediation services to
+            covered persons, including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_iii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Increasing responsiveness to needs for mediation services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_iii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Promoting increases in dispute resolution rates.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_iii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Improving assessments of training needs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_iii_D'>
+            <enum src='gpotxt' cln='1'>
+              (D)
+            </enum>
+          </npcatch>
+          <text>
+             Improving delivery of training.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_2_iii_E'>
+            <enum src='gpotxt' cln='1'>
+              (E)
+            </enum>
+          </npcatch>
+          <text>
+             Reducing costs per mediation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Such other matters relating to the program as the State may elect
+            to include, or as the Administrator may require.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Audit report.
+            </head>
+          </npcatch>
+          <text>
+             In addition to the auditing requirements of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            , subpart I and 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3016' sect='26' psec='' tq='N'>
+                3016.26
+              </subref>
+               of this title
+            </aref>
+            , any qualifying State receiving a grant under this part must submit
+            an audit report to the Administrator in compliance with OMB Circular
+            A-133.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7263'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.9
+      </extid>
+      <num st='1'>
+        785.9
+      </num>
+      <head>
+        Access to program records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='9' psec='' tq='N'>
+              785.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to program records.
+        </SUBJECT>
+        <P>
+          Notwithstanding 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3015' sect='24' psec='' tq='N'>
+              3015.24
+            </subref>
+             of this title
+          </aref>
+          , the State must maintain and provide the Government access to
+          pertinent records regarding services delivered by the certified State
+          mediation program for purposes of evaluation, audit and monitoring of
+          the certified State mediation program as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes of this section, pertinent records consist of: the
+            names and addresses of applicants for mediation services; dates
+            mediations opened and closed; issues mediated; dates of sessions
+            with mediators; names of mediators; mediation services furnished to
+            participants by the program; the sums charged to parties for each
+            mediation service; records of delivery of services to prepare
+            parties for mediation (including financial advisory and counseling
+            services); and the outcome of the mediation services including
+            formal settlement results and supporting documentation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             State mediators will notify all participants in writing at the
+            beginning of the mediation session that the USDA, including the USDA
+            Inspector General, the Comptroller General of the United States, the
+            Administrator, and any of their representatives will have access to
+            pertinent records as necessary to monitor and to conduct audits,
+            investigations, or evaluations of mediation services funded in whole
+            or in part by the USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             All participants in a mediation must sign and date an
+            acknowledgment of receipt of such notice from the mediator. The
+            certified State mediation program shall maintain originals of such
+            acknowledgments in its mediation files for at least 5 years.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7264'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.10
+      </extid>
+      <num st='1'>
+        785.10
+      </num>
+      <head>
+        Penalty for non-compliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='10' psec='' tq='N'>
+              785.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Penalty for non-compliance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator is authorized to withdraw certification of a
+            State mediation program, terminate or suspend the grant to such
+            program, require a return of unspent grant funds, a reimbursement of
+            grant funds on account of expenditures that are not allowed, and may
+            impose any other penalties or sanctions authorized by law if the
+            Administrator determines that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State&apos;s mediation program, at any time, does not meet the
+            requirements for certification;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The mediation program is not being operated in a manner consistent
+            with the features of the program certified by the State, with
+            applicable regulations, or the grant agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Costs that are not allowed under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='4' psec='#b' tq='N'>
+                785.4(b)
+              </subref>
+            </aref>
+             are being paid out of grant funds;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The mediation program fails to grant access to mediation records
+            for purposes specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='8' psec='' tq='N'>
+                785.8
+              </subref>
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Reports submitted by the State pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='7' psec='' tq='N'>
+                785.7
+              </subref>
+            </aref>
+             are false, contain misrepresentations or material omissions, or are
+            otherwise misleading.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In the event that FSA gives notice to the State of its intent to
+            enforce any withdrawal of certification or other penalty for
+            non-compliance, USDA agencies will cease to participate in any
+            mediation conducted by the State&apos;s mediation program
+            immediately upon delivery of such notice to the State.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7265'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.11
+      </extid>
+      <num st='1'>
+        785.11
+      </num>
+      <head>
+        Reconsideration by the Administrator.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='11' psec='' tq='N'>
+              785.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reconsideration by the Administrator.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A State mediation program may request that the Administrator
+            reconsider any determination that a State is 
+            <PRTPAGE P='374' />
+            not a qualifying State under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='3' psec='' tq='N'>
+                785.3
+              </subref>
+            </aref>
+             and any penalty decision made under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='785' sect='10' psec='' tq='N'>
+                785.10
+              </subref>
+            </aref>
+            . The decision of the Administrator upon reconsideration shall be
+            the final administrative decision of FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Nothing in this part shall preclude action to suspend or debar a
+            State mediation program or administering entity under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3017' tq='N'>
+                3017 of this title
+              </subref>
+            </aref>
+             following a withdrawal of certification of the State mediation
+            program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7266'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.12
+      </extid>
+      <num st='1'>
+        785.12
+      </num>
+      <head>
+        Nondiscrimination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='12' psec='' tq='N'>
+              785.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Nondiscrimination.
+        </SUBJECT>
+        <P>
+          The provisions of 
+          <aref type='CFR-TIC-PART'>
+            parts 
+            <subref title='7' part='15' tq='N'>
+              15, 15b
+            </subref>
+             and 
+            <subref title='7' part='1901' tq='N'>
+              1901
+            </subref>
+          </aref>
+          , subpart E, of this title and 
+          <aref type='UNKNOWN'>
+            part 90 of
+          </aref>
+           title 45 apply to activities financed by grants made under this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7267'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:785:-:785.13
+      </extid>
+      <num st='1'>
+        785.13
+      </num>
+      <head>
+        OMB Control Number.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='785' sect='13' psec='' tq='N'>
+              785.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB Control Number.
+        </SUBJECT>
+        <P>
+          The information collection requirements in this regulation have been
+          approved by the Office of Management and Budget and assigned OMB
+          control number 0560-0165.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

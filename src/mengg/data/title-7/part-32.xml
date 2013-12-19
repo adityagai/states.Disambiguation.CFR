@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol2'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:A:32
+    </extid>
+    <num>
+      32
+    </num>
+    <head>
+      PURCHASE OF GREASE MOHAIR AND MOHAIR TOP SAMPLES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1621-162' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621-162.html'>
+              7 U.S.C. 1621-162
+            </subref>
+          </aref>
+          7.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <PRTPAGE P='173' />
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            62 FR 43439
+          </aref>
+          , Aug. 13, 1997, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='1890'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:32:-:32.400
+      </extid>
+      <num st='1'>
+        32.400
+      </num>
+      <head>
+        Samples of grease mohair grades; method of obtaining.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='32' sect='400' psec='' tq='N'>
+              32.400
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Samples of grease mohair grades; method of obtaining.
+        </SUBJECT>
+        <P>
+          Samples certified as representative of the official standards of the
+          United States for grades of grease mohair will be furnished as
+          follows, subject to other conditions of this section, upon filing of
+          an approved application and prepayment of the costs thereof as fixed
+          in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='32' sect='401' psec='' tq='N'>
+              32.401
+            </subref>
+          </aref>
+          . The certification will be issued by the U.S. Department of
+          Agriculture and will be signed by the Director of the Livestock
+          Division or other duly authorized official.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Samples representative of each of the standard grades of grease
+            mohair:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Complete set.
+            </head>
+          </npcatch>
+          <text>
+             Ten certified samples of grease mohair, grades 40s through 18s.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Individual sample.
+            </head>
+          </npcatch>
+          <text>
+             Individual certified samples of grease mohair.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each application for standard samples of grease mohair shall be
+            upon an application form furnished or approved by the Consumer and
+            Marketing Service, shall be signed by the applicant, and shall be
+            accompanied by certified check, draft, post office money order, or
+            express money order, payable to the “Agricultural Marketing
+            Service,” in an amount to cover the cost of the samples requested,
+            and shall incorporate the following agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             That no samples representative of the official grease mohair
+            standards shall be considered or used as representing such standards
+            after cancellation in accordance with this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             That the said standard samples shall be subject to inspection by
+            the Secretary or by any duly authorized officer or agent of the
+            Department of Agriculture during usual business hours of the person
+            having custody of the samples.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             That the certificate covering any of the samples representative of
+            the standards may be revoked and canceled by the Director of the
+            Livestock Division, if it is found upon such inspection that the
+            said samples are not representative of the official standards. 
+          </text>
+        </P>
+        <NOTE>
+          <HD SOURCE='HED'>
+            Note to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='32' sect='400' psec='' tq='N'>
+                32.400
+              </subref>
+            </aref>
+            :
+          </HD>
+          <P>
+            A certified sample consists of grease mohair randomly selected from
+            a bulk sample. The measured average and standard deviation of fiber
+            diameter of bulk sample were within the limits corresponding to the
+            grade of the standard sample as set forth in the voluntary U.S.
+            grade standards. Copies of the voluntary U.S. grade standards can be
+            obtained from Director, Livestock and Seed Division, Agricultural
+            Marketing Service, U.S. Department of Agriculture, P.O. Box 96456,
+            Washington, DC 20090-6456.
+          </P>
+        </NOTE>
+      </contents>
+    </section>
+    <section orderid='1891'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:32:-:32.401
+      </extid>
+      <num st='1'>
+        32.401
+      </num>
+      <head>
+        Cost of samples for grease mohair grades.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='32' sect='401' psec='' tq='N'>
+              32.401
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cost of samples for grease mohair grades.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Complete set.
+            </head>
+          </npcatch>
+          <text>
+             $22 each, delivered to any destination with the United States and
+            $25 each, delivered to any destination outside the United States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Individual sample.
+            </head>
+          </npcatch>
+          <text>
+             $2.50 each, delivered to any destination within the United States,
+            and $3 each, delivered to any destination outside the United States.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='1892'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:32:-:32.402
+      </extid>
+      <num st='1'>
+        32.402
+      </num>
+      <head>
+        Samples of mohair top grades; method of obtaining.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='32' sect='402' psec='' tq='N'>
+              32.402
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Samples of mohair top grades; method of obtaining.
+        </SUBJECT>
+        <P>
+          Samples certified as representative of the official standards of the
+          United States of grades of mohair top will be furnished when available
+          as follows, subject to other conditions for this section, upon filing
+          of an approved application and prepayment of the cost thereof as fixed
+          in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='32' sect='403' psec='' tq='N'>
+              32.403
+            </subref>
+          </aref>
+          . The certification will be issued by the U.S. Department of
+          Agriculture and will be signed by the Director of the Livestock
+          Division or other official duly authorized by him.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Samples representative of the official grades of mohair top:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Complete set.
+            </head>
+          </npcatch>
+          <text>
+             Nine certified samples of mohair top, grades 40s through 20s.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Individual sample.
+            </head>
+          </npcatch>
+          <text>
+             Individual certified samples of mohair top, grades 40s through 20s.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each application for standard samples of mohair top shall be upon
+            an application form furnished or approved by the Agricultural
+            Marketing Service, shall be signed by the applicant, and shall be
+            accompanied by certified check, draft, postal money order, or
+            express money order, payable to the “Agricultural Marketing
+            Service,” in an amount to cover the cost of the samples requested
+            and shall incorporate the following agreement:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             That no samples representative of the official mohair top standards
+            shall be considered or used as representing 
+            <PRTPAGE P='174' />
+            such standards after cancellation in accordance with this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             That the said standard samples shall be subject to inspection by
+            the Secretary or by any duly authorized officer or agent of the
+            Department of Agriculture during usual business hours of the person
+            having custody of the samples.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             That the certificate covering any of the samples representative of
+            the standards may be revoked and canceled by the Director of the
+            Livestock Division, if it is found upon such inspection that the
+            said samples are not representative of the official standards.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='1893'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:32:-:32.403
+      </extid>
+      <num st='1'>
+        32.403
+      </num>
+      <head>
+        Cost of samples for mohair top grades.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='32' sect='403' psec='' tq='N'>
+              32.403
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cost of samples for mohair top grades.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Complete set.
+            </head>
+          </npcatch>
+          <text>
+             Twenty-seven dollars each, delivered to any destination within the
+            United States and $30 each, delivered to any destination outside the
+            United States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Individual sample.
+            </head>
+          </npcatch>
+          <text>
+             Three dollars each, delivered to any destination within the United
+            States, and $3.50 each, delivered to any destination outside the
+            United States.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

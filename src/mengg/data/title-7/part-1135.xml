@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol9'>
+    <extid>
+      lii:cfr:2013:7:0:B:X:-:1135
+    </extid>
+    <num>
+      1135
+    </num>
+    <head>
+      MILK IN THE WESTERN MARKETING AREA
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+              7 U.S.C. 601-674
+            </subref>
+          </aref>
+          , and 7253.
+        </P>
+      </AUTH>
+    </text>
+    <section orderid='10545'>
+      <extid>
+        lii:cfr:2013:7:0:B:X:-:1135:lii228:1135.1
+      </extid>
+      <num st='1'>
+        1135.1
+      </num>
+      <head>
+        General provisions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          64 FR 48015
+        </aref>
+        , Sept. 1, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1135' sect='1' psec='' tq='N'>
+              1135.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General provisions.
+        </SUBJECT>
+        <P>
+          The terms, definitions, and provisions in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1000' tq='N'>
+              1000 of this chapter
+            </subref>
+          </aref>
+           apply to this 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1135' tq='N'>
+              1135
+            </subref>
+          </aref>
+          . In this 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1135' tq='N'>
+              1135
+            </subref>
+          </aref>
+          , all references to sections in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1000' tq='N'>
+              1000
+            </subref>
+          </aref>
+           refer to 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1000' tq='N'>
+              1000 of this chapter
+            </subref>
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            64 FR 48015
+          </aref>
+          , Sept. 1, 1999]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

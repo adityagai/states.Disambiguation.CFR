@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol7'>
+    <extid>
+      lii:cfr:2013:7:0:B:VII:A:708
+    </extid>
+    <num>
+      708
+    </num>
+    <head>
+      RECORD RETENTION REQUIREMENTS—ALL PROGRAMS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Sec. 4, 49
+          </aref>
+           Stat. 164, 
+          <aref type='CFR-TIC-SECT'>
+            secs. 7-17, 49
+          </aref>
+           Stat. 1148, as amended; 
+          <aref type='USC'>
+            <subref title='16' sect='590d' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/590d.html'>
+              16 U.S.C. 590d
+            </subref>
+            , 
+            <subref title='16' sect='590g-590q' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/590g-590q.html'>
+              590g-590q
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+    </text>
+    <section orderid='6555'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:A:708:-:708.1
+      </extid>
+      <num st='1'>
+        708.1
+      </num>
+      <head>
+        Record retention period.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          25 FR 105
+        </aref>
+        , Jan. 7, 1960. Redesignated at 
+        <aref type='FREGIST'>
+          26 FR 5788
+        </aref>
+        , June 29, 1961]
+      </citation>
+      <contents>
+        <PRTPAGE P='23' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='708' sect='1' psec='' tq='N'>
+              708.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Record retention period.
+        </SUBJECT>
+        <P>
+          For the purposes of the programs in this chapter, no receipt, invoice,
+          or other record required to be retained by any agricultural producer
+          as evidence tending to show performance of a practice under any such
+          program needs to be retained by such producer more than two years
+          following the close of the program year of the program.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            25 FR 105
+          </aref>
+          , Jan. 7, 1960. Redesignated at 
+          <aref type='FREGIST'>
+            26 FR 5788
+          </aref>
+          , June 29, 1961]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

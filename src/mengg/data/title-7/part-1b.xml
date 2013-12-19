@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol1'>
+    <extid>
+      lii:cfr:2013:7:0:A:-:-:1b
+    </extid>
+    <num>
+      1b
+    </num>
+    <head>
+      NATIONAL ENVIRONMENTAL POLICY ACT
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='42' sect='4321' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/4321.html'>
+              42 U.S.C. 4321
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq
+          </E>
+          .; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O.
+          11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p.
+          356; 
+          <aref type='CFR'>
+            40 CFR 
+            <subref title='40' part='1507' sect='3' psec='' tq='N'>
+              1507.3
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            48 FR 11403
+          </aref>
+          , Mar. 18, 1983, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='244'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1b:-:1b.1
+      </extid>
+      <num st='1'>
+        1b.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 11403
+        </aref>
+        , Mar. 18, 1983, as amended at 
+        <aref type='FREGIST'>
+          60 FR 66481
+        </aref>
+        , Dec. 22, 1995]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1b' sect='1' psec='' tq='N'>
+              1b.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This part supplements the regulations for implementation of the
+            National Environmental Policy Act (NEPA), for which regulations were
+            published by the Council on Environmental Quality (CEQ) in 
+            <aref type='CFR'>
+              40 CFR parts 
+              <subref title='40' part='1500' tq='N'>
+                1500
+              </subref>
+            </aref>
+             through 1508. This part incorporates and adopts those regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This part sets forth Departmental policy concerning NEPA,
+            establishes categorical exclusions of actions carried out by the
+            Department and its 
+            <PRTPAGE P='120' />
+            agencies, and sets forth those USDA agencies which are excluded from
+            the requirement to prepare procedures implementing NEPA.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 11403
+          </aref>
+          , Mar. 18, 1983, as amended at 
+          <aref type='FREGIST'>
+            60 FR 66481
+          </aref>
+          , Dec. 22, 1995]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='245'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1b:-:1b.2
+      </extid>
+      <num st='1'>
+        1b.2
+      </num>
+      <head>
+        Policy.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 11403
+        </aref>
+        , Mar. 18, 1983, as amended at 
+        <aref type='FREGIST'>
+          60 FR 66481
+        </aref>
+        , Dec. 22, 1995]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1b' sect='2' psec='' tq='N'>
+              1b.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All policies and programs of the various USDA agencies shall be
+            planned, developed, and implemented so as to achieve the goals and
+            to follow the procedures declared by NEPA in order to assure
+            responsible stewardship of the environment for present and future
+            generations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each USDA agency is responsible for compliance with this part, the
+            regulations of CEQ, and NEPA. Compliance will include the
+            preparation and implementation of specific procedures and processes
+            relating to the programs and activities of the individual agency, as
+            necessary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Under Secretary, Natural Resources and Environment (NR&amp;E),
+            is responsible for ensuring that agency implementing procedures are
+            consistent with CEQ&apos;s NEPA regulations and for coordinating
+            NEPA compliance for the Department. The Under Secretary, NR&amp;E,
+            through the Agricultural Council on Environmental Quality, will
+            develop the necessary processes to be used by the Office of the
+            Secretary in reviewing, implementing, and planning its NEPA
+            activities, determinations, and policies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In connection with the policies and requirements set forth in this
+            part, all USDA agencies are responsible for compliance with
+            Executive Order 12114, “Environmental Effects Abroad of Major
+            Federal Actions.” Compliance will include the preparation and
+            implementation of specific procedures and processes relative to the
+            programs and activities of the individual agencies, as necessary.
+            Agencies shall consult with the Department of State; the Council on
+            Environmental Quality; and the Under Secretary, NR&amp;E, prior to
+            placing procedures and processes in effect.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 11403
+          </aref>
+          , Mar. 18, 1983, as amended at 
+          <aref type='FREGIST'>
+            60 FR 66481
+          </aref>
+          , Dec. 22, 1995]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='246'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1b:-:1b.3
+      </extid>
+      <num st='1'>
+        1b.3
+      </num>
+      <head>
+        Categorical exclusions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 11403
+        </aref>
+        , Mar. 18, 1983, as amended at 
+        <aref type='FREGIST'>
+          60 FR 66481
+        </aref>
+        , Dec. 22, 1995]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1b' sect='3' psec='' tq='N'>
+              1b.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Categorical exclusions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The following are categories of activities which have been
+            determined not to have a significant individual or cumulative effect
+            on the human environment and are excluded from the preparation of
+            environmental assessment (EA&apos;s) or environmental impact
+            statement (EIS&apos;s), unless individual agency procedures
+            prescribed otherwise.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Policy development, planning and implementation which relate to
+            routine activities, such as personnel, organizational changes, or
+            similar administrative functions;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Activities which deal solely with the funding of programs, such as
+            program budget proposals, disbursements, and transfer or
+            reprogramming of funds;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Inventories, research activities, and studies, such as resource
+            inventories and routine data collection when such actions are
+            clearly limited in context and intensity;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Educational and informational programs and activities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Civil and criminal law enforcement and investigative activities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Activities which are advisory and consultative to other agencies
+            and public and private entities, such as legal counselling and
+            representation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Activities related to trade representation and market development
+            activities abroad.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Agencies will identify in their own procedures the activities which
+            normally would not require an environmental assessment or
+            environmental impact statement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding the exclusions listed in paragraphs (a) of this
+            section and 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1b' sect='4' psec='' tq='N'>
+                1b.4
+              </subref>
+            </aref>
+            , or identified in agency procedures, agency heads may determine
+            that circumstances dictate the need for preparation of an EA or EIS
+            for a particular action. Agencies shall continue to scrutinize their
+            activities to determine continued eligibility for categorical
+            exclusion.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 11403
+          </aref>
+          , Mar. 18, 1983, as amended at 
+          <aref type='FREGIST'>
+            60 FR 66481
+          </aref>
+          , Dec. 22, 1995]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='247'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:1b:-:1b.4
+      </extid>
+      <num st='1'>
+        1b.4
+      </num>
+      <head>
+        Exclusion of agencies.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          60 FR 66481
+        </aref>
+        , Dec. 22, 1995, as amended at 
+        <aref type='FREGIST'>
+          76 FR 4802
+        </aref>
+        , Jan. 27, 2011]
+      </citation>
+      <contents>
+        <PRTPAGE P='121' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1b' sect='4' psec='' tq='N'>
+              1b.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exclusion of agencies.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The USDA agencies and agency units listed in paragraph (b) of this
+            section conduct programs and activities that have been found to have
+            no individual or cumulative effect on the human environment. The
+            USDA agencies and agency units listed in paragraph (b) of this
+            section are excluded from the requirements of preparing procedures
+            to implement NEPA. Actions of USDA agencies and agency units listed
+            in paragraph (b) of this section are categorically excluded from the
+            preparation of an EA or EIS unless the agency head determines that
+            an action may have a significant environmental effect.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Agricultural Marketing Service
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Economic Research Service
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Federal Corp Insurance Corporation
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Food and Consumer Service
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Food Safety and Inspection Service
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Foreign Agricultural Service
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Grain Inspection, Packers and Stockyards Administration
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             National Agricultural Library
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             National Agricultural Statistics Service
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Office of the General Counsel
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Office of the Inspector General
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            60 FR 66481
+          </aref>
+          , Dec. 22, 1995, as amended at 
+          <aref type='FREGIST'>
+            76 FR 4802
+          </aref>
+          , Jan. 27, 2011]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol12'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1788
+    </extid>
+    <num>
+      1788
+    </num>
+    <head>
+      RUS FIDELITY AND INSURANCE REQUIREMENTS FOR ELECTRIC AND
+      TELECOMMUNICATIONS BORROWERS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+           et seq.; 
+          <aref type='USC'>
+            <subref title='7' sect='1921' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1921.html'>
+              7 U.S.C. 1921
+            </subref>
+          </aref>
+           et seq.; 
+          <aref type='USC'>
+            <subref title='7' sect='6941' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6941.html'>
+              7 U.S.C. 6941
+            </subref>
+          </aref>
+           et seq.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            64 FR 2
+          </aref>
+          , Jan. 4, 1999, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='14710'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:A:1788.1
+      </extid>
+      <num st='1'>
+        1788.1
+      </num>
+      <head>
+        General and definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='1' psec='' tq='N'>
+              1788.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General and definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The standard forms of documents covering loans made or guaranteed
+            by the Rural Utilities Service contain provisions regarding
+            insurance and fidelity coverage to be maintained by each borrower.
+            This part implements those provisions by setting forth the
+            requirements to be met by all borrowers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             As used in this part:
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Borrower
+          </E>
+           means any entity with any outstanding loan made or guaranteed by RUS.
+        </P>
+        <P>
+          <E T='03'>
+            Irregularity
+          </E>
+           has the meaning found in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1773' sect='2' psec='' tq='N'>
+              1773.2
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Loan documents
+          </E>
+           means the loan agreement, notes, and mortgage evidencing or used in
+          conjunction with an RUS loan.
+        </P>
+        <P>
+          <E T='03'>
+            Mortgage
+          </E>
+           means the mortgage, deed of trust, security agreement, or other
+          security document securing an RUS loan.
+        </P>
+        <P>
+          <E T='03'>
+            Mortgaged property
+          </E>
+           means any property subject to the lien of a mortgage.
+        </P>
+        <P>
+          <E T='03'>
+            RUS
+          </E>
+           means the Rural Utilities Service and includes the Rural Telephone
+          Bank.
+        </P>
+        <P>
+          <E T='03'>
+            RUS loan
+          </E>
+           means a loan made or guaranteed by RUS.
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             RUS may revise these requirements on a case by case basis for
+            borrowers with unusual circumstances.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14711'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:A:1788.2
+      </extid>
+      <num st='1'>
+        1788.2
+      </num>
+      <head>
+        General insurance requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='2' psec='' tq='N'>
+              1788.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General insurance requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers will take out, as the respective risks are incurred, and
+            maintain the classes and amounts of insurance in conformance with
+            generally accepted utility industry standards for such classes and
+            amounts of coverage for utilities of the size and character of the
+            borrower and consistent with Prudent Utility Practice. Prudent
+            Utility Practice shall mean any of the practices, methods, and acts
+            which, in the exercise of reasonable judgment, in light of the
+            facts, including but not limited to, the practices, methods, and
+            acts engaged in or approved by a significant portion of the electric
+            utility industry in the case of an electric borrower or of the
+            telecommunications industry in the case of a telecommunications
+            borrowers prior thereto, known at the time the decision was made,
+            would have been expected to accomplish the desired result consistent
+            with cost-effectiveness, reliability, safety, and expedition. It is
+            recognized that Prudent Utility Practice is not intended to be
+            limited to optimum practice, method, or act to the exclusion of all
+            others, but rather is a spectrum of possible practices, methods, or
+            act which could have been expected to accomplish the desired result
+            at the lowest reasonable cost consistent with cost-effectiveness,
+            reliability, safety, and expedition.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The foregoing insurance coverage shall be obtained by means of bond
+            and policy forms approved by regulatory 
+            <PRTPAGE P='392' />
+            authorities having jurisdiction, and, with respect to insurance upon
+            any part of the mortgaged property securing an RUS loan, shall
+            provide that the insurance shall be payable to the mortgagees as
+            their interests may appear by means of the standard mortgagee clause
+            without contribution. Each policy or other contract for such
+            insurance shall contain an agreement by the insurer that,
+            notwithstanding any right of cancellation reserved to such insurer,
+            such policy or contract shall continue in force for at least 30 days
+            after written notice to each mortgagee of suspension, cancellation,
+            or termination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In the event of damage to or the destruction or loss of any portion
+            of the mortgaged property which is used or useful in the
+            borrower&apos;s business and which shall be covered by insurance,
+            unless each mortgagee shall otherwise agree, the borrower shall
+            replace or restore such damaged, destroyed, or lost portion so that
+            such mortgaged property shall be in substantially the same condition
+            as it was in prior to such damage, destruction, or loss and shall
+            apply the proceeds of the insurance for that purpose. The borrower
+            shall replace the lost portion of such mortgaged property or shall
+            commence such restoration promptly after such damage, destruction,
+            or loss shall have occurred and shall complete such replacement or
+            restoration as expeditiously as practicable, and shall pay or cause
+            to be paid out of the proceeds of such insurance form all costs and
+            expenses in connection therewith.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Sums recovered under any policy or fidelity bond by the borrower
+            for a loss of funds advanced under a note secured by a mortgage or
+            recovered by any mortgagee or holder of any note secured by the
+            mortgage for any loss under such policy or bond shall, unless
+            applied as provided in the preceding paragraph, be used as directed
+            by the borrower&apos;s mortgage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers shall furnish evidence annually that the required
+            insurance and fidelity coverage has been in force for the entire
+            year, and that the borrower has taken all steps currently necessary
+            and will continue to take all steps necessary to ensure that the
+            coverage will remain in force until all loans made or guaranteed by
+            RUS are paid in full. Such evidence shall be in a form satisfactory
+            to RUS. Generally a certification included as part of the RUS
+            Financial and Statistical Report filed by the borrower annually (RUS
+            Form 7 or Form 12 for electric borrowers, RUS Form 479 for
+            telecommunications borrowers, or the successors to these forms) is
+            sufficient evidence of this coverage.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14712'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:A:1788.3
+      </extid>
+      <num st='1'>
+        1788.3
+      </num>
+      <head>
+        Flood insurance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='3' psec='' tq='N'>
+              1788.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Flood insurance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers shall purchase and maintain flood insurance for buildings
+            in flood hazard areas to the extent available and required under the
+            National Flood Insurance Act of 1968, as amended (
+            <aref type='USC'>
+              <subref title='42' sect='4001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/4001.html'>
+                42 U.S.C. 4001
+              </subref>
+            </aref>
+            , et seq.) The insurance should cover, in addition to the building,
+            any machinery, equipment, fixtures, and furnishings contained in the
+            building.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The National Flood Insurance Program (see 
+            <aref type='CFR'>
+              44 CFR part 
+              <subref title='44' part='59' tq='N'>
+                59
+              </subref>
+            </aref>
+             et seq.) provides for a standard flood insurance policy; however,
+            other existing insurance policies which provide flood coverage may
+            be used where flood insurance is available in lieu of the standard
+            flood insurance policy. Such policies must be endorsed to provide:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             That the insurer give 30 days written notice of cancellation or
+            nonrenewal to the insured with respect to the flood insurance
+            coverage. To be effective, such notice must be mailed to both the
+            insured and RUS and other mortgagees if any and must include
+            information as to the availability of flood insurance coverage under
+            the National Flood Insurance Program, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             That the flood insurance coverage is at least as broad as the
+            coverage offered by the Standard Flood Insurance Policy.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14713'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:A:1788.4
+      </extid>
+      <num st='1'>
+        1788.4
+      </num>
+      <head>
+        Disclosure of irregularities and illegal acts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='4' psec='' tq='N'>
+              1788.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disclosure of irregularities and illegal acts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers must immediately report, in writing, all irregularities
+            and all indications or instances of illegal acts in its operations,
+            whether material or not, to RUS and the Office of the Inspector
+            General (OIG). See 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1773' sect='9' psec='#c_3' tq='N'>
+                1773.9(c)(3)
+              </subref>
+            </aref>
+             for OIG addresses. The reporting requirements for borrowers are the
+            same as those for CPA&apos;s set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1773' sect='9' psec='' tq='N'>
+                1773.9
+              </subref>
+            </aref>
+            <PRTPAGE P='393' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers are required to make full disclosure to the bonding
+            company of the dishonest or fraudulent acts.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14714'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:A:1788.5
+      </extid>
+      <num st='1'>
+        1788.5
+      </num>
+      <head>
+        RUS endorsement required.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='5' psec='' tq='N'>
+              1788.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          RUS endorsement required.
+        </SUBJECT>
+        <P>
+          In the case of a cooperative or mutual organization, RUS requires that
+          the following: 
+        </P>
+        <EXTRACT>
+          <P>
+            Endorsement Waiving Immunity From Tort Liability” be included as a
+            part of each public liability, owned, non-owned, hired automobile,
+            and aircraft liability, employers&apos; liability policy, and boiler
+            policy:
+          </P>
+          <P>
+            The Insurer agrees with the Rural Utilities Service that such
+            insurance as is afforded by the policy applies subject to the
+            following provisions:
+          </P>
+          <P>
+            1. The Insurer agrees that it will not use, either in the adjustment
+            of claims or in the defense of suits against the Insured, the
+            immunity of the Insured from tort liability, unless requested by the
+            Insured to interpose such defense.
+          </P>
+          <P>
+            2. The Insured agrees that the waiver of the defense of immunity
+            shall not subject the Insurer to liability of any portion of a
+            claim, verdict or judgment in excess of the limits of liability
+            stated in the policy.
+          </P>
+          <P>
+            3. The Insurer agrees that if the Insured is relieved of liability
+            because of its immunity, either by interposition of such defense at
+            the request of the Insured or by voluntary action of a court, the
+            insurance applicable to the injuries on which such suit is based, to
+            the extent to which it would otherwise have been available to the
+            Insured, shall apply to officers and employees of the Insured in
+            their capacity as such; provided that all defenses other than
+            immunity from tort liability which would be available to the Insurer
+            but for said immunity in suits against the Insured or against the
+            Insurer under the policy shall be available to the Insurer with
+            respect to such officers and employees in suits against such
+            officers and employees or against the Insurer under the policy.
+          </P>
+        </EXTRACT>
+      </contents>
+    </section>
+    <section orderid='14715'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:A:1788.6
+      </extid>
+      <num st='1'>
+        1788.6
+      </num>
+      <head>
+        RUS right to place insurance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='6' psec='' tq='N'>
+              1788.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          RUS right to place insurance.
+        </SUBJECT>
+        <P>
+          If a borrower fails to purchase or maintain the required insurance and
+          fidelity coverage, the mortgagees may place required insurance and
+          fidelity coverage on behalf and in the name of the borrower. The
+          borrower shall pay the cost of this coverage, as provided in the loan
+          documents.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14716'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:A:1788.7-1788.10
+      </extid>
+      <num st='2'>
+        1788.7-1788.10
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1788' sect='7-1788' psec='' tq='N'>
+              1788.7-1788
+            </subref>
+          </aref>
+          .10
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14717'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:B:1788.11
+      </extid>
+      <num st='1'>
+        1788.11
+      </num>
+      <head>
+        Minimum insurance requirements for contractors, engineers, and
+        architects.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='11' psec='' tq='N'>
+              1788.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Minimum insurance requirements for contractors, engineers, and
+          architects.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each electric borrower shall include the provisions in this
+            paragraph in its agreements with contractors, engineers, and
+            architects, said agreements that are wholly or partially financed by
+            RUS loans or guarantees. The borrower should replace “Contractor”
+            with “Engineer” or “Architect” as appropriate. 
+          </text>
+        </P>
+        <EXTRACT>
+          <P>
+            1. The Contractor shall take out and maintain throughout the period
+            of this Agreement insurance of the following minimum types and
+            amounts:
+          </P>
+          <P>
+            a. Worker&apos;s compensation and employer&apos;s liability
+            insurance, as required by law, covering all their employees who
+            perform any of the obligations of the contractor, engineer, and
+            architect under the contract. If any employer or employee is not
+            subject to workers&apos; compensation laws of the governing State,
+            then insurance shall be obtained voluntarily to extend to the
+            employer and employee coverage to the same extent as though the
+            employer or employee were subject to the workers&apos; compensation
+            laws.
+          </P>
+          <P>
+            b. Public liability insurance covering all operations under the
+            contract shall have limits for bodily injury or death of not less
+            than $1 million each occurrence, limits for property damage of not
+            less than $1 million each occurrence, and $1 million aggregate for
+            accidents during the policy period. A single limit of $1 million of
+            bodily injury and property damage is acceptable. This required
+            insurance may be in a policy or policies of insurance, primary and
+            excess including the umbrella or catastrophe form.
+          </P>
+          <P>
+            c. Automobile liability insurance on all motor vehicles used in
+            connection with the contract, whether owned, non-owned, or hired,
+            shall have limits for bodily injury or death of not less than $1
+            million per person and $1 million each occurrence, and property
+            damage limits of $1 million for each occurrence. This required
+            insurance may be in a policy or policies of insurance, primary and
+            excess including the umbrella or catastrophe form.
+          </P>
+          <P>
+            2. The Owner shall have the right at any time to require public
+            liability insurance and property damage liability insurance greater
+            than those required in paragraphs (a)(1)(b) and (a)(1)(c) of this
+            section. In any 
+            <PRTPAGE P='394' />
+            such event, the additional premium or premiums payable solely as the
+            result of such additional insurance shall be added to the Contract
+            price.
+          </P>
+          <P>
+            3. The Owner shall be named as Additional Insured on all policies of
+            insurance required in (a)(1)(b) and (a)(1)(c) of this section.
+          </P>
+          <P>
+            4. The policies of insurance shall be in such form and issued by
+            such insurer as shall be satisfactory to the Owner. The Contractor
+            shall furnish the Owner a certificate evidencing compliance with the
+            foregoing requirements that shall provide not less than 30 days
+            prior written notice to the Owner of any cancellation or material
+            change in the insurance.
+          </P>
+        </EXTRACT>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Electric borrowers shall also ensure that all architects and
+            engineers working under contract with the borrower have insurance
+            coverage for Errors and Omissions (Professional Liability Insurance)
+            in an amount at least as large as the amount of the architectural or
+            engineering services contract but not less than $500,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower may increase the limits of insurance if desired.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The minimum requirement of $1 million of public liability insurance
+            does not apply to contractors performing maintenance work,
+            janitorial-type services, meter reading services, rights-of-way
+            mowing, and jobs of a similar nature. However, borrowers shall
+            ensure that the contractor performing the work has public liability
+            coverage at a level determined to be appropriate by the borrower.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If requested by RUS, the borrower shall provide RUS with a
+            certificate from the contractor, engineer, or architect evidencing
+            compliance with the requirements of this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14718'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:B:1788.12
+      </extid>
+      <num st='1'>
+        1788.12
+      </num>
+      <head>
+        Contractors&apos; bonds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='12' psec='' tq='N'>
+              1788.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contractors&apos; bonds.
+        </SUBJECT>
+        <P>
+          Electric borrowers shall require contractors to obtain
+          contractors&apos; bonds when required by 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1726' tq='N'>
+              1726
+            </subref>
+          </aref>
+          , Electric System Construction Policies and Procedures, of this
+          chapter. Surety companies providing contractors&apos; bonds shall be
+          listed as acceptable sureties in the U.S. Department of Treasury
+          Circular No. 570. The circular is maintained through periodic
+          publication in the 
+          <E T='04'>
+            Federal Register
+          </E>
+           and is available on the Internet under
+          ftp://ftp.fedworld.gov/pub/tel/sureties.txt, and on the Department of
+          the Treasury&apos;s computer bulletin board at 202-874-6817.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14719'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:C:1788.46
+      </extid>
+      <num st='1'>
+        1788.46
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='46' psec='' tq='N'>
+              1788.46
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          This subpart sets forth RUS policies for minimum insurance
+          requirements for contractors, engineers, and architects performing
+          work under contracts which are wholly or partially financed by RUS
+          loans or guarantees with telecommunications borrowers.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14720'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:C:1788.47
+      </extid>
+      <num st='1'>
+        1788.47
+      </num>
+      <head>
+        Policy requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='47' psec='' tq='N'>
+              1788.47
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Contractors, engineers, and architects performing work for
+            borrowers under construction, engineering, and architectural service
+            contracts shall obtain insurance coverage, as required in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1788' sect='48' psec='' tq='N'>
+                1788.48
+              </subref>
+            </aref>
+            , and maintain it in effect until work under the contracts is
+            completed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Contractors entering into construction contracts with borrowers
+            shall furnish a contractors&apos; bond, except as provided for in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1788' sect='49' psec='' tq='N'>
+                1788.49
+              </subref>
+            </aref>
+            , covering all of the contractors&apos; undertaking under the
+            contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers shall make sure that their contractors, engineers, and
+            architects comply with the insurance and bond requirements of their
+            contracts.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14721'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:C:1788.48
+      </extid>
+      <num st='1'>
+        1788.48
+      </num>
+      <head>
+        Contract insurance requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='48' psec='' tq='N'>
+              1788.48
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract insurance requirements.
+        </SUBJECT>
+        <P>
+          Contracts entered into between borrowers and contractors, engineers,
+          and architects shall provide that they take out and maintain
+          throughout the contract period insurance of the following types and
+          minimum amounts:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Workers&apos; compensation and employers&apos; liability insurance,
+            as required by law, covering all their employees who perform any of
+            the obligations of the contractor, engineer, and architect under the
+            contract. If any employer or employee is not subject to the
+            workers&apos; compensation laws of the governing state, then
+            insurance shall be obtained voluntarily to extend to the employer 
+            <PRTPAGE P='395' />
+            and employee coverage to the same extent as though the employer or
+            employee were subject to the workers&apos; compensation laws.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Public liability insurance covering all operations under the
+            contract shall have limits for bodily injury or death of not less
+            than $1 million each occurrence, limits for property damage of not
+            less than $1 million each occurrence, and $1 million aggregate for
+            accidents during the policy period. A single limit of $1 million of
+            bodily injury and property damage is acceptable. This required
+            insurance may be in a policy or policies of insurance, primary and
+            excess including the umbrella or catastrophe form.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Automobile liability insurance on all motor vehicles used in
+            connection with the contract, whether owned, non-owned, or hired,
+            shall have limits for bodily injury or death of not less than $1
+            million per person and $1 million per occurrence, and property
+            damage limits of $1 million for each occurrence. This required
+            insurance may be in a policy or policies of insurance, primary and
+            excess including the umbrella or catastrophe form.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             When a borrower contracts for the installation of major equipment
+            by other than the supplier or for the moving of major equipment from
+            one location to another, the contractor shall furnish the borrower
+            with an installation floater policy. The policy shall cover all
+            risks of damage to the equipment until completion of the
+            installation contract.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14722'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:C:1788.49
+      </extid>
+      <num st='1'>
+        1788.49
+      </num>
+      <head>
+        Contractors&apos; bond requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='49' psec='' tq='N'>
+              1788.49
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contractors&apos; bond requirements.
+        </SUBJECT>
+        <P>
+          Construction contracts in amounts in excess of $250,000 for facilities
+          shall require contractors to secure a contractors&apos; bond, on a
+          form approved by RUS, attached to the contract in a penal sum of not
+          less than the contract price, which is the sum of all labor and
+          materials including owner-furnished materials installed in the
+          project. RUS Form 168b is for use when the contract exceeds $250,000.
+          RUS Form 168c is for use when the contractor&apos;s surety has
+          accepted a Small Business Administration guarantee and the contract is
+          for $1,000,000 or less. For minor construction contracts under which
+          work will be done in sections and no section will exceed a total cost
+          of $250,000, the borrower may waive the requirement for a
+          contractors&apos; bond.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14723'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:C:1788.50
+      </extid>
+      <num st='1'>
+        1788.50
+      </num>
+      <head>
+        Acceptable sureties.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='50' psec='' tq='N'>
+              1788.50
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Acceptable sureties.
+        </SUBJECT>
+        <P>
+          Surety companies providing contractors&apos; bonds shall be listed as
+          acceptable sureties in the U.S. Department of Treasury Circular No.
+          570. The circular is maintained through periodic publication in the 
+          <E T='04'>
+            Federal Register
+          </E>
+           and is available on the Internet under
+          ftp://ftp.fedworld.gov/pub/tel/sureties.txt, and on the Department of
+          the Treasury&apos;s computer bulletin board at 202-874-6817.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14724'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:C:1788.51-1788.53
+      </extid>
+      <num st='2'>
+        1788.51-1788.53
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1788' sect='51-1788' psec='' tq='N'>
+              1788.51-1788
+            </subref>
+          </aref>
+          .53
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14725'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:C:1788.54
+      </extid>
+      <num st='1'>
+        1788.54
+      </num>
+      <head>
+        Compliance with contracts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='54' psec='' tq='N'>
+              1788.54
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance with contracts.
+        </SUBJECT>
+        <P>
+          It is the responsibility of the borrower to determine, before the
+          commencement of work, that the engineer, architect, and the contractor
+          have insurance that complies with their contract requirements.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14726'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1788:C:1788.55
+      </extid>
+      <num st='1'>
+        1788.55
+      </num>
+      <head>
+        Providing RUS evidence.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1788' sect='55' psec='' tq='N'>
+              1788.55
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Providing RUS evidence.
+        </SUBJECT>
+        <P>
+          When RUS shall specifically so direct, the borrower shall also require
+          the engineer, the architect, and the contractor, to forward to RUS
+          evidence of compliance with their contract representative of the
+          insurance company and include a provision that no change in or
+          cancellation of any policy listed in the certificate will be made
+          without the prior written notice to the borrower and to RUS.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

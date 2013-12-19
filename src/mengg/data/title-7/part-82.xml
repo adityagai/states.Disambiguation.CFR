@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:D:82
+    </extid>
+    <num>
+      82
+    </num>
+    <head>
+      CLINGSTONE PEACH DIVERSION PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='612c' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/612c.html'>
+              7 U.S.C. 612c
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <PRTPAGE P='232' />
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            70 FR 67312
+          </aref>
+          , Nov. 4, 2005, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='3979'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.1
+      </extid>
+      <num st='1'>
+        82.1
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='1' psec='' tq='N'>
+              82.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          Pursuant to the authority conferred by 
+          <aref type='UNKNOWN'>
+            Section 32 of
+          </aref>
+           the Act of August 24, 1935, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='612c' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/612c.html'>
+              7 U.S.C. 612c
+            </subref>
+          </aref>
+          ) (
+          <aref type='CFR-TIC-SECT'>
+            Section 32
+          </aref>
+          ), the Agricultural Marketing Service (AMS) will make payment to
+          California growers who divert clingstone peaches by removing trees on
+          which the fruit is produced in accordance with the terms and
+          conditions set forth herein.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3980'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.2
+      </extid>
+      <num st='1'>
+        82.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='2' psec='' tq='N'>
+              82.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          The program will be administered under the general direction and
+          supervision of the Deputy Administrator, Fruit and Vegetable Programs,
+          AMS, United States Department of Agriculture (USDA), and will be
+          implemented by the California Canning Peach Association (CCPA). The
+          CCPA, or its authorized representatives, does not have authority to
+          modify or waive any of the provisions of this subpart. The
+          Administrator or delegatee, in the Administrator&apos;s or
+          delegatee&apos;s sole discretion can modify deadlines to serve the
+          goals of the program. In all cases, payments under this part are
+          subject to the availability of funds.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3981'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.3
+      </extid>
+      <num st='1'>
+        82.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='3' psec='' tq='N'>
+              82.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Administrator
+            </E>
+             means the Administrator of AMS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              AMS
+            </E>
+             means the Agricultural Marketing Service of the U.S. Department of
+            Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Application
+            </E>
+             means “Application for Clingstone Peach Tree Removal Program.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Calendar year
+            </E>
+             means the 12-month period beginning January 1 and ending the
+            following December 31.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              CCPA
+            </E>
+             means the California Canning Peach Association, a grower-owned
+            marketing and bargaining cooperative representing the clingstone
+            peach industry in California.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Diversion
+            </E>
+             means the removal of clingstone peach trees after approval of
+            applications by the CCPA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Grower
+            </E>
+             means an individual, partnership, association, or corporation in
+            the State of California who grows clingstone peaches for canning.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Removal or removed
+            </E>
+             means that the clingstone peach trees are no longer standing and
+            capable of producing a crop, and the roots of the trees have been
+            removed. The grower can accomplish removal by any means the grower
+            desires. Grafting another type of tree to the rootstock remaining
+            after removing the clingstone peach tree will not qualify as removal
+            under this program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3982'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.4
+      </extid>
+      <num st='1'>
+        82.4
+      </num>
+      <head>
+        Length of program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='4' psec='' tq='N'>
+              82.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Length of program.
+        </SUBJECT>
+        <P>
+          This program is effective November 5, 2005, through November 9, 2015.
+          Growers diverting clingstone peaches by removing clingstone peach
+          trees must complete the diversion no later than June 1, 2006.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3983'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.5
+      </extid>
+      <num st='1'>
+        82.5
+      </num>
+      <head>
+        General requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='5' psec='' tq='N'>
+              82.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for this program, the trees to be removed must be
+            fruit-bearing and have been planted after the 1987 and before the
+            2003 calendar years. Abandoned orchards and dead trees will not
+            qualify. The block of trees for removal must be easily definable by
+            separations from other blocks of eligible trees and contain at least
+            1,000 eligible trees or an entire orchard. Clingstone peach tree
+            removal shall not take place until the grower has been informed in
+            writing that the grower&apos;s application has been approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any grower participating in this program must agree not to replant
+            clingstone peach trees on the land cleared under this program
+            through June 1, 2016. Participants bear responsibility for ensuring
+            that trees are not replanted, whether by themselves, by successors
+            to the land, or by any other person, until after June 1, 2016. If
+            trees are replanted before June 1, 2016, by any persons,
+            participants must refund all USDA payments, with interest, made in
+            connection with this tree removal program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3984'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.6
+      </extid>
+      <num st='1'>
+        82.6
+      </num>
+      <head>
+        Rate of payment; total payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='6' psec='' tq='N'>
+              82.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Rate of payment; total payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications will be processed on a first-come, first-served basis.
+            Growers will be paid $100 per ton based on their actual 2005
+            deliveries of clingstone peaches to processors from those acres of
+            clingstone peach trees removed under this program, except 
+            <PRTPAGE P='233' />
+            that, regardless of actual 2005 deliveries, growers will receive a
+            minimum of $500 per acre and a maximum of $1,700 per acre.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payment under paragraph (a) of this section will only be made after
+            tree removal has been verified by the staff of the CCPA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The $100 per ton payment is intended to cover the costs of tree
+            removal. USDA will not make any other payment with respect to such
+            removals. The grower will be responsible for arranging, requesting,
+            and paying for the tree removal in the specified acreage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Total payments under this program are limited to not more than
+            $5,000,000 of 
+            <aref type='CFR-TIC-SECT'>
+              Section 32
+            </aref>
+             funds. No additional expenditures shall be made unless the
+            Administrator or delegatee in their sole and exclusive discretion
+            shall, in writing, declare otherwise.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3985'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.7
+      </extid>
+      <num st='1'>
+        82.7
+      </num>
+      <head>
+        Eligibility for payment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='7' psec='' tq='N'>
+              82.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility for payment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If total applications for payment do not exceed $5,000,000, less
+            administration costs, payments, as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='82' sect='6' psec='' tq='N'>
+                82.6
+              </subref>
+            </aref>
+            , will be made under this program to any grower of clingstone
+            peaches who complies with the requirements in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='82' sect='8' psec='' tq='N'>
+                82.8
+              </subref>
+            </aref>
+             and all other terms and conditions in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If applications for participation in the program authorized by this
+            part exceed $5,000,000, less administration costs, the CCPA will
+            approve the applications (subject to the requirements in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='82' sect='8' psec='' tq='N'>
+                82.8
+              </subref>
+            </aref>
+            ) in the order in which the completed applications are received in
+            the CCPA office to the extent that funds are available. Applications
+            received after total outlays exceed the amount of money available
+            will be denied.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3986'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.8
+      </extid>
+      <num st='1'>
+        82.8
+      </num>
+      <head>
+        Application and approval for participation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='8' psec='' tq='N'>
+              82.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application and approval for participation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications will be reviewed for program compliance and approved
+            or disapproved by CCPA office personnel.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Applications for participation in the Clingstone Peach Diversion
+            Program can be obtained from the CCPA office at 2300 River Plaza
+            Drive, Suite 110, Sacramento, CA 95833; Telephone: (916) 925-9131;
+            Fax: (916) 925-9030; at 335 Teegarden Avenue, Suite A, Yuba City, CA
+            95991; Telephone: (530) 673-8526; Fax: (530) 673-2673; or at 1704
+            Herndon Road, Ceres, CA 95307; Telephone: (209) 537-0715; Fax: (209)
+            537-1043.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any grower desiring to participate in the Clingstone Peach
+            Diversion Program must file an application with the CCPA prior to
+            November 30, 2005. The application shall be accompanied by a copy of
+            any two of the following four documents: Plot Map from the County
+            Hall of Records; Irrigation Tax Bill; County Property Tax Bill; or
+            any other documents containing an Assessor&apos;s Parcel Number.
+            Such application shall include at least the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The name, address, telephone number, and tax identification number
+            or social security number of the grower;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The location and amount of acreage to be diverted;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The 2005 clingstone peach production from the acreage to be
+            diverted;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If the land with respect to which the clingstone peach trees will
+            be destroyed is subject to a mortgage, statutory lien, or other
+            equity interest, the grower must obtain from the holder of such
+            interest a written statement that such party agrees to the
+            enrollment of such land in this program to the extent determined
+            necessary by AMS. Obtaining such assent shall be the responsibility
+            of the applicant who shall alone bear any responsibilities which may
+            extend to such third parties;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the applicant agrees to comply with all of the
+            regulations established for the clingstone peach diversion program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant shall sign the application certifying that the
+            information contained in the application is true and correct;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The year that the clingstone peach acreage to be diverted was
+            planted;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             The names of the processors who received the clingstone peaches
+            from the grower in 2005.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             After the CCPA receives the applications, it shall review them to
+            determine whether all the required information has been provided and
+            that the information is correct.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If the deliveries off the acreage to be removed in such
+            applications, multiplied by $100 per ton (for actual 2005 deliveries
+            on these acres, but within the 
+            <PRTPAGE P='234' />
+            constraints of a minimum payment of $500 per acre and a maximum
+            payment of $1,700 per acre), exceed the amount of funds available
+            for the diversion program, each grower&apos;s application will be
+            considered in the order in which they are received at the CCPA
+            offices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             After the application reviews and confirmation of eligible trees
+            are completed, the CCPA shall notify the applicant, in writing, as
+            to whether or not the application has been approved and the tonnage
+            approved for payment after removal. If an application is not
+            approved, the notification shall specify the reason(s) for
+            disapproval.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3987'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.9
+      </extid>
+      <num st='1'>
+        82.9
+      </num>
+      <head>
+        Inspection and certification of diversion.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='9' psec='' tq='N'>
+              82.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspection and certification of diversion.
+        </SUBJECT>
+        <P>
+          When the removal of the clingstone peach trees is complete, the grower
+          will notify the CCPA on a form provided by the CCPA. The CCPA will
+          certify that the trees approved for removal from the acreage have been
+          removed, and notify AMS.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3988'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.10
+      </extid>
+      <num st='1'>
+        82.10
+      </num>
+      <head>
+        Claim for payment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='10' psec='' tq='N'>
+              82.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Claim for payment.
+        </SUBJECT>
+        <P>
+          To obtain payment for the trees removed, the grower must submit to the
+          CCPA by July 31, 2006, a completed form provided by the CCPA. Such
+          form shall include the CCPA&apos;s certification that the qualifying
+          trees from the acreage have been removed. AMS will then issue a check
+          to the grower in the amount of $100 per eligible ton removed
+          consistent with the minimum and maximum payments per acre earlier
+          specified in this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3989'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.11
+      </extid>
+      <num st='1'>
+        82.11
+      </num>
+      <head>
+        Compliance with program provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='11' psec='' tq='N'>
+              82.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance with program provisions.
+        </SUBJECT>
+        <P>
+          If USDA or the CCPA determines that any provision of this part have
+          not been complied with by the grower, the grower will not be entitled
+          to diversion payments in connection with tree removal. If a grower
+          does not comply with all the terms of this part, including the
+          requirement specified in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='5' psec='#b' tq='N'>
+              82.5(b)
+            </subref>
+          </aref>
+          , the grower must refund any payment made in connection with this
+          program, and will also be liable for any other damages incurred as a
+          result of such failure. The USDA may deny any grower the right to
+          participate in this program or the right to receive payments in
+          connection with any diversion previously made under this program, or
+          both, if the USDA determines that:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The grower has failed to properly remove the clingstone peach trees
+            from the applicable acreage, regardless of whether such failure was
+            caused directly by the grower or by any other person or persons;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The grower has not acted in good faith, or has engaged in a scheme,
+            fraud, or device, in connection with any activity under this
+            program; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The grower has failed to discharge fully any obligation assumed by
+            him or her under this program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3990'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.12
+      </extid>
+      <num st='1'>
+        82.12
+      </num>
+      <head>
+        Inspection of premises.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='12' psec='' tq='N'>
+              82.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspection of premises.
+        </SUBJECT>
+        <P>
+          The grower must permit authorized representatives of USDA or the CCPA,
+          at any reasonable time, to have access to their premises to inspect
+          and examine the acreage where the trees were removed as well as any
+          records pertaining to that acreage to determine compliance with the
+          provisions of this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3991'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.13
+      </extid>
+      <num st='1'>
+        82.13
+      </num>
+      <head>
+        Records and accounts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='13' psec='' tq='N'>
+              82.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Records and accounts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The growers participating in this program must keep accurate
+            records and accounts showing the details relative to the clingstone
+            peach tree removal, including the contract entered into with any
+            firm removing the trees, as well as the invoices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The growers must permit authorized representatives of USDA, the
+            CCPA, and the Government Accountability Office at any reasonable
+            time to inspect, examine, and make copies of such records and
+            accounts to determine compliance with provisions of this part. Such
+            records and accounts must be retained for ten years after the date
+            of payment to the grower under the program, or for ten years after
+            the date of any audit of records by USDA, whichever is later. Any
+            destruction of records by the grower at any time will be at the risk
+            of the grower when there is reason to know, believe, or suspect that
+            matters may be or could be in dispute or remain in dispute.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3992'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.14
+      </extid>
+      <num st='1'>
+        82.14
+      </num>
+      <head>
+        Offset, assignment, and prompt payment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='14' psec='' tq='N'>
+              82.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Offset, assignment, and prompt payment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any payment or portion thereof due any person under this part shall
+            be allowed without regard to questions of 
+            <PRTPAGE P='235' />
+            title under State law, and without regard to any claim or lien
+            against the crop proceeds thereof in favor of the grower or any
+            other creditors except agencies of the U.S. Government.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payments which are earned by a grower under this program may be
+            assigned in the same manner as allowed under the provisions of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1404' tq='N'>
+                1404
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3993'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.15
+      </extid>
+      <num st='1'>
+        82.15
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='15' psec='' tq='N'>
+              82.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          Any grower who is dissatisfied with a determination made pursuant to
+          this part may make a request for reconsideration or appeal of such
+          determination. The Deputy Administrator of Fruit and Vegetable
+          Programs shall establish the procedure for such appeals.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3994'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.16
+      </extid>
+      <num st='1'>
+        82.16
+      </num>
+      <head>
+        Refunds; joint and several liability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='16' psec='' tq='N'>
+              82.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Refunds; joint and several liability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In the event there is a failure to comply with any term,
+            requirement, or condition for payment arising under the application
+            of this part, and if any refund of a payment to AMS shall otherwise
+            become due in connection with the application of this part, all
+            payments made under this part to any grower shall be refunded to AMS
+            together with interest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All growers signing an application for payment as having an
+            interest in such payment shall be jointly and severally liable for
+            any refund, including related charges, that is determined to be due
+            for any reason under the terms and conditions of the application of
+            this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Interest shall be applicable to refunds required of any grower
+            under this part if AMS determines that payments or other assistance
+            were provided to a grower who was not eligible for such assistance.
+            Such interest shall be charged at the rate of interest that the
+            United States Treasury charges the Commodity Credit Corporation
+            (CCC) for funds, as of the date AMS made benefits available to such
+            grower. Such interest shall accrue from the date of repayment or the
+            date interest increases as determined in accordance with applicable
+            regulations. AMS may waive the accrual of interest if AMS determines
+            that the cause of the erroneous determination was not due to any
+            action of the grower.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Interest determined in accordance with paragraph (c) of this
+            section may be waived on refunds required of the grower when there
+            was no intentional noncompliance on the part of the grower, as
+            determined by AMS. Such decision to waive or not waive the interest
+            shall be at the discretion of the Administrator or delegatee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Late payment interest shall be assessed on all refunds in
+            accordance with the provisions of, and subject to the rates
+            prescribed for, those claims which are addressed in 
+            <aref type='CFR'>
+              14 CFR part 
+              <subref title='14' part='1403' tq='N'>
+                1403
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Growers must refund to AMS any excess payments, as determined by
+            AMS, with respect to such application. Such determinations shall be
+            made by the Administrator or delegatee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             In the event that a benefit under this part was provided as the
+            result of erroneous information provided by the grower, or was
+            erroneously or improperly paid for any other reason, the benefit
+            must be repaid with any applicable interest, subject to paragraphs
+            (c) and (d) of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='82' sect='6' psec='' tq='N'>
+                82.6
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='3995'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:D:82:-:82.17
+      </extid>
+      <num st='1'>
+        82.17
+      </num>
+      <head>
+        Death, incompetency, or disappearance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='82' sect='17' psec='' tq='N'>
+              82.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Death, incompetency, or disappearance.
+        </SUBJECT>
+        <P>
+          In the case of death, incompetency, disappearance, or dissolution of a
+          clingstone peach grower that is eligible to receive benefits in
+          accordance with this part, any person or persons who will, under 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='707' tq='N'>
+              707 of this title
+            </subref>
+          </aref>
+          , be eligible for payments and benefits covered by this part, may
+          receive such benefits otherwise due the actual producer, as determined
+          appropriate by AMS.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

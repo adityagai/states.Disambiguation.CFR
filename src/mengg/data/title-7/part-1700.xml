@@ -1,0 +1,3603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol11'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1700
+    </extid>
+    <num>
+      1700
+    </num>
+    <head>
+      GENERAL INFORMATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+            , 
+            <subref title='5' sect='552' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              552
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.,
+          </E>
+           1921 
+          <E T='03'>
+            et seq.,
+          </E>
+           6941 
+          <E T='03'>
+            et seq.
+          </E>
+          ; 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='7' psec='' tq='N'>
+              2.7
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            63 FR 16085
+          </aref>
+          , Apr. 2, 1998, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='13376'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:A:1700.1
+      </extid>
+      <num st='1'>
+        1700.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='1' psec='' tq='N'>
+              1700.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Rural Electrification Administration (REA) was established by
+            Executive Order No. 7037 on May 11, 1935. Statutory authority was
+            provided by the Rural Electrification Act of 1936 (RE Act) (
+            <aref type='USC'>
+              <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+                7 U.S.C. 901
+              </subref>
+            </aref>
+            ). The RE Act established REA as a lending agency with
+            responsibility for developing a program for rural electrification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             On October 28, 1949, the RE Act was amended to authorize REA to
+            make loans to improve and extend telephone service in rural areas.
+            The Rural Telephone Bank (RTB), an agency of the United States, was
+            established by amendment to the RE Act, approved May 7, 1971. The
+            Administrator of RUS serves as the Bank&apos;s chief executive with
+            the title of Governor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary of Agriculture (Secretary) established the Rural
+            Utilities Service (RUS) on October 20, 1994, pursuant to the
+            Department of Agriculture Reorganization Act of 1994, (
+            <aref type='USC'>
+              <subref title='7' sect='6941' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6941.html'>
+                7 U.S.C. 6941
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ). RUS was assigned responsibility for administering electric and
+            telecommunications loan and loan guarantee programs previously
+            administered by REA, including programs of the Rural Telephone Bank
+            (RTB), and water and waste loans and grants previously administered
+            by the Rural Development Administration, along with other functions
+            as the Secretary determined appropriate. The rights, interests,
+            obligations, duties, and contracts previously vested in REA were
+            transferred to, and vested in RUS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13377'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:A:1700.2
+      </extid>
+      <num st='1'>
+        1700.2
+      </num>
+      <head>
+        Availability of information.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 16085
+        </aref>
+        , Apr. 2, 1998, as amended at 
+        <aref type='FREGIST'>
+          71 FR 8435
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='2' psec='' tq='N'>
+              1700.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of information.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The offices of RUS are located in the South Building of the United
+            States Department of Agriculture at 1400 Independence Avenue, SW,
+            Washington, DC 20250-1500. Hours of operation are from 8:15 AM to
+            4:45 PM, Eastern time on Federal Government business days.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Information about RUS is available for public inspection and
+            copying as required by the Freedom of Information Act, 
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+                5 U.S.C. 552
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+             Information about availability and costs of 
+            <PRTPAGE P='20' />
+            agency publications and other agency materials is available from the
+            Director, Program Development and Regulatory Analysis, Rural
+            Utilities Service, United States Department of Agriculture, Room
+            5159-S, 1400 Independence Avenue, SW., STOP 1530, Washington, DC
+            20250-1530. Phone 202-720-9450. FAX 202-720-8435.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             RUS issues indexes of publications in conformance with the Freedom
+            of Information Act and Department of Agriculture regulations at 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1' tq='N'>
+                1
+              </subref>
+            </aref>
+            . Many RUS documents, including regulations and delegations of
+            authority for headquarters and field staff are available on the
+            world wide web at 
+            <E T='03'>
+              http://www.usda.gov/rus.
+            </E>
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 16085
+          </aref>
+          , Apr. 2, 1998, as amended at 
+          <aref type='FREGIST'>
+            71 FR 8435
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13378'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:A:1700.3
+      </extid>
+      <num st='1'>
+        1700.3
+      </num>
+      <head>
+        Requests under the Freedom of Information Act.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 8435
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='3' psec='' tq='N'>
+              1700.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requests under the Freedom of Information Act.
+        </SUBJECT>
+        <P>
+          Department of Agriculture procedures for requests for records under
+          the Freedom of Information Act are found at 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1' tq='N'>
+              1
+            </subref>
+          </aref>
+          . Requests must be in writing and may be submitted in person or by
+          mail to United States Department of Agriculture, Rural Utilities
+          Service, Room 5159-S, 1400 Independence Avenue, SW., STOP 1530,
+          Washington, DC 20250-1530; or by FAX to 202-401-1977. As set forth in 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='16' psec='' tq='N'>
+              1.16
+            </subref>
+          </aref>
+          , fees may be charged for processing of requests for records. An
+          appeal of the agency determination concerning the request for official
+          records shall be made in writing to the Administrator, Rural Utilities
+          Service, United States Department of Agriculture, Room 5135-S, 1400
+          Independence Avenue, SW., STOP 1510, Washington, DC 20250-1510.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 8435
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13379'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:A:1700.4
+      </extid>
+      <num st='1'>
+        1700.4
+      </num>
+      <head>
+        Public comments on proposed rules.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 8435
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='4' psec='' tq='N'>
+              1700.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Public comments on proposed rules.
+        </SUBJECT>
+        <P>
+          RUS requires that all persons submitting comments to a proposed rule
+          or other document published by the agency in the 
+          <E T='04'>
+            Federal Register,
+          </E>
+           submit comments as specified in the published notice. Copies of
+          comments submitted are available to the public in conformance with 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1' tq='N'>
+              1
+            </subref>
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 8435
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13380'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:A:1700.5-1700.24
+      </extid>
+      <num st='2'>
+        1700.5-1700.24
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1700' sect='5-1700' psec='' tq='N'>
+              1700.5-1700
+            </subref>
+          </aref>
+          .24
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13381'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.25
+      </extid>
+      <num st='1'>
+        1700.25
+      </num>
+      <head>
+        Office of the Administrator.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='25' psec='' tq='N'>
+              1700.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Office of the Administrator.
+        </SUBJECT>
+        <P>
+          The Administrator, who also serves as Governor of the RTB, is
+          appointed by the President, with the advice and consent of the Senate.
+          The Under Secretary, Rural Development delegated to the Administrator,
+          in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='2' tq='N'>
+              2
+            </subref>
+          </aref>
+          , responsibility for administering the programs and activities of RUS
+          and RTB. The Administrator is aided directly by Deputy Administrators
+          and by Assistant Administrators for the electric program,
+          telecommunications program, the water and environmental programs, and
+          program accounting and regulatory analysis, and by other staff
+          offices. The work of the agency is carried out as described in this
+          part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13382'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.26
+      </extid>
+      <num st='1'>
+        1700.26
+      </num>
+      <head>
+        Deputy Administrator.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 8435
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='26' psec='' tq='N'>
+              1700.26
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Deputy Administrator.
+        </SUBJECT>
+        <P>
+          The Deputy Administrator aids and assists the Administrator. The
+          Deputy Administrator provides overall policy direction to all RUS
+          programs. The Deputy Administrator reviews agency policies and, as
+          necessary, implements changes and participates with the Administrator
+          and other officials in planning and formulating the programs and
+          activities of the agency, including the making and servicing of loans
+          and grants. The Deputy Administrator is “first assistant” for purposes
+          of the Federal Vacancies Reform Act of 1998 (
+          <aref type='USC'>
+            <subref title='5' sect='3345-334' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/3345-334.html'>
+              5 U.S.C. 3345-334
+            </subref>
+          </aref>
+          9d).
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 8435
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13383'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.27
+      </extid>
+      <num st='1'>
+        1700.27
+      </num>
+      <head>
+        Chief of Staff.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='27' psec='' tq='N'>
+              1700.27
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Chief of Staff.
+        </SUBJECT>
+        <P>
+          The Chief of Staff aids and assists the Administrator and the Deputy
+          Administrator. The Chief of Staff advises the Administrator regarding
+          policy initiatives and operational issues and assists the
+          Administrator and the Deputy Administrator in developing and planning
+          agency program initiatives. The Chief of Staff is responsible for
+          implementation of overall policy initiatives and provides direction to
+          all RUS programs.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13384'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.28
+      </extid>
+      <num st='1'>
+        1700.28
+      </num>
+      <head>
+        Electric Program.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 16085
+        </aref>
+        , Apr. 2, 1998. Redesignated at 
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <PRTPAGE P='21' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='28' psec='' tq='N'>
+              1700.28
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Electric Program.
+        </SUBJECT>
+        <P>
+          RUS, through the Electric Program, makes loans and loan guarantees for
+          rural electrification and the furnishing of electric service to
+          persons in rural areas.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Assistant Administrator, Electric Program,
+            </E>
+             directs and coordinates the rural electrification programs,
+            participating with the Administrator, and others, in planning and
+            formulating the programs and activities of the agency, and performs
+            other activities as the Administrator may prescribe from time to
+            time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Primary point of contact with borrowers.
+            </head>
+          </npcatch>
+          <text>
+            Two regional divisions, one for the Northern Region and one for the
+            Southern Region, are the primary points of contact between RUS and
+            its electric distribution borrowers. Each office administers the
+            rural electric program for its assigned geographical area through
+            headquarters staff and general field representatives. The Power
+            Supply Division is the primary point of contact between RUS and its
+            electric power supply borrowers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Staff office.
+            </head>
+          </npcatch>
+          <text>
+            The Electric Staff Division is responsible for engineering aspects
+            of RUS&apos; standards, specifications and other requirements for
+            design, construction, and technical operation and maintenance of RUS
+            borrowers&apos; electric systems. The Electric Staff Division
+            oversees the activities of Technical Standards Committees “A” and
+            “B”, Electric, which determine whether engineering specifications,
+            drawings, material and equipment are acceptable for use in RUS
+            borrowers&apos; electric systems. The Office of the Assistant
+            Administrator prepares analyses of loan making activities and the
+            business and regulatory environment of RUS borrowers and recommends
+            policies and procedures.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 16085
+          </aref>
+          , Apr. 2, 1998. Redesignated at 
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13385'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.29
+      </extid>
+      <num st='1'>
+        1700.29
+      </num>
+      <head>
+        Telecommunications Program.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 16085
+        </aref>
+        , Apr. 2, 1998; 
+        <aref type='FREGIST'>
+          63 FR 18307
+        </aref>
+        , Apr. 15, 1998. Redesignated at 
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='29' psec='' tq='N'>
+              1700.29
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Telecommunications Program.
+        </SUBJECT>
+        <P>
+          RUS and RTB, through the Telecommunications Program, make loans and
+          loan guarantees to furnish and improve telecommunications service in
+          rural areas.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Assistant Administrator, Telecommunications Program,
+            </E>
+             directs and coordinates the rural telecommunications programs,
+            including the distance learning and telemedicine program, and in
+            conjunction with the Administrator and Deputy Administrator, and
+            others, the planning and formulating of programs and activities of
+            the agency, and performs other activities as the Administrator may
+            prescribe from time to time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Primary point of contact with borrowers.
+            </head>
+          </npcatch>
+          <text>
+            Area offices are the primary points of contact between RUS and all
+            telecommunications program borrowers. Each office administers the
+            rural telecommunications program for its assigned geographical area
+            with assistance of field representatives located in areas assigned
+            to them.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Staff offices.
+            </head>
+          </npcatch>
+          <text>
+            The Telecommunications Staff Division is responsible for engineering
+            aspects of design, construction, and technical operation and
+            maintenance of rural telecommunications systems and facilities,
+            including the activities of Technical Standards Committees “A” and
+            “B”, Telecommunications, which determine whether engineering
+            specifications, drawings, material, and equipment are acceptable for
+            use in RUS financed telecommunications systems. The Advanced
+            Telecommunications Services office prepares analyses of loan making
+            activities and the business and regulatory environment of RUS
+            borrowers and recommends policies and procedures.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 16085
+          </aref>
+          , Apr. 2, 1998; 
+          <aref type='FREGIST'>
+            63 FR 18307
+          </aref>
+          , Apr. 15, 1998. Redesignated at 
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13386'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.30
+      </extid>
+      <num st='1'>
+        1700.30
+      </num>
+      <head>
+        Water and Environmental Programs.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 16085
+        </aref>
+        , Apr. 2, 1998. Redesignated at 
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='30' psec='' tq='N'>
+              1700.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Water and Environmental Programs.
+        </SUBJECT>
+        <P>
+          RUS, through the Water and Environmental Programs, provides loan and
+          grant funds for water and waste disposal projects serving the most
+          financially needy rural communities.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Assistant Administrator, Water and Environmental Programs,
+            </E>
+             develops and institutes plans, procedures, and policies for the
+            effective, efficient, and orderly management of Water and
+            Environmental Programs responsibilities; provides leadership to
+            ensure execution of policies and procedures by the Water 
+            <PRTPAGE P='22' />
+            and Waste Disposal programs and support functions; and performs
+            other activities as the Administrator or Deputy Administrator may
+            prescribe from time to time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Primary point of contact.
+            </head>
+          </npcatch>
+          <text>
+             The State Rural Development Offices are the primary points of
+            contact between RUS and loan and grant recipients.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Engineering and Environmental Staff
+            </E>
+             is responsible for engineering staff activities at all stages of
+            Water and Waste Disposal programs implementation, including review
+            of preliminary engineering plans and specifications, procurement
+            practices, contract awards, construction monitoring, and system
+            operation and maintenance. This staff develops agency engineering
+            practices, policies, guidelines, and technical data relating to the
+            construction and operation of water and waste disposal systems, and
+            for implementing the National Environmental Policy Act, and other
+            environmental requirements as they apply to all agency programs and
+            activities.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 16085
+          </aref>
+          , Apr. 2, 1998. Redesignated at 
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13387'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.31
+      </extid>
+      <num st='1'>
+        1700.31
+      </num>
+      <head>
+        Distance Learning and Telemedicine Loan and Grant Program.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 16085
+        </aref>
+        , Apr. 2, 1998; 
+        <aref type='FREGIST'>
+          63 FR 18307
+        </aref>
+        , Apr. 15, 1998. Redesignated at 
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='31' psec='' tq='N'>
+              1700.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Distance Learning and Telemedicine Loan and Grant Program.
+        </SUBJECT>
+        <P>
+          RUS, through the Telecommunications Program, makes grants and loans to
+          furnish and improve telemedicine services and distance learning
+          services in rural areas.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Assistant Administrator, Telecommunications Program,
+            </E>
+             directs and coordinates the distance learning and telemedicine
+            program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Primary point of contact with borrowers.
+            </head>
+          </npcatch>
+          <text>
+             The area offices, described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1700' sect='28' psec='#b' tq='N'>
+                1700.28(b)
+              </subref>
+            </aref>
+             support the distance learning and telemedicine program. Each office
+            administers the distance learning and telemedicine program for its
+            assigned geographical area with assistance of field representatives
+            located in areas assigned to them.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 16085
+          </aref>
+          , Apr. 2, 1998; 
+          <aref type='FREGIST'>
+            63 FR 18307
+          </aref>
+          , Apr. 15, 1998. Redesignated at 
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13388'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.32
+      </extid>
+      <num st='1'>
+        1700.32
+      </num>
+      <head>
+        Program Accounting and Regulatory Analysis.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 16085
+        </aref>
+        , Apr. 2, 1998. Redesignated at 
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='32' psec='' tq='N'>
+              1700.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program Accounting and Regulatory Analysis.
+        </SUBJECT>
+        <P>
+          RUS, through Program Accounting and Regulatory Analysis, monitors and
+          administers applicable regulations, RUS policy, and accounting
+          requirements. The staffs assist the Assistant Administrator with
+          respect to management, information systems, budgets, and other such
+          matters.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Assistant Administrator, Program Accounting and Regulatory
+              Analysis,
+            </E>
+             directs and coordinates program accounting and financial services
+            with respect to electric and telecommunications borrowers and
+            directs and coordinates the regulatory actions of the agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This division monitors borrowers&apos; accounting operations in
+            order to ensure compliance with applicable statutory and regulatory
+            requirements and with the requirements of the Office of Management
+            and Budget.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The two regional branches (the Northern Region and the Southern
+            Region) work directly with borrowers. Each regional office has a
+            staff of headquarters and field accountants. The Technical
+            Accounting and Auditing Staff monitors industry developments,
+            including the standards of the Financial Accounting Standards Board,
+            and recommends Agency policies and procedures.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Program Development and Regulatory Analysis directs and administers
+            the preparation, clearance, processing, and distribution of RUS
+            submissions to the Office of the Federal Register in the form of
+            proposed and final rules and notices and RUS bulletins and staff
+            instructions.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 16085
+          </aref>
+          , Apr. 2, 1998. Redesignated at 
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13389'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.33
+      </extid>
+      <num st='1'>
+        1700.33
+      </num>
+      <head>
+        Financial Services Staff.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 16085
+        </aref>
+        , Apr. 2, 1998. Redesignated at 
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='33' psec='' tq='N'>
+              1700.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial Services Staff.
+        </SUBJECT>
+        <P>
+          The Financial Services Staff evaluates the financial condition of
+          financially troubled borrowers in order to protect the
+          Government&apos;s interests.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 16085
+          </aref>
+          , Apr. 2, 1998. Redesignated at 
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13390'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.34
+      </extid>
+      <num st='1'>
+        1700.34
+      </num>
+      <head>
+        Assistance to High Energy Cost Rural Communities.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 5351
+        </aref>
+        , Feb. 2, 2005. Redesignated at 
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='34' psec='' tq='N'>
+              1700.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Assistance to High Energy Cost Rural Communities.
+        </SUBJECT>
+        <P>
+          RUS, through the Electric Program, makes grants and loans to assist
+          high energy cost rural communities. The Assistant Administrator,
+          Electric Program, directs and coordinates the assistance to high
+          energy cost rural communities program and serves as the 
+          <PRTPAGE P='23' />
+          primary point of contact for applicants, grantees, and borrowers.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 5351
+          </aref>
+          , Feb. 2, 2005. Redesignated at 
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13391'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:B:1700.35-1700.49
+      </extid>
+      <num st='2'>
+        1700.35-1700.49
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1700' sect='35-1700' psec='' tq='N'>
+              1700.35-1700
+            </subref>
+          </aref>
+          .49
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13392'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:C:1700.50-1700.52
+      </extid>
+      <num st='2'>
+        1700.50-1700.52
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1700' sect='50-1700' psec='' tq='N'>
+              1700.50-1700
+            </subref>
+          </aref>
+          .52
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13393'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:C:1700.53
+      </extid>
+      <num st='1'>
+        1700.53
+      </num>
+      <head>
+        Persons serving as Acting Administrator.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 8436
+        </aref>
+        , Feb. 17, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='53' psec='' tq='N'>
+              1700.53
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Persons serving as Acting Administrator.
+        </SUBJECT>
+        <P>
+          In accordance with procedures established in the RUS Continuity of
+          Operations (COOP) plan, the following officials, in the order
+          indicated below, shall act in the office of Rural Utilities Service
+          Administrator in case of the Administrator&apos;s absence, or
+          inability to act, until the absence or inability ceases.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Deputy Administrator is “first assistant” for purposes of the
+            Federal Vacancies Reform Act of 1998 (5 U.S.C. 
+            <aref type='CFR-TIC-SECT'>
+              § 3345-3349d
+            </aref>
+            ) and shall, in the absence or disability of the Administrator, or
+            in the event of a vacancy in the office of Administrator, serve as
+            Acting Administrator, subject to the limitations established by law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In the event of the absence or disability of both the Administrator
+            and the Deputy Administrator, or in the event of a vacancy in both
+            the office of the Administrator and the Deputy Administrator, the
+            official incumbents of the following positions shall, in the
+            sequence shown, temporarily perform all of the functions and duties
+            of the Administrator, except to the extent that such functions and
+            duties may not be delegated by law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Chief of Staff.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Assistant Administrator, Electric Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Assistant Administrator, Water and Environmental Programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Assistant Administrator, Telecommunications Programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Assistant Administrator, Program Accounting and Regulatory
+            Analysis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Community Programs Director of the Rural Development Kentucky State
+            Office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Eligibility for succession to the position of RUS Administrator
+            shall be limited to officially assigned incumbents of positions
+            listed in paragraph (b) of this section. Only officials specifically
+            designated in the approved order of succession are eligible. Persons
+            appointed on acting basis, or on some other temporary basis, are
+            ineligible by virtue of so serving to serve as a successor.
+            Therefore the order of succession would fall to the next designated
+            official in the approved order of succession. The eligibility of the
+            incumbent of paragraph (b)(6) of this section to serve as a
+            successor is also limited to periods of national emergency declared
+            by the President or during the activation of the RUS COOP plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In the event of the absence or disability of the Administrator, or
+            in the event that the Administrator&apos;s position is vacant, the
+            Deputy Rural Utilities Service Administrator is the only RUS
+            official authorized to serve as Acting Administrator. When serving
+            as Acting Administrator, the Deputy Administrator is authorized to
+            perform all of the functions and duties of the office of the
+            Administrator, including those functions and duties that are
+            required by statute or regulation to be performed exclusively by the
+            Administrator. In the event of the absence or disability of both
+            Administrator and the Deputy Administrator, or in the event that
+            both the office of Administrator and Deputy Administrator are
+            vacant, the officials in the order of succession indicated in
+            paragraph (b) of this section shall perform all the functions and
+            duties of the Administrator but may not serve as Acting
+            Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator retains the discretion to depart from the order
+            in paragraph (b) for occasions where deviation from automatic
+            succession is desired by the Administrator. Such temporary
+            designations shall be in writing. Notwithstanding the provisions of
+            this 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1710' sect='53' psec='' tq='N'>
+                1710.53
+              </subref>
+            </aref>
+             not contained in this paragraph (e), the Administrator may delegate
+            full or limited authority to perform the functions and duties of the
+            office of Administrator except to the extent that such functions and
+            duties may not be delegated by law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may terminate the delegations under this 
+            <aref type='CFR-TIC-SECT'>
+              section 
+              <subref title='7' part='1700' sect='53' psec='' tq='N'>
+                1700.53
+              </subref>
+            </aref>
+            , in whole or in part, at any 
+            <PRTPAGE P='24' />
+            time. Unless terminated by the Administrator, written delegations
+            under paragraph (e) of this section expire in accordance with their
+            terms. Individuals acting as successors under paragraph (b) of this
+            section will be relieved of such authority as soon as an incumbent
+            in a position listed higher on the order of succession is available,
+            able, and assumes the functions and duties of the Administrator, or
+            when an official with requisite authority designates a permanent or
+            acting Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Individuals exercising authority under this 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1700' sect='53' psec='' tq='N'>
+                1700.53
+              </subref>
+            </aref>
+             shall keep a record of important actions taken and the period
+            during which the authority is exercised.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The authority to perform functions and duties pursuant to this 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1700' sect='53' psec='' tq='N'>
+                1700.53
+              </subref>
+            </aref>
+             can not be redelegated by an incumbent of a position listed in
+            paragraph (b) of this section.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 8436
+          </aref>
+          , Feb. 17, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13394'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:C:1700.54
+      </extid>
+      <num st='1'>
+        1700.54
+      </num>
+      <head>
+        Electric Program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='54' psec='' tq='N'>
+              1700.54
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Electric Program.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Administrator:
+            </head>
+          </npcatch>
+          <text>
+             The authority to approve the following loans, loan guarantees, and
+            lien accommodations and subordinations of liens is reserved to the
+            Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             All discretionary hardship loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All loans, loan guarantees, and lien accommodations and
+            subordinations of liens to finance operating costs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             All loans, loan guarantees, and lien accommodations and
+            subordinations of liens of more than $20,000,000 for distribution
+            borrowers or more than $50,000,000 for power supply borrowers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             All loans, loan guarantees, and lien accommodations and
+            subordinations of liens for distribution borrowers that are members
+            of a power supply borrower that is in default of its obligations to
+            the Government or that is currently assigned to the Financial
+            Services Staff, unless otherwise determined by the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             All loans, loan guarantees, and lien accommodations and
+            subordinations of liens that require an Environmental Impact
+            Statement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Certifications and findings required by the RE Act or other
+            applicable laws and regulations, the placing and releasing of
+            conditions precedent to the advance of funds, and all security
+            instruments, loan contracts, and all other necessary documents
+            relating to the authorities reserved in this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Execution of all loan contracts, security instruments, and all
+            other documents in connection with loans, loan guarantees, and lien
+            accommodations approved by the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Assistant Administrator, Electric Program,
+            </E>
+             has the authority to approve the following loans, loan guarantees,
+            and lien accommodations and subordinations of liens, except for
+            those approvals reserved to the Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Loans, loan guarantees, and lien accommodations and subordinations
+            of liens for distribution borrowers in amounts not exceeding
+            $20,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Loans, loan guarantees, and lien accommodations and subordinations
+            of liens for power supply borrowers in amounts not exceeding
+            $50,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Execution of all loan contracts, security instruments, and all
+            other documents in connection with loans, loan guarantees, and lien
+            accommodations approved by the Assistant Administrator, Electric
+            Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Directors, Regional Divisions,
+            </E>
+             have the authority to approve, for distribution borrowers:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Loans, loan guarantees, and lien accommodations and subordinations
+            of liens in amounts not exceeding $15,000,000 except for those
+            approvals reserved to the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All certifications and findings required by the RE Act or other
+            applicable laws and regulations, the imposing and releasing of
+            conditions precedent to the advance of loan funds, and all security
+            instruments, loan contracts, and all other documents relating to the
+            delegations set forth in paragraph (c)(1) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Director, Power Supply Division,
+            </E>
+             has the authority to approve for power supply borrowers:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Loans, loan guarantees, and lien accommodations and subordinations
+            of liens in amounts not exceeding $30,000,000, except for those
+            approvals reserved to the Administrator.
+            <PRTPAGE P='25' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All certifications and findings required by the RE Act or other
+            applicable laws and regulations, the placing and releasing of
+            conditions precedent to the advance of funds, and all security
+            instruments, loan contracts or all other documents relating to the
+            delegations set forth in paragraph (d)(1) of this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13395'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:C:1700.55
+      </extid>
+      <num st='1'>
+        1700.55
+      </num>
+      <head>
+        Telecommunications Program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='55' psec='' tq='N'>
+              1700.55
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Telecommunications Program.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Administrator:
+            </head>
+          </npcatch>
+          <text>
+             The authority to approve the following loans, loan guarantees, and
+            lien accommodations is reserved to the Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             All loans, loan guarantees, and lien accommodations and
+            subordinations of liens to finance operating costs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All loans, loan guarantees, or lien accommodations and
+            subordinations of liens of $25,000,000 or more.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Loans and loan guarantees with acquisition costs of $5,000,000 or
+            more.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Loans and loan guarantees containing funds to refinance outstanding
+            debt of more than $5,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             All loan contracts, security instruments, and all other documents
+            to be executed in connection with loans and loan guarantees approved
+            by the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Assistant Administrator, Telecommunications Program,
+            </E>
+             has the authority to approve the following loans, loan guarantees,
+            and lien accommodations, except for those approvals reserved to the
+            Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Loans, loan guarantees, and lien accommodations and subordinations
+            of liens not to exceed $25,000,000 except for those reserved to the
+            Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Loans and loan guarantees with acquisition costs where the
+            acquisition portion of the loan is less than $5,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Loans and loan guarantees including refinancing amounts that do not
+            exceed $5,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Distance learning and telemedicine loans and loan guarantees that
+            do not exceed $5,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Loan contracts, security instruments, and other documents to be
+            executed in connection with loans and loan guarantees approved by
+            the Assistant Administrator, Telecommunications Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Area Directors
+            </E>
+             have the authority to approve the following loans, loan guarantees,
+            and lien accommodations, except for those approvals reserved to the
+            Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Loans, loan guarantees, and lien accommodations and subordinations
+            of liens of less than $10,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Loans and loan guarantees with acquisition costs of less than
+            $2,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Loans and loan guarantees including refinancing amounts of less
+            than $2,000,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Any modifications in the method of carrying out loan purposes.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13396'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:C:1700.56
+      </extid>
+      <num st='1'>
+        1700.56
+      </num>
+      <head>
+        Water and Environmental Programs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='56' psec='' tq='N'>
+              1700.56
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Water and Environmental Programs.
+        </SUBJECT>
+        <P>
+          The State Rural Development Offices have the responsibility for making
+          and servicing water and waste loans and grants.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13397'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:C:1700.57
+      </extid>
+      <num st='1'>
+        1700.57
+      </num>
+      <head>
+        Distance Learning and Telemedicine Loan and Grant Program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='57' psec='' tq='N'>
+              1700.57
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Distance Learning and Telemedicine Loan and Grant Program.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Administrator:
+            </head>
+          </npcatch>
+          <text>
+             The authority to approve the following loans and lien
+            accommodations is reserved to the Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Grants or loan and grant combinations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The number selected from each state for financial assistance for
+            grant approval and loans or grants approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Extension of principal and interest repayments for rural
+            development purposes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Loan contracts, security instruments, and all other documents to be
+            executed in connection with loans and loan guarantees approved by
+            the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Assistant Administrator, Telecommunications Program,
+            </E>
+             has the authority to approve the following loans and lien
+            accommodations and subordinations of liens:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Loans, that do not also include requests for grant funds, except
+            for those reserved to the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Loan contracts, security instruments, and all other documents to be
+            executed in connection with loans and loan guarantees approved by
+            the Assistant Administrator, Telecommunications Program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13398'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:C:1700.58
+      </extid>
+      <num st='1'>
+        1700.58
+      </num>
+      <head>
+        Assistance to high energy cost rural communities.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 5351
+        </aref>
+        , Feb. 3, 2005]
+      </citation>
+      <contents>
+        <PRTPAGE P='26' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='58' psec='' tq='N'>
+              1700.58
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Assistance to high energy cost rural communities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Administrator:
+            </head>
+          </npcatch>
+          <text>
+             The authority to approve the following is reserved to the
+            Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Allocation of appropriated funds among high energy cost community
+            assistance programs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Awards of grants and loans to extremely high energy cost
+            communities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Awards of grants and loans to the Denali Commission;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Awards of grants to State entities for State bulk fuel revolving
+            funds; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Grant agreements, loan contracts, security instruments and all
+            other documents executed in connection with grants and loans
+            agreements approved by the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Assistant Administrator, Electric Program
+            </E>
+             has the authority to make any required certifications and to
+            approve all grant and loan servicing actions not specifically
+            reserved to the Administrator.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 5351
+          </aref>
+          , Feb. 3, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='13399'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:C:1700.59—1700.99
+      </extid>
+      <num st='2'>
+        1700.59—1700.99
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1700' sect='59' psec='' tq='N'>
+              1700.59
+            </subref>
+            —
+            <subref title='7' part='1700' sect='99' psec='' tq='N'>
+              1700.99
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13400'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.100
+      </extid>
+      <num st='1'>
+        1700.100
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='100' psec='' tq='N'>
+              1700.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This subpart establishes policies and procedures for the Rural
+          Utilities Service (RUS) implementation of the Substantially
+          Underserved Trust Areas (SUTA) initiative under 
+          <aref type='UNKNOWN'>
+            section 306F of
+          </aref>
+           the Rural Electrification Act of 1936, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='906f' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/906f.html'>
+              7 U.S.C. 906f
+            </subref>
+          </aref>
+          ). The purpose of this rule is to identify and improve the
+          availability of eligible programs in communities in substantially
+          underserved trust areas.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13401'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.101
+      </extid>
+      <num st='1'>
+        1700.101
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='101' psec='' tq='N'>
+              1700.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the Administrator of the Rural Utilities Service, or designee
+          or successor.
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means an entity that is eligible for an eligible program under that
+          program&apos;s eligibility criteria.
+        </P>
+        <P>
+          <E T='03'>
+            Borrower
+          </E>
+           means any organization that has an outstanding loan or loan guarantee
+          made by RUS for a program purpose.
+        </P>
+        <P>
+          <E T='03'>
+            Completed application
+          </E>
+           means an application that includes the elements specified by the
+          rules for the applicable eligible program in form and substance
+          satisfactory to RUS.
+        </P>
+        <P>
+          <E T='03'>
+            ConAct
+          </E>
+           means the Consolidated Farm and Rural Development Act, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='1921' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1921.html'>
+              7 USC 1921
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq
+          </E>
+          .).
+        </P>
+        <P>
+          <E T='03'>
+            Credit support
+          </E>
+           means equity, cash requirements, letters of credit, and other
+          financial commitments provided in support of a loan or loan guarantee.
+        </P>
+        <P>
+          <E T='03'>
+            Eligible community
+          </E>
+           means a community as defined by 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1700' sect='103' psec='' tq='N'>
+              1700.103
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Eligible program
+          </E>
+           means a program as defined by 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1700' sect='102' psec='' tq='N'>
+              1700.102
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Financial assistance
+          </E>
+           means a grant, combination loan and grant, loan guarantee or loan.
+        </P>
+        <P>
+          <E T='03'>
+            Financial feasibility
+          </E>
+           means the ability of a project or enterprise to meet operating
+          expenses, financial performance metrics, such as debt service coverage
+          requirements and return on investment, and the general ability to
+          repay debt and sustain continued operations at least through the life
+          of the RUS loan or loan guarantee.
+        </P>
+        <P>
+          <E T='03'>
+            Matching fund
+          </E>
+           requirements means the applicant&apos;s financial or other required
+          contribution to the project for approved purposes.
+        </P>
+        <P>
+          <E T='03'>
+            Nonduplication
+          </E>
+           generally means a restriction on financing projects for services in a
+          geographic area where reasonably adequate service already exists as
+          defined by the applicable program.
+        </P>
+        <P>
+          <E T='03'>
+            Project
+          </E>
+           means the activity for which financial assistance has been provided.
+        </P>
+        <P>
+          <E T='03'>
+            RE Act
+          </E>
+           means the Rural Electrification Act of 1936, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            RUS
+          </E>
+           means the Rural Utilities Service, an agency of the United States
+          Department of Agriculture, successor to the Rural Electrification
+          Administration.
+        </P>
+        <P>
+          <E T='03'>
+            Substantially underserved trust area
+          </E>
+           means a community in trust land with respect to which the
+          Administrator determines has a high need for the benefits of an
+          eligible program.
+        </P>
+        <P>
+          <E T='03'>
+            Trust land
+          </E>
+           means “trust land” as defined in 
+          <aref type='UNKNOWN'>
+            section 3765 of
+          </aref>
+           title 38, United States Code as determined by the Administrator under
+          
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1700' sect='104' psec='' tq='N'>
+              1700.104
+            </subref>
+          </aref>
+          .
+          <PRTPAGE P='27' />
+        </P>
+        <P>
+          <E T='03'>
+            Underserved
+          </E>
+           means an area or community lacking an adequate level or quality of
+          service in an eligible program, including areas of duplication of
+          service provided by an existing provider where such provider has not
+          provided or will not provide adequate level or quality of service.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13402'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.102
+      </extid>
+      <num st='1'>
+        1700.102
+      </num>
+      <head>
+        Eligible programs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='102' psec='' tq='N'>
+              1700.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible programs.
+        </SUBJECT>
+        <P>
+          SUTA does not apply to all RUS programs. SUTA only applies to eligible
+          programs. An eligible program means a program administered by RUS and
+          authorized in paragraph (a) of the RE Act, or paragraphs (b)(1), (2),
+          (14), (22), or (24) of 
+          <aref type='CFR-TIC-SECT'>
+            section 306(a)
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='7' sect='1926' note='' psec='#a_1' tq='N' target='http://www.law.cornell.edu/uscode/7/1926.html#a_1'>
+              7 U.S.C. 1926(a)(1)
+            </subref>
+          </aref>
+          , (2), (14), (22), (24)), or 
+          <aref type='UNKNOWN'>
+            sections 306A, 306C, 306D, or 306E of
+          </aref>
+           the Con Act (
+          <aref type='USC'>
+            <subref title='7' sect='1926a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1926a.html'>
+              7 U.S.C. 1926a
+            </subref>
+            , 
+            <subref title='7' sect='1926c' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1926c.html'>
+              1926c
+            </subref>
+            , 
+            <subref title='7' sect='1926d' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1926d.html'>
+              1926d
+            </subref>
+            , 
+            <subref title='7' sect='1926e' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1926e.html'>
+              1926e
+            </subref>
+          </aref>
+          ).
+        </P>
+      </contents>
+    </section>
+    <section orderid='13403'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.103
+      </extid>
+      <num st='1'>
+        1700.103
+      </num>
+      <head>
+        Eligible communities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='103' psec='' tq='N'>
+              1700.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible communities.
+        </SUBJECT>
+        <P>
+          An eligible community is a community that:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Is located on Trust land;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             May be served by an RUS administered program; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Is determined by the Administrator as having a high need for
+            benefits of an eligible program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13404'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.104
+      </extid>
+      <num st='1'>
+        1700.104
+      </num>
+      <head>
+        Financial feasibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='104' psec='' tq='N'>
+              1700.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial feasibility.
+        </SUBJECT>
+        <P>
+          Pursuant to normal underwriting practices, and such reasonable
+          alternatives within the discretion of RUS that contribute to a
+          financial feasibility determination for a particular eligible program
+          or project, the Administrator will only make grants, loans and loan
+          guarantees that RUS finds to be financially feasible and that provide
+          eligible program benefits to substantially underserved trust areas.
+          All income and assets available to and under the control of the
+          Applicant will be considered as part of the Applicant&apos;s financial
+          profile.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13405'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.105
+      </extid>
+      <num st='1'>
+        1700.105
+      </num>
+      <head>
+        Determining whether land meets the statutory definition of “trust land.”
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='105' psec='' tq='N'>
+              1700.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determining whether land meets the statutory definition of “trust
+          land.”
+        </SUBJECT>
+        <P>
+          The Administrator will use one or more of the following resources in
+          determining whether a particular community is located in Trust land:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Official maps of Federal Indian Reservations based on information
+            compiled by the U. S. Department of the Interior, Bureau of Indian
+            Affairs and made available to the public;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Title Status Reports issued by the U. S. Department of the
+            Interior, Bureau of Indian Affairs showing that title to such land
+            is held in trust or is subject to restrictions imposed by the United
+            States;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Trust Asset and Accounting Management System data, maintained by
+            the Department of the Interior, Bureau of Indian Affairs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Official maps of the Department of Hawaiian Homelands of the State
+            of Hawaii identifying land that has been given the status of
+            Hawaiian home lands under the provisions of 
+            <aref type='UNKNOWN'>
+              section 204 of
+            </aref>
+             the Hawaiian Homes Commission Act, 1920;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Official records of the U.S. Department of the Interior, the State
+            of Alaska, or such other documentation of ownership as the
+            Administrator may determine to be satisfactory, showing that title
+            is owned by a Regional Corporation or a Village Corporation as such
+            terms are defined in the Alaska Native Claims Settlement Act (
+            <aref type='USC'>
+              <subref title='43' sect='1601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601.html'>
+                43 U.S.C. 1601
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq
+            </E>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence that the land is located on Guam, American Samoa or the
+            Commonwealth of the Northern Mariana Islands, and is eligible for
+            use in the Veteran&apos;s Administration direct loan program for
+            veterans purchasing or constructing homes on communally-owned land;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Any other evidence satisfactory to the Administrator to establish
+            that the land is “trust land” within the meaning of 
+            <aref type='USC'>
+              <subref title='38' sect='3765' note='' psec='#1' tq='N' target='http://www.law.cornell.edu/uscode/38/3765.html#1'>
+                38 U.S.C. 3765(1)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13406'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.106
+      </extid>
+      <num st='1'>
+        1700.106
+      </num>
+      <head>
+        Discretionary provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='106' psec='' tq='N'>
+              1700.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Discretionary provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To improve the availability of eligible programs in eligible
+            communities determined to have a high need for the benefits of an
+            eligible program, the Administrator retains the discretion, on a
+            case-by-case basis, to use any of the following SUTA authorities
+            individually or in combination to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Make available to qualified applicants financing with an interest
+            rate as low as 2 percent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Extend repayment terms;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Waive (individually or in combination) non-duplication
+            restrictions, matching fund requirements, and credit support
+            requirements from any loan 
+            <PRTPAGE P='28' />
+            or grant program administered by RUS; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Give the highest funding priority to designated projects in
+            substantially underserved trust areas.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for waivers of nonduplication restrictions, matching fund
+            requirements, and credit support requirements, and requests for
+            highest funding priority will be reviewed on a case-by-case basis
+            upon written request of the applicant filed pursuant to 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1700' sect='108' psec='' tq='N'>
+                1700.108
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding the requirements in paragraph (b) of this section,
+            the Administrator reserves the right to evaluate any application for
+            an eligible program for use of the discretionary provisions of this
+            subpart without a formal, written request from the applicant.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13407'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.107
+      </extid>
+      <num st='1'>
+        1700.107
+      </num>
+      <head>
+        Considerations relevant to the exercise of SUTA discretionary
+        provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='107' psec='' tq='N'>
+              1700.107
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Considerations relevant to the exercise of SUTA discretionary
+          provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In considering requests to make available financing with an
+            interest rate as low as 2 percent, and extended repayment terms, the
+            Administrator will evaluate the effect of and need for such terms on
+            the finding of financial feasibility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In considering a request for a non-duplication waiver, the
+            Administrator will consider the offerings of all existing service
+            providers to determine whether or not granting the non-duplication
+            waiver is warranted. A waiver of non-duplication restrictions will
+            not be given if the Administrator determines as a matter of
+            financial feasibility that, taking into account all existing service
+            providers, an applicant or RUS borrower would not be able to repay a
+            loan or successfully implement a grant agreement. Requests for
+            waivers of non-duplication restrictions will be reviewed by taking
+            the following factors into consideration:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The size, extent and demographics of the duplicative area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The cost of service from existing service providers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The quality of available service; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The ability of the existing service provider to serve the eligible
+            service area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for waivers of matching fund requirements will be
+            evaluated by taking the following factors into consideration:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Whether waivers or reductions in matching or equity requirements
+            would make an otherwise financially infeasible project financially
+            feasible;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Whether permitting a matching requirement to be met with sources
+            not otherwise permitted in an affected program due to regulatory
+            prohibition may be allowed under a separate statutory authority; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Whether the application could be ranked and scored as if the
+            matching requirements were fully met.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for waivers of credit support requirements will be
+            evaluated taking the following factors into consideration:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The cost and availability of credit support relative to the loan
+            security derived from such support;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The extent to which the requirement is shown to be a barrier to the
+            applicant&apos;s participation in the program; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The alternatives to waiving the requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may adapt the manner of assigning highest funding
+            priority to align with the selection methods used for particular
+            programs or funding opportunities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible programs which use priority point scoring may, in a notice
+            of funds availability or similar notice, assign extra points for
+            SUTA eligible applicants as a means to exercise a discretionary
+            authority under this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may announce a competitive grant opportunity
+            focused exclusively or primarily on trust lands which incorporates
+            one or more discretionary authorities under this subpart into the
+            rules or scoring for the competition.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13408'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.108
+      </extid>
+      <num st='1'>
+        1700.108
+      </num>
+      <head>
+        Application requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='108' psec='' tq='N'>
+              1700.108
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To receive consideration under this subpart, the applicant must
+            submit to RUS a completed application that includes all of the
+            information required for an application in accordance with the
+            regulations relating to the program for which financial assistance 
+            <PRTPAGE P='29' />
+            is being sought. In addition, the applicant must notify the RUS
+            contact for the applicable program in writing that it seeks
+            consideration under this subpart and identify the discretionary
+            authorities of this subpart it seeks to have applied to its
+            application. The required written request memorandum or letter must
+            include the following items:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the applicant, documenting eligibility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the community to be served, documenting
+            eligibility in accordance with 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1700' sect='103' psec='' tq='N'>
+                1700.103
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             An explanation and documentation of the high need for the benefits
+            of the eligible program, which may include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Data documenting a lack of service (i.e. no service or unserved
+            areas) or inadequate service in the affected community;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Data documenting significant health risks due to the fact that a
+            significant proportion of the community&apos;s residents do not have
+            access to, or are not served by, adequate, affordable service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Data documenting economic need in the community, which may include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_3_iii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Per capita income of the residents in the community, as documented
+            by the U.S. Department of Commerce, Bureau of Economic Analysis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_3_iii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Local area unemployment and not-employed statistics in the
+            community, as documented by the U.S. Department of Labor, Bureau of
+            Labor Statistics and/or the U.S. Department of the Interior, Bureau
+            of Indian Affairs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_3_iii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Supplemental Nutrition Assistance Program participation and benefit
+            levels in the community, as documented by the U.S. Department of
+            Agriculture, Economic Research Service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_3_iii_D'>
+            <enum src='gpotxt' cln='1'>
+              (D)
+            </enum>
+          </npcatch>
+          <text>
+             National School Lunch Program participation and benefit levels in
+            the community, as documented by the U.S. Department of Agriculture,
+            Food and Nutrition Service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_3_iii_E'>
+            <enum src='gpotxt' cln='1'>
+              (E)
+            </enum>
+          </npcatch>
+          <text>
+             Temporary Assistance for Needy Families Program participation and
+            benefit levels in the community, as documented by the U.S.
+            Department of Health and Human Services, Administration for Children
+            and Families;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_3_iii_F'>
+            <enum src='gpotxt' cln='1'>
+              (F)
+            </enum>
+          </npcatch>
+          <text>
+             Lifeline Assistance and Link-Up America Program participation and
+            benefit levels in the community, as documented by the Federal
+            Communications Commission and the Universal Service Administrative
+            Company;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_3_iii_G'>
+            <enum src='gpotxt' cln='1'>
+              (G)
+            </enum>
+          </npcatch>
+          <text>
+             Examples of economic opportunities which have been or may be lost
+            without improved service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_3_iii_H'>
+            <enum src='gpotxt' cln='1'>
+              (H)
+            </enum>
+          </npcatch>
+          <text>
+             Data maintained and supplied by Indian tribes or other tribal or
+            jurisdictional entities on “trust land” to the Department of
+            Interior, the Department of Health and Human Services and the
+            Department of Housing and Urban Development that illustrates a high
+            need for the benefits of an eligible program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The impact of the specific authorities sought under this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must provide any additional information RUS may
+            consider relevant to the application which is necessary to
+            adequately evaluate the application under this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             RUS may also request modifications or changes, including changes in
+            the amount of funds requested, in any proposal described in an
+            application submitted under this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must submit a completed application within the
+            application window and guidelines for an eligible program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13409'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.109
+      </extid>
+      <num st='1'>
+        1700.109
+      </num>
+      <head>
+        RUS review.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='109' psec='' tq='N'>
+              1700.109
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          RUS review.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             RUS will review the application to determine whether the applicant
+            is eligible to receive consideration under this subpart and whether
+            the application is timely, complete, and responsive to the
+            requirements set forth in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='1700' sect='107' psec='' tq='N'>
+                1700.107
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the Administrator determines that the application is eligible to
+            receive consideration under this subpart and one or more SUTA
+            requests are granted, the applicant will be so notified.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If RUS determines that the application is not eligible to receive
+            further consideration under this subpart, RUS will so notify the
+            applicant. The applicant may withdraw its application or request
+            that RUS treat its application as an ordinary application for
+            review, 
+            <PRTPAGE P='30' />
+            feasibility analysis and service area verification by RUS consistent
+            with the regulations and guidelines normally applicable to the
+            relevant program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13410'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.110-1700.149
+      </extid>
+      <num st='2'>
+        1700.110-1700.149
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1700' sect='110-1700' psec='' tq='N'>
+              1700.110-1700
+            </subref>
+          </aref>
+          .149
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13411'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1700:D:1700.150
+      </extid>
+      <num st='1'>
+        1700.150
+      </num>
+      <head>
+        OMB Control Number.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1700' sect='150' psec='' tq='N'>
+              1700.150
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB Control Number.
+        </SUBJECT>
+        <P>
+          The reporting and recordkeeping requirements contained in this part
+          have been approved by the Office of Management and Budget and have
+          been assigned OMB control number 0572-0147.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

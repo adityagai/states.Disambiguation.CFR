@@ -1,0 +1,2000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXXIV:-:3402
+    </extid>
+    <num>
+      3402
+    </num>
+    <head>
+      FOOD AND AGRICULTURAL SCIENCES NATIONAL NEEDS GRADUATE AND POSTGRADUATE
+      FELLOWSHIP GRANTS PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='3316' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/3316.html'>
+              7 U.S.C. 3316
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            69 FR 62537
+          </aref>
+          , Oct. 26, 2004, unless otherwise noted.
+        </P>
+      </SOURCE>
+      <EDNOTE>
+        <HD SOURCE='HED'>
+          Editorial Note:
+        </HD>
+        <P>
+          Nomenclature changes to 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='3402' tq='N'>
+              3402
+            </subref>
+          </aref>
+           appear at 
+          <aref type='FREGIST'>
+            76 FR 4807
+          </aref>
+          , Jan. 27, 2011.
+        </P>
+      </EDNOTE>
+    </text>
+    <section orderid='16446'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:A:3402.1
+      </extid>
+      <num st='1'>
+        3402.1
+      </num>
+      <head>
+        Applicability of regulations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='1' psec='' tq='N'>
+              3402.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability of regulations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations of this part apply to competitive grants awarded
+            under the provisions of 
+            <aref type='UNKNOWN'>
+              section 1417(b)(6) of
+            </aref>
+             the National Agricultural Research, Extension and Teaching Policy
+            Act of 1977, as amended, 
+            <aref type='USC'>
+              <subref title='7' sect='3152' note='' psec='#b_6' tq='N' target='http://www.law.cornell.edu/uscode/7/3152.html#b_6'>
+                7 U.S.C. 3152(b)(6)
+              </subref>
+            </aref>
+            . The Act designates the U.S. Department of Agriculture (USDA) as
+            the lead Federal agency for agricultural research, extension, and
+            teaching in the food and agricultural sciences. 
+            <aref type='CFR-TIC-SECT'>
+              Section 1417(b)(6)
+            </aref>
+             authorizes the Secretary of Agriculture, who has delegated the
+            authority to theNational Institute of Food and Agriculture (NIFA),
+            to make competitive grants to land-grant colleges and universities,
+            colleges and universities having significant minority enrollments
+            and a demonstrable capacity to carry out the teaching of food and
+            agricultural sciences, and to other colleges and universities having
+            a demonstrable capacity to carry out the teaching of food and
+            agricultural sciences, to administer and conduct graduate and
+            postdoctoral fellowship programs to help meet the Nation&apos;s
+            needs for development of scientific and professional expertise in
+            the food and agricultural sciences. The Graduate Fellowships are
+            intended to encourage outstanding students to pursue and complete
+            graduate degrees in the areas of food and agricultural sciences
+            designated by NIFA through the Office of Higher Education Programs
+            (HEP) as national needs. The postdoctoral Fellowships are intended
+            to provide additional mentoring and training to outstanding USDA
+            Graduate Fellows who completed their doctoral degrees no more than
+            five (5) years before they begin the postdoctoral Fellowships.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations of this part do not apply to grants awarded by the
+            Department of Agriculture under any other authority.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16447'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:A:3402.2
+      </extid>
+      <num st='1'>
+        3402.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='2' psec='' tq='N'>
+              3402.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in this part:
+        </P>
+        <P>
+          <E T='03'>
+            Citizen or national of the United States
+          </E>
+           means—
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A citizen or native resident of a State; or,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A person defined in the Immigration and Nationality Act, 
+            <aref type='USC'>
+              <subref title='8' sect='1101' note='' psec='#a_22' tq='N' target='http://www.law.cornell.edu/uscode/8/1101.html#a_22'>
+                8 U.S.C. 1101(a)(22)
+              </subref>
+            </aref>
+            , who, though not a citizen of the United States, owes permanent
+            allegiance to the United States.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            College and university
+          </E>
+           means an educational institution in any State which—
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Admits as regular students only persons having a certificate of
+            graduation from a school providing secondary education, or the
+            recognized equivalent of such a certificate,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Is legally authorized within such State to provide a program of
+            education beyond secondary education,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Provides an educational program for which a bachelor&apos;s degree
+            or any other higher degree is awarded,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Is a public or other nonprofit institution, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Is accredited by a nationally recognized accrediting agency or
+            association.
+            <PRTPAGE P='369' />
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Food and agricultural sciences
+          </E>
+           means basic, applied, and developmental research, extension, and
+          teaching activities in the food, agricultural, renewable natural
+          resources, forestry, and physical and social sciences in the broadest
+          sense of these terms including but not limited to research, extension
+          and teaching activities concerned with the production, processing,
+          marketing, distribution, conservation, consumption, research, and
+          development of food and agriculturally related products and services,
+          inclusive of programs in agriculture, natural resources, aquaculture,
+          forestry, veterinary medicine, home economics, rural development, and
+          closely allied fields.
+        </P>
+        <P>
+          <E T='03'>
+            Graduate degree
+          </E>
+           means a master&apos;s or doctoral degree.
+        </P>
+        <P>
+          <E T='03'>
+            State
+          </E>
+           means any one of the fifty States, the Commonwealth of Puerto Rico,
+          Guam, American Samoa, the Commonwealth of the Northern Marianas, the
+          Federated States of Micronesia, the Republic of the Marshall Islands,
+          the Republic of Palau, the Virgin Islands of the United States, and
+          the District of Columbia.
+        </P>
+        <P>
+          <E T='03'>
+            Teaching activities
+          </E>
+           means formal classroom instruction, laboratory instruction, and
+          practicum experience specific to the food and agricultural sciences
+          and matters relating thereto conducted by colleges and universities
+          offering baccalaureate or higher degrees.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16448'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:A:3402.3
+      </extid>
+      <num st='1'>
+        3402.3
+      </num>
+      <head>
+        Institutional eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='3' psec='' tq='N'>
+              3402.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Institutional eligibility.
+        </SUBJECT>
+        <P>
+          Applications may be submitted by land-grant colleges and universities,
+          by colleges and universities having significant minority enrollments
+          and a demonstrable capacity to carry out the teaching of food and
+          agricultural sciences, and by other colleges and universities having a
+          demonstrable capacity to carry out the teaching of food and
+          agricultural sciences. All applicants must be institutions that confer
+          a graduate degree in at least one area of the food and agricultural
+          sciences targeted for National Needs Fellowships, that have a
+          significant on-going commitment to the food and agricultural sciences
+          generally, and that have a significant ongoing commitment to the
+          specific subject area for which a grant application is made. It is the
+          objective to award grants to colleges and universities which have
+          notable teaching and research competencies in the food and
+          agricultural sciences. The Graduate Fellowships are specifically
+          intended to support programs that encourage outstanding students to
+          pursue and complete a graduate degree at such institutions in an area
+          of the food and agricultural sciences for which there is a national
+          need for the development of scientific and professional expertise. The
+          postdoctoral Fellowships are designed to support academic programs
+          that provide additional training and mentoring to USDA Graduate
+          Fellows and have notable teaching and research competencies in the
+          NIFA designated national need areas. Institutions which currently have
+          excellent programs of graduate study and training in the food and
+          agricultural sciences dealing with targeted national needs are
+          particularly encouraged to apply for all National Needs Fellowships.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16449'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:B:3402.4
+      </extid>
+      <num st='1'>
+        3402.4
+      </num>
+      <head>
+        Food and agricultural sciences areas targeted for National Needs
+        Graduate and Postdoctoral Fellowship Grants Program support.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='4' psec='' tq='N'>
+              3402.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Food and agricultural sciences areas targeted for National Needs
+          Graduate and Postdoctoral Fellowship Grants Program support.
+        </SUBJECT>
+        <P>
+          Areas of the food and agricultural sciences, including
+          multidisciplinary studies, appropriate for Fellowship grant
+          applications are those in which developing shortages of expertise have
+          been determined and targeted by HEP for National Needs Graduate and
+          Postdoctoral Fellowship Grants Program support. When funds are
+          available and HEP determines that a new competition is warranted, the
+          specific areas and funds per area will be identified in a funding
+          opportunity announcement announcing the program and soliciting program
+          applications.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16450'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:B:3402.5
+      </extid>
+      <num st='1'>
+        3402.5
+      </num>
+      <head>
+        Overview of National Needs Graduate and Postdoctoral Fellowship Grants
+        Program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='5' psec='' tq='N'>
+              3402.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Overview of National Needs Graduate and Postdoctoral Fellowship Grants
+          Program.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The program will provide funds for a limited number of grants to
+            support graduate student stipends and cost-of-education
+            institutional allowances. These grants will be awarded competitively
+            to eligible institutions. In order to encourage the development of
+            special activities that are expected 
+            <PRTPAGE P='370' />
+            to contribute to Fellows&apos; advanced degree objectives, the
+            program will also provide competitive, special international study
+            or thesis/dissertation research travel allowances for a limited
+            number of USDA Graduate Fellows. To encourage academic institutions
+            to provide additional training/mentoring to outstanding USDA
+            Graduate Fellows who have completed their doctoral degrees, the
+            program will also provide postdoctoral Fellowship grants to a
+            limited number of USDA Graduate Fellows.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Based on the amount of funds appropriated in any fiscal year, HEP
+            will determine:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Whether new competitions for graduate Fellowships, postdoctoral
+            Fellowships, and/or special international study or
+            thesis/dissertation research travel allowances will be held during
+            that fiscal year;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The degree level(s) to be supported—master&apos;s, doctoral and/or
+            postdoctoral;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The proportion of appropriations to be targeted for Fellowship
+            stipends for each respective degree level supported;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The proportion of appropriations to be targeted for the
+            cost-of-education institutional allowances for each respective
+            degree level supported;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The proportion of appropriations to be targeted for the special
+            international study or thesis/dissertation research travel
+            allowances for each respective degree level supported;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The allowable stipend amount for each respective degree level
+            supported, the cost-of-education institutional allowance for each
+            respective degree level supported, and the maximum funds available
+            for each special international study or thesis/dissertation research
+            travel allowance for each respective degree level supported;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The activities for which the cost-of-education allowance may be
+            used for awards made in that year; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             The maximum total funds that may be awarded to an institution under
+            the program in a given fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             HEP will also determine:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The maximum number of national needs areas for which funding may be
+            requested in a single application;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The degree levels for which funding may be requested in a single
+            application;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The minimum and maximum number of fellowships for which an
+            institution may apply in a single application; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The limits on the total number of applications that can be
+            submitted by an institution, college, school, or other
+            administrative unit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             These determinations will be published as a part of the
+            solicitation, which will be available at 
+            <E T='03'>
+              http://www.grants.gov.
+            </E>
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16451'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:B:3402.6
+      </extid>
+      <num st='1'>
+        3402.6
+      </num>
+      <head>
+        Overview of the special international study and/or thesis/dissertation
+        research travel allowance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='6' psec='' tq='N'>
+              3402.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Overview of the special international study and/or thesis/dissertation
+          research travel allowance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For each USDA Graduate Fellow who desires to be considered for a
+            special international study or thesis/dissertation research travel
+            allowance, the Project Director must apply to HEP for a supplemental
+            grant in accordance with instructions published in the solicitation.
+            Postdoctoral Fellows are not eligible to receive the special
+            international study or thesis/dissertation research travel
+            allowance. Each application must include a “Proposal Cover Page”
+            (Form NIFA-2002), “Project Summary” (Form NIFA-2003), “Budget” (Form
+            NIFA-2004) and National Environmental Policy Act Exclusions Form
+            (Form NIFA—2006).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To provide HEP with sufficient information upon which to evaluate
+            the merits of the requests for a special international study or
+            thesis/dissertation research travel allowance, each application for
+            a supplemental grant must contain a narrative which provides the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The specific destination(s) and duration of the travel;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The specific study or thesis/dissertation research activities in
+            which the Fellow will be engaged;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             How the international experience will contribute to the
+            Fellow&apos;s program of study;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             A budget narrative specifying and justifying the dollar amount
+            requested for the travel;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Summary credentials of the faculty or other professionals with whom
+            the Fellow will be working during the international experience
+            (summary 
+            <PRTPAGE P='371' />
+            credentials must not exceed three pages per person);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             A letter from the dean of the Fellow&apos;s college or equivalent
+            administrative unit supporting the Fellow&apos;s travel request and
+            certifying that the travel experience will not jeopardize the
+            Fellow&apos;s satisfactory progress toward degree completion; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             A letter from the fellowship grant Project Director certifying the
+            Fellow&apos;s eligibility, the accuracy of the Fellow&apos;s travel
+            request, and the relevance of the travel to the Fellow&apos;s
+            advanced degree objectives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The narrative portion of the application must not exceed the page
+            limitation included in the program solicitation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All complete requests will be evaluated by professional staff from
+            USDA or other Federal agencies, as appropriate. Evaluation criteria
+            will be published in the solicitation. HEP will award grants in
+            accordance with evaluation criteria and to the extent possible based
+            on availability of funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any current Fellow with sufficient time to complete the
+            international experience before the termination date of the grant
+            under which he/she is supported is eligible for a special
+            international study or thesis/dissertation research travel
+            allowance. Before the international study or thesis/dissertation
+            research travel may commence, a Fellow must have completed one
+            academic year of full-time study, as defined by the institution,
+            under the Fellowship appointment and arrangements must have been
+            formalized for the Fellow to study and/or conduct research in the
+            foreign location(s).
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16452'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:B:3402.7
+      </extid>
+      <num st='1'>
+        3402.7
+      </num>
+      <head>
+        Fellowship appointments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='7' psec='' tq='N'>
+              3402.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fellowship appointments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Fellows must be identified and Fellowships must be awarded within
+            18 months of the effective date of a grant. Institutions failing to
+            meet this deadline will be required to refund monies associated with
+            any unawarded Fellowship(s). Graduate Fellowship appointments may be
+            held only by persons who enroll and pursue full-time study in a
+            graduate degree program in the national need area and at the degree
+            level supported by the grant. Postdoctoral Fellowship appointments
+            may be held only by persons who pursue full-time traineeship in
+            research, teaching or extension in the national need area and are
+            supervised by the mentor indicated in the grant application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             It will be the responsibility of the grantee institution to award
+            fellowships to students of superior academic ability.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Graduate Fellows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Must be appointed before completing two semesters or equivalent
+            hours of full-time study, as defined by the institution, or
+            immediately after passing of candidacy/qualifying examinations,
+            whichever is later;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Must be citizens or nationals of the United States as determined in
+            accordance with Federal law; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Must have strong interest, as judged by the institution, in
+            pursuing a degree in a targeted national need area and in preparing
+            for a career as a food or agricultural scientist or professional.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Postdoctoral Fellows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Must have been USDA Graduate Fellows who successfully completed
+            their doctoral degrees in areas of the food and agricultural
+            sciences designated by NIFA as national need areas;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Must not have obtained their doctoral degrees more than five years
+            prior to beginning their postdoctoral Fellowships;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Must have strong interest, as judged by the institution, in
+            preparing for a career in agricultural research, teaching or
+            extension.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <npcatch lev='3' id='a_5_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A doctoral level Graduate Fellow who maintains satisfactory
+            progress in his or her course of study is eligible for support for a
+            maximum of 36 months within a 42-month period. A master&apos;s level
+            Fellow who maintains satisfactory progress in his or her course of
+            study is eligible for support for a maximum of 24 months during a
+            30-month period. A postdoctoral Fellow who achieves his or her
+            training objectives is eligible for support for a maximum of 36
+            months during a 60-month period. It is the intent of this program
+            that Graduate Fellows pursue full-time uninterrupted study or
+            thesis/dissertation research, including time spent pursuing
+            USDA-funded special international study or thesis/dissertation
+            research activities.
+            <PRTPAGE P='372' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Postdoctoral Fellowship appointments may be held only by persons
+            who pursue full-time traineeship in research, teaching, or extension
+            in the national need area and are supervised by the mentor indicated
+            in the grant application.
+          </text>
+        </P>
+        <P>
+          However, during the period of support, USDA Graduate and Postdoctoral
+          Fellows are permitted, at the discretion of their institutions, to
+          accept additional supplemental employment that would positively
+          contribute to their training or research and provide eligibility for
+          tuition waivers (e.g., full or partial tuition waivers with research
+          or teaching assignments).
+        </P>
+        <P>
+          <npcatch lev='3' id='a_5_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             For graduate Fellows requiring additional time to complete a
+            degree, it is expected that the institution will endeavor to
+            continue supporting individuals originally appointed to Fellowships
+            through such other institutional means as teaching assistantships
+            and research assistantships. For postdoctoral Fellows who terminate
+            the Fellowships prematurely, the institution must return all
+            unexpended monies to USDA. For USDA Graduate Fellows who complete
+            the program of study early (less than 24 months for master&apos;s
+            degree or 36 months for doctoral degree) or terminate their
+            Fellowships prematurely, the institution may use any unexpended
+            monies, within the time remaining on the project grant, to support
+            pursuit of a doctoral degree in a discipline in the food and
+            agricultural sciences by a master&apos;s degree level Fellow at the
+            grantee institution; or a replacement Graduate Fellow. Where less
+            than one semester/quarter remains before the expiration date of the
+            Graduate Fellowship grant, the institution must refund any
+            unexpended monies to the granting agency. Such funds cannot be used
+            to increase the annual stipend amounts for current USDA Graduate or
+            Postdoctoral Fellows.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Within the framework of the regulations in this part, all decisions
+            with respect to the appointment of Fellows will be made by the
+            institution. However, institutions are urged to take maximum
+            advantage of opportunities for awarding Fellowships to members of
+            underrepresented groups at the graduate and postdoctoral level in
+            the food and agricultural sciences, particularly minorities and
+            women. Throughout a USDA Graduate Fellow&apos;s tenure, the
+            institution should satisfy itself that the Fellow is making
+            satisfactory academic progress, and carrying out, or planning to
+            carry out, national needs related research. If an institution finds
+            it necessary to terminate support of a USDA Graduate Fellow or a
+            postdoctoral Fellow for insufficient progress or by decision on the
+            part of the Fellow, the Fellow may no longer receive funds from the
+            active grant. However, termination does not automatically disqualify
+            a Fellow from receiving future grant support under this program. If
+            a graduate or postdoctoral Fellow finds it necessary to interrupt
+            his or her program of study because of health, personal reasons, or
+            outside employment, the institution must reserve the funds for the
+            purpose of allowing the Fellow to resume funded training any time
+            within a six (6) month period. However, a USDA Graduate or
+            Postdoctoral Fellow who finds it necessary to interrupt his/her
+            program of training more than one time cannot exceed a total of six
+            (6) months&apos; cumulative leave status without forfeiting
+            eligibility. For a USDA Graduate Fellowship terminated because of
+            insufficient progress, by decision on the part of the Fellow, or
+            reserved due to an interrupted program but not resumed within the
+            required time period, the institution may use any unexpended monies
+            to support, within the time remaining on the project grant, and
+            subject to the limitations above, a replacement Fellow at the same
+            master&apos;s or doctoral levels. For postdoctoral Fellowships
+            terminated because of insufficient progress, by decision on the part
+            of the Fellow, or reserved due to an interrupted program but not
+            resumed within the required time period, the institution must return
+            all the unexpended monies to NIFA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Only Fellows enrolled in master&apos;s programs of study may be
+            supported under master&apos;s Fellowship grants. Master&apos;s
+            degree level Fellows who complete their degree early may be
+            supported under master&apos;s Fellowship grants, if they are
+            enrolled in Ph.D. 
+            <PRTPAGE P='373' />
+            programs in areas of the food and agricultural sciences designated
+            as national need areas. Only Fellows enrolled in doctoral programs
+            of study may be supported under doctoral degree Fellowship grants.
+            Only USDA Graduate Fellows who have completed their doctoral degrees
+            may be supported under postdoctoral Fellowship grants.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16453'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:B:3402.8
+      </extid>
+      <num st='1'>
+        3402.8
+      </num>
+      <head>
+        Fellowship activities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='8' psec='' tq='N'>
+              3402.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fellowship activities.
+        </SUBJECT>
+        <P>
+          A USDA Graduate Fellow shall be enrolled as a full-time graduate
+          student, as defined by the institution, at all times during the tenure
+          of the Fellowship in the national need area and at the degree level
+          supported by the grant. This includes the time used for special
+          international study or thesis/dissertation research, if the
+          international travel is funded through a special international study
+          or thesis/dissertation research travel allowance under this grant
+          program. However, the normal requirement for formal registration
+          during part of this tenure may be waived if permitted by the policy of
+          the Fellowship institution, provided that the Graduate Fellow is
+          making satisfactory progress toward degree completion and remains
+          engaged in appropriate full-time Fellowship activities such as
+          thesis/dissertation research. Postdoctoral Fellowship appointments may
+          be held only by persons who pursue full-time traineeship in research,
+          teaching, or extension in the national need area and are supervised by
+          the mentor indicated in the grant application. Graduate and
+          postdoctoral Fellows in academic institutions are not entitled to
+          vacations as such. They are entitled to the short normal student
+          holidays observed by the institution. The time between academic
+          semesters or quarters is to be utilized as an active part of the grant
+          period. During the period of support, USDA Graduate and Postdoctoral
+          Fellows are permitted, at the discretion of their institutions, to
+          accept additional supplemental employment that would positively
+          contribute to their training or research and provide eligibility for
+          tuition waivers (e.g., full or partial tuition waivers provided with
+          research or teaching assignments). A Fellow may accept from any other
+          entity a grant supporting the Fellow&apos;s research costs.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16454'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:B:3402.9
+      </extid>
+      <num st='1'>
+        3402.9
+      </num>
+      <head>
+        Financial provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='9' psec='' tq='N'>
+              3402.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial provisions.
+        </SUBJECT>
+        <P>
+          An institution may elect to apply the cost-of-education/training
+          institutional allowance to a Fellow&apos;s tuition, fees and
+          laboratory expenses and to defray other program expenses (e.g.,
+          recruitment, travel, publications, or salaries of project personnel),
+          unless stated otherwise in the solicitation. Tuition and fees are the
+          responsibility of the Fellow unless an institution elects to use its
+          cost-of-education institutional allowance for this purpose or elects
+          to pay such costs out of non-USDA monies. No dependency allowances are
+          provided to any USDA Graduate or Postdoctoral Fellows. Stipend
+          payments and special international study or thesis/dissertation
+          research travel allowances may be made to Fellows by the institution,
+          in accordance with standard institutional procedures for graduate and
+          postdoctoral fellowships and assistantships.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16455'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:C:3402.10
+      </extid>
+      <num st='1'>
+        3402.10
+      </num>
+      <head>
+        Application package.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='10' psec='' tq='N'>
+              3402.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application package.
+        </SUBJECT>
+        <P>
+          Applications will be available at 
+          <E T='03'>
+            http://www.grants.gov
+          </E>
+           and through the NIFA Web site. An application package will be made
+          available to any potential grant applicant upon request. This package
+          will include all necessary forms and instructions to apply for a grant
+          under this program.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16456'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:C:3402.11
+      </extid>
+      <num st='1'>
+        3402.11
+      </num>
+      <head>
+        Proposal cover page.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='11' psec='' tq='N'>
+              3402.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Proposal cover page.
+        </SUBJECT>
+        <P>
+          The Proposal Cover Page, Form NIFA-2002, must be completed in its
+          entirety, including all authorizing signatures. One copy of each grant
+          application must contain the original pen-and-ink signatures, or
+          approved electronic equivalent, of:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Project Director(s); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Authorized Organizational Representative for the institution.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16457'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:C:3402.12
+      </extid>
+      <num st='1'>
+        3402.12
+      </num>
+      <head>
+        Project summary.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='12' psec='' tq='N'>
+              3402.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Project summary.
+        </SUBJECT>
+        <P>
+          Using the Project Summary, Form NIFA-2003, applicants must summarize
+          the proposed graduate program of study and/or the academic and
+          research 
+          <PRTPAGE P='374' />
+          strengths of the institution in the national need area for which
+          funding is requested. To the extent possible, applicants should
+          emphasize the uniqueness of the proposed program of training. The
+          summary should not include any reference to the specific number of
+          fellowships requested. The information on Form NIFA-2003 will be used
+          in assigning the most appropriate panelists to review an application.
+          If an application is supported, this Form may be used in program
+          publications.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16458'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:C:3402.13
+      </extid>
+      <num st='1'>
+        3402.13
+      </num>
+      <head>
+        National need narrative.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='13' psec='' tq='N'>
+              3402.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          National need narrative.
+        </SUBJECT>
+        <P>
+          HEP will determine the composition of the narrative for each
+          competition, including page limits, font size, the number and the
+          order of sections, and other supporting information that may be
+          required. Detailed instructions for preparing the narrative will be
+          published in the solicitation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16459'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:C:3402.14
+      </extid>
+      <num st='1'>
+        3402.14
+      </num>
+      <head>
+        Budget and budget narrative.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='14' psec='' tq='N'>
+              3402.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Budget and budget narrative.
+        </SUBJECT>
+        <P>
+          Applicants must prepare the Budget, Form NIFA-2004, and a budget
+          narrative identifying all costs associated with the application.
+          Instructions for completing the Budget are provided with the form.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16460'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:C:3402.15
+      </extid>
+      <num st='1'>
+        3402.15
+      </num>
+      <head>
+        Faculty vitae.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='15' psec='' tq='N'>
+              3402.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Faculty vitae.
+        </SUBJECT>
+        <P>
+          This section should include a Summary Vita, no more than 2 pages
+          excluding publications listing, for each faculty member contributing
+          significantly to institutional competence at the level of graduate
+          study for the national need area addressed in the application.
+          Applicants should arrange the faculty vitae with the Project
+          Director(s) first, followed by the remaining faculty, in alphabetical
+          order.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16461'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:C:3402.16
+      </extid>
+      <num st='1'>
+        3402.16
+      </num>
+      <head>
+        Appendix.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='16' psec='' tq='N'>
+              3402.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appendix.
+        </SUBJECT>
+        <P>
+          Any additional supporting information deemed essential to enhancing
+          the application should be included in an appendix and referenced in
+          the national need narrative.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16462'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:D:3402.17
+      </extid>
+      <num st='1'>
+        3402.17
+      </num>
+      <head>
+        Where to submit an application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='17' psec='' tq='N'>
+              3402.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Where to submit an application.
+        </SUBJECT>
+        <P>
+          The solicitation will indicate the date for submission of applications
+          and the number of application copies required to apply for a grant. In
+          addition, the solicitation will provide the address to which the
+          application, the required number of accompanying duplicate copies, and
+          any other required forms and materials should be sent.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16463'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:D:3402.18
+      </extid>
+      <num st='1'>
+        3402.18
+      </num>
+      <head>
+        Evaluation criteria.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='18' psec='' tq='N'>
+              3402.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evaluation criteria.
+        </SUBJECT>
+        <P>
+          Applications addressing a particular national need area at a
+          particular Fellowship level (master&apos;s, doctoral or postdoctoral)
+          will be evaluated in competition with other applications addressing
+          the same national need area at the same level. Both USDA internal
+          staff and the panelists will evaluate applications on the basis of the
+          criteria published in the solicitation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16464'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:E:3402.19
+      </extid>
+      <num st='1'>
+        3402.19
+      </num>
+      <head>
+        Terms and conditions of grant awards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='19' psec='' tq='N'>
+              3402.19
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms and conditions of grant awards.
+        </SUBJECT>
+        <P>
+          Within the limit of funds available for such purpose, the awarding
+          official shall make project grants to those responsible, eligible
+          applicants whose applications are judged most meritorious according to
+          evaluation criteria stated in the solicitation. The beginning of the
+          project period shall be no later than September 30 of the Federal
+          fiscal year in which the project is approved for support. All funds
+          granted under this part shall be expended solely for the purpose for
+          which the funds are granted in accordance with the approved
+          application and budget, the regulations of this part, the terms and
+          conditions of the award, the applicable Federal cost principles, and
+          the Department&apos;s assistance regulations (
+          <aref type='UNKNOWN'>
+            parts 
+            <subref title='7' part='3015' tq='N'>
+              3015
+            </subref>
+             and 3019 of
+          </aref>
+           7 CFR).
+        </P>
+      </contents>
+    </section>
+    <section orderid='16465'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:E:3402.20
+      </extid>
+      <num st='1'>
+        3402.20
+      </num>
+      <head>
+        Other Federal statutes and regulations that apply.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='375' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='20' psec='' tq='N'>
+              3402.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Other Federal statutes and regulations that apply.
+        </SUBJECT>
+        <P>
+          Several Federal statutes and regulations apply to grant applications
+          considered for review and to grants awarded under this program. These
+          include, but are not limited to: 
+        </P>
+        <EXTRACT>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1' tq='N'>
+                1
+              </subref>
+            </aref>
+            , subpart A—USDA implementation of the Freedom of Information Act.
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3' tq='N'>
+                3
+              </subref>
+            </aref>
+            —USDA implementation of OMB Circular No. A-129 regarding debt
+            collection.
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='15' tq='N'>
+                15
+              </subref>
+            </aref>
+            , subpart A—USDA implementation of title VI of the Civil Rights Act
+            of 1964, as amended.
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='331' tq='N'>
+                331
+              </subref>
+               and 
+              <subref title='7' part='9' tq='N'>
+                9
+              </subref>
+            </aref>
+             CFR 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='121' tq='N'>
+                121
+              </subref>
+            </aref>
+            —USDA implementation of the Agricultural Bioterrorism Protection Act
+            of 2002.
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            , or any successor rule—USDA Uniform Federal Assistance Regulations,
+            as amended, implementing OMB directives (
+            <E T='03'>
+              i.e.
+            </E>
+            , Circular Nos. A-21 and A-122) and incorporating provisions of 
+            <aref type='USC'>
+              <subref title='31' sect='6301-630' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/31/6301-630.html'>
+                31 U.S.C. 6301-630
+              </subref>
+            </aref>
+            8 (formerly the Federal Grant and Cooperative Agreement Act of 1977,
+            Pub. L. No. 95-224), as well as general policy requirements
+            applicable to recipients of Departmental financial assistance.
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3017' tq='N'>
+                3017
+              </subref>
+            </aref>
+            —USDA implementation of Government wide Debarment and Suspension
+            (Nonprocurement) and Government wide Requirements for Drug-Free
+            Workplace (Grants).
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3018' tq='N'>
+                3018
+              </subref>
+            </aref>
+            —USDA implementation of New Restrictions on Lobbying. Imposes
+            prohibitions and requirements for disclosure and certification
+            related to lobbying on recipients of Federal contracts, grants,
+            cooperative agreements, and loans.
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            —USDA implementation of OMB Circular No. A-110, Uniform
+            Administrative Requirements for Grants and Other Agreements with
+            Institutions of Higher Education, Hospitals, and Other Nonprofit
+            Organizations.
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3052' tq='N'>
+                3052
+              </subref>
+            </aref>
+            —USDA implementation of OMB Circular No. A-133, Audits of States,
+            Local Governments, and Nonprofit Organizations.
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3407' tq='N'>
+                3407
+              </subref>
+            </aref>
+            —NIFA implementation of the National Environmental Policy Act.
+          </P>
+          <P>
+            <aref type='USC'>
+              <subref title='29' sect='794' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/29/794.html'>
+                29 U.S.C. 794
+              </subref>
+            </aref>
+            , 
+            <aref type='CFR-TIC-SECT'>
+              Section 504
+            </aref>
+            —Rehabilitation Act of 1973, and
+          </P>
+          <P>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='15b' tq='N'>
+                15b
+              </subref>
+            </aref>
+             (USDA implementation of statute), prohibiting discrimination based
+            upon physical or mental handicap in Federally assisted programs.
+          </P>
+          <P>
+            <aref type='USC'>
+              <subref title='35' sect='200' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/35/200.html'>
+                35 U.S.C. 200
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            —Bayh-Dole Act, controlling allocation of rights to inventions made
+            by employees of small business firms and domestic nonprofit
+            organizations, including universities, in Federally assisted
+            programs (implementing regulations are contained in 
+            <aref type='CFR'>
+              37 CFR part 
+              <subref title='37' part='401' tq='N'>
+                401
+              </subref>
+            </aref>
+            ).
+          </P>
+        </EXTRACT>
+      </contents>
+    </section>
+    <section orderid='16466'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:E:3402.21
+      </extid>
+      <num st='1'>
+        3402.21
+      </num>
+      <head>
+        Confidential aspects of applications and awards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='21' psec='' tq='N'>
+              3402.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Confidential aspects of applications and awards.
+        </SUBJECT>
+        <P>
+          When an application results in a grant, the application and supporting
+          information become part of the record of NIFA transactions, and
+          available to the public upon specific request. Information that the
+          Secretary determines to be of a confidential, privileged, or
+          proprietary nature will be held in confidence to the extent permitted
+          by law. Therefore, any information that the applicant wishes to have
+          considered as confidential, privileged, or proprietary should be
+          clearly marked within the application. The original copy of an
+          application that does not result in a grant will be retained by the
+          Agency for a period of one year. Other copies will be destroyed. Such
+          an application will be released only with the consent of the applicant
+          or to the extent required by law. An application may be withdrawn at
+          any time prior to the final action thereon.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16467'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:E:3402.22
+      </extid>
+      <num st='1'>
+        3402.22
+      </num>
+      <head>
+        Access to peer review information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='22' psec='' tq='N'>
+              3402.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to peer review information.
+        </SUBJECT>
+        <P>
+          After final decisions have been announced, HEP will, upon request,
+          inform the PD of the reasons for its decision on an application.
+          Verbatim copies of summary reviews, not including the identity of the
+          reviewers, will be made available to respective PDs upon specific
+          request.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16468'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:E:3402.23
+      </extid>
+      <num st='1'>
+        3402.23
+      </num>
+      <head>
+        Documentation of progress on funded projects.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='23' psec='' tq='N'>
+              3402.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Documentation of progress on funded projects.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Fellowships/Scholarships Entry/Exit Forms (Form NIFA-2010) are
+            available from NIFA upon request. Upon request by HEP, Project
+            Directors awarded Graduate Fellowship (excluding supplemental
+            international and postdoctoral) grants under the program shall
+            complete and submit this form.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Appointment Information shall be submitted to HEP within 3 months
+            of appointment of a Fellow;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Project Director shall submit an annual update of each
+            Fellow&apos;s progress to HEP by September 30 each year. Additional
+            progress reports may be needed to assess continuing progress of
+            Fellows supported by any special 
+            <PRTPAGE P='376' />
+            international study or thesis/dissertation research allowance and/or
+            institutional adherence to program guidelines.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Exit Information shall be completed and submitted to HEP by the
+            Project Director for each Fellow supported by a grant as soon as a
+            Fellow either: Graduates; is officially terminated from the
+            Fellowship or the academic program due to unsatisfactory academic
+            progress; or voluntarily withdraws from the Fellowship or the
+            academic program. If a Fellow has not completed all degree
+            requirements at the end of the five-year grant duration, HEP may
+            request a preliminary exit report. In such a case, a final exit
+            report shall be required at a later date. When a final exit report
+            for each Fellow supported by a grant has been accepted by HEP, the
+            grantee will have satisfied the requirement of a final performance
+            report for the grant. Additional follow-up reports to track
+            Fellows&apos; career patterns may be requested.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All grantees (supplemental international, graduate, and
+            postdoctoral) shall submit initial project information and annual
+            and summary reports to NIFA&apos; Current Research Information
+            System (CRIS). The CRIS database contains narrative project
+            information, progress/impact statements, and final technical reports
+            that are made available to the public. For applications recommended
+            for funding, instructions on preparation and submission of project
+            documentation will be provided to the applicant by the agency
+            contact. Documentation must be submitted to CRIS before NIFA funds
+            will be released. Project reports will be requested by the CRIS
+            office when required. For more information about CRIS, visit 
+            <E T='03'>
+              http://cris.nifa.usda.gov.
+            </E>
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16469'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXIV:-:3402:E:3402.24
+      </extid>
+      <num st='1'>
+        3402.24
+      </num>
+      <head>
+        Evaluation of program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3402' sect='24' psec='' tq='N'>
+              3402.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evaluation of program.
+        </SUBJECT>
+        <P>
+          Grantees should be aware that HEP may, as a part of its own program
+          evaluation activities, carry out in-depth evaluations of assisted
+          activities through independent third parties. Thus, grantees should be
+          prepared to cooperate with evaluators retained by HEP to analyze both
+          the institutional context and the impact of any supported project.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

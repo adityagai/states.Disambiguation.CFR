@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol2'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:B:48
+    </extid>
+    <num>
+      48
+    </num>
+    <head>
+      REGULATIONS OF THE SECRETARY OF AGRICULTURE FOR THE ENFORCEMENT OF THE
+      PRODUCE AGENCY ACT
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Sec. 3, 44
+          </aref>
+          , Stat. 1355, as amended; 
+          <aref type='USC'>
+            <subref title='7' sect='494' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/494.html'>
+              7 U.S.C. 494
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            24 FR 7127
+          </aref>
+          , Sept. 3, 1959, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='2057'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:B:48:-:48.1
+      </extid>
+      <num st='1'>
+        48.1
+      </num>
+      <head>
+        Meaning of words.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='48' sect='1' psec='' tq='N'>
+              48.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Meaning of words.
+        </SUBJECT>
+        <P>
+          Words in this part in the singular form shall be deemed to import the
+          plural, and vice versa, as the case may demand.
+        </P>
+      </contents>
+    </section>
+    <section orderid='2058'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:B:48:-:48.2
+      </extid>
+      <num st='1'>
+        48.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='48' sect='2' psec='' tq='N'>
+              48.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Unless the context otherwise requires, the following terms shall be
+          construed as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Act
+            </E>
+             means “An act to prevent the destruction or dumping, without good
+            and sufficient cause therefor, of farm produce received in
+            interstate commerce by commission merchants and others, and to
+            require them truly and correctly to account for all farm produce
+            received by them,” approved March 3, 1927 (
+            <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=71_statutes2_at_large&amp;position=all&amp;page=1355'>
+              44 Stat. 1355
+            </aref>
+            ; 
+            <aref type='USC'>
+              <subref title='7' sect='491-497' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/491-497.html'>
+                7 U.S.C. 491-497
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means an individual, partnership, association or corporation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Secretary
+            </E>
+             means the Secretary of Agriculture of the United States, or any
+            officer or employee of the Department to whom authority has
+            heretofore been delegated, or to whom authority may hereafter be
+            delegated, to act in his stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Service
+            </E>
+             means the Consumer and Marketing Service, United States Department
+            of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Deputy Administrator
+            </E>
+             means the Deputy Administrator for Marketing Services, or any
+            officer or employee of the Service, to whom authority has heretofore
+            lawfully been delegated, or to whom authority may hereafter lawfully
+            be delegated, to act in his stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Director
+            </E>
+             means the Director of the Fruit and Vegetable Division of the
+            Service, or any officer or employee of the Division to whom
+            authority has heretofore lawfully been delegated, or to whom
+            authority may hereafter lawfully be delegated by the Director to act
+            in his stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Produce
+            </E>
+             means all fresh fruits and fresh vegetables generally considered by
+            the trade as perishable fruits and vegetables, melons, dairy or
+            poultry products, or any perishable farm products of any kind or
+            character.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Truly and correctly to account
+            </E>
+             means, unless otherwise stipulated by the parties, that the
+            consignee of produce shall, within ten days after the final sale is
+            made of any produce received for sale on consignment in interstate
+            commerce or in the District of Columbia, render to the consignor
+            thereof a true and correct itemized statement of the gross sales as
+            well as all selling charges and all other charges or expenses paid
+            and a statement of the net proceeds or deficit, and make full
+            payment to the consignor of the net proceeds so received together
+            with a full explanation of the disposition of any and all produce
+            not sold.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Good and sufficient cause
+            </E>
+             means, with respect to destroyed, abandoned, discarded, or dumped
+            produce, that the produce so dealt with had no commercial value, or
+            that some other legal justification for so dealing with such produce
+            existed, such as an order of condemnation by a health officer or
+            definite authority from the shipper.
+            <PRTPAGE P='307' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Commercial value
+            </E>
+             means any value that the produce may have for any purpose that can
+            be ascertained in the exercise of due diligence by the consignee
+            without unreasonable expense on loss of time.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='2059'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:B:48:-:48.3
+      </extid>
+      <num st='1'>
+        48.3
+      </num>
+      <head>
+        Director.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='48' sect='3' psec='' tq='N'>
+              48.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Director.
+        </SUBJECT>
+        <P>
+          The Director shall perform, for and under the supervision of the
+          Secretary and the Deputy Administrator, such duties as the Secretary
+          or the Deputy Administrator may require in enforcing the provisions of
+          the Act and the regulations issued thereunder.
+        </P>
+      </contents>
+    </section>
+    <section orderid='2060'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:B:48:-:48.4
+      </extid>
+      <num st='1'>
+        48.4
+      </num>
+      <head>
+        Destroying or dumping.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='48' sect='4' psec='' tq='N'>
+              48.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Destroying or dumping.
+        </SUBJECT>
+        <P>
+          Any person receiving produce in interstate commerce or in the District
+          of Columbia for or on behalf of another who, without good and
+          sufficient cause, shall destroy or abandon, discard as refuse, or dump
+          any produce, directly or indirectly or through collusion with any
+          person, shall be considered to have violated the Act.
+        </P>
+      </contents>
+    </section>
+    <section orderid='2061'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:B:48:-:48.5
+      </extid>
+      <num st='1'>
+        48.5
+      </num>
+      <head>
+        False report or statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='48' sect='5' psec='' tq='N'>
+              48.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          False report or statement.
+        </SUBJECT>
+        <P>
+          Any person receiving produce in interstate commerce or in the District
+          of Columbia for or on behalf of another shall be considered to have
+          violated the Act if, knowingly and with intent to defraud, he makes
+          any false report or statement to the person from whom such produce was
+          received concerning the handling, condition, quality, quantity, sale,
+          or disposition thereof.
+        </P>
+      </contents>
+    </section>
+    <section orderid='2062'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:B:48:-:48.6
+      </extid>
+      <num st='1'>
+        48.6
+      </num>
+      <head>
+        Failure to account.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='48' sect='6' psec='' tq='N'>
+              48.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Failure to account.
+        </SUBJECT>
+        <P>
+          Any person receiving produce in interstate commerce or in the District
+          of Columbia for or on behalf of another shall be considered to have
+          violated the Act if, knowingly and with intent to defraud, he fails
+          truly and correctly to account to the person from whom such produce
+          was received.
+        </P>
+      </contents>
+    </section>
+    <section orderid='2063'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:B:48:-:48.7
+      </extid>
+      <num st='1'>
+        48.7
+      </num>
+      <head>
+        Evidence to justify dumping.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='48' sect='7' psec='' tq='N'>
+              48.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evidence to justify dumping.
+        </SUBJECT>
+        <P>
+          Any person, receiving produce in interstate commerce or in the
+          District of Columbia, having reason to destroy, abandon, discard as
+          refuse or dump such produce, should, prior to such destroying,
+          abandoning, discarding or dumping, obtain a dumping certificate or
+          other evidence of justification for such action. Certification,
+          showing that the produce has no commercial value, should be obtained
+          from:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An inspector authorized by the United States Department of
+            Agriculture to inspect produce; or (b) a health officer, or food
+            inspector of any State, county, parish, city or municipality or of
+            the District of Columbia. When no inspector or health officer, as
+            designated in paragraph (a) or (b) of this section is available,
+            affidavits as to the condition of the produce should be obtained
+            from two disinterested persons having no financial interest in the
+            produce involved or in the business of a person financially
+            interested therein, and who are unrelated by blood or marriage to
+            any such financially interested person, and who, at the time of
+            certification, and for a period of at least one year immediately
+            prior thereto, have been engaged in the handling of the same general
+            kind or class of produce with respect to which such affidavits are
+            to be made. The certificate or affidavit obtained for justifying
+            dumping should identify the produce to be dumped by giving the name
+            of the shipper, any identifying marks or brands on the original
+            container, the type of container, the commodity, the quantity, the
+            date of inspection, and contain a short description of the condition
+            of the produce to be dumped at the time of inspection. The name,
+            address and title of the person or persons making such inspection
+            should also be designated on the certificate or affidavit.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='2064'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:B:48:-:48.8
+      </extid>
+      <num st='1'>
+        48.8
+      </num>
+      <head>
+        Filing of complaints.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='48' sect='8' psec='' tq='N'>
+              48.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Filing of complaints.
+        </SUBJECT>
+        <P>
+          Any person having reason to believe that the Act or the regulations in
+          this part have been violated should submit promptly all available
+          facts with respect thereto to the Director for investigation and
+          appropriate action.
+          <PRTPAGE P='308' />
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

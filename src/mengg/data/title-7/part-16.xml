@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol1'>
+    <extid>
+      lii:cfr:2013:7:0:A:-:-:16
+    </extid>
+    <num>
+      16
+    </num>
+    <head>
+      EQUAL OPPORTUNITY FOR RELIGIOUS ORGANIZATIONS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; E.O. 13279, 
+          <aref type='FREGIST'>
+            67 FR 77141, 3
+          </aref>
+           CFR, 2002 Comp., p. 258; E.O. 13280, 
+          <aref type='FREGIST'>
+            67 FR 77145, 3
+          </aref>
+           CFR, 2002 Comp., p. 262.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            69 FR 41382
+          </aref>
+          , July 9, 2004, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='732'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:16:-:16.1
+      </extid>
+      <num st='1'>
+        16.1
+      </num>
+      <head>
+        Purpose and applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='16' sect='1' psec='' tq='N'>
+              16.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The purpose of this part is to set forth USDA policy regarding
+            equal opportunity for religious organizations to participate in USDA
+            assistance programs for which other private organizations are
+            eligible.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise specifically provided in this part, the policy
+            outlined in this part applies to all recipients and subrecipients of
+            USDA assistance to which 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='3015' tq='N'>
+                3015, 3016
+              </subref>
+              , or 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+             apply, and to recipients and subrecipients of Commodity Credit
+            Corporation assistance that is administered by agencies of USDA.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='733'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:16:-:16.2
+      </extid>
+      <num st='1'>
+        16.2
+      </num>
+      <head>
+        Rights of religious organizations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='16' sect='2' psec='' tq='N'>
+              16.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Rights of religious organizations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A religious organization is eligible, on the same basis as any
+            other eligible private organization, to access and participate in
+            USDA assistance programs. Neither the Federal government nor a State
+            or local government receiving USDA assistance shall, in the
+            selection of service providers, discriminate for or against a
+            religious organization on the basis of the organization&apos;s
+            religious character or affiliation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A religious organization that participates in USDA assistance
+            programs will retain its independence and may continue to carry out
+            its mission, including the definition, practice, and expression of
+            its religious beliefs, provided that it does not use USDA direct
+            assistance to support any inherently religious activities, such as
+            worship, religious instruction, or proselytization. Among other
+            things, a religious organization may:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Use space in its facilities to provide services and programs
+            without removing religious art, icons, scriptures, or other
+            religious symbols,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Retain religious terms in its organization&apos;s name,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Select its board members and otherwise govern itself on a religious
+            basis, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Include religious references in its organizations&apos; mission
+            statements and other governing documents.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In addition, a religious organization&apos;s exemption from the
+            Federal prohibition on employment discrimination on the basis of
+            religion, set forth in 
+            <aref type='UNKNOWN'>
+              section 702(a) of
+            </aref>
+             the Civil Rights Act of 1964, 
+            <aref type='USC'>
+              <subref title='42' sect='2000e-1' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/2000e-1.html'>
+                42 U.S.C. 2000e-1
+              </subref>
+            </aref>
+            , is not forfeited when an organization receives USDA assistance.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='734'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:16:-:16.3
+      </extid>
+      <num st='1'>
+        16.3
+      </num>
+      <head>
+        Responsibilities of participating organizations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='16' sect='3' psec='' tq='N'>
+              16.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Responsibilities of participating organizations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An organization that participates in programs and activities
+            supported by direct USDA assistance programs shall not discriminate
+            against a program beneficiary or prospective program beneficiary on
+            the basis of religion or religious belief.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Organizations that receive direct USDA assistance under any USDA
+            program may not engage in inherently religious activities, such as
+            worship, religious instruction, or proselytization, as part of the
+            programs or services supported with direct USDA assistance. If an
+            organization conducts such activities, the activities must be
+            offered separately, in time or location, from the programs or
+            services supported with direct assistance from USDA, and
+            participation must be voluntary for beneficiaries of the programs or
+            services supported with such direct assistance. These restrictions
+            on inherently religious activities do not apply where USDA funds or
+            benefits are provided to religious organizations as a result of a
+            genuine and independent private choice of a beneficiary or through
+            other indirect funding mechanisms, provided the religious
+            organizations otherwise satisfy the requirements of the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Nothing in paragraphs (a) or (b) shall be construed to prevent
+            religious organizations that receive USDA assistance under the
+            Richard B. Russell National School Lunch Act, 42 U.S.C. 
+            <PRTPAGE P='482' />
+            1751 
+            <E T='03'>
+              et seq.,
+            </E>
+             the Child Nutrition Act of 1966, 
+            <aref type='USC'>
+              <subref title='42' sect='1771' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/1771.html'>
+                42 U.S.C. 1771
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.,
+            </E>
+             or USDA international school feeding programs from considering
+            religion in their admissions practices or from imposing religious
+            attendance or curricular requirements at their schools.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Direct USDA assistance may be used for the acquisition,
+            construction, or rehabilitation of structures only to the extent
+            that those structures are used for conducting USDA programs and
+            activities and only to the extent authorized by the applicable
+            program statutes and regulations. Direct USDA assistance may not be
+            used for the acquisition, construction, or rehabilitation of
+            structures to the extent that those structures are used by the USDA
+            funding recipients for inherently religious activities. Where a
+            structure is used for both eligible and inherently religious
+            activities, direct USDA assistance may not exceed the cost of those
+            portions of the acquisition, construction, or rehabilitation that
+            are attributable to eligible activities in accordance with the cost
+            accounting requirements applicable to USDA funds. Sanctuaries,
+            chapels, or other rooms that an organization receiving direct
+            assistance from USDA uses as its principal place of worship,
+            however, are ineligible for USDA-funded improvements. Disposition of
+            real property after the term of the grant or any change in use of
+            the property during the term of the grant is subject to
+            government-wide regulations governing real property disposition (see
+            
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='3015' tq='N'>
+                3015, 3016
+              </subref>
+               and 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any use of direct USDA assistance funds for equipment, supplies,
+            labor, indirect costs and the like shall be prorated between the
+            USDA program or activity and any use for other purposes by the
+            religious organization in accordance with applicable laws,
+            regulations, and guidance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Nothing in this section shall be construed to prevent the residents
+            of housing receiving direct USDA assistance funds from engaging in
+            religious exercise within such housing.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='735'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:16:-:16.4
+      </extid>
+      <num st='1'>
+        16.4
+      </num>
+      <head>
+        Effect on State and local funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='16' sect='4' psec='' tq='N'>
+              16.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effect on State and local funds.
+        </SUBJECT>
+        <P>
+          If a State or local government voluntarily contributes its own funds
+          to supplement activities carried out under programs governed by this
+          part, the State or local government has the option to separate out the
+          direct USDA assistance funds or commingle them. If the funds are
+          commingled, the provisions of this part shall apply to all of the
+          commingled funds in the same manner, and to the same extent, as the
+          provisions apply to the direct USDA assistance.
+        </P>
+      </contents>
+    </section>
+    <section orderid='736'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:16:-:16.5
+      </extid>
+      <num st='1'>
+        16.5
+      </num>
+      <head>
+        Compliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='16' sect='5' psec='' tq='N'>
+              16.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance.
+        </SUBJECT>
+        <P>
+          USDA agencies will monitor compliance with this part in the course of
+          regular oversight of USDA programs.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

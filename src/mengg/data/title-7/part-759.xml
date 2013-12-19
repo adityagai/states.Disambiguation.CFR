@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol7'>
+    <extid>
+      lii:cfr:2013:7:0:B:VII:D:759
+    </extid>
+    <num>
+      759
+    </num>
+    <head>
+      DISASTER DESIGNATIONS AND NOTIFICATIONS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+            , 
+            <subref title='5' sect='7' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/7.html'>
+              7
+            </subref>
+          </aref>
+           U.S.C. 1961 and 1989.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            77 FR 41254
+          </aref>
+          , July 13, 2012, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6657'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:759:-:759.1
+      </extid>
+      <num st='1'>
+        759.1
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='759' sect='1' psec='' tq='N'>
+              759.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This part will be administered under the general supervision and
+            direction of the Administrator, Farm Service Agency (FSA).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             FSA representatives do not have authority to modify or waive any of
+            the provisions of the regulations of this part as amended or
+            supplemented.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator will take any action required by the regulations
+            of this part that the Administrator determines has not already been
+            taken. The Administrator will also:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Correct or require correction of any action taken that is not in
+            accordance with the regulations of this part; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require withholding taking any action that is not in accordance
+            with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             No provision or delegation in these regulations will preclude the
+            Administrator or a designee or other such person, from determining
+            any question arising under this part, or from reversing or modifying
+            any determination made under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Absent a delegation to the contrary, this part will be administered
+            by the Deputy Administrator for Farm 
+            <PRTPAGE P='69' />
+            Programs of FSA on behalf of the Administrator of FSA or the
+            Secretary, but nothing in this part will inhibit the ability of the
+            Administrator of FSA or the person holding the equivalent position
+            in the event of a reorganization to delegate the functions of DAFP
+            under these regulations to another person. Likewise, nothing shall
+            inhibit the ability of the Secretary to reassign any duties with
+            respect to the designations of disasters under this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6658'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:759:-:759.2
+      </extid>
+      <num st='1'>
+        759.2
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='759' sect='2' psec='' tq='N'>
+              759.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This part specifies the types of incidents that can result in an
+            area being determined a disaster area, which under other regulations
+            makes qualified farmers in such areas eligible for Emergency loans
+            (EM) or eligible for such other assistance that may be available,
+            based on Secretarial disaster designations. Nothing in this part
+            overrides provision of those regulations that govern the actual
+            administration and availability of the disaster assistance
+            regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This part specifies the responsibility of the County Emergency
+            Board (CEB), State Emergency Board (SEB), and the State Executive
+            Director (SED) in regard to Secretarial Designations with regards to
+            disasters. It also addresses matters relating to the handling of a
+            Presidential declaration of disaster or the imposition of a USDA
+            quarantine by the Secretary with respect to triggering the
+            availability of EM loans.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6659'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:759:-:759.3
+      </extid>
+      <num st='1'>
+        759.3
+      </num>
+      <head>
+        Abbreviations and definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='759' sect='3' psec='' tq='N'>
+              759.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Abbreviations and definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Abbreviations.
+            </head>
+          </npcatch>
+          <text>
+             The following abbreviations apply to this part.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            CEB
+          </E>
+           means the County Emergency Board.
+        </P>
+        <P>
+          <E T='03'>
+            CED
+          </E>
+           means the County Executive Director.
+        </P>
+        <P>
+          <E T='03'>
+            DAFP
+          </E>
+           means the Deputy Administrator for Farm Programs of the Farm Service
+          Agency.
+        </P>
+        <P>
+          <E T='03'>
+            EM
+          </E>
+           means Emergency loan administered under 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='764' tq='N'>
+              764
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            FSA
+          </E>
+           means the Farm Service Agency.
+        </P>
+        <P>
+          <E T='03'>
+            LAR
+          </E>
+           means the Loss Assessment Report.
+        </P>
+        <P>
+          <E T='03'>
+            SEB
+          </E>
+           means the State Emergency Board.
+        </P>
+        <P>
+          <E T='03'>
+            SED
+          </E>
+           means the State Executive Director.
+        </P>
+        <P>
+          <E T='03'>
+            USDA
+          </E>
+           means the United States Department of Agriculture.
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <text>
+             The following definitions apply to this part.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the Administrator of FSA.
+        </P>
+        <P>
+          <E T='03'>
+            Contiguous county
+          </E>
+           is used in reference to a primary county as defined in this section.
+          A contiguous county is any county whose boundary touches at any point
+          with that of the primary county. For programs other than the EM
+          Program, disaster assistance regulations will specify whether benefits
+          will be available only in the primary counties or also in the
+          contiguous counties. For the EM Program that issue is addressed in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='759' sect='6' psec='' tq='N'>
+              759.6
+            </subref>
+          </aref>
+          , unless specified otherwise in the disaster assistance regulations
+          for other programs or in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='759' sect='6' psec='' tq='N'>
+              759.6
+            </subref>
+          </aref>
+           for the EM Program, only the “primary” county will be considered the
+          qualifying “disaster county.” Therefore, if the disaster assistance
+          regulations specify that they cover the disaster area and contiguous
+          counties, then the only eligible counties would be the primary county
+          and those contiguous to that county. Coverage would not include
+          coverage of those counties that are in turn contiguous to those
+          counties that are contiguous to the primary county.
+        </P>
+        <P>
+          <E T='03'>
+            County
+          </E>
+           is used when referring to a geographical area, a local administrative
+          subdivision of a State or a similar political subdivision of the
+          United States generally considered to be in county usage, for example,
+          it includes an area referred to as a “county” or “parish.” Except
+          where otherwise specified, the use of the term county or similar
+          political subdivision is for administrative purposes only.
+        </P>
+        <P>
+          <E T='03'>
+            CEB
+          </E>
+           is comprised of the representatives of several USDA agencies that
+          have responsibilities for reporting the occurrence of, and assessing
+          the damage caused by, a natural disaster, and for requesting approval
+          in declaring a county a disaster area.
+        </P>
+        <P>
+          <E T='03'>
+            CED
+          </E>
+           is the person in charge of administering the local FSA county office
+          for a particular county.
+        </P>
+        <P>
+          <E T='03'>
+            Disaster area
+          </E>
+           is the county or counties declared or designated as a disaster area
+          as a result of natural disaster related losses. The disaster area only
+          includes the primary counties, but 
+          <PRTPAGE P='70' />
+          benefits may be available in the counties contiguous to the primary
+          county if so provided by the disaster assistance regulations or, in
+          the case of the EM Program, in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='759' sect='6' psec='' tq='N'>
+              759.6
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            LAR
+          </E>
+           is a loss assessment report prepared by the CEB relating to the State
+          and county where the potential disaster occurred and for which county
+          or counties the CEB is responsible. The LAR includes as applicable,
+          but is not limited to, starting and ending dates of the disaster, crop
+          year affected, type of disaster incident, area of county affected by
+          disaster; total number of farms affected, crop loss or pasture loss
+          data associated with the applicable disaster (or both types of
+          losses), livestock destroyed, and other property losses.
+        </P>
+        <P>
+          <E T='03'>
+            Natural disaster
+          </E>
+           is a disaster in which unusual and adverse weather conditions or
+          other natural phenomena have substantially affected farmers by causing
+          severe physical losses, severe production losses, or both.
+        </P>
+        <P>
+          <E T='03'>
+            Primary county
+          </E>
+           is a county determined to be a disaster area.
+        </P>
+        <P>
+          <E T='03'>
+            Presidential declaration
+          </E>
+           is a declaration of a disaster by the President under the Robert T.
+          Stafford Disaster Relief and Emergency Assistance Act (
+          <aref type='USC'>
+            <subref title='42' sect='5121-2' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/5121-2.html'>
+              42 U.S.C. 5121-2
+            </subref>
+          </aref>
+          ) requiring Federal emergency assistance to supplement State and local
+          efforts to save lives and protect property, public health and safety,
+          or to avert or lessen the threat of a disaster.
+        </P>
+        <P>
+          <E T='03'>
+            Production losses (severe)
+          </E>
+           within a county are those in which there has been a reduction
+          county-wide of at least a 30 percent or more loss of production of at
+          least one crop in the county.
+        </P>
+        <P>
+          <E T='03'>
+            SEB
+          </E>
+           means the State Emergency Board which is comprised of the
+          representatives of several USDA agencies having emergency program
+          responsibilities at the State level. The board is required to respond
+          to emergencies and carry out the Secretary&apos;s emergency
+          preparedness responsibilities.
+        </P>
+        <P>
+          <E T='03'>
+            SED
+          </E>
+           is the person who serves as the Chairperson of the USDA SEB in each
+          State, is responsible for providing the leadership and coordination
+          for all USDA emergency programs at the State level, and is subject to
+          the supervision of DAFP.
+        </P>
+        <P>
+          <E T='03'>
+            Severe physical losses
+          </E>
+           means, for the purpose of determining an Administrator&apos;s
+          declaration of physical loss, losses that consist of severe damage to,
+          or destruction of: Physical farm property including farmland (except
+          sheet erosion); structures on the land including, but not limited to,
+          building, fences, dams; machinery, equipment, supplies, and tools;
+          livestock, livestock products, poultry and poultry products; harvested
+          crops and stored crops.
+        </P>
+        <P>
+          <E T='03'>
+            Substantially affected
+          </E>
+           when used to refer to producers and to the relationship of a
+          particular producer to a particular disaster means a producer who has
+          sustained qualifying physical or production losses, as defined in this
+          section, as a result of the natural disaster.
+        </P>
+        <P>
+          <E T='03'>
+            U.S. Drought Monitor
+          </E>
+           is a system for classifying drought severity according to a range of
+          abnormally dry to exceptional drought. It is a collaborative effort
+          between Federal and academic partners that is produced on a weekly
+          basis to synthesize multiple indices, outlooks, and drought impacts on
+          a map and in narrative form. This synthesis of indices is reported by
+          the National Drought Mitigation Center.
+        </P>
+        <P>
+          <E T='03'>
+            United States
+          </E>
+           means each of the several States, the Commonwealth of Puerto Rico,
+          the Virgin Islands of the United States, Guam, American Samoa, and the
+          Commonwealth of the Northern Mariana Islands. Extension of disaster
+          assistance, following a disaster designation, to insular areas of the
+          United States not covered by this definition of “United States” will
+          be only as authorized by law, and as determined by the Administrator
+          on behalf of the Secretary to be appropriate.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6660'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:759:-:759.5
+      </extid>
+      <num st='1'>
+        759.5
+      </num>
+      <head>
+        Secretarial disaster area determination and notification process.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='759' sect='5' psec='' tq='N'>
+              759.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Secretarial disaster area determination and notification process.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              U.S. Drought Monitor.
+            </head>
+          </npcatch>
+          <text>
+             With respect to drought and without requiring an LAR:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If any portion of a county is physically located in an area with a
+            Drought Monitor Intensity Classification value of D3
+            (drought-extreme) or higher during any part of the growing season of
+            the crops affected by the disaster in the county, then the county
+            will be designated a disaster area by the Secretary.
+            <PRTPAGE P='71' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If any portion of a county meets the threshold Drought Monitor
+            Intensity Classification value of D2 (drought-severe) for at least 8
+            consecutive weeks during the growing season of affected crops, then
+            the county will be designated a disaster area by the Secretary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              CEB and SEB recommendations.
+            </head>
+          </npcatch>
+          <text>
+             In instances where counties have been impacted by a disaster but
+            the county has not been designated a disaster area under the
+            provisions of paragraph (a) of this section, CEB will make a
+            disaster designation recommendation request to SEB when a disaster
+            has resulted in severe production losses. The determination of the
+            sufficiency of the production losses will be governed by the
+            provisions in paragraph (c) of this section. The CEB may make such
+            efforts as are needed to identify counties that have been impacted
+            and had such production losses. A farmer, Indian Tribal Council, or
+            local governing body may initiate the process by reporting
+            production losses or drought conditions to CEB and suggesting that
+            there be a recommendation in favor of designating a county as a
+            disaster area. Recommendations by a CEB in favor of a disaster
+            designation by a CEB under this paragraph are subject to the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A LAR is required as part of a CEB disaster designation request.
+            CEB will submit a disaster designation request with a LAR to SEB for
+            review and recommendation for approval by the Secretary. CEB&apos;s
+            written request and SEB recommendation must be submitted within
+            three months of the last day of the occurrence of a natural
+            disaster.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If SEB determines a qualifying natural disaster and loss have
+            occurred, SEB will forward the recommendation to the Administrator.
+            The natural disaster may include drought conditions that were not
+            sufficiently severe to meet the criteria in paragraph (a) of this
+            section. Since the U.S. Drought Monitor tracks only drought
+            conditions, not specifically agricultural losses resulting from
+            those conditions, it is possible for a drought that does not meet
+            the criteria in paragraph (a) of this section to result in
+            production losses that constitute a natural disaster.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary or the Secretary&apos;s designee will make disaster
+            area determinations. The Secretary may delegate the authority to the
+            SED. In such case, the SED will act on behalf of the Secretary,
+            subject to review by DAFP as may be appropriate and consistent with
+            the delegation. The delegation of authority to the SED may be
+            revoked by the authority making that delegation or by other
+            authorized person. In all cases, DAFP may reverse any SED
+            determination made in accordance with this section unless the
+            delegation to the SED specifies that such review is not allowed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Eligible production losses.
+            </head>
+          </npcatch>
+          <text>
+             For purposes of making determinations under paragraph (b) of this
+            section, in order for an area to be declared a disaster area under
+            paragraph (b) of this section based on production losses, the county
+            must have had production losses of 30 percent of at least one crop
+            in the county as the result of a natural disaster.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Discretionary exception to production losses for designating a
+              county as a disaster county.
+            </head>
+          </npcatch>
+          <text>
+             For purposes of the EM program only, unless otherwise specified in
+            the designation, a county may be designated by DAFP as a designated
+            disaster county even though the conditions specified in paragraphs
+            (a) through (c) of this section are not present so long as the
+            disaster has otherwise produced such significant production losses,
+            or other such extenuating circumstances so as to justify, in the
+            opinion of the Secretary, the designation of a county as a disaster
+            area. In making this determination, the Secretary may consider all
+            relevant factors including such factors as the nature and extent of
+            production losses; the number of farmers who have sustained
+            qualifying production losses; the number of farmers that other
+            lenders in the county indicate they will not be in position to
+            provide emergency financing; whether the losses will cause undue
+            hardship to a certain segment of farmers in the county; whether
+            damage to particular crops has resulted in undue hardship; whether
+            other Federal or State benefit programs, which are being made
+            available due to the same 
+            <PRTPAGE P='72' />
+            disaster, will consequently lessen undue hardship and the demand for
+            EM; and any other factors considered relevant.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6661'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:759:-:759.6
+      </extid>
+      <num st='1'>
+        759.6
+      </num>
+      <head>
+        EM to be made available.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='759' sect='6' psec='' tq='N'>
+              759.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          EM to be made available.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes of the EM Program under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='764' tq='N'>
+                764
+              </subref>
+            </aref>
+            , subpart I, of this chapter, a county will be considered an
+            eligible disaster area as designated by FSA for coverage of the EM
+            Program as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Secretarial designations.
+            </head>
+          </npcatch>
+          <text>
+             When production losses meet the requirements in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='759' sect='5' psec='' tq='N'>
+                759.5
+              </subref>
+            </aref>
+             and the county has been designated as a disaster area for that
+            reason, or when the discretionary exception to production losses for
+            EM under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='759' sect='5' psec='#d' tq='N'>
+                759.5(d)
+              </subref>
+            </aref>
+             has been exercised, the primary and contiguous counties will be
+            areas in which otherwise eligible producers can receive EM loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Physical loss notification.
+            </head>
+          </npcatch>
+          <text>
+             When only qualifying physical losses occur, the SED will submit a
+            request to the FSA Administrator to make a determination that a
+            natural disaster has occurred in a county, resulting in severe
+            physical losses. If the FSA Administrator determines that such a
+            natural disaster has occurred, then EM can be made available to
+            eligible farmers for physical losses only in the primary county (the
+            county that was the subject of that determination) and the counties
+            contiguous to that county.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              USDA quarantine.
+            </head>
+          </npcatch>
+          <text>
+             Any quarantine imposed by the Secretary of Agriculture under the
+            Plant Protection Act or the animal quarantine laws, as defined in 
+            <aref type='UNKNOWN'>
+              section 2509 of
+            </aref>
+             the Food, Agriculture, Conservation, and Trade Act of 1990,
+            automatically authorizes EM for production and physical losses
+            resulting from the quarantine in a primary county (the county in
+            which the quarantine was in force) and (where the quarantine effects
+            extend beyond that county) the counties contiguous to that primary
+            county.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Presidential declaration.
+            </head>
+          </npcatch>
+          <text>
+             Whenever the President declares a Major Disaster Declaration or an
+            Emergency Declaration, FSA will make EM available to eligible
+            applicants in declared and contiguous counties, provided:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The Presidential declaration is not solely for Category A or
+            Category B Public Assistance or Hazard Mitigation Grant Assistance,
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The Presidential Major Disaster declaration is for losses due to
+            severe, general disaster conditions including but not limited to
+            conditions such as flood, hurricane, or earthquake.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

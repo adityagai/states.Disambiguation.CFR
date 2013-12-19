@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:A:1407
+    </extid>
+    <num>
+      1407
+    </num>
+    <head>
+      DEBARMENT AND SUSPENSION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='15' sect='714b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714b.html'>
+              15 U.S.C. 714b
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            64 FR 67471
+          </aref>
+          , Dec. 2, 1999, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12268'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1407:-:1407.1
+      </extid>
+      <num st='1'>
+        1407.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1407' sect='1' psec='' tq='N'>
+              1407.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This part specifies the policies that CCC will follow in taking action
+          to debar or suspend individuals or firms from participation in Federal
+          nonprocurement and procurement activities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12269'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1407:-:1407.2
+      </extid>
+      <num st='1'>
+        1407.2
+      </num>
+      <head>
+        Nonprocurement debarment and suspension.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1407' sect='2' psec='' tq='N'>
+              1407.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Nonprocurement debarment and suspension.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will proceed under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3017' tq='N'>
+                3017
+              </subref>
+            </aref>
+             when taking action to debar or suspend participants or potential
+            participants in CCC&apos;s nonprocurement activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The debarring and suspending official for nonprocurement actions
+            taken by CCC shall be as follows: For actions initiated on behalf of
+            CCC by the Foreign Agricultural Service (FAS), the Food and
+            Nutrition Service (FNS), or the Agricultural Marketing Service
+            (AMS), the debarring and suspending official will be the Vice
+            President, CCC, who is the Administrator FAS, FNS, or AMS,
+            respectively. For actions initiated on behalf of CCC by the Natural
+            Resources Conservation Service (NRCS), the official will be the Vice
+            President, CCC, who is the Chief, NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12270'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1407:-:1407.3
+      </extid>
+      <num st='1'>
+        1407.3
+      </num>
+      <head>
+        Procurement debarment and suspension.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1407' sect='3' psec='' tq='N'>
+              1407.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Procurement debarment and suspension.
+        </SUBJECT>
+        <P>
+          CCC will proceed under this part when taking action to debar or
+          suspend contractors with CCC or participants or potential participants
+          in CCC&apos;s procurement activities. CCC will apply the provisions of
+          
+          <aref type='CFR'>
+            48 CFR part 
+            <subref title='48' part='409' tq='N'>
+              409
+            </subref>
+          </aref>
+          , 
+          <aref type='CFR-TIC-SUBPART'>
+            subpart 
+            <subref title='7' part='409' subpart='4' tq='N'>
+              409.4
+            </subref>
+          </aref>
+          , in such actions, with the exception that the debarring and
+          suspending official will be the Executive Vice President, CCC, or a
+          designee.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

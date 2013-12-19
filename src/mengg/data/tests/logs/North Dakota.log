@@ -1,0 +1,19 @@
+------------------ Evaluation model for North Dakota ---------------------
+
+Number of attributes : 1215
+
+Correctly Classified Instances          13               43.3333 %
+Incorrectly Classified Instances        17               56.6667 %
+Kappa statistic                         -0.1333
+Mean absolute error                      0.5667
+Root mean squared error                  0.7528
+Relative absolute error                112.0455 %
+Root relative squared error            148.7669 %
+Total Number of Instances               30     
+
+=========== Confusion Matrix ===================
+7.0|8.0|
+9.0|6.0|
+
+
+----------- ModelPath : C:\Users\Prasannjit Kumar\workspace\stateDisambiguation/src/mengg/data/tests/trainingModel/North Dakota.model

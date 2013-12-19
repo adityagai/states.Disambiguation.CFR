@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXX:-:3022
+    </extid>
+    <num>
+      3022
+    </num>
+    <head>
+      RESEARCH INSTITUTIONS CONDUCTING USDA-FUNDED EXTRAMURAL RESEARCH; RESEARCH
+      MISCONDUCT
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          Office of Science and Technology Policy (
+          <aref type='FREGIST'>
+            65 FR 76260
+          </aref>
+          ); USDA Secretary&apos;s Memorandum (SM) 2400-007; and USDA OIG, 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2610' sect='1' psec='#c_4_ix' tq='N'>
+              2610.1(c)(4)(ix)
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            75 FR 49359
+          </aref>
+          , Aug. 13, 2010, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='16202'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.1
+      </extid>
+      <num st='1'>
+        3022.1
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='1' psec='' tq='N'>
+              3022.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Adjudication.
+          </E>
+           The stage in response to an allegation of research misconduct when
+          the outcome of the investigation is reviewed, and appropriate
+          corrective actions, if any, are determined. Corrective actions
+          generally will be administrative in nature, such as termination 
+          <PRTPAGE P='236' />
+          of an award, debarment, award restrictions, recovery of funds, or
+          correction of the research record. However, if there is an indication
+          of violation of civil or criminal statutes, civil or criminal
+          sanctions may be pursued.
+        </P>
+        <P>
+          <E T='03'>
+            Agency Research Integrity Officer (ARIO).
+          </E>
+           The individual appointed by a USDA agency that conducts research and
+          who is responsible for:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Receiving and processing allegations of research misconduct as
+            assigned by the USDA RIO;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Informing OIG and the USDA RIO and the research institution
+            associated with the alleged research misconduct, of allegations of
+            research misconduct in the event it is reported to the USDA agency;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Ensuring that any records, documents and other materials relating
+            to a research misconduct allegation are provided to OIG when
+            requested;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Coordinating actions taken to address allegations of research
+            misconduct with respect to extramural research with the research
+            institution(s) at which time the research misconduct is alleged to
+            have occurred, and with the USDA RIO;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Overseeing proceedings to address allegations of extramurally
+            funded research misconduct at intramural research institutions and
+            research institutions where extramural research occurs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Ensuring that agency action to address allegations of research
+            misconduct at USDA agencies performing extramurally funded research
+            is performed at an organizational level that allows an independent,
+            unbiased, and equitable process;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Immediately notifying OIG, the USDA RIO, and the applicable
+            research institution if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Public health or safety is at risk;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             USDA&apos;s resources, reputation, or other interests need
+            protecting;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Research activities should be suspended;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Federal action may be needed to protect the interest of a subject
+            of the investigation or of others potentially affected;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             A premature public disclosure of the inquiry into or investigation
+            of the allegation may compromise the process;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The scientific community or the public should be informed; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_7_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Behavior that is or may be criminal in nature is discovered at any
+            point during the inquiry, investigation, or adjudication phases of
+            the research misconduct proceedings;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Documenting the dismissal of the allegation, and ensuring that the
+            name of the accused individual and/or institution is cleared if an
+            allegation of research misconduct is dismissed at any point during
+            the inquiry or investigation phase of the proceedings;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Other duties relating to research misconduct proceedings as
+            assigned.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Allegation.
+          </E>
+           A disclosure of possible research misconduct through any means of
+          communication. The disclosure may be by written or oral statement, or
+          by other means of communication to an institutional or USDA official.
+        </P>
+        <P>
+          <E T='03'>
+            Applied research.
+          </E>
+           Systematic study to gain knowledge or understanding necessary to
+          determine the means by which a recognized and specific need may be
+          met.
+        </P>
+        <P>
+          <E T='03'>
+            Assistant Inspector General for Investigations.
+          </E>
+           The individual in OIG who is responsible for OIG&apos;s domestic and
+          foreign investigative operations through a headquarters office and the
+          six regional offices.
+        </P>
+        <P>
+          <E T='03'>
+            Basic research.
+          </E>
+           Systematic study directed toward fuller knowledge or understanding of
+          the fundamental aspects of phenomena and of observable facts without
+          specific applications towards processes or products in mind.
+        </P>
+        <P>
+          <E T='03'>
+            Extramural research.
+          </E>
+           Research conducted by any research institution other than the Federal
+          agency to which the funds supporting the research were appropriated.
+          Research institutions conducting extramural research may include
+          Federal research facilities.
+        </P>
+        <P>
+          <E T='03'>
+            Fabrication.
+          </E>
+           Making up data or results and recording or reporting them.
+        </P>
+        <P>
+          <E T='03'>
+            Falsification.
+          </E>
+           Manipulating research materials, equipment, or processes, or changing
+          or omitting data or results such that the research is not accurately
+          represented in the research record.
+        </P>
+        <P>
+          <E T='03'>
+            Finding of research misconduct.
+          </E>
+           The conclusion, proven by a preponderance of the evidence, that
+          research misconduct occurred, that such research misconduct
+          represented a significant 
+          <PRTPAGE P='237' />
+          departure from accepted practices of the relevant research community,
+          and that such research misconduct was committed intentionally,
+          knowingly, or recklessly.
+        </P>
+        <P>
+          <E T='03'>
+            Inquiry.
+          </E>
+           The stage in the response to an allegation of research misconduct
+          when an assessment is made to determine whether the allegation has
+          substance and whether an investigation is warranted.
+        </P>
+        <P>
+          <E T='03'>
+            Intramural research.
+          </E>
+           Research conducted by a Federal Agency, to which funds were
+          appropriated for the purpose of conducting research.
+        </P>
+        <P>
+          <E T='03'>
+            Investigation.
+          </E>
+           The stage in the response to an allegation of research misconduct
+          when the factual record is formally developed and examined to
+          determine whether to dismiss the case, recommend a finding of research
+          misconduct, and/or take other appropriate remedies.
+        </P>
+        <P>
+          <E T='03'>
+            Office of Inspector General (OIG).
+          </E>
+           The Office of Inspector General of the United States Department of
+          Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Office of Science and Technology Policy (OSTP).
+          </E>
+           The Office of Science and Technology Policy of the Executive Office
+          of the President.
+        </P>
+        <P>
+          <E T='03'>
+            Plagiarism.
+          </E>
+           The appropriation of another person&apos;s ideas, processes, results,
+          or words without giving appropriate credit.
+        </P>
+        <P>
+          <E T='03'>
+            Preponderance of the evidence.
+          </E>
+           Proof by information that, compared with that opposing it, leads to
+          the conclusion that the fact at issue is more probably true than not.
+        </P>
+        <P>
+          <E T='03'>
+            Research.
+          </E>
+           All basic, applied, and demonstration research in all fields of
+          science, engineering, and mathematics. This includes, but is not
+          limited to, research in economics, education, linguistics, medicine,
+          psychology, social sciences, statistics, and research involving human
+          subjects or animals regardless of the funding mechanism used to
+          support it.
+        </P>
+        <P>
+          <E T='03'>
+            Research institution.
+          </E>
+           All organizations using Federal funds for research, including, for
+          example, colleges and universities, Federally funded research and
+          development centers, national user facilities, industrial
+          laboratories, or other research institutes.
+        </P>
+        <P>
+          <E T='03'>
+            Research misconduct.
+          </E>
+           Fabrication, falsification, or plagiarism in proposing, performing,
+          or reviewing research, or in reporting research results. Research
+          misconduct does not include honest error or differences of opinion.
+        </P>
+        <P>
+          <E T='03'>
+            Research record.
+          </E>
+           The record of data or results that embody the facts resulting from
+          scientific inquiry, and includes, but is not limited to, research
+          proposals, research records (including data, notes, journals,
+          laboratory records (both physical and electronic)), progress reports,
+          abstracts, theses, oral presentations, internal reports, and journal
+          articles.
+        </P>
+        <P>
+          <E T='03'>
+            United States Department of Agriculture.
+          </E>
+           USDA.
+        </P>
+        <P>
+          <E T='03'>
+            USDA Research Integrity Officer (USDA RIO).
+          </E>
+           The individual designated by the Office of the Under Secretary for
+          Research, Education, and Economics (REE) who is responsible for:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Overseeing USDA agency responses to allegations of research
+            misconduct;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Ensuring that agency research misconduct procedures are consistent
+            with this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Receiving and assigning allegations of research misconduct reported
+            by the public;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Developing Memoranda of Understanding with agencies that elect not
+            to develop their own research misconduct procedures;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Monitoring the progress of all research misconduct cases; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Serving as liaison with OIG to receive allegations of research
+            misconduct when they are received via the OIG Hotline.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16203'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.2
+      </extid>
+      <num st='1'>
+        3022.2
+      </num>
+      <head>
+        Procedures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='2' psec='' tq='N'>
+              3022.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Procedures.
+        </SUBJECT>
+        <P>
+          Research institutions that conduct extramural research funded by USDA
+          must foster an atmosphere conducive to research integrity. They must
+          develop or have procedures in place to respond to allegations of
+          research misconduct that ensure:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Appropriate separations of responsibility for inquiry,
+            investigation, and adjudication;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Objectivity;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Due process;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Whistleblower protection;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Confidentiality. To the extent possible and consistent with a fair
+            and thorough investigation and as allowed by law, knowledge about
+            the identity 
+            <PRTPAGE P='238' />
+            of subjects and informants is limited to those who need to know; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Timely resolution.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16204'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.3
+      </extid>
+      <num st='1'>
+        3022.3
+      </num>
+      <head>
+        Inquiry, investigation, and adjudication.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='3' psec='' tq='N'>
+              3022.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inquiry, investigation, and adjudication.
+        </SUBJECT>
+        <P>
+          A research institution that conducts extramural research funded by
+          USDA bears primary responsibility for prevention and detection of
+          research misconduct and for the inquiry, investigation, and
+          adjudication of research misconduct allegations reported directly to
+          it. The research institution must perform an inquiry in response to an
+          allegation, and must follow the inquiry with an investigation if the
+          inquiry determines that the allegation or apparent instance of
+          research misconduct has substance. The responsibilities for
+          adjudication must be separate from those for inquiry and
+          investigation. In most instances, USDA will rely on a research
+          institution conducting extramural research to promptly:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Initiate an inquiry into any suspected or alleged research
+            misconduct;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Conduct a subsequent investigation, if warranted;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Acquire, prepare, and maintain appropriate records of allegations
+            of extramural research misconduct and all related inquiries,
+            investigations, and findings; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Take action to ensure the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The integrity of research;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The rights and interests of the subject of the investigation and
+            the public are protected;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The observance of legal requirements or responsibilities including
+            cooperation with criminal investigations; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Appropriate safeguards for subjects of allegations, as well as
+            informants (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3022' sect='6' psec='' tq='N'>
+                3022.6
+              </subref>
+            </aref>
+            ). These safeguards should include timely written notification of
+            subjects regarding substantive allegations made against them; a
+            description of all such allegations; reasonable access to the data
+            and other evidence supporting the allegations; and the opportunity
+            to respond to allegations, the supporting evidence and the proposed
+            findings of research misconduct, if any.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16205'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.4
+      </extid>
+      <num st='1'>
+        3022.4
+      </num>
+      <head>
+        USDA Panel to determine appropriateness of research misconduct policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='4' psec='' tq='N'>
+              3022.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          USDA Panel to determine appropriateness of research misconduct policy.
+        </SUBJECT>
+        <P>
+          Before USDA will rely on a research institution to conduct an inquiry,
+          investigation, and adjudication of an allegation in accordance with
+          this part, the research institution where the research misconduct is
+          alleged must provide the ARIO its policies and procedures related to
+          research misconduct at the institution. The research institution has
+          the option of providing either a written copy of such policies and
+          procedures or a Web site address where such policies and procedures
+          can be accessed. The ARIO to whom the policies and procedures were
+          made available shall convene a panel comprised of the USDA RIO and
+          ARIOs from the Forest Service, the Agricultural Research Service, and
+          the National Institute of Food and Agriculture. The Panel will review
+          the research institution&apos;s policies and procedures for compliance
+          with the OSTP Policy and render a decision regarding the research
+          institution&apos;s ability to adequately resolve research misconduct
+          allegations. The ARIO will inform the research institution of the
+          Panel&apos;s determination that its inquiry, investigation, and
+          adjudication procedures are sufficient. If the Panel determines that
+          the research institution does not have sufficient policies and
+          procedures in place to conduct inquiry, investigation, and
+          adjudication proceedings, or that the research institution is in any
+          way unfit or unprepared to handle the inquiry, investigation, and
+          adjudication in a prompt, unbiased, fair, and independent manner, the
+          ARIO will inform the research institution in writing of the
+          Panel&apos;s decision. An appropriate USDA agency, as determined by
+          the Panel, will then conduct the inquiry, investigation, and
+          adjudication of research misconduct in accordance with this part. If
+          an allegation of research misconduct is made regarding extramural
+          research conducted at a Federal research institution (whether USDA or
+          not), it is presumed that the Federal research institution has
+          research misconduct procedures consistent with the OSTP Policy. USDA
+          reserves the right to convene the Panel to assess the sufficiency of a
+          Federal agency&apos;s research 
+          <PRTPAGE P='239' />
+          misconduct procedures, should there be any question whether the
+          agency&apos;s procedures will ensure a fair, unbiased, equitable, and
+          independent inquiry, investigation, and adjudication process.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16206'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.5
+      </extid>
+      <num st='1'>
+        3022.5
+      </num>
+      <head>
+        Reservation of right to conduct subsequent inquiry, investigation, and
+        adjudication.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='5' psec='' tq='N'>
+              3022.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reservation of right to conduct subsequent inquiry, investigation, and
+          adjudication.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             USDA reserves the right to conduct its own inquiry, investigation,
+            and adjudication into allegations of research misconduct at a
+            research institution conducting extramural research subsequent to
+            the proceedings of the research institution related to the same
+            allegation. This may be necessary if the USDA RIO or ARIO believes,
+            in his or her sound discretion, that despite the Panel&apos;s
+            finding that the research institution in question had appropriate
+            and OSTP-compliant research misconduct procedures in place, the
+            research institution conducting the extramural research at issue:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Did not adhere to its own research misconduct procedures;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Did not conduct research misconduct proceedings in a fair,
+            unbiased, or independent manner; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Has not completed research misconduct inquiry, investigation, or
+            adjudication in a timely manner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Additionally, USDA reserves the right to conduct its own inquiry,
+            investigation, and adjudication into allegations of research
+            misconduct at a research institution conducting extramural research
+            subsequent to the proceedings of the research institution related to
+            the same allegation for any other reason that the USDA RIO or ARIO
+            considers it appropriate to conduct research misconduct proceedings
+            in lieu of the research institution&apos;s conducting the extramural
+            research at issue. This right is subject to paragraph (c) of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In cases where the USDA RIO or ARIO believes it is necessary for
+            USDA to conduct its own inquiry, investigation, and adjudication
+            subsequent to the proceedings of the research institution related to
+            the same allegation, the USDA RIO or ARIO shall reconvene the Panel,
+            which will determine whether it is appropriate for the relevant USDA
+            agency to conduct the research misconduct proceedings related to the
+            allegation(s) of research misconduct. If the Panel determines that
+            it is appropriate for a USDA agency to conduct the proceedings, the
+            ARIO will immediately notify the research institution in question.
+            The research institution must then promptly provide the relevant
+            USDA agency with documentation of the research misconduct
+            proceedings the research institution has conducted to that point,
+            and the USDA agency will conduct research misconduct proceedings in
+            accordance with the Agency research misconduct procedures.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16207'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.6
+      </extid>
+      <num st='1'>
+        3022.6
+      </num>
+      <head>
+        Notification of USDA of allegations of research misconduct.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='6' psec='' tq='N'>
+              3022.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notification of USDA of allegations of research misconduct.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Research institutions that conduct USDA-funded extramural research
+            must promptly notify OIG and the USDA RIO of all allegations of
+            research misconduct involving USDA funds when the institution
+            inquiry into the allegation warrants the institution moving on to an
+            investigation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Individuals at research institutions who suspect research
+            misconduct at the institution should report allegations in
+            accordance with the institution&apos;s research misconduct policies
+            and procedures. Anyone else who suspects that researchers or
+            research institutions performing federally-funded research may have
+            engaged in research misconduct is encouraged to make a formal
+            allegation of research misconduct to OIG.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             OIG may be notified using any of the following methods:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Via the OIG Hotline: Telephone: (202) 690-1622, (800) 424-9121,
+            (202) 690-1202 (TDD).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             E-mail: 
+            <E T='03'>
+              usda_hotline@oig.usda.gov.
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             U.S. Mail: United States Department of Agriculture, Office of
+            Inspector General, P.O. Box 23399, Washington, DC 20026-3399.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The USDA RIO may be reached at: USDA Research Integrity Officer,
+            214W Whitten Building, Washington, DC 20250; telephone:
+            202-720-5923; E-mail: 
+            <E T='03'>
+              researchintegrity@usda.gov.
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To the extent known, the following details should be included in
+            any formal allegation:
+            <PRTPAGE P='240' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the research projects involved, the nature of the
+            alleged misconduct, and the names of the individual or individuals
+            alleged to be involved in the misconduct;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The source or sources of funding for the research project or
+            research projects involved in the alleged misconduct;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Important dates;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Any documentation that bears upon the allegation; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Any other potentially relevant information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Safeguards for informants give individuals the confidence that they
+            can bring allegations of research misconduct made in good faith to
+            the attention of appropriate authorities or serve as informants to
+            an inquiry or an investigation without suffering retribution.
+            Safeguards include protection against retaliation for informants who
+            make good faith allegations, fair and objective procedures for the
+            examination and resolution of allegations of research misconduct,
+            and diligence in protecting the positions and reputations of those
+            persons who make allegations of research misconduct in good faith.
+            The identity of informants who wish to remain anonymous will be kept
+            confidential to the extent permitted by law or regulation.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16208'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.7
+      </extid>
+      <num st='1'>
+        3022.7
+      </num>
+      <head>
+        Notification of ARIO during an inquiry or investigation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='7' psec='' tq='N'>
+              3022.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notification of ARIO during an inquiry or investigation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Research institutions that conduct USDA-funded extramural research
+            must promptly notify the ARIO should the institution become aware
+            during an inquiry or investigation that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Public health or safety is at risk;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The resources, reputation, or other interests of USDA are in need
+            of protection;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Research activities should be suspended;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Federal action may be needed to protect the interest of a subject
+            of the investigation or of others potentially affected;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A premature public disclosure of the inquiry into or investigation
+            of the allegation may compromise the process;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The scientific community or the public should be informed; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             There is reasonable indication of possible violations of civil or
+            criminal law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If research misconduct proceedings reveal behavior that may be
+            criminal in nature at any point during the proceedings, the
+            institution must promptly notify the ARIO.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16209'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.8
+      </extid>
+      <num st='1'>
+        3022.8
+      </num>
+      <head>
+        Communication of research misconduct policies and procedures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='8' psec='' tq='N'>
+              3022.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Communication of research misconduct policies and procedures.
+        </SUBJECT>
+        <P>
+          Institutions that conduct USDA-funded extramural research are to
+          maintain and effectively communicate to their staffs policies and
+          procedures relating to research misconduct, including the guidelines
+          in this part. The institution is to inform their researchers and staff
+          members who conduct USDA-funded extramural research when and under
+          what circumstances USDA is to be notified of allegations of research
+          misconduct, and when and under what circumstances USDA is to be
+          updated on research misconduct proceedings.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16210'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.9
+      </extid>
+      <num st='1'>
+        3022.9
+      </num>
+      <head>
+        Documents required.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='9' psec='' tq='N'>
+              3022.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Documents required.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A research institution that conducts USDA-funded extramural
+            research must maintain the following documents related to an
+            allegation of research misconduct at the research institution:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A written statement describing the original allegation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A copy of the formal notification presented to the subject of the
+            allegation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A written report describing the inquiry stage and its outcome
+            including copies of all supporting documentation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the methods and procedures used to gather and
+            evaluate information pertinent to the alleged misconduct during
+            inquiry and investigation stages;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A written report of the investigation, including the evidentiary
+            record and supporting documentation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             A written statement of the findings; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             If applicable, a statement of recommended corrective actions, and
+            any response to such a statement by the subject of the original
+            allegation, and/or other interested parties, including any
+            corrective action plan.
+            <PRTPAGE P='241' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The research institution must retain the documents specified in
+            paragraph (a) of this section for at least 3 years following the
+            final adjudication of the alleged research misconduct.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16211'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.10
+      </extid>
+      <num st='1'>
+        3022.10
+      </num>
+      <head>
+        Reporting to USDA.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='10' psec='' tq='N'>
+              3022.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reporting to USDA.
+        </SUBJECT>
+        <P>
+          Following completion of an investigation into allegations of research
+          misconduct, the institution conducting extramural research must
+          provide to the ARIO a copy of the evidentiary record, the report of
+          the investigation, recommendations made to the institution&apos;s
+          adjudicating official, the adjudicating official&apos;s determination,
+          the institution&apos;s corrective action taken or planned, and the
+          written response of the individual who is the subject of the
+          allegation to any recommendations.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16212'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.11
+      </extid>
+      <num st='1'>
+        3022.11
+      </num>
+      <head>
+        Research records and evidence.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='11' psec='' tq='N'>
+              3022.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Research records and evidence.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A research institution that conducts extramural research supported
+            by USDA funds, as the responsible legal entity for the
+            USDA-supported research, has a continuing obligation to create and
+            maintain adequate records (including documents and other evidentiary
+            matter) as may be required by any subsequent inquiry, investigation,
+            finding, adjudication, or other proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever an investigation is initiated, the research institution
+            must promptly take all reasonable and practical steps to obtain
+            custody of all relevant research records and evidence as may be
+            necessary to conduct the research misconduct proceedings. This must
+            be accomplished before the research institution notifies the
+            researcher/respondent of the allegation, or immediately thereafter.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The original research records and evidence taken into custody by
+            the research institution shall be inventoried and stored in a secure
+            place and manner. Research records involving raw data shall include
+            the devices or instruments on which they reside. However, if deemed
+            appropriate by the research institution or investigator, research
+            data or records that reside on or in instruments or devices may be
+            copied and removed from those instruments or devices as long as the
+            copies are complete, accurate, and have substantially equivalent
+            evidentiary value as the data or records have when the data or
+            records reside on the instruments or devices. Such copies of data or
+            records shall be made by a disinterested, qualified technician and
+            not by the subject of the original allegation or other interested
+            parties. When the relevant data or records have been removed from
+            the devices or instruments, the instruments or devices need not be
+            maintained as evidence.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16213'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.12
+      </extid>
+      <num st='1'>
+        3022.12
+      </num>
+      <head>
+        Remedies for noncompliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='12' psec='' tq='N'>
+              3022.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Remedies for noncompliance.
+        </SUBJECT>
+        <P>
+          USDA agencies&apos; implementation procedures identify the
+          administrative actions available to remedy a finding of research
+          misconduct. Such actions may include the recovery of funds, correction
+          of the research record, debarment of the researcher(s) that engaged in
+          the research misconduct, proper attribution, or any other action
+          deemed appropriate to remedy the instance(s) of research misconduct.
+          The agency should consider the seriousness of the misconduct,
+          including, but not limited to, the degree to which the misconduct was
+          knowingly conducted, intentional, or reckless; was an isolated event
+          or part of a pattern; or had significant impact on the research
+          record, research subjects, other researchers, institutions, or the
+          public welfare. In determining the appropriate administrative action,
+          the appropriate agency must impose a remedy that is commensurate with
+          the infraction as described in the finding of research misconduct.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16214'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.13
+      </extid>
+      <num st='1'>
+        3022.13
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='13' psec='' tq='N'>
+              3022.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If USDA relied on an institution to conduct an inquiry,
+            investigation, and adjudication, the alleged person(s) should first
+            follow the institution&apos;s appeal policy and procedures.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             USDA agencies&apos; implementation procedures identify the appeal
+            process when a finding of research misconduct is elevated to the
+            agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16215'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXX:-:3022:-:3022.14
+      </extid>
+      <num st='1'>
+        3022.14
+      </num>
+      <head>
+        Relationship to other requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3022' sect='14' psec='' tq='N'>
+              3022.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Relationship to other requirements.
+        </SUBJECT>
+        <P>
+          Some of the research covered by this part also may be subject to
+          regulations of other governmental agencies (e.g., a university that
+          receives funding from a USDA agency and also under a grant from
+          another Federal agency). If more 
+          <PRTPAGE P='242' />
+          than one agency of the Federal Government has jurisdiction, USDA will
+          cooperate with the other Agency(ies) in designating a lead agency.
+          When USDA is not the lead agency, it will rely on the lead agency
+          following its policies and procedures in determining whether there is
+          a finding of research misconduct. Further, USDA may, in consultation
+          with the lead agency, take action to protect the health and safety of
+          the public, to promote the integrity of the USDA-supported research
+          and research process, or to conserve public funds. When appropriate,
+          USDA will seek to resolve allegations jointly with the other agency or
+          agencies.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

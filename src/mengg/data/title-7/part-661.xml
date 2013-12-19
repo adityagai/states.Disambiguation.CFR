@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:G:661
+    </extid>
+    <num>
+      661
+    </num>
+    <head>
+      PUBLIC INFORMATION AND RIGHT TO PRIVACY
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              5 U.S.C. 552
+            </subref>
+            , 
+            <subref title='5' sect='552a' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552a.html'>
+              552a
+            </subref>
+          </aref>
+          ; 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='1-1' psec='' tq='N'>
+              1.1-1
+            </subref>
+          </aref>
+          .16, 1.110-1.123.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            43 FR 34756
+          </aref>
+          , Aug. 7, 1978, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6479'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:661:A:661.1
+      </extid>
+      <num st='1'>
+        661.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='661' sect='1' psec='' tq='N'>
+              661.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          This part is issued in accordance with the regulations of the
+          Secretary of Agriculture at 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='1' psec='' tq='N'>
+              1.1
+            </subref>
+          </aref>
+           through 1.16 implementing the Freedom of Information Act, 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              5 U.S.C. 552
+            </subref>
+          </aref>
+          . The Secretary&apos;s regulations, as implemented by the regulations
+          in this part, govern the availability to the public of records of the
+          Natural Resources Conservation Service and the records for which the
+          Natural Resources Conservation Service has custodial responsibility.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6480'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:661:A:661.2
+      </extid>
+      <num st='1'>
+        661.2
+      </num>
+      <head>
+        Public access and copying.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='661' sect='2' psec='' tq='N'>
+              661.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Public access and copying.
+        </SUBJECT>
+        <P>
+          Natural Resources Conservation Service will make available for public
+          inspection and copying those materials covered by 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a_2' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a_2'>
+              5 U.S.C. 552(a)(2)
+            </subref>
+          </aref>
+           as set out in the Secretary&apos;s regulations.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6481'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:661:A:661.3
+      </extid>
+      <num st='1'>
+        661.3
+      </num>
+      <head>
+        Requests for records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='661' sect='3' psec='' tq='N'>
+              661.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requests for records.
+        </SUBJECT>
+        <P>
+          Requests for records under 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a_3' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a_3'>
+              5 U.S.C. 552(a)(3)
+            </subref>
+          </aref>
+           will be made in accordance with 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='3' psec='#a' tq='N'>
+              1.3(a)
+            </subref>
+          </aref>
+          . The titles and mailing addresses of the officials in Natural
+          Resources Conservation Service authorized to receive requests for
+          records are shown in Appendix A of this subpart. Authority is hereby
+          delegated to these officials to make determinations regarding such
+          requests in accordance with 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='4' psec='#c' tq='N'>
+              1.4(c)
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='6482'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:661:A:661.4
+      </extid>
+      <num st='1'>
+        661.4
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='661' sect='4' psec='' tq='N'>
+              661.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          Any person whose request for records above is denied shall have the
+          right to appeal that denial in accordance with 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='3' psec='#e' tq='N'>
+              1.3(e)
+            </subref>
+          </aref>
+          . All appeals shall be addressed to: Administrator, Natural Resources
+          Conservation Service, U.S. Department of Agriculture, P.O. Box 2890,
+          Washington, DC 20013.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6483'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:661:A:661.5
+      </extid>
+      <num st='1'>
+        661.5
+      </num>
+      <head>
+        Exempt records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='661' sect='5' psec='' tq='N'>
+              661.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exempt records.
+        </SUBJECT>
+        <P>
+          Records exempt under 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#b' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#b'>
+              5 U.S.C. 552(b)
+            </subref>
+          </aref>
+           may be withheld in accordance with 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='11' psec='' tq='N'>
+              1.11
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='6484'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:G:661:B:661.6
+      </extid>
+      <num st='1'>
+        661.6
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='661' sect='6' psec='' tq='N'>
+              661.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Natural Resources Conservation Service implementation of the Privacy
+          Act of 1974, 
+          <aref type='USC'>
+            <subref title='5' sect='552a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552a.html'>
+              5 U.S.C. 552a
+            </subref>
+          </aref>
+           is contained in the regulations of the Secretary, 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1' sect='110' psec='' tq='N'>
+              1.110
+            </subref>
+          </aref>
+           through 1.123.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

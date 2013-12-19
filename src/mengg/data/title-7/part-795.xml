@@ -1,0 +1,1666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol7'>
+    <extid>
+      lii:cfr:2013:7:0:B:VII:E:795
+    </extid>
+    <num>
+      795
+    </num>
+    <head>
+      PAYMENT LIMITATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='UNKNOWN'>
+            Sec. 1001 of
+          </aref>
+           the Food Security Act of 1985, as amended, 99 Stat, 1444, as amended,
+          
+          <aref type='USC'>
+            <subref title='7' sect='1308' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1308.html'>
+              7 U.S.C 1308
+            </subref>
+          </aref>
+          ; 
+          <aref target='_blank' title='Pub. L. 99-500' alt='Pub. L. 99-500' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d99:./list/bd/d99pl.lst:500%28Public_Laws%29'>
+            Pub. L. 99-500
+          </aref>
+           and 
+          <aref target='_blank' title='Pub. L. 99-591' alt='Pub. L. 99-591' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d99:./list/bd/d99pl.lst:591%28Public_Laws%29'>
+            Pub. L. 99-591
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            43 FR 9784
+          </aref>
+          , Mar. 10, 1978, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='7306'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.1
+      </extid>
+      <num st='1'>
+        795.1
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='1' psec='' tq='N'>
+              795.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='7307'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.2
+      </extid>
+      <num st='1'>
+        795.2
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 14719
+        </aref>
+        , Apr. 13, 1984, as amended at 
+        <aref type='FREGIST'>
+          51 FR 8453
+        </aref>
+        , Mar. 11, 1986; 
+        <aref type='FREGIST'>
+          51 FR 36905
+        </aref>
+        , Oct. 16, 1986; 
+        <aref type='FREGIST'>
+          53 FR 29570
+        </aref>
+        , Aug. 5, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='2' psec='' tq='N'>
+              795.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions of this part are applicable to payments when so
+            provided by the individual program regulations under which the
+            payments are made. The amount of the limitation shall be as
+            specified in the individual program regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The limitation shall be applied to the payments for a commodity for
+            a crop year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The limitation shall not be applicable to payments made to States,
+            political subdivisions, or agencies thereof for participation in the
+            programs on lands owned by such States, political subdivisions, or
+            agencies thereof so long as such lands are farmed primarily in the
+            direct furtherance of a public function. However, the limitation is
+            applicable to persons who rent or lease land owned by States,
+            political subdivisions, or agencies thereof.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The limitation shall not be applicable to payments made to Indian
+            tribal ventures participating in the programs where a responsible
+            official of the Bureau of Indian Affairs or the Indian Tribal
+            Council certifies that no more than the program payment limitation
+            shall accrue directly or indirectly to any individual Indian and the
+            State committee reviews and approves the exemption.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1497' tq='N'>
+                1497 of this title
+              </subref>
+            </aref>
+            , this part shall not be applicabie to contracts entered into on or
+            after August 1, 1988 in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='704' tq='N'>
+                704 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 14719
+          </aref>
+          , Apr. 13, 1984, as amended at 
+          <aref type='FREGIST'>
+            51 FR 8453
+          </aref>
+          , Mar. 11, 1986; 
+          <aref type='FREGIST'>
+            51 FR 36905
+          </aref>
+          , Oct. 16, 1986; 
+          <aref type='FREGIST'>
+            53 FR 29570
+          </aref>
+          , Aug. 5, 1988]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7308'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.3
+      </extid>
+      <num st='1'>
+        795.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          52 FR 26295
+        </aref>
+        , July 14, 1987]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='3' psec='' tq='N'>
+              795.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The terms defined in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='719' tq='N'>
+                719 of this chapter
+              </subref>
+            </aref>
+            , governing reconstitutions of farms, shall be applicable to this
+            part and all documents issued in accordance with this part, except
+            as otherwise provided in this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the provisions of this part, the term “person” shall
+            mean an individual, joint stock company, corporation, association,
+            trust, estate, or other legal entity. In order to be considered to
+            be a separate person for the purposes of this part with respect to
+            any crop, in addition to any other provision of this part, an
+            individual or other legal; entity must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Have a separate and distinct interest in the crop or the land on
+            which the crop is produced;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Exercise separate responsibility for such interest; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Be responsible for payment of the cost of farming related to such
+            interest from a fund or account separate from that of any other
+            individual or entity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The term “person” shall not include any cooperative association of
+            producers that markets commodities for producers with respect to the
+            commodities so marketed for producers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The term “family member” shall mean the individual, the
+            great-grandparent, grand-parent, child, grandchild, and
+            great-grandchild of such individual and the spouses of all such
+            individuals.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The term “separate unit” shall mean an individual who, prior to
+            December 31, 1985: (1) Had been engaged in a separate farming
+            operation and (2) in accordance with the provisions of this part,
+            had been determined to be a separate person or could have so
+            determined under the circumstances existing at such time.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            52 FR 26295
+          </aref>
+          , July 14, 1987]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7309'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.4
+      </extid>
+      <num st='1'>
+        795.4
+      </num>
+      <head>
+        Family members.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          52 FR 26295
+        </aref>
+        , July 14, 1987]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='4' psec='' tq='N'>
+              795.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Family members.
+        </SUBJECT>
+        <P>
+          Effective for the 1987 through 1990 crops, an individual shall not be
+          denied a determination that such individual was a “person” solely on
+          the basis that:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A family member cosigns for, or makes a loan to, such individual
+            and leases, loans or gives equipment, land or labor to such an
+            individual; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Such family members were organized as separate units prior to
+            December 31, 1985.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            52 FR 26295
+          </aref>
+          , July 14, 1987]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7310'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.5
+      </extid>
+      <num st='1'>
+        795.5
+      </num>
+      <head>
+        Timing for determining status of persons.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          51 FR 21836
+        </aref>
+        , June 16, 1986; 
+        <aref type='FREGIST'>
+          51 FR 36905
+        </aref>
+        , Oct. 16, 1986]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='5' psec='' tq='N'>
+              795.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Timing for determining status of persons.
+        </SUBJECT>
+        <P>
+          Except as otherwise set forth in this part, the status of individuals
+          or entities as of March 1, or such other date as may be determined and
+          announced by the Administrator shall be the basis 
+          <PRTPAGE P='394' />
+          on which determinations are made in accordance with this part for the
+          year for which the determination is made.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            51 FR 21836
+          </aref>
+          , June 16, 1986; 
+          <aref type='FREGIST'>
+            51 FR 36905
+          </aref>
+          , Oct. 16, 1986]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7311'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.6
+      </extid>
+      <num st='1'>
+        795.6
+      </num>
+      <head>
+        Multiple individuals or other entities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='6' psec='' tq='N'>
+              795.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Multiple individuals or other entities.
+        </SUBJECT>
+        <P>
+          The rules in 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='795' sect='5' psec='' tq='N'>
+              795.5
+            </subref>
+          </aref>
+           through 795.16 shall be used to determine whether certain multiple
+          individuals or legal entities are to be treated as one person or as
+          separate persons for the purpose of applying the limitation. In cases
+          in which more than one rule would appear to be applicable, the rule
+          which is most restrictive on the number of persons shall apply.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7312'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.7
+      </extid>
+      <num st='1'>
+        795.7
+      </num>
+      <head>
+        Entities or joint operations not considered as a person.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='7' psec='' tq='N'>
+              795.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Entities or joint operations not considered as a person.
+        </SUBJECT>
+        <P>
+          A partnership, joint venture, tenants-in-common, or joint tenants
+          shall not be considered as a person but, notwithstanding the
+          provisions of 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='3' psec='' tq='N'>
+              795.3
+            </subref>
+          </aref>
+          , each individual or other legal entity who shares in the proceeds
+          derived from farming by such joint operations shall be considered a
+          separate person, except as otherwise provided in this part, and shall
+          be listed as a producer for payment purposes on program documents. The
+          payment shares listed on the program documents for each individual or
+          other legal entity shall be the same as each individual or other legal
+          entity shares in the proceeds derived from farming by such joint
+          operation. Notwithstanding the foregoing, each individual or other
+          legal entity who shares in the proceeds derived from farming by such
+          joint operation shall not be considered as a separate person unless
+          the individual or other legal entity is actively engaged in the
+          farming operations of the partnership or other joint operation. An
+          individual or other legal entity shall be considered as actively
+          engaged in the farming operation only if its contribution to the joint
+          operation is commensurate with its share in the proceeds derived from
+          farming by such joint operation. Members of the partnership or joint
+          venture must furnish satisfactory evidence that their contributions of
+          land, labor, management, equipment, or capital to the joint operation
+          are commensurate with their claimed shares of the proceeds. A capital
+          contribution may be a direct out-of-pocket input of a specified sum or
+          an amount borrowed by the individual. If the contribution consists
+          substantially of capital, such capital must have been contributed
+          directly to the joint operation by the individual or other legal
+          entity and not acquired as a result of (a) a loan made to the joint
+          operation, (b) a loan which was made to such individual or other legal
+          entity by the joint operation or any of its members or related
+          entities, or (c) a loan made to such individual or other legal entity
+          which was guaranteed by the joint operation or any of its members or
+          related entities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7313'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.8
+      </extid>
+      <num st='1'>
+        795.8
+      </num>
+      <head>
+        Corporations and stockholders.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          43 FR 9784
+        </aref>
+        , Mar. 10, 1978, as amended at 
+        <aref type='FREGIST'>
+          45 FR 10311
+        </aref>
+        , Feb. 15, 1980; 
+        <aref type='FREGIST'>
+          45 FR 11795
+        </aref>
+        , Feb. 22, 1980]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='8' psec='' tq='N'>
+              795.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Corporations and stockholders.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A corporation (including a limited partnership) shall be considered
+            as one person, and an individual stockholder of the corporation may
+            be considered as a separate person to the extent that such
+            stockholder is engaged in the production of the crop as a separate
+            producer and otherwise meets the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='795' sect='3' psec='' tq='N'>
+                795.3
+              </subref>
+            </aref>
+            , except that a corporation in which more than 50 percent of the
+            stock is owned by an individual (including the stock owned by the
+            individual&apos;s spouse, minor children, and trusts for the benefit
+            of such minor children), or by a legal entity, shall not be
+            considered as a separate person from such individual or legal
+            entity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Where the same two or more individuals or other legal entities own
+            more than 50 percent of the stock in each of two or more
+            corporations, all such corporations shall be considered as one
+            person.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The percentage share of the value of the stock owned by an
+            individual or other legal entity shall be determined as of March 1
+            of the crop year, except that where a stockholder voluntarily
+            acquires stock after March 1 and before the harvest of the crop, the
+            amount of any stock so acquired shall be included in determining the
+            percentage share of the value of the stock owned by the stockholder.
+            Where there is only one class of stock, a stockholder&apos;s
+            percentage share of the value of the outstanding stock shall be
+            equal to the percentage of the outstanding stock owned by the
+            stockholder. If the corporation has more than one class of 
+            <PRTPAGE P='395' />
+            stock the percentage share of the value of the stock owned by a
+            stockholder shall be determined by the Deputy Administrator on the
+            basis of market quotations, and if market quotations are lacking or
+            too scarce to be recognized the percentage share of the value of the
+            stock shall be determined by the Deputy Administrator on the basis
+            of all relevant factors affecting the fair market value, including
+            the rights and privileges of the various stock issues.
+          </text>
+        </P>
+        <SECAUTH>
+          (Title I, Agricultural Act of 1970, as amended by the Agriculture and
+          Consumer Protection Act of 1973, 
+          <aref target='_blank' title='Pub. L. 93-86' alt='Pub. L. 93-86' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d93:./list/bd/d93pl.lst:86%28Public_Laws%29'>
+            Pub. L. 93-86
+          </aref>
+          , 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=93_statutes_at_large&amp;position=all&amp;page=221'>
+            87 Stat. 221
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='7' sect='1307' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1307.html'>
+              7 U.S.C. 1307
+            </subref>
+          </aref>
+          ) and under Title I, Rice Production Act of 1975, 
+          <aref target='_blank' title='Pub. L. 94-214' alt='Pub. L. 94-214' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d94:./list/bd/d94pl.lst:214%28Public_Laws%29'>
+            Pub. L. 94-214
+          </aref>
+          , 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=94_statutes2_at_large&amp;position=all&amp;page=181'>
+            90 Stat. 181
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='7' sect='428c' note='notes' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/428c.html'>
+              7 U.S.C. 428c note)
+            </subref>
+          </aref>
+          , and 
+          <aref target='_blank' title='Pub. L. 95-156' alt='Pub. L. 95-156' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d95:./list/bd/d95pl.lst:156%28Public_Laws%29'>
+            Pub. L. 95-156
+          </aref>
+          , 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=95_statutes_at_large&amp;position=all&amp;page=1264'>
+            91 Stat. 1264
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='7' sect='1307' note='notes' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1307.html'>
+              7 U.S.C. 1307 note,
+            </subref>
+          </aref>
+          <aref type='USC'>
+            <subref title='7' sect='1307' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1307.html'>
+              7 U.S.C. 1307
+            </subref>
+            , 
+            <subref title='7' sect='7' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7.html'>
+              7
+            </subref>
+          </aref>
+           U.S.C. 1441))
+        </SECAUTH>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            43 FR 9784
+          </aref>
+          , Mar. 10, 1978, as amended at 
+          <aref type='FREGIST'>
+            45 FR 10311
+          </aref>
+          , Feb. 15, 1980; 
+          <aref type='FREGIST'>
+            45 FR 11795
+          </aref>
+          , Feb. 22, 1980]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7314'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.9
+      </extid>
+      <num st='1'>
+        795.9
+      </num>
+      <head>
+        Estate or trust.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='9' psec='' tq='N'>
+              795.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Estate or trust.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An estate or irrevocable trust shall be considered as one person
+            except that, where two or more estates or irrevocable trusts have
+            common beneficiaries or heirs (including spouses and minor children)
+            with more than a 50-percent interest, all such estates or
+            irrevocable trusts shall be considered as one person.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An individual heir of an estate or beneficiary of a trust may be
+            considered as a separate person to the extent that such heir or
+            beneficiary is engaged in the production of crops as a separate
+            producer and otherwise meets the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='795' sect='3' psec='' tq='N'>
+                795.3
+              </subref>
+            </aref>
+            , except that an estate or irrevocable trust which has a sole heir
+            or beneficiary shall not be considered as a separate person from
+            such heir or beneficiary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Where an irrevocable trust or an estate is a producer on a farm and
+            one or more of the beneficiaries or heirs of such trust or estate
+            are minor children, the minor children&apos;s pro rata share of the
+            program payments to the trust or estate shall be attributed to the
+            parent of the minor children except as otherwise provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='795' sect='12' psec='' tq='N'>
+                795.12
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A revocable trust shall not be considered as a separate person from
+            the grantor.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7315'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.10
+      </extid>
+      <num st='1'>
+        795.10
+      </num>
+      <head>
+        Club, society, fraternal or religious organization.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='10' psec='' tq='N'>
+              795.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Club, society, fraternal or religious organization.
+        </SUBJECT>
+        <P>
+          Each individual club, society, fraternal or religious organization may
+          be considered as a separate person to the extent that each such club,
+          society, fraternal or religious organization is engaged in the
+          production of crops as a separate producer and otherwise meets the
+          requirements of 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='3' psec='' tq='N'>
+              795.3
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='7316'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.11
+      </extid>
+      <num st='1'>
+        795.11
+      </num>
+      <head>
+        Husband and wife.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          53 FR 21410
+        </aref>
+        , June 8, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='11' psec='' tq='N'>
+              795.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Husband and wife.
+        </SUBJECT>
+        <P>
+          With respect to the 1988 crop year, a husband and wife shall be
+          considered to be one person except that such individuals who, prior to
+          their marriage, were separately engaged in unrelated farming
+          operations will be determined to be separate persons with respect to
+          such farming operations so long as the operations remain separate and
+          distinct from any farming operation conducted by the other spouse if
+          such individuals have executed a Contract to Participate in the 1988
+          Price Support and Production Adjustment Programs by April 15, 1988.
+          Such individuals must file a form FSA-561 with the county committee
+          for each such farming operation by July 8, 1988, if they desire to be
+          considered as separate persons under this section.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            53 FR 21410
+          </aref>
+          , June 8, 1988]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7317'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.12
+      </extid>
+      <num st='1'>
+        795.12
+      </num>
+      <head>
+        Minor children.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='12' psec='' tq='N'>
+              795.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Minor children.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A minor child and his parents or guardian (or other person
+            responsible for him) shall be considered as one person, except that
+            the minor child may be considered as a separate person if such minor
+            child is a producer on a farm in which the parents or guardian or
+            other person responsible for him (including any entity in which the
+            parents or guardian or other person responsible for him has a
+            substantial interest, i.e., more than a 20-percent interest) takes
+            no part in the operation of the farm (including any activities as a
+            custom farmer) and owns no interest in the farm or allotment or in
+            any portion of the production on the farm, and if such minor child:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Is represented by a court-appointed guardian who is required by law
+            to make a separate accounting for the minor and ownership of the
+            farm is vested in the minor, or
+            <PRTPAGE P='396' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Has established and maintains a different household from his
+            parents or guardian and personally carries out the actual farming
+            operations on the farm for which there is a separate accounting, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Has a farming operation resulting from his being the beneficiary of
+            an irrevocable trust and ownership of the property is vested in the
+            trust or the minor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A person shall be considered a minor until he reaches 18 years of
+            age. Court proceedings conferring majority on a person under 18
+            years of age will not change such person&apos;s status as a minor
+            for purposes of applying the regulations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7318'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.13
+      </extid>
+      <num st='1'>
+        795.13
+      </num>
+      <head>
+        Other cases.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='13' psec='' tq='N'>
+              795.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Other cases.
+        </SUBJECT>
+        <P>
+          Where the county committee is unable to determine whether certain
+          individuals or legal entities involved in the production of a
+          commodity are to be treated as one person or separate persons, all the
+          facts regarding the arrangement under which the commodity is produced
+          shall be submitted to the State committee for decision. Where the
+          State committee is unable to determine whether such individuals or
+          legal entities are to be treated as one person or separate persons,
+          all the facts regarding the arrangement under which the farming
+          operation is conducted shall be submitted to the Deputy Administrator
+          for decision.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7319'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.14
+      </extid>
+      <num st='1'>
+        795.14
+      </num>
+      <head>
+        Changes in farming operations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='14' psec='' tq='N'>
+              795.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Changes in farming operations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the provisions of this part, a person may exercise his
+            or her right heretofore existing under law, to divide, sell,
+            transfer, rent, or lease his or her property if such division, sale,
+            transfer, rental arrangement, or lease is legally binding as between
+            the parties thereto. However, any document representing a division,
+            sale, transfer, rental arrangement, or lease which is fictitious or
+            not legally binding as between the parties thereto shall be
+            considered to be for the purpose of evading the payment limitation
+            and shall be disregarded for the purpose of applying the payment
+            limitation. Any change in farming operations that would otherwise
+            serve to increase the number of persons for application of the
+            payment limitation must be bona fide and substantive.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A substantive change includes, for example, a substantial increase
+            or decrease in the size of the farm by purchase, sale, or lease; a
+            substantial increase or decrease in the size of allotment by
+            purchase, sale, or lease; a change from a cash lease to a share
+            lease or vice versa; and dissolution of an entity such as a
+            corporation or partnership.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Examples of the types of changes that would not be considered as
+            substantive are the following: 
+          </text>
+        </P>
+        <EXAMPLE>
+          <HD SOURCE='HED'>
+            Example 1.
+          </HD>
+          <P>
+            A corporation is owned equally by four shareholders. The corporation
+            owns land, buildings, and equipment and in the prior year carried
+            out substantial farming operations. Three of the shareholders
+            propose forming a partnership which they would own equally. The
+            partnership would cash lease land and equipment from the corporation
+            with the objective of having the three partners considered as
+            separate persons for purposes of applying the payment limitation
+            under the provisions of 
+            <aref type='UNKNOWN'>
+              § 795.7 of
+            </aref>
+             the regulations.
+          </P>
+          <P>
+            The formation of such a partnership and the leasing of land from a
+            corporation in which they hold a major interest would not constitute
+            a substantive and bona fide change in operations. Therefore, the
+            corporation and the partners would be limited to a single payment
+            limitation.
+          </P>
+        </EXAMPLE>
+        <EXAMPLE>
+          <HD SOURCE='HED'>
+            Example 2.
+          </HD>
+          <P>
+            Three individuals each have individual farming operations which, if
+            continued unchanged, would permit them to have a total of three
+            payment limitations.
+          </P>
+          <P>
+            The three individuals propose forming a corporation which they would
+            own equally. The corporation would then cash lease a portion of the
+            farmland owned and previously operated by the individuals with the
+            objective of having the corporation considered as a separate person
+            for purposes of applying the payment limitation under the provisions
+            of 
+            <aref type='UNKNOWN'>
+              § 795.8 of
+            </aref>
+             the regulations. The formation of such a corporation and the
+            leasing of land from the stockholders would not constitute a
+            substantive and bona fide change in operations. Therefore, the
+            corporation and the three individuals would be limited to three
+            payment limitations.
+          </P>
+        </EXAMPLE>
+      </contents>
+    </section>
+    <section orderid='7320'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.15
+      </extid>
+      <num st='1'>
+        795.15
+      </num>
+      <head>
+        Determining whether agreement is a share lease or a cash lease.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          51 FR 8454
+        </aref>
+        , Mar. 11, 1986]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='15' psec='' tq='N'>
+              795.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determining whether agreement is a share lease or a cash lease.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Cash lease.
+            </head>
+          </npcatch>
+          <text>
+             If a rental agreement contains provisions for a guaranteed minimum
+            rental with respect to the amount of rent to be paid to the landlord
+            by a tenant, such agreement shall 
+            <PRTPAGE P='397' />
+            be considered to be a cash rental agreement. In addition, the rental
+            agreement must be customary and reasonable for the area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Share lease.
+            </head>
+          </npcatch>
+          <text>
+             If a rental agreement contains provisions that require the payment
+            of rent on the basis of the amount of the crop produced or the
+            proceeds derived from the crop, such agreement shall be considered
+            to be a share rental agreement. In addition, the rental agreement
+            must be customary and reasonable for the area.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            51 FR 8454
+          </aref>
+          , Mar. 11, 1986]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7321'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.16
+      </extid>
+      <num st='1'>
+        795.16
+      </num>
+      <head>
+        Custom farming.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='16' psec='' tq='N'>
+              795.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Custom farming.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Custom farming is the performance of services on a farm such as
+            land preparation, seeding, cultivating, applying pesticides, and
+            harvesting for hire with remuneration on a unit of work basis,
+            except that, for the purpose of applying the provisions of this
+            section, the harvesting of crops and the application of agricultural
+            chemicals by firms regularly engaged in such businesses shall not be
+            regarded as custom farming. A person performing custom farming shall
+            be considered as being separate from the person for whom the custom
+            farming is performed only if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The compensation for the custom farming is paid at a unit of work
+            rate customary in the area and is in no way dependent upon the
+            amount of the crop produced, and (2) the person performing the
+            custom farming (and any other entity in which such person has more
+            than a 20-percent interest) has no interest, directly or indirectly,
+            (i) in the crop on the farm by taking any risk in the production of
+            the crop, sharing in the proceeds of the crop, granting or
+            guaranteeing the financing of the crop, (ii) in the allotment on the
+            farm, or (iii) in the farm as landowner, landlord, mortgage holder,
+            trustee, lienholder, guarantor, agent, manager, tenant,
+            sharecropper, or any other similar capacity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A person having more than a 20-percent interest in any legal entity
+            performing custom farming shall be considered as being separate from
+            the person for whom the custom farming is performed only if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The compensation for the custom farming service is paid at a unit
+            of work rate customary in the area and is in no way dependent upon
+            the amount of the crop produced, and (2) the person having such
+            interest in the legal entity performing the custom farming has no
+            interest, directly or indirectly, (i) in the crop on the farm by
+            taking any risk in the production of the crop, sharing in the
+            proceeds of the corp, granting or guaranteeing the financing of the
+            crop, (ii) in the allotment on the farm, or (iii) in the farm as
+            landowner, landlord, mortgage holder, trustee, lienholder,
+            guarantor, agent, manager, tenant, sharecropper, or in any other
+            similar capacity.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7322'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.17
+      </extid>
+      <num st='1'>
+        795.17
+      </num>
+      <head>
+        Scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='17' psec='' tq='N'>
+              795.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scheme or device.
+        </SUBJECT>
+        <P>
+          All or any part of the payments otherwise due a person under the
+          upland cotton, wheat, feed grain and rice programs on all farms in
+          which the person has an interest may be withheld or required to be
+          refunded if the person adopts or participates in adopting any scheme
+          or device designed to evade or which has the effect of evading the
+          rules of this part. Such acts shall include, but are not limited to,
+          concealing from the county committee any information having a bearing
+          on the application of the rules of this part or submitting false
+          information to the county committee (for example, a set-aside
+          agreement which is entered into that differs from information
+          furnished to the county committee concerning the manner in which
+          program payments are actually shared, concerning the actual facts of a
+          sale, or concerning the transfer of property) or creating fictitious
+          entities for the purpose of concealing the interest of a person in a
+          farming operation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7323'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.20
+      </extid>
+      <num st='1'>
+        795.20
+      </num>
+      <head>
+        Joint and several liability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='20' psec='' tq='N'>
+              795.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Joint and several liability.
+        </SUBJECT>
+        <P>
+          Where two or more individuals or legal entities, who are treated as
+          one person hereunder, receive payments which in the aggregate exceed
+          the limitation, such individuals or legal entities shall be liable,
+          jointly and severally, for any liability arising therefrom. The
+          provisions of this part requiring the refund of payments shall be
+          applicable in addition to any liability under criminal and civil fraud
+          statutes.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7324'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.21
+      </extid>
+      <num st='1'>
+        795.21
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='398' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='21' psec='' tq='N'>
+              795.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          Any person may obtain reconsideration and review of determinations
+          made under this part in accordance with the appeal regulations, 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='780' tq='N'>
+              780 of this chapter
+            </subref>
+          </aref>
+          , as amended.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7325'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.22
+      </extid>
+      <num st='1'>
+        795.22
+      </num>
+      <head>
+        Interpretations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='22' psec='' tq='N'>
+              795.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interpretations.
+        </SUBJECT>
+        <P>
+          In interpretations previously issued pursuant to the payment
+          limitation regulations and published at 
+          <aref type='FREGIST'>
+            36 FR 16569, 37
+          </aref>
+           FR 3049, 
+          <aref type='FREGIST'>
+            39 FR 15021
+          </aref>
+           and 
+          <aref type='FREGIST'>
+            41 FR 17527
+          </aref>
+           shall be applicable in construing the provisions of this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7326'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.23
+      </extid>
+      <num st='1'>
+        795.23
+      </num>
+      <head>
+        Paperwork Reduction Act assigned number.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          49 FR 14719
+        </aref>
+        , Apr. 13, 1984]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='23' psec='' tq='N'>
+              795.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Paperwork Reduction Act assigned number.
+        </SUBJECT>
+        <P>
+          The information collection requirements contained in these regulations
+          (
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='795' tq='N'>
+              795
+            </subref>
+          </aref>
+          ) have been approved by the Office of Management and Budget under the
+          provisions of 44 U.S.C. Chapter 35 and have been assigned OMB control
+          number 0560-0096.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            49 FR 14719
+          </aref>
+          , Apr. 13, 1984]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7327'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:E:795:-:795.24
+      </extid>
+      <num st='1'>
+        795.24
+      </num>
+      <head>
+        Relief.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          51 FR 8454
+        </aref>
+        , Mar. 11, 1986; 
+        <aref type='FREGIST'>
+          51 FR 36905
+        </aref>
+        , Oct. 16, 1986]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='795' sect='24' psec='' tq='N'>
+              795.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Relief.
+        </SUBJECT>
+        <P>
+          If a producer relied on a county committee and/or State committee
+          “person” determination for a crop year and higher reviewing authority
+          makes a more restrictive determination, the Deputy Administrator may
+          grant relief only for such crop year if the producer was not afforded
+          an opportunity to exercise other alternatives with respect to the
+          producer&apos;s farming operation and the program provisions and the
+          county committee has determined that the producers acted in good faith
+          based upon the original “person” determination.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            51 FR 8454
+          </aref>
+          , Mar. 11, 1986; 
+          <aref type='FREGIST'>
+            51 FR 36905
+          </aref>
+          , Oct. 16, 1986]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

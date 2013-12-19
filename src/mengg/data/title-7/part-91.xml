@@ -1,0 +1,4066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:E:91
+    </extid>
+    <num>
+      91
+    </num>
+    <head>
+      SERVICES AND GENERAL INFORMATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1622' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1622.html'>
+              7 U.S.C. 1622
+            </subref>
+            , 
+            <subref title='7' sect='1624' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1624.html'>
+              1624
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, unless otherwise noted.
+        </P>
+      </SOURCE>
+      <EDNOTE>
+        <HD SOURCE='HED'>
+          Editorial Note:
+        </HD>
+        <P>
+          Nomenclature changes to 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='91' tq='N'>
+              91
+            </subref>
+          </aref>
+           appear at 
+          <aref type='FREGIST'>
+            61 FR 51350
+          </aref>
+          , Oct. 2 1996.
+        </P>
+      </EDNOTE>
+    </text>
+    <section orderid='4004'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:A:91.1
+      </extid>
+      <num st='1'>
+        91.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='1' psec='' tq='N'>
+              91.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          This part consolidates the procedural and administrative rules of the
+          Science and Technology of the Agricultural Marketing Service for
+          conducting the analytical testing and laboratory audits with quality
+          assurance reviews. It also contains the fees, charges and laboratories
+          applicable to such services.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4005'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:A:91.2
+      </extid>
+      <num st='1'>
+        91.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='2' psec='' tq='N'>
+              91.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Words used in the regulations in this part in the singular form will
+          import the plural, and vice versa, as the case may demand. As used
+          throughout the regulations in this part, unless the context requires
+          otherwise, the following terms will be construed to mean:
+        </P>
+        <P>
+          <E T='03'>
+            Agency.
+          </E>
+           The Agricultural Marketing Service agency of the United States
+          Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Analyses.
+          </E>
+           Microbiological, chemical, or physical tests performed on a
+          commodity.
+        </P>
+        <P>
+          <E T='03'>
+            Applicant.
+          </E>
+           Any person or organization requesting services provided by the
+          Science and Technology (S&amp;T) programs.
+        </P>
+        <P>
+          <E T='03'>
+            Legal holidays.
+          </E>
+           Those days designated as legal public holidays specified by Congress
+          in paragraph (a) of 
+          <aref type='CFR-TIC-SECT'>
+            section 6103
+          </aref>
+          , title 5 of the United States Code and any other day declared to be a
+          holiday by Federal Statute or Executive Order. Under 
+          <aref type='CFR-TIC-SECT'>
+            section 6103
+          </aref>
+           and Executive Order 10357, as amended, if the specified legal public
+          holiday falls on a Saturday, the preceding Friday shall be considered
+          the holiday, or if the specified legal holiday falls on a Sunday, the
+          following Monday shall be considered to be the holiday.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4006'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:A:91.3
+      </extid>
+      <num st='1'>
+        91.3
+      </num>
+      <head>
+        Authority.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='3' psec='' tq='N'>
+              91.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Authority.
+        </SUBJECT>
+        <P>
+          The Deputy Administrator is charged with the administration of this
+          subchapter.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4007'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:B:91.4
+      </extid>
+      <num st='1'>
+        91.4
+      </num>
+      <head>
+        Kinds of services.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000, as amended at 
+        <aref type='FREGIST'>
+          68 FR 69946
+        </aref>
+        , Dec. 16, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='4' psec='' tq='N'>
+              91.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Kinds of services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Analytical tests. Analytical laboratory testing services under the
+            regulations in this subchapter consist of microbiological, chemical,
+            and certain other analyses, requested by the applicant and performed
+            on tobacco, seed, dairy, egg, fruit and vegetable, meat and poultry
+            products, and related processed products. Analyses are performed to
+            determine if products meet Federal specifications or specifications
+            defined in purchase contracts and cooperative agreements. Laboratory
+            analyses are also performed on egg products as part of the mandatory
+            Egg Products Inspection Program under the management 
+            <PRTPAGE P='240' />
+            of USDA&apos;s Food Safety and Inspection Service (FSIS) as detailed
+            in 
+            <aref type='CFR'>
+              9 CFR 
+              <subref title='9' part='590' sect='580' psec='' tq='N'>
+                590.580
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Examination and licensure.
+            </head>
+          </npcatch>
+          <text>
+             The manager of a particular Science and Technology program
+            administers examinations and licenses analysts in laboratories for
+            competency in performing commodity testing services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Quality assurance reviews. The Science and Technology
+            representative performs on-site laboratory quality assurance reviews
+            (both required and voluntary) to ensure that appropriate technical
+            methods, equipment maintenance, and quality control procedures are
+            being observed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Consultation. Technical advice, statistical science consultation,
+            and quality assurance program assistance are provided by the
+            representatives for the Science and Technology programs for domestic
+            and foreign laboratories.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000, as amended at 
+          <aref type='FREGIST'>
+            68 FR 69946
+          </aref>
+          , Dec. 16, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4008'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:B:91.5
+      </extid>
+      <num st='1'>
+        91.5
+      </num>
+      <head>
+        Where services are offered.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 17287
+        </aref>
+        , Apr. 6, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='5' psec='' tq='N'>
+              91.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Where services are offered.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Services are offered to applicants at the Science and Technology
+            laboratories and facilities as listed below.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Science and Technology Programs National Science Laboratory.
+            </head>
+          </npcatch>
+          <text>
+             A variety of proximate for composition, chemical, physical,
+            microbiological and biomolecular (DNA-based) tests and laboratory
+            analyses performed on fruits and vegetables, poultry, dairy and
+            dairy products, juices, fish, vegetative seed and oilseed, honey,
+            meat and meat products, fiber products and processed foods are
+            performed at the Science and Technology Programs (S&amp;T)
+            laboratory located at: USDA, AMS, Science and Technology Programs,
+            National Science Laboratory (NSL), 801 Summit Crossing Place, Suite
+            B, Gastonia, North Carolina 28054-2193.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Science and Technology (S&amp;T) Programs Science Specialty
+              Laboratories.
+            </head>
+          </npcatch>
+          <text>
+             The Science specialty laboratories performing aflatoxin and other
+            testing on peanuts, peanut products, dried fruits, grains, edible
+            seeds, tree nuts, shelled corn products, oilseed products, olive
+            oil, vegetable oils, juices, citrus products, and other commodities
+            are located as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             USDA, AMS, Science &amp; Technology, Citrus Laboratory, 98 Third
+            Street, SW., Winter Haven, Florida 33880-2905.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             USDA, AMS, Science &amp; Technology, Science Specialty Laboratory,
+            6567 Chancey Mill Road, Blakely, Georgia 39823-2785.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Program laboratories.
+            </head>
+          </npcatch>
+          <text>
+             Laboratory services are available in all areas covered by
+            cooperative agreements providing for this laboratory work and
+            entered on behalf of the Department with cooperating Federal or
+            State laboratory agencies pursuant to authority contained in Act(s)
+            of Congress. Also, services may be provided in other areas not
+            covered by a cooperative agreement if the Administrator determines
+            that it is possible to provide such laboratory services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Other alternative laboratories.
+            </head>
+          </npcatch>
+          <text>
+             Laboratory analyses may be conducted at alternative Science and
+            Technology Programs laboratories and can be reached from any
+            commodity market in which a laboratory facility is located to the
+            extent laboratory personnel are available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              The Plant Variety Protection (PVP) Office.
+            </head>
+          </npcatch>
+          <text>
+             The PVP office and plant examination facility of the Science and
+            Technology programs issues certificates of protection to developers
+            of novel varieties of plants which reproduce sexually. The PVP
+            office is located as follows: USDA, AMS, Science &amp; Technology
+            Programs, Plant Variety Protection Office, National Agricultural
+            Library Building, Room 401, 10301 Baltimore Boulevard, Beltsville,
+            MD 20705-2351.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+            <head>
+              Science and Technology Programs headquarters offices.
+            </head>
+          </npcatch>
+          <text>
+             The examination, licensure, quality assurance reviews, laboratory
+            approval/certification and consultation services are provided by
+            headquarters staff located in Washington, DC. The main headquarters
+            office is located as follow: USDA, AMS, Science and Technology
+            Programs, Office of the Deputy Administrator, Room 1092 South
+            Agriculture Bldg., Mail Stop 0270, 1400 Independence Ave., SW.,
+            Washington, DC 20250-0270.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+            <head>
+              Statistics Branch Office.
+            </head>
+          </npcatch>
+          <text>
+             The Statistics Branch office of Science and Technology Programs
+            (S&amp;T) provides statistical services to the Agency and other
+            agencies within the USDA. In addition, the Statistics Branch office 
+            <PRTPAGE P='241' />
+            generates sample plans and performs consulting services for research
+            studies in joint efforts with or in a leading role with other
+            program areas of AMS or of the USDA. The Statistics Branch office is
+            located as follows: USDA, AMS, S&amp;T Statistics Branch, Room 0603
+            South Agriculture Bldg., Mail Stop 0223, 1400 Independence Ave.,
+            SW., Washington, DC 20250-0223.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+            <head>
+              Technical Services Branch Office.
+            </head>
+          </npcatch>
+          <text>
+             The Technical Services Branch office of Science and Technology
+            (S&amp;T) provides technical support services to all Agency programs
+            and other agencies within the USDA. In addition, the Technical
+            Services Branch office provides certification and approval services
+            of private and State government laboratories as well as oversees
+            quality assurance programs; import and export certification of
+            laboratory tested commodities. The Technical Services Branch mailing
+            address is as follows: USDA, AMS, S&amp;T Technical Services Branch,
+            South Agriculture Bldg., Mail Stop 0272, 1400 Independence Ave.,
+            SW., Washington, DC 20250-0272. The Technical Services Branch office
+            is located as follows: USDA, AMS, Science and Technology Technical
+            Services Branch, Room 0604 South Agriculture Bldg., 1400
+            Independence Ave., SW., Washington, DC 20250.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+            <head>
+              Monitoring Programs Office.
+            </head>
+          </npcatch>
+          <text>
+             Services afforded by the Pesticide Data Program (PDP) and
+            Microbiological Data Program (MDP) are provided by USDA, AMS,
+            Science and Technology Monitoring Programs Office, 8609 Sudley Road,
+            Suite 206, Manassas, VA 20110-8411.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+            <head>
+              Pesticide Records Branch Office.
+            </head>
+          </npcatch>
+          <text>
+             Services afforded by the Federal Pesticide Record Keeping Program
+            for restricted-use pesticides by private certified applicators are
+            provided by USDA, AMS, Science and Technology, Pesticide Records
+            Branch, 8609 Sudley Road, Suite 203, Manassas, VA 20110-8411.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The addresses of the various laboratories and offices appear in the
+            pertinent parts of this subchapter. A prospective applicant may
+            obtain a current listing of addresses and telephone numbers of
+            Science and Technology Programs laboratories, offices, and
+            facilities by addressing an inquiry to the Administrative Officer,
+            Science and Technology Programs, Agricultural Marketing Service,
+            United States Department of Agriculture (USDA), 1400 Independence
+            Ave., SW., Room 0725 South Agriculture Building, Mail Stop 0271,
+            Washington, DC 20250-0271.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 17287
+          </aref>
+          , Apr. 6, 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4009'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:B:91.6
+      </extid>
+      <num st='1'>
+        91.6
+      </num>
+      <head>
+        Availability of services.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64310
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='6' psec='' tq='N'>
+              91.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Services may be furnished whenever a Science and Technology staff
+            is available and the facilities and conditions are satisfactory for
+            the conduct of such service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Laboratories may provide limited service on Saturdays and Sundays
+            at a premium fee. Weekend service may be obtained by contacting the
+            laboratory director or supervisor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Holiday and overtime laboratory service may be obtained with a
+            minimum 24 hour advance notice, at a premium fee, by any prospective
+            applicant through the laboratory director or supervisor.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64310
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4010'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:C:91.7
+      </extid>
+      <num st='1'>
+        91.7
+      </num>
+      <head>
+        Nondiscrimination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='7' psec='' tq='N'>
+              91.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Nondiscrimination.
+        </SUBJECT>
+        <P>
+          All services under these regulations are provided to applicants
+          without discrimination as to race, color, handicapped or disabled
+          condition, religion, sex, age, or national origin.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4011'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:C:91.8
+      </extid>
+      <num st='1'>
+        91.8
+      </num>
+      <head>
+        Who may apply.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='8' psec='' tq='N'>
+              91.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who may apply.
+        </SUBJECT>
+        <P>
+          An application for service may be made by any individual or interested
+          party including, but not limited to, the United States and any
+          instrumentality or agency thereof, any State, county, municipality, or
+          common carrier, and any authorized agent on behalf of the foregoing.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4012'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:C:91.9
+      </extid>
+      <num st='1'>
+        91.9
+      </num>
+      <head>
+        How to make an application.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          65 FR 64310
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='9' psec='' tq='N'>
+              91.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How to make an application.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Voluntary.
+            </head>
+          </npcatch>
+          <text>
+             An application for analysis and testing may be made by contacting
+            the director or supervisor of the Science and Technology laboratory
+            where the service is provided, or by contacting the Technical
+            Services Branch Chief at Science and Technology Headquarters,
+            Washington, DC. 
+            <PRTPAGE P='242' />
+            A list of the Science and Technology laboratories is included in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='91' sect='5' psec='' tq='N'>
+                91.5
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Mandatory.
+            </head>
+          </npcatch>
+          <text>
+             In the case of mandatory analyses, such as those required to be
+            performed on eggs and egg products, application for services may be
+            submitted to the office or USDA agency which administers the
+            program, or by contacting an inspector or grader who is involved
+            with the program.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            65 FR 64310
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4013'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:C:91.10
+      </extid>
+      <num st='1'>
+        91.10
+      </num>
+      <head>
+        Information required in connection with an application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='10' psec='' tq='N'>
+              91.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Information required in connection with an application.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An application for laboratory service shall be made in the English
+            language and may be made orally (in person or by telephone), in
+            writing, or by facsimile. If an application for laboratory service
+            is made orally, written confirmation may be required by the
+            laboratory involved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In connection with each application for a laboratory service,
+            information that may be necessary to perform analyses on the
+            processed product(s) shall also be furnished. The information shall
+            include, but is not limited to, the name of the product, name and
+            address of the packer or plant where such product was packed, the
+            location of the product, its lot or load number, codes or other
+            identification marks, the number of containers, the type and size of
+            the containers, the analytical test requested, and the size of the
+            sample. In addition, information regarding analysis of the lot by
+            any federal agency previous to the application and the purpose of
+            the desired laboratory service may be requested.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4014'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:C:91.11
+      </extid>
+      <num st='1'>
+        91.11
+      </num>
+      <head>
+        Filing of an application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='11' psec='' tq='N'>
+              91.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Filing of an application.
+        </SUBJECT>
+        <P>
+          An application for a laboratory service shall be regarded as filed
+          only when made in accordance with the regulations in this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4015'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:C:91.12
+      </extid>
+      <num st='1'>
+        91.12
+      </num>
+      <head>
+        Record of filing time and laboratory tests.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='12' psec='' tq='N'>
+              91.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Record of filing time and laboratory tests.
+        </SUBJECT>
+        <P>
+          A record showing the date of receipt for each application for a
+          laboratory service or an appeal of a laboratory service shall be
+          maintained. In addition, the requested laboratory analyses shall be
+          recorded at the time of sample receipt.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4016'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:C:91.13
+      </extid>
+      <num st='1'>
+        91.13
+      </num>
+      <head>
+        When an application may be rejected.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='13' psec='' tq='N'>
+              91.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When an application may be rejected.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An application for a laboratory service may be rejected by the
+            Administrator when deemed appropriate as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For non-compliance by the applicant with the regulations in this
+            part,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For non-payment of previous laboratory services rendered,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             When the sample is not properly identified by a code or other
+            marks,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             When the samples are received in an unsatisfactory condition and
+            are rejected for analysis,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             When there is evidence or knowledge of tampering with the sample,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             When it appears that to perform the analytical testing or
+            laboratory service specified in this part would not be to the best
+            interests of the public welfare or of the Government, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             When it appears to the Administrator that prior commitments of the
+            Department necessitate rejection of the application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each such applicant shall be promptly notified by registered mail
+            of the reasons for the rejection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A written petition for reconsideration of such rejection may be
+            filed by the applicant with the Administrator if postmarked or
+            delivered within 10 days after the receipt of notice of the
+            rejection. Such petition shall state specifically the errors alleged
+            to have been made by the Administrator in rejecting the application.
+            Within 20 days following the receipt of such a petition for
+            reconsideration, the Administrator shall approve the application or
+            notify the applicant by registered mail of the reasons for the
+            rejection thereof.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4017'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:C:91.14
+      </extid>
+      <num st='1'>
+        91.14
+      </num>
+      <head>
+        When an application may be withdrawn.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='14' psec='' tq='N'>
+              91.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When an application may be withdrawn.
+        </SUBJECT>
+        <P>
+          An application for a laboratory service may be withdrawn by the
+          applicant at any time before the analytical testing is performed; 
+          <E T='03'>
+            Provided,
+          </E>
+           That, the applicant shall pay, at the hourly rate prescribed in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='37' psec='' tq='N'>
+              91.37
+            </subref>
+          </aref>
+          , for the time incurred by the scientist or laboratory technician, in
+          connection with such application and any travel expenses, telephone,
+          facsimile, mailing, telegraph or 
+          <PRTPAGE P='243' />
+          other expenses, which have been incurred by the laboratory servicing
+          office, in connection with such application.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4018'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:D:91.15
+      </extid>
+      <num st='1'>
+        91.15
+      </num>
+      <head>
+        Basis of a laboratory service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='15' psec='' tq='N'>
+              91.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Basis of a laboratory service.
+        </SUBJECT>
+        <P>
+          Analytical testing and laboratory determination for analyte or quality
+          constituent shall be based upon the appropriate standards promulgated
+          by the U.S. Department of Agriculture, applicable standards prescribed
+          by the laws of the State where the particular product was produced,
+          specifications of any governmental agency, written buyer and seller
+          contract specifications, or any written specifications by an applicant
+          which is approved by the Administrator; 
+          <E T='03'>
+            Provided,
+          </E>
+           That, if such product is regulated pursuant to the Agricultural
+          Marketing Agreement Act of 1937, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601.html'>
+              7 U.S.C. 601
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ), or the comparable laws of any State, such testing and determination
+          shall be on the basis of the standards, if any, prescribed in, or
+          pursuant to, the marketing order and/or agreement effective
+          thereunder.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4019'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:D:91.16
+      </extid>
+      <num st='1'>
+        91.16
+      </num>
+      <head>
+        Order of a laboratory service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='16' psec='' tq='N'>
+              91.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Order of a laboratory service.
+        </SUBJECT>
+        <P>
+          Laboratory service shall be performed, insofar as possible, in the
+          order in which applications are made except that precedence may be
+          given to any such applications which are made by the United States
+          (including, but not being limited to, any instrumentality or agency
+          thereof) and to any application for an appeal inspection.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4020'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:D:91.17
+      </extid>
+      <num st='1'>
+        91.17
+      </num>
+      <head>
+        Postponing a laboratory service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='17' psec='' tq='N'>
+              91.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Postponing a laboratory service.
+        </SUBJECT>
+        <P>
+          If the scientist determines that it is not possible to accurately
+          analyze or make a laboratory determination of a sample immediately
+          after receipt because standard materials, laboratory equipment and
+          supplies need replacement, or for any other substantial reason, the
+          scientist may postpone laboratory service for such period as may be
+          necessary.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4021'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:D:91.18
+      </extid>
+      <num st='1'>
+        91.18
+      </num>
+      <head>
+        Financial interest of a scientist.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='18' psec='' tq='N'>
+              91.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial interest of a scientist.
+        </SUBJECT>
+        <P>
+          No scientist shall perform a laboratory analysis on any product in
+          which he is directly or indirectly financially interested.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4022'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:E:91.19
+      </extid>
+      <num st='1'>
+        91.19
+      </num>
+      <head>
+        General requirements of suitable samples.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='19' psec='' tq='N'>
+              91.19
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General requirements of suitable samples.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Samples must be representative of the product tested and provided
+            in sufficient quantity for the analyses requested.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each sample must be identified with the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Product type (specific description);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Lot number or production date;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Analyses desired;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Date/time collected;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Storage conditions prior to shipping;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Name of applicant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Name of sampler;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Any other information which is required by the specific program
+            under which analysis or test is performed.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4023'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:E:91.20
+      </extid>
+      <num st='1'>
+        91.20
+      </num>
+      <head>
+        Shipping.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='20' psec='' tq='N'>
+              91.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Shipping.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Samples must be submitted to the laboratory in a condition
+            (including temperature) that does not compromise the quality and
+            validity of analytical results.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All samples must be submitted in sealed, leakproof containers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Containers for perishable refrigerated samples should contain ice
+            or ice packs to maintain temperatures of 0° to 5 °C, unless a
+            different temperature is required for the sample to be tested.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Containers for frozen samples should contain dry ice or other
+            effective methods of maintaining samples in a frozen state.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant is responsible for providing shipping containers and
+            paying shipping costs for fee basis tests.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A courier charge may apply for the shipment of some samples.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4024'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:E:91.21
+      </extid>
+      <num st='1'>
+        91.21
+      </num>
+      <head>
+        Protecting samples.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='21' psec='' tq='N'>
+              91.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Protecting samples.
+        </SUBJECT>
+        <P>
+          Laboratory personnel shall protect each sample from manipulation,
+          substitution, and improper or careless handling which would deprive
+          the sample of its representative character from the time of receipt in
+          the laboratory until the analysis is completed and the sample has been
+          discarded.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4025'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:E:91.22
+      </extid>
+      <num st='1'>
+        91.22
+      </num>
+      <head>
+        Disposition of analyzed sample.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='244' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='22' psec='' tq='N'>
+              91.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disposition of analyzed sample.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Excess samples not used in analyses will be placed in proper
+            storage for a maximum period of 30 days after reporting results of
+            tests.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any sample of a processed commodity that has been used for a
+            laboratory service may be returned to the applicant at his or her
+            request and expense; otherwise, it shall be destroyed or disposed of
+            to a charitable institution.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4026'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:F:91.23
+      </extid>
+      <num st='1'>
+        91.23
+      </num>
+      <head>
+        Analytical methods.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          65 FR 64310
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='23' psec='' tq='N'>
+              91.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Analytical methods.
+        </SUBJECT>
+        <P>
+          Most analyses are performed according to approved procedures described
+          in manuals of standardized methodology. These standard methods are the
+          specific methods used. Alternatively, equivalent methods prescribed in
+          cooperative agreements are used. The manuals of standard methods most
+          often used by the Science and Technology laboratories are listed as
+          follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Approved Methods of the American Association of Cereal Chemists
+            (AACC), American Association of Cereal Chemists/Eagan Press, 3340
+            Pilot Knob Road, St. Paul, Minnesota 55121-2097.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             ASTA&apos;s Analytical Methods Manual, American Spice Trade
+            Association (ASTA), 560 Sylvan Avenue, P.O. Box 1267, Englewood
+            Cliffs, New Jersey 07632.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Compendium Methods for the Microbiological Examination of Foods,
+            Carl Vanderzant and Don Splittstoesser (Editors), American Public
+            Health Association, 1015 Fifteenth Street, NW., Washington, DC
+            20005.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Edwards, P.R. and W.H. Ewing, Edwards and Ewing&apos;s
+            Identification of Enterobacteriaceae, Elsevier Science, Inc.,
+            Regional Sales Office, 655 Avenue of the Americas, P.O. Box 945, New
+            York, NY 10159-0945.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             FDA Bacteriological Analytical Manual (BAM), AOAC INTERNATIONAL,
+            481 North Frederick Avenue, Suite 500, Gaithersburg, MD 20877-2417.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Manual of Analytical Methods for the Analysis of Pesticide Residues
+            in Human and Environmental Samples, EPA 600/9-80-038, U.S.
+            Environmental Protection Agency (EPA) Chemical Exposure Research
+            Branch, EPA Office of Research and Development (ORD), 26 West Martin
+            Luther King Drive, Cincinnati, Ohio 45268.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Official Methods and Recommended Practices of the American Oil
+            Chemists&apos; Society (AOCS), American Oil Chemists&apos; Society,
+            P.O. Box 3489, 2211 West Bradley Avenue, Champaign, Illinois
+            61821-1827.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Official Methods of Analysis of AOAC INTERNATIONAL, Volumes I &amp;
+            II, AOAC INTERNATIONAL, 481 North Frederick Avenue, Suite 500,
+            Gaithersburg, MD 20877-2417.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Standard Analytical Methods of the Member Companies of Corn
+            Industries Research Foundation, Corn Refiners Association (CRA),
+            1701 Pennsylvania Avenue, NW., Washington, DC 20006.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             Standard Methods for the Examination of Dairy Products, American
+            Public Health Association, 1015 Fifteenth Street, NW., Washington,
+            DC 20005.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             Standard Methods for the Examination of Water and Wastewater,
+            American Public Health Association (APHA), the American Water Works
+            Association (AWWA) and the Water Pollution Control Federation, AWWA
+            Bookstore, 6666 West Quincy Avenue, Denver, CO 80235.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+             Test Methods for Evaluating Solid Waste Physical/Chemical Methods,
+            Environmental Protection Agency, Office of Solid Waste, SW-846
+            Integrated Manual (available from National Technical Information
+            Service (NTIS), U.S. Department of Commerce, 5285 Port Royal Road,
+            Springfield, VA 22161).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+          </npcatch>
+          <text>
+             U.S. Army Natick Research, Development and Engineering
+            Center&apos;s Military Specifications, approved analytical test
+            methods noted therein, Code NPP-9, Department of Defense Single
+            Stock Point (DODSSP) for Military Specifications, Standards,
+            Building 4/D, 700 Robbins Avenue, Philadelphia, PA 19111-5094.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='n'>
+            <enum src='gpotxt' cln='1'>
+              (n)
+            </enum>
+          </npcatch>
+          <text>
+             U.S. Food and Drug Administration, Pesticide Analytical Manuals
+            (PAM), Volumes I and II, Food and Drug Administration, Center for
+            Food Safety and Applied Nutrition (CFSAN), 200 C Street, SW.,
+            Washington, DC 20204 
+            <PRTPAGE P='245' />
+            (available from National Technical Information Service (NTIS), U.S.
+            Department of Commerce, 5285 Port Royal Road, Springfield, VA
+            22161).
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            65 FR 64310
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4027'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:G:91.24
+      </extid>
+      <num st='1'>
+        91.24
+      </num>
+      <head>
+        Reports of test results.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 17288
+        </aref>
+        , Apr. 6, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='24' psec='' tq='N'>
+              91.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reports of test results.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Results of analyses are provided, in writing, by facsimile, by
+            e-mail or other electronic means to the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Results of test analyses and laboratory determinations provided by
+            AMS laboratory services only apply to the submitted samples and do
+            not represent the quality, condition or disposition of the lot from
+            which each sample was taken.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants may call the appropriate Science and Technology
+            laboratory for interim or final results prior to issuance of the
+            formal report. The advance results may be telegraphed, e-mailed,
+            telephoned, or sent by facsimile to the applicant. Any additional
+            expense for advance information shall be borne by the requesting
+            party.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A letter report in lieu of an official certificate of analysis may
+            be issued by a laboratory representative when such action appears to
+            be more suitable than a certificate: Provided, that, issuance of
+            such report is approved by the Deputy Administrator.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 17288
+          </aref>
+          , Apr. 6, 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4028'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:G:91.25
+      </extid>
+      <num st='1'>
+        91.25
+      </num>
+      <head>
+        Certificate requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 17288
+        </aref>
+        , Apr. 6, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='25' psec='' tq='N'>
+              91.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Certificate requirements.
+        </SUBJECT>
+        <P>
+          Certificates of analysis and other memoranda concerning laboratory
+          service and the reporting of results should have the following
+          requirements:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Certificates of analysis shall be on standard printed forms
+            approved by the Deputy Administrator;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Shall be printed in English;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Shall have results typewritten, computer generated, or handwritten
+            in ink and shall be clearly legible;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Shall show the results of laboratory tests in a uniform, accurate,
+            and concise manner with abbreviations identified on the form;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Shall show the information required by 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='91' sect='26' psec='' tq='N'>
+                91.26
+              </subref>
+            </aref>
+             through 91.29; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Show only such other information and statements of fact as are
+            provided in the instructions authorized by the Deputy Administrator.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 17288
+          </aref>
+          , Apr. 6, 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4029'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:G:91.26
+      </extid>
+      <num st='1'>
+        91.26
+      </num>
+      <head>
+        Issuance of certificates.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64311
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='26' psec='' tq='N'>
+              91.26
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of certificates.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The person signing and issuing the certificate of analysis shall be
+            one of the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The scientist who performed the analysis;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Another technician of the laboratory facility, who has been given
+            power of attorney by the scientist who performed the analytical
+            testing and been authorized by the Deputy Administrator to affix the
+            scientist&apos;s signature to a certificate. The power of attorney
+            shall be on file with the employing office or laboratory of the
+            Science and Technology program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A person designated as the “laboratory director in charge,” when
+            the certificate represents composite analyses by several
+            technicians.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The laboratory certificate shall be prepared in accordance with the
+            facts set forth in the official memoranda made by the scientist or
+            technicians in connection with the analysis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever a certificate is signed by a person under a power of
+            attorney, the certificate should so indicate. The signature of the
+            holder of power shall appear under the name of the scientist who
+            personally analyzed the sample, and whenever a certificate issued is
+            signed by a scientist in charge, that title must appear in
+            connection with the signature.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64311
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4030'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:G:91.27
+      </extid>
+      <num st='1'>
+        91.27
+      </num>
+      <head>
+        Corrections to certificates prior to issuance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='27' psec='' tq='N'>
+              91.27
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Corrections to certificates prior to issuance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The accuracy of the statements and information shown on
+            certificates of analysis must be verified by the individual whose
+            name or signature, or both, is shown on the certificate or by the
+            authorized agent who affixed the name or signature, or both. When a
+            name or signature, or both, is affixed by an authorized agent, the
+            initials of the agent shall appear directly below or following the
+            name, or signature of the person. Errors found during this 
+            <PRTPAGE P='246' />
+            process shall be corrected according to this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Only official personnel or their authorized agents may make
+            corrections, additions, or other changes to certificates.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             No corrections, additions, or other changes shall be made which
+            involve identification, quality, or quantity. If such errors are
+            found, a new certificate shall be prepared and issued and the
+            incorrect certificate marked “Void.” Otherwise, errors may be
+            corrected, provided there is evidence of satisfactory correction
+            procedures as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The corrections are neat and legible;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Each correction is initialed by the individual who corrects the
+            certificate; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The corrections and initials are shown on the original and all
+            copies.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4031'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:G:91.28
+      </extid>
+      <num st='1'>
+        91.28
+      </num>
+      <head>
+        Issuance of corrected certificates or amendments for analysis reports.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='28' psec='' tq='N'>
+              91.28
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of corrected certificates or amendments for analysis reports.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A corrected certificate of analysis or an amended letter report may
+            be issued by the laboratory representative who issued the original
+            certificate or report after distribution of the form if errors, such
+            as incorrect dates, analytical results, or test determination
+            statements, lot numbers, or errors in any other pertinent
+            information require the issuance of a corrected certificate or an
+            amended report.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever a corrected certificate or amended report is issued, such
+            certificate or report shall supersede the original form which was
+            issued in error. The superseded certificate or incorrect report
+            shall become null and void after the issuance of the corrected
+            certificate or the amended analysis report.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The corrected certificates or amended reports shall show the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The terms “Corrected Original” and “Corrected Copy;”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A statement identifying the superseded certificate or incorrect
+            letter report and the corrections;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A new serial number or new date of issuance; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The same statements and information, including permissive
+            statements, that were shown on the incorrect certificate or the
+            incorrect report, along with the correct statement or information,
+            shall be shown on the corrected form.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If all copies of the incorrect certificate or incorrect report can
+            be obtained, then the superseded form shall be marked “Void” when
+            submitted.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Corrected certificates or amended letter reports cannot be issued
+            for a certificate that has been superseded by another certificate,
+            or superseded on the basis of a subsequent analysis or an additional
+            laboratory test determination.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4032'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:G:91.29
+      </extid>
+      <num st='1'>
+        91.29
+      </num>
+      <head>
+        Issuance of duplicate certificates or reissuance of an analysis report.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='29' psec='' tq='N'>
+              91.29
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of duplicate certificates or reissuance of an analysis
+          report.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Upon request by an applicant, a duplicate certificate or an
+            additional report may be issued for a lost, destroyed, or otherwise
+            not obtainable original form.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The duplicate certificate or the reissuance of an analysis report
+            shall be at the expense of the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for duplicate certificates or additional analysis reports
+            shall be filed as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             In writing;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             By the applicant who requested the service covered by the lost,
+            destroyed, or otherwise not obtainable original form; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             With the office that issued the initial certificate or original
+            laboratory analysis report.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The duplicate certificates or reissued analysis reports shall show
+            the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The terms “Duplicate Original,” and the copies shall show
+            “Duplicate Copy,”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A statement that the certificate or letter report was issued in
+            lieu of a lost or destroyed or otherwise not obtainable certificate
+            or laboratory analysis report; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The same statements and information, including permissive
+            statements, that were shown on the original certificate or the
+            initial analysis report shall be shown on the duplicate form.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Duplicate certificates or duplicate analysis reports shall be
+            issued as promptly as possible and distributed as 
+            <PRTPAGE P='247' />
+            the original certificates or original analysis reports and their
+            copies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Duplicate certificates shall not be issued for certificates that
+            have been superseded.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4033'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:G:91.30
+      </extid>
+      <num st='1'>
+        91.30
+      </num>
+      <head>
+        Maintenance and retention of copies of certificates or analysis reports.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='30' psec='' tq='N'>
+              91.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Maintenance and retention of copies of certificates or analysis
+          reports.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             At least one copy of each certificate or analysis report shall be
+            filed in the laboratory for a period of not less than 3 years either
+            from the date of issuance of the document, from the date of voiding
+            a certificate, or from the date last payment is made by the
+            applicant for a reported laboratory determination, whichever is
+            later.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever any document, because of its condition, becomes unsuitable
+            for its intended or continued use, the laboratory personnel shall
+            make a copy of the original document.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             True copies shall be retained as photocopies, microfilm,
+            microfiche, or other accurate reproductions and durable forms of the
+            original document. Where reduction techniques, such as microfilming
+            are used, suitable reader and photocopying equipment shall be
+            readily available. Such reproductions shall be treated and
+            considered for all purposes as though they were the original
+            documents.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             All documents required to be maintained under this part shall be
+            kept confidential and shall be disclosed only to the applicants or
+            other persons with the applicants&apos; knowledge and permission.
+            Only such information as the Administrator deems relevant shall be
+            disclosed to the public without the applicants&apos; permission, and
+            then, only in a suit or administrative hearing brought at the
+            direction, or on the request, of the Administrator, or to which the
+            Administrator or any other officer of the United States is a party.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4034'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:H:91.31
+      </extid>
+      <num st='1'>
+        91.31
+      </num>
+      <head>
+        When an appeal of a laboratory service may be requested.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64311
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='31' psec='' tq='N'>
+              91.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When an appeal of a laboratory service may be requested.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An application for an appeal of a laboratory service may be made by
+            any interested party who is dissatisfied with the results of an
+            analysis as stated in a certificate or laboratory report, if the lot
+            of the commodity can be positively identified by the laboratory
+            service as the lot from which originally drawn samples were
+            previously analyzed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An application for an appeal of a laboratory service shall be made
+            within thirty (30) days following the day on which the previous
+            analysis was performed. However, upon approval by the Deputy
+            Administrator, the filing time for an appeal application may be
+            extended.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64311
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4035'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:H:91.32
+      </extid>
+      <num st='1'>
+        91.32
+      </num>
+      <head>
+        Where to file for an appeal of a laboratory service and information
+        required.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          65 FR 64311
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='32' psec='' tq='N'>
+              91.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Where to file for an appeal of a laboratory service and information
+          required.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Application for an appeal of a laboratory service may be filed with
+            the supervisor in the office or the director of the laboratory
+            facility that issued the certificate or laboratory report on which
+            the appeal analysis covering the commodity product is requested.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The application for an appeal of a laboratory service shall state
+            the location of the lot of the commodity product and the reasons for
+            the appeal; and date and serial number of the certificate covering
+            the laboratory service of the commodity product on which the appeal
+            is requested. In addition, such application shall be accompanied by
+            the original and all available copies of the certificate or
+            laboratory report.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Application for an appeal of a laboratory service may be made
+            orally (in person or by telephone), in writing, by e-mail, by
+            facsimile, or by telegraph. If made orally, written confirmation
+            shall be made promptly.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            65 FR 64311
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4036'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:H:91.33
+      </extid>
+      <num st='1'>
+        91.33
+      </num>
+      <head>
+        When an application for an appeal of a laboratory service may be
+        withdrawn.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='33' psec='' tq='N'>
+              91.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When an application for an appeal of a laboratory service may be
+          withdrawn.
+        </SUBJECT>
+        <P>
+          An application for an appeal of a laboratory service may be withdrawn
+          by the applicant at any time before the appealed laboratory service is
+          performed; 
+          <E T='03'>
+            Provided,
+          </E>
+           That, the applicant shall pay, at the hourly rate prescribed in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='37' psec='' tq='N'>
+              91.37
+            </subref>
+          </aref>
+          , for the time incurred by the laboratory personnel, any travel,
+          telephone, telegraph, or other expenses 
+          <PRTPAGE P='248' />
+          which have been incurred by the laboratory service in connection with
+          such application.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4037'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:H:91.34
+      </extid>
+      <num st='1'>
+        91.34
+      </num>
+      <head>
+        When an appeal of a laboratory service may be refused.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='34' psec='' tq='N'>
+              91.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When an appeal of a laboratory service may be refused.
+        </SUBJECT>
+        <P>
+          An application for an appeal of a laboratory service may be refused
+          if:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The reasons for the appealed laboratory service are frivolous or
+            not substantial;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The quality or condition of the commodity product has undergone a
+            material change since the laboratory service covering the commodity
+            product on which the appealed laboratory service is requested;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The lot in question is not, or cannot be made accessible for
+            sampling;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The lot relative to which the appealed laboratory service is
+            requested cannot be positively identified as the lot from which
+            samples were previously drawn and originally analyzed; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             There is noncompliance with the regulations in this part. Such
+            applicant shall be notified promptly of the reason for such refusal.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4038'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:H:91.35
+      </extid>
+      <num st='1'>
+        91.35
+      </num>
+      <head>
+        Who shall perform an appealed laboratory service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='35' psec='' tq='N'>
+              91.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who shall perform an appealed laboratory service.
+        </SUBJECT>
+        <P>
+          An appealed laboratory service shall be performed, whenever possible,
+          by another individual or other individuals than the scientist(s) or
+          the technician(s) that performed the original analytical
+          determination.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4039'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:H:91.36
+      </extid>
+      <num st='1'>
+        91.36
+      </num>
+      <head>
+        Appeal laboratory certificate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='36' psec='' tq='N'>
+              91.36
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeal laboratory certificate.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An appeal laboratory certificate shall be issued showing the
+            results of such appealed analysis. This certificate shall supersede
+            the laboratory certificate previously issued for the commodity
+            product involved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each appeal laboratory certificate shall clearly identify the
+            number and date of the laboratory certificate which it supersedes.
+            The superseded certificate shall become null and void upon the
+            issuance of the appealed laboratory certificate and shall no longer
+            represent the analytical results of the commodity product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The individual issuing an appeal laboratory certificate shall
+            forward notice of such issuance to such persons as he or she
+            considers necessary to prevent misuse of the superseded certificate
+            if the original and all copies of such superseded certificate have
+            not previously been delivered to the individual issuing the appeal
+            certificate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions in the regulations in this part concerning forms and
+            certificates, issuance of certificates, and retention and
+            disposition of certificates shall apply to appeal laboratory
+            certificates, except that copies of such appeal certificates shall
+            be furnished to all interested parties who received copies of the
+            superseded certificate.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4040'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.37
+      </extid>
+      <num st='1'>
+        91.37
+      </num>
+      <head>
+        Standard hourly fee rate for laboratory testing, analysis, and other
+        services.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 17288
+        </aref>
+        , Apr. 6, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='37' psec='' tq='N'>
+              91.37
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Standard hourly fee rate for laboratory testing, analysis, and other
+          services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The standard hourly fee rate in this section for the individual
+            laboratory analyses cover the costs of Science and Technology
+            laboratory services, including issuance of certificates and
+            personnel and overhead costs other than the commodity inspection
+            fees referred to in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='52' sect='42' psec='' tq='N'>
+                52.42
+              </subref>
+            </aref>
+             through 52.46, 52.48 through 52.51, 55.510 through 55.530, 55.560
+            through 55.570, 58.38 through 58.43, 58.45 through 58.46, 70.71
+            through 70.72, and 70.75 through 70.78. The hourly fee rates in this
+            
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='91' tq='N'>
+                91
+              </subref>
+            </aref>
+             apply to all commodity and processed commodity products. The new
+            fiscal year for Science and Technology Programs commences on October
+            1 of each calendar year. The rate for laboratory services is $78.00
+            per hour in fiscal year 2010, $81.00 per hour in fiscal year 2011,
+            and $83.00 per hour in fiscal year 2012.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Printed updated schedules of the laboratory testing fees for
+            processed fruits and vegetables (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='93' tq='N'>
+                93
+              </subref>
+            </aref>
+            ), poultry and egg products (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='94' tq='N'>
+                94
+              </subref>
+            </aref>
+            ), and meat and meat products (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='98' tq='N'>
+                98
+              </subref>
+            </aref>
+            ) will be available for distribution to Science and
+            Technology&apos;s constituents and stakeholders by the individual
+            Laboratory Directors of Science and Technology laboratories listed
+            in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='91' sect='5' psec='' tq='N'>
+                91.5
+              </subref>
+            </aref>
+            . These single test laboratory fee schedules are based upon the
+            applicable hourly fee rate stated in paragraph (a) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise provided in this section, charges will be made
+            at the applicable hourly rate stated in paragraph (a) of this
+            section for the time required to perform the service. A 
+            <PRTPAGE P='249' />
+            charge will be made for service pursuant to each request or
+            certificate issued.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             When a laboratory test service is provided for AMS by a commercial
+            or State government laboratory, the applicant will be assessed a fee
+            which covers the costs to the Science and Technology program for the
+            service provided.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             When Science and Technology staff provides applied and
+            developmental research and training activities for microbiological,
+            physical, chemical, and biomolecular analyses on agricultural
+            commodities the applicant will be charged a fee on a reimbursable
+            cost to AMS basis.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 17288
+          </aref>
+          , Apr. 6, 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4041'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.38
+      </extid>
+      <num st='1'>
+        91.38
+      </num>
+      <head>
+        Additional fees for appeal of analysis.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 17288
+        </aref>
+        , Apr. 6, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='38' psec='' tq='N'>
+              91.38
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Additional fees for appeal of analysis.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant for appeal sample testing will be charged a fee at
+            the hourly rate for laboratory service that appears in this
+            paragraph. The new fiscal year for Science and Technology Programs
+            commences on October 1 of each calendar year. The appeal rate for
+            laboratory service is $93.00 per hour in fiscal year 2010, $96.00
+            per hour in fiscal year 2011, and $99.00 per hour in fiscal year
+            2012.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The appeal fee will not be waived for any reason if analytical
+            testing was completed in addition to the original analysis.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 17288
+          </aref>
+          , Apr. 6, 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4042'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.39
+      </extid>
+      <num st='1'>
+        91.39
+      </num>
+      <head>
+        Premium hourly fee rates for overtime and legal holiday service.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 17288
+        </aref>
+        , Apr. 6, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='39' psec='' tq='N'>
+              91.39
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Premium hourly fee rates for overtime and legal holiday service.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             When analytical testing in a Science and Technology facility
+            requires the services of laboratory personnel beyond their regularly
+            assigned tour of duty on any day or on a day outside the established
+            schedule, such services are considered as overtime work. When
+            analytical testing in a Science and Technology facility requires the
+            services of laboratory personnel on a Federal holiday or a day
+            designated in lieu of such a holiday, such services are considered
+            holiday work. Laboratory analyses initiated at the request of the
+            applicant to be rendered on Federal holidays, and on an overtime
+            basis will be charged fees at hourly rates for laboratory service
+            that appear in this paragraph. The new fiscal year for Science and
+            Technology Programs commences on October 1 of each calendar year.
+            The laboratory analysis rate for overtime service is $93.00 per hour
+            in fiscal year 2010, $96.00 per hour in fiscal year 2011, and $99.00
+            per hour in fiscal year 2012. The laboratory analysis rate for
+            Federal holiday or designed holiday service is $108.00 per hour in
+            fiscal year 2010, $111.00 per hour in fiscal year 2011, and $115.00
+            per hour in fiscal year 2012.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Information on legal holidays or what constitutes overtime service
+            at a particular Science and Technology laboratory is available from
+            the Laboratory Director or facility manager.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 17288
+          </aref>
+          , Apr. 6, 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4043'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.40
+      </extid>
+      <num st='1'>
+        91.40
+      </num>
+      <head>
+        Fees for courier service and facsimile of the analysis report.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          65 FR 64314
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='40' psec='' tq='N'>
+              91.40
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees for courier service and facsimile of the analysis report.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Science and Technology laboratories have a courier charge per
+            trip to retrieve the sample package. The courier service charge is
+            determined from the established single standard mileage rate and
+            from the total authorized distance based on the shortest round trip
+            route from laboratory to sample retrieval site. Pursuant to the
+            requirements of paragraph (a) (1) of 
+            <aref type='UNKNOWN'>
+              § 5704 of
+            </aref>
+             Title 5, United States Code (U.S.C.), the automobile reimbursement
+            rate cannot exceed the single standard mileage rate established by
+            the Internal Revenue Service (IRS).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The faxing of laboratory analysis reports or certificates is an
+            optional service for each S&amp;T facility offered at a fee
+            specified in table 8 in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='91' sect='37' psec='' tq='N'>
+                91.37
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            65 FR 64314
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4044'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.41
+      </extid>
+      <num st='1'>
+        91.41
+      </num>
+      <head>
+        Charges for demonstrations and courses of instruction.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64314
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='41' psec='' tq='N'>
+              91.41
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Charges for demonstrations and courses of instruction.
+        </SUBJECT>
+        <P>
+          Charges, not in excess of the cost thereof and as approved by the
+          Deputy Administrator, may be made for demonstrations, samples, or
+          courses of instruction when such are furnished upon request.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64314
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4045'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.42
+      </extid>
+      <num st='1'>
+        91.42
+      </num>
+      <head>
+        Billing.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          72 FR 15021
+        </aref>
+        , Mar. 30, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='42' psec='' tq='N'>
+              91.42
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Billing.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each billing cycle will end on the 25th of the month. The applicant
+            will 
+            <PRTPAGE P='250' />
+            be billed by the National Finance Center (NFC) using the Foundation
+            Financial Information System (FFIS) on the 1st day, following the
+            end of the billing cycle in which voluntary laboratory services and
+            other services were rendered at a particular Science and Technology
+            laboratory or office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The total charge or fee shall normally be stated directly on the
+            analysis report or on a standardized official certificate form for
+            the laboratory analysis of a specific agricultural commodity and
+            related commodity products.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The actual bill for collection will be issued by the USDA, National
+            Finance Center Billings and Collection Branch, (Mail: P.O. Box
+            60075), 13800 Old Gentilly Road, New Orleans, Louisiana 70160-0001.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            72 FR 15021
+          </aref>
+          , Mar. 30, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4046'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.43
+      </extid>
+      <num st='1'>
+        91.43
+      </num>
+      <head>
+        Payment of fees and charges.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64315
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='43' psec='' tq='N'>
+              91.43
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment of fees and charges.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Fees and charges for services shall be paid by the applicant, by
+            check or money order payable, to the “Agricultural Marketing
+            Service, USDA” and sent to the office indicated on the bill.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Fees and charges for services under a cooperative agreement with a
+            State or other AMS programs or other governmental agency will be
+            paid in accordance with the terms of the cooperative agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             As necessary, the Deputy Administrator may require that fees shall
+            be paid in advance of the performance of the requested service. Any
+            fees paid in excess of the amount due shall be used to offset future
+            billings, unless a request for a refund is made by applicant.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64315
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4047'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.44
+      </extid>
+      <num st='1'>
+        91.44
+      </num>
+      <head>
+        Charges on overdue accounts and issuance of delinquency notices.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42415
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64315
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='44' psec='' tq='N'>
+              91.44
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Charges on overdue accounts and issuance of delinquency notices.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Accounts are considered overdue if payment is late with the
+            National Finance Center (NFC). The timeliness of a payment will be
+            based on the postmark date of the payment or the date of receipt by
+            the NFC if no postmark date is present or legible. Bills are payable
+            upon receipt and become delinquent 30 days from date of billing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any amount due not paid by the due date will be increased by a late
+            payment charge. The actual assessed rate applied to overdue accounts
+            is set quarterly by the Department of the Treasury. This amount is
+            one-twelfth of one year&apos;s late penalty interest rate computed
+            at the prescribed rate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Overtime or holiday laboratory service will not be performed for
+            any applicant with a notice of delinquency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants with three notices of delinquency will be reviewed for
+            possible termination of services. A deposit in advance sufficient to
+            cover the fees and expenses for any subsequent service may be
+            required of any person failing to pay in claim after issuance of
+            such notice of delinquency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Deputy Administrator of S&amp;T program and personnel of the
+            USDA, NFC Billings and Collections Branch (address as listed in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='91' sect='42' psec='' tq='N'>
+                91.42
+              </subref>
+            </aref>
+            ) will take such actions as may be necessary to collect any
+            delinquent amounts due for accounts in claim status.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42415
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64315
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4048'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:I:91.45
+      </extid>
+      <num st='1'>
+        91.45
+      </num>
+      <head>
+        Charges for laboratory services on a contract basis.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          65 FR 64315
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='45' psec='' tq='N'>
+              91.45
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Charges for laboratory services on a contract basis.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Irrespective of hourly fee rates and charges prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='91' sect='37' psec='' tq='N'>
+                91.37
+              </subref>
+            </aref>
+            , or in other sections of this subchapter E, the Deputy
+            Administrator may enter into contracts with applicants to perform
+            continuous laboratory services or other types of laboratory services
+            pursuant to the regulations in this part and other requirements, as
+            prescribed by the Deputy Administrator in such contract. In
+            addition, the charges for such laboratory services, provided in such
+            contracts, shall be on such basis as will reimburse the Agricultural
+            Marketing Service of the Department for the full cost of rendering
+            such laboratory services, including an appropriate overhead charge
+            to cover administrative overhead expenses as may be determined by
+            the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Irrespective of hourly fee rates and charges prescribed in this
+            subpart I, or in other parts of this subchapter E, the Deputy
+            Administrator may enter into a written Memorandum of Understanding
+            (MOU) or agreement with any administrative agency or governing party
+            for the performance of 
+            <PRTPAGE P='251' />
+            laboratory services pursuant to said agreement or order on a basis
+            that will reimburse the Agricultural Marketing Service of the
+            Department for the full cost of rendering such laboratory service,
+            including an appropriate overhead administrative overhead charge.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The conditions and terms for renewal of such Memorandum of
+            Understanding or agreement shall be specified in the contract.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            65 FR 64315
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4049'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:J:91.100
+      </extid>
+      <num st='1'>
+        91.100
+      </num>
+      <head>
+        Scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='100' psec='' tq='N'>
+              91.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope.
+        </SUBJECT>
+        <P>
+          Two approved information symbols in the form of AMS shields are
+          available to indicate official testing by an AMS laboratory. The two
+          approved AMS shields with the words “USDA AMS TESTED” and “USDA
+          LABORATORY TESTED FOR EXPORT” are added to the USDA symbol inventory
+          to enhance the acceptance of AMS tested agricultural commodities on a
+          national or international basis.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4050'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:J:91.101
+      </extid>
+      <num st='1'>
+        91.101
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='101' psec='' tq='N'>
+              91.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Words used in the regulations in this part in the singular form will
+          import the plural, and vice versa, as the case may demand. As used
+          throughout the regulations in this part, unless the context requires
+          otherwise, the following terms will be construed to mean:
+        </P>
+        <P>
+          <E T='03'>
+            AMS.
+          </E>
+           The abbreviation for the Agricultural Marketing Service (AMS) agency
+          of the United States Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Export.
+          </E>
+           To send or transport a product originally created or manufactured in
+          the United States of America to another country in the course of
+          trade.
+        </P>
+        <P>
+          <E T='03'>
+            Laboratory.
+          </E>
+           An AMS Science and Technology (S&amp;T) laboratory listed in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='5' psec='' tq='N'>
+              91.5
+            </subref>
+          </aref>
+           that performs the official analyses.
+        </P>
+        <P>
+          <E T='03'>
+            Test.
+          </E>
+           To perform chemical, microbiological, or physical analyses on a
+          sample to determine presence and levels or amounts of a substance or
+          living organism of interest.
+        </P>
+        <P>
+          <E T='03'>
+            USDA.
+          </E>
+           The abbreviation for the United States Department of Agriculture.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4051'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:91:J:91.102
+      </extid>
+      <num st='1'>
+        91.102
+      </num>
+      <head>
+        Form of official identification symbols.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='102' psec='' tq='N'>
+              91.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Form of official identification symbols.
+        </SUBJECT>
+        <P>
+          Two information symbols in the form of AMS shields indicate commodity
+          testing at an AMS laboratory listed in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='91' sect='5' psec='' tq='N'>
+              91.5
+            </subref>
+             of this part
+          </aref>
+          . The AMS shield set forth in figure 1 of this section, containing the
+          words “USDA AMS TESTED”, and the shield set forth in figure 2,
+          containing the words “USDA LABORATORY TESTED FOR EXPORT” have been
+          approved by the USDA Office of Communications to be added to the
+          USDA/AMS inventory of symbols. Each example of an AMS shield has a
+          black and white background; however the standard red, white and blue
+          colors are approved for the shields. They are approved for use with
+          AMS materials. Shields with the same wording that are similar in form
+          and design to the examples in figures 1 and 2 of this section may also
+          be used.
+        </P>
+        <GPH DEEP='362' SPAN='1'>
+          <PRTPAGE P='252' />
+          <GID>
+            ER16DE03.000
+          </GID>
+        </GPH>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

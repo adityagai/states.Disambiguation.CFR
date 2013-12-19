@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol12'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVIII:H:1925
+    </extid>
+    <num>
+      1925
+    </num>
+    <head>
+      TAXES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='1989' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1989.html'>
+              7 U.S.C. 1989
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='42' sect='1480' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/1480.html'>
+              42 U.S.C. 1480
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            57 FR 36590
+          </aref>
+          , Aug. 14, 1992, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='14960'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:H:1925:A:1925.1
+      </extid>
+      <num st='1'>
+        1925.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          57 FR 36590
+        </aref>
+        , Aug. 14, 1992, as amended at 
+        <aref type='FREGIST'>
+          67 FR 78327
+        </aref>
+        , Dec. 24, 2002; 
+        <aref type='FREGIST'>
+          72 FR 64122
+        </aref>
+        , Nov. 15, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1925' sect='1' psec='' tq='N'>
+              1925.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          This Instruction applies to borrowers with Rural Rental Housing (RRH),
+          Rural Cooperative Housing (RCH), Labor Housing (LH),and Non-Program
+          (NP) loans secured by real estate. It also applies to 
+          <aref type='CFR-TIC-SECT'>
+            section 502
+          </aref>
+           and 
+          <aref type='CFR-TIC-SECT'>
+            section 504
+          </aref>
+           Rural Housing borrowers (Single Family Housing (SFH)) who also have a
+          Farmer Program loan. It does not apply to borrowers who have a SFH
+          loan only; those will be serviced under 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='3550' tq='N'>
+              3550
+            </subref>
+          </aref>
+          . Borrowers are responsible for paying taxes on the real estate
+          security to the proper taxing authorities before taxes become
+          delinquent. This obligation is set forth in the security instrument
+          securing the loan. This subpart is inapplicable to Farm Service
+          Agency, Farm Loan Programs.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            57 FR 36590
+          </aref>
+          , Aug. 14, 1992, as amended at 
+          <aref type='FREGIST'>
+            67 FR 78327
+          </aref>
+          , Dec. 24, 2002; 
+          <aref type='FREGIST'>
+            72 FR 64122
+          </aref>
+          , Nov. 15, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='14961'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:H:1925:A:1925.2
+      </extid>
+      <num st='1'>
+        1925.2
+      </num>
+      <head>
+        Definition of tax.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1925' sect='2' psec='' tq='N'>
+              1925.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definition of tax.
+        </SUBJECT>
+        <P>
+          For the purpose of this instruction, the word “tax” means all taxes,
+          assessments, levies, irrigation and water charges or other similar
+          obligations which are or will, on nonpayment, become a lien upon the
+          real estate prior to the mortgage securing the Farmers Home
+          Administration (FmHA) or its successor agency under 
+          <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+            Public Law 103-354
+          </aref>
+           loan.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14962'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:H:1925:A:1925.3
+      </extid>
+      <num st='1'>
+        1925.3
+      </num>
+      <head>
+        Servicing taxes.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          57 FR 36590
+        </aref>
+        , Aug. 14, 1992, as amended at 
+        <aref type='FREGIST'>
+          69 FR 69104
+        </aref>
+        , Nov. 26, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1925' sect='3' psec='' tq='N'>
+              1925.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Servicing taxes.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The County Supervisor will be responsible for ascertaining that all
+            mortgaged real estate is listed properly for tax purposes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The County Supervisor will be responsible for taking all actions in
+            connection with taxes as may be necessary to protect the
+            Government&apos;s security interests. Any unusual situations that
+            may arise with respect to tax servicing should be referred to the
+            State Office for consideration.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The County Supervisor will encourage each borrower to pay taxes
+            promptly in order to avoid any penalties. Normally, this can be
+            accomplished through routine servicing of loans by emphasizing the
+            advantages of setting aside sufficient income to meet tax
+            obligations when they become due. Taxes will be adequately budgeted
+            for those borrowers with whom Form FmHA or its successor agency
+            under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             431-2, “Farm and Home Plan,” is developed. Each borrower will be
+            encouraged to notify the County Supervisor when he has paid his
+            taxes. After the delinquent date, it will be necessary for the
+            County Supervisor to determine the borrowers whose taxes are
+            delinquent. The Multi-Family Housing Information System (MFIS) will
+            be used in posting servicing actions on delinquent taxes.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            57 FR 36590
+          </aref>
+          , Aug. 14, 1992, as amended at 
+          <aref type='FREGIST'>
+            69 FR 69104
+          </aref>
+          , Nov. 26, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='14963'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:H:1925:A:1925.4
+      </extid>
+      <num st='1'>
+        1925.4
+      </num>
+      <head>
+        Servicing delinquent taxes.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          57 FR 36590
+        </aref>
+        , Aug. 14, 1992, as amended at 
+        <aref type='FREGIST'>
+          67 FR 78327
+        </aref>
+        , Dec. 24, 2002]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1925' sect='4' psec='' tq='N'>
+              1925.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Servicing delinquent taxes.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The County Supervisor will contact each borrower with a delinquent
+            tax and make every practical effort to have him pay the tax with his
+            own funds. He will use the Management System Card for follow-up of
+            delinquent taxes. If the delinquent tax is not paid and the borrower
+            comes to the office with proceeds for application on the FmHA or its
+            successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             account secured by the real estate, the County Office personnel
+            will endeavor to get the borrower to use the proceeds to pay the
+            delinquent tax. If the amount of the delinquent tax is less than the
+            amount of the proposed payment, the difference will be applied on
+            the FmHA or its successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             account in accordance with the policy outlined in subpart A of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1951' tq='N'>
+                1951 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Prior (usually about 90 days) to the time it is legally possible
+            for action to be taken that will cause the borrower to lose title or
+            right of possessions of the security property or the use of
+            essential water, the County Supervisor will contact the borrower and
+            definitely determine if he will pay the delinquent tax immediately.
+            If the borrower is unable or unwilling to pay the delinquent tax
+            with his own funds after every appropriate effort has been made to
+            have him do so, the County Supervisor will refer to FmHA or its
+            successor agency under 
+            <aref target='_blank' title='Public Law 103-354' alt='Public Law 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+              Public Law 103-354
+            </aref>
+             Instruction 2024-A and utilize the Type 60 Purchase Order System to
+            pay the 
+            <PRTPAGE P='604' />
+            amount of the delinquent taxes plus the amount of any accrued
+            penalty to bring taxes current.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             In an exceptional case where reasons for delinquent taxes have been
+            removed and planned income during the next year covers payment of
+            current obligations plus delinquent taxes not vouchered, only the
+            delinquent taxes will be paid that could cause the borrower to lose
+            title or right of possession of security property.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the Government is holding a mortgage other than a first mortgage
+            on the property, do not initiate payment request until the County
+            Supervisor has determined that (i) the prior lien holder will not
+            pay the delinquent tax, (ii) the Government&apos;s security will be
+            jeopardized if the delinquent tax is not paid, and (iii) the value
+            of the security is sufficient to justify the advance.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            57 FR 36590
+          </aref>
+          , Aug. 14, 1992, as amended at 
+          <aref type='FREGIST'>
+            67 FR 78327
+          </aref>
+          , Dec. 24, 2002]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='14964'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVIII:H:1925:A:1925.5-1925.50
+      </extid>
+      <num st='2'>
+        1925.5-1925.50
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1925' sect='5-1925' psec='' tq='N'>
+              1925.5-1925
+            </subref>
+          </aref>
+          .50
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:D:631
+    </extid>
+    <num>
+      631
+    </num>
+    <head>
+      GREAT PLAINS CONSERVATION PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='590p' note='' psec='#b' tq='N' target='http://www.law.cornell.edu/uscode/16/590p.html#b'>
+              16 U.S.C. 590p(b)
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            49 FR 11142
+          </aref>
+          , Mar. 27, 1984, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6278'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.1
+      </extid>
+      <num st='1'>
+        631.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='1' psec='' tq='N'>
+              631.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Great Plains Conservation Program (GPCP) is a special program
+            targeted to the total conservation treatment of farm or ranch units
+            with the most severe soil and water resources problems. The purpose
+            of the program is to assist farm, ranch and other land users to make
+            changes in their cropping systems and land uses which are needed to
+            conserve, develop, protect, and utilize the soil and water resources
+            of their lands. This purpose is achieved by controlling erosion,
+            conserving water, and adjusting land use to mitigate climatic, soil,
+            topographic, flood, saline and other natural hazards.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Program participation is voluntary and is carried out by applying a
+            conservation plan encompassing an entire operating unit. A
+            conservation plan is developed with the land user in consultation
+            with the local conservation district and is used to establish a GPCP
+            contract. This contract provides for cost sharing between the land
+            user and the Secretary of Agriculture for applying needed land use
+            adjustments and conservation treatment within a specified time
+            schedule. The program is supplemental to, not a substitution for,
+            other programs in the Great Plains area.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6279'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.2
+      </extid>
+      <num st='1'>
+        631.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='2' psec='' tq='N'>
+              631.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The terms defined shall have the following meaning in this part and in
+          all contracts, forms, documents, instructions, and procedures in
+          connection therewith, unless the contract or subject matter requires
+          otherwise.
+        </P>
+        <P>
+          <E T='03'>
+            Applicant.
+          </E>
+           A land user who has requested in writing to participate in the GPCP.
+        </P>
+        <P>
+          <E T='03'>
+            Area conservationist.
+          </E>
+           The NRCS employee who is the supervisor with primary responsibility
+          for quality control. This person serves as contracting officer if
+          designated by the state conservationist.
+        </P>
+        <P>
+          <E T='03'>
+            Chief.
+          </E>
+           The Chief of the Natural Resources Conservation Service (NRCS), USDA.
+          <PRTPAGE P='503' />
+        </P>
+        <P>
+          <E T='03'>
+            Conservation district (CD).
+          </E>
+           A conservation district, soil conservation district, soil and water
+          conservation district, natural resource district, or similar legally
+          constituted body with which the Secretary of Agriculture cooperates
+          pursuant to the Soil Conservation and Domestic Allotment Act. The
+          members of governing bodies of these organizations may be known as
+          supervisors, directors, or commissioners.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation plan.
+          </E>
+           A written record of the land user&apos;s decisions regarding planned
+          land use and treatment, including estimates of extent and cost. The
+          timing of applications for each practice and/or identifiable unit is
+          scheduled in the conservation plan.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation practice.
+          </E>
+           A specific treatment which is planned and applied according to NRCS
+          standards and specifications as a part of a resource management system
+          for land, water, and related resources.
+        </P>
+        <P>
+          <E T='03'>
+            Contract.
+          </E>
+           A legal document that binds both the participants and the federal
+          government to carry out the terms and conditions of the conservation
+          plan. The contract forms the basis for GPCP sharing the costs of
+          implementing the conservation plan.
+        </P>
+        <P>
+          <E T='03'>
+            Contracting officer.
+          </E>
+           The NRCS employee authorized to sign GPCP contracts on behalf of
+          NRCS.
+        </P>
+        <P>
+          <E T='03'>
+            County program committee.
+          </E>
+           A group of Federal, State, and local officials selected by the
+          designated conservationist. The committee provides ideas to the
+          designated conservationist regarding program development and
+          interagency program coordination.
+        </P>
+        <P>
+          <E T='03'>
+            Designated county.
+          </E>
+           A county within a Great Plains state that the Chief has designated
+          for participation.
+        </P>
+        <P>
+          <E T='03'>
+            Designated conservationist.
+          </E>
+           A district conservationist or other NRCS employee who the state
+          conservationist has designated to be responsible for administration of
+          the GPCP in a designated county.
+        </P>
+        <P>
+          <E T='03'>
+            District conservationist.
+          </E>
+           The NRCS employee assigned to direct and supervise NRCS activities in
+          one or more conservation districts.
+        </P>
+        <P>
+          <E T='03'>
+            Great Plains area.
+          </E>
+           The area comprising those counties within the Great Plains states
+          designated for GPCP participation.
+        </P>
+        <P>
+          <E T='03'>
+            Great Plains states.
+          </E>
+           Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota,
+          Oklahoma, South Dakota, Texas, and Wyoming.
+        </P>
+        <P>
+          <E T='03'>
+            Identifiable unit.
+          </E>
+           A discernibly distinct component of a conservation practice.
+        </P>
+        <P>
+          <E T='03'>
+            Land user.
+          </E>
+           An individual, partnership, firm, joint-stock company, corporation,
+          association, trust, estate, or other nonpublic legal entity having
+          control of a unit of land. This definition includes two or more
+          persons having a joint or common interest.
+        </P>
+        <P>
+          <E T='03'>
+            Life span.
+          </E>
+           The period of time specified in the contract and/or operation and
+          maintenance agreement during which the resource management systems of
+          component practices are to be maintained and used for the intended
+          purpose. Most practices will have a useful life beyond the specified
+          life span.
+        </P>
+        <P>
+          <E T='03'>
+            Operation and maintenance agreement.
+          </E>
+           A document signed by both the participant and the contracting officer
+          outlining the operation and maintenance requirements for applied
+          conservation treatment.
+        </P>
+        <P>
+          <E T='03'>
+            Operating unit.
+          </E>
+           A parcel or parcels of land, whether contiguous or noncontiguous,
+          constituting a single management unit for agricultural purposes.
+        </P>
+        <P>
+          <E T='03'>
+            Other land.
+          </E>
+           Nonagricultural land on which erosion must be controlled to protect
+          agricultural land and which can be covered by contract.
+        </P>
+        <P>
+          <E T='03'>
+            Participant.
+          </E>
+           A land user who is a party to a GPCP contract.
+        </P>
+        <P>
+          <E T='03'>
+            Resource management system.
+          </E>
+           A combination of conservation practices identified by the land or
+          water use that, if installed, will protect or improve the soil or
+          water resource base.
+        </P>
+        <P>
+          <E T='03'>
+            Specifications.
+          </E>
+           Minimum guantity or quality requirements established by NRCS to meet
+          the standard for a specific conservation practice.
+        </P>
+        <P>
+          <E T='03'>
+            State conservationist.
+          </E>
+           The NRCS employee authorized to direct and supervise NRCS activities
+          within the state.
+        </P>
+        <P>
+          <E T='03'>
+            State program committee.
+          </E>
+           A group of Federal, state, and local officials selected by the state
+          conservationist. The committee provides ideas to the state
+          conservationist regarding program development, coordination, general
+          policies, and operating procedures of GPCP in the state.
+          <PRTPAGE P='504' />
+        </P>
+        <P>
+          <E T='03'>
+            Technical assistance.
+          </E>
+           Guidance provided to land users regarding the use and treatment of
+          soil, water, plant, animal, and related resources. This assistance may
+          include conservation plan formulation, application, and maintenance
+          and is usually confined to those activities which the recipient could
+          not reasonably be expected to do without specialized assistance.
+        </P>
+        <P>
+          <E T='03'>
+            Technical guide.
+          </E>
+           A document containing detailed information on the conservation of
+          soil, water, plant, animal, and related resources applicable
+          specifically to the area for which it is prepared.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6280'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.3
+      </extid>
+      <num st='1'>
+        631.3
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='3' psec='' tq='N'>
+              631.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS is responsible for the administration of the Great Plains
+            Conservation Program (GPCP).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The program shall be carried out in close cooperation with
+            interested Federal, state, and local government units and
+            organizations. The program in designated counties shall be
+            coordinated with the long-range program of conservation districts
+            operating in such counties and with other USDA activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants who have USDA-Farmers Home Administration (FmHA) loans
+            must furnish to NRCS satisfactory evidence that the conservation
+            plan used as a basis for the GPCP contract is compatible with
+            assistance provided by FmHA. Such evidence may consist of written
+            acknowledgement by the authorized FmHA official that the GPCP
+            conservation plan is compatible with the farm management plan
+            prepared for FmHA program purposes.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6281'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.4
+      </extid>
+      <num st='1'>
+        631.4
+      </num>
+      <head>
+        Program applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='4' psec='' tq='N'>
+              631.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program applicability.
+        </SUBJECT>
+        <P>
+          The program is applicable only to designated counties within the Great
+          Plains states. County designation is a responsibility of the NRCS
+          Chief.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6282'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.5
+      </extid>
+      <num st='1'>
+        631.5
+      </num>
+      <head>
+        Land user eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='5' psec='' tq='N'>
+              631.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Land user eligibility.
+        </SUBJECT>
+        <P>
+          Any land user in a designated county may file an application for
+          participation in the GPCP with the NRCS field office. A land user who
+          develops an acceptable conservation plan in cooperation with NRCS and
+          the conservation district that is in compliance with the terms and
+          conditions of the program is eligible to sign a contract.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6283'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.6
+      </extid>
+      <num st='1'>
+        631.6
+      </num>
+      <head>
+        Land eligible for the program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='6' psec='' tq='N'>
+              631.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Land eligible for the program.
+        </SUBJECT>
+        <P>
+          The program is applicable to:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Privately owned land,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Nonfederally owned public land under private control for the
+            contract period and included in the participant&apos;s operating
+            unit, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Federally owned land, if installation of conservation practices
+            would directly benefit nearby or adjoining privately owned land of
+            persons who maintain and use the Federal land.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6284'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.7
+      </extid>
+      <num st='1'>
+        631.7
+      </num>
+      <head>
+        Conservation treatment eligible for cost sharing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='7' psec='' tq='N'>
+              631.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation treatment eligible for cost sharing.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The state conservationist, in consultation with the state program
+            committee, shall select the resource management systems,
+            conservation practices, or identifiable units eligible for GPCP cost
+            sharing in the state.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The designated conservationist, in consultation with the county
+            program committee, shall select from the state list the eligible
+            conservation systems, practices, or identifiable units eligible for
+            GPCP cost sharing in the county.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6285'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.8
+      </extid>
+      <num st='1'>
+        631.8
+      </num>
+      <head>
+        Cost-share rates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='8' psec='' tq='N'>
+              631.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cost-share rates.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Federal rate may not exceed 80 percent.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The maximum Federal rate (percentage) within each state for each
+            practice or identifiable unit shall be established by the state
+            conservationist.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The maximum rate (percentage) for each county is established by the
+            designated conservationist not to exceed the state rate
+            (percentage).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The rate (percentage) established by a state conservationist or a
+            designated conservationist shall not exceed the amount necessary and
+            appropriate to apply conservation treatment.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6286'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:A:631.9
+      </extid>
+      <num st='1'>
+        631.9
+      </num>
+      <head>
+        Conservation plan.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='9' psec='' tq='N'>
+              631.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation plan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant is responsible for developing a conservation plan, in
+            cooperation with the conservation district, that protects the
+            resource base in a manner acceptable to NRCS. This plan will be used
+            as a basis for developing a contract. Conservation treatment is to
+            be planned and implemented as a resource management system.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant decides how the land will be used and selects the
+            resource management systems that will 
+            <PRTPAGE P='505' />
+            achieve the applicant&apos;s objectives and provide protection of
+            soil, water, and related resources acceptable to NRCS. Eligible
+            practices may be included in the conservation plan to enhance fish
+            and wildlife and recreation resources, promote the economic use of
+            land, and reduce or control agriculture-related pollution.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Technical assistance will be provided by NRCS, as needed by the
+            land user. NRCS may utilize the services of private, local, state,
+            and other Federal agencies in discharging its responsibilities for
+            technical assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Participants are responsible for accomplishing the conservation
+            plan and may use all available sources of assistance, including
+            other USDA programs that are consistent with the conservation plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             All conservation practices scheduled in the conservation plan are
+            to be carried out in accordance with the applicable NRCS technical
+            guide.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6287'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:B:631.10
+      </extid>
+      <num st='1'>
+        631.10
+      </num>
+      <head>
+        Contracts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='10' psec='' tq='N'>
+              631.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contracts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To participate in the program, an applicant must enter into a
+            contract agreeing to implement a conservation plan. All persons who
+            control or share control of the operating unit for the proposed
+            contract period must sign the contract or one person with
+            power-of-attorney may sign the contract for all persons. The
+            applicant must provide the contracting officer with satisfactory
+            evidence of control of the operating unit for the life of the
+            proposed contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Contracts may be entered into not later than September 30, 1991.
+            The contract shall be for a period needed to establish the
+            conservation treatment scheduled in the conservation plan and must
+            extend at least 3 years but not more than 10 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Contracts may be transferred or modified by mutual consent. The
+            transferee assumes full responsibility for the contract including
+            operation and maintenance of all land treatment installed under the
+            contract. Also included are payments made under the contract to the
+            participant or preceding participants before and after the transfer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Contracts may be terminated by mutual consent or by NRCS for cause.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6288'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:B:631.11
+      </extid>
+      <num st='1'>
+        631.11
+      </num>
+      <head>
+        Conservation practice maintenance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='11' psec='' tq='N'>
+              631.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation practice maintenance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each participant is obligated to maintain the resource management
+            systems or conservation practices applied under the contract for the
+            duration of the contract. Practices installed before execution of
+            the contract are to be maintained as specified in the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the life span of the practices or resource management systems
+            extends beyond the period of the contract, state conservationists
+            may make the operation and maintenance of those practices or systems
+            a condition of the contract. The length of such operation and
+            maintenance shall extend for the expected life span.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6289'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:B:631.12
+      </extid>
+      <num st='1'>
+        631.12
+      </num>
+      <head>
+        Cost-share payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='12' psec='' tq='N'>
+              631.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cost-share payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Federal cost sharing shall be adjusted so that the combined cost
+            share by Federal and state government or subdivision of a state
+            shall not exceed 100 percent of the cost.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Cost-share payments for completing resource management systems or a
+            practice or an identifiable unit according to specifications will be
+            made by NRCS as specified in the contract or as adjusted according
+            to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='631' sect='12' psec='#a' tq='N'>
+                631.12(a)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6290'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:B:631.13
+      </extid>
+      <num st='1'>
+        631.13
+      </num>
+      <head>
+        Disputes and appeals for matters other than contract violations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          60 FR 67316
+        </aref>
+        , Dec. 29, 1995]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='13' psec='' tq='N'>
+              631.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disputes and appeals for matters other than contract violations.
+        </SUBJECT>
+        <P>
+          Applicants or participants may appeal decisions regarding matters
+          other than contract disputes under this part in accordance with 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='614' tq='N'>
+              614 of this title
+            </subref>
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            60 FR 67316
+          </aref>
+          , Dec. 29, 1995]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='6291'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:B:631.14
+      </extid>
+      <num st='1'>
+        631.14
+      </num>
+      <head>
+        Contract violations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='14' psec='' tq='N'>
+              631.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract violations.
+        </SUBJECT>
+        <P>
+          Contract violations, determinations and appeals will be handled in
+          accordance with the terms of the contract and attachments thereto.
+          Violations involving fraud are to be handled in accordance with
+          current USDA regulations.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6292'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:C:631.20
+      </extid>
+      <num st='1'>
+        631.20
+      </num>
+      <head>
+        Setoffs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='20' psec='' tq='N'>
+              631.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Setoffs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If any participant to whom compensation is payable under the
+            program is indebted to U.S. Department of Agriculture (USDA), or any
+            agency thereof, or is indebted to any other agency of the United
+            States, and such indebtedness is listed on the county claim control
+            record maintained in the office of the county ASC committee, the
+            compensation due the participant shall be set off against the
+            indebtedness. Indebtedness owing to USDA, or any agency thereof,
+            shall be given first consideration. Setoffs made pursuant to this
+            section shall not deprive the participant of any right to contest
+            the justness of the indebtedness involved either by administrative
+            appeal or by legal action.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Participants who are indebted to this program for any reason will
+            be placed on the USDA claim control record promptly by the state
+            conservationist after the participant has been given opportunity to
+            pay the debt.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6293'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:C:631.21
+      </extid>
+      <num st='1'>
+        631.21
+      </num>
+      <head>
+        Compliance with regulatory measures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='21' psec='' tq='N'>
+              631.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance with regulatory measures.
+        </SUBJECT>
+        <P>
+          Participants who carry out conservation practices shall be responsible
+          for obtaining the authorities, rights, easements, or other approvals
+          necessary for the implementation and maintenance of the conservation
+          practices in keeping with applicable laws and regulations.
+          Participants shall save the United States harmless from any
+          infringements upon the rights of others or from any failure to comply
+          with applicable laws or regulations.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6294'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:C:631.22
+      </extid>
+      <num st='1'>
+        631.22
+      </num>
+      <head>
+        Access to operating unit.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='22' psec='' tq='N'>
+              631.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to operating unit.
+        </SUBJECT>
+        <P>
+          Any authorized NRCS representative shall have the right to enter an
+          operating unit for the purpose of ascertaining the accuracy of any
+          representations made in a contract or leading up to a contract, and as
+          to the performance of the terms and conditions of the contract. Access
+          shall include the right to measure acreages, render technical
+          assistance, and inspect any work undertaken under the contract.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6295'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:D:631:C:631.23
+      </extid>
+      <num st='1'>
+        631.23
+      </num>
+      <head>
+        State conservationist&apos;s authority.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='631' sect='23' psec='' tq='N'>
+              631.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          State conservationist&apos;s authority.
+        </SUBJECT>
+        <P>
+          The state conservationist may take the initiative to revise or require
+          revision of any determination made by the contracting officer or the
+          district conservationist in connection with the program, except that
+          the state conservationist may not revise any executed contract other
+          than as may specifically be authorized herein.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

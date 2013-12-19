@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXVIII:-:2810
+    </extid>
+    <num>
+      2810
+    </num>
+    <head>
+      ORGANIZATION AND FUNCTIONS—OFFICE OF OPERATIONS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+             and 
+            <subref title='5' sect='552' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              552
+            </subref>
+          </aref>
+          ; 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='76' psec='' tq='N'>
+              2.76
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            54 FR 52013
+          </aref>
+          , Dec. 20, 1989, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15921'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVIII:-:2810:-:2810.1
+      </extid>
+      <num st='1'>
+        2810.1
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2810' sect='1' psec='' tq='N'>
+              2810.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part is issued in accordance with 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a'>
+              5 U.S.C. 552(a)
+            </subref>
+          </aref>
+           to provide guidance for the general public as to Office of Operations
+          (OO) organization and functions.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15922'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVIII:-:2810:-:2810.2
+      </extid>
+      <num st='1'>
+        2810.2
+      </num>
+      <head>
+        Organization.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2810' sect='2' psec='' tq='N'>
+              2810.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Organization.
+        </SUBJECT>
+        <P>
+          The Office of Operations (OO) was established January 12, 1982.
+          Delegations of authority to the Director, OO, appear at 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='76' psec='' tq='N'>
+              2.76
+            </subref>
+          </aref>
+          . The organization is comprised of six divisions and one staff located
+          at Department headquarters. Description of the functions of these
+          organizational units are in the following section. The organization is
+          headed by a Director.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15923'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVIII:-:2810:-:2810.3
+      </extid>
+      <num st='1'>
+        2810.3
+      </num>
+      <head>
+        Functions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2810' sect='3' psec='' tq='N'>
+              2810.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Functions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Director.
+            </head>
+          </npcatch>
+          <text>
+             Provides executive direction for OO. Develops and promulgates
+            overall policies and provides general direction, leadership,
+            oversight, and coordination of USDA management of procurement, real
+            and personal property activities, mail and copier management.
+            Provides executive services to the Office of the Secretary and
+            operates activities providing consolidated USDA administrative
+            functions and services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Deputy Director.
+            </head>
+          </npcatch>
+          <text>
+             Assists the Director, and in the absence of the Director, serves as
+            Acting Director.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Administrative Unit.
+            </head>
+          </npcatch>
+          <text>
+             Provides support for agency management regarding budget,
+            accounting, personnel, and other administrative matters.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Executive Services Division.
+            </head>
+          </npcatch>
+          <text>
+             Provides executive services to the Office of the Secretary in
+            travel arrangements, supplies, furnishings, communications,
+            equipment, and records. Operates the central USDA DC imprest fund.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Facilities Management Division.
+            </head>
+          </npcatch>
+          <text>
+             Operates and maintains the USDA DC headquarters building complex,
+            including headquarters parking. Oversees management and operation of
+            USDA buildings nationwide, and provides DC area labor services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Mail and Reproduction Management Division.
+            </head>
+          </npcatch>
+          <text>
+             Oversees USDA mail, copier, and duplicating programs. Operates DC
+            area central activities in these areas.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Personal Property Management Division.
+            </head>
+          </npcatch>
+          <text>
+             Oversees USDA supply, motor vehicle, and personal property
+            programs. Operates centralized warehouse and property rehabilitation
+            facilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Procurement Division.
+            </head>
+          </npcatch>
+          <text>
+             Oversees USDA procurement programs. Operates centralized purchasing
+            operations for ADP and Washington area activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Real Property Management Division.
+            </head>
+          </npcatch>
+          <text>
+             Oversees USDA real property management programs.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

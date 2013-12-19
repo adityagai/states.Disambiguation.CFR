@@ -1,0 +1,11 @@
+@relation 'C__Users_Prasannjit Kumar_workspace_project_src_mengg_data_tests_testingData_North Dakota'
+
+@attribute text string
+@attribute @@class@@ {negative,positive}
+
+@data
+'916, North Dakota Nectarines\t0581-0072',negative
+'927, Oregon-Washington-North Dakota Winter Pears\t0581-0089',negative
+'(ii) Region #2 Midwest Region (all states east of the Rockies to the Great Lakes and south to the Kansas/Missouri/Kentucky state line): Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.',positive
+'kra may be imported into Alaska, Colorado, Connecticut, Delaware, Hawaii, Idaho, Indiana, Iowa, Kansas, Maine, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, New York, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Dakota, Utah, Vermont, Washington, West Virginia, Wisconsin, Wyoming, the District of Columbia, or the U.S. Virgin Islands, or any part of Illinois, Kentucky, Missouri, or Virginia, north of the 38th parallel, subject to the requirements of § 319.56-3.',positive
+'All other states except Alaska, Arizona, California, Maine, Minnesota, Nevada, New Hampshire, North Dakota, Utah, and Vermont.',positive

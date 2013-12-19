@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol4'>
+    <extid>
+      lii:cfr:2013:7:0:B:II:A:240
+    </extid>
+    <num>
+      240
+    </num>
+    <head>
+      CASH IN LIEU OF DONATED FOODS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='42' sect='612c' note='notes' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/612c.html'>
+              42 U.S.C. 612c note,
+            </subref>
+          </aref>
+           1751, 1755, 1762a, 1765, 1766, 1779.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            47 FR 15982
+          </aref>
+          , Apr. 13, 1982, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='4652'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.1
+      </extid>
+      <num st='1'>
+        240.1
+      </num>
+      <head>
+        General purpose and scope.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          47 FR 15982
+        </aref>
+        , Apr. 13, 1982, as amended at 
+        <aref type='FREGIST'>
+          52 FR 7267
+        </aref>
+        , Mar. 10, 1987; 
+        <aref type='FREGIST'>
+          58 FR 39120
+        </aref>
+        , July 22, 1993]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='1' psec='' tq='N'>
+              240.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General purpose and scope.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each school year the Department programs agricultural commodities
+            and other foods to States for delivery to program and commodity
+            schools, nonresidential child care institutions, and service
+            institutions pursuant to the regulations governing the donation of
+            foods for use in the United States, its territories and possessions
+            and areas under its jurisdiction (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='250' tq='N'>
+                250
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Section 6(b) of
+            </aref>
+             the Act requires that not later than June 1 of each school year,
+            the Secretary shall make an estimate of the value of the
+            agricultural commodities and other foods that will be delivered
+            during that school year for use in lunch programs by schools
+            participating in the National School Lunch Program (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='210' tq='N'>
+                210
+              </subref>
+            </aref>
+            ). If this estimate is less than the total level of assistance
+            authorized under 
+            <aref type='UNKNOWN'>
+              section 6(e) of
+            </aref>
+             the Act the Secretary shall pay to the State administering agency
+            not later than July 1 of that school year, an amount of funds equal
+            to the difference between the value of donated foods as then
+            programmed for that school year and the total level of assistance
+            authorized under such section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Section 6(e)(1) of
+            </aref>
+             the Act requires:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             That for each school year, the total commodity assistance, or cash
+            in lieu thereof, available to each State for the National School
+            Lunch Program shall be the amount obtained by multiplying the
+            national average value of donated foods, described in paragraph
+            (c)(2) of this section, by the number of 
+            <PRTPAGE P='310' />
+            lunches served in that State in the preceding school year; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             That the national average value of foods donated to schools
+            participating in the National School Lunch Program, or cash payments
+            made in lieu thereof, shall be 11 cents, adjusted on July 1, 1982,
+            and each July 1 thereafter to reflect changes in the Price Index for
+            Food Used in Schools and Institutions. 
+            <aref type='CFR-TIC-SECT'>
+              Section 6(e)(1)
+            </aref>
+             further requires that not less than 75 percent of the assistance
+            under that section shall be in the form of donated foods for the
+            National School Lunch Program. After the end of each school year,
+            FNS shall reconcile the number of lunches served by schools in each
+            State with the number served in the preceding school year and, based
+            on such reconciliation, shall increase or reduce subsequent
+            commodity assistance or cash in lieu thereof provided to each State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Section 12(g) of
+            </aref>
+             the Act provides that whoever embezzles, willfully misapplies,
+            steals, or obtains by fraud any funds, assets, or property that are
+            the subject of a grant or other form of assistance under this Act or
+            the Child Nutrition Act of 1966, whether received directly or
+            indirectly from the United States Department of Agriculture, or
+            whoever receives, conceals, or retains such funds, assets, or
+            property to his use or gain, knowing such funds, assets, or property
+            have been embezzled, willfully misapplied, stolen, or obtained by
+            fraud shall, if such funds, assets, or property are of the value of
+            $100 or more, be fined not more than $10,000 or imprisoned not more
+            than five years, or both, or, if such funds, assets, or property are
+            of a value of less than $100, shall be fined not more than $1,000 or
+            imprisoned for not more than one year, or both.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Section 14(f) of
+            </aref>
+             the Act provides that the value of foods donated to States for use
+            in commodity schools for any school year shall be the sum of the
+            national average value of donated foods established under 
+            <aref type='UNKNOWN'>
+              section 6(e) of
+            </aref>
+             the Act and the national average payment established under 
+            <aref type='UNKNOWN'>
+              section 4 of
+            </aref>
+             the Act. 
+            <aref type='CFR-TIC-SECT'>
+              Section 14(f)
+            </aref>
+             also provides that such schools shall be eligible to receive up to
+            five cents of such value in cash for processing and handling
+            expenses related to the use of the donated foods.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Sections 17(h)(1) (B) and (C) of
+            </aref>
+             the Act provide that the value of commodities, or cash in lieu
+            thereof, donated to States for use in nonresidential child or adult
+            care institutions participating in the Child and Adult Care Food
+            Program (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='226' tq='N'>
+                226
+              </subref>
+            </aref>
+            ) for any school year shall be, at a minimum, the amount obtained by
+            multiplying the number of lunches and suppers served during the
+            preceding school year by the rate established for lunches for that
+            school year under 
+            <aref type='UNKNOWN'>
+              section 6(e) of
+            </aref>
+             the Act. At the end of each school year, FNS shall reconcile the
+            number of lunches and suppers served in participating institutions
+            in each State during such school year with the number of lunches and
+            suppers served in the preceding school year and, based on such
+            reconciliation, shall increase or reduce subsequent commodity
+            assistance or cash in lieu of commodities provided to each State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Section 16 of
+            </aref>
+             the Act provides that a State which has phased out its food
+            distribution facilities prior to June 30, 1974, may elect to receive
+            cash payments in lieu of donated foods for the purposes of the
+            applicable child nutrition programs—i.e., the National School Lunch
+            Program, the Summer Food Service Program for Children (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='225' tq='N'>
+                225
+              </subref>
+            </aref>
+            ) and the Child Care Food Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             These regulations prescribe the methods for determination of the
+            amount of payments, the manner of disbursement and the requirements
+            for accountability for funds when these respective statutory
+            authorities require the Department to make cash payments in lieu of
+            donating agricultural commodities and other foods.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            47 FR 15982
+          </aref>
+          , Apr. 13, 1982, as amended at 
+          <aref type='FREGIST'>
+            52 FR 7267
+          </aref>
+          , Mar. 10, 1987; 
+          <aref type='FREGIST'>
+            58 FR 39120
+          </aref>
+          , July 22, 1993]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4653'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.2
+      </extid>
+      <num st='1'>
+        240.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='2' psec='' tq='N'>
+              240.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          For the purpose of this part the term:
+        </P>
+        <P>
+          <E T='03'>
+            Act
+          </E>
+           means the National School Lunch Act, as amended.
+        </P>
+        <P>
+          <E T='03'>
+            Child Care Food Program
+          </E>
+           means the Program authorized by 
+          <aref type='UNKNOWN'>
+            section 17 of
+          </aref>
+           the Act.
+        </P>
+        <P>
+          <E T='03'>
+            Commodity school
+          </E>
+           means a school that does not participate in the National School Lunch
+          Program under 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='210' tq='N'>
+              210 of this chapter
+            </subref>
+          </aref>
+           but which operates a 
+          <PRTPAGE P='311' />
+          nonprofit lunch program under agreement with the State educational
+          agency or FNSRO and receives donated foods, or donated foods and cash
+          or services of a value of up to 5 cents per lunch in lieu of donated
+          foods under this part for processing and handling the foods.
+        </P>
+        <P>
+          <E T='03'>
+            Department
+          </E>
+           means the U.S. Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Distributing agencies
+          </E>
+           means State, Federal or private agencies which enter into agreements
+          with the Department for the distribution of donated foods to program
+          schools, commodity schools, and nonresidential child care
+          institutions.
+        </P>
+        <P>
+          <E T='03'>
+            Donated-food processing and handling expenses
+          </E>
+           means any expenses incurred by or on behalf of a commodity school for
+          processing or other aspects of the preparation, delivery, and storage
+          of donated foods for use in its lunch program.
+        </P>
+        <P>
+          <E T='03'>
+            Donated foods
+          </E>
+           means foods donated, or available for donation, by the Department
+          under any of the legislation referred to in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='250' tq='N'>
+              250 of this chapter
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Fiscal year
+          </E>
+           means the period of 12 months beginning October 1 of any calendar
+          year and ending September 30 of the following calendar year.
+        </P>
+        <P>
+          <E T='03'>
+            FNS
+          </E>
+           means the Food and Nutrition Service of the Department.
+        </P>
+        <P>
+          <E T='03'>
+            FNSRO
+          </E>
+           means the appropriate Food and Nutrition Service Regional Office.
+        </P>
+        <P>
+          <E T='03'>
+            National School Lunch Program
+          </E>
+           means the Program authorized by 
+          <aref type='UNKNOWN'>
+            sections 4 and 11 of
+          </aref>
+           the Act.
+        </P>
+        <P>
+          <E T='03'>
+            Nonprofit
+          </E>
+           means exempt from income tax under 
+          <aref type='UNKNOWN'>
+            section 501(c)(3) of
+          </aref>
+           the Internal Revenue Code of 1954, as amended; or in the Commonwealth
+          of Puerto Rico, certified as nonprofit by its Governor.
+        </P>
+        <P>
+          <E T='03'>
+            Nonresidential child care institution
+          </E>
+           means any child care center, day care home, or sponsoring
+          organization (as those terms are defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='226' tq='N'>
+              226 of this chapter
+            </subref>
+          </aref>
+          ) which participates in the Child Care Food Program.
+        </P>
+        <P>
+          <E T='03'>
+            Program school
+          </E>
+           means a school which participates in the National School Lunch
+          Program.
+        </P>
+        <P>
+          <E T='03'>
+            School
+          </E>
+           means (1) an educational unit of high school grade or under except
+          for a private school with an average yearly tuition exceeding $1,500
+          per child, operating under public or nonprofit private ownership in a
+          single building or complex of buildings. The term “high school grade
+          or under” includes classes of preprimary grade when they are conducted
+          in a school having classes of primary or higher grade, or when they
+          are recognized as a part of the educational system in the State,
+          regardless of whether such preprimary grade classes are conducted in a
+          school having classes of primary or higher grade; (2) with the
+          exception of residential summer camps which participate in the Summer
+          Food Service Program for Children, Job Corps centers funded by the
+          Department of Labor and private foster homes, any public or nonprofit
+          private child care institution, or distinct part of such institution,
+          which (i) maintains children in residence, (ii) operates principally
+          for the care of children, and (iii) if private, is licensed to provide
+          residential child care services under the appropriate licensing code
+          by the State or a subordinate level of government. The term “child
+          care institutions” includes, but is not limited to: homes for the
+          mentally retarded, the emotionally disturbed, the physically
+          handicapped, and unmarried mothers and their infants; group homes;
+          halfway houses; orphanages; temporary shelters for abused children and
+          for runaway children; long-term care facilities for chronically ill
+          children; and juvenile detention centers; and (3) with respect to the
+          Commonwealth of Puerto Rico, nonprofit child care centers certified as
+          such by the Governor of Puerto Rico.
+        </P>
+        <P>
+          <E T='03'>
+            School food authority
+          </E>
+           means the governing body which is responsible for the administration
+          of one or more schools and which has the legal authority to operate a
+          nonprofit lunch program therein.
+        </P>
+        <P>
+          <E T='03'>
+            School year
+          </E>
+           means the period of 12 months beginning July 1 of any calendar year
+          and ending June 30 of the following calendar year.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Service institutions
+          </E>
+           means camps or sponsors (as those terms are defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='225' tq='N'>
+              225 of this chapter
+            </subref>
+          </aref>
+          ) which participate in the Summer Food Service Program for Children.
+          <PRTPAGE P='312' />
+        </P>
+        <P>
+          <E T='03'>
+            Special needs children
+          </E>
+           means children who are emotionally, mentally or physically
+          handicapped.
+        </P>
+        <P>
+          <E T='03'>
+            State
+          </E>
+           means any of the 50 States, the District of Columbia, the
+          Commonwealth of Puerto Rico, the Virgin Islands, Guam, American-Samoa,
+          the Trust Territory of the Pacific Islands, or the Commonwealth of the
+          Northern Mariana Islands.
+        </P>
+        <P>
+          <E T='03'>
+            State agency
+          </E>
+           means the State educational agency or such other agency of the State
+          as has been designated by the Governor or other appropriate executive
+          or legislative authority of the State and approved by the Department
+          to administer, in the State, the National School Lunch Program, the
+          Child Care Food Program, the Summer Food Service Program for Children,
+          or nonprofit lunch programs in commodity schools.
+        </P>
+        <P>
+          <E T='03'>
+            State educational agency
+          </E>
+           means, as the State legislature may determine, (1) the chief State
+          school officer (such as the State Superintendent of Public
+          Instruction, Commissioner of Education, or similar officer), or (2) a
+          board of education controlling the State Department of Education.
+        </P>
+        <P>
+          <E T='03'>
+            Summer Food Service Program for Children
+          </E>
+           means the Program authorized by 
+          <aref type='UNKNOWN'>
+            section 13 of
+          </aref>
+           the Act.
+        </P>
+        <P>
+          <E T='03'>
+            Tuition
+          </E>
+           means any educational expense required by the school as part of the
+          students&apos; educational program; not including transportation fees
+          for commuting to and from school, and the cost of room and board. The
+          following monies shall not be included when calculating a
+          school&apos;s average yearly tuition per child:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Academic scholarship aid from public or private organizations or
+            entities given to students, or to schools for students, and (2)
+            state, county or local funds provided to schools operating
+            principally for the purpose of educating handicapped or other
+            special needs children for whose education the State, county or
+            local government is primarily or solely responsible. In a school
+            which varies tuition, the average yearly tuition shall be calculated
+            by dividing the total tuition receipts for the current school year
+            by the total number of students enrolled for purposes of determining
+            if the average yearly tuition exceeds $1,500 per child.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4654'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.3
+      </extid>
+      <num st='1'>
+        240.3
+      </num>
+      <head>
+        Cash in lieu of donated foods for program schools.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          47 FR 15982
+        </aref>
+        , Apr. 13, 1982, as amended at 
+        <aref type='FREGIST'>
+          52 FR 7267
+        </aref>
+        , Mar. 10, 1987; 
+        <aref type='FREGIST'>
+          58 FR 39120
+        </aref>
+        , July 22, 1993]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='3' psec='' tq='N'>
+              240.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cash in lieu of donated foods for program schools.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Not later than June 1 of each school year, FNS shall make an
+            estimate of the value of agricultural commodities and other foods
+            that will be delivered to States during the school year under the
+            food distribution regulations (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='250' tq='N'>
+                250
+              </subref>
+            </aref>
+            ) for use in program schools. If the estimated value is less than
+            the total value of assistance authorized under 
+            <aref type='UNKNOWN'>
+              section 6(e) of
+            </aref>
+             the Act for the National School Lunch Program, FNS shall determine
+            the difference between the value of the foods then programmed for
+            each State for the school year and the required value and shall pay
+            the difference to each State agency not later than July 1 of that
+            school year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding any other provision of this section, in any State
+            in which FNS administers the National School Lunch Program in any of
+            the schools of the State, FNS shall withhold from the funds payable
+            to that State under this section an amount equal to the ratio of the
+            number of lunches served in schools in which the program is
+            administered by FNS to the total number of lunches served in all
+            program schools in the State.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            47 FR 15982
+          </aref>
+          , Apr. 13, 1982, as amended at 
+          <aref type='FREGIST'>
+            52 FR 7267
+          </aref>
+          , Mar. 10, 1987; 
+          <aref type='FREGIST'>
+            58 FR 39120
+          </aref>
+          , July 22, 1993]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4655'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.4
+      </extid>
+      <num st='1'>
+        240.4
+      </num>
+      <head>
+        Cash in lieu of donated foods for nonresidential child and adult care
+        institutions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          47 FR 15982
+        </aref>
+        , Apr. 13, 1982, as amended at 
+        <aref type='FREGIST'>
+          58 FR 39120
+        </aref>
+        , July 22, 1993]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='4' psec='' tq='N'>
+              240.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cash in lieu of donated foods for nonresidential child and adult care
+          institutions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For each school year any State agency may, upon application to FNS
+            prior to the beginning of the school year, elect to receive cash in
+            lieu of donated foods for use in nonresidential child care or adult
+            care institutions participating in the Child and Adult Care Food
+            Program. FNS shall pay each State agency making such election, at a
+            minimum, an amount calculated by multiplying the number of lunches
+            and suppers served in the State&apos;s nonresidential child and
+            adult care institutions which meet the meal pattern requirements
+            prescribed in the regulations for the Child and Adult Care Food
+            Program under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='226' tq='N'>
+                226 of this chapter
+              </subref>
+            </aref>
+             by the national average value of donated food prescribed in 
+            <aref type='UNKNOWN'>
+              section 6(e)(1) of
+            </aref>
+             the Act. However, if a 
+            <PRTPAGE P='313' />
+            State agency has elected to receive a combination of donated foods
+            and cash, the required amount shall be reduced based upon the number
+            of such lunches and suppers served for which the State receives
+            donated foods.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding any other provision of this section in any State in
+            which FNS administers the Child Care Food Program in any
+            nonresidential child care institution, FNS shall withhold from the
+            funds payable to such State under this section an amount equal to
+            the ratio of the number of lunches and suppers served in such
+            institutions in which the program is administered by the FNS and for
+            which cash payments are provided to the total number of lunches and
+            suppers served in that program and for which cash in lieu of
+            payments are received, in all nonresidential child care institutions
+            in the State.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            47 FR 15982
+          </aref>
+          , Apr. 13, 1982, as amended at 
+          <aref type='FREGIST'>
+            58 FR 39120
+          </aref>
+          , July 22, 1993]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4656'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.5
+      </extid>
+      <num st='1'>
+        240.5
+      </num>
+      <head>
+        Cash in lieu of donated foods for commodity schools.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='5' psec='' tq='N'>
+              240.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cash in lieu of donated foods for commodity schools.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The school food authority of a commodity school may elect (1) to
+            receive cash payments in lieu of up to five cents per lunch of the
+            value specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='250' sect='4' psec='#b_2_ii' tq='N'>
+                250.4(b)(2)(ii)
+              </subref>
+               of this chapter
+            </aref>
+             to be used for donated-food processing and handling expenses, or
+            (2) to have such payments retained for use on its behalf by the
+            State agency. The school food authority shall consult with commodity
+            schools before making the election.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             When a school food authority makes an election regarding receipt of
+            cash payments and the amount of any payments to be received under
+            this paragraph, such election shall be binding on the school food
+            authority for the school year to which the election applies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The State agency shall (1) no later than May 14, 1982 for the
+            school year ending June 30, 1982, and no later than August 15 of
+            each subsequent school year, contact all school food authorities of
+            commodity schools to learn their election regarding cash payments
+            under this section and the amount of any such payments, and (2)
+            forward this information to the distributing agency and FNSRO, in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='210' sect='14' psec='#d_2' tq='N'>
+                210.14(d)(2)
+              </subref>
+               of this chapter
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4657'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.6
+      </extid>
+      <num st='1'>
+        240.6
+      </num>
+      <head>
+        Funds for States which have phased out facilities.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          47 FR 15982
+        </aref>
+        , Apr. 13, 1982, as amended at 
+        <aref type='FREGIST'>
+          58 FR 39120
+        </aref>
+        , July 22, 1993]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='6' psec='' tq='N'>
+              240.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Funds for States which have phased out facilities.
+        </SUBJECT>
+        <P>
+          Notwithstanding any other provision of this part, any State which
+          phased out its food distribution facilities prior to June 30, 1974,
+          may, for purposes of the National School Lunch Program, the Summer
+          Food Service Program for Children, and the Child Care Food Program,
+          elect to receive cash payments in lieu of donated foods. Where such an
+          election is made, FNS shall make cash payments to such State in an
+          amount equivalent in value to the donated foods (or cash in lieu
+          thereof) to which the State would otherwise have been entitled under 
+          <aref type='UNKNOWN'>
+            section 6(e) of
+          </aref>
+           the Act, if it had retained its food distribution facilities, except
+          that the amount may be based on the number of meals served in the
+          current school year, rather than on the number of meals served in the
+          preceding school year with a subsequent reconciliation.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            47 FR 15982
+          </aref>
+          , Apr. 13, 1982, as amended at 
+          <aref type='FREGIST'>
+            58 FR 39120
+          </aref>
+          , July 22, 1993]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4658'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.7
+      </extid>
+      <num st='1'>
+        240.7
+      </num>
+      <head>
+        Payments to States.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='7' psec='' tq='N'>
+              240.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments to States.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Funds to be paid to any State agency under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='240' sect='3' psec='' tq='N'>
+                240.3
+              </subref>
+               of this part
+            </aref>
+             for disbursement to program schools shall be made available by
+            means of United States Treasury Department checks. The State agency
+            shall use the funds received without delay for the purpose for which
+            issued.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Funds to be paid to any State agency under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='240' sect='4' psec='#a' tq='N'>
+                240.4(a)
+              </subref>
+            </aref>
+             for disbursement to nonresidential child care institutions and
+            funds to be paid to any State agency under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='240' sect='6' psec='' tq='N'>
+                240.6
+              </subref>
+            </aref>
+             for disbursement to program schools, service institutions, or
+            nonresidential child care institutions shall be made available by
+            means of Letters of Credit issued by FNS in favor of the State
+            agency. The State agency shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Obtain funds needed to pay school food authorities, nonresidential
+            child care institutions, and service institutions, as applicable
+            through presentation by designated State Officials of a Payment
+            Voucher on Letter of Credit (Treasury Form GFO 7578) in accordance
+            with procedures prescribed by 
+            <PRTPAGE P='314' />
+            FNS and approved by the United States Treasury Department;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Submit requests for funds on a monthly basis in such amounts as
+            necessary to make payments with respect to meals served the previous
+            month;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Use the funds received without delay for the purpose for which
+            drawn.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             FNS shall make any cash payments elected under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='240' sect='5' psec='' tq='N'>
+                240.5
+              </subref>
+               of this part
+            </aref>
+             by increasing the amount of the Letter of Credit or, where
+            applicable, of the Federal Treasury check, in accordance with the
+            information provided under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='240' sect='5' psec='#c' tq='N'>
+                240.5(c)
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Funds received by State agencies pursuant to this part for
+            disbursement to program schools and to commodity schools shall not
+            be subject to the matching provisions of 
+            <aref type='UNKNOWN'>
+              § 210.6 of
+            </aref>
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='210' tq='N'>
+                210 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4659'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.8
+      </extid>
+      <num st='1'>
+        240.8
+      </num>
+      <head>
+        Payments to program schools, service institutions, nonresidential child
+        care institutions and commodity schools.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='8' psec='' tq='N'>
+              240.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments to program schools, service institutions, nonresidential
+          child care institutions and commodity schools.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each State agency shall promptly and equitably disburse any cash
+            received in lieu of donated foods under this part to eligible
+            program schools, service institutions and nonresidential child care
+            institutions, as applicable. Funds withheld from States under 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='240' sect='3' psec='' tq='N'>
+                240.3
+              </subref>
+               and 
+              <subref title='7' part='240' sect='4' psec='' tq='N'>
+                240.4
+              </subref>
+            </aref>
+             shall be disbursed to eligible program schools, service
+            institutions, and nonresidential child care institutions by
+            FNSRO&apos;s in the same manner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Unless the school food authority of a commodity school elects to
+            have cash payments for donated-food processing and handling expenses
+            retained for use on its behalf by the State agency, the State agency
+            shall make such payments to the school food authority of such a
+            school on a monthly basis in an amount equal to the number of
+            lunches served (as reported in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='210' sect='13' psec='#a' tq='N'>
+                210.13(a)
+              </subref>
+               of this chapter
+            </aref>
+            ) times the value per lunch elected by the school food authority in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='240' sect='5' psec='' tq='N'>
+                240.5
+              </subref>
+               of this part
+            </aref>
+            . For the period November 11, 1981, through the close of the month
+            in which this part is published in the 
+            <E T='04'>
+              Federal Register,
+            </E>
+             a retroactive payment shall be made, where applicable, to the
+            school food authority of a commodity school based on the number of
+            lunches served during that period which meet the nutritional
+            requirements specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='210' sect='10' psec='' tq='N'>
+                210.10
+              </subref>
+               of this chapter
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4660'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.9
+      </extid>
+      <num st='1'>
+        240.9
+      </num>
+      <head>
+        Use of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='9' psec='' tq='N'>
+              240.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Use of funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Funds made available to school food authorities (for program
+            schools), service institutions and nonresidential child care
+            institutions under this part shall be used only to purchase United
+            States agricultural commodities and other foods for use in their
+            food service under the National School Lunch Program, Child Care
+            Food Program, or Summer Food Service Program for Children, as
+            applicable. Such foods shall be limited to those necessary to meet
+            the requirements set forth in 
+            <aref type='UNKNOWN'>
+              § 210.10 of
+            </aref>
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='210' tq='N'>
+                210 of this chapter
+              </subref>
+            </aref>
+            , 
+            <aref type='UNKNOWN'>
+              § 225.10 of
+            </aref>
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='225' tq='N'>
+                225 of this chapter
+              </subref>
+            </aref>
+             and 
+            <aref type='UNKNOWN'>
+              § 226.10 of
+            </aref>
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='226' tq='N'>
+                226 of this chapter
+              </subref>
+            </aref>
+            , respectively. On or before disbursing funds to school food
+            authorities (for program schools), service institutions and
+            nonresidential child care institutions, State agencies and
+            FNSRO&apos;s shall notify them of the reason for special
+            disbursement, the purpose for which these funds may be used, and, if
+            possible, the amount of funds they will receive.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Cash payments received under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='240' sect='5' psec='' tq='N'>
+                240.5
+              </subref>
+               of this part
+            </aref>
+             shall be used only to pay donated-food processing and handling
+            expenses of commodity schools.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Funds provided under this part shall be subject to the
+            Department&apos;s Uniform Federal Assistance Regulations (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4661'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.10
+      </extid>
+      <num st='1'>
+        240.10
+      </num>
+      <head>
+        Unobligated funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='10' psec='' tq='N'>
+              240.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Unobligated funds.
+        </SUBJECT>
+        <P>
+          State agencies shall release to FNS any funds paid to them under this
+          part which are unobligated at the end of each fiscal year. Release of
+          funds by any State agency shall be made as soon as practicable, but in
+          any event, not later than 30 days following demand by FNS. Release of
+          funds shall be reflected by a related adjustment in the State
+          agency&apos;s Letter of Credit where appropriate or payment by State
+          check where the funds have been paid by United States Treasury
+          Department check.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4662'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:A:240:-:240.11
+      </extid>
+      <num st='1'>
+        240.11
+      </num>
+      <head>
+        Records and reports.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='315' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='240' sect='11' psec='' tq='N'>
+              240.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Records and reports.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             State agencies and distributing agencies shall maintain records and
+            reports on the receipt and disbursement of funds made available
+            under this part, and shall retain such records and reports for a
+            period of three years after the end of the fiscal year to which they
+            pertain, except that, if audit findings have not been resolved, the
+            records shall be retained beyond the three-year period as long as
+            required for the resolution of the issues raised by the audit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             State agencies shall establish controls and procedures which will
+            assure that the funds made available under this part are not
+            included in determining the State&apos;s matching requirements under
+            
+            <aref type='UNKNOWN'>
+              § 210.6 of
+            </aref>
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='210' tq='N'>
+                210 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

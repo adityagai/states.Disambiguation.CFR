@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:B:611
+    </extid>
+    <num>
+      611
+    </num>
+    <head>
+      SOIL SURVEYS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='590a-590f' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/590a-590f.html'>
+              16 U.S.C. 590a-590f
+            </subref>
+            , 
+            <subref title='16' sect='590q' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/590q.html'>
+              590q
+            </subref>
+            , 
+            <subref title='16' sect='42' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/42.html'>
+              42
+            </subref>
+          </aref>
+           U.S.C. 3271-3274.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            69 FR 60283
+          </aref>
+          , Oct. 8, 2004, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6150'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:611:A:611.1
+      </extid>
+      <num st='1'>
+        611.1
+      </num>
+      <head>
+        Purpose and scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='611' sect='1' psec='' tq='N'>
+              611.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and scope.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This part sets forth policy on soil survey operations of the
+            Natural Resources Conservation Service (NRCS).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS is responsible for soil survey activities of the U.S.
+            Department of Agriculture (USDA). A soil survey provides:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An orderly, on-the-ground, scientific inventory of soil resources
+            according to their potentialities and problems of use; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Information about each kind of soil in sufficient detail to meet
+            all reasonable needs of farmers, agricultural technicians, community
+            planners, engineers, and scientists in planning and transferring the
+            findings of research and experience to specific land areas.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6151'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:611:A:611.2
+      </extid>
+      <num st='1'>
+        611.2
+      </num>
+      <head>
+        Cooperative relationships.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='611' sect='2' psec='' tq='N'>
+              611.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cooperative relationships.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Soil surveys on nonfederal lands are carried out cooperatively with
+            State agricultural experiment stations and other State agencies. The
+            cooperative effort is evidenced in a memorandum of understanding
+            setting forth guidelines for actions to be taken by each cooperating
+            party in the performance of soil surveys. Similar cooperative
+            arrangements exist between NRCS and other Federal agencies for soil
+            surveys on Federal lands.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Arrangements for nonfederal financial participation in the cost of
+            soil surveys may be made with States, counties, soil conservation
+            districts, planning agencies, and other local groups.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6152'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:611:B:611.10
+      </extid>
+      <num st='1'>
+        611.10
+      </num>
+      <head>
+        Standards, guidelines, and plans.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='611' sect='10' psec='' tq='N'>
+              611.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Standards, guidelines, and plans.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS conducts soil surveys under national standards and guidelines
+            for naming, classifying, and interpreting soils and for
+            disseminating soil survey information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A soil survey Memorandum of Understanding (MOU) is prepared prior
+            to the start of each soil survey project, or a work plan is prepared
+            for soil survey maintenance activities. These documents provide
+            specific details and technical specifications to support the
+            interpretive and data needs of the area to be surveyed. The MOU is
+            signed by representatives of NRCS, land grant universities, and in
+            some States representatives of other State agencies. Federal land
+            administering agencies also sign the MOU if federal lands are
+            included in the survey.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6153'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:611:B:611.11
+      </extid>
+      <num st='1'>
+        611.11
+      </num>
+      <head>
+        Soil survey information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='611' sect='11' psec='' tq='N'>
+              611.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Soil survey information.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Availability.
+            </head>
+          </npcatch>
+          <text>
+             NRCS disseminates soil survey information to the public by any of
+            the means described in paragraph (d) of this section. NRCS makes
+            soil survey information available as soon as is practicable
+            following field work or other soil survey activity that provides new
+            soil survey information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Content.
+            </head>
+          </npcatch>
+          <text>
+             Soil survey information conforms with standards and meets the 
+            <PRTPAGE P='456' />
+            needs identified in the soil survey MOU or work plan as described in
+            
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='611' sect='10' psec='' tq='N'>
+                611.10
+              </subref>
+               of this part
+            </aref>
+            . Soil survey information includes:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Soil maps that delineate the location and extent of various soil
+            areas;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Soil characteristics for each of the soil areas shown on soil maps;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Interpretations of the soil characteristics; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Information about the source, version, and applicability or
+            limitations associated with the soil survey information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Maintenance.
+            </head>
+          </npcatch>
+          <text>
+             Soil survey information is reviewed on a periodic basis to ensure
+            that the information continues to meet evolving needs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Distribution.
+            </head>
+          </npcatch>
+          <text>
+             Soil survey information is disseminated to the public through
+            electronically accessible maps and reports, electronic access to
+            data files, or printed documents. To the extent practicable, as
+            limited by commonly accepted technology, soil survey information is
+            disseminated in electronic form.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Resource conservation plan data.
+            </head>
+          </npcatch>
+          <text>
+             Information prepared specifically for use in developing resource
+            conservation plans for soil conservation district cooperators is
+            considered confidential. Soil maps and interpretations prepared for
+            this use will not be made available to others without the consent of
+            the landowner as well as the district governing body. However, soil
+            survey information from which the conservation plan was developed
+            may be disseminated as described in paragraph (a) of this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6154'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:611:C:611.20
+      </extid>
+      <num st='1'>
+        611.20
+      </num>
+      <head>
+        Function.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='611' sect='20' psec='' tq='N'>
+              611.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Function.
+        </SUBJECT>
+        <P>
+          The NRCS National Cartography and Geospatial Center provides
+          cartographic services needed to carry out NRCS functions. Cartographic
+          services include general cartography, photogrammetry, aerial
+          photography, planimetric and topographic mapping, drafting, and
+          specialized types of reproduction.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6155'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:611:C:611.21
+      </extid>
+      <num st='1'>
+        611.21
+      </num>
+      <head>
+        Availability of aerial photography.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='611' sect='21' psec='' tq='N'>
+              611.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of aerial photography.
+        </SUBJECT>
+        <P>
+          The National Cartography and Geospatial Center obtains necessary
+          clearance for all aerial photography for NRCS. New aerial photography
+          of designated areas in the United States is obtained yearly by NRCS
+          through competitive contracting. This photography is obtained only
+          after it is determined that imagery of these areas available from
+          other sources does not meet NRCS scale and quality requirements.
+          Orders for reproductions of NRCS aerial photography are subject to the
+          fee schedule cited in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='2' psec='#b' tq='N'>
+              1.2(b)
+            </subref>
+             of this title
+          </aref>
+          . Order reproductions from the National Cartography and Geospatial
+          center: USDA—National Resources Conservation Service; P.O. Box 6567,
+          FWFC-Bldg. 23; 501 W. Felix Street; Forth Worth, Texas 76115.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6156'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:B:611:C:611.22
+      </extid>
+      <num st='1'>
+        611.22
+      </num>
+      <head>
+        Availability of satellite imagery.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='611' sect='22' psec='' tq='N'>
+              611.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of satellite imagery.
+        </SUBJECT>
+        <P>
+          Cloud-free maps of the United States based on imagery received from a
+          satellite are prepared and released to the pubic by NRCS. The maps
+          offer the first image of the United States not obscured by clouds or
+          distortions. Orders or requests for information should be directed to
+          the National Cartography and Geospatial Center, USDA—Natural Resources
+          Conservation Service; P.O. Box 6567, FWFC-Bldg. 23; 501 W. Felix
+          Street; Forth Worth, Texas 76115. Orders are subject to the fee
+          schedule cited in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='2' psec='#b' tq='N'>
+              1.2(b)
+            </subref>
+             of this title
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

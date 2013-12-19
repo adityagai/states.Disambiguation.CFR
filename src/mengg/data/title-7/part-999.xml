@@ -1,0 +1,5011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol8'>
+    <extid>
+      lii:cfr:2013:7:0:B:IX:-:999
+    </extid>
+    <num>
+      999
+    </num>
+    <head>
+      SPECIALTY CROPS; IMPORT REGULATIONS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+              7 U.S.C. 601-674
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='1445c-3' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1445c-3.html'>
+              7 U.S.C. 1445c-3
+            </subref>
+          </aref>
+          , and 
+          <aref type='USC'>
+            <subref title='7' sect='7271' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7271.html'>
+              7 U.S.C. 7271
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+    </text>
+    <section orderid='10021'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:999:-:999.1
+      </extid>
+      <num st='1'>
+        999.1
+      </num>
+      <head>
+        Regulation governing the importation of dates.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          28 FR 3469
+        </aref>
+        , Apr. 10, 1963, as amended at 
+        <aref type='FREGIST'>
+          31 FR 960
+        </aref>
+        , Jan. 25, 1966; 
+        <aref type='FREGIST'>
+          33 FR 15986
+        </aref>
+        , Oct. 31, 1968; 
+        <aref type='FREGIST'>
+          36 FR 6736
+        </aref>
+        , Apr. 8, 1971; 
+        <aref type='FREGIST'>
+          58 FR 69190
+        </aref>
+        , Dec. 30, 1993; 
+        <aref type='FREGIST'>
+          74 FR 2808
+        </aref>
+        , Jan. 16, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='999' sect='1' psec='' tq='N'>
+              999.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Regulation governing the importation of dates.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Dates in retail packages
+            </E>
+             means whole or pitted dates, other than dates prepared or
+            preserved, wrapped or packaged for sale at retail.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Dates for packaging
+            </E>
+             means whole or pitted dates in bulk containers which are to be
+            repacked, in whole or part, in the United States as dates in retail
+            packages.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Bulk container
+            </E>
+             means any container of dates which, together with the dates
+            therein, weighs more than ten pounds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Dates for processing
+            </E>
+             means any dates for use in a bakery, confectionery, or other
+            product and includes dates coated with a substance materially
+            altering their color.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Dates prepared or preserved
+            </E>
+             means dates processed into a confection or other product, dates
+            coated with a substance materially altering their color, or dates
+            prepared for incorporation into a product by chopping, slicing, or
+            other processing which materially alters their form.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means any individual, partnership, corporation, association, or
+            other business unit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Fruit and Vegetable Division
+            </E>
+             means the Fruit and Vegetable Division of the Consumer and
+            Marketing Service, United States Department of Agriculture,
+            Washington, DC 20250.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              USDA inspector
+            </E>
+             means an inspector of the Processed Products Standardization and
+            Inspection Branch, Fruit and Vegetable Division or any other duly
+            authorized employee of the USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inspection certificate
+            </E>
+             means a written statement or memorandum report issued by a USDA
+            inspector setting forth in addition to appropriate descriptive
+            information the quality and condition of the product inspected, and
+            in the case of imported dates, a statement of meeting or failing, as
+            applicable, the U.S. import requirements under 
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Importation
+            </E>
+             means release from custody of United States Bureau of Customs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Grade requirements.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (d) of this section, the
+            importation into the United States of any lot of dates for packaging
+            or dates in retail packages is prohibited unless the dates are
+            wholesome and unadulterated and meet the following grade
+            requirements which are determined to be comparable to those imposed
+            upon domestic dates handled pursuant to Order No. 987, as amended (
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='987' tq='N'>
+                987 of this chapter
+              </subref>
+            </aref>
+            : The whole or pitted dates in the lot are of one variety, and are
+            of such quality and condition that upon inspection on the basis of a
+            representative sample thereof, with hydration (of the sample) in
+            accordance with good commercial practice or without any hydration,
+            the dates possess a reasonably good color, are reasonably uniform in
+            size, are reasonably free from defects, possess a reasonably good
+            character, and score not less than 80 points when scored in
+            accordance with the scoring system applicable to U.S. Grade B dates,
+            as prescribed in the U.S. Standards for Grades of Dates (
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='52' sect='1001' psec='' tq='N'>
+                52.1001
+              </subref>
+            </aref>
+             through 52.1011 of this chapter): 
+            <E T='03'>
+              Provided,
+            </E>
+             That not more than 25 percent, by weight, of the dates may possess
+            semidry or dry calyx ends except that not more than 5 percent, by
+            weight, of the dates may possess dry calyx ends: 
+            <E T='03'>
+              And provided further,
+            </E>
+             That in determining the grade for pitted dates, the pitted dates
+            shall not be scored as damaged because of the longitudinal slit
+            caused by removing the pit or the mashing resulting therefrom unless
+            the flesh is seriously torn or mangled.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Compliance with the grade requirements shall be determined on the
+            basis of an inspection and certification by a USDA inspector.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Inspection and certification requirements—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Inspection.
+            </head>
+          </npcatch>
+          <text>
+             Inspection shall be performed by USDA inspectors in accordance with
+            the Regulations Governing the Inspection and Certification of
+            Processed Fruits and Vegetables and Related Products (
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='52' tq='N'>
+                52 of this title
+              </subref>
+            </aref>
+            ). The cost of each such inspection and related certification shall
+            be borne by the applicant. Applications for inspection shall be made
+            at least 10 days in 
+            <PRTPAGE P='687' />
+            advance and be accompanied by, or there shall be submitted promptly
+            thereafter, either an onboard bill of lading designating the lots to
+            be inspected by USDA inspectors and those to be entered as dates for
+            processing, or a list of such lots and their identifying marks.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Certification.
+            </head>
+          </npcatch>
+          <text>
+             Each lot of dates inspected in accordance with paragraph (c)(1) of
+            this section shall be covered by an inspection certificate. Each
+            such certificate shall set forth, among other things, the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The date and place of inspection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The Customs entry number pertaining to the lot or shipment covered
+            by the certificate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The variety, quantity, and identifying marks of the lot inspected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The statement, if applicable: “Meets U.S. import requirements under
+            
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937”.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             If the lot fails to meet the import requirements, a statement to
+            that effect and the reasons therefor. governing imports of walnuts.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Exemptions.
+            </head>
+          </npcatch>
+          <text>
+             Notwithstanding any other provisions of this section, any lot of
+            dates for importation which in the aggregate does not exceed 70
+            pounds and any dates that are so denatured as to render them unfit
+            for human consumption may be imported exempt from the provisions of
+            this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Exemptions.
+            </head>
+          </npcatch>
+          <text>
+             The grade, size, quality and maturity requirements of this section
+            shall not apply to dates which are donated to needy persons,
+            prisoners or Native Americans on reservations, but such dates shall
+            be subject to the safeguard provisions contained in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='999' sect='500' psec='' tq='N'>
+                999.500
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Importation.
+            </head>
+          </npcatch>
+          <text>
+             No person may import dates into the United States unless he or she
+            first files with the Collector of Customs at the port at which the
+            Customs entry is filed, as a condition of each such importation,
+            either an inspection certificate or an executed Form
+            FV-6—‘Importer&apos;s Exempt Commodity Form.’
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Dates for packaging and dates in retail packages.
+            </head>
+          </npcatch>
+          <text>
+             No person may import any lot of dates for packaging or dates in
+            retail packages unless the dates are covered by an inspection
+            certificate containing the statement as to meeting the requirements
+            set forth in paragraph (c)(2)(v) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Dates for processing and dates prepared or preserved—importation.
+            </head>
+          </npcatch>
+          <text>
+             Any person may import dates for processing and dates prepared or
+            preserved exempt from the grade, inspection, and certification
+            requirements of this section if the importer first files as a
+            condition of such importation an executed Form FV-6—‘Importer&apos;s
+            Exempt Commodity Form.’ The importer shall promptly transmit a copy
+            of the executed Form FV-6 to the Fruit and Vegetable Division.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Dates for processing—Sale by importer.
+            </head>
+          </npcatch>
+          <text>
+             No importer or other person may import, sell, or use any dates for
+            processing other than for use as set forth in paragraph (a)(4) of
+            this section or as otherwise permitted by this section. Each
+            importer of dates for processing shall obtain from each purchaser,
+            no later than the time of delivery to such purchaser, and file with
+            the Fruit and Vegetable Division not later than the fifth day of the
+            month following the month in which the dates were delivered, an
+            executed Form FV-6.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Dates for processing—sale by other than importer.
+            </head>
+          </npcatch>
+          <text>
+             Each wholesaler or other reseller of dates for processing should,
+            for his protection, obtain from each purchaser and hold in his files
+            a Form FV-6 certification covering each sale or all sales of a
+            calendar year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Filing and retention of certificates.
+            </head>
+          </npcatch>
+          <text>
+             The executed Form FV-6—‘Importer&apos;s Exempt Commodity Form’
+            required to be filed pursuant to this section shall be executed in
+            not less than three copies, of which one shall be filed with the
+            Fruit and Vegetable Division not later than the fifth day of the
+            month immediately following the month of delivery of the dates
+            covered thereby, one shall be retained by the importer and one shall
+            be retained by the person accepting delivery.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Reclassification.
+            </head>
+          </npcatch>
+          <text>
+             Any dates submitted for importation as dates for packaging or dates
+            in retail packages 
+            <PRTPAGE P='688' />
+            that fail to meet the import requirements of this section may, upon
+            execution of Form FV-6—‘Importer&apos;s Exempt Commodity Form’ be
+            resubmitted for importation as dates for processing subject to the
+            limitations of paragraph (j) of this section. Subsequent to
+            importation, (1) any dates for processing other than dates that were
+            resubmitted for importation in accordance with the preceding
+            sentence and (2) any dates for packaging which through unintentional
+            error were submitted for importation as dates for processing, either
+            category having been covered by an executed Form FV-6, may if still
+            held by the importer and if certified by a USDA inspector as meeting
+            the requirements of this section for dates for packaging, be so
+            reclassified and used. The reclassification to dates for packaging
+            shall not be applicable to any dates that were falsely classified,
+            other than through unintentional error, as dates for processing and
+            submitted as such for importation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Reconditioning.
+            </head>
+          </npcatch>
+          <text>
+             Nothing contained in this section shall preclude the reconditioning
+            of failing lots of dates, prior to importation, so that such dates
+            may be made eligible to meet the grade requirements prescribed in
+            paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Books and records.
+            </head>
+          </npcatch>
+          <text>
+             Each person subject to this section shall maintain true and
+            complete records of his transactions with respect to imported dates.
+            Such records and copies of executed forms shall be retained for not
+            less than two years subsequent to the calendar year of acquisition.
+            The Secretary, through his duly authorized representatives, shall
+            have access to any such person&apos;s premises during regular
+            business hours and shall be permitted at any such times to inspect
+            such records and any dates held by such person.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Other restrictions.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of this section do not supersede any restrictions or
+            prohibitions on the importation of dates under the Plant Quarantine
+            Act of 1912, the Federal Food, Drug, and Cosmetic Act, or any other
+            applicable laws or regulations or the need to comply with applicable
+            food and sanitary regulations of city, county, State, or Federal
+            agencies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Compliance.
+            </head>
+          </npcatch>
+          <text>
+             Any person who violates any provision of this section shall be
+            subject to a forfeiture in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8a(5
+            </aref>
+            ) of the Agricultural Marketing Agreement Act of 1937, as amended (
+            <aref type='CFR-TIC-SECT'>
+              sections 1-19, 48
+            </aref>
+             Stat. 31, as amended; 
+            <aref type='USC'>
+              <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+                7 U.S.C. 601-674
+              </subref>
+            </aref>
+            ), or, upon conviction, a penalty in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8c(14
+            </aref>
+            ) of said act, or to both such forfeiture and penalty. False
+            representations to an agency of the United States on any matter
+            within its jurisdiction, knowing it to be false, is a violation of 
+            <aref type='USC'>
+              <subref title='18' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/18/1001.html'>
+                18 U.S.C. 1001
+              </subref>
+            </aref>
+             which provides for a fine or imprisonment or both.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            28 FR 3469
+          </aref>
+          , Apr. 10, 1963, as amended at 
+          <aref type='FREGIST'>
+            31 FR 960
+          </aref>
+          , Jan. 25, 1966; 
+          <aref type='FREGIST'>
+            33 FR 15986
+          </aref>
+          , Oct. 31, 1968; 
+          <aref type='FREGIST'>
+            36 FR 6736
+          </aref>
+          , Apr. 8, 1971; 
+          <aref type='FREGIST'>
+            58 FR 69190
+          </aref>
+          , Dec. 30, 1993; 
+          <aref type='FREGIST'>
+            74 FR 2808
+          </aref>
+          , Jan. 16, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='10022'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:999:-:999.100
+      </extid>
+      <num st='1'>
+        999.100
+      </num>
+      <head>
+        Regulation governing imports of walnuts.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 230
+        </aref>
+        , Jan. 9, 1964, as amended at 
+        <aref type='FREGIST'>
+          40 FR 29263
+        </aref>
+        , July 11, 1975; 
+        <aref type='FREGIST'>
+          41 FR 2075
+        </aref>
+        , Jan. 14, 1976; 
+        <aref type='FREGIST'>
+          42 FR 35146
+        </aref>
+        , July 8, 1977; 
+        <aref type='FREGIST'>
+          58 FR 69190
+        </aref>
+        , Dec. 30, 1993; 
+        <aref type='FREGIST'>
+          74 FR 2809
+        </aref>
+        , Jan. 16, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='999' sect='100' psec='' tq='N'>
+              999.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Regulation governing imports of walnuts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Walnuts
+            </E>
+             means all walnuts commonly known as English or Persian walnuts
+            (Juglans regia).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inshell walnuts
+            </E>
+             means walnuts, the kernels or edible portions of which are
+            contained in the shell.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Shelled walnuts
+            </E>
+             means the kernels of walnuts after the shells are removed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means any individual, partnership, corporation, association, or
+            other business unit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              USDA Inspector
+            </E>
+             means any Federal or Federal-State inspector of the Fresh Products
+            Standardization and Inspection Branch of the Fruit and Vegetable
+            Division, Consumer and Marketing Service, United States Department
+            of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Importation of walnuts
+            </E>
+             means the release of walnuts from the custody of the United States
+            Customs Service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Grade and size regulations.
+            </head>
+          </npcatch>
+          <text>
+             No person may import walnuts (Juglans regia) into the United States
+            unless such walnuts have been inspected and certified by a USDA
+            inspector as meeting the following requirements:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Inshell walnuts.
+            </head>
+          </npcatch>
+          <text>
+             All inshell walnuts shall be of a quality equal to or better than
+            the requirements of U.S. No. 2 and “baby” size as prescribed in the
+            United States Standards for Walnuts (Juglans regia) in the Shell (
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='51' sect='2945' psec='' tq='N'>
+                51.2945
+              </subref>
+            </aref>
+             through 51.2966 of this title); or
+            <PRTPAGE P='689' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Shelled walnuts.
+            </head>
+          </npcatch>
+          <text>
+             All shelled walnuts shall be of a quality equal to or better than
+            the requirements for U.S. Commercial Grade as prescribed in the
+            United States Standards for Shelled Walnuts (Juglans regia) (
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='51' sect='2275' psec='' tq='N'>
+                51.2275
+              </subref>
+            </aref>
+             through 51.2294 of this title excluding 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='51' sect='2278' psec='#b' tq='N'>
+                51.2278(b)
+              </subref>
+              , 
+              <subref title='7' part='51' sect='2284' psec='' tq='N'>
+                51.2284
+              </subref>
+               and 
+              <subref title='7' part='51' sect='2285' psec='' tq='N'>
+                51.2285
+              </subref>
+            </aref>
+            ) effective January 25, 1959, except that the minimum size shall be
+            pieces not more than five percent of which will pass through a round
+            opening 
+            <FR>
+              6/64
+            </FR>
+             inch in diameter and no other size requirements shall apply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Inspection and certification.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             All inspections and certifications required by paragraph (b) of
+            this section shall be made by USDA inspectors in accordance with the
+            regulations governing the inspection and certification of fresh
+            fruits, vegetables, and other products (
+            <aref type='CFR-TIC-PART'>
+              Part 
+              <subref title='7' part='51' tq='N'>
+                51 of this title
+              </subref>
+            </aref>
+            ). The cost of inspection and certification shall be borne by the
+            applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Each inspection certificate shall set forth among other things the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The date and place of inspection;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the applicant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the importer;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The Customs entry number pertaining to the lot or shipment covered
+            by the certificate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity and identifying marks of the container; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The statement, if applicable, “Meets U.S. import requirements under
+            
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the Agricultural Marketing Agreement Act of 1937”.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever walnuts are offered for inspection, the applicant shall
+            furnish any labor and pay any costs incurred in moving and opening
+            containers as may be necessary for proper sampling and inspection.
+            The applicant shall also furnish the USDA inspector the entry number
+            and such other identifying information for each lot as he may
+            request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Inspection must be completed prior to the importation of walnuts.
+            To avoid delay the applicant should make advance arrangements with
+            the USDA inspection office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Reconditioning prior to importation.
+            </head>
+          </npcatch>
+          <text>
+             Nothing contained in this section shall be deemed to preclude
+            reconditioning walnuts prior to importation, in order that such
+            walnuts may be made eligible to meet the grade and size regulations
+            prescribed in paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Minimum quantity.
+            </head>
+          </npcatch>
+          <text>
+             Notwithstanding any other provision of this section, the
+            importation of any lot of walnuts which does not exceed, in net
+            weight, 60 pounds of shelled walnuts or 115 pounds of inshell
+            walnuts shall be exempt from the requirements of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Exemptions.
+            </head>
+          </npcatch>
+          <text>
+             The grade, size, quality and maturity requirements of this section
+            shall not apply to walnuts which are: green walnuts (so immature
+            that they cannot be used for drying and sale as dried walnuts);
+            walnuts used in non-competitive outlets such as use by charitable
+            institutions, relief agencies, governmental agencies for school
+            lunch programs, and diversion to animal feed or oil manufacture, but
+            such walnuts shall be subject to the safeguard provisions contained
+            in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='999' sect='500' psec='' tq='N'>
+                999.500
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Other import requirements.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of this section do not supersede any restrictions or
+            prohibitions on walnuts under the Federal Plant Quarantine Act of
+            1912, or any other applicable laws or regulations of city, county,
+            State, or Federal Agencies including the Federal Food, Drug and
+            Cosmetic Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Compliance.
+            </head>
+          </npcatch>
+          <text>
+             Any person violating any of the provisions of this regulation is
+            subject to a forfeiture in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 608a(5
+            </aref>
+            ) of the Agricultural Marketing Agreement Act of 1937, as amended (
+            <aref type='USC'>
+              <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+                7 U.S.C. 601-674
+              </subref>
+            </aref>
+            ), or, upon conviction, a penalty in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 608c(14
+            </aref>
+            ) of said act, or to both such forfeiture and penalty. False
+            representations in any matter within the jurisdiction of any agency
+            of the United States, knowing it to be false, is a violation of 
+            <aref type='USC'>
+              <subref title='18' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/18/1001.html'>
+                18 U.S.C. 1001
+              </subref>
+            </aref>
+             which provides for a fine or imprisonment or both.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 230
+          </aref>
+          , Jan. 9, 1964, as amended at 
+          <aref type='FREGIST'>
+            40 FR 29263
+          </aref>
+          , July 11, 1975; 
+          <aref type='FREGIST'>
+            41 FR 2075
+          </aref>
+          , Jan. 14, 1976; 
+          <aref type='FREGIST'>
+            42 FR 35146
+          </aref>
+          , July 8, 1977; 
+          <aref type='FREGIST'>
+            58 FR 69190
+          </aref>
+          , Dec. 30, 1993; 
+          <aref type='FREGIST'>
+            74 FR 2809
+          </aref>
+          , Jan. 16, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='10023'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:999:-:999.200
+      </extid>
+      <num st='1'>
+        999.200
+      </num>
+      <head>
+        Regulation governing the importation of prunes.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          36 FR 18782
+        </aref>
+        , Sept. 22, 1971, as amended at 
+        <aref type='FREGIST'>
+          47 FR 47230
+        </aref>
+        , Oct. 25, 1982; 
+        <aref type='FREGIST'>
+          57 FR 56245
+        </aref>
+        , Nov. 27, 1992; 
+        <aref type='FREGIST'>
+          59 FR 38113
+        </aref>
+        , July 27, 1994; 
+        <aref type='FREGIST'>
+          60 FR 57910
+        </aref>
+        , Nov. 24, 1995; 
+        <aref type='FREGIST'>
+          74 FR 2809
+        </aref>
+        , Jan. 16, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='999' sect='200' psec='' tq='N'>
+              999.200
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Regulation governing the importation of prunes.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Prunes
+            </E>
+             means and includes all sun-dried or artificially dehydrated plums,
+            of any type of variety, produced from plums, except: Sulfur-
+            <PRTPAGE P='690' />
+            bleached prunes which are produced from yellow varieties of plums
+            and are commonly known as silver plums; (ii) plums which have not
+            been dried or dehydrated to a point where they are capable of being
+            stored prior to packing, without material deterioration or spoilage
+            unless refrigeration or other artificial means of preservation are
+            used, and so long as they are treated by a process which is in
+            conformity with, or generally similar to, the processes for
+            treatment of plums of that type which have been developed or
+            recommended by the Food Technology Division, College of Agriculture,
+            University of California, for the specialty pack known as “high
+            moisture content prunes”, but this exception shall not apply if and
+            when such plums are dried to the point where they are capable of
+            being stored without material deterioration or spoilage,
+            refrigeration or other artificial means of preservation; and (iii)
+            brine dried prunes that have been impregnated with brine or salt
+            during the dehydration process to the extent that they have lost
+            their form and character as prunes, and cannot be reconstituted to
+            permit economic use of the individual fruits as prunes, and are
+            imported under International Harmonized Tariff Schedule No.
+            0813.20.1000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Pitted prunes
+            </E>
+             means prunes with the pit removed that are characterized by a
+            uniform depression and minimal skin break where the pit has been
+            removed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Macerated prunes
+            </E>
+             means dried prunes with the pit removed that are characterized by a
+            flattened appearance with slightly more skin break where the pit has
+            been removed than with pitted prunes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Standard prunes
+            </E>
+             means any lot of prunes meeting the grade and size requirements
+            prescribed in paragraph (b)(1) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Standard pitted prunes
+            </E>
+             means any lot of pitted prunes meeting the grade requirements
+            prescribed in paragraphs (b)(2) and (b)(3) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Standard pitted macerated prunes
+            </E>
+             means any lot of pitted macerated prunes meeting the grade
+            requirements in paragraphs (b)(2) and (b)(4) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Manufacturing grade substandard prunes
+            </E>
+             means any lot of prunes which meets the grade requirements
+            prescribed in paragraph (b)(5) of this section but fails to meet the
+            requirements for standard prunes, standard pitted prunes and
+            standard pitted macerated prunes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Size
+            </E>
+             means the number of prunes contained in a pound.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means any individual, partnership, corporation, association, or
+            other business unit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Fruit and Vegetable Division
+            </E>
+             means the Fruit and Vegetable Division of the Agricultural
+            Marketing Service, U.S. Department of Agriculture, Washington, DC
+            20250.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              USDA inspector
+            </E>
+             means an inspector of the Processed Products Standardization and
+            Inspection Branch, Fruit and Vegetable Division, or any other duly
+            authorized employee of the USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Importation
+            </E>
+             means release from custody of the U.S. Bureau of Customs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Undersized prunes
+            </E>
+             means those prunes that pass freely through a round opening 23/32
+            of an inch in diameter.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Grade and size requirements.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (b)(5) or paragraph (d) of this
+            section, no person may import any lot of prunes into the United
+            States unless the prunes are inspected and an inspection certificate
+            issued with respect thereto, and the lot meets the applicable grade
+            requirements specified in exhibit A of this section and the average
+            count (i.e., number) of the prunes in such lot is 100 or less per
+            pound. In determining whether any lot conforms to the size
+            requirement, the following tolerance shall apply: In a sample of 100
+            ounces, the count per pound of 10 ounces of smallest prunes may not
+            vary from the count per pound of 10 ounces of the largest prunes by
+            more than 45 points.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             No person may import any lot of pitted prunes or pitted macerated
+            prunes for human consumption as pitted or pitted macerated prunes
+            unless the lot meets the applicable minimum grade requirements set
+            forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='999' sect='200' psec='' tq='N'>
+                999.200
+              </subref>
+            </aref>
+             (exhibit A), except that skin or flesh damage shall not be scored
+            as a defect in determining whether the prunes meet the grade
+            requirements. Pitted and pitted macerated prunes shall not 
+            <PRTPAGE P='691' />
+            be subject to size and undersized requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             No person may import any lot of pitted prunes for human consumption
+            as pitted prunes unless the lot does not exceed an average of 0.5
+            percent by count of prunes with whole pits and/or pit fragments 2 mm
+            or longer and four of ten subsamples examined have no more than 0.5
+            percent by count of prunes with whole pits and/or pit fragments 2 mm
+            or longer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             No person may import any lot of pitted macerated prunes for human
+            consumption as pitted macerated prunes unless the lot does not
+            exceed an average of 2 percent by count of prunes with whole pits
+            and/or pit fragments 2 mm or longer; and four of ten subsamples
+            examined have no more than 2 percent by count with whole pits and/or
+            pit fragments 2 mm or longer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Any person may import any lot of prunes, except any lot containing
+            undersized prunes, pitted prunes or pitted macerated prunes, into
+            the United States for use in human consumption outlets as prune
+            products in which the prunes lose their form and character as prunes
+            by conversion prior to consumption if the prunes are inspected and
+            an inspection certificate issued with respect thereto, and each lot
+            meets the grade requirements set forth in paragraphs (1), (2), and
+            (3) of exhibit A of this section, and the importer first files as a
+            condition of such importation an executed Form FV-6—‘Importer&apos;s
+            Exempt Commodity Form.’.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Inspection and certification requirements—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Inspection.
+            </head>
+          </npcatch>
+          <text>
+             Inspection shall be performed by a USDA inspector in accordance
+            with the regulations governing inspection and certification of
+            processed fruits and vegetables, processed products thereof, and
+            certain other processed food products (
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='52' tq='N'>
+                52 of this title
+              </subref>
+            </aref>
+            ). The cost of each such inspection and related certification shall
+            be borne by the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Certification.
+            </head>
+          </npcatch>
+          <text>
+             Each lot of prunes inspected in accordance with paragraph (c)(1) of
+            this section shall be covered by an inspection certificate. Each
+            such certificate shall set forth, among other things, the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The date and place of inspection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The Customs entry number pertaining to the lot or shipment covered
+            by the certificate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity and identifying marks of the lot inspected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The statement, as applicable: “Meets U.S. import requirements for
+            standard prunes, standard pitted and standard pitted macerated
+            prunes under 
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937”; “Meets U.S. import requirements for
+            manufacturing grade substandard prunes under 
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937”; or “Fails to meet U.S. import requirements
+            for prunes under 
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937”.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             If the lot fails to meet the import requirements, a statement of
+            the reason therefor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Exemptions.
+            </head>
+          </npcatch>
+          <text>
+             Notwithstanding any other provisions of this section, the
+            importation of any lot of prunes which in the aggregate does not
+            exceed 150 pounds, net weight, and any prunes that are so denatured
+            as to render them unfit for human consumption shall be exempt from
+            the requirements of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Additional requirements—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Prior to importation of any prunes, the person importing such
+            prunes shall file an inspection certificate with the Collector of
+            Customs at the port at which the customs entry is filed. In
+            addition, if such prunes are manufacturing grade substandard prunes,
+            such person shall also file with the Collector of Customs an
+            executed Form FV-6—‘Importer&apos;s Exempt Commodity Form.’ Promptly
+            after such filing, such person shall transmit a copy of this form to
+            the Fruit and Vegetable Division. No person may import, sell, or use
+            any manufacturing grade substandard prunes other than for use as set
+            forth in paragraph (b)(5) of this section. Each person importing
+            manufacturing grade substandard prunes shall obtain from each
+            purchaser, no later than the time of delivery to such purchaser, and
+            file with the Fruit and Vegetable Division not later than the 5th
+            day of the month following the month in which the prunes were
+            delivered, an executed Form FV-6—‘Importer&apos;s Exempt Commodity
+            Form.’ One copy of this executed form shall be retained by 
+            <PRTPAGE P='692' />
+            the importer and one copy shall be retained by the purchaser.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Manufacturing Grade Substandard Prune—sale by other than importer.
+            </head>
+          </npcatch>
+          <text>
+             Each wholesaler or other reseller of manufacturing grade
+            substandard prunes should, for his or her protection, obtain from
+            each purchaser and hold in his or her files an executed Form
+            FV-6—‘Importer&apos;s Exempt Commodity Form’ covering each sale
+            during the calendar year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Reconditioning.
+            </head>
+          </npcatch>
+          <text>
+             Nothing contained in this section shall preclude the reconditioning
+            of failing lots of prunes, prior to importation, so that such prunes
+            may be made eligible to meet the requirements prescribed pursuant to
+            paragraphs (b)(1) through (5), as applicable, of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Books and records.
+            </head>
+          </npcatch>
+          <text>
+             Each person subject to this section shall maintain true and
+            complete records of his transactions with respect to imported
+            prunes. Such records and copies of executed forms shall be retained
+            for not less than 2 years subsequent to the calendar year of
+            acquisition. The Secretary, through his duly authorized
+            representatives, shall have access to any such person&apos;s
+            premises during regular business hours and shall be permitted at any
+            such times to inspect such records and any prunes held by such
+            person.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Other restrictions.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of this section do not supersede any restrictions or
+            prohibitions on the importation of prunes under the Plant Quarantine
+            Act of 1912, the Federal Food, Drug and Cosmetic Act, or any other
+            applicable laws or regulations or the need to comply with applicable
+            food and sanitary regulations of city, county, State, or Federal
+            agencies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Compliance.
+            </head>
+          </npcatch>
+          <text>
+             Any person who violates any provision of this section shall be
+            subject to a forfeiture in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8a(5
+            </aref>
+            ) of the Agricultural Marketing Agreement Act of 1937, as amended (
+            <aref type='CFR-TIC-SECT'>
+              sections 1-19, 48
+            </aref>
+             Stat. 31, as amended; 
+            <aref type='USC'>
+              <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+                7 U.S.C. 601-674
+              </subref>
+            </aref>
+            ), or, upon conviction, a penalty in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8c(14
+            </aref>
+            ) of said act, or to both such forfeiture and penalty. False
+            representations to an agency of the United States on any matter
+            within its jurisdiction, knowing it to be false, is a violation of 
+            <aref type='USC'>
+              <subref title='18' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/18/1001.html'>
+                18 U.S.C. 1001
+              </subref>
+            </aref>
+             which provides for a fine or imprisonment or both.
+          </text>
+        </P>
+        <HD SOURCE='HD1'>
+          Exhibit A
+        </HD>
+        <HD SOURCE='HD1'>
+          grade requirements
+        </HD>
+        <P>
+          A. 
+          <E T='03'>
+            Defects.
+          </E>
+           Defects are: (1) Off-color; (2) inferior meat condition; (3) end
+          cracks; (4) fermentation; (5) skin or flesh damage; (6) scab; (7)
+          burned; (8) mold; (9) imbedded dirt; (10) insect infestation; (11)
+          decay.
+        </P>
+        <P>
+          B. 
+          <E T='03'>
+            Explanation of terms.
+          </E>
+           (1) 
+          <E T='03'>
+            Off-color
+          </E>
+           means a dull color or skin differing noticeably in appearance from
+          that which is characteristic of mature, properly handled fruit of a
+          given variety or type.
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inferior meat condition
+            </E>
+             means flesh which is fibrous, woody, or otherwise inferior due to
+            immaturity to the extent that the characteristic texture of the meat
+            is substantially affected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              End cracks
+            </E>
+             means callous growth cracks, at the blossom end of prunes,
+            aggregating more than three-eighths of one inch (
+            <FR>
+              3/8
+            </FR>
+            ″) but not more than one-half of one inch (
+            <FR>
+              1/2
+            </FR>
+            ″) in length.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Fermentation
+            </E>
+             means damage to the flesh by fermentation to the extent that the
+            characteristic appearance or flavor is substantially affected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Skin or flesh damage
+            </E>
+             means growth cracks, splits, breaks in skin or flesh of the
+            following descriptions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Callous growth cracks, except end cracks as defined in this
+            section, aggregating more than three-eighths of one inch (
+            <FR>
+              3/8
+            </FR>
+            ″) in length;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Splits or skin breaks exposing flesh and materially affecting the
+            normal appearance of the prunes;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any cracks, splits, or breaks open to the pit;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Healed or unhealed surface or flesh blemishes caused by insect
+            injury and which materially affect appearance, edibility or keeping
+            quality.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Scab
+            </E>
+             means tough or thick scab exceeding in the aggregate the area of a
+            circle three-eighths of one inch (
+            <FR>
+              3/8
+            </FR>
+            ″) in diameter or by unsightly scab of another character exceeding
+            in the aggregate the area of a circle three-fourths of one inch (
+            <FR>
+              3/4
+            </FR>
+            ″) in diameter.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Burned
+            </E>
+             means injury by sunburn or excessive heat in dehydration to the 
+            <PRTPAGE P='693' />
+            extent that the characteristic appearance, flavor or edibility of
+            the fruit is noticeably affected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Mold
+            </E>
+             means a characteristic fungus growth and is self-explanatory.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Imbedded dirt
+            </E>
+             means the presence of dirt or other extraneous material so imbedded
+            in, or adhering to, the prune that it cannot readily be removed in
+            washing the fruit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Insect infestation
+            </E>
+             means the presence of insects, insect fragments or insect remains.
+          </text>
+        </P>
+        <P>
+          C. 
+          <E T='03'>
+            Maximum tolerances.
+          </E>
+           Tolerance allowances shall be on a weight basis and shall not exceed
+          the following:
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             There shall be no tolerance allowance for live insect infestation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The tolerance allowances for decay shall not exceed one percent
+            (1%).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The combined tolerance allowance for mold, brown rot, imbedded
+            dirt, insect infestation, and decay shall not exceed five percent
+            (5%), and, within such tolerance, brown rot shall not exceed three
+            percent (3%).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The combined tolerance allowance for fermentation, skin or flesh
+            damage, scab, burned, mold, imbedded dirt, insect infestation, and
+            decay shall not exceed eight percent (8%).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The combined tolerance allowance for end cracks, fermentation, skin
+            or flesh damage, scab, burned, mold, imbedded dirt, insect
+            infestation, and decay shall not exceed ten percent (10%), except
+            that the first eight percent (8%) of end cracks shall be given
+            one-half value and any additional percentage of end cracks shall be
+            given full value.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The combined tolerance allowance for off-color, inferior meat
+            condition, end cracks, fermentation, skin or flesh damage, scab,
+            burned, mold, imbedded dirt, insect infestation, and decay shall not
+            exceed fifteen percent (15%), except that the first eight percent
+            (8%) of end cracks shall be given one-half value and any additional
+            percentage of end cracks shall be given full value.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            36 FR 18782
+          </aref>
+          , Sept. 22, 1971, as amended at 
+          <aref type='FREGIST'>
+            47 FR 47230
+          </aref>
+          , Oct. 25, 1982; 
+          <aref type='FREGIST'>
+            57 FR 56245
+          </aref>
+          , Nov. 27, 1992; 
+          <aref type='FREGIST'>
+            59 FR 38113
+          </aref>
+          , July 27, 1994; 
+          <aref type='FREGIST'>
+            60 FR 57910
+          </aref>
+          , Nov. 24, 1995; 
+          <aref type='FREGIST'>
+            74 FR 2809
+          </aref>
+          , Jan. 16, 2009]
+        </CITA>
+        <EFFDNOT>
+          <HD SOURCE='HED'>
+            Effective Date Note:
+          </HD>
+          <P>
+            At 
+            <aref type='FREGIST'>
+              74 FR 2809
+            </aref>
+            , Jan. 16, 2009, 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='999' sect='200' psec='' tq='N'>
+                999.200
+              </subref>
+            </aref>
+             was suspended indefinitely.
+          </P>
+        </EFFDNOT>
+      </contents>
+    </section>
+    <section orderid='10024'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:999:-:999.300
+      </extid>
+      <num st='1'>
+        999.300
+      </num>
+      <head>
+        Regulation governing importation of raisins.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          37 FR 5282
+        </aref>
+        , Mar. 14, 1972, as amended at 
+        <aref type='FREGIST'>
+          37 FR 13635
+        </aref>
+        , July 12, 1972; 
+        <aref type='FREGIST'>
+          37 FR 23820
+        </aref>
+        , Nov. 9, 1972; 
+        <aref type='FREGIST'>
+          41 FR 52646
+        </aref>
+        , Dec. 1, 1976; 
+        <aref type='FREGIST'>
+          43 FR 47972
+        </aref>
+        , Oct. 18, 1978; 
+        <aref type='FREGIST'>
+          43 FR 57863
+        </aref>
+        , Dec. 11, 1978; 
+        <aref type='FREGIST'>
+          45 FR 65513
+        </aref>
+        , Oct. 3, 1980; 
+        <aref type='FREGIST'>
+          47 FR 51731
+        </aref>
+        , Nov. 17, 1982; 
+        <aref type='FREGIST'>
+          50 FR 45808
+        </aref>
+        , Nov. 4, 1985; 
+        <aref type='FREGIST'>
+          53 FR 34715
+        </aref>
+        , Sept. 8, 1988; 
+        <aref type='FREGIST'>
+          67 FR 57505
+        </aref>
+        , Sept. 11, 2002; 
+        <aref type='FREGIST'>
+          74 FR 2809
+        </aref>
+        , Jan. 16, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='999' sect='300' psec='' tq='N'>
+              999.300
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Regulation governing importation of raisins.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <text>
+             For purposes of this section:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Raisins
+            </E>
+             means grapes from which a part of the natural moisture has been
+            removed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Varietal type
+            </E>
+             means the applicable one of the following: Thompson Seedless
+            raisins, Muscat raisins, Layer Muscat raisins, Currant raisins,
+            Monukka raisins, Other Seedless raisins, Golden Seedless raisins,
+            and Other Seedless-Sulfured raisins.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Thompson Seedless Raisins
+            </E>
+             includes those raisins commonly referred to in international trade
+            as Sultana raisins and means raisins made from Thompson Seedless
+            (Sultana) grapes and from grapes with characteristics similar to
+            Thompson Seedless (Sultanina) grapes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means any individual, partnership, corporation, association, or
+            other business unit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Fruit and Vegetable Quality Division
+            </E>
+             means the Fruit and Vegetable Quality Division of the Food Safety
+            and Quality Service, U.S. Department of Agriculture, Washington, DC
+            20250.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              USDA inspector
+            </E>
+             means an inspector of the Processed Products Branch, Fruit and
+            Vegetable Quality Division, or any other duly authorized employee of
+            the U.S. Department of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Importation of raisins
+            </E>
+             means the release of raisins from custody of the U.S. Customs
+            Service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Fruit and Vegetable Division
+            </E>
+             means the Fruit and Vegetable Division of the Agricultural
+            Marketing Service, U.S. Department of Agriculture, Washington, DC
+            20250.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Grade and size requirements.
+            </head>
+          </npcatch>
+          <text>
+             The importation of raisins into the United States is prohibited
+            unless the raisins are inspected and certified as provided in this
+            section. Except as provided in paragraph (e)(2) of this section, no
+            person may import raisins into the United States unless such raisins
+            have been inspected and certified by a USDA inspector as to whether
+            or not the raisins are of a varietal type, and if a varietal type,
+            as at least meeting the following applicable grade and size
+            requirements, which requirements are the same as those imposed upon
+            domestic raisins handled pursuant to Order No. 989, as amended (
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='989' tq='N'>
+                989 of this chapter
+              </subref>
+            </aref>
+            ):
+            <PRTPAGE P='694' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to Thompson Seedless and Other Seedless-Sulfured
+            raisins—the requirements of U.S. Grade C as defined in the effective
+            United States Standards of Grades of Processed Raisins (
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='52' sect='1841' psec='' tq='N'>
+                52.1841
+              </subref>
+            </aref>
+             through 52.1858 of this title): 
+            <E T='03'>
+              Provided,
+            </E>
+             That, at least 70 percent, by weight, of the raisins shall be
+            well-matured or reasonably well-matured. With respect to
+            select-sized and mixed-sized lots, the raisins shall at least meet
+            the U.S. Grade B tolerances for pieces of stem and undeveloped and
+            substandard raisins, and small (midget) sized raisins shall meet the
+            U.S. Grade C tolerances for those factors;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to Muscat raisins—the requirements of U.S. Grade C as
+            defined in said standards;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to Layer Muscat raisins—the requirements of U.S. Grade
+            B as defined for “Layer or Cluster Raisins with Seeds” in said
+            standards, except for the provisions therein relating to moisture
+            content;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to Currant raisins—the requirements of U.S. Grade B as
+            defined in said standards;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to Monukka and Other Seedless raisins—the requirements
+            for Thompson Seedless Raisins prescribed in paragraph (b)(1) of this
+            section, except that the tolerance for moisture shall be 19 percent
+            rather than 18 percent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to Golden Seedless raisins—the requirements prescribed
+            in paragraph (b)(1) of this section for Thompson Seedless raisins
+            and the color requirements for “colored” as defined in said
+            standards.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Inspection and certification requirements.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             All inspections and certifications required by paragraph (b) of
+            this section shall be made by USDA inspectors in accordance with the
+            regulations governing inspection and certification of processed
+            fruits and vegetables, processed products thereof, and certain other
+            processed food products (
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='52' tq='N'>
+                52 of this title
+              </subref>
+            </aref>
+            ). The cost of each such inspection and certification shall be borne
+            by the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Each lot of raisins inspected in accordance with paragraph (c)(1)
+            of this section shall be covered by an inspection certificate. Each
+            such certificate shall set forth, among other things, the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The date and place of inspection;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the applicant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the importer;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The Customs entry number pertaining to the lot or shipment covered
+            by the certificate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity and identifying marks of the lot inspected;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The statement, as applicable, “Meets U.S. import requirements under
+            
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937” or “Fails to meet U.S. import requirements
+            under 
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937”; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             If the lot fails to meet the import requirements, a statement of
+            the reasons therefor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever raisins are offered for inspection, the applicant shall
+            furnish any labor and pay any costs incurred in moving and opening
+            containers as may be necessary for proper sampling and inspection.
+            The applicant shall also furnish the USDA inspector the entry number
+            and such other identifying information for each lot as he may
+            request. “To avoid delay in scheduling the inspection the applicant
+            should make advance arrangements with the USDA inspection office.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Reconditioning.
+            </head>
+          </npcatch>
+          <text>
+             Nothing contained in this section shall preclude the reconditioning
+            of failing lots of raisins prior to importation of raisins in order
+            that such raisins may be made eligible to meet the applicable grade
+            and size requirements in paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Exemptions.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding any other provision of this section, any lot of
+            raisins which in the aggregate does not exceed 100 pounds, net
+            weight, may be imported without regard to the restrictions of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any person may import any lot of raisins which does not meet the
+            applicable grade and size requirements of paragraph (b) of this
+            section for use in the production of alcohol, syrup for industrial
+            use, or which does not meet such requirements with respect to
+            mechanical damage or sugaring for use in the production of raisin
+            paste. Prior to such importation, such person shall file with the
+            Customs Service Regional Commissioner or District Director, as
+            applicable, at the port at which the 
+            <PRTPAGE P='695' />
+            customs entry is filed an executedForm FV-6—Importer&apos;s Exempt
+            Commodity Form. Promptly after such filing, such person shall
+            transmit a copy of this form to the Fruit and Vegetable Division. No
+            person may import, sell, or use any raisins which do not meet the
+            applicable grade and size requirements of paragraph (b) of this
+            section other than for use as set forth in this paragraph. Each
+            person importing raisins, which do not meet the applicable grade and
+            size requirements of paragraph (b) of this section, for use in the
+            production of alcohol, syrup for industrial use, or raisin paste
+            shall obtain from each purchaser, not later than the time of
+            delivery to such purchaser, and file with the Fruit and Vegetable
+            Division not later than the fifth day of the month following the
+            month in which the raisins were delivered, an executed Form FV-6.
+            One copy of this executed form shall be retained by the importer and
+            one copy shall be retained by the purchaser. Each reseller of
+            raisins imported pursuant to this subparagraph should, for his
+            protection, obtain from each purchaser and hold in his files an
+            executed Form FV-6, covering such sales of such raisins during the
+            calendar year. One copy of this executed form shall be retained by
+            the reseller and one copy shall be retained by the purchaser.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Books and records.
+            </head>
+          </npcatch>
+          <text>
+             Each person subject to this section shall maintain true and
+            complete records of his transactions with respect to imported
+            raisins. Such records shall be retained for not less than 2 years
+            subsequent to the calendar year of importation. The Secretary,
+            through his duly authorized representatives, shall have access to
+            any such person&apos;s premises during regular business hours and
+            shall be permitted at any such time to inspect such records and any
+            imported raisins held by such person.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Other restriction.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of this section do not supersede any restrictions or
+            prohibitions on the importation of raisins under the Federal Plant
+            Quarantine Act of 1912, the Federal Food, Drug and Cosmetic Act, or
+            any other applicable laws or regulations, or the need to comply with
+            applicable food and sanitary regulations of city, county, State, or
+            Federal agencies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Compliance.
+            </head>
+          </npcatch>
+          <text>
+             Any person violating any of the provisions of this regulation is
+            subject to a forfeiture in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8a(5
+            </aref>
+            ) of the Agricultural Marketing Agreement Act of 1937, as amended (
+            <aref type='CFR-TIC-SECT'>
+              sections 1-19, 48
+            </aref>
+             Stat. 31, as amended; 
+            <aref type='USC'>
+              <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+                7 U.S.C. 601-674
+              </subref>
+            </aref>
+            ), or, upon conviction, a penalty in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8c(14
+            </aref>
+            ) of said act, or to both such forfeiture and penalty. False
+            representation to an agency of the United States in any matter
+            within its jurisdiction, knowing it to be false, is a violation of 
+            <aref type='USC'>
+              <subref title='18' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/18/1001.html'>
+                18 U.S.C. 1001
+              </subref>
+            </aref>
+             which provides for a fine or imprisonment or both.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            37 FR 5282
+          </aref>
+          , Mar. 14, 1972, as amended at 
+          <aref type='FREGIST'>
+            37 FR 13635
+          </aref>
+          , July 12, 1972; 
+          <aref type='FREGIST'>
+            37 FR 23820
+          </aref>
+          , Nov. 9, 1972; 
+          <aref type='FREGIST'>
+            41 FR 52646
+          </aref>
+          , Dec. 1, 1976; 
+          <aref type='FREGIST'>
+            43 FR 47972
+          </aref>
+          , Oct. 18, 1978; 
+          <aref type='FREGIST'>
+            43 FR 57863
+          </aref>
+          , Dec. 11, 1978; 
+          <aref type='FREGIST'>
+            45 FR 65513
+          </aref>
+          , Oct. 3, 1980; 
+          <aref type='FREGIST'>
+            47 FR 51731
+          </aref>
+          , Nov. 17, 1982; 
+          <aref type='FREGIST'>
+            50 FR 45808
+          </aref>
+          , Nov. 4, 1985; 
+          <aref type='FREGIST'>
+            53 FR 34715
+          </aref>
+          , Sept. 8, 1988; 
+          <aref type='FREGIST'>
+            67 FR 57505
+          </aref>
+          , Sept. 11, 2002; 
+          <aref type='FREGIST'>
+            74 FR 2809
+          </aref>
+          , Jan. 16, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='10025'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:999:-:999.400
+      </extid>
+      <num st='1'>
+        999.400
+      </num>
+      <head>
+        Regulation governing the importation of filberts.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          42 FR 64899
+        </aref>
+        , Dec. 29, 1977, as amended at 
+        <aref type='FREGIST'>
+          45 FR 63482
+        </aref>
+        , Sept. 25, 1980; 
+        <aref type='FREGIST'>
+          47 FR 12612
+        </aref>
+        , Mar. 24, 1982; 
+        <aref type='FREGIST'>
+          48 FR 34015
+        </aref>
+        , July 27, 1983; 
+        <aref type='FREGIST'>
+          74 FR 2809
+        </aref>
+        , Jan. 16, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='999' sect='400' psec='' tq='N'>
+              999.400
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Regulation governing the importation of filberts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Filberts
+            </E>
+             means filberts or hazelnuts.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inshell filberts
+            </E>
+             means filberts, the kernels or edible portions of which are
+            contained in the shell.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Shelled filberts
+            </E>
+             means the kernels of filberts after the shells are removed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means any individual, partnership, corporation, association, or
+            other business unit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              USDA inspector
+            </E>
+             means a Federal or Federal-State inspector, Food Safety and Quality
+            Service, United States Department of Agriculture, or any other duly
+            authorized employee of the USDA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Importation
+            </E>
+             means release from custody of the United States Bureau of Customs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Grade and size requirements.
+            </head>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (d) of this section, no person
+            shall import into the United States any lot of filberts unless the
+            filberts meet the following requirements, which are identical to
+            those for filberts grown in Oregon and Washington and handled
+            pursuant to Order No. 982, as amended (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='982' tq='N'>
+                982
+              </subref>
+            </aref>
+            ):
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Inshell filberts.
+            </head>
+          </npcatch>
+          <text>
+             All inshell filberts shall be of a quality equal to or better than
+            the requirements of U.S. No. 1 grade and medium size as defined in 
+            <PRTPAGE P='696' />
+            the U.S. Standards for Filberts in the Shell (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='51' tq='N'>
+                51
+              </subref>
+            </aref>
+            ), except that the tolerance for insect injury shall be two percent.
+            With this modification, the U.S. No. 1 grade, medium size is
+            identical to the Oregon No. 1 grade, medium size (as defined in the
+            Oregon Grade Standards Filberts in Shell) and prescribed for inshell
+            filberts under Order No. 982, as amended.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Shelled filberts.
+            </head>
+          </npcatch>
+          <text>
+             All shelled filberts shall be of a quality equal to or better than
+            the requirements prescribed in exhibit A of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Inspection and certification requirements—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Compliance with the grade and size requirements of paragraph (b) of
+            this section shall be determined on the basis of an inspection and
+            certification by a USDA inspector.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Inspection.
+            </head>
+          </npcatch>
+          <text>
+             Inspection shall be performed by USDA inspectors in accordance with
+            the Regulations Governing the Inspection and Certification of Fresh
+            Fruits and Vegetables and Related Products (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='51' tq='N'>
+                51
+              </subref>
+            </aref>
+            ). The cost of each such inspection and related certification shall
+            be borne by the applicant. Whenever filberts are offered for
+            inspection, the applicant shall furnish any labor and pay any costs
+            incurred in moving and opening containers as may be necessary for
+            proper sampling and inspection. The applicant shall also furnish the
+            USDA inspector the entry number and such other identifying
+            information for each lot as he may request. Inspection must be
+            completed prior to the importation of filberts. The applicant should
+            make advance arrangements with the USDA inspection office to avoid
+            delay in scheduling the inspection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Certification.
+            </head>
+          </npcatch>
+          <text>
+             Each lot of filberts inspected in accordance with paragraph (c)(1)
+            of this section shall be covered by an inspection certificate. Each
+            such certificate shall set forth, among other things, the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The date and place of inspection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the importer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The Customs entry number pertaining to the lot or shipment covered
+            by the certificate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity, and identifying marks of the lot inspected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             The statement, if applicable: “Meets U.S. import requirements under
+            
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937”.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             If the lot fails to meet the import requirements, a statement to
+            that effect and the reasons therefor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Exemptions.
+            </head>
+          </npcatch>
+          <text>
+             Notwithstanding any other provisions of this section, the
+            importation of any lot of filberts which does not exceed 115 pounds
+            in net weight shall be exempt from the requirements of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Reconditioning prior to importation.
+            </head>
+          </npcatch>
+          <text>
+             Nothing contained in this section shall be deemed to preclude
+            reconditioning filberts prior to importation, in order that such
+            filberts may be made eligible to meet the applicable grade and size
+            regulations prescribed in paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Other restrictions.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of this section do not supersede the Federal Plant
+            Quarantine Act of 1912, the Federal Food, Drug, and Cosmetic Act, or
+            any other applicable laws or regulations or the need to comply with
+            applicable food and sanitary regulations of city, county, State or
+            Federal agencies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Compliance.
+            </head>
+          </npcatch>
+          <text>
+             Any person who violates any provision of this section shall be
+            subject to a forfeiture in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8a(5
+            </aref>
+            ) of the Agricultural Marketing Agreement Act of 1937, as amended (
+            <aref type='CFR-TIC-SECT'>
+              sections 1-19, 48
+            </aref>
+             Stat. 31, as amended; 
+            <aref type='USC'>
+              <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+                7 U.S.C. 601-674
+              </subref>
+            </aref>
+            ), or, upon conviction, a penalty in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8c(14
+            </aref>
+            ) of said act, or to both such forfeiture and penalty. False
+            representations to any agency of the United States on any matter
+            within its jurisdiction, knowing it to be false, is a violation of 
+            <aref type='USC'>
+              <subref title='18' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/18/1001.html'>
+                18 U.S.C. 1001
+              </subref>
+            </aref>
+             which provides for a fine or imprisonment or both.
+          </text>
+        </P>
+        <HD SOURCE='HD1'>
+          Exhibit A
+        </HD>
+        <HD SOURCE='HD1'>
+          grade requirements for shelled filberts
+        </HD>
+        <P>
+          Filbert kernels or portions of filbert kernels shall meet the
+          following requirements:
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Well dried and clean;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Free from foreign material, mold, rancidity, decay or insect
+            injury; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Free from serious damage caused by serious shriveling, or other
+            means.
+            <PRTPAGE P='697' />
+          </text>
+        </P>
+        <HD SOURCE='HD1'>
+          tolerances
+        </HD>
+        <P>
+          In order to allow for variations incident to proper grading and
+          handling the following tolerances, by weight, are permitted as
+          specified:
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For Foreign Material: 0.02 of one percent, for foreign material.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For Defects: Five percent for kernels or portions of kernels which
+            are below the requirements of this grade, including not more than
+            the following: Two percent for mold, rancidity, decay or insect
+            injury: 
+            <E T='03'>
+              Provided,
+            </E>
+             That not more than one percent shall be for mold, rancidity, or
+            insect injury.
+          </text>
+        </P>
+        <HD SOURCE='HD1'>
+          definitions
+        </HD>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Well dried
+            </E>
+             means that the kernels are firm and crisp, not containing more than
+            6 percent moisture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Clean
+            </E>
+             means practically free from plainly visible adhering dirt or other
+            foreign material.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Foreign material
+            </E>
+             means any substance other than the filbert kernels, or portions of
+            kernels. (Loose skins, pellicles or corky tissue which have become
+            separated from the kernels shall not be considered as foreign
+            material, provided that this material does not exceed .02 of one
+            percent by weight.)
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Serious damage
+            </E>
+             means any specific defect described in this section, or any equally
+            objectionable variation of any one of these defects, or any other
+            defects, or any combination of defects, which seriously detracts
+            from the appearance or the edible or marketing quality of the
+            individual portion of the kernel or of the lot as a whole. The
+            following defects shall be considered as serious damage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Serious shriveling
+            </E>
+             means when the kernel is seriously shrunken, wrinkled and tough.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Mold
+            </E>
+             means that there is a visible growth of mold either on the outside
+            or inside of the kernel.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Rancidity
+            </E>
+             means that the kernel is noticeably rancid to the taste. An oily
+            appearance of the flesh does not necessarily indicate a rancid
+            condition.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Decay
+            </E>
+             means that any portion of the kernel is decomposed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='g_4_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Insect injury
+            </E>
+             means that the insect, frass or web is present, or the kernel or
+            portion of kernel show definite evidence of insect feeding.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            42 FR 64899
+          </aref>
+          , Dec. 29, 1977, as amended at 
+          <aref type='FREGIST'>
+            45 FR 63482
+          </aref>
+          , Sept. 25, 1980; 
+          <aref type='FREGIST'>
+            47 FR 12612
+          </aref>
+          , Mar. 24, 1982; 
+          <aref type='FREGIST'>
+            48 FR 34015
+          </aref>
+          , July 27, 1983; 
+          <aref type='FREGIST'>
+            74 FR 2809
+          </aref>
+          , Jan. 16, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='10026'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:999:-:999.500
+      </extid>
+      <num st='1'>
+        999.500
+      </num>
+      <head>
+        Safeguard procedures for walnuts, certain dates, and pistachios exempt
+        from grade, size, quality, and maturity requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          61 FR 13060
+        </aref>
+        , Mar. 26, 1996, as amended at 
+        <aref type='FREGIST'>
+          77 FR 51690
+        </aref>
+        , Aug. 27, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='999' sect='500' psec='' tq='N'>
+              999.500
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Safeguard procedures for walnuts, certain dates, and pistachios exempt
+          from grade, size, quality, and maturity requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each person who imports or receives any of the commodities listed
+            in paragraphs (a)(1) through (a)(3) of this section shall file an
+            “Importer&apos;s Exempt Commodity Form” (FV-6) with the Marketing
+            Order and Agreement Division, Fruit and Vegetable Programs, AMS,
+            USDA, and shall provide a printed copy of the completed Form FV-6 to
+            the U.S. Customs and Border Protection Regional Director or District
+            Director, as applicable, at the port at which the customs entry is
+            filed. A printed copy shall accompany the lot to the exempt outlet
+            specified on the form. Any lot of any commodity offered for
+            inspection or aflatoxin testing and, all or a portion thereof,
+            subsequently imported as exempt under this provision shall also be
+            reported on an “Importer&apos;s Exempt Commodity Form.” Such form,
+            accompanied by a copy of the applicable inspection certificate,
+            shall be provided to the Marketing Order and Agreement Division. The
+            applicable commodities are:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Dates which are donated to needy persons, prisoners or Native
+            Americans on reservations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Walnuts which are: Green walnuts (so immature that they cannot be
+            used for drying and sale as dried walnuts); walnuts used in
+            non-competitive outlets such as use by charitable institutions,
+            relief agencies, governmental agencies for school lunch programs,
+            and diversion to animal feed or oil manufacture; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Substandard pistachios which are for non-human consumption
+            purposes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each person who receives an exempt commodity for the purposes
+            specified in paragraph (a) of this section shall also receive a copy
+            of the same numbered Importer&apos;s Exempt Commodity Form filed by
+            the importer or customs broker and shall certify, by completing and
+            signing Section II of 
+            <PRTPAGE P='698' />
+            the form and mailing the form to the Marketing Order Administration
+            Branch within two days of receipt of the exempt lot, that such lot
+            has been received and will be utilized in the exempt outlet.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             It is the responsibility of the importer to notify the Marketing
+            Order Administration Branch of any lot of exempt commodity rejected
+            by a receiver, shipped to an alternative exempt receiver, exported,
+            or otherwise disposed of. In such cases, a second “Importer&apos;s
+            Exempt Commodity Form” must be filed by the importer providing
+            sufficient information to determine ultimate disposition of the
+            exempt lot and such disposition shall be so certified by the final
+            receiver.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             All FV-6 forms and other correspondence regarding entry of 8e
+            commodities must be submitted online, mailed or faxed to the
+            Marketing Order and Agreement Division, Fruit and Vegetable
+            Programs, AMS, USDA, 1400 Independence Avenue SW., STOP 0237,
+            Washington, DC 20250-0237; Telephone (202) 720-4607; or FAX (202)
+            720-5698. FV-6 forms submitted by FAX must be followed by a mailed,
+            original copy of the FV-6.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            61 FR 13060
+          </aref>
+          , Mar. 26, 1996, as amended at 
+          <aref type='FREGIST'>
+            77 FR 51690
+          </aref>
+          , Aug. 27, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='10027'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:999:-:999.600
+      </extid>
+      <num st='1'>
+        999.600
+      </num>
+      <head>
+        Regulation governing the importation of pistachios.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          77 FR 51691
+        </aref>
+        , Aug. 27, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='999' sect='600' psec='' tq='N'>
+              999.600
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Regulation governing the importation of pistachios.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <text>
+             As used in this part:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Aflatoxin
+            </E>
+             is one of a group of mycotoxins produced by the molds 
+            <E T='03'>
+              Aspergillus flavus
+            </E>
+             and 
+            <E T='03'>
+              Aspergillus parasiticus.
+            </E>
+             Aflatoxins are naturally occurring compounds produced by molds,
+            which can be spread in improperly processed and stored nuts, dried
+            fruits, and grains.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Aflatoxin inspection certificate
+            </E>
+             means a certificate issued by a USDA or USDA-accredited laboratory.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Certified lots of pistachios
+            </E>
+             are those for which aflatoxin inspection certificates have been
+            issued.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Customs
+            </E>
+             means the U.S. Customs and Border Protection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Importation of pistachios
+            </E>
+             means the release of pistachios from the custody of U.S. Customs
+            and Border Protection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Importer
+            </E>
+             means a person who engages in the importation of pistachios into
+            the United States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inshell pistachios
+            </E>
+             means pistachios that have shells that have not been removed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inspection Service
+            </E>
+             means the Federal Inspection Service, Fruit and Vegetable Programs,
+            Agricultural Marketing Service, USDA, or the Federal-State
+            Inspection Programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inspector
+            </E>
+             means any inspector authorized by USDA to draw and prepare
+            pistachio samples.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Lot
+            </E>
+             means any quantity of pistachios that is submitted for testing
+            purposes under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Person
+            </E>
+             means an individual, partnership, limited-liability corporation,
+            corporation, trust, association, or any other business unit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Pistachio
+            </E>
+             means the nut of the pistachio tree, 
+            <E T='03'>
+              Pistachia vera,
+            </E>
+             whether inshell or shelled.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Secretary
+            </E>
+             means the Secretary of Agriculture of the United States or any
+            officer or employee of the United States Department of Agriculture
+            who is, or who may hereafter be, authorized to act in his/her stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_14'>
+            <enum src='gpotxt' cln='1'>
+              (14)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Shelled pistachios
+            </E>
+             means pistachio kernels, or portions of kernels, after the
+            pistachio shells have been removed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_15'>
+            <enum src='gpotxt' cln='1'>
+              (15)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Substandard pistachios
+            </E>
+             means pistachios, inshell or shelled, that do not comply with the
+            aflatoxin regulations of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_16'>
+            <enum src='gpotxt' cln='1'>
+              (16)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              USDA
+            </E>
+             means the United States Department of Agriculture, including any
+            officer, employee, service, program, or branch of the Department of
+            Agriculture, or any other person acting as the Secretary&apos;s
+            agent or representative in connection with any provisions of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_17'>
+            <enum src='gpotxt' cln='1'>
+              (17)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              USDA laboratory
+            </E>
+             means laboratories of the Science and Technology Programs,
+            Agricultural Marketing Service, USDA, that perform chemical analyses
+            of pistachios for aflatoxin content.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_18'>
+            <enum src='gpotxt' cln='1'>
+              (18)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              USDA-accredited laboratory
+            </E>
+             means a laboratory that has been approved or accredited by the U.S.
+            Department of Agriculture to perform chemical analyses of pistachios
+            for aflatoxin content.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Importation Requirements.
+            </head>
+          </npcatch>
+          <text>
+             The importation of any lot of pistachios for human consumption is
+            prohibited unless it meets the requirements contained in this
+            section, which are determined to be the same as or comparable 
+            <PRTPAGE P='699' />
+            to those imposed upon domestic pistachios handled pursuant to Order
+            No. 983, as amended (
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='983' tq='N'>
+                983 of this chapter
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Maximum aflatoxin tolerance.
+            </head>
+          </npcatch>
+          <text>
+             No importer shall ship for domestic human consumption lots of
+            pistachios that exceed an aflatoxin level of 15 ppb. Compliance with
+            the aflatoxin requirements of this section shall be determined upon
+            the basis of sampling by a USDA-authorized inspector and testing by
+            a USDA or USDA-accredited laboratory. All shipments must be covered
+            by an aflatoxin inspection certificate issued by the laboratory.
+            Testing and certification must be completed prior to the importation
+            of pistachios.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Sampling.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Prior to, or upon, arrival of a pistachio lot at a port of entry,
+            the importer shall provide a copy of the Customs entry documentation
+            for the pistachio lot or lots to the Inspection Service office that
+            will draw and prepare samples of the pistachio shipment. More than
+            one lot may be listed on one entry document. The documentation shall
+            include: The Customs entry number; the container number(s) or other
+            identification of the lot(s); the weight of the pistachios in each
+            lot being imported, the location where the lot will be made
+            available for sampling; and a contact name or telephone number at
+            the testing location. The Inspection Service shall sign, stamp, and
+            return the entry document to the importer. The importer shall
+            provide a copy of the relevant entry documentation and such other
+            identifying information as may be requested for each pistachio lot
+            to the inspector at the time samples are drawn and prepared.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All sampling for aflatoxin testing shall be performed by
+            USDA-authorized inspectors in accordance with USDA rules and
+            regulations governing the inspection and certification of fresh
+            fruits, vegetables, and other products (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='51' tq='N'>
+                51
+              </subref>
+            </aref>
+            ). The cost of each such sampling and related certification shall be
+            borne by the applicant. Whenever pistachios are offered for sampling
+            and testing, the applicant shall furnish any labor and pay any costs
+            incurred for storing, moving, and opening containers as may be
+            necessary for proper sampling and testing. The applicant should make
+            advance arrangements with the Inspection Service to avoid delay in
+            scheduling sampling. Importers may make arrangements for required
+            sampling by contacting the Inspection Service office closest to
+            where the pistachios will be made available for sampling. For
+            questions regarding inspection services, a list of Federal or
+            Federal-State Inspection Program offices, or for further assistance,
+            importers may contact: Fresh Products Branch, Fruit and Vegetable
+            Programs, AMS, USDA, 1400 Independence Avenue SW., Room 1536-S,
+            Washington, DC, 20250; Telephone: (202) 720-5870; Fax: (202)
+            720-0393.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Lot samples shall be drawn from each lot of pistachios designated
+            for aflatoxin testing, and individual test samples shall be prepared
+            by, or under the supervision of, an inspector. Each sample shall be
+            drawn and prepared in accordance with the sample size requirements
+            outlined in Tables 1 and 2 below. The gross weight of the inshell
+            lot and test samples for aflatoxin testing and the minimum number of
+            incremental samples required are shown in Table 1. The gross weight
+            of the kernel lot and test samples for aflatoxin testing and the
+            minimum number of incremental samples required is shown in Table 2.
+            If more than one test sample is necessary, the test samples shall be
+            designated by the inspector as Test Sample #1 and Test Sample #2.
+            Each sample shall be placed in a suitable container, with the lot
+            number clearly identified, and the importer shall submit it, along
+            with a copy of the customs entry documentation, to a USDA or
+            USDA-accredited laboratory. The importer shall assume all costs for
+            shipping samples to the laboratory.
+          </text>
+        </P>
+        <table class='gpotable' CDEF='s50,14,14,14' COLS='4' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Table 1—Inshell Pistachio Lot Sampling Increments for Aflatoxin
+                Certification
+              </strong>
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th>
+                Lot weight
+                <LI>
+                  (lbs.)
+                </LI>
+              </th>
+              <th>
+                Minimum number of incremental samples for the lot sample
+              </th>
+              <th>
+                Total weight of lot sample
+                <LI>
+                  (kilograms)
+                </LI>
+              </th>
+              <th>
+                Weight of test sample
+                <LI>
+                  (kilograms)
+                </LI>
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                220 or less
+              </td>
+              <td>
+                10
+              </td>
+              <td>
+                2.0
+              </td>
+              <td>
+                2.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                221-440
+              </td>
+              <td>
+                15
+              </td>
+              <td>
+                3.0
+              </td>
+              <td>
+                3.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                441-1,100
+              </td>
+              <td>
+                20
+              </td>
+              <td>
+                4.0
+              </td>
+              <td>
+                4.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                1,101-2,200
+              </td>
+              <td>
+                30
+              </td>
+              <td>
+                6.0
+              </td>
+              <td>
+                6.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                2,201-4,400
+              </td>
+              <td>
+                40
+              </td>
+              <td>
+                8.0
+              </td>
+              <td>
+                8.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                4,401-11,000
+              </td>
+              <td>
+                60
+              </td>
+              <td>
+                12.0
+              </td>
+              <td>
+                6.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                11,001-22,000
+              </td>
+              <td>
+                80
+              </td>
+              <td>
+                16.0
+              </td>
+              <td>
+                8.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                22,001-150,000
+              </td>
+              <td>
+                100
+              </td>
+              <td>
+                20.0
+              </td>
+              <td>
+                10.0
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='s50,14,14,14' COLS='4' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Table 2—Shelled Pistachio Kernel Lot Sampling Increments for
+                Aflatoxin Certification
+              </strong>
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th>
+                Lot weight
+                <LI>
+                  (lbs.)
+                </LI>
+              </th>
+              <th>
+                Minimum number of incremental samples for the lot sample
+              </th>
+              <th>
+                Total weight of lot sample
+                <LI>
+                  (kilograms)
+                </LI>
+              </th>
+              <th>
+                Weight of test sample
+                <LI>
+                  (kilograms)
+                </LI>
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                220 or less
+              </td>
+              <td>
+                10
+              </td>
+              <td>
+                1.0
+              </td>
+              <td>
+                1.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                221-440
+              </td>
+              <td>
+                15
+              </td>
+              <td>
+                1.5
+              </td>
+              <td>
+                1.5
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                441-1,100
+              </td>
+              <td>
+                20
+              </td>
+              <td>
+                2.0
+              </td>
+              <td>
+                2.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                1,101-2,200
+              </td>
+              <td>
+                30
+              </td>
+              <td>
+                3.0
+              </td>
+              <td>
+                3.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                2,201-4,400
+              </td>
+              <td>
+                40
+              </td>
+              <td>
+                4.0
+              </td>
+              <td>
+                4.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                4,401-11,000
+              </td>
+              <td>
+                60
+              </td>
+              <td>
+                6.0
+              </td>
+              <td>
+                3.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                11,001-22,000
+              </td>
+              <td>
+                80
+              </td>
+              <td>
+                8.0
+              </td>
+              <td>
+                4.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                22,001-150,000
+              </td>
+              <td>
+                100
+              </td>
+              <td>
+                10.0
+              </td>
+              <td>
+                5.0
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Aflatoxin testing.
+            </head>
+          </npcatch>
+          <text>
+             Importers may make arrangements for required chemical analysis for
+            aflatoxin content at the nearest USDA or USDA-accredited laboratory.
+            For further information concerning chemical analysis and a list of
+            laboratories authorized to conduct such analysis contact: Science
+            and Technology Programs, AMS, USDA, 1400 Independence Avenue SW.,
+            STOP 0270, Washington, DC 20250-0270; Telephone: (202) 720-5231;
+            Fax: (202) 720-6496.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Aflatoxin test samples shall be received and logged by a USDA or
+            USDA-accredited laboratory, and each test sample shall be prepared
+            and analyzed using High Pressure Liquid Chromatography (HPLC) or the
+            AOAC-approved immunoaffinity column with direct fluorometry method.
+            The aflatoxin level shall be calculated on a kernel weight basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Lots that require a single test sample will be certified as
+            “negative” on the aflatoxin inspection certificate if the sample has
+            an aflatoxin level at or below 15 ppb. If the aflatoxin level is
+            above 15 ppb, the lot fails and the laboratory shall fill out an 
+            <E T='03'>
+              Imported Pistachios—Failed Lot Notification
+            </E>
+             report (Form FV-249) as described in paragraph (h)(1) of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Lots that require two test samples will be certified as “negative”
+            on the aflatoxin inspection certificate if Test Sample #1 has an
+            aflatoxin level at or below 10 ppb. If the aflatoxin level of Test
+            Sample #1 is above 20 ppb, the lot fails and the laboratory shall
+            fill out an 
+            <E T='03'>
+              Imported Pistachios—Failed Lot Notification
+            </E>
+             report (Form FV-249). If the aflatoxin level of Test Sample #1 is
+            above 10 ppb and at or below 20 ppb, the laboratory may, at the
+            importer&apos;s discretion, analyze Test Sample #2 and average the
+            test results of Test Samples #1 and #2. Alternately, the importer
+            may elect to withdraw the lot from testing, rework the lot, and
+            resubmit it for testing after reworking. If the importer directs the
+            laboratory to proceed with the analysis of Test Sample #2, a lot
+            will be certified as negative to aflatoxin and the laboratory shall
+            issue an aflatoxin inspection certificate if the averaged result of
+            Test Samples #1 and #2 is at or below 15 ppb. If the average
+            aflatoxin level of Test Samples #1 and #2 is above 15 ppb, the lot
+            fails and the laboratory shall fill out an 
+            <E T='03'>
+              Imported Pistachios—Failed Lot Notification
+            </E>
+             report (Form FV-249).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If an importer does not elect to use Test Sample #2 for
+            certification 
+            <PRTPAGE P='701' />
+            purposes, the importer may request that the laboratory return the
+            sample to the importer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Certification.
+            </head>
+          </npcatch>
+          <text>
+             Each lot of pistachios sampled and tested in accordance with
+            paragraphs (d) and (e) of this section shall be covered by an
+            aflatoxin inspection certificate completed by the laboratory. The
+            certification expires for the lot or remainder of the lot after 12
+            months. Each such certificate shall set forth the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The date and place of sampling and testing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the applicant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The Customs entry number pertaining to the lot or shipment covered
+            by the certificate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity and identifying marks of the lot tested.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The aflatoxin level of the lot, stated on a kernel weight basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The statement, if applicable: “Meets U.S. import requirements under
+            
+            <aref type='UNKNOWN'>
+              section 8e of
+            </aref>
+             the AMA Act of 1937.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             If the lot fails to meet the import requirements, a statement to
+            that effect and the reasons therefore.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Failed lots/rework procedure.
+            </head>
+          </npcatch>
+          <text>
+             Any lot or portion thereof that fails to meet the import
+            requirements prior to or after reconditioning may be exported, sold
+            for non-human consumption, or disposed of under the supervision of
+            Customs and, if necessary for verification purposes, the Federal or
+            Federal-State Inspection Programs, with the costs of certifying the
+            disposal of such lot paid by the importer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Inshell rework procedure for aflatoxin.
+            </head>
+          </npcatch>
+          <text>
+             If inshell rework is selected as a remedy to meet the aflatoxin
+            requirements of this part, then 100 percent of the product within
+            that lot shall be removed from the bulk and/or retail packaging
+            containers and reworked to remove the portion of the lot that caused
+            the failure. Reworking shall consist of mechanical, electronic, or
+            manual procedures normally used in the handling of pistachios. After
+            the rework procedure has been completed, the total weight of the
+            accepted product and the total weight of the rejected product shall
+            be reported by the importer to Customs and USDA on an 
+            <E T='03'>
+              Imported Pistachios—Rework and Failed Lot Disposition
+            </E>
+             report (Form FV-251) as described in paragraph (h)(2) of this
+            section. The reworked lot shall be sampled and tested for aflatoxin
+            as specified in paragraphs (d) and (e) of this section, except that
+            the lot sample size and the test sample size shall be doubled. If,
+            after the lot has been reworked and tested, it fails the aflatoxin
+            test for a second time, the lot may be shelled and the kernels
+            reworked, sampled, and tested in the manner specified for an
+            original lot of kernels, or the failed lot may be exported, used for
+            non-human consumption, or otherwise disposed of.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Kernel rework procedure for aflatoxin.
+            </head>
+          </npcatch>
+          <text>
+             If pistachio kernel rework is selected as a remedy to meet the
+            aflatoxin requirements of this part, then 100 percent of the product
+            within that lot shall be removed from the bulk and/or retail
+            packaging containers and reworked to remove the portion of the lot
+            that caused the failure. Reworking shall consist of mechanical,
+            electronic, or manual procedures normally used in the handling of
+            pistachios. After the rework procedure has been completed the total
+            weight of the accepted product and the total weight of the rejected
+            product shall be reported to Customs and USDA on an 
+            <E T='03'>
+              Imported Pistachios—Rework and Failed Lot Disposition
+            </E>
+             report (Form FV-251). The reworked lot shall be sampled and tested
+            for aflatoxin as specified in paragraphs (d) and (e) of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Failed lot reporting.
+            </head>
+          </npcatch>
+          <text>
+             If a lot fails to meet the aflatoxin requirements of this part, the
+            testing laboratory shall complete an 
+            <E T='03'>
+              Imported Pistachios—Failed Lot Notification
+            </E>
+             report (Form FV-249) as described in paragraph (h)(1) of this
+            section, and shall submit it to Customs, the importer, and USDA
+            within 10 working days of the test failure. This form must be
+            completed and submitted each time a lot fails aflatoxin testing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Reports and Recordkeeping.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Form FV-249 Imported Pistachios—Failed Lot Notification.
+            </head>
+          </npcatch>
+          <text>
+             Each USDA or USDA-accredited laboratory shall notify the importer;
+            Customs; and the Marketing Order and Agreement Division, Fruit and
+            Vegetable Programs, AMS, USDA; of all lots that fail to meet the
+            maximum aflatoxin requirements by completing this form and
+            submitting it within 10 days of failed aflatoxin testing.
+            <PRTPAGE P='702' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Form FV-251 Imported Pistachios—Rework and Failed Lot Disposition.
+            </head>
+          </npcatch>
+          <text>
+             Each importer who reworks a failing lot of pistachios shall
+            complete this report and shall forward it to Customs and the
+            Marketing Order and Agreement Division, Fruit and Vegetable
+            Programs, AMS, USDA, no later than 10 days after the rework is
+            completed. If rework is not selected as a remedy, the importer shall
+            complete and submit this form within 10 days of alternate
+            disposition of the lot.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Exemptions.
+            </head>
+          </npcatch>
+          <text>
+             Any importer may import pistachios free of the requirements of this
+            section if such importer imports a quantity not exceeding a total of
+            5,000 dried pounds between September 1 and August 31 of each year.
+            Substandard pistachios imported for use in non-human consumption
+            outlets shall be subject to the safeguard provisions contained in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='999' sect='500' psec='' tq='N'>
+                999.500
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Reconditioning prior to importation.
+            </head>
+          </npcatch>
+          <text>
+             Nothing contained in this section shall be deemed to preclude
+            reconditioning pistachios prior to importation, in order that such
+            pistachios may be made eligible to meet the applicable aflatoxin
+            regulations prescribed in paragraphs (c) through (f) of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Comingling.
+            </head>
+          </npcatch>
+          <text>
+             Certified lots of pistachios may be comingled with other certified
+            lots, but the comingling of certified lots and uncertified lots
+            shall cause the loss of certification for the comingled lots.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+            <head>
+              Retesting.
+            </head>
+          </npcatch>
+          <text>
+             Whenever USDA has reason to believe that imported pistachios may
+            have been damaged or deteriorated while in storage, USDA may reject
+            the then effective inspection certificate and may require the owner
+            of the pistachios to have them retested to establish whether or not
+            such pistachios may be shipped for human consumption.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+            <head>
+              Compliance.
+            </head>
+          </npcatch>
+          <text>
+             Any person who violates any provision of this section shall be
+            subject to a forfeiture in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8a(5
+            </aref>
+            ) of the Agricultural Marketing Agreement Act of 1937, as amended (
+            <aref type='USC'>
+              <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+                7 U.S.C. 601-674
+              </subref>
+            </aref>
+            ), or, upon conviction, a penalty in the amount prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              section 8c(14
+            </aref>
+            ) of the said Act, or to both such forfeiture and penalty. False
+            representation to any agency of the United States on any matter
+            within its jurisdiction, knowing it to be false, is a violation of 
+            <aref type='USC'>
+              <subref title='18' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/18/1001.html'>
+                18 U.S.C. 1001
+              </subref>
+            </aref>
+            , which provides for a fine or imprisonments or both.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='n'>
+            <enum src='gpotxt' cln='1'>
+              (n)
+            </enum>
+            <head>
+              Other import requirements.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of this section do not supersede any restrictions or
+            prohibitions on pistachios under the Federal Plant Quarantine Act of
+            1912, or any other applicable laws or regulations of city, county,
+            State, or Federal Agencies including the Federal Food, Drug and
+            Cosmetic Act.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            77 FR 51691
+          </aref>
+          , Aug. 27, 2012]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

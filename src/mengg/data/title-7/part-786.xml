@@ -1,0 +1,2513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol7'>
+    <extid>
+      lii:cfr:2013:7:0:B:VII:D:786
+    </extid>
+    <num>
+      786
+    </num>
+    <head>
+      DAIRY DISASTER ASSISTANCE PAYMENT PROGRAM (DDAP-III)
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Sec. 9007
+          </aref>
+          , 
+          <aref target='_blank' title='Pub. L. 110-28' alt='Pub. L. 110-28' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ28/html/PLAW-110publ28.htm'>
+            Pub. L. 110-28
+          </aref>
+          , 
+          <aref target='_blank' title='121 Stat. 112' alt='121 Stat. 112' href='http://www.gpo.gov/fdsys/pkg/STATUTE-121/html/STATUTE-121-Pg112.htm'>
+            121 Stat. 112
+          </aref>
+          ; and 
+          <aref type='CFR-TIC-SECT'>
+            Sec. 743
+          </aref>
+          , 
+          <aref target='_blank' title='Pub. L. 110-161' alt='Pub. L. 110-161' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm'>
+            Pub. L. 110-161
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            73 FR 11522
+          </aref>
+          , Mar. 4, 2008, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='7268'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.100
+      </extid>
+      <num st='1'>
+        786.100
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='100' psec='' tq='N'>
+              786.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the availability of funds, this part specifies the terms
+            and conditions applicable to the Dairy Disaster Assistance Payment
+            Program (DDAP-III) authorized by 
+            <aref type='UNKNOWN'>
+              section 9007 of
+            </aref>
+            <aref target='_blank' title='Public Law 110-28' alt='Public Law 110-28' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ28/html/PLAW-110publ28.htm'>
+              Public Law 110-28
+            </aref>
+             (extended by 
+            <aref target='_blank' title='Pub. L. 110-161' alt='Pub. L. 110-161' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm'>
+              Pub. L. 110-161
+            </aref>
+            ). Benefits are available to eligible United States producers who
+            have suffered dairy production losses in eligible counties as a
+            result of a natural disaster declared during the period between
+            January 1, 2005, and December 31, 2007, (that is, after January 1,
+            2005, and before December 31, 2007).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for this program, a producer must have been a milk
+            producer anytime during the period of January 2, 2005, through
+            December 30, 2007, in a county declared a natural disaster by the
+            Secretary of Agriculture, declared a major disaster or emergency
+            designated by the President of the United States. For a county for
+            which there was a timely Presidential declaration, but the
+            declaration did not cover the loss, the county may still be eligible
+            if the county is one for which an appropriate determination of a
+            Farm Service Agency (FSA) Administrator&apos;s Physical Loss Notice
+            applies. Counties contiguous to a county that is directly eligible
+            by way of a natural disaster declaration are also eligible. Only
+            losses occurring in eligible counties are eligible for payment in
+            this program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the availability of funds, FSA will provide benefits to
+            eligible dairy producers. Additional terms and conditions may be
+            specified in the payment application that must be completed and
+            submitted by producers to receive a disaster assistance payment for
+            dairy production losses.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for payments, producers must meet the provisions of,
+            and their losses must meet the conditions of, this part and any
+            other conditions imposed by FSA.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7269'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.101
+      </extid>
+      <num st='1'>
+        786.101
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='101' psec='' tq='N'>
+              786.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             DDAP-III will be administered under the general supervision of the
+            Administrator, FSA, or a designee, and be carried out in the field
+            by FSA State and county committees (State and county committees) and
+            FSA employees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             State and county committees, and representatives and employees
+            thereof, do not have the authority to modify or waive any of the
+            provisions of the regulations of this part.
+            <PRTPAGE P='375' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The State committee will take any action required by the
+            regulations of this part that has not been taken by the county
+            committee. The State committee will also:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Correct, or require the county committee to correct, any action
+            taken by such county committee that is not in accordance with the
+            regulations of this part; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require a county committee to withhold taking any action that is
+            not in accordance with the regulations of this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             No provision of delegation in this part to a State or county
+            committee will preclude the Administrator, FSA, or a designee, from
+            determining any question arising under the program or from reversing
+            or modifying any determination made by the State or county
+            committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Deputy Administrator, Farm Programs, FSA, may authorize State
+            and county committees to waive or modify deadlines in cases where
+            lateness or failure to meet such requirements do not adversely
+            affect the operation of the DDAP-III and does not violate statutory
+            limitations of the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Data furnished by the applicants is used to determine eligibility
+            for program benefits. Although participation in DDAP-III is
+            voluntary, program benefits will not be provided unless the producer
+            furnishes all requested data.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7270'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.102
+      </extid>
+      <num st='1'>
+        786.102
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='102' psec='' tq='N'>
+              786.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The definitions in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='718' tq='N'>
+              718
+            </subref>
+          </aref>
+           apply to this part except to the extent they are inconsistent with
+          the provisions of this part. In addition, for the purpose of this
+          part, the following definitions apply.
+        </P>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the FSA Administrator, or a designee.
+        </P>
+        <P>
+          <E T='03'>
+            Application
+          </E>
+           means DDAP-III application.
+        </P>
+        <P>
+          <E T='03'>
+            Application period
+          </E>
+           means the time period established by the Deputy Administrator for
+          producers to apply for program benefits.
+        </P>
+        <P>
+          <E T='03'>
+            Base annual production
+          </E>
+           means the pounds of production determined by multiplying the average
+          annual production per cow calculated from base period information
+          times the average number of cows in the dairy herd during each
+          applicable disaster year.
+        </P>
+        <P>
+          <E T='03'>
+            County committee
+          </E>
+           means the FSA county committee.
+        </P>
+        <P>
+          <E T='03'>
+            County office
+          </E>
+           means the FSA office responsible for administering FSA programs for
+          farms located in a specific area in a State.
+        </P>
+        <P>
+          <E T='03'>
+            Dairy operation
+          </E>
+           means any person or group of persons who, as a single unit, as
+          determined by FSA, produces and markets milk commercially from cows
+          and whose production facilities are located in the United States.
+        </P>
+        <P>
+          <E T='03'>
+            Department or USDA
+          </E>
+           means the United States Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Deputy Administrator
+          </E>
+           means the Deputy Administrator for Farm Programs (DAFP), FSA, or a
+          designee.
+        </P>
+        <P>
+          <E T='03'>
+            Disaster claim period
+          </E>
+           means the calendar year(s) applicable to the disaster declaration
+          during the eligible period in which the production losses occurred.
+        </P>
+        <P>
+          <E T='03'>
+            Disaster county
+          </E>
+           means a county included in the geographic area covered by a natural
+          disaster declaration, and any county contiguous to a county that
+          qualifies by a natural disaster declaration.
+        </P>
+        <P>
+          <E T='03'>
+            Farm Service Agency or FSA
+          </E>
+           means the Farm Service Agency of the Department.
+        </P>
+        <P>
+          <E T='03'>
+            Hundredweight or cwt.
+          </E>
+           means 100 pounds.
+        </P>
+        <P>
+          <E T='03'>
+            Milk handler or cooperative
+          </E>
+           means the marketing agency to, or through, which the producer
+          commercially markets whole milk.
+        </P>
+        <P>
+          <E T='03'>
+            Milk marketings
+          </E>
+           means a marketing of milk for which there is a verifiable sale or
+          delivery record of milk marketed for commercial use.
+        </P>
+        <P>
+          <E T='03'>
+            Natural disaster declaration
+          </E>
+           means a natural disaster declaration issued by the Secretary of
+          Agriculture after January 1, 2005, but before December 31, 2007, under
+          
+          <aref type='UNKNOWN'>
+            section 321(a) of
+          </aref>
+           the Consolidated Farm and Rural Development Act (
+          <aref type='USC'>
+            <subref title='7' sect='1961' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/7/1961.html#a'>
+              7 U.S.C. 1961(a)
+            </subref>
+          </aref>
+          ), a major disaster or emergency designation by the President of the
+          United States in that period under the Robert T. Stafford Disaster
+          Relief and Emergency Assistance Act, or a determination of a Farm
+          Service Agency Administrator&apos;s Physical Loss Notice for a county
+          covered 
+          <PRTPAGE P='376' />
+          in an otherwise eligible Presidential declaration.
+        </P>
+        <P>
+          <E T='03'>
+            Payment pounds
+          </E>
+           means the pounds of milk production from a dairy operation for which
+          the dairy producer is eligible to be paid under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Producer
+          </E>
+           means any individual, group of individuals, partnership, corporation,
+          estate, trust association, cooperative, or other business enterprise
+          or other legal entity who is, or whose members are, a citizen of, or a
+          legal resident alien in, the United States, and who directly or
+          indirectly, as determined by the Secretary, have a share entitlement
+          or ownership interest in a commercial dairy&apos;s milk production and
+          who share in the risk of producing milk, and make contributions
+          (including land, labor, management, equipment, or capital) to the
+          dairy farming operation of the individual or entity.
+        </P>
+        <P>
+          <E T='03'>
+            Reliable production evidence
+          </E>
+           means records provided by the producer subject to a determination of
+          acceptability by the county committee that are used to substantiate
+          the amount of production reported when verifiable records are not
+          available; the records may include copies of receipts, ledgers of
+          income, income statements of deposit slips, register tapes, and
+          records to verify production costs, contemporaneous measurements, and
+          contemporaneous diaries.
+        </P>
+        <P>
+          <E T='03'>
+            Verifiable production records
+          </E>
+           means evidence that is used to substantiate the amount of production
+          marketed, including any dumped production, and that can be verified by
+          FSA through an independent source.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7271'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.103
+      </extid>
+      <num st='1'>
+        786.103
+      </num>
+      <head>
+        Time and method of application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='103' psec='' tq='N'>
+              786.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Time and method of application.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Dairy producers may obtain an application, in person, by mail, by
+            telephone, or by facsimile from any FSA county office. In addition,
+            applicants may download a copy of the application at 
+            <E T='03'>
+              http://www.sc.egov.usda.gov.
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A request for benefits under this part must be submitted on a
+            completed DDAP-III application. Applications and any other
+            supporting documentation must be submitted to the FSA county office
+            serving the county where the dairy operation is located, but, in any
+            case, must be received by the FSA county office by the close of
+            business on the date established by the Deputy Administrator.
+            Applications not received by the close of business on such date will
+            be disapproved as not having been timely filed and the dairy
+            producer will not be eligible for benefits under this program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             All persons who share in the milk production of the dairy operation
+            and risk of the dairy operation&apos;s total production must certify
+            to the information on the application before the application will be
+            considered complete.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Each dairy producer requesting benefits under this part must
+            certify to the accuracy and truthfulness of the information provided
+            in their application and any supporting documentation. Any
+            information entered on the application will be considered
+            information from the applicant regardless of who entered the
+            information on the application. All information provided is subject
+            to verification by FSA. Refusal to allow FSA or any other agency of
+            the Department of Agriculture to verify any information provided may
+            result in a denial of eligibility. Furnishing the information is
+            voluntary; however, without it program benefits will not be
+            approved. Providing a false certification to the Government may be
+            punishable by imprisonment, fines, and other penalties or sanctions.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7272'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.104
+      </extid>
+      <num st='1'>
+        786.104
+      </num>
+      <head>
+        Eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='104' psec='' tq='N'>
+              786.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Producers in the United States will be eligible to receive dairy
+            disaster benefits under this part only if they have suffered dairy
+            production losses, previously uncompensated by disaster payments
+            including any previous dairy disaster payment program, during the
+            claim period applicable to a natural disaster declaration in a
+            disaster county. To be eligible to receive payments under this part,
+            producers in a dairy operation must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Have produced and commercially marketed milk in the United States
+            and commercially marketed the milk produced anytime during the
+            period of January 2, 2005 through December 30, 2007;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be a producer on a dairy farm operation physically located in an
+            eligible county where dairy production losses were incurred as a
+            result of a 
+            <PRTPAGE P='377' />
+            disaster for which an applicable natural disaster declaration was
+            issued between January 1, 2005 and December 31, 2007, and limit
+            their claims to losses that occurred in those counties, specific to
+            conditions resulting from the declared disaster as described in the
+            natural disaster declaration;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Provide adequate proof, to the satisfaction of the FSA county
+            committee, of the average number of cows in the dairy herd and
+            annual milk production commercially marketed by all persons in the
+            eligible dairy operation during the years of the base period (2003
+            and 2004 calendar years) and applicable disaster year that
+            corresponds with the issuance date of the applicable natural
+            disaster declaration, or other period as determined by FSA, to
+            determine the total pounds of eligible losses that will be used for
+            payment; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Apply for payments during the application period established by the
+            Deputy Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payments may be made for losses suffered by an otherwise eligible
+            producer who is now deceased or is a dissolved entity if a
+            representative who currently has authority to enter into a contract
+            for the producer or the producer&apos;s estate signs the application
+            for payment. Proof of authority to sign for the deceased
+            producer&apos;s estate or a dissolved entity must be provided. If a
+            producer is now a dissolved general partnership or joint venture,
+            all members of the general partnership or joint venture at the time
+            of dissolution or their duly-authorized representatives must sign
+            the application for payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Producers associated with a dairy operation must submit a timely
+            application and satisfy the terms and conditions of this part,
+            instructions issued by FSA, and instructions contained in the
+            application to be eligible for benefits under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             As a condition to receive benefits under this part, a producer must
+            have been in compliance with the Highly Erodible Land Conservation
+            and Wetland Conservation provisions of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='12' tq='N'>
+                12
+              </subref>
+            </aref>
+             for the calendar year applicable to the natural disaster
+            declaration and loss claim period, and must not otherwise be barred
+            from receiving benefits under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='12' tq='N'>
+                12
+              </subref>
+            </aref>
+             or any other law or regulation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Payments are limited to losses in eligible counties, in eligible
+            disaster years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             All payments under this part are subject to the availability of
+            funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible losses are determined from the applicable base annual
+            production, as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='102' psec='' tq='N'>
+                786.102
+              </subref>
+            </aref>
+            , that corresponds to the natural disaster declaration and must have
+            occurred during that same period as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For disaster declarations for disasters during a calendar year
+            (2005, 2006, or 2007), the disaster claim period is the full
+            calendar year and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For disaster declarations issued during one calendar year that ends
+            in another calendar year, the producer will be eligible for both
+            disaster years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Deductions in eligibility will be made for any disaster payments
+            previously received for the loss including any made under a previous
+            dairy disaster assistance payment program for 2005.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7273'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.105
+      </extid>
+      <num st='1'>
+        786.105
+      </num>
+      <head>
+        Proof of production.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='105' psec='' tq='N'>
+              786.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Proof of production.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence of production is required to establish the commercial
+            marketing and production history of the dairy operation so that
+            dairy production losses can be computed in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='106' psec='' tq='N'>
+                786.106
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A dairy producer must, based on the instructions issued by the
+            Deputy Administrator, provide adequate proof of the dairy
+            operation&apos;s commercial production, including any dairy herd
+            inventory records available for the operation, for the years of the
+            base period (2003 and 2004 calendar years) and disaster claim period
+            that corresponds with the issuance date of the applicable natural
+            disaster declaration.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A producer must certify and provide such proof as requested that
+            losses for which compensation is claimed were related to the
+            disaster declaration issued and occurred in an eligible county
+            during the eligible claim period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A producer must certify to the average number of cows in the dairy
+            herd during the base period and applicable disaster claim period
+            when there is insufficient documentation available for verification.
+            <PRTPAGE P='378' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Additional supporting documentation may be requested by FSA as
+            necessary to verify production losses to the satisfaction of FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Adequate proof of production history of the dairy operation under
+            paragraph (b) of this section must be based on milk marketing
+            statements obtained from the dairy operation&apos;s milk handler or
+            marketing cooperative. Supporting documents may include, but are not
+            limited to: Tank records, milk handler records, daily milk
+            marketings, copies of any payments received from other sources for
+            production losses, or any other documents available to confirm or
+            adjust the production history losses incurred by the dairy
+            operation. All information provided is subject to verification, spot
+            check, and audit by FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             As specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='106' psec='' tq='N'>
+                786.106
+              </subref>
+            </aref>
+            , loss calculations will be based on comparing the expected base
+            annual production consistent with this part and the actual
+            production during the applicable disaster claim year. Such
+            calculations are subject to adjustments as may be appropriate such
+            as a correction for losses not due to the disaster. If adequate
+            proof of normally marketed production and any other production for
+            relevant periods is not presented to the satisfaction of FSA, the
+            request for benefits will be rejected. Special adjustments for new
+            producers may be made as determined necessary by the Administrator.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7274'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.106
+      </extid>
+      <num st='1'>
+        786.106
+      </num>
+      <head>
+        Determination of losses incurred.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='106' psec='' tq='N'>
+              786.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determination of losses incurred.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible payable losses are calculated on a dairy operation by
+            dairy operation basis and are limited to those occurring during the
+            applicable disaster claim period, as provided by 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='104' psec='#g' tq='N'>
+                786.104(g)
+              </subref>
+            </aref>
+            , that corresponds with the applicable natural disaster declaration.
+            Specifically, dairy production losses incurred by producers under
+            this part are determined on the established history of the dairy
+            operation&apos;s average number of cows in the dairy herd and actual
+            commercial production marketed during the base period and applicable
+            disaster claim period that corresponds with the applicable natural
+            disaster declaration, as provided by the dairy operation consistent
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='105' psec='' tq='N'>
+                786.105
+              </subref>
+            </aref>
+            . Except as otherwise provided in this part, the base annual
+            production, as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='102' psec='' tq='N'>
+                786.102
+              </subref>
+            </aref>
+             and established in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='104' psec='#g' tq='N'>
+                786.104(g)
+              </subref>
+            </aref>
+             is determined for each applicable disaster year based on the
+            average annual production per cow determined according to the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The average of annual marketed production during the base period
+            calendar years of 2003 and 2004, divided by;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The average number of cows in the dairy operation&apos;s herd
+            during the base period calendar years of 2003 and 2004.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If relevant information to calculate the average annual production
+            per cow for one or both of the base period calendar years of 2003
+            and 2004, is not available, an alternative method of determining the
+            average annual production per cow may be established by the FSA
+            Administrator. For example, for new dairies not in operation during
+            2003 and 2004, information from three similar farms may be obtained
+            by FSA to estimate base annual production.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The average annual production per cow, as determined according to
+            paragraphs (a)(1) and (a)(2) of this section, is multiplied by the
+            average number of cows in the dairy operation&apos;s herd during the
+            applicable disaster year (excluding cow losses resulting from the
+            disaster occurrence), to determine base annual production for the
+            dairy operation for each applicable disaster claim period year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The eligible dairy production losses for a dairy operation for each
+            of the authorized disaster claim period years will be:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The relevant period&apos;s base annual production for the dairy
+            operation calculated under paragraph (c) of this section less,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For each such disaster claim period for each dairy operation the
+            actual commercially-marketed production relevant to that period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Spoiled or dumped milk, disposed of for reasons unrelated to the
+            disaster occurrence, must be counted as production for the relevant
+            disaster claim period. Actual production losses may be adjusted to
+            the extent the reduction in production is not certified by the
+            producer to be the result of the disaster identified in the natural
+            disaster declaration or is determined by FSA not 
+            <PRTPAGE P='379' />
+            to be related to the natural disaster identified in the natural
+            disaster declaration. FSA county committees will determine
+            production losses that are not caused by the disaster associated
+            with the natural disaster declaration. The calculated production
+            loss determined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='106' psec='#d' tq='N'>
+                786.106(d)
+              </subref>
+            </aref>
+             will be adjusted to account for pounds of production losses
+            determined by the FSA county committee to not have been associated
+            with the declared natural disaster for an eligible disaster county.
+            The FSA county committee may convert cow numbers to actual pounds of
+            production used in the adjustment, by multiplying the average annual
+            production per cow determined from base period information, by the
+            applicable number of cows determined to be ineligible to generate
+            claims for benefits. Other appropriate adjustments will be made on
+            such basis as the Deputy Administrator finds to be consistent with
+            the objectives of the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Actual production, as adjusted, that exceeds the base annual
+            production will mean that the dairy operation incurred no eligible
+            production losses for the corresponding claim period as a result of
+            the natural disaster.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible production losses as otherwise determined under paragraphs
+            (a) through (f) of this section for each authorized year of the
+            program are added together to determine total eligible losses
+            incurred by the dairy operation under DDAP-III subject to all other
+            eligibility requirements as may be included in this part or
+            elsewhere, including the deduction for previous payments including
+            those made under a previous DDAP program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Payment on eligible dairy operation losses will be calculated using
+            whole pounds of milk. No double counting is permitted, and only one
+            payment will be made for each pound of milk calculated as an
+            eligible loss after the distribution of the dairy operation&apos;s
+            eligible production loss among the producers of the dairy operation
+            according to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='107' psec='#b' tq='N'>
+                786.107(b)
+              </subref>
+            </aref>
+            . Payments under this part will not be affected by any payments for
+            dumped or spoiled milk that the dairy operation may have received
+            from its milk handler, marketing cooperative, or any other private
+            party; however, produced milk that was dumped or spoiled for reasons
+            unrelated to the disaster occurrence will still count as production.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7275'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.107
+      </extid>
+      <num st='1'>
+        786.107
+      </num>
+      <head>
+        Rate of payment and limitations on funding.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='107' psec='' tq='N'>
+              786.107
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Rate of payment and limitations on funding.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the availability of funds, the payment rate for eligible
+            production losses determined according to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='786' sect='106' psec='' tq='N'>
+                786.106
+              </subref>
+            </aref>
+             is, depending on the State, the annual average Mailbox milk price
+            for the Marketing Order, applicable to the State where the eligible
+            disaster county is located, as reported by the Agricultural
+            Marketing Service during the relevant period. States not regulated
+            under a Marketing Order will be assigned a payment rate based on
+            contiguous or nearby State&apos;s Mailbox milk price. Maximum per
+            pound payment rates for eligible losses for dairy operations located
+            in specific states during the relevant period are as follows:
+          </text>
+        </P>
+        <table class='gpotable' CDEF='s50,12,12,12,12' COLS='4' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th>
+                State
+              </th>
+              <th>
+                Mailbox price 2005
+              </th>
+              <th>
+                Mailbox price 2006
+              </th>
+              <th>
+                Mailbox price 2007 *
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='4'>
+                <E T='02'>
+                  Note:
+                </E>
+                 Calculations are rounded to 7 decimal places.
+              </td>
+            </tr>
+            <tr>
+              <td class='tnote' colspan='4'>
+                * Payment rates for 2007 are currently unavailable, but will be
+                based on the annual average Mailbox milk price for the Marketing
+                Order, applicable to the State where the eligible disaster
+                county is located, as reported by the Agricultural Marketing
+                Service, consistent with payment rates provided for 2005 and
+                2006.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Alabama
+              </td>
+              <td>
+                0.1596
+              </td>
+              <td>
+                0.1443
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Alaska
+              </td>
+              <td>
+                0.2040
+              </td>
+              <td>
+                0.2010
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Arizona
+              </td>
+              <td>
+                0.1388
+              </td>
+              <td>
+                0.1128
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Arkansas
+              </td>
+              <td>
+                0.1596
+              </td>
+              <td>
+                0.1443
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                California
+              </td>
+              <td>
+                0.1388
+              </td>
+              <td>
+                0.1128
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Colorado
+              </td>
+              <td>
+                0.1403
+              </td>
+              <td>
+                0.1214
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Connecticut
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Delaware
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Florida
+              </td>
+              <td>
+                0.1758
+              </td>
+              <td>
+                0.1603
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Georgia
+              </td>
+              <td>
+                0.1596
+              </td>
+              <td>
+                0.1443
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Hawaii
+              </td>
+              <td>
+                0.2700
+              </td>
+              <td>
+                0.2600
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Idaho
+              </td>
+              <td>
+                0.1402
+              </td>
+              <td>
+                0.1215
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Illinois
+              </td>
+              <td>
+                0.1514
+              </td>
+              <td>
+                0.1283
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Indiana
+              </td>
+              <td>
+                0.1503
+              </td>
+              <td>
+                0.1294
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Iowa
+              </td>
+              <td>
+                0.1507
+              </td>
+              <td>
+                0.1285
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Kansas
+              </td>
+              <td>
+                0.1403
+              </td>
+              <td>
+                0.1214
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Kentucky
+              </td>
+              <td>
+                0.1527
+              </td>
+              <td>
+                0.1349
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Louisiana
+              </td>
+              <td>
+                0.1596
+              </td>
+              <td>
+                0.1443
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Maine
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Maryland
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Massachusetts
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Michigan
+              </td>
+              <td>
+                0.1478
+              </td>
+              <td>
+                0.1264
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Minnesota
+              </td>
+              <td>
+                0.1512
+              </td>
+              <td>
+                0.1277
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Mississippi
+              </td>
+              <td>
+                0.1596
+              </td>
+              <td>
+                0.1443
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Missouri (Northern)
+              </td>
+              <td>
+                0.1403
+              </td>
+              <td>
+                0.1214
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Missouri (Southern)
+              </td>
+              <td>
+                0.1467
+              </td>
+              <td>
+                0.1254
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Montana
+              </td>
+              <td>
+                0.1512
+              </td>
+              <td>
+                0.1277
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Nebraska
+              </td>
+              <td>
+                0.1403
+              </td>
+              <td>
+                0.1214
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Nevada
+              </td>
+              <td>
+                0.1388
+              </td>
+              <td>
+                0.1128
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                New Hampshire
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                New Jersey
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                New Mexico
+              </td>
+              <td>
+                0.1323
+              </td>
+              <td>
+                0.1108
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                New York
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1303
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                North Carolina
+              </td>
+              <td>
+                0.1527
+              </td>
+              <td>
+                0.1349
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                North Dakota
+              </td>
+              <td>
+                0.1512
+              </td>
+              <td>
+                0.1277
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Ohio
+              </td>
+              <td>
+                0.1506
+              </td>
+              <td>
+                0.1302
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Oklahoma
+              </td>
+              <td>
+                0.1596
+              </td>
+              <td>
+                0.1443
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Oregon
+              </td>
+              <td>
+                0.1402
+              </td>
+              <td>
+                0.1215
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Pennsylvania (Eastern)
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1340
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Pennsylvania (Western)
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1302
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Puerto Rico
+              </td>
+              <td>
+                0.2550
+              </td>
+              <td>
+                0.2570
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Rhode Island
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                South Carolina
+              </td>
+              <td>
+                0.1527
+              </td>
+              <td>
+                0.1349
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                South Dakota
+              </td>
+              <td>
+                0.1512
+              </td>
+              <td>
+                0.1277
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Tennessee
+              </td>
+              <td>
+                0.1527
+              </td>
+              <td>
+                0.1349
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Texas
+              </td>
+              <td>
+                0.1405
+              </td>
+              <td>
+                0.1194
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Vermont
+              </td>
+              <td>
+                0.1539
+              </td>
+              <td>
+                0.1344
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Virginia
+              </td>
+              <td>
+                0.1527
+              </td>
+              <td>
+                0.1349
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Washington
+              </td>
+              <td>
+                0.1402
+              </td>
+              <td>
+                0.1215
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                West Virginia
+              </td>
+              <td>
+                0.1506
+              </td>
+              <td>
+                0.1302
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Wisconsin
+              </td>
+              <td>
+                0.1535
+              </td>
+              <td>
+                0.1305
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Wyoming
+              </td>
+              <td>
+                0.1403
+              </td>
+              <td>
+                0.1214
+              </td>
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the availability of funds, each eligible dairy
+            operation&apos;s payment is calculated by multiplying the applicable
+            payment rate under paragraph (a) of this section by the
+            operation&apos;s total eligible losses as adjusted pursuant to this
+            part. Where there are multiple producers in the dairy operation,
+            individual producers&apos; payments are disbursed according to each
+            producer&apos;s share of the dairy operation&apos;s production as
+            specified in the application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the total value of losses claimed nationwide under paragraph (b)
+            of this section exceeds the $16 million available for the DDAP-III,
+            less any reserve that may be created under paragraph (e) of this
+            section, total eligible losses of individual dairy operations that,
+            as calculated as an overall percentage for each full disaster claim
+            period applicable to the disaster declaration, are greater than 20
+            percent of the total base annual production will be paid at the
+            maximum rate under paragraph (a) of this section to the extent
+            available funding allows. A loss of over 20 percent in only one or
+            two months during the applicable disaster claim period does not of
+            itself qualify for the maximum per-pound payment. Rather, the
+            priority level must be reached as an average over the whole disaster
+            claim period for the relevant calendar year. Total eligible losses
+            for a producer, as calculated under 
+            <aref type='UNKNOWN'>
+              § 786.106, of
+            </aref>
+             less than or equal to 20 percent during the eligible claim period
+            will then be paid at a rate, not to exceed the rate allowed in
+            paragraph (a) of this section, determined by dividing the eligible
+            losses of less than 20 percent by the funds remaining after making
+            payments for all eligible losses above the 20-percent threshold.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In no event will the payment exceed the value determined by
+            multiplying the producer&apos;s total eligible loss times the
+            average price received for commercial milk production in the 
+            <PRTPAGE P='381' />
+            producer&apos;s area as defined in paragraph (a) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             No participant will receive disaster benefits under this part that
+            in combination with the value of production not lost would result in
+            an amount that exceeds 95 percent of the value of the expected
+            production for the relevant period as estimated by the Secretary.
+            Unless otherwise program funds would not be fully expended, the sum
+            of the value of the production not lost, if any; and the disaster
+            payment received under this part, cannot exceed 95 percent of what
+            the production&apos;s value would have been if there had been no
+            loss. In no case, however, may the value of production and the
+            payment exceed the value the milk would have without the loss.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A reserve may be created to handle pending or disputed claims, but
+            claims will not be payable once the available funding is expended.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7276'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.108
+      </extid>
+      <num st='1'>
+        786.108
+      </num>
+      <head>
+        Availability of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='108' psec='' tq='N'>
+              786.108
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of funds.
+        </SUBJECT>
+        <P>
+          The total available program funds are $16 million as provided by 
+          <aref type='UNKNOWN'>
+            section 9007 of
+          </aref>
+           Title IX of 
+          <aref target='_blank' title='Public Law 110-28' alt='Public Law 110-28' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ28/html/PLAW-110publ28.htm'>
+            Public Law 110-28
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='7277'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.109
+      </extid>
+      <num st='1'>
+        786.109
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='109' psec='' tq='N'>
+              786.109
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          Provisions of the appeal regulations set forth at 
+          <aref type='CFR'>
+            7 CFR parts 
+            <subref title='7' part='11' tq='N'>
+              11
+            </subref>
+             and 
+            <subref title='7' part='780' tq='N'>
+              780
+            </subref>
+          </aref>
+           apply to this part. Appeals of determinations of ineligibility or
+          payment amounts are subject to the limitations in 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='786' sect='107' psec='' tq='N'>
+              786.107
+            </subref>
+             and 
+            <subref title='7' part='786' sect='108' psec='' tq='N'>
+              786.108
+            </subref>
+          </aref>
+           and other limitations that may apply.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7278'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.110
+      </extid>
+      <num st='1'>
+        786.110
+      </num>
+      <head>
+        Misrepresentation, scheme, or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='110' psec='' tq='N'>
+              786.110
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentation, scheme, or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In addition to other penalties, sanctions, or remedies that may
+            apply, a dairy producer is ineligible to receive assistance under
+            this program if the producer is determined by FSA to have:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Adopted any scheme or device that tends to defeat the purpose of
+            this program,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Made any fraudulent representation,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Misrepresented any fact affecting a program determination, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Violated 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='795' sect='17' psec='' tq='N'>
+                795.17
+              </subref>
+            </aref>
+             and thus be ineligible for the year(s) of violation and the
+            subsequent year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any funds disbursed pursuant to this part to any person or dairy
+            operation engaged in a misrepresentation, scheme, or device, must be
+            refunded with interest together with such other sums as may become
+            due. Interest will run from the date of the disbursement to the
+            producer or other recipient of the payment from FSA. Any person or
+            dairy operation engaged in acts prohibited by this section and any
+            person or dairy operation receiving payment under this part is
+            jointly and severally liable with other persons or dairy operations
+            involved in such claim for benefits for any refund due under this
+            section and for related charges. The remedies provided in this part
+            are in addition to other civil, criminal, or administrative remedies
+            that may apply.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7279'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.111
+      </extid>
+      <num st='1'>
+        786.111
+      </num>
+      <head>
+        Death, incompetence, or disappearance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='111' psec='' tq='N'>
+              786.111
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Death, incompetence, or disappearance.
+        </SUBJECT>
+        <P>
+          In the case of death, incompetency, disappearance, or dissolution of
+          an individual or entity that is eligible to receive benefits in
+          accordance with this part, such alternate person or persons specified
+          in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='707' tq='N'>
+              707
+            </subref>
+          </aref>
+           may receive such benefits, as determined appropriate by FSA.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7280'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.112
+      </extid>
+      <num st='1'>
+        786.112
+      </num>
+      <head>
+        Maintaining records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='112' psec='' tq='N'>
+              786.112
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Maintaining records.
+        </SUBJECT>
+        <P>
+          Persons applying for benefits under this program must maintain records
+          and accounts to document all eligibility requirements specified herein
+          and must keep such records and accounts for 3 years after the date of
+          payment to their dairy operations under this program. Destruction of
+          the records after such date is at the risk of the party required, by
+          this part, to keep the records.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7281'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.113
+      </extid>
+      <num st='1'>
+        786.113
+      </num>
+      <head>
+        Refunds; joint and several liability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='113' psec='' tq='N'>
+              786.113
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Refunds; joint and several liability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Excess payments, payments provided as the result of erroneous
+            information provided by any person, or payments resulting from a
+            failure to meet any requirement or condition for payment under the
+            application or this part, must be refunded to FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A refund required under this section is due with interest
+            determined in accordance with paragraph (d) of this section and late
+            payment charges as provided in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='792' tq='N'>
+                792
+              </subref>
+            </aref>
+            . Notwithstanding any other regulation, interest 
+            <PRTPAGE P='382' />
+            will be due from the date of the disbursement to the producer or
+            other recipient of the funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Persons signing a dairy operation&apos;s application as having an
+            interest in the operation will be jointly and severally liable for
+            any refund and related charges found to be due under this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In the event FSA determines a participant owes a refund under this
+            part, FSA will charge program interest from the date of disbursement
+            of the erroneous payment. Such interest will accrue at the rate that
+            the United States Department of the Treasury charges FSA for funds
+            plus additional charges as deemed appropriate by the Administrator
+            or provided for by regulation or statute.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The debt collection provisions of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='792' tq='N'>
+                792 of this chapter
+              </subref>
+            </aref>
+             applies to this part except as is otherwise provided in this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7282'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.114
+      </extid>
+      <num st='1'>
+        786.114
+      </num>
+      <head>
+        Miscellaneous provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='114' psec='' tq='N'>
+              786.114
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Miscellaneous provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Payments or any portion thereof due under this part must be made
+            without regard to questions of title under State law and without
+            regard to any claim or lien against the livestock, or proceeds
+            thereof, in favor of the owner or any other creditor except agencies
+            and instrumentalities of the U.S. Government.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any producer entitled to any payment under this part may assign any
+            payments in accordance with the provisions of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1404' tq='N'>
+                1404
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7283'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:786:-:786.115
+      </extid>
+      <num st='1'>
+        786.115
+      </num>
+      <head>
+        Termination of program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='115' psec='' tq='N'>
+              786.115
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Termination of program.
+        </SUBJECT>
+        <P>
+          This program will be terminated after payment has been made to those
+          applicants certified as eligible pursuant to the application period
+          established in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='786' sect='104' psec='' tq='N'>
+              786.104
+            </subref>
+          </aref>
+          . All eligibility determinations will be final except as otherwise
+          determined by the Deputy Administrator. Any claim for payment may be
+          denied once the allowed funds are expended, irrespective of any other
+          provision of this part.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXVI:-:2620
+    </extid>
+    <num>
+      2620
+    </num>
+    <head>
+      AVAILABILITY OF INFORMATION TO THE PUBLIC
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+             and 
+            <subref title='5' sect='552' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              552
+            </subref>
+          </aref>
+          ; 5 U.S.C. App.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            60 FR 52842
+          </aref>
+          , Oct. 11, 1995, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15908'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVI:-:2620:-:2620.1
+      </extid>
+      <num st='1'>
+        2620.1
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2620' sect='1' psec='' tq='N'>
+              2620.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part is issued in accordance with, and subject to, the
+          regulations of the Secretary of Agriculture 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='1' psec='' tq='N'>
+              1.1
+            </subref>
+          </aref>
+           through 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='23' psec='' tq='N'>
+              1.23
+            </subref>
+          </aref>
+           (and appendix A of subpart A of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1' tq='N'>
+              1
+            </subref>
+          </aref>
+          ) of this title, implementing the Freedom of Information Act, 
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html'>
+              5 U.S.C. 552
+            </subref>
+          </aref>
+          , and governs the availability of records of the Office of Inspector
+          General (OIG) to the public upon request.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15909'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVI:-:2620:-:2620.2
+      </extid>
+      <num st='1'>
+        2620.2
+      </num>
+      <head>
+        Public inspection and copying.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2620' sect='2' psec='' tq='N'>
+              2620.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Public inspection and copying.
+        </SUBJECT>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='522' note='' psec='#a_2' tq='N' target='http://www.law.cornell.edu/uscode/5/522.html#a_2'>
+              5 U.S.C. 522(a)(2)
+            </subref>
+          </aref>
+           requires that certain materials be made available for public
+          inspection and copying, and that a current index of these materials be
+          published quarterly or otherwise made available. OIG does not maintain
+          any materials within the scope of these requirements.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15910'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVI:-:2620:-:2620.3
+      </extid>
+      <num st='1'>
+        2620.3
+      </num>
+      <head>
+        Requests.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2620' sect='3' psec='' tq='N'>
+              2620.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requests.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Requests for OIG records shall be in writing in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1' sect='6' psec='#a' tq='N'>
+                1.6(a)
+              </subref>
+               of this title
+            </aref>
+             and addressed to the Assistant Inspector General for Policy
+            Development and Resources Management (AIG/PD&amp;RM), Office of
+            Inspector General, U.S. Department of Agriculture, Ag Box 2310,
+            Washington, DC 20250. The above official is hereby delegated
+            authority to make determinations regarding such requests in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1' sect='3' psec='#a_3' tq='N'>
+                1.3(a)(3)
+              </subref>
+               of this title
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Requests should be reasonably specific in identifying the record
+            requested and should include the name, address, and telephone number
+            of the requester.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Available records may be inspected and copied in the office of the
+            AIG/PD&amp;RM, from 8 a.m. to 4:30 p.m. local time on regular
+            working days or may be obtained by mail. Copies will 
+            <PRTPAGE P='85' />
+            be provided upon payment of applicable fees, unless waived or
+            reduced, in accordance with the Department&apos;s fee schedule as
+            set forth in appendix A of subpart A of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1' tq='N'>
+                1 of this title
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15911'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVI:-:2620:-:2620.4
+      </extid>
+      <num st='1'>
+        2620.4
+      </num>
+      <head>
+        Denials.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2620' sect='4' psec='' tq='N'>
+              2620.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Denials.
+        </SUBJECT>
+        <P>
+          If the AIG/PD&amp;RM determines that a requested record is exempt from
+          mandatory disclosure and that discretionary release would be improper,
+          the AIG/PD&amp;RM shall give written notice of denial in accordance
+          with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='8' psec='#a' tq='N'>
+              1.8(a)
+            </subref>
+             of this title
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='15912'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXVI:-:2620:-:2620.5
+      </extid>
+      <num st='1'>
+        2620.5
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2620' sect='5' psec='' tq='N'>
+              2620.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          The denial of a requested record may be appealed in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='6' psec='#e' tq='N'>
+              1.6(e)
+            </subref>
+             of this title
+          </aref>
+          . Appeals shall be addressed to the Inspector General, U.S. Department
+          of Agriculture, Ag Box 2301, Washington, DC 20250. The Inspector
+          General will give prompt notice of the determination concerning an
+          appeal in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1' sect='8' psec='#d' tq='N'>
+              1.8(d)
+            </subref>
+             of this title
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

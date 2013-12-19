@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XV:-:1570
+    </extid>
+    <num>
+      1570
+    </num>
+    <head>
+      EXPORT BONUS PROGRAMS
+    </head>
+    <text>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            56 FR 42223
+          </aref>
+          , Aug. 27, 1991, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='13321'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1570:A:1570.10
+      </extid>
+      <num st='1'>
+        1570.10
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1570' sect='10' psec='' tq='N'>
+              1570.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This subpart sets forth the criteria to be considered in evaluating
+          and approving proposals for initiatives to facilitate export sales
+          under the Sunflowerseed Oil Assistance Program (SOAP) and Cottonseed
+          Oil Assistance Program (COAP) administered by the Foreign Agricultural
+          Service (FAS). These criteria are interrelated and will be considered
+          together in order to select eligible countries for SOAP and COAP
+          initiatives which will best meet the programs&apos; objective. The
+          objective of the programs is to encourage the sale of additional
+          quantities of sunflowerseed oil and cottonseed oil in world markets at
+          competitive prices. Under the SOAP and the COAP, bonuses are made
+          available by FAS to enable exporters to meet prevailing world prices
+          for sunflowerseed oil and cottonseed oil in targeted destinations. In
+          the operation of the SOAP and the COAP, FAS will make reasonable
+          efforts to avoid the displacement of usual marketings of U.S.
+          agricultural commodities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13322'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1570:A:1570.20
+      </extid>
+      <num st='1'>
+        1570.20
+      </num>
+      <head>
+        Criteria.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1570' sect='20' psec='' tq='N'>
+              1570.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Criteria.
+        </SUBJECT>
+        <P>
+          The criteria considered by FAS in reviewing proposals for SOAP and
+          COAP initiatives will include, but not be limited to, the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The expected contribution which initiatives will make toward
+            realizing U.S. agricultural export goals and, in particular, in
+            developing, expanding, or maintaining markets for U.S. sunflowerseed
+            and/or cottonseed oil;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The subsidy requirements of proposed initiatives in relation to the
+            sums made available to operate the programs in any given fiscal
+            year; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The likelihood that sales facilitated by initiatives would have the
+            unintended effect of displacing normal commercial sales of
+            sunflowerseed and/or cottonseed oil.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13323'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1570:B:1570.1100
+      </extid>
+      <num st='1'>
+        1570.1100
+      </num>
+      <head>
+        Drawback certification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1570' sect='1100' psec='' tq='N'>
+              1570.1100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Drawback certification.
+        </SUBJECT>
+        <P>
+          An offer submitted by an exporter to FAS for an export bonus under the
+          SOAP or the COAP must contain, in addition to any other information
+          required by FAS, a certification stating the following: “None of the
+          eligible commodity (sunflowerseed oil and/or cottonseed oil) has been
+          or will be used as the basis for a claim of a refund, as drawback,
+          pursuant to 
+          <aref type='UNKNOWN'>
+            section 313 of
+          </aref>
+           the Tariff Act of 1930 (
+          <aref type='USC'>
+            <subref title='19' sect='1313' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/19/1313.html'>
+              19 U.S.C. 1313
+            </subref>
+          </aref>
+          ) of any duty, tax, or fee imposed under Federal law on an imported
+          commodity or product.” This certification must be signed by the
+          exporter, if the exporter is an individual, or by a partner or officer
+          of the exporter, if the exporter is a partnership or a corporation,
+          respectively. FAS will reject any offer that does not contain the
+          prescribed certification.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

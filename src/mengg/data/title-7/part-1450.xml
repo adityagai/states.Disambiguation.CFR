@@ -1,0 +1,5100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1450
+    </extid>
+    <num>
+      1450
+    </num>
+    <head>
+      BIOMASS CROP ASSISTANCE PROGRAM (BCAP)
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='8111' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/8111.html'>
+              7 U.S.C. 8111
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            75 FR 66234
+          </aref>
+          , October 27, 2010, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12846'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.1
+      </extid>
+      <num st='1'>
+        1450.1
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 66234
+        </aref>
+        , October 27, 2010, as amended at 
+        <aref type='FREGIST'>
+          76 FR 56951
+        </aref>
+        , Sept. 15, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='1' psec='' tq='N'>
+              1450.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations in this part are administered under the general
+            supervision and direction of the Executive Vice President, Commodity
+            Credit Corporation (CCC), or a designee. In the field, the
+            regulations in this part will be implemented by the Farm Service
+            Agency (FSA) State and county committees (“State committees” and
+            “county committees,” respectively).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             State executive directors, county executive directors, and State
+            and county committees do not have the authority to modify or waive
+            any of the provisions in this part unless specifically authorized by
+            the FSA Deputy Administrator for Farm Program (Deputy
+            Administrator).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The State committee may take any action authorized or required by
+            this part to be taken by the county committee, but which has not
+            been taken by such committee, such as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Correct or require a county committee to correct any action taken
+            by such county committee that is not in accordance with this part;
+            or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require a county committee to withhold taking any action that is
+            not in accordance with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             No delegation of authority to a State or county committee will
+            preclude the Executive Vice President, CCC, or a designee, from
+            determining any question arising under this part or from reversing
+            or modifying any determination made by a State or county committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Data furnished by participants will be used to determine
+            eligibility for program benefits. Furnishing the data is voluntary;
+            however, the failure to provide data could result in program
+            benefits being withheld or denied.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the availability of funds and all other eligibility
+            provisions of this part, this part provides the terms, conditions
+            and requirements of BCAP. In the event that CCC determines that
+            available funds are insufficient to accommodate the demand for
+            establishment and annual payments as well as all potential
+            applications for matching payments for collection, harvest, storage,
+            and transportation of eligible material, without any advance notice
+            other than that stated here, CCC may prioritize the expenditure of
+            program funds in favor of funding for the selection of BCAP project
+            areas and the establishment and annual payments related to those
+            project areas, and may make such other priorities in approvals that
+            will, in the determination of the Deputy Administrator, advance the
+            purposes of BCAP.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 66234
+          </aref>
+          , October 27, 2010, as amended at 
+          <aref type='FREGIST'>
+            76 FR 56951
+          </aref>
+          , Sept. 15, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12847'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.2
+      </extid>
+      <num st='1'>
+        1450.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 66234
+        </aref>
+        , October 27, 2010, as amended at 
+        <aref type='FREGIST'>
+          76 FR 56951
+        </aref>
+        , Sept. 15, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='2' psec='' tq='N'>
+              1450.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The definitions in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='718' tq='N'>
+                718 of this title
+              </subref>
+            </aref>
+             apply to this part and all documents issued in accordance with this
+            part, except as otherwise provided in this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The following definitions apply to this part:
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Advanced biofuel
+          </E>
+           means fuel derived from renewable biomass other than corn kernel
+          starch, including biofuels derived from cellulose, hemicellulose, or
+          lignin; biofuels derived from sugar and starch (other than ethanol
+          derived from corn kernel starch); biofuel derived from waste material,
+          including crop residue, other vegetative waste material, animal waste,
+          food waste, and yard waste; diesel-equivalent fuel derived from
+          renewable biomass including vegetable oil and animal fat; biogas
+          (including landfill gas and sewage waste treatment gas) produced
+          through the conversion of organic matter from renewable biomass; and
+          butanol or other alcohols produced through the conversion of organic
+          matter from renewable biomass; and other fuel derived from cellulosic
+          biomass.
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural land
+          </E>
+           means cropland, grassland, pastureland, rangeland, hayland, and other
+          land on which food, fiber, or other agricultural products are produced
+          or capable of being produced.
+        </P>
+        <P>
+          <E T='03'>
+            Animal waste
+          </E>
+           means the organic animal waste of animal operations such as confined
+          beef or dairy, poultry, or swine operations including manure,
+          contaminated runoff, milking house waste, dead poultry, bedding, and
+          spilled feed. Depending on the poultry system, animal waste can also
+          include litter, wash-flush water, and waste feed.
+          <PRTPAGE P='747' />
+        </P>
+        <P>
+          <E T='03'>
+            Annual payment
+          </E>
+           means the annual payment specified in the BCAP contract for BCAP
+          project areas that is issued to a participant for placing eligible
+          land in BCAP.
+        </P>
+        <P>
+          <E T='03'>
+            Beginning farmer or rancher
+          </E>
+           means, as determined by CCC, a person or entity who:
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Has not been a farm or ranch operator or owner for more than 10
+            years,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Materially and substantially participates in the operation of the
+            farm or ranch, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If an entity, is an entity in which at least 50 percent of the
+            members or stockholders of the entity meet the first two
+            requirements of this definition.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Biobased product
+          </E>
+           means a product determined by CCC to be a commercial or industrial
+          product (other than food or feed) that is:
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Composed, in whole or in significant part, of biological products,
+            including renewable domestic agricultural materials and forestry
+            materials; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             An intermediate ingredient or feedstock.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Bioenergy
+          </E>
+           means renewable energy produced from organic matter. Organic matter
+          may be used directly as a fuel, be processed into liquids and gases,
+          or be a residual of processing and conversion.
+        </P>
+        <P>
+          <E T='03'>
+            Biofuel
+          </E>
+           means a fuel derived from renewable biomass.
+        </P>
+        <P>
+          <E T='03'>
+            Biomass conversion facility
+          </E>
+           means a facility that converts or proposes to convert renewable
+          biomass into heat, power, biobased products, or advanced biofuels.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation district
+          </E>
+           is as defined in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='1410' tq='N'>
+              1410 of this chapter
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Conservation plan
+          </E>
+           means a schedule and record of the participant&apos;s decisions and
+          supporting information for treatment of a unit of land or water, and
+          includes a schedule of operations, activities, and estimated
+          expenditures for eligible crops and the collection or harvesting of
+          eligible material, as appropriate, and addresses natural resource
+          concerns including the sustainable harvesting of biomass, when
+          appropriate, by addressing the site-specific needs of the landowner.
+        </P>
+        <P>
+          <E T='03'>
+            Contract acreage
+          </E>
+           means eligible land that is covered by a BCAP contract between the
+          producer and CCC.
+        </P>
+        <P>
+          <E T='03'>
+            Delivery
+          </E>
+           means the point of delivery of an eligible crop or eligible material,
+          as determined by the CCC.
+        </P>
+        <P>
+          <E T='03'>
+            Deputy Administrator
+          </E>
+           means the FSA Deputy Administrator for Farm Programs, or a designee.
+        </P>
+        <P>
+          <E T='03'>
+            Dry ton
+          </E>
+           means one U.S. ton measuring 2,000 pounds. One dry ton is the amount
+          of renewable biomass that would weigh one U.S. ton at zero percent
+          moisture content.
+        </P>
+        <P>
+          <E T='03'>
+            Eligible crop
+          </E>
+           means a crop of renewable biomass as defined in this section
+          excluding:
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Any crop that is eligible to receive payments under Title I,
+            “Commodity Programs,” of the Food, Conservation, and Energy Act of
+            2008 (
+            <aref target='_blank' title='Pub. L. 110-246' alt='Pub. L. 110-246' href='http://www.gpo.gov/fdsys/pkg/PLAW-110publ246/html/PLAW-110publ246.htm'>
+              Pub. L. 110-246
+            </aref>
+            ) or an amendment made by that title, including, but not limited to,
+            barley, corn, grain sorghum, oats, rice, or wheat; honey; mohair;
+            certain oilseeds such as canola, crambe, flaxseed, mustard seed,
+            rapeseed, safflower seed, soybeans, sesame seed, and sunflower
+            seeds; peanuts; pulse crops such as small chickpeas, lentils, and
+            dry peas; dairy products; sugar; wool; and cotton boll fiber; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any plant that CCC has determined to be either a noxious weed or an
+            invasive species. With respect to noxious weeds and invasive
+            species, a list of such plants will be available in the FSA county
+            office.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Eligible material
+          </E>
+           is renewable biomass as defined in this section excluding:
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Material that is whole grain from any crop that is eligible to
+            receive payments under Title I of the Food, Conservation, and Energy
+            Act of 2008 or an amendment made by that title, including, but not
+            limited to, barley, corn, grain sorghum, oats, rice, or wheat;
+            honey; or material that is mohair; certain oilseeds such as canola,
+            crambe, flaxseed, mustard seed, rapeseed, safflower seed, soybeans,
+            sesame seed, and sunflower seeds; peanuts; pulse crops such as small
+            chickpeas, lentils, and dry peas; dairy products; sugar; wool; and
+            cotton boll fiber;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Animal waste and by-products of animal waste including fats, oils,
+            greases, and manure;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Food waste and yard waste; and
+            <PRTPAGE P='748' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Algae.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Eligible material owner,
+          </E>
+           for purposes of the matching payment, means a person or entity having
+          the right to collect or harvest eligible material, who has the risk of
+          loss in the material that is delivered to an eligible facility and who
+          has directly or by agent delivered or intends to deliver the eligible
+          material to a qualified biomass conversion facility, including:
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For eligible material harvested or collected from private lands,
+            including cropland, the owner of the land, the operator or producer
+            conducting farming operations on the land, or any other person
+            designated by the owner of the land; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For eligible material harvested or collected from public lands, a
+            person having the right to harvest or collect eligible material
+            pursuant to a contract or permit with the US Forest Service or other
+            appropriate Federal agency, such as a timber sale contract,
+            stewardship contract or agreement, service contract or permit, or
+            related applicable Federal land permit or contract, and who has
+            submitted a copy of the permit or contract authorizing such
+            collection to CCC.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Equivalent plan
+          </E>
+           means a plan approved by a State or other State agency or government
+          entity that is similar to and serves the same purpose as a forest
+          stewardship plan and has similar goals, objectives, and terms. These
+          plans generally address natural resource concerns including the
+          sustainable harvesting of biomass, when appropriate, by addressing the
+          site-specific needs of the landowner.
+        </P>
+        <P>
+          <E T='03'>
+            Establishment payment
+          </E>
+           means the payment made by CCC to assist program participants in
+          establishing the practices required for non-woody perennial crops and
+          woody perennial crops, as specified in a producer contract under the
+          project portion of BCAP.
+        </P>
+        <P>
+          <E T='03'>
+            Food waste
+          </E>
+           means, as determined by CCC, a material composed primarily of food
+          items, or originating from food items, or compounds from domestic,
+          municipal, food service operations, or commercial sources, including
+          food processing wastes, residues, or scraps.
+        </P>
+        <P>
+          <E T='03'>
+            Forest stewardship plan
+          </E>
+           means a long-term, comprehensive, multi-resource forest management
+          plan that is prepared by a professional resource manager and approved
+          by the State Forester or equivalent State official. Forest stewardship
+          plans address the following resource elements wherever present, in a
+          manner that is compatible with landowner objectives concerning:
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Soil and water;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Biological diversity;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Range;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Aesthetic quality;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Recreation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Timber;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Fish and wildlife;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Threatened and endangered species;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Forest health;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Archeological, cultural and historic sites;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Wetlands;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Fire; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+          </npcatch>
+          <text>
+             Carbon cycle.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Higher-value product
+          </E>
+           means an existing market product that is comprised principally of an
+          eligible material or materials and, in some distinct local regions, as
+          determined by the CCC, has an existing market as of October 27, 2010.
+          Higher-value products may include, but are not limited to, products
+          such as mulch, fiberboard, nursery media, lumber, or paper.
+        </P>
+        <P>
+          <E T='03'>
+            Highly erodible land
+          </E>
+           means land as determined as specified in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='12' tq='N'>
+              12 of this title
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Indian tribe
+          </E>
+           has the same meaning as in 
+          <aref type='USC'>
+            <subref title='25' sect='450b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/25/450b.html'>
+              25 U.S.C. 450b
+            </subref>
+          </aref>
+           (
+          <aref type='UNKNOWN'>
+            section 4 of
+          </aref>
+           the Indian Self-Determination and Education Assistance Act).
+        </P>
+        <P>
+          <E T='03'>
+            Institution of higher education
+          </E>
+           has the same meaning as in 
+          <aref type='USC'>
+            <subref title='20' sect='1002' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/20/1002.html#a'>
+              20 U.S.C. 1002(a)
+            </subref>
+          </aref>
+           (
+          <aref type='UNKNOWN'>
+            section 102(a) of
+          </aref>
+           the Higher Education Act of 1965).
+        </P>
+        <P>
+          <E T='03'>
+            Intermediate ingredient or feedstock
+          </E>
+           means an ingredient or compound made in whole or in significant part
+          from biological products, including renewable agricultural material
+          (including plant, animal, and marine material), or forestry material
+          that is subsequently used to make a more complex compound or product.
+        </P>
+        <P>
+          <E T='03'>
+            Legal entity
+          </E>
+           has the same meaning as in the regulations in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1400' sect='3' psec='' tq='N'>
+              1400.3
+            </subref>
+             of this chapter
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Matching payments
+          </E>
+           means those CCC payments provided for eligible material delivered to
+          a qualified biomass conversion facility.
+          <PRTPAGE P='749' />
+        </P>
+        <P>
+          <E T='03'>
+            Native sod
+          </E>
+           means land:
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             On which the plant cover is composed principally of native grasses,
+            grasslike plants, forbs, or shrubs suitable for grazing and
+            browsing; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             That had never been tilled for the production of an annual crop as
+            of June 18, 2008.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Nonindustrial private forest land
+          </E>
+           means, as defined in 
+          <aref type='USC'>
+            <subref title='16' sect='2103a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/2103a.html'>
+              16 U.S.C. 2103a
+            </subref>
+          </aref>
+           (the Cooperative Forestry Assistance Act of 1978, as amended), rural
+          lands with existing tree cover, or suitable for growing trees, where
+          the land is owned by any private individual, group, association,
+          corporation, Indian tribe, or other private legal entity.
+        </P>
+        <P>
+          <E T='03'>
+            Offer
+          </E>
+           means, unless otherwise indicated, the per-acre rental payment
+          requested by the owner or operator in such owner&apos;s or
+          operator&apos;s request to participate in the establishment payment
+          and annual payment component of BCAP.
+        </P>
+        <P>
+          <E T='03'>
+            Operator
+          </E>
+           means a person who is in general control of the land enrolled in
+          BCAP, as determined by CCC.
+        </P>
+        <P>
+          <E T='03'>
+            Participant
+          </E>
+           means a person who is participating in BCAP—either as a person who
+          has applied for and is eligible to receive payments, has a BCAP
+          contract, or is a project sponsor.
+        </P>
+        <P>
+          <E T='03'>
+            Payment period
+          </E>
+           means a contract period of either up to 5 years for annual and
+          non-woody perennial crops, or up to 15 years for woody perennial
+          crops, during which the participant receives an annual payment under
+          the establishment payment and annual payment component of BCAP.
+        </P>
+        <P>
+          <E T='03'>
+            Person
+          </E>
+           has the same meaning as in the regulations in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1400' sect='3' psec='' tq='N'>
+              1400.3
+            </subref>
+             of this chapter
+          </aref>
+          . In addition, for BCAP, the term “producer” means either an owner or
+          operator of BCAP project acreage that is physically located in a BCAP
+          project area, or a producer of an eligible crop produced on that
+          acreage.
+        </P>
+        <P>
+          <E T='03'>
+            Producer
+          </E>
+           means, with respect to subpart B of this part, a person who had the
+          risk of loss in the production of the material that is the subject of
+          the BCAP payment; and with respect to subpart C of this part, an owner
+          or operator of contract acreage that is physically located within a
+          BCAP project area or a producer of an eligible crop produced on that
+          acreage and who has the risk of loss in the relevant crop at the
+          relevant period of time or who will have the risk of loss in crops
+          required to be produced.
+        </P>
+        <P>
+          <E T='03'>
+            Project area
+          </E>
+           means a geographic area with specified boundaries submitted by a
+          project sponsor and approved by CCC under the establishment payment
+          and annual payment component of BCAP.
+        </P>
+        <P>
+          <E T='03'>
+            Project sponsor
+          </E>
+           means a group of producers or a biomass conversion facility who
+          proposes a project area.
+        </P>
+        <P>
+          <E T='03'>
+            Qualified biomass conversion facility
+          </E>
+           means a biomass conversion facility that meets all the requirements
+          for BCAP qualification, and whose facility representatives enter into
+          a BCAP agreement with CCC.
+        </P>
+        <P>
+          <E T='03'>
+            Renewable biomass
+          </E>
+           means:
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Appropriate materials, pre-commercial thinnings, or invasive
+            species from National Forest System land and U.S. Department of the
+            Interior, Bureau of Land Management land that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Are by-products of preventive treatments that are removed to reduce
+            hazardous fuels, to reduce or contain disease or insect infestation,
+            or to restore ecosystem health;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Would not otherwise be used for higher-value products; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Are harvested in accordance with applicable law and land management
+            plans and the requirements for old-growth maintenance, restoration,
+            and management direction of 
+            <aref type='USC'>
+              <subref title='16' sect='6512' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/6512.html'>
+                16 U.S.C. 6512
+              </subref>
+            </aref>
+             (specifically, 
+            <aref type='UNKNOWN'>
+              sections 102(e)(2), (3), and (4) of
+            </aref>
+             the Healthy Forests Restoration Act of 2003 and large-tree
+            retention provisions of subsection (f)); or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any organic matter that is available on a renewable or recurring
+            basis from non-Federal land or land belonging to an Indian or Indian
+            Tribe that is held in trust by the United States or subject to a
+            restriction against alienation imposed by the United States,
+            including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Renewable plant material, including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_iii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Feed grains;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_iii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Other agricultural commodities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_iii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Other plants and trees; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_iii_D'>
+            <enum src='gpotxt' cln='1'>
+              (D)
+            </enum>
+          </npcatch>
+          <text>
+             Algae;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Waste material, including:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Crop residue;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Other vegetative waste material (including wood waste and wood
+            residues);
+            <PRTPAGE P='750' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Animal waste and byproducts (including fats, oils, greases, and
+            manure); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_D'>
+            <enum src='gpotxt' cln='1'>
+              (D)
+            </enum>
+          </npcatch>
+          <text>
+             Food waste and yard waste.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Socially disadvantaged farmer or rancher
+          </E>
+           means, unless other classes of persons are approved by CCC in
+          writing, a farmer or rancher who is a member of a group whose members
+          have been subject to racial or ethnic prejudice because of their
+          identity as members of a group without regard to their individual
+          qualities. Groups include:
+        </P>
+        <P>
+          <npcatch lev='2' id='i_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             American Indians or Alaskan Natives;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Asians or Asian Americans;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Blacks or African Americans;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Native Hawaiians or other Pacific Islanders; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Hispanics.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Technical assistance
+          </E>
+           means assistance in determining the eligibility of land and practices
+          for BCAP, implementing and certifying practices, ensuring contract
+          performance, and providing annual rental rate surveys. The technical
+          assistance provided in connection with BCAP to owners or operators, as
+          approved by CCC, includes, but is not limited to: Technical expertise,
+          information, and tools necessary for the conservation of natural
+          resources on land; technical services provided directly to farmers,
+          ranchers, and other eligible entities, such as conservation planning,
+          technical consultation, and assistance with design and implementation
+          of eligible practices; and technical infrastructure, including
+          activities, processes, tools, and functions needed to support delivery
+          of technical services, such as technical standards, resource
+          inventories, training, data, technology, monitoring, and effects
+          analyses.
+        </P>
+        <P>
+          <E T='03'>
+            Tribal government
+          </E>
+           means any Indian tribe, band, nation, or other organized group, or
+          community, including pueblos, rancherias, colonies and any Alaska
+          Native Village, or regional or village corporation as defined in or
+          established pursuant to 
+          <aref type='USC'>
+            <subref title='43' sect='1601-162' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601-162.html'>
+              43 U.S.C. 1601-162
+            </subref>
+          </aref>
+          9h (the Alaska Native Claims Settlement Act), that is recognized as
+          eligible for the special programs and services provided by the United
+          States to Indians because of their status as Indians.
+        </P>
+        <P>
+          <E T='03'>
+            Violation
+          </E>
+           means an act by the participant, either intentional or unintentional,
+          that would cause the participant to no longer be eligible to receive
+          or retain all or a portion of BCAP payments.
+        </P>
+        <P>
+          <E T='03'>
+            Yard waste
+          </E>
+           means any renewable biomass generated from municipal or residential
+          land, such as urban forestry materials, construction or demolition
+          materials, trimmings from grasses and trees, or biomass removed due to
+          invasive species or weather-related disaster, that can be separated
+          from and has low potential (such as contamination with plastics,
+          metals, chemicals, or other toxic compounds that cannot be removed)
+          for the generation of toxic byproducts resulting from conversion, and
+          that otherwise cannot be recycled for other purposes (such as
+          post-consumer waste paper).
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 66234
+          </aref>
+          , October 27, 2010, as amended at 
+          <aref type='FREGIST'>
+            76 FR 56951
+          </aref>
+          , Sept. 15, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12848'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.3
+      </extid>
+      <num st='1'>
+        1450.3
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='3' psec='' tq='N'>
+              1450.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The objectives of BCAP are to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Support the establishment and production of eligible crops for
+            conversion to bioenergy and biobased products in selected project
+            areas; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Assist agricultural and forest landowners and operators with
+            matching payments to support the collection, harvest, storage, and
+            transportation costs of eligible material for use in a biomass
+            conversion facility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A participant must implement and adhere to a conservation plan,
+            forest stewardship plan, or equivalent plan prepared in accordance
+            with BCAP guidelines, as established and determined by CCC. A
+            conservation plan, forest stewardship plan, or equivalent plan for
+            contract acreage must be implemented by a participant and must be
+            approved by the conservation district in which the lands are
+            located, or, in the case of Federal lands, the appropriate approval
+            authority of jurisdiction. If the conservation district declines to
+            review the conservation plan, forest stewardship plan, or equivalent
+            plan, the provider of technical assistance may take such further
+            action as is needed to account for lack of such review.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Agricultural and forest landowners and operators must comply with
+            any applicable existing conservation plan, forest stewardship plan,
+            or 
+            <PRTPAGE P='751' />
+            equivalent plan and all other applicable laws, regulations, or
+            Executive Orders for any removal of eligible material for use in a
+            biomass conversion facility to receive matching payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise provided in this part, a participant may
+            receive, in addition to any payments under this part, financial
+            assistance, rental or easement payments, tax benefits, or other
+            payments from a State or a private organization in return for
+            enrolling lands in BCAP, without any commensurate reduction in BCAP
+            payments.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12849'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.4
+      </extid>
+      <num st='1'>
+        1450.4
+      </num>
+      <head>
+        Violations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='4' psec='' tq='N'>
+              1450.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Violations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If a participant fails to carry out the terms and conditions of a
+            BCAP contract, CCC may terminate the BCAP contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the BCAP contract is terminated by CCC in accordance with this
+            paragraph:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The participant will forfeit all rights to further payments under
+            the contract and must refund all payments previously received, plus
+            interest; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The participant must pay liquidated damages to CCC in an amount as
+            specified in the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may reduce a demand for a refund under this section to the
+            extent CCC determines that such relief would be appropriate and
+            would not deter the accomplishment of the purposes of BCAP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12850'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.5
+      </extid>
+      <num st='1'>
+        1450.5
+      </num>
+      <head>
+        Performance based on advice or action of USDA.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 66234
+        </aref>
+        , October 27, 2010, as amended at 
+        <aref type='FREGIST'>
+          76 FR 56951
+        </aref>
+        , Sept. 15, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='5' psec='' tq='N'>
+              1450.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Performance based on advice or action of USDA.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='718' sect='303' psec='' tq='N'>
+                718.303
+              </subref>
+               of this title
+            </aref>
+             relating to performance based on the action or advice of an
+            authorized representative of USDA apply to this part, and may be
+            considered as a basis to provide relief to persons subject to
+            sanctions under this part to the extent that relief is otherwise
+            permitted by this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 66234
+          </aref>
+          , October 27, 2010, as amended at 
+          <aref type='FREGIST'>
+            76 FR 56951
+          </aref>
+          , Sept. 15, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12851'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.6
+      </extid>
+      <num st='1'>
+        1450.6
+      </num>
+      <head>
+        Access to land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='6' psec='' tq='N'>
+              1450.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes related to this program, the participant must upon
+            request provide any representative of USDA, or designee thereof,
+            with access to land that is:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The subject of an application for a contract under this part; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Under contract or otherwise subject to this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For land identified in paragraph (a) of this section, the
+            participant must provide such representatives or designees with
+            access to examine records for the land to determine land
+            classification, eligibility, or for other purposes, and to determine
+            whether the participant is in compliance with the terms and
+            conditions of the BCAP contract.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12852'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.7
+      </extid>
+      <num st='1'>
+        1450.7
+      </num>
+      <head>
+        Division of payments and provisions about tenants and sharecroppers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='7' psec='' tq='N'>
+              1450.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Division of payments and provisions about tenants and sharecroppers.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Payments received under this part will be divided as specified in
+            the applicable contract. CCC may refuse to enter into a contract
+            when there is a disagreement among persons or legal entities seeking
+            enrollment as to a person&apos;s or legal entity&apos;s eligibility
+            to participate in the contract as a tenant or sharecropper, and
+            there is insufficient evidence, as determined by CCC, to indicate
+            whether the person or legal entity seeking participation as a tenant
+            or sharecropper has an interest in the acreage offered for
+            enrollment in the BCAP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may remove an operator or tenant from a BCAP contract when:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The operator or tenant requests in writing to be removed from the
+            BCAP contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The operator or tenant files for bankruptcy and the trustee or
+            debtor in possession fails to affirm the contract, to the extent
+            permitted by applicable bankruptcy laws;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The operator or tenant dies during the contract period and the
+            administrator of the estate fails to succeed to the contract within
+            a period of time determined appropriate by CCC; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A court of competent jurisdiction orders the removal of the
+            operator or tenant from the BCAP contract and such order is received
+            by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Tenants who fail to maintain tenancy on the acreage under contract
+            for any reason may be removed from a contract by CCC.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12853'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.8
+      </extid>
+      <num st='1'>
+        1450.8
+      </num>
+      <head>
+        Payments not subject to claims.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='752' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='8' psec='' tq='N'>
+              1450.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments not subject to claims.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            , any payment or portion of the payment due any person or legal
+            entity under this part will be allowed without regard to questions
+            of title under State law, and without regard to any claim or lien in
+            favor of any creditor, except agencies of the U.S. Government.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12854'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.9
+      </extid>
+      <num st='1'>
+        1450.9
+      </num>
+      <head>
+        Assignments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='9' psec='' tq='N'>
+              1450.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Assignments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Participants may assign the right to receive cash payments under
+            BCAP, in whole or in part, as provided in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1404' tq='N'>
+                1404 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12855'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.10
+      </extid>
+      <num st='1'>
+        1450.10
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='10' psec='' tq='N'>
+              1450.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (b) of this section, a person or
+            legal entity applying for participation may appeal or request
+            reconsideration of an adverse determination in accordance with the
+            administrative appeal regulations at 
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+               and 
+              <subref title='7' part='780' tq='N'>
+                780 of this title
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Determinations by the Natural Resources Conservation Service may be
+            appealed in accordance with procedures established under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='614' tq='N'>
+                614 of this title
+              </subref>
+            </aref>
+             or otherwise established by the Natural Resources Conservation
+            Service.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12856'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.11
+      </extid>
+      <num st='1'>
+        1450.11
+      </num>
+      <head>
+        Scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='11' psec='' tq='N'>
+              1450.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scheme or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If CCC determines that a person or legal entity has employed a
+            scheme or device to defeat the purposes of this part, or any part,
+            of any USDA program, payment otherwise due or paid such person or
+            legal entity during the applicable period may be required to be
+            refunded, with interest calculated from the date of disbursement of
+            the funds by CCC, as determined appropriate by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A scheme or device includes, but is not limited to, coercion,
+            fraud, misrepresentation, depriving any other person or legal entity
+            of any payments, or obtaining a payment that otherwise would not be
+            payable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A new owner or operator or tenant of land subject to this part who
+            succeeds to the contract responsibilities must report in writing to
+            CCC any interest of any kind in the land subject to this part that
+            is retained by a previous participant. Such interest may include a
+            present, future, or conditional interest, reversionary interest, or
+            any option, future or present, on such land, and any interest of any
+            lender in such land where the lender has, will, or can legally
+            obtain, a right of occupancy to such land or an interest in the
+            equity in such land other than an interest in the appreciation in
+            the value of such land occurring after the loan was made. Failure to
+            fully disclose such interest will be considered a scheme or device
+            under this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12857'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.12
+      </extid>
+      <num st='1'>
+        1450.12
+      </num>
+      <head>
+        Filing of false claims.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='12' psec='' tq='N'>
+              1450.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Filing of false claims.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If CCC determines that any participant has knowingly supplied false
+            information or has knowingly filed a false claim, such participant
+            will be ineligible for payments under this part with respect to the
+            fiscal year in which the false information or claim was filed and
+            the contract may be terminated, in which case CCC may demand a full
+            refund of all prior payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             False information or false claims include, but are not limited to,
+            claims for payment for practices that do not comply with the
+            conservation plan, forest stewardship plan, or equivalent plan. Any
+            amounts paid under these circumstances must be refunded to CCC,
+            together with interest as determined by CCC, and any amounts
+            otherwise due the participant will be withheld.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The remedies provided for in this section will be in addition to
+            any other remedy available to CCC and in addition to any criminal
+            penalty or any other remedy available to the United States.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12858'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:A:1450.13
+      </extid>
+      <num st='1'>
+        1450.13
+      </num>
+      <head>
+        Miscellaneous.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='13' psec='' tq='N'>
+              1450.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Miscellaneous.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise provided in this part, in the case of death,
+            incompetency, or disappearance of any participant, any payments due
+            under this part may be paid to the participant&apos;s successor(s)
+            in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='707' tq='N'>
+                707 of this title
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Unless otherwise specified in this part, payments under this part
+            will be subject to the compliance requirements of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='12' tq='N'>
+                12 of this title
+              </subref>
+            </aref>
+             concerning highly erodible land and wetland conservation and
+            payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any remedies permitted CCC under this part will be in addition to 
+            <PRTPAGE P='753' />
+            any other remedy, including, but not limited to, criminal remedies
+            or actions for damages in favor of CCC, or the United States as may
+            be permitted by law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Absent a scheme or device to defeat the purposes of BCAP, when an
+            owner loses control of BCAP acreage enrolled under subpart C of this
+            part due to foreclosure and the new owner chooses not to continue
+            the contract in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='215' psec='' tq='N'>
+                1450.215
+              </subref>
+            </aref>
+             refunds will not be required from any participant on the contract
+            to the extent that the Deputy Administrator determines that
+            forgiving such repayment is appropriate in order to provide fair and
+            equitable treatment.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12859'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:B:1450.100
+      </extid>
+      <num st='1'>
+        1450.100
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='100' psec='' tq='N'>
+              1450.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A person or legal entity with the right to collect or harvest
+            eligible material for the sale and delivery of such eligible
+            material to a qualified biomass conversion facility, may be eligible
+            for payment under the provisions of this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12860'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:B:1450.101
+      </extid>
+      <num st='1'>
+        1450.101
+      </num>
+      <head>
+        Qualified biomass conversion facility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='101' psec='' tq='N'>
+              1450.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Qualified biomass conversion facility.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be considered a qualified biomass conversion facility, a biomass
+            conversion facility must enter into an agreement with CCC and must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Meet all applicable regulatory and permitting requirements by
+            applicable Federal, State, or local authorities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Agree in writing to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain accurate records of all eligible material purchases and
+            related documents regardless of whether matching payments will be
+            sought by the seller; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Make available at one place and at all reasonable times for
+            examination by representatives of USDA, all books, papers, records,
+            contracts, scale tickets, settlement sheets, invoices, written price
+            quotations, or other documents related to BCAP for not less than 3
+            years after the date that eligible material was delivered to the
+            qualified biomass conversion facility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Clearly indicate the actual tonnage delivered on the scale ticket
+            or equivalent to be provided to the eligible material owner;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Calculate a total dry ton weight equivalent of the actual tonnage
+            delivered and provide that measurement to the eligible material
+            owner;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Use commercial weight scales that are certified for accuracy by
+            applicable State or local authorities and accurate moisture
+            measurement equipment to determine the dry ton weight equivalent of
+            actual tonnage delivered;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Pay fair market value for eligible material regardless of whether
+            the seller has applied for or receives a matching payment authorized
+            by this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For a qualified biomass conversion facility, CCC can:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Periodically inform the public that payments may be available for
+            deliveries of eligible material to such qualified biomass conversion
+            facility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain a listing of qualified biomass conversion facilities for
+            general public access and distribution that may include general
+            information about the facility and its eligible material needs; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Suspend, terminate, or take other actions as appropriate when CCC
+            determines a qualified biomass conversion facility fails to comply
+            with the agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12861'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:B:1450.102
+      </extid>
+      <num st='1'>
+        1450.102
+      </num>
+      <head>
+        Eligible material owner.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 66234
+        </aref>
+        , October 27, 2010, as amended at 
+        <aref type='FREGIST'>
+          76 FR 56951
+        </aref>
+        , Sept. 15, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='102' psec='' tq='N'>
+              1450.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible material owner.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In order to be eligible for a payment under this subpart, a person
+            or legal entity must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be a producer of an eligible crop that is produced on contract
+            acreage authorized by subpart C of this part; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Have the right to collect or harvest eligible material and such
+            person may only receive payment if the risk of loss for the material
+            transferred to that person occurred prior to the time the payment is
+            made that will be used to determine the matching payment that is
+            requested under this subpart; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Certify that the eligible material for which a payment may be
+            issued according to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='106' psec='' tq='N'>
+                1450.106
+              </subref>
+            </aref>
+             has been harvested according to a conservation plan, forest
+            stewardship plan, or equivalent plan, and, if woody eligible
+            material collected and harvested on land other than contract
+            acreage, are byproducts 
+            <PRTPAGE P='754' />
+            of preventative treatments that are removed to reduce hazardous
+            fuels, to reduce or contain disease or insect infestation, or to
+            restore ecosystem health.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A qualified biomass conversion facility that meets the requirements
+            of paragraph (a) of this section may be considered an eligible
+            material owner if it otherwise meets the definition in this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 66234
+          </aref>
+          , October 27, 2010, as amended at 
+          <aref type='FREGIST'>
+            76 FR 56951
+          </aref>
+          , Sept. 15, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12862'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:B:1450.103
+      </extid>
+      <num st='1'>
+        1450.103
+      </num>
+      <head>
+        Eligible material that qualifies for payment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='103' psec='' tq='N'>
+              1450.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible material that qualifies for payment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except for paragraph (b) of this section, in order to qualify, as
+            determined by CCC, for a payment under this subpart:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible material must be renewable biomass that, at a minimum,
+            meets the definition in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='2' psec='' tq='N'>
+                1450.2
+              </subref>
+            </aref>
+             and is listed on the official Web site for BCAP as an eligible
+            material at 
+            <E T='03'>
+              http://www.fsa.usda.gov/energy;
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible material must be collected or harvested by the eligible
+            material owner:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Directly from:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_i_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             National Forest System land, Bureau of Land Management land;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_i_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Non-Federal land; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_i_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Land belonging to an Indian or Indian tribe that is held in trust
+            by the United States or subject to a restriction against alienation
+            imposed by the United States;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Consistent with a conservation plan, forest stewardship plan, or
+            plan that CCC determined to be an equivalent plan, that provides the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             The purpose of the harvest of the eligible material;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             The expected volume of the harvest;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             The total number of acres to be harvested;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_D'>
+            <enum src='gpotxt' cln='1'>
+              (D)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the eligible material owner(s); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_2_ii_E'>
+            <enum src='gpotxt' cln='1'>
+              (E)
+            </enum>
+          </npcatch>
+          <text>
+             Any additional information, as determined by CCC; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Consistent with Executive Order 13112, “Invasive Species. ”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Woody eligible material produced on land other than contract
+            acreage must be:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Byproducts of preventative treatments that are removed to reduce
+            hazardous fuels, to reduce or contain disease or insect infestation,
+            or to restore ecosystem health; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If harvested from Federal lands then done so in accordance with the
+            requirements for old-growth maintenance, restoration, and management
+            direction provided by 
+            <aref type='USC'>
+              <subref title='16' sect='6512' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/6512.html'>
+                16 U.S.C. 6512
+              </subref>
+            </aref>
+             for Federal lands; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible material must be delivered to a qualified biomass
+            conversion facility (as specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='101' psec='' tq='N'>
+                1450.101
+              </subref>
+            </aref>
+             and other provisions of these regulations).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding paragraph (a) of this section, payments under this
+            subpart are not authorized for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Any eligible material delivered before October 27, 2010;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any eligible material for which payment from a biomass conversion
+            facility was received before the application for payment under this
+            subpart is received and approved by the FSA county office, as
+            specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='104' psec='' tq='N'>
+                1450.104
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Any woody eligible material collected or harvested outside contract
+            acreage that would otherwise be used for higher-value products; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Any otherwise eligible material collected or harvested outside
+            contract acreage that, after delivery to a biomass conversion
+            facility, its campus, or its affiliated facilities, must be
+            separated from an eligible material used for a higher-value market
+            product in order to be used for heat, power, biobased products, or
+            advanced biofuels.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12863'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:B:1450.104
+      </extid>
+      <num st='1'>
+        1450.104
+      </num>
+      <head>
+        Signup.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='104' psec='' tq='N'>
+              1450.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Signup.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications for participation and requests for payments under this
+            subpart will be accepted on a continuous basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An eligible material owner must apply to participate in the
+            matching payments component of BCAP before payment for the eligible
+            material is received from a qualified biomass conversion facility.
+            The application must be submitted to the FSA county office and
+            approved by CCC before any payment is made by the qualified biomass
+            conversion facility for the eligible material.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Applications must include the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Based on information obtained from contracts, agreements, or
+            binding letters of intent:
+            <PRTPAGE P='755' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             An estimate of the total dry tons of eligible material expected to
+            be sold to the qualified biomass conversion facility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The type(s) of eligible material that is expected to be sold;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the qualified biomass conversion facility that will
+            purchase the eligible material;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The expected, fair market, per dry ton payment rate the owner plans
+            to receive for the delivery of the eligible material; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The date or dates the eligible material is expected to be delivered
+            to the qualified biomass conversion facility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A new or amended conservation plan, forest stewardship plan, or
+            equivalent plan, as specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='103' psec='' tq='N'>
+                1450.103
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible material owners who deliver eligible material to more than
+            one qualified biomass conversion facility must submit separate
+            applications for each facility to which eligible material will be
+            delivered.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             After delivery, eligible material owners must notify CCC and
+            request the payment. Payments will be disbursed only after delivery
+            is verified by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Information that must be submitted to CCC in order to request
+            payments includes settlement, summary, or other acceptable data that
+            provide:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Total actual tonnage delivered and a total dry weight tonnage
+            equivalent amount determined by the qualified biomass conversion
+            facility using standard moisture determinations applicable to the
+            eligible material;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Total payment received, including the per dry-ton payment rate(s)
+            matched with actual and dry weight tonnage delivered; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The qualified biomass conversion facility&apos;s certification as
+            to the authenticity of the information.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12864'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:B:1450.105
+      </extid>
+      <num st='1'>
+        1450.105
+      </num>
+      <head>
+        Obligations of participant.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='105' psec='' tq='N'>
+              1450.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Obligations of participant.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All participants whose payment application was approved must agree
+            to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Carry out and certify compliance with the terms and conditions of
+            the payment application including adherence to a conservation plan,
+            forest stewardship plan, or equivalent plan, as appropriate; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be jointly and severally responsible, if the participant has a
+            share of the payment greater than zero, with other contract
+            participants for compliance with the provisions of such contract and
+            the provisions of this part, and for any refunds or payment
+            adjustments that may be required for violations of any of the terms
+            and conditions of the BCAP contract and this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12865'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:B:1450.106
+      </extid>
+      <num st='1'>
+        1450.106
+      </num>
+      <head>
+        Payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='106' psec='' tq='N'>
+              1450.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Payments under this subpart will be for a term not to exceed 2
+            years beginning the date that CCC issues the first payment, under
+            this subpart to the participant and for each participant runs from
+            the date that the participant receives a matching payment from CCC
+            even though the participant may over time change facilities. The
+            Deputy Administrator may further limit the period to reflect
+            participation in BCAP for any time prior to October 27, 2010 as the
+            Deputy Administrator deems appropriate. In addition, where ownership
+            of a source of material has changed, or where it is deemed that
+            other circumstances warrant, the Deputy Administrator may apply the
+            time limit applicable to a person or entity or to another person or
+            entity to assure that the 2-year limit is not avoided by private
+            arrangement or other circumstance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payments under this subpart will be paid at a rate of $1 for each
+            $1 per dry ton provided by the qualified biomass conversion facility
+            for the market-based sale of eligible material in an amount up to
+            $45 per dry ton.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12866'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.200
+      </extid>
+      <num st='1'>
+        1450.200
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='200' psec='' tq='N'>
+              1450.200
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             As provided in this subpart, establishment payments and annual
+            payments may be provided by CCC to producers of eligible crops
+            within a project area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12867'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.201
+      </extid>
+      <num st='1'>
+        1450.201
+      </num>
+      <head>
+        Project area proposal submission requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='201' psec='' tq='N'>
+              1450.201
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Project area proposal submission requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be considered for selection as a project area, a project sponsor
+            must 
+            <PRTPAGE P='756' />
+            submit a proposal to CCC that includes, at a minimum:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the sources of renewable biomass, eligible land,
+            and eligible crops that may be enrolled within the proposed project
+            area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A letter of commitment from a biomass conversion facility stating
+            that the facility will use, for BCAP purposes, eligible crops
+            intended to be produced in the proposed project area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Information demonstrating that the biomass conversion facility will
+            have sufficient equity available to operate if the facility is not
+            operational at the time the project area proposal is submitted; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Other information that gives CCC a reasonable assurance that the
+            biomass conversion facility will be in operation in a timely manner
+            so that it will utilize the eligible crops, as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The project area description required in paragraph (a) of this
+            section needs to specify geographic boundaries and be described in
+            definite terms such as acres, watershed boundaries, mapped longitude
+            and latitude coordinates, or counties.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The project area needs to be physically located near a biomass
+            conversion facility or facilities, as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Project area proposals may limit the nature and types of eligible
+            crops to be established within a project area.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12868'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.202
+      </extid>
+      <num st='1'>
+        1450.202
+      </num>
+      <head>
+        Project area selection criteria.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='202' psec='' tq='N'>
+              1450.202
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Project area selection criteria.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In selecting project areas, CCC will consider:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The dry tons of the eligible crops proposed to be produced in the
+            proposed project area and the probability that such crops will be
+            used for BCAP purposes;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The dry tons of renewable biomass projected to be available from
+            sources other than the eligible crops grown on contract acres;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The anticipated economic impact in the proposed project area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The opportunity for producers and local investors to participate in
+            the ownership of the biomass conversion facility in the proposed
+            project area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The participation rate by beginning or socially disadvantaged
+            farmers or ranchers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The impact on soil, water, and related resources;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The variety in biomass production approaches within a project area,
+            including agronomic conditions, harvest and postharvest practices,
+            and monoculture and polyculture crop mixes;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             The range of eligible crops among project areas; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Any other additional criteria, as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12869'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.203
+      </extid>
+      <num st='1'>
+        1450.203
+      </num>
+      <head>
+        Eligible persons and legal entities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='203' psec='' tq='N'>
+              1450.203
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible persons and legal entities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In order to be eligible to enter into a BCAP contract for this
+            subpart, a person or legal entity must be an owner, operator, or
+            tenant of eligible land within a project area, as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='204' psec='' tq='N'>
+                1450.204
+              </subref>
+            </aref>
+             and be the person or entity with the ability to perform under the
+            terms of the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12870'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.204
+      </extid>
+      <num st='1'>
+        1450.204
+      </num>
+      <head>
+        Eligible land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='204' psec='' tq='N'>
+              1450.204
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For the purposes of this subpart, eligible land must be physically
+            and legally capable of producing an eligible crop and must be:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Agricultural land; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Nonindustrial private forest land.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For the purposes of this subpart, eligible land is not:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Federal- or State-owned land, including land owned by local
+            governments or municipalities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Land that is native sod;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Land enrolled in the Conservation Reserve Program operated under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1410' tq='N'>
+                1410 of this chapter
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Land enrolled in the Wetlands Reserve Program operated under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1467' tq='N'>
+                1467 of this chapter
+              </subref>
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Land enrolled in the Grassland Reserve Program operated under 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1415' tq='N'>
+                1415 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12871'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.205
+      </extid>
+      <num st='1'>
+        1450.205
+      </num>
+      <head>
+        Duration of contracts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='205' psec='' tq='N'>
+              1450.205
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Duration of contracts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Contracts under this subpart will be for a term of up to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             5 years for annual and non-woody perennial crops; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             15 years for woody perennial crops.
+            <PRTPAGE P='757' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The establishment time period may vary due to: Type of crop,
+            agronomic conditions (for example, establishment time frame, winter
+            hardiness), and other factors.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12872'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.206
+      </extid>
+      <num st='1'>
+        1450.206
+      </num>
+      <head>
+        Obligations of participant.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 66234
+        </aref>
+        , October 27, 2010, as amended at 
+        <aref type='FREGIST'>
+          76 FR 56951
+        </aref>
+        , Sept. 15, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='206' psec='' tq='N'>
+              1450.206
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Obligations of participant.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All participants subject to a BCAP contract must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Carry out the terms and conditions of the contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Make available to CCC or to an institution of higher education or
+            other entity designated by CCC, such information as CCC determines
+            to be appropriate to promote the production of eligible crops and
+            the development of renewable biomass conversion technology;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with the highly erodible land and wetland conservation
+            requirements of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='12' tq='N'>
+                12 of this title
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Implement a:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation plan,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Forest stewardship plan, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Equivalent plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Implement the conservation plan, forest stewardship plan, or
+            equivalent plan which is part of such contract, in accordance with
+            the schedule of dates included in such conservation plan, forest
+            stewardship plan, or equivalent plan, unless CCC determines that the
+            participant cannot fully implement the conservation plan, forest
+            stewardship plan, or equivalent plan for reasons beyond the
+            producer&apos;s control and CCC and the participant agree to a
+            modified plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrate compliance with the conservation plan, forest
+            stewardship plan, or equivalent plan through required
+            self-certification subject to compliance spot checks, as determined
+            by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Establish temporary vegetative cover either within the timeframes
+            required by the conservation plan, forest stewardship plan, or
+            equivalent plan or as determined by the Deputy Administrator, if the
+            eligible crops cannot be timely established; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             If the participant has a share of the payment greater than zero, be
+            jointly and severally responsible with the other contract
+            participants for compliance with the provisions of such contract and
+            the provisions of this part, and for any refunds or payment
+            adjustments that may be required for violations of any of the terms
+            and conditions of the contract and this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payments may cease and producers may be subject to contract
+            termination for failure to establish eligible crops.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A contract will not be terminated for failure by the participant to
+            establish an approved cover on the land if, as determined by CCC:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The failure to plant or establish such cover was due to a natural
+            disaster such as excessive rainfall, flooding, or drought; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The participant establishes the approved cover as soon as
+            practicable after the wet or drought conditions that prevented the
+            establishment of such cover subside.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 66234
+          </aref>
+          , October 27, 2010, as amended at 
+          <aref type='FREGIST'>
+            76 FR 56951
+          </aref>
+          , Sept. 15, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12873'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.207
+      </extid>
+      <num st='1'>
+        1450.207
+      </num>
+      <head>
+        Conservation plan, forest stewardship plan, or equivalent plan.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='207' psec='' tq='N'>
+              1450.207
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation plan, forest stewardship plan, or equivalent plan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The producer must implement a conservation plan, forest stewardship
+            plan, or equivalent plan that complies with CCC guidelines and is
+            approved by the appropriate conservation district for the land to be
+            entered in BCAP. If the conservation district declines to review the
+            conservation plan, forest stewardship plan, or equivalent plan, or
+            disapproves the conservation plan, forest stewardship plan, or
+            equivalent plan, such approval may be waived by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The practices and management activities included in a conservation
+            plan, forest stewardship plan, or equivalent plan, and agreed to by
+            the producer, must be implemented in a cost-effective manner that
+            meets BCAP purposes as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If applicable, a tree planting plan must be developed and included
+            in the conservation plan, forest stewardship plan, or equivalent
+            plan. Such tree planting plan may allow a reasonable time to
+            complete plantings, as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Each conservation plan, forest stewardship plan, or equivalent
+            plan, and any revision of the plan, will be subject to approval by
+            CCC.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12874'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.208
+      </extid>
+      <num st='0'>
+        1450.208
+      </num>
+      <head>
+        Eligible practices.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='758' />
+        <SECTNO>
+          1450.208
+        </SECTNO>
+        <SUBJECT>
+          Eligible practices.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible practices are those practices specified in the
+            conservation plan, forest stewardship plan, or equivalent plan that
+            meet all standards needed to cost-effectively establish:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Annual crops;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Non-woody perennial crops; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Woody perennial crops.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12875'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.209
+      </extid>
+      <num st='1'>
+        1450.209
+      </num>
+      <head>
+        Signup.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='209' psec='' tq='N'>
+              1450.209
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Signup.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Offers for contracts may be submitted on a continuous basis to CCC
+            as determined by the Deputy Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12876'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.210
+      </extid>
+      <num st='1'>
+        1450.210
+      </num>
+      <head>
+        Acceptability of offers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='210' psec='' tq='N'>
+              1450.210
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Acceptability of offers.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Acceptance or rejection of any contract offered will be at the sole
+            discretion of CCC, and offers may be rejected for any reason as
+            determined appropriate to accomplish the purposes of BCAP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An offer to enroll land in BCAP will be irrevocable for such period
+            as is determined and announced by CCC. The producer will be liable
+            to CCC for liquidated damages if the applicant revokes an offer
+            during the period in which the offer is irrevocable as determined by
+            CCC. CCC may waive payment of such liquidated damages if CCC
+            determines that the assessment of such damages, in a particular
+            case, is not in the best interest of CCC and BCAP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12877'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.211
+      </extid>
+      <num st='1'>
+        1450.211
+      </num>
+      <head>
+        BCAP contract.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='211' psec='' tq='N'>
+              1450.211
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          BCAP contract.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In order to enroll land in BCAP, the participant must enter into a
+            contract with CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The contract is comprised of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The terms and conditions for participation in BCAP;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation plan, forest stewardship plan, or equivalent plan;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Any other materials or agreements determined necessary by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In order to enter into a contract, the producer must submit an
+            offer to participate as specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='209' psec='' tq='N'>
+                1450.209
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The contract must, within the dates established by CCC, be signed
+            by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The producer; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The owners of the eligible land to be placed in the BCAP and other
+            eligible participants, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Deputy Administrator is authorized to approve contracts on
+            behalf of CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will honor contracts even in the event that a project area
+            biomass conversion facility does not become fully or partially
+            operational.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Contracts may be terminated by CCC before the full term of the
+            contract has expired if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The owner loses control of or transfers all or part of the acreage
+            under contract and the new owner does not wish to continue the
+            contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The participant voluntarily requests in writing to terminate the
+            contract and obtains the approval of CCC according to terms and
+            conditions as determined by CCC;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The participant is not in compliance with the terms and conditions
+            of the contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The BCAP practice fails or is not established after a certain time
+            period, as determined CCC, and the cost of restoring or establishing
+            the practice outweighs the benefits received from the restoration or
+            establishment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The contract was approved based on erroneous eligibility
+            determinations; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             CCC determines that such a termination is needed in the public
+            interest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Except as allowed and approved by CCC where the new owner of land
+            enrolled in BCAP is a Federal agency that agrees to abide by the
+            terms and conditions of the terminated contract, the participant in
+            a contract that has been terminated must refund all or part of the
+            payments made with respect to the contract plus interest, as
+            determined by CCC, and must pay liquidated damages as provided for
+            in the contract and this part. CCC may permit the amount(s) to be
+            repaid to be reduced to the extent that such a reduction will not
+            impair the purposes of BCAP. Further, a refund of all payments need
+            not be required from a participant who is otherwise in full
+            compliance with the contract when the land is purchased by or for
+            the United States, as determined appropriate by CCC.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12878'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.212
+      </extid>
+      <num st='1'>
+        1450.212
+      </num>
+      <head>
+        Establishment payments.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='759' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='212' psec='' tq='N'>
+              1450.212
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Establishment payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Establishment payments will be made available upon a determination
+            by CCC that an eligible practice, or an identifiable portion of a
+            practice, has been established in compliance with the appropriate
+            standards and specifications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise provided for in this part, such payments will
+            be made only for the cost-effective establishment or installation of
+            an eligible practice, as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (d) of this section, such payments
+            will not be made to the same owner or operator on the same acreage
+            for any eligible practices that have been previously established, or
+            for which such owner or operator has received establishment
+            assistance from any Federal agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Establishment payments may be authorized for the replacement or
+            restoration of practices on land for which assistance has been
+            previously allowed under BCAP, only if the failure of the original
+            practice was due to reasons beyond the control of the participant,
+            as agreed to by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             In addition, CCC may make partial payments when the participant
+            completes identifiable components of the contract. CCC may make
+            supplemental establishment payments, if necessary.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12879'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.213
+      </extid>
+      <num st='1'>
+        1450.213
+      </num>
+      <head>
+        Levels and rates for establishment payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='213' psec='' tq='N'>
+              1450.213
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Levels and rates for establishment payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will pay not more than 75 percent of the actual or average cost
+            (whichever is lower) of establishing non-woody perennial crops and
+            woody perennial crops specified in the conservation plan, forest
+            stewardship plan, or equivalent plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The average cost of performing a practice may be determined by CCC
+            based on recommendations from the State Technical Committee. Such
+            cost may be the average cost in a State, a county, or a part of a
+            State or county, as determined by CCC. This means that the
+            calculated 75 percent of the average cost may represent less than 75
+            percent of the actual cost for an individual participant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise provided for in this part, a participant may
+            receive, in addition to any payment under this part, establishment
+            assistance, rental payments, or tax benefits from a State or a
+            private organization in return for enrolling lands in BCAP without a
+            commensurate reduction in BCAP establishment payments.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12880'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.214
+      </extid>
+      <num st='1'>
+        1450.214
+      </num>
+      <head>
+        Annual payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='214' psec='' tq='N'>
+              1450.214
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Annual payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Annual payments will be made in such amount and in accordance with
+            such time schedule as may be agreed upon and specified in the BCAP
+            contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Based on the regulations in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1410' sect='42' psec='' tq='N'>
+                1410.42
+              </subref>
+               of this chapter
+            </aref>
+             and as determined by CCC, annual payments include a payment based
+            on all or a percentage of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A weighted average soil rental rate for cropland;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The applicable marginal pastureland rental rate for all other land
+            except for nonindustrial private forest land;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For forest land, the average county rental rate for cropland as
+            adjusted for forest land productivity for nonindustrial private
+            forest land; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Any incentive payment as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The annual payment will be divided among the participants on a
+            single contract as agreed to in such contract, as determined by CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A participant that has an established eligible crop and is
+            therefore not eligible for establishment payments under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='212' psec='' tq='N'>
+                1450.212
+              </subref>
+            </aref>
+             may be eligible for annual payments under the provisions of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a contract succession, annual payments will be
+            divided between the predecessor and the successor participants as
+            agreed to among the participants and approved by CCC. If there is no
+            agreement among the participants, annual payments will be divided in
+            such manner deemed appropriate by the Deputy Administrator and such
+            distribution may be prorated based on the actual days of ownership
+            of the property by each party.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Annual payments will be reduced, as determined by CCC:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             By a percentage of the sum of the sale price and payments under
+            subpart B of this part for the crop collected or harvested from the
+            contract acreage as follows:
+            <PRTPAGE P='760' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             By 1 percent if the eligible crop is delivered to a biomass
+            conversion facility for conversion to cellulosic biofuels as defined
+            by 
+            <aref type='CFR'>
+              40 CFR 
+              <subref title='40' part='80' sect='1401' psec='' tq='N'>
+                80.1401
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             By 10 percent if the eligible crop is delivered to a biomass
+            conversion facility for conversion to advanced biofuels;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             By 25 percent if the eligible crop is delivered to a biomass
+            conversion facility for conversion to heat, power, or biobased
+            products;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             By 100 percent if the eligible crop is used for a purpose other
+            than conversion to heat, power, biobased products, or advanced
+            biofuels;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the producer violates a term of the contract; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In other circumstances deemed necessary or appropriate to carry out
+            BCAP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12881'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1450:C:1450.215
+      </extid>
+      <num st='1'>
+        1450.215
+      </num>
+      <head>
+        Transfer of land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1450' sect='215' psec='' tq='N'>
+              1450.215
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Transfer of land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If a new owner or operator purchases or obtains the right and
+            interest in, or right to occupancy of, land subject to a BCAP
+            contract, such new owner or operator, upon the approval of CCC, may
+            become a participant to a new BCAP contract with CCC for the
+            transferred land.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For the transferred land, if the new owner or operator becomes a
+            successor to the existing BCAP contract, the new owner or operator
+            will assume all obligations of the BCAP contract of the previous
+            participant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the new owner or operator is approved as a successor to a BCAP
+            contract with CCC, then, except as otherwise determined by the
+            Deputy Administrator:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Establishment payments will be made to the past or present
+            participant who established the practice; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Annual payments to be paid during the fiscal year when the land was
+            transferred will be divided between the new participant and the
+            previous participant in the manner specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='214' psec='#c' tq='N'>
+                1450.214(c)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If a participant transfers all or part of the right and interest
+            in, or right to occupancy of, land subject to a BCAP contract and
+            the new owner or operator does not become a successor to such
+            contract within 60 days of such transfer, or such other time as CCC
+            determines to be appropriate, such contract will be terminated with
+            respect to the affected portion of such land, and the original
+            participant:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Forfeits all rights to any future payments for that acreage;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Must refund all previous payments received under the contract by
+            the participant or prior participants, plus interest, except as
+            otherwise specified by CCC. The provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1450' sect='211' psec='#g' tq='N'>
+                1450.211(g)
+              </subref>
+            </aref>
+             will apply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Federal agencies acquiring property, by foreclosure or otherwise,
+            that contains BCAP contract acreage cannot be a party to the
+            contract by succession. However, through an addendum to the
+            contract, if the current operator of the property is one of the
+            contract participants, the contract may remain in effect and, as
+            permitted by CCC, such operator may continue to receive payments
+            under such contract if CCC determines that such allowance is in the
+            public interest and:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The property is maintained in accordance with the terms of the
+            contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Such operator continues to be the operator of the property; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Ownership of the property remains with such Federal agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

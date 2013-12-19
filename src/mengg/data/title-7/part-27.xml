@@ -1,0 +1,3824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol2'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:A:27
+    </extid>
+    <num>
+      27
+    </num>
+    <head>
+      COTTON CLASSIFICATION UNDER COTTON FUTURES LEGISLATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='15b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/15b.html'>
+              7 U.S.C. 15b
+            </subref>
+            , 
+            <subref title='7' sect='7' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7.html'>
+              7
+            </subref>
+          </aref>
+           U.S.C. 4736, 
+          <aref type='USC'>
+            <subref title='7' sect='1622' note='' psec='#g' tq='N' target='http://www.law.cornell.edu/uscode/7/1622.html#g'>
+              7 U.S.C. 1622(g)
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            22 FR 10923
+          </aref>
+          , Dec. 28, 1957; 
+          <aref type='FREGIST'>
+            30 FR 7239
+          </aref>
+          , May 29, 1965, unless otherwise noted.
+        </P>
+      </SOURCE>
+      <CROSSREF>
+        <HD SOURCE='HED'>
+          Cross Reference:
+        </HD>
+        <P>
+          For regulations relating to cotton classing, testing, and standards,
+          and cottonseed sold or offered for sale for crushing purposes, see 
+          <aref type='CFR-TIC-PART'>
+            parts 
+            <subref title='7' part='28' tq='N'>
+              28
+            </subref>
+             and 
+            <subref title='7' part='61' tq='N'>
+              61 of this chapter
+            </subref>
+          </aref>
+          .
+        </P>
+      </CROSSREF>
+    </text>
+    <section orderid='846'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.1
+      </extid>
+      <num st='1'>
+        27.1
+      </num>
+      <head>
+        Meaning of words.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='1' psec='' tq='N'>
+              27.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Meaning of words.
+        </SUBJECT>
+        <P>
+          Words used in this subpart in the singular form shall be deemed to
+          import the plural and vice versa, as the case may demand.
+        </P>
+      </contents>
+    </section>
+    <section orderid='847'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.2
+      </extid>
+      <num st='1'>
+        27.2
+      </num>
+      <head>
+        Terms defined.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          22 FR 10923
+        </aref>
+        , Dec. 28, 1957, as amended at 
+        <aref type='FREGIST'>
+          32 FR 4157
+        </aref>
+        , Mar. 17, 1967; 
+        <aref type='FREGIST'>
+          42 FR 40677
+        </aref>
+        , Aug. 11, 1977; 
+        <aref type='FREGIST'>
+          48 FR 49210
+        </aref>
+        , Oct. 25, 1983; 
+        <aref type='FREGIST'>
+          65 FR 36598
+        </aref>
+        , June 9, 2000; 
+        <aref type='FREGIST'>
+          77 FR 5380
+        </aref>
+        , Feb. 3, 2012; 
+        <aref type='FREGIST'>
+          77 FR 20504
+        </aref>
+        , Apr. 5, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='2' psec='' tq='N'>
+              27.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms defined.
+        </SUBJECT>
+        <P>
+          As used throughout this subpart, unless the context otherwise
+          requires, the following terms shall be construed, respectively, to
+          mean:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              The Act.
+            </head>
+          </npcatch>
+          <text>
+             The United States Cotton Futures Act (
+            <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=94_statutes2_at_large&amp;position=all&amp;page=1841'>
+              90 Stat. 1841
+            </aref>
+            -1846; 
+            <aref type='USC'>
+              <subref title='7' sect='15b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/15b.html'>
+                7 U.S.C. 15b
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Department.
+            </head>
+          </npcatch>
+          <text>
+             The United States Department of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Service.
+            </head>
+          </npcatch>
+          <text>
+             The Agricultural Marketing Service of the Department.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Administrator.
+            </head>
+          </npcatch>
+          <text>
+             The Administrator of the Service, or any officer or employee of the
+            Service, to whom authority has heretofore been delegated, or to whom
+            authority may hereafter be delegated, to act in the
+            Administrator&apos;s stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Cotton Division.
+            </head>
+          </npcatch>
+          <text>
+             The Cotton Division of the Service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Director.
+            </head>
+          </npcatch>
+          <text>
+             The Director of the Cotton Division, or any officer or employee of
+            the Division to whom authority has heretofore been delegated, or to
+            whom authority may hereafter be delegated to act in the
+            Director&apos;s stead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Marketing Services Office.
+            </head>
+          </npcatch>
+          <text>
+             A facility of the Cotton Division established under the Act at any
+            point.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Quality Assurance Division.
+            </head>
+          </npcatch>
+          <text>
+             The Quality Assurance Division at Memphis, Tennessee; shall provide
+            supervision of futures cotton classification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Exchange.
+            </head>
+          </npcatch>
+          <text>
+             Exchange, board of trade, or similar institution or place of
+            business, at, on, or in which a basis grade contract may be made.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Exchange inspection agency.
+            </head>
+          </npcatch>
+          <text>
+             The inspection agency of the New York Cotton Exchange, the New
+            Orleans Cotton Exchange, the Board of Trade of the city of Chicago,
+            or of any other exchange which may have an organized inspection
+            agency recognized as such by the Director, as the case may be.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Basis grade contract.
+            </head>
+          </npcatch>
+          <text>
+             Contract of sale of cotton for future delivery mentioned in the
+            Act, made at, on, or in any exchange in compliance with sub
+            <aref type='UNKNOWN'>
+              section 15b(f) of
+            </aref>
+             the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+            <head>
+              Person.
+            </head>
+          </npcatch>
+          <text>
+             Individual, association, partnership, or corporation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+            <head>
+              Owner.
+            </head>
+          </npcatch>
+          <text>
+             Person who owns, controls, or has the disposition of any cotton.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='n'>
+            <enum src='gpotxt' cln='1'>
+              (n)
+            </enum>
+            <head>
+              Classification.
+            </head>
+          </npcatch>
+          <text>
+             The classification of any cotton shall be determined by the quality
+            of a sample in accordance with the Universal Cotton Standards (the
+            official cotton standards of the United States) for the color grade,
+            the leaf grade, and fiber property measurements of American Upland
+            cotton. High Volume Instruments will determine all fiber property
+            measurements except extraneous matter. Cotton classers authorized by
+            the Cotton and Tobacco Programs will determine the presence of
+            extraneous matter.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='o'>
+            <enum src='gpotxt' cln='1'>
+              (o)
+            </enum>
+            <head>
+              Micronaire determination.
+            </head>
+          </npcatch>
+          <text>
+             The measure of the fiber fineness and maturity of cotton, in
+            combination, in terms of Micronaire readings as determined by an
+            authorized employee of the Department in accordance with the
+            official cotton standards of the United States for fiber fineness
+            and maturity.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            22 FR 10923
+          </aref>
+          , Dec. 28, 1957, as amended at 
+          <aref type='FREGIST'>
+            32 FR 4157
+          </aref>
+          , Mar. 17, 1967; 
+          <aref type='FREGIST'>
+            42 FR 40677
+          </aref>
+          , Aug. 11, 1977; 
+          <aref type='FREGIST'>
+            48 FR 49210
+          </aref>
+          , Oct. 25, 1983; 
+          <aref type='FREGIST'>
+            65 FR 36598
+          </aref>
+          , June 9, 2000; 
+          <aref type='FREGIST'>
+            77 FR 5380
+          </aref>
+          , Feb. 3, 2012; 
+          <aref type='FREGIST'>
+            77 FR 20504
+          </aref>
+          , Apr. 5, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='848'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.3
+      </extid>
+      <num st='1'>
+        27.3
+      </num>
+      <head>
+        Requirements of subsection 15b(f) of the Act.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          42 FR 40677
+        </aref>
+        , Aug. 11, 1977]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='3' psec='' tq='N'>
+              27.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requirements of sub
+          <aref type='UNKNOWN'>
+            section 15b(f) of
+          </aref>
+           the Act.
+        </SUBJECT>
+        <P>
+          The inspection, sampling, classification, and Micronaire determination
+          of cotton pursuant to sub
+          <aref type='UNKNOWN'>
+            section 15b(f) of
+          </aref>
+           the Act shall be performed as prescribed in this subpart. All tenders
+          of cotton and settlements therefor under basis grade contracts shall
+          be made subject to the regulations in this subpart. No contract shall
+          for the purposes of this subpart be deemed to comply with sub
+          <aref type='UNKNOWN'>
+            section 15b(f) of
+          </aref>
+           the Act if it contain or incorporate therein, by reference or
+          otherwise, any provision or any bylaw, rule, or custom of an exchange
+          which is inconsistent or in conflict with any requirement of said sub
+          <aref type='CFR-TIC-SECT'>
+            section 15b(f)
+          </aref>
+          , nor if the parties enter into any collateral or additional agreement
+          or understanding, either verbal or written, respecting the subject
+          matter of such contract which is inconsistent or in conflict with any
+          requirement of said sub
+          <aref type='CFR-TIC-SECT'>
+            section 15b(f)
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            42 FR 40677
+          </aref>
+          , Aug. 11, 1977]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='849'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.4
+      </extid>
+      <num st='1'>
+        27.4
+      </num>
+      <head>
+        Obligations and rights under Act: not affected by regulations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49210
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='4' psec='' tq='N'>
+              27.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Obligations and rights under Act: not affected by regulations.
+        </SUBJECT>
+        <P>
+          Nothing in this subpart shall be construed as relieving any party to a
+          basis grade contract of any obligation imposed upon the party, or as
+          depriving the party of any right to which the party might be entitled
+          under any provision of the contract or exchange rule made a part
+          thereof which shall not be inconsistent with the act or the
+          regulations made under the Act.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49210
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='850'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.5
+      </extid>
+      <num st='1'>
+        27.5
+      </num>
+      <head>
+        Effect of amendments.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          22 FR 10923
+        </aref>
+        , Dec. 28, 1957, as amended at 
+        <aref type='FREGIST'>
+          42 FR 40677
+        </aref>
+        , Aug. 11, 1977]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='5' psec='' tq='N'>
+              27.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effect of amendments.
+        </SUBJECT>
+        <P>
+          Any amendment to this subpart, unless otherwise stated therein, shall
+          apply to all tenders of cotton and settlements therefor made on and
+          after the effective date of such amendment, under basis grade
+          contracts entered into prior, as well as subsequent, to such effective
+          date.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            22 FR 10923
+          </aref>
+          , Dec. 28, 1957, as amended at 
+          <aref type='FREGIST'>
+            42 FR 40677
+          </aref>
+          , Aug. 11, 1977]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='851'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.8
+      </extid>
+      <num st='1'>
+        27.8
+      </num>
+      <head>
+        Director.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='8' psec='' tq='N'>
+              27.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Director.
+        </SUBJECT>
+        <P>
+          The Director shall perform for and under the supervision of the
+          Administrator, such duties as the Administrator may require in
+          enforcing the provisions of the Act and this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='852'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.9
+      </extid>
+      <num st='1'>
+        27.9
+      </num>
+      <head>
+        Classing Offices; Quality Assurance Division.
+      </head>
+      <citation>
+        [ 
+        <aref type='FREGIST'>
+          77 FR 5380
+        </aref>
+        , Feb. 3, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='9' psec='' tq='N'>
+              27.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Classing Offices; Quality Assurance Division.
+        </SUBJECT>
+        <P>
+          Classing Offices shall be maintained at points designated for the
+          purpose by the Administrator. The Quality Assurance Division shall
+          provide supervision of futures cotton classification and perform other
+          duties as assigned by the Deputy Administrator.
+        </P>
+        <CITA>
+          [ 
+          <aref type='FREGIST'>
+            77 FR 5380
+          </aref>
+          , Feb. 3, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='853'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.10
+      </extid>
+      <num st='1'>
+        27.10
+      </num>
+      <head>
+        Supervision of cotton inspection, weighing, sampling; and other duties.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          26 FR 1656
+        </aref>
+        , Feb. 25, 1961]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='10' psec='' tq='N'>
+              27.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Supervision of cotton inspection, weighing, sampling; and other
+          duties.
+        </SUBJECT>
+        <P>
+          Authorized employees of the Cotton Division will act, when necessary,
+          as supervisors of cotton inspection to supervise the inspection,
+          weighing, and sampling of cotton to be classified and will perform
+          such other duties as may be required of them for the purposes of this
+          subpart.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            26 FR 1656
+          </aref>
+          , Feb. 25, 1961]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='854'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.11
+      </extid>
+      <num st='1'>
+        27.11
+      </num>
+      <head>
+        Area Director, Marketing Services Office; responsibility.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49210
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='11' psec='' tq='N'>
+              27.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Area Director, Marketing Services Office; responsibility.
+        </SUBJECT>
+        <P>
+          Subject to this subpart and the instructions of the Director, the Area
+          Director of each Marketing Services Office shall be responsible for
+          the proper performance of the duties imposed on such office and on the
+          persons connected therewith.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49210
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='855'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.12
+      </extid>
+      <num st='1'>
+        27.12
+      </num>
+      <head>
+        Classification request for each lot of cotton.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49210
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='12' psec='' tq='N'>
+              27.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Classification request for each lot of cotton.
+        </SUBJECT>
+        <P>
+          For each lot or mark of cotton of which the applicant desires separate
+          classification and certification, the applicant shall make a separate
+          written request in a form prescribed or supplied by the Cotton
+          Division for that purpose.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49210
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='856'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.13
+      </extid>
+      <num st='1'>
+        27.13
+      </num>
+      <head>
+        Micronaire determination request incidental to classification request.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='10' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='13' psec='' tq='N'>
+              27.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Micronaire determination request incidental to classification request.
+        </SUBJECT>
+        <P>
+          The classification request may include a request for Micronaire
+          determination.
+        </P>
+      </contents>
+    </section>
+    <section orderid='857'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.14
+      </extid>
+      <num st='1'>
+        27.14
+      </num>
+      <head>
+        Filing of classification requests.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          77 FR 5380
+        </aref>
+        , Feb. 3, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='14' psec='' tq='N'>
+              27.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Filing of classification requests.
+        </SUBJECT>
+        <P>
+          Requests for futures classification shall be filed with the Quality
+          Assurance Division within 10 days after sampling and before
+          classification of the samples.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            77 FR 5380
+          </aref>
+          , Feb. 3, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='858'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.15
+      </extid>
+      <num st='1'>
+        27.15
+      </num>
+      <head>
+        Withdrawal or rejection of classification or Micronaire determination
+        requests.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='15' psec='' tq='N'>
+              27.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Withdrawal or rejection of classification or Micronaire determination
+          requests.
+        </SUBJECT>
+        <P>
+          Any request for classification or for Micronaire determination may be
+          withdrawn by the applicant at any time before the classification or
+          Micronaire determination of the cotton covered thereby, subject to the
+          payment of such fees, if any, as may be prescribed under 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='27' sect='80' psec='' tq='N'>
+              27.80
+            </subref>
+          </aref>
+           to 27.92. Any request for classification or for Micronaire
+          determination may be rejected for noncompliance with the act or this
+          subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='859'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.16
+      </extid>
+      <num st='1'>
+        27.16
+      </num>
+      <head>
+        Inspection; weighing; samples; supervision.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49210
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='16' psec='' tq='N'>
+              27.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspection; weighing; samples; supervision.
+        </SUBJECT>
+        <P>
+          The inspection, weighing, and sampling of cotton for which
+          classification is desired and the preparation and delivery of samples
+          to the Marketing Services Office shall be (a) under the supervision of
+          a supervisor of cotton inspection, or (b) by or under the direction of
+          an exchange inspection agency and subject to the supervision of a
+          supervisor of cotton inspection.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49210
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='860'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.18
+      </extid>
+      <num st='1'>
+        27.18
+      </num>
+      <head>
+        Persons not to be employed for inspection or sampling.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='18' psec='' tq='N'>
+              27.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Persons not to be employed for inspection or sampling.
+        </SUBJECT>
+        <P>
+          No person shall, after notice to the interested parties, be employed
+          in any way in connection with any phase of the inspection and sampling
+          of cotton or the preparation of the samples thereof, for the purposes
+          of classification under this subpart, who for good cause is
+          disapproved by the Director.
+        </P>
+      </contents>
+    </section>
+    <section orderid='861'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.20
+      </extid>
+      <num st='1'>
+        27.20
+      </num>
+      <head>
+        Drawing and handling of samples of cotton; inspection of bales.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49210
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='20' psec='' tq='N'>
+              27.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Drawing and handling of samples of cotton; inspection of bales.
+        </SUBJECT>
+        <P>
+          One sample shall be drawn from the top side of each bale and one from
+          the bottom side. Each such sample shall weigh not less than 5 ounces,
+          the two samples from each bale to weigh together not less than 10
+          ounces. The bale shall be inspected and any condition not fully
+          indicated by the samples shall be explained by the supervisor of
+          cotton inspection or exchange inspection agency in a written
+          memorandum, which shall acompany the samples to the Marketing Services
+          Office. Samples shall not be dressed or trimmed and shall be carefully
+          handled in such manner as not to cause loss of leaf, sand, or other
+          material, or otherwise change their representative character. Any
+          sample which does not meet the requirements of this section may be
+          rejected by the supervisor of cotton inspection or the Area Director.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49210
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='862'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.21
+      </extid>
+      <num st='1'>
+        27.21
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='21' psec='' tq='N'>
+              27.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='863'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.22
+      </extid>
+      <num st='1'>
+        27.22
+      </num>
+      <head>
+        Wrapping and marking of samples of cotton.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49210
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='22' psec='' tq='N'>
+              27.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Wrapping and marking of samples of cotton.
+        </SUBJECT>
+        <P>
+          The original sets of samples of the bales constituting a lot or mark
+          to be classified separately shall be inclosed in one or more wrappers
+          or containers, as the case may require. The wrappers or containers of
+          original samples shall be so labeled or marked, or both, as to show
+          that they contain original samples, together with the lot number, if
+          any, the marks, and the number of bales, and such other information as
+          may be necessary in accordance with the instructions of the Area
+          Director of the Marketing Services Office to which the samples are to
+          be delivered.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49210
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='864'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.23
+      </extid>
+      <num st='1'>
+        27.23
+      </num>
+      <head>
+        Duplicate sets of samples of cotton.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='23' psec='' tq='N'>
+              27.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Duplicate sets of samples of cotton.
+        </SUBJECT>
+        <P>
+          The duplicate sets of samples shall be inclosed in wrappers or
+          containers separate and apart from the original sets in the manner
+          prescribed or original samples in the foregoing section, except that
+          the wrappers or containers shall be labeled or marked, or both, so as
+          to show that they contain duplicate samples and shall be delivered to
+          the 
+          <PRTPAGE P='11' />
+          person requesting the classification of the cotton.
+        </P>
+      </contents>
+    </section>
+    <section orderid='865'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.24
+      </extid>
+      <num st='1'>
+        27.24
+      </num>
+      <head>
+        Delivery of samples of cotton.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49210
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='24' psec='' tq='N'>
+              27.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Delivery of samples of cotton.
+        </SUBJECT>
+        <P>
+          The original sample from each bale to be classified shall be delivered
+          to the Marketing Services Office with which the classification request
+          was filed, at its classification room. If there is no Marketing
+          Services Office at the point where the cotton is sampled, the
+          supervisor of cotton inspection or the exchange inspection agency
+          shall forward the samples to the proper Marketing Services Office. No
+          samples covered by pending classification requests which are ready for
+          delivery as provided for herein shall be withheld from such delivery
+          except as authorized in writing by the Area Director or the Director.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49210
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='866'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.25
+      </extid>
+      <num st='1'>
+        27.25
+      </num>
+      <head>
+        Additional samples of cotton; drawing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='25' psec='' tq='N'>
+              27.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Additional samples of cotton; drawing.
+        </SUBJECT>
+        <P>
+          In addition to the samples hereinbefore prescribed, separate samples,
+          if desired, may be drawn and furnished to the owner of the cotton.
+        </P>
+      </contents>
+    </section>
+    <section orderid='867'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.28
+      </extid>
+      <num st='1'>
+        27.28
+      </num>
+      <head>
+        Disposition of samples.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49211
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='28' psec='' tq='N'>
+              27.28
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disposition of samples.
+        </SUBJECT>
+        <P>
+          Samples submitted to a Marketing Services Office shall become the
+          property of the Department and shall be disposed of in accordance with
+          the property regulations of Department when no longer needed for
+          classification or Micronaire determinations.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49211
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='868'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.31
+      </extid>
+      <num st='1'>
+        27.31
+      </num>
+      <head>
+        Classification of cotton.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          77 FR 20504
+        </aref>
+        , Apr. 5, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='31' psec='' tq='N'>
+              27.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Classification of cotton.
+        </SUBJECT>
+        <P>
+          For purposes of sub
+          <aref type='UNKNOWN'>
+            section 15b (f) of
+          </aref>
+           The Act, classification of cotton is the determination of the quality
+          of a sample in accordance with the Universal Cotton Standards (the
+          official cotton standards of the United States) for the color grade
+          and leaf grade of American upland cotton, and fiber property
+          measurements such as micronaire. High Volume Instruments will
+          determine all fiber property measurements except extraneous matter.
+          High Volume Instrument colormeter measurements will be used for
+          determining the official color grade. Cotton classers authorized by
+          the Cotton and Tobacco Programs will determine the presence of
+          extraneous matter and authorized employees of the Cotton and Tobacco
+          Programs will determine all fiber property measurements using High
+          Volume Instruments.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            77 FR 20504
+          </aref>
+          , Apr. 5, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='869'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.32
+      </extid>
+      <num st='1'>
+        27.32
+      </num>
+      <head>
+        Order of classification.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49211
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='32' psec='' tq='N'>
+              27.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Order of classification.
+        </SUBJECT>
+        <P>
+          All cotton for which classifications requests shall be pending shall
+          be classified as far as practicable in the order in which proper
+          samples thereof, ready for such classification, shall have been
+          delivered to the Marketing Services Office, except as otherwise
+          provided in this subpart or when the Area Director or the Director
+          shall find that an emergency exists and shall order otherwise.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49211
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='870'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.33
+      </extid>
+      <num st='1'>
+        27.33
+      </num>
+      <head>
+        Exposing of samples for classification.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49211
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='33' psec='' tq='N'>
+              27.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exposing of samples for classification.
+        </SUBJECT>
+        <P>
+          Classification shall not proceed until the samples, after being
+          delivered to the Marketing Services Office, shall have been exposed
+          for such length of time as in the judgment of the Area Director shall
+          be sufficient to put them in proper condition for the purpose.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49211
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='871'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.34
+      </extid>
+      <num st='1'>
+        27.34
+      </num>
+      <head>
+        Classification procedure.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='34' psec='' tq='N'>
+              27.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Classification procedure.
+        </SUBJECT>
+        <P>
+          Classification shall proceed as rapidly as possible, but not when
+          light or other conditions make uncertain the accuracy of the results
+          to be obtained.
+        </P>
+      </contents>
+    </section>
+    <section orderid='872'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.35
+      </extid>
+      <num st='1'>
+        27.35
+      </num>
+      <head>
+        Lower class of two samples to prevail.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='35' psec='' tq='N'>
+              27.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Lower class of two samples to prevail.
+        </SUBJECT>
+        <P>
+          In case a sample drawn from one portion of a bale is lower in class
+          than one drawn from another portion of such bale, except as otherwise
+          provided in this subpart, the classification of the bale shall be that
+          of the sample showing the lower class.
+        </P>
+      </contents>
+    </section>
+    <section orderid='873'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.36
+      </extid>
+      <num st='1'>
+        27.36
+      </num>
+      <head>
+        Classification determinations based on official standards.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          77 FR 5380
+        </aref>
+        , Feb. 3, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='36' psec='' tq='N'>
+              27.36
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Classification determinations based on official standards.
+        </SUBJECT>
+        <P>
+          All cotton shall be classified on the basis of the official cotton
+          standards of the United States in effect at the time of such
+          classification.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            77 FR 5380
+          </aref>
+          , Feb. 3, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='874'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.37
+      </extid>
+      <num st='1'>
+        27.37
+      </num>
+      <head>
+        Cotton reduced in grade.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          25 FR 5872
+        </aref>
+        , June 25, 1960]
+      </citation>
+      <contents>
+        <PRTPAGE P='12' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='37' psec='' tq='N'>
+              27.37
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cotton reduced in grade.
+        </SUBJECT>
+        <P>
+          If cotton be reduced in grade, by reason of the presence of extraneous
+          matter or other irregularities or defects, below its grade according
+          to the official cotton standards of the United States, the grade from
+          which it is so reduced, and the condition or reason which so reduces
+          its grade shall be determined and stated.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            25 FR 5872
+          </aref>
+          , June 25, 1960]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='875'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.38
+      </extid>
+      <num st='1'>
+        27.38
+      </num>
+      <head>
+        Terms defined for purposes of classification.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          22 FR 10926
+        </aref>
+        , Dec. 28, 1957, as amended at 
+        <aref type='FREGIST'>
+          26 FR 5945
+        </aref>
+        , July 1, 1961; 
+        <aref type='FREGIST'>
+          32 FR 7011
+        </aref>
+        , May 9, 1967; 
+        <aref type='FREGIST'>
+          35 FR 17935
+        </aref>
+        , Nov. 21, 1970]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='38' psec='' tq='N'>
+              27.38
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms defined for purposes of classification.
+        </SUBJECT>
+        <P>
+          For the purposes of classification the following terms shall be
+          construed, respectively, to mean:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Cotton of perished staple.
+            </head>
+          </npcatch>
+          <text>
+             Cotton that has the strength of fiber as ordinarily found in cotton
+            destroyed or unduly reduced through exposure to the weather either
+            before picking or after baling, or through heating by fire, or on
+            account of water packing, or by other causes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Gin cut cotton.
+            </head>
+          </npcatch>
+          <text>
+             Cotton that shows damage in ginning, through cutting by the saws,
+            to an extent that reduces its value more than two grades.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Reginned cotton.
+            </head>
+          </npcatch>
+          <text>
+             Cotton that has passed through the ginning process more than once,
+            and cotton that, after having been ginned, has been subjected to a
+            cleaning process and then baled.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Repacked cotton.
+            </head>
+          </npcatch>
+          <text>
+             Cotton that is composed of factors&apos;, brokers&apos;, or other
+            samples, or of loose or miscellaneous lots collected and rebaled, or
+            cotton in a bale which is composed of cotton from two or more
+            smaller bales or parts of bales that are combined after the cotton
+            leaves the gin.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              False packed cotton.
+            </head>
+          </npcatch>
+          <text>
+             Cotton in a bale (1) containing substances entirely foreign to
+            cotton, (2) containing damaged cotton in the interior with or
+            without any indication of such damage upon the exterior, (3)
+            composed of good cotton upon the exterior and decidedly inferior
+            cotton in the interior, in such manner as not to be detected by
+            customary examination, or (4) containing pickings or linters worked
+            into the bale.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Mixed packed cotton.
+            </head>
+          </npcatch>
+          <text>
+             Cotton in a bale which, in the sample taken therefrom, shows (1) a
+            difference of three or more grades, or (2) a difference of three or
+            more color groups, or (3) a difference in length of staple of
+            one-eighth inch or more. For purposes of this paragraph, White
+            Cotton (including the Plus grades), Light Gray Cotton, and Gray
+            Cotton shall constitute one color group, and Light Spotted Cotton,
+            Spotted Cotton, Tinged Cotton, and Yellow Stained Cotton shall each
+            constitute a color group.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Water packed cotton.
+            </head>
+          </npcatch>
+          <text>
+             Cotton in a bale that has been penetrated by water during the
+            baling process, causing damage to the fiber, or a bale that through
+            exposure to the weather or by other means, while apparently dry on
+            the exterior, has been damaged by water in the interior.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            22 FR 10926
+          </aref>
+          , Dec. 28, 1957, as amended at 
+          <aref type='FREGIST'>
+            26 FR 5945
+          </aref>
+          , July 1, 1961; 
+          <aref type='FREGIST'>
+            32 FR 7011
+          </aref>
+          , May 9, 1967; 
+          <aref type='FREGIST'>
+            35 FR 17935
+          </aref>
+          , Nov. 21, 1970]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='876'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.39
+      </extid>
+      <num st='1'>
+        27.39
+      </num>
+      <head>
+        Issuance of classification records.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          77 FR 5380
+        </aref>
+        , Feb. 3, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='39' psec='' tq='N'>
+              27.39
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of classification records.
+        </SUBJECT>
+        <P>
+          Except as otherwise provided in this section, as soon as practicable
+          after the classification of cotton has been completed by the Cotton
+          and Tobacco Programs, the Quality Assurance Division shall issue an
+          electronic cotton classification record showing the results of such
+          classification. Each electronic record shall bear the date of its
+          issuance. The electronic record shall show the identification of the
+          cotton according to the information in the possession of the Cotton
+          and Tobacco Programs, the classification of the cotton and such other
+          facts as the Deputy Administrator may require.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            77 FR 5380
+          </aref>
+          , Feb. 3, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='877'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.40
+      </extid>
+      <num st='1'>
+        27.40
+      </num>
+      <head>
+        New certificates; conditions of issuance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='40' psec='' tq='N'>
+              27.40
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          New certificates; conditions of issuance.
+        </SUBJECT>
+        <P>
+          For the business convenience of a holder of a cotton class certificate
+          issued under this subpart a new certificate may be issued at the
+          request of the holder, to take the place of the former certificate
+          without the reclassification of the cotton and without a new
+          Micronaire determination for the cotton. In any case where a new
+          certificate is issued in accordance with this section, the former
+          certificate shall be surrendered for cancellation, and such 
+          <PRTPAGE P='13' />
+          new certificate shall bear a new number, the date of its issuance, and
+          the date of original certification, and shall otherwise comply with
+          this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='878'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.41
+      </extid>
+      <num st='1'>
+        27.41
+      </num>
+      <head>
+        Lost certificate; duplicate.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49211
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='41' psec='' tq='N'>
+              27.41
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Lost certificate; duplicate.
+        </SUBJECT>
+        <P>
+          Upon the written request of the last holder of a valid cotton class
+          certificate and a showing to the satisfaction of the Area Director of
+          the Marketing Services Office which issued such certificate, that it
+          has been lost or destroyed and, if lost, that diligent effort has been
+          made to find it without success, a new certificate shall be issued
+          without the reclassification of the cotton and without a new
+          Micronaire determination for the cotton. Such new certificate shall
+          bear the same number and date of issuance as the lost or destroyed
+          certificate, and shall include a statement to the effect that it is a
+          duplicate issued in lieu of the lost or destroyed original, as the
+          case may be.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49211
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='879'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.42
+      </extid>
+      <num st='1'>
+        27.42
+      </num>
+      <head>
+        Surrender of certificate.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49211
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='42' psec='' tq='N'>
+              27.42
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Surrender of certificate.
+        </SUBJECT>
+        <P>
+          For good cause any certificate issued under this subpart shall be
+          surrendered to a Marketing Services Office for correction or
+          cancellation. If such certificate be not surrendered upon request it
+          shall nevertheless be invalid under sub
+          <aref type='UNKNOWN'>
+            section 15b(f) of
+          </aref>
+           the Act and this subpart.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49211
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='880'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.43
+      </extid>
+      <num st='1'>
+        27.43
+      </num>
+      <head>
+        Validity of cotton class certificates.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          22 FR 10926
+        </aref>
+        , Dec. 28, 1957, as amended at 
+        <aref type='FREGIST'>
+          42 FR 40677
+        </aref>
+        , Aug. 11, 1977]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='43' psec='' tq='N'>
+              27.43
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Validity of cotton class certificates.
+        </SUBJECT>
+        <P>
+          Each cotton class certificate for cotton classified as tenderable
+          shall be valid for use in the tender of such cotton on a basis grade
+          contract made in accordance with the Act and this subpart and the
+          rules of an exchange not inconsistent therewith.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            22 FR 10926
+          </aref>
+          , Dec. 28, 1957, as amended at 
+          <aref type='FREGIST'>
+            42 FR 40677
+          </aref>
+          , Aug. 11, 1977]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='881'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.44
+      </extid>
+      <num st='1'>
+        27.44
+      </num>
+      <head>
+        Invalidity of cotton class certificates.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          22 FR 10926
+        </aref>
+        , Dec. 28, 1957, as amended at 
+        <aref type='FREGIST'>
+          26 FR 1657
+        </aref>
+        , Feb. 25, 1961; 
+        <aref type='FREGIST'>
+          42 FR 40677
+        </aref>
+        , Aug. 11, 1977]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='44' psec='' tq='N'>
+              27.44
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Invalidity of cotton class certificates.
+        </SUBJECT>
+        <P>
+          Any cotton class certificate shall become invalid for use in the
+          tender or delivery of the cotton covered thereby on a basis grade
+          contract whenever such cotton shall be removed from the place of
+          storage specified therein, except when it is handled and re-stored or
+          transferred to a different place of storage and restored under the
+          supervision of an exchange inspection agency or a supervisor of cotton
+          inspection.
+        </P>
+        <SECAUTH>
+          (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=94_statutes2_at_large&amp;position=all&amp;page=1841'>
+            90 Stat. 1841
+          </aref>
+          -1846; (
+          <aref type='USC'>
+            <subref title='7' sect='15b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/15b.html'>
+              7 U.S.C. 15b
+            </subref>
+          </aref>
+          ))
+        </SECAUTH>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            22 FR 10926
+          </aref>
+          , Dec. 28, 1957, as amended at 
+          <aref type='FREGIST'>
+            26 FR 1657
+          </aref>
+          , Feb. 25, 1961; 
+          <aref type='FREGIST'>
+            42 FR 40677
+          </aref>
+          , Aug. 11, 1977]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='882'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.45
+      </extid>
+      <num st='1'>
+        27.45
+      </num>
+      <head>
+        No storage of cotton for classification at disapproved place.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49211
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='45' psec='' tq='N'>
+              27.45
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          No storage of cotton for classification at disapproved place.
+        </SUBJECT>
+        <P>
+          No cotton submitted for classification under sub
+          <aref type='UNKNOWN'>
+            section 15b(f) of
+          </aref>
+           the Act shall be located or stored at a place disapproved for the
+          purpose by the Area Director or the Director on account of being
+          unsuitable for the safekeeping or proper storage of such cotton, or on
+          account of the failure or refusal of the custodian thereof to comply
+          or to permit compliance with the requirements of this subpart. Notice
+          of such disapproval shall be given in such manner as the Director may
+          direct. Thereafter every cotton class certificate previously issued
+          for cotton located or stored at such place shall be invalid for the
+          delivery of such cotton on a basis grade contract, unless the cotton
+          shall be removed under the supervision of an exchange inspection
+          agency, or a supervisor of cotton inspection, to a place which shall
+          be suitable for the purpose. Upon such removal and the request of the
+          holder of the cotton class certificate for such cotton a new
+          certificate in lieu thereof, as provided elsewhere in this subpart,
+          shall be issued.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49211
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='883'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.46
+      </extid>
+      <num st='1'>
+        27.46
+      </num>
+      <head>
+        Cotton withdrawn from storage.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49211
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='46' psec='' tq='N'>
+              27.46
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cotton withdrawn from storage.
+        </SUBJECT>
+        <P>
+          The exchange inspection agency under the supervision or control of
+          which any cotton classified pursuant to this subpart shall be held or
+          stored shall furnish to the Marketing Services Office which classified
+          such cotton, on the first business day of each week, a written
+          statement of all cotton withdrawn from storage, or the lot number or
+          other identification of which has been changed, or which has otherwise
+          been removed from the supervision or control of such exchange
+          inspection agency during the next preceding week. Such statement shall
+          show each lot 
+          <PRTPAGE P='14' />
+          number, and, if changed, the new lot number, and in case of the
+          withdrawal or removal of a portion only of the lot, the tag numbers of
+          the bales so withdrawn or removed. If such removal shall be to a
+          different place of storage under the supervision or control of the
+          exchange inspection agency, the statement shall show the new location.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49211
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='884'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.47
+      </extid>
+      <num st='1'>
+        27.47
+      </num>
+      <head>
+        Tender or delivery of cotton; conditions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          77 FR 5380
+        </aref>
+        , Feb. 3, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='47' psec='' tq='N'>
+              27.47
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Tender or delivery of cotton; conditions.
+        </SUBJECT>
+        <P>
+          Subject to the provisions of 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='27' sect='52' psec='' tq='N'>
+              27.52
+            </subref>
+          </aref>
+           through 27.55, no cotton shall be tendered or delivered on a basis
+          grade contract unless on or prior to the date fixed for delivery under
+          such contract, and in advance of final settlement of the contract, the
+          person making the tender shall furnish to the person receiving the
+          same a valid outstanding cotton classification record complying with
+          the regulations in this subpart, showing such cotton to be tenderable
+          on a basis grade contract.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            77 FR 5380
+          </aref>
+          , Feb. 3, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='885'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.52
+      </extid>
+      <num st='1'>
+        27.52
+      </num>
+      <head>
+        Delivery without certification.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49212
+        </aref>
+        , Oct. 25, 1983, as amended at 
+        <aref type='FREGIST'>
+          50 FR 47707
+        </aref>
+        , Nov. 20, 1985]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='52' psec='' tq='N'>
+              27.52
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Delivery without certification.
+        </SUBJECT>
+        <P>
+          If upon the date fixed for delivery in accordance with sub
+          <aref type='UNKNOWN'>
+            section 15b(f) of
+          </aref>
+           the Act cotton class certificates shall not have been issued by a
+          Marketing Services Office for cotton to be delivered pursuant to such
+          notice, samples of which cotton shall have been in the custody of the
+          Marketing Services Office for the time hereinafter prescribed, the
+          delivery of such cotton may be made upon compliance with and subject
+          to the conditions specified in 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='27' sect='52' psec='' tq='N'>
+              27.52
+            </subref>
+          </aref>
+           through 27.55. 
+          <aref type='CFR-TIC-SECT'>
+            Sections 
+            <subref title='7' part='27' sect='52' psec='' tq='N'>
+              27.52
+            </subref>
+          </aref>
+           through 27.55 shall not apply to cotton upon which a Marketing
+          Services Office has already issued cotton class certificates pursuant
+          to this subpart.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49212
+          </aref>
+          , Oct. 25, 1983, as amended at 
+          <aref type='FREGIST'>
+            50 FR 47707
+          </aref>
+          , Nov. 20, 1985]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='886'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.53
+      </extid>
+      <num st='1'>
+        27.53
+      </num>
+      <head>
+        Notice for delayed certification; requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49212
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='53' psec='' tq='N'>
+              27.53
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notice for delayed certification; requirements.
+        </SUBJECT>
+        <P>
+          On the date of giving the transferable notice of the delivery in
+          accordance with sub
+          <aref type='UNKNOWN'>
+            section 15b(f) of
+          </aref>
+           the act the person issuing such notice or the person on whose behalf
+          it was issued shall also give written notice to the Marketing Services
+          Office with which the classification request was required to be filed,
+          specifying the date of delivery and the number of bales so to be
+          delivered which have not been certified. In such notice, or later in
+          writing before the delivery of the samples to the Marketing Services
+          Office the lot numbers of the cotton so to be delivered shall be
+          specified.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49212
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='887'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.54
+      </extid>
+      <num st='1'>
+        27.54
+      </num>
+      <head>
+        Inspection and sampling for delayed certification.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49212
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='54' psec='' tq='N'>
+              27.54
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspection and sampling for delayed certification.
+        </SUBJECT>
+        <P>
+          Such cotton must have been duly inspected and sampled, and the
+          original samples thereof properly prepared in accordance with this
+          subpart must be delivered to the Marketing Services Office not later
+          than the date of issuance of the transferable notice, except when the
+          delivery day fixed by such transferable notice is the last delivery
+          day in the month of delivery. In such case the cotton must have been
+          duly inspected and sampled, and the original samples thereof properly
+          prepared in accordance with this subpart must have been delivered to
+          the Marketing Services Office in accordance with all regulations
+          applicable and in readiness for classification not later than 8 p.m.
+          of the second business day preceding such last delivery day.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49212
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='888'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.55
+      </extid>
+      <num st='1'>
+        27.55
+      </num>
+      <head>
+        Requirements in lieu of cotton class certificates on delivery day.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          50 FR 47707
+        </aref>
+        , Nov. 20, 1985]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='55' psec='' tq='N'>
+              27.55
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requirements in lieu of cotton class certificates on delivery day.
+        </SUBJECT>
+        <P>
+          If on the morning of the delivery day specified in the transferable
+          notice the cotton class certificates covering the cotton involved are
+          not ready for delivery when called for, the tenderer of the cotton
+          shall present to the receiver a receipt issued by an exchange
+          inspection agency certifying that warehouse receipts, listed by lot
+          numbers, representing cotton weighed and sampled in an approved
+          warehouse under the supervision of such agency, have been received by
+          the exchange inspection agency and are in the custody of the Cotton
+          Division Marketing Services Office where certification requests are
+          required to be filed. The requirements of 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='27' sect='52-27' psec='' tq='N'>
+              27.52-27
+            </subref>
+          </aref>
+          .55 shall be complied with prior to delivery by the tenderer of the 
+          <PRTPAGE P='15' />
+          agency&apos;s receipt to the receiver. Upon issuance by Marketing
+          Services Office, the tenderer shall furnish to the receiver the cotton
+          class certificates complying with the regulations in this subpart,
+          showing the cotton to be tenderable on a basis grade contract.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            50 FR 47707
+          </aref>
+          , Nov. 20, 1985]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='889'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.57
+      </extid>
+      <num st='1'>
+        27.57
+      </num>
+      <head>
+        Request for postponement.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49212
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='57' psec='' tq='N'>
+              27.57
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Request for postponement.
+        </SUBJECT>
+        <P>
+          If the applicant desires the postponement of the classification of any
+          cotton covered by a classification request filed pursuant to the
+          regulations in this subpart until later notice, the original
+          classification request must so state, or the applicant must so advise
+          the Marketing Services Office in writing before the classification has
+          been entered upon. Such request must show cause and that it is not
+          made merely for dilatory reasons.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49212
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='890'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.58
+      </extid>
+      <num st='1'>
+        27.58
+      </num>
+      <head>
+        Postponed classification; must be within 30 days.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49212
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='58' psec='' tq='N'>
+              27.58
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Postponed classification; must be within 30 days.
+        </SUBJECT>
+        <P>
+          If thereafter the classification of the cotton be desired, notice
+          thereof shall be filed not later than the expiration of 30 days after
+          the date upon which the samples were drawn from the cotton, and the
+          original samples must have remained continuously in the possession of
+          the Marketing Services Office or under its control.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49212
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='891'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.59
+      </extid>
+      <num st='1'>
+        27.59
+      </num>
+      <head>
+        Postponed classification; interference.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='59' psec='' tq='N'>
+              27.59
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Postponed classification; interference.
+        </SUBJECT>
+        <P>
+          Classification pursuant to such suspended request shall not be allowed
+          to interfere with or delay the classification of other samples
+          previously made ready for classification or which are otherwise
+          entitled to priority.
+        </P>
+      </contents>
+    </section>
+    <section orderid='892'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.60
+      </extid>
+      <num st='1'>
+        27.60
+      </num>
+      <head>
+        When original request deemed withdrawn.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='60' psec='' tq='N'>
+              27.60
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When original request deemed withdrawn.
+        </SUBJECT>
+        <P>
+          If the period of 30 days specified in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='58' psec='' tq='N'>
+              27.58
+            </subref>
+          </aref>
+           shall expire without the filing of the notice of desire for
+          classification the applicant shall be deemed to have withdrawn the
+          original request for the classification of such cotton.
+        </P>
+      </contents>
+    </section>
+    <section orderid='893'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.61—27.72
+      </extid>
+      <num st='2'>
+        27.61—27.72
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='27' sect='61' psec='' tq='N'>
+              27.61
+            </subref>
+            —
+            <subref title='7' part='27' sect='72' psec='' tq='N'>
+              27.72
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='894'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.73
+      </extid>
+      <num st='1'>
+        27.73
+      </num>
+      <head>
+        Supervision of transfers of cotton.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49213
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='73' psec='' tq='N'>
+              27.73
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Supervision of transfers of cotton.
+        </SUBJECT>
+        <P>
+          Whenever the owner of any cotton inspected and sampled for
+          classification pursuant to this subpart and for which the owner holds
+          valid cotton class certificates desires to transfer such cotton to a
+          different delivery point, or to a different warehouse at the same
+          delivery point, for the purpose of having it made available for
+          delivery upon a basis grade contract, such transfer shall be effected
+          under the supervision of an exchange inspection agency or a supervisor
+          of cotton inspection.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49213
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='895'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.80
+      </extid>
+      <num st='1'>
+        27.80
+      </num>
+      <head>
+        Fees; review classification, futures classification and supervision.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          77 FR 5380
+        </aref>
+        , Feb. 3, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='80' psec='' tq='N'>
+              27.80
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees; review classification, futures classification and supervision.
+        </SUBJECT>
+        <P>
+          For services rendered by the Cotton and Tobacco Programs pursuant to
+          this subpart, whether the cotton involved is tenderable or not, the
+          person requesting the services shall pay fees as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Futures classification—$3.50 per bale.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            77 FR 5380
+          </aref>
+          , Feb. 3, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='896'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.81
+      </extid>
+      <num st='1'>
+        27.81
+      </num>
+      <head>
+        Fees; certificates.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          55 FR 20440
+        </aref>
+        , May 17, 1990]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='81' psec='' tq='N'>
+              27.81
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees; certificates.
+        </SUBJECT>
+        <P>
+          For each new certificate issued in substitution for a prior
+          certificate at the request of the holder thereof, for the purpose of
+          business convenience, or when made necessary by the transfer of cotton
+          under the supervision of any exchange inspection agency as provided in
+          
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='73' psec='' tq='N'>
+              27.73
+            </subref>
+          </aref>
+          , the person making the request shall pay a fee of $.70 cents for each
+          certificate issued.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            55 FR 20440
+          </aref>
+          , May 17, 1990]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='897'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.83
+      </extid>
+      <num st='1'>
+        27.83
+      </num>
+      <head>
+        No fees for certain certificates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='83' psec='' tq='N'>
+              27.83
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          No fees for certain certificates.
+        </SUBJECT>
+        <P>
+          No fee shall be collected for a new cotton class certificate issued in
+          lieu of a prior certificate solely for the purpose of correcting
+          clerical errors therein or for the purpose of substituting a new form
+          applicable to outstanding 
+          <PRTPAGE P='16' />
+          certificates, or without an application therefor.
+        </P>
+      </contents>
+    </section>
+    <section orderid='898'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.85
+      </extid>
+      <num st='1'>
+        27.85
+      </num>
+      <head>
+        Fees; withdrawn requests or applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='85' psec='' tq='N'>
+              27.85
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees; withdrawn requests or applications.
+        </SUBJECT>
+        <P>
+          When the request for classification, or the application for review or
+          classification, of any cotton or the request for Micronaire
+          determination for any cotton shall be withdrawn after the service
+          requested has been started pursuant to such request or application,
+          the person making such request or application shall pay the fee
+          prescribed by 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='80' psec='' tq='N'>
+              27.80
+            </subref>
+          </aref>
+           as to any service completed prior to such withdrawal.
+        </P>
+      </contents>
+    </section>
+    <section orderid='899'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.87
+      </extid>
+      <num st='1'>
+        27.87
+      </num>
+      <head>
+        Fees; classification and Micronaire determination information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='87' psec='' tq='N'>
+              27.87
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees; classification and Micronaire determination information.
+        </SUBJECT>
+        <P>
+          Whenever the person who requests the classification of, or Micronaire
+          determination for, any cotton, or the person on whose behalf such
+          request is made, also requests the transmission by telegraph or
+          telephone of information concerning such classification or Micronaire
+          determination, the person making the request for such classification
+          or determination shall pay, in addition to the applicable costs
+          prescribed in this subpart, the cost of tolls incurred in such
+          transmission.
+        </P>
+      </contents>
+    </section>
+    <section orderid='900'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.89
+      </extid>
+      <num st='1'>
+        27.89
+      </num>
+      <head>
+        Expenses; inspection; sampling.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49213
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='89' psec='' tq='N'>
+              27.89
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Expenses; inspection; sampling.
+        </SUBJECT>
+        <P>
+          Expense of inspection and sampling, the preparation of the samples and
+          the delivery of such samples in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='24' psec='' tq='N'>
+              27.24
+            </subref>
+          </aref>
+          , shall be borne by the party requesting the classification of the
+          cotton involved. When a review of classification or a Micronaire
+          determination is requested and samples of the cotton involved are not
+          in possession of a Marketing Services Office, the expense of
+          inspection, sampling, preparation of samples, and delivery of the
+          samples to the Marketing Services Office shall be borne by the party
+          requesting the service.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49213
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='901'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.90
+      </extid>
+      <num st='1'>
+        27.90
+      </num>
+      <head>
+        Bills for payment of fees and expenses.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49213
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='90' psec='' tq='N'>
+              27.90
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Bills for payment of fees and expenses.
+        </SUBJECT>
+        <P>
+          The Cotton Division shall deliver bills to all persons from whom
+          payment for fees or expenses on account of services under this subpart
+          shall be due. Such bills shall be rendered as soon as practicable
+          after the last day of each month for the amounts due and unpaid on
+          such day. When necessary, in the discretion of the Area Director or
+          the Director, any bill may be rendered at an earlier date for any fees
+          and expenses then due by the person to whom such bill shall be
+          rendered. Payment of any such bill shall be made as soon as possible
+          after the rendition thereof, but in any event not later than 2 weeks
+          after such rendition.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49213
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='902'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.91
+      </extid>
+      <num st='1'>
+        27.91
+      </num>
+      <head>
+        Advance deposit may be required.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49213
+        </aref>
+        , Oct. 25, 1983]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='91' psec='' tq='N'>
+              27.91
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Advance deposit may be required.
+        </SUBJECT>
+        <P>
+          If requested by the Area Director with whom the classification request
+          is required to be filed or by the Director, the person from whom any
+          payment under this subpart may become due shall make an advance
+          deposit to cover such payment in such amount as may be necessary in
+          the judgment of the official requesting the same.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49213
+          </aref>
+          , Oct. 25, 1983]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='903'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.92
+      </extid>
+      <num st='1'>
+        27.92
+      </num>
+      <head>
+        Method of payment; advance deposit.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='92' psec='' tq='N'>
+              27.92
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Method of payment; advance deposit.
+        </SUBJECT>
+        <P>
+          Any payment or advance deposit under this subpart shall be by check,
+          draft, or money order, payable to the order of “Agricultural Marketing
+          Service, USDA,” and may not be made in cash except in cases where the
+          total payment or deposit does not exceed $1.
+        </P>
+      </contents>
+    </section>
+    <section orderid='904'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.93
+      </extid>
+      <num st='1'>
+        27.93
+      </num>
+      <head>
+        Bona fide spot markets.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          53 FR 29326
+        </aref>
+        , Aug. 4, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='93' psec='' tq='N'>
+              27.93
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Bona fide spot markets.
+        </SUBJECT>
+        <P>
+          The following markets have been determined, after investigation, and
+          are hereby designated to be bona fide spot markets within the meaning
+          of the act:
+        </P>
+        <EXTRACT>
+          <P>
+            Southeastern, North Delta, South Delta, East Texas and Oklahoma,
+            West Texas, Desert Southwest and San Joaquin Valley. Such markets
+            will comprise the following areas:
+          </P>
+          <HD SOURCE='HD1'>
+            Southeastern
+          </HD>
+          <P>
+            All counties in the states of Alabama, Florida, Georgia, North
+            Carolina and South Carolina and all counties in the state of
+            Tennessee east of and including Stewart, Houston, Humphreys, Perry,
+            Wayne and Hardin counties.
+            <PRTPAGE P='17' />
+          </P>
+          <HD SOURCE='HD1'>
+            North Delta
+          </HD>
+          <P>
+            All counties in the states of Arkansas and Missouri and all counties
+            in Tennessee west of and including the counties of Henry, Benton,
+            Henderson, Decatur, Chester and McNairy counties and the Mississippi
+            counties of Alcorn, Benton, Calhoun, Chickasaw, DeSoto, Grenada,
+            Itawamba, Lafayette, Lee, Marshall, Monroe, Panola, Pontotoc,
+            Prentiss, Tate, Tippah, Tishomingo, Union and Yalobusha.
+          </P>
+          <HD SOURCE='HD1'>
+            South Delta
+          </HD>
+          <P>
+            All counties in the state of Louisiana and all counties in the state
+            of Mississippi not included in the North Delta market.
+          </P>
+          <HD SOURCE='HD1'>
+            East Texas and Oklahoma
+          </HD>
+          <P>
+            All counties in the state of Oklahoma and the Texas counties east of
+            and including Montague, Wise, Parker, Erath, Comanche, Mills, San
+            Saba, Mason, Sutton, Edwards, Kinney, Maverick, Webb, Zapata, Star
+            and Hidalgo counties.
+          </P>
+          <HD SOURCE='HD1'>
+            West Texas
+          </HD>
+          <P>
+            All Texas counties not included in the East Texas, Oklahoma and
+            Desert Southwest Markets and the New Mexico counties of Union, Quay,
+            Curry, Roosevelt and Lea.
+          </P>
+          <HD SOURCE='HD1'>
+            Desert Southwest
+          </HD>
+          <P>
+            The Texas counties of Val Verde, Crockett, Terrell, Pecos, Brewster,
+            Presidio, Jeff Davis, Culberson, Hudspeth and El Paso, all New
+            Mexico counties except those included in the West Texas market, all
+            counties in the state of Arizona and the California counties south
+            of and including Riverside and Orange counties.
+          </P>
+          <HD SOURCE='HD1'>
+            San Joaquin Valley
+          </HD>
+          <P>
+            All California counties except those included in the Desert
+            Southwest market.
+          </P>
+        </EXTRACT>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            53 FR 29326
+          </aref>
+          , Aug. 4, 1988]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='905'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.94
+      </extid>
+      <num st='1'>
+        27.94
+      </num>
+      <head>
+        Spot markets for contract settlement purposes.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          53 FR 29327
+        </aref>
+        , Aug. 4, 1988, as amended at 
+        <aref type='FREGIST'>
+          67 FR 77148
+        </aref>
+        , Dec. 17, 2002]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='94' psec='' tq='N'>
+              27.94
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Spot markets for contract settlement purposes.
+        </SUBJECT>
+        <P>
+          The following are designated as spot markets for the purpose of
+          determining as provided in paragraph 15b(f)(3) of the act, the
+          differences above or below the contract price which the receiver shall
+          pay for grades tendered or deliverable in settlement of a basis grade
+          contract:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For cotton delivered in settlement of any No. 2 contract on the New
+            York Cotton Exchange: Southeastern, North and South Delta, Eastern
+            Texas and Oklahoma, West Texas, and Desert Southwest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            53 FR 29327
+          </aref>
+          , Aug. 4, 1988, as amended at 
+          <aref type='FREGIST'>
+            67 FR 77148
+          </aref>
+          , Dec. 17, 2002]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='906'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.95
+      </extid>
+      <num st='1'>
+        27.95
+      </num>
+      <head>
+        Spot markets to conform to Act and regulations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          53 FR 29327
+        </aref>
+        , Aug. 4, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='95' psec='' tq='N'>
+              27.95
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Spot markets to conform to Act and regulations.
+        </SUBJECT>
+        <P>
+          Every bona fide spot market shall, as a condition of its designation
+          and of the retention thereof, conform to the act and any applicable
+          regulations.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            53 FR 29327
+          </aref>
+          , Aug. 4, 1988]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='907'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.96
+      </extid>
+      <num st='1'>
+        27.96
+      </num>
+      <head>
+        Quotations in bona fide spot markets.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          53 FR 29327
+        </aref>
+        , Aug. 4, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='96' psec='' tq='N'>
+              27.96
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Quotations in bona fide spot markets.
+        </SUBJECT>
+        <P>
+          The price or value and differences between the price or value of
+          grades and staple lengths of cotton shall be based solely upon the
+          official cotton standards of the United States and shall be the actual
+          commercial value or price and differences as determined by the sale of
+          spot cotton in such spot market. Quotations shall be determined and
+          maintained in each designated spot market by the Cotton Division,
+          Agricultural Marketing Service, USDA, as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In spot markets designated to determine differences for the
+            settlement of futures contracts, the Cotton Division will on each
+            business day determine and quote by bale volume the prices or values
+            of base qualities which are deliverable on any active futures
+            contracts, as well as the differences for all other qualities
+            deliverable on such contracts. The prices or differences for
+            non-deliverable qualities will be determined and quoted by bale
+            volume in each such spot market for those qualities normally
+            produced or traded in that particular market.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In spot markets not designated to determine differences for the
+            settlement of futures contracts, the Cotton Division will on each
+            business day determine and quote by bale volume the prices or
+            differences for all qualities of cotton normally produced or traded
+            in each such spot market.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            53 FR 29327
+          </aref>
+          , Aug. 4, 1988]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='908'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.97
+      </extid>
+      <num st='1'>
+        27.97
+      </num>
+      <head>
+        Ascertaining the accuracy of price quotations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          53 FR 29327
+        </aref>
+        , Aug. 4, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='97' psec='' tq='N'>
+              27.97
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Ascertaining the accuracy of price quotations.
+        </SUBJECT>
+        <P>
+          The buyers and sellers of cotton in each spot market shall be
+          responsible 
+          <PRTPAGE P='18' />
+          for providing accurate and timely price, quality, and volume of
+          purchases data by growth area to the Cotton Division. The Cotton
+          Division is responsible for ascertaining the accuracy of the price
+          quotations in each designated spot market. The Cotton Division will
+          carry out this responsibility by performing the following duties and
+          functions:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Cotton Division will collect and analyze pertinent information
+            on the prices and values of spot cotton from each spot market.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In the process of determining price quotations, the Cotton Division
+            will contact a minimum of three buyers and sellers of cotton in each
+            bona fide market at least two times per week during the active
+            trading season and one time per week during the remainder of the
+            year to obtain information on prices, qualities, volume, and terms
+            of sales in sufficient detail to determine quotations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Cotton Division will summarize the price and quality data and,
+            based on analysis of this summary, make determinations regarding
+            quotations of price, value and differences.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Quotations for each spot market shall be reviewed and approved by
+            the Cotton Division&apos;s Market News Branch Chief or Assistant
+            Branch Chief prior to publication.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Cotton Division will publish the appropriate quotations by bale
+            volume for grades, staple lengths, micronaire determinations, and
+            other quality factors for each spot market on a daily basis.
+          </text>
+        </P>
+        <APPRO>
+          (The information collection requirements contained in this section
+          were approved by the Office of Management and Budget under OMB control
+          number 0581-0029)
+        </APPRO>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            53 FR 29327
+          </aref>
+          , Aug. 4, 1988]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='909'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.98
+      </extid>
+      <num st='1'>
+        27.98
+      </num>
+      <head>
+        Value of grade where no sale; determination.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          53 FR 29327
+        </aref>
+        , Aug. 4, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='98' psec='' tq='N'>
+              27.98
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Value of grade where no sale; determination.
+        </SUBJECT>
+        <P>
+          As provided in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='96' psec='' tq='N'>
+              27.96
+            </subref>
+          </aref>
+          , whenever no sale of a particular grade of cotton shall have been
+          made on a given day in a particular spot market, the value of such
+          grade in the market on that day will be determined as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If on such given day there shall have been in such market both a
+            sale of any higher grade and a sale of any lower grade, the average
+            of the declines, or advances, or decline and advance, as the case
+            may be, of the next higher grade and the next lower grade so sold
+            shall be deducted from, or added to, as the case may be, the value,
+            on the last preceding business day, of the grade the value of which
+            on such given day is sought to be ascertained.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If on such given day there shall have been in such market a sale of
+            either a higher or a lower grade, but not sales of both, the decline
+            or advance of the next higher or the next lower grade so sold shall
+            be deducted from, or added to, as the case may be, the value on the
+            last preceding business day of the grade the value of which on such
+            given day is sought to be ascertained.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If on such given day there shall have been in such market no sale
+            of spot cotton of any grade, the value of each grade shall be deemed
+            to be the same as its value therein on the last preceding business
+            day, unless in the meantime there shall have been bona fide bids and
+            offers, or sales of hedged cotton, or other sales of cotton, or
+            changes in prices of futures contracts made subject to the act,
+            which in the usual course of business would clearly establish a rise
+            or fall in the value of spot cotton in such market, in which case
+            such rise or fall may be calculated and added to or deducted from
+            the value on the preceding business day of cotton of all grades
+            affected thereby.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            53 FR 29327
+          </aref>
+          , Aug. 4, 1988]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='910'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.99
+      </extid>
+      <num st='1'>
+        27.99
+      </num>
+      <head>
+        Values; expression.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          22 FR 10923
+        </aref>
+        , Dec. 28, 1957; 
+        <aref type='FREGIST'>
+          30 FR 7239
+        </aref>
+        , May 29, 1965. Redesignated at 
+        <aref type='FREGIST'>
+          53 FR 29328
+        </aref>
+        , Aug. 4, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='99' psec='' tq='N'>
+              27.99
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Values; expression.
+        </SUBJECT>
+        <P>
+          For the purpose of this subpart values shall be expressed in terms of
+          cents and hundredths of a cent. A fraction of a hundredth, when equal
+          to, or greater than, the half thereof, shall be treated as a
+          hundredth, and when less than a half of a hundredth shall be
+          disregarded.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            22 FR 10923
+          </aref>
+          , Dec. 28, 1957; 
+          <aref type='FREGIST'>
+            30 FR 7239
+          </aref>
+          , May 29, 1965. Redesignated at 
+          <aref type='FREGIST'>
+            53 FR 29328
+          </aref>
+          , Aug. 4, 1988]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='911'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:27:A:27.100
+      </extid>
+      <num st='1'>
+        27.100
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          48 FR 49214
+        </aref>
+        , Oct. 25, 1983. Redesignated at 
+        <aref type='FREGIST'>
+          53 FR 29328
+        </aref>
+        , Aug. 4, 1988]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='27' sect='100' psec='' tq='N'>
+              27.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          The details of the method of carrying out the provisions of this
+          subpart in each bona fide spot market shall be 
+          <PRTPAGE P='19' />
+          subject to the approval of the Director or shall be prescribed by the
+          Director.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            48 FR 49214
+          </aref>
+          , Oct. 25, 1983. Redesignated at 
+          <aref type='FREGIST'>
+            53 FR 29328
+          </aref>
+          , Aug. 4, 1988]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

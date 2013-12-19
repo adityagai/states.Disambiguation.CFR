@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:A:1404
+    </extid>
+    <num>
+      1404
+    </num>
+    <head>
+      ASSIGNMENT OF PAYMENTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='15' sect='714b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714b.html'>
+              15 U.S.C. 714b
+            </subref>
+             and 
+            <subref title='15' sect='714c' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714c.html'>
+              714c
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='16' sect='590h' note='' psec='#g' tq='N' target='http://www.law.cornell.edu/uscode/16/590h.html#g'>
+              16 U.S.C. 590h(g)
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            54 FR 52883
+          </aref>
+          , Dec. 22, 1989, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12250'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.1
+      </extid>
+      <num st='1'>
+        1404.1
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='1' psec='' tq='N'>
+              1404.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part sets forth the manner in which a person may assign a cash
+          payment which is made by the Farm Service Agency (FSA) or the
+          Commodity Credit Corporation (CCC). Such payments may only be assigned
+          in the manner set forth in this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12251'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.2
+      </extid>
+      <num st='1'>
+        1404.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='2' psec='' tq='N'>
+              1404.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Assignee
+            </E>
+             means any person, including any agency of the Federal Government,
+            to whom an assignment of an FSA or CCC payment is made in accordance
+            with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Assignor
+            </E>
+             means any person who is the recipient of a payment from FSA or CCC
+            who assigns the payment to another person in accordance with this
+            part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Payment
+            </E>
+             means a cash payment and excludes
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Any payment made in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1470' tq='N'>
+                1470 of this title
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Price support loan or purchase agreement proceeds; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Any payments made in accordance with 
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='1487' tq='N'>
+                1487, 1488, 1491, 1492
+              </subref>
+              , and 
+              <subref title='7' part='1493' tq='N'>
+                1493 of this title
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The terms defined in 
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='719' tq='N'>
+                719, 1413, 1421
+              </subref>
+               and 
+              <subref title='7' part='1427' tq='N'>
+                1427
+              </subref>
+            </aref>
+             shall also be applicable to this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12252'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.3
+      </extid>
+      <num st='1'>
+        1404.3
+      </num>
+      <head>
+        Payments which may be assigned.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          54 FR 52883
+        </aref>
+        , Dec. 22, 1989, as amended at 
+        <aref type='FREGIST'>
+          56 FR 361
+        </aref>
+        , Jan. 4, 1991]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='3' psec='' tq='N'>
+              1404.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments which may be assigned.
+        </SUBJECT>
+        <P>
+          Except as otherwise provided in this part or in individual program
+          regulations, contracts and agreements entered into by FSA or CCC, any
+          payment due a person from FSA or CCC may be assigned.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            54 FR 52883
+          </aref>
+          , Dec. 22, 1989, as amended at 
+          <aref type='FREGIST'>
+            56 FR 361
+          </aref>
+          , Jan. 4, 1991]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12253'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.4
+      </extid>
+      <num st='1'>
+        1404.4
+      </num>
+      <head>
+        Execution of assignment form.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          54 FR 52883
+        </aref>
+        , Dec. 22, 1989, as amended at 
+        <aref type='FREGIST'>
+          56 FR 361
+        </aref>
+        , Jan. 4, 1991]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='4' psec='' tq='N'>
+              1404.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Execution of assignment form.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The assignment of any FSA or CCC payment must be made by the
+            execution of Form CCC-36 or Forms CCC-251 and CCC-252. Form CCC-36
+            is applicable to payments made under programs administered in
+            accordance with 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='701' tq='N'>
+                701, 704, 1413, 1430, 1468, 1472
+              </subref>
+               and 
+              <subref title='7' part='1475' tq='N'>
+                1475
+              </subref>
+            </aref>
+            . Such form is also applicable to any other program which is
+            administered by a county ASC committee. Forms CCC-251 and 252 are
+            applicable to all other CCC or FSA programs and contracts.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             To be recognized by FSA or CCC, Form CCC-36 must be filed in the
+            county FSA office prior to the time the county committee approves
+            the making of the payment covered by the assignment. To be
+            recognized by FSA or CCC, Forms CCC-251 and 252 must be filed with
+            the FSA or CCC office from which the payment will be made prior to
+            the making of the payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Form CCC-36 or Forms CCC-251 and 252 must be signed by both the
+            assignor and the assignee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The assignor and the assignee shall promptly notify the appropriate
+            FSA or CCC office of any change affecting the assignment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            54 FR 52883
+          </aref>
+          , Dec. 22, 1989, as amended at 
+          <aref type='FREGIST'>
+            56 FR 361
+          </aref>
+          , Jan. 4, 1991]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12254'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.5
+      </extid>
+      <num st='1'>
+        1404.5
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='454' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='5' psec='' tq='N'>
+              1404.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='12255'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.6
+      </extid>
+      <num st='1'>
+        1404.6
+      </num>
+      <head>
+        Payment to the assignee.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='6' psec='' tq='N'>
+              1404.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment to the assignee.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The assignee shall be paid the smaller of the amount specified on
+            Form CCC-36 or CCC-251 or the amount of the payment earned under the
+            program or contract covered by the assignment. Any indebtedness owed
+            by the assignor to CCC, FSA, or any other agency of the United
+            States shall be subject to offset.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any indebtedness owed by the assignor to CCC or FSA shall be offset
+            from any payment which is owed by CCC or FSA without regard to the
+            date of filing of a Form CCC-36 with the applicable FSA or CCC
+            office. Except as provided in paragraph (d) of this section, any
+            indebtedness owed by the assignor to CCC or FSA shall be offset from
+            any payment which is owed by CCC or FSA if such indebtedness was
+            entered on the debt record of the applicable FSA or CCC office prior
+            to the date of the filing of Forms CCC-251 and 252 with the
+            applicable FSA or CCC office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any indebtedness owed by the assignor to any agency of the United
+            States other than CCC or FSA which was entered on the debt record of
+            the applicable FSA or CCC office prior to the date of filing of the
+            Form CCC-36 or Forms CCC-251 and 252 with such office shall be
+            offset prior to the making of any payment to the assignee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Any indebtedness arising under a contract between the assignor and
+            FSA or CCC which is the subject of the assignment shall be offset
+            from the payment prior to the making of any payment to the assignee
+            under such contract without regard to the date of the filing of Form
+            CCC-36 or Forms CCC-251 and 252 with the appropriate FSA or CCC
+            office.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12256'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.7
+      </extid>
+      <num st='1'>
+        1404.7
+      </num>
+      <head>
+        Misrepresentations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='7' psec='' tq='N'>
+              1404.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentations.
+        </SUBJECT>
+        <P>
+          If FSA or CCC has reason to believe that any material
+          misrepresentation was made by the assignor or the assignee in
+          executing Forms CCC-36, CCC-251 or CCC-252, FSA or CCC shall give
+          notice thereof to the assignor and the assignee. If, after
+          investigation and opportunity for the assignor and assignee to be
+          heard, FSA or CCC finds that any material misrepresentation was in
+          fact made, FSA or CCC shall notify the assignor and the assignee of
+          such finding, and void such assignment, and insofar as concerns FSA,
+          CCC or any other agency of the United States, the assignment shall be
+          of no effect.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12257'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.8
+      </extid>
+      <num st='1'>
+        1404.8
+      </num>
+      <head>
+        Liability of the Secretary or disbursing agents.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='8' psec='' tq='N'>
+              1404.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Liability of the Secretary or disbursing agents.
+        </SUBJECT>
+        <P>
+          Neither the United States, the CCC, the Secretary nor any disbursing
+          agent shall be liable in any suit if payment is made to the assignor
+          without regard to the existence of any assignment, and nothing
+          contained herein shall be construed to authorize any suit against the
+          United States, the CCC, the Secretary or any disbursing agent if
+          payment is not made to the assignee, or if payment is made to only one
+          of several assignees.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12258'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1404:-:1404.9
+      </extid>
+      <num st='1'>
+        1404.9
+      </num>
+      <head>
+        OMB Control Numbers assigned pursuant to the Paperwork Reduction Act.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1404' sect='9' psec='' tq='N'>
+              1404.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB Control Numbers assigned pursuant to the Paperwork Reduction Act.
+        </SUBJECT>
+        <P>
+          The information collection requirements contained in this part have
+          been approved by the Office of Management and Budget under the
+          provisions of 
+          <aref type='USC'>
+            <subref title='44' sect='35' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/44/35.html'>
+              44 U.S.C. 35
+            </subref>
+          </aref>
+           and have been assigned OMB control number 0560-0004.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

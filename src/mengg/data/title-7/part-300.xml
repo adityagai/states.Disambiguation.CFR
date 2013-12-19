@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol5'>
+    <extid>
+      lii:cfr:2013:7:0:B:III:-:300
+    </extid>
+    <num>
+      300
+    </num>
+    <head>
+      INCORPORATION BY REFERENCE
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='7701-777' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7701-777.html'>
+              7 U.S.C. 7701-777
+            </subref>
+          </aref>
+          2 and 7781-7786; 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='22' psec='' tq='N'>
+              2.22
+            </subref>
+            , 
+            <subref title='7' part='2' sect='80' psec='' tq='N'>
+              2.80
+            </subref>
+            , and 
+            <subref title='7' part='371' sect='3' psec='' tq='N'>
+              371.3
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            67 FR 8463
+          </aref>
+          , Feb. 25, 2002, unless otherwise noted.
+        </P>
+      </SOURCE>
+      <EDNOTE>
+        <HD SOURCE='HED'>
+          Editorial Note:
+        </HD>
+        <P>
+          Nomenclature changes to 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='300' tq='N'>
+              300
+            </subref>
+          </aref>
+           appear at 
+          <aref type='FREGIST'>
+            69 FR 18803
+          </aref>
+          , Apr. 9, 2004.
+        </P>
+      </EDNOTE>
+    </text>
+    <section orderid='5056'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:300:-:300.1
+      </extid>
+      <num st='1'>
+        300.1
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='300' sect='1' psec='' tq='N'>
+              300.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='5057'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:300:-:300.2
+      </extid>
+      <num st='1'>
+        300.2
+      </num>
+      <head>
+        Dry Kiln Operator&apos;s Manual.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='300' sect='2' psec='' tq='N'>
+              300.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Dry Kiln Operator&apos;s Manual.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Dry Kiln Operator&apos;s Manual, which was published in August
+            1991 as Agriculture Handbook No. 188 by the United States Department
+            of Agriculture, Forest Service, has been approved for incorporation
+            by reference in 7 CFR chapter III by the Director of the Office of
+            the Federal Register in accordance with 
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a'>
+                5 U.S.C. 552(a)
+              </subref>
+            </aref>
+             and 
+            <aref type='CFR'>
+              1 CFR part 
+              <subref title='1' part='51' tq='N'>
+                51
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The kiln drying schedules specified in the Dry Kiln Operator&apos;s
+            Manual provide a method by which certain articles regulated by
+            “Subpart—Logs, Lumber, and Other Unmanufactured Wood Articles” (
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='319' sect='40-1' psec='' tq='N'>
+                319.40-1
+              </subref>
+            </aref>
+             through 319.40-11) may be imported into the United States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Availability.
+            </head>
+          </npcatch>
+          <text>
+             Copies of the Dry Kiln Operator&apos;s Manual:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Are available for inspection at the National Archives and Records
+            Administration (NARA). For information on the availability of this
+            material at NARA, call 202-741-6030, or go to: 
+            <E T='03'>
+              http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html;
+            </E>
+             or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Are for sale as ISBN 0-16-035819-1 by the U.S. Government Printing
+            Office, Superintendent of Documents, Mail Stop: SSOP, Washington, DC
+            20402-9328.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='5058'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:300:-:300.3
+      </extid>
+      <num st='1'>
+        300.3
+      </num>
+      <head>
+        Reference Manual A.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='300' sect='3' psec='' tq='N'>
+              300.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reference Manual A.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Reference Manual for Administration, Procedures, and Policies
+            of the National Seed Health System, which was published on February
+            25, 2000, by the National Seed Health System (NSHS), has been
+            approved for incorporation by reference in 7 CFR chapter III by the
+            Director of the Office of the Federal Register in accordance with 
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a'>
+                5 U.S.C. 552(a)
+              </subref>
+            </aref>
+             and 
+            <aref type='CFR'>
+              1 CFR part 
+              <subref title='1' part='51' tq='N'>
+                51
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Availability.
+            </head>
+          </npcatch>
+          <text>
+             Copies of Reference Manual A:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Are available for inspection at the APHIS Library, U.S. Department
+            of Agriculture, 4700 River Road, Riverdale, MD or at the National
+            Archives and Records Administration (NARA). For information on the
+            availability of this material at NARA, call 202-741-6030, or go to: 
+            <E T='03'>
+              http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html
+            </E>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             May be obtained by writing to Phytosanitary Issues Management,
+            Operational Support, PPQ, APHIS, 4700 River Road Unit 140,
+            Riverdale, MD 20737-1236; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             May be viewed on the APHIS Web site at 
+            <E T='03'>
+              http://www.aphis.usda.gov/ppq/pim/accreditation.
+            </E>
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='5059'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:300:-:300.4
+      </extid>
+      <num st='1'>
+        300.4
+      </num>
+      <head>
+        Reference Manual B.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='300' sect='4' psec='' tq='N'>
+              300.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reference Manual B.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Reference Manual for Seed Health Testing and Phytosanitary
+            Field Inspection Methods, which was published on February 27, 2001,
+            by the National Seed Health System (NSHS), has been approved for
+            incorporation by reference in 7 CFR chapter III by the Director of
+            the Office of the Federal Register in accordance with 
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a'>
+                5 U.S.C. 552(a)
+              </subref>
+            </aref>
+             and 
+            <aref type='CFR'>
+              1 CFR part 
+              <subref title='1' part='51' tq='N'>
+                51
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Availability.
+            </head>
+          </npcatch>
+          <text>
+             Copies of Reference Manual B:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Are available for inspection at the APHIS Library, U.S. Department
+            of Agriculture, 4700 River Road, Riverdale, MD or at the National
+            Archives and Records Administration (NARA). For information on the
+            availability of this material at NARA, call 202-741-6030, or go to: 
+            <E T='03'>
+              http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html
+            </E>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             May be obtained by writing to Phytosanitary Issues Management, 
+            <PRTPAGE P='8' />
+            Operational Support, PPQ, APHIS, 4700 River Road Unit 140,
+            Riverdale, MD 20737-1236; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             May be viewed on the APHIS Web site at 
+            <E T='03'>
+              http://www.aphis.usda.gov/ppq/pim/accreditation.
+            </E>
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='5060'>
+      <extid>
+        lii:cfr:2013:7:0:B:III:-:300:-:300.5
+      </extid>
+      <num st='1'>
+        300.5
+      </num>
+      <head>
+        International Standards for Phytosanitary Measures.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 37915
+        </aref>
+        , June 25, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='300' sect='5' psec='' tq='N'>
+              300.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          International Standards for Phytosanitary Measures.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The International Standards for Phytosanitary Measures Publication
+            No. 4, “Requirements for the Establishment of Pest Free Areas,”
+            which was published February 1996 by the International Plant
+            Protection Convention of the United Nations&apos; Food and
+            Agriculture Organization has been approved for incorporation by
+            reference in 7 CFR chapter III by the Director of the Office of the
+            Federal Register in accordance with 
+            <aref type='USC'>
+              <subref title='5' sect='552' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a'>
+                5 U.S.C. 552(a)
+              </subref>
+            </aref>
+             and 
+            <aref type='CFR'>
+              1 CFR part 
+              <subref title='1' part='51' tq='N'>
+                51
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Availability.
+            </head>
+          </npcatch>
+          <text>
+             Copies of International Standards for Phytosanitary Measures
+            Publication No. 4:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Are available for inspection at the National Archives and Records
+            Administration (NARA). For information on the availability of this
+            material at NARA, call 202-741-6030, or go to: 
+            <E T='03'>
+              http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html
+            </E>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             May be obtained by writing to Phytosanitary Issues Management,
+            Operational Support, PPQ, APHIS, 4700 River Road Unit 140,
+            Riverdale, MD 20737-1236; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             May be viewed on the APHIS Web site at 
+            <E T='03'>
+              http://www.aphis.usda.gov/ppq/pim/standards/
+            </E>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 37915
+          </aref>
+          , June 25, 2003]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

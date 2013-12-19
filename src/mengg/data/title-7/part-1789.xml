@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol12'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1789
+    </extid>
+    <num>
+      1789
+    </num>
+    <head>
+      USE OF CONSULTANTS FUNDED BY BORROWERS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='901-950b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901-950b.html'>
+              7 U.S.C. 901-950b
+            </subref>
+          </aref>
+          ; 
+          <aref target='_blank' title='Pub. L. 103-354' alt='Pub. L. 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+            Pub. L. 103-354
+          </aref>
+          , 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=103_statutes2_at_large&amp;position=all&amp;page=3178'>
+            108 Stat. 3178
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='7' sect='6941' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6941.html'>
+              7 U.S.C. 6941
+            </subref>
+          </aref>
+           et seq.).
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            61 FR 48606
+          </aref>
+          , Sept. 16, 1996, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='14727'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.150
+      </extid>
+      <num st='1'>
+        1789.150
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='150' psec='' tq='N'>
+              1789.150
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This part sets forth policies and the procedures for implementing
+          subsection (c) of 
+          <aref type='UNKNOWN'>
+            section 18 of
+          </aref>
+           the Rural Electrification Act of 1936, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+           et seq.)(RE Act) which authorizes the Rural Utilities Service (RUS)
+          to use the services of Consultants funded by the Borrowers to
+          facilitate timely action on Applications by Borrowers for financial
+          assistance and other approvals.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14728'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.151
+      </extid>
+      <num st='1'>
+        1789.151
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='151' psec='' tq='N'>
+              1789.151
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in this part:
+        </P>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the Administrator of the Rural Utilities Service (RUS).
+        </P>
+        <P>
+          <E T='03'>
+            Application
+          </E>
+           means a request for financial assistance under the RE Act or such
+          other approvals as may be required of the RUS pursuant to the terms of
+          outstanding loan or security instruments or otherwise.
+        </P>
+        <P>
+          <E T='03'>
+            Borrower
+          </E>
+           means any organization which has an outstanding loan(s) made or
+          guaranteed by RUS or its predecessor agency, the Rural Electrification
+          Administration (REA) under the RE Act or any organization which has
+          submitted or submits an Application before RUS.
+        </P>
+        <P>
+          <E T='03'>
+            Consultant
+          </E>
+           means a person or firm which has been retained pursuant to this
+          subpart under a contract to provide financial, legal, engineering,
+          environmental, or other technical advice and services.
+        </P>
+        <P>
+          <E T='03'>
+            Consultant Contract
+          </E>
+           means a contract for the performance of consulting services for RUS,
+          to be paid using funds provided by a Borrower, which may be in the
+          form of a Retainer Contract, purchase order, or other form as may be
+          appropriate.
+        </P>
+        <P>
+          <E T='03'>
+            Escrow Account
+          </E>
+           means an account established pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='158' psec='' tq='N'>
+              1789.158
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Escrow Agreement
+          </E>
+           means an agreement, between a Borrower, a Consultant and a
+          Third-party Commercial Institution, meeting the requirements of 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='167' psec='' tq='N'>
+              1789.167
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Final Invoice
+          </E>
+           means the closing Invoice prepared for a given Task Order.
+        </P>
+        <P>
+          <E T='03'>
+            Financial Consultant
+          </E>
+           means a Consultant retained pursuant to this part to provide
+          financial advisory services.
+        </P>
+        <P>
+          <E T='03'>
+            Funding Agreement
+          </E>
+           means an agreement, between a Borrower and a Consultant, providing
+          for the Borrower to fund the costs of a Task Order and otherwise
+          meeting the requirements of 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='166' psec='' tq='N'>
+              1789.166
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Indemnification Agreement
+          </E>
+           means an agreement by a Borrower meeting the requirements of 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='162' psec='' tq='N'>
+              1789.162
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Invoice
+          </E>
+           means an invoice prepared by a Consultant pursuant to the terms of a
+          Consultant Contract.
+        </P>
+        <P>
+          <E T='03'>
+            Legal Consultant
+          </E>
+           means any Consultant retained pursuant to this part to provide legal
+          services to RUS.
+        </P>
+        <P>
+          <E T='03'>
+            Notice of Proposal to Fund
+          </E>
+           means a notice meeting the requirements of 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='156' psec='' tq='N'>
+              1789.156
+            </subref>
+          </aref>
+           provided to RUS by the Borrower.
+        </P>
+        <P>
+          <E T='03'>
+            Organizational conflict of interest
+          </E>
+           means that because of other activities or relationships with other
+          persons, a person is unable or potentially unable to render impartial
+          assistance or advice to the Government, or the person&apos;s
+          objectivity in performing the contract work is or might be otherwise
+          impaired, or a person has an unfair competitive advantage.
+        </P>
+        <P>
+          <E T='03'>
+            Retainer Contract
+          </E>
+           means a Consultant Contract providing for a minimum required payment
+          to a Consultant irrespective of whether services are utilized by RUS
+          thereunder.
+        </P>
+        <P>
+          <E T='03'>
+            Task Order
+          </E>
+           means a written request for consultant services pursuant to the terms
+          of a Consultant Contract.
+          <PRTPAGE P='397' />
+        </P>
+        <P>
+          <E T='03'>
+            Third-party Commercial Institution
+          </E>
+           means a commercial financial institution mutually acceptable to the
+          Borrower and the Consultant.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14729'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.152
+      </extid>
+      <num st='1'>
+        1789.152
+      </num>
+      <head>
+        Policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='152' psec='' tq='N'>
+              1789.152
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             As provided in this subpart, RUS may, at its discretion, use the
+            services of Consultants funded by a Borrower where such services
+            will facilitate timely action on an Application by such Borrower for
+            financial assistance or other approvals. Such Consultants may
+            provide financial, legal, engineering, environmental or other
+            technical advice and services in connection with the review of an
+            Application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             With the approval of RUS, a Borrower may fund the cost of
+            consulting services in connection with the review by RUS of an
+            Application by such Borrower. Such funding shall be provided
+            pursuant to the terms of a Funding Agreement between the Borrower
+            and the Consultant designated by RUS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             RUS may not, without the consent of the Borrower, require, as a
+            condition of processing any Application for approval, that the
+            Borrower agree to pay the costs of a Consultant hired to provide
+            services to RUS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The government shall retain sole discretion in the selection of
+            Consultants to provide services to RUS and the form of contract
+            utilized. RUS may either use the services of one or more Consultants
+            retained under Retainer Contracts or the government may elect to
+            retain a Consultant not otherwise on retainer. The government shall
+            have sole discretion to prescribe terms and conditions of Consultant
+            Contracts. The Borrower may bring considerations to the attention of
+            the government which the Borrower deems pertinent to the selection
+            process.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             RUS shall retain sole discretion as to whether to further pursue
+            use of an outside consultant for the relevant application in the
+            event the Borrower does not enter into the agreements referenced in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1789' sect='158' psec='#c_3_iii' tq='N'>
+                1789.158(c)(3)(iii)
+              </subref>
+            </aref>
+             within 60 days of the government providing to the Borrower the
+            information set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1789' sect='158' psec='#c_3' tq='N'>
+                1789.158(c)(3)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14730'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.153
+      </extid>
+      <num st='1'>
+        1789.153
+      </num>
+      <head>
+        Borrower funding.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='153' psec='' tq='N'>
+              1789.153
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Borrower funding.
+        </SUBJECT>
+        <P>
+          Borrowers shall use their general funds for the purposes of funding
+          consultant services hereunder. Borrowers may not use the proceeds of
+          loans made or guaranteed under the RE Act for costs incurred by
+          Borrowers pursuant to the funding of consultant services for RUS.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14731'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.154
+      </extid>
+      <num st='1'>
+        1789.154
+      </num>
+      <head>
+        Eligible borrowers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='154' psec='' tq='N'>
+              1789.154
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible borrowers.
+        </SUBJECT>
+        <P>
+          All Borrowers are eligible to fund consultant services under this
+          part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14732'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.155
+      </extid>
+      <num st='1'>
+        1789.155
+      </num>
+      <head>
+        Approval criteria.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='155' psec='' tq='N'>
+              1789.155
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Approval criteria.
+        </SUBJECT>
+        <P>
+          RUS will consider approving the use of consultant services funded by a
+          Borrower on a case by case basis taking into account, among other
+          matters, the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Whether such services are required to facilitate timely action on a
+            Borrower&apos;s Application. RUS shall determine what represents
+            timely action with respect to each Application considering, among
+            other matters, the review period normally required for such projects
+            by RUS and other lenders and the consequences to the Borrower of
+            adjusting the review period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The availability of staff resources, the priorities of other
+            projects then before RUS, and the efficiencies to be realized from
+            the use of consultant services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Whether it is in the best interest of RUS to use Borrower-funded
+            Consultants. Certain types of projects, such as those involving
+            issues of program-wide significance, may not be well suited for the
+            use of Borrower funded Consultants.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14733'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.156
+      </extid>
+      <num st='1'>
+        1789.156
+      </num>
+      <head>
+        Proposal procedure.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='156' psec='' tq='N'>
+              1789.156
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Proposal procedure.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In the event RUS determines that consideration should be given to
+            the use of a Borrower-funded consultant in connection with the
+            review of an Application, the RUS Regional Director or the Director
+            of the Power Supply Division, as appropriate, will discuss with the
+            Borrower the nature of the Application and the projected review
+            period required of RUS. If RUS concludes that the projected review
+            period will not result in timely action on the Application, and
+            after being so notified in writing by RUS the Borrower wishes to
+            fund consultant services to facilitate RUS review, the Borrower
+            shall submit 
+            <PRTPAGE P='398' />
+            to the same Director a funding proposal. The proposal shall set
+            forth the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Identification in the heading or caption as a Notice of Proposal to
+            Fund Consulting Services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Borrower&apos;s REA/RUS designation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Borrower&apos;s legal name and address;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the Application, critical issues and concerns
+            relating to the Application, time deadlines, and the consequences of
+            any delays in RUS review;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the consulting service(s) that would facilitate
+            timely RUS review of the Application; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Such additional documents and information as RUS may request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             RUS will review the Notice of Proposal to Fund and any additional
+            information RUS deems relevant in determining whether to proceed
+            with procuring Borrower funded Consultants. If RUS proposes to
+            utilize Legal Consultants, RUS must obtain the concurrence of the
+            Office of General Counsel (OGC) of the Department of Agriculture.
+            RUS will notify the Borrower in writing of its determination.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14734'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.157
+      </extid>
+      <num st='1'>
+        1789.157
+      </num>
+      <head>
+        Consultant contract.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='157' psec='' tq='N'>
+              1789.157
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Consultant contract.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Federal Acquisition Regulation (FAR), 48 CFR Ch. 1, and the
+            Agriculture Acquisition Regulation (AGAR), 48 CFR Ch. 4, shall apply
+            to all Consultant Contracts entered into pursuant to this part
+            except as provided in this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Contracts for Legal Consultants shall provide for a technical
+            representative from OGC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All Consultant Contracts shall provide for an escrow account
+            funding mechanism pursuant to this part and for the
+            government&apos;s sole discretion in determining whether payments
+            are to be made from the Escrow Account to the Consultant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             All Consultant Contracts shall provide that payment of all
+            obligations for work performed thereunder must be satisfied by
+            amounts available in the Escrow Account; with the exception of the
+            annual retainer fee, if any, Consultants shall not be entitled to
+            any payments from the government.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions of paragraph (a) of this section shall be given
+            prominent emphasis in requests for proposals issued under this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14735'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.158
+      </extid>
+      <num st='1'>
+        1789.158
+      </num>
+      <head>
+        Implementation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='158' psec='' tq='N'>
+              1789.158
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Implementation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Upon making a determination to go forward with Borrower funding for
+            consulting services, RUS shall initiate a procurement request for a
+            Consultant to provide the services. The government may either
+            contract with a Consultant on a case by case basis or elect to use a
+            Consultant pursuant to an outstanding Retainer Contract. The
+            Borrower will not be informed of the Consultant selected until such
+            time as the government provides the information set forth in
+            paragraph (c)(3) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the government determines to contract with a Consultant on a
+            case by case basis, the government shall notify the Borrower of the
+            applicable procedures.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the government determines to contract with a Consultant under an
+            outstanding Retainer Contract, the following procedures will
+            normally apply:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Pursuant to the terms of the contract, the government will prepare
+            a draft Task Order requesting consultant services in connection with
+            the review of the Borrower&apos;s Application. The draft Task Order
+            shall set forth for the Consultant&apos;s review and acceptance, a
+            description of the services to be provided and applicable time
+            frames for the provision of such services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The government will request that the Consultant:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Notify the government as to the acceptability of the form and
+            substance of the draft Task Order;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Notify the government as to its ability to provide a satisfactory
+            conflict of interest certification consistent with the requirements
+            of the FAR (48 CFR ch. 1); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Provide a cost estimate for the draft Task Order.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             When the government is satisfied with the response(s) received
+            pursuant to paragraph (c)(2) of this section, the government shall
+            promptly provide to the Borrower:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A copy of the draft Task Order identifying the Consultant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The Consultant&apos;s cost estimate for the draft Task Order; and
+            <PRTPAGE P='399' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Contract information required to enable the Borrower to develop a
+            Funding Agreement, an Escrow Agreement and an Indemnification
+            Agreement (the “agreements”).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The Borrower shall develop and submit to the government for
+            approval executed originals of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The agreements; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             A certified copy of a resolution of the board of directors
+            authorizing the Borrower to enter into the agreements and to take
+            such other action as is necessary to effect the purposes of the
+            agreements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Upon receiving written RUS approval of the agreements and the form
+            and substance of the board resolution, the Borrower shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_5_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Establish and fund the Escrow Account; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Provide written notice to the government of the Escrow Account
+            number, the funding thereof, and such other information as required
+            pursuant to the agreements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             After the Borrower has funded the Escrow Account, the government
+            shall issue Task Order(s) for consultant services in accordance with
+            the terms and conditions of the applicable Retainer Contract.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14736'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.159
+      </extid>
+      <num st='1'>
+        1789.159
+      </num>
+      <head>
+        Contract administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='159' psec='' tq='N'>
+              1789.159
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract administration.
+        </SUBJECT>
+        <P>
+          The government shall be solely responsible for the administration of a
+          Consulting Contract and shall have complete control over the scope of
+          the Consultant&apos;s work, the timetable for performance, the
+          standards to be applied in determining the acceptability of
+          deliverables and the approval of payment of Invoices.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14737'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.160
+      </extid>
+      <num st='1'>
+        1789.160
+      </num>
+      <head>
+        Access to information.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='160' psec='' tq='N'>
+              1789.160
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to information.
+        </SUBJECT>
+        <P>
+          The Borrower shall not have rights in nor right of access to the work
+          product of the Consultant. All analyses, studies, opinions, memoranda,
+          and other documents and information provided by the Consultant
+          pursuant to a Consulting Contract may be released and made available
+          to the Borrower only with the approval of RUS. This section does not
+          restrict release of information by RUS pursuant to the Freedom of
+          Information Act (
+          <aref type='USC'>
+            <subref title='5' sect='552' note='' psec='#a_2' tq='N' target='http://www.law.cornell.edu/uscode/5/552.html#a_2'>
+              5 U.S.C. 552(a)(2)
+            </subref>
+          </aref>
+          ) or other legal process.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14738'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.161
+      </extid>
+      <num st='1'>
+        1789.161
+      </num>
+      <head>
+        Conflicts of interest.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='161' psec='' tq='N'>
+              1789.161
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conflicts of interest.
+        </SUBJECT>
+        <P>
+          The standard for determining organizational conflicts of interest
+          shall be as set forth in the FAR 
+          <aref type='CFR-TIC-SUBPART'>
+            subpart 
+            <subref title='7' part='9' subpart='5' tq='N'>
+              9.5
+            </subref>
+          </aref>
+           (
+          <aref type='CFR'>
+            48 CFR part 
+            <subref title='48' part='9' tq='N'>
+              9
+            </subref>
+          </aref>
+          , 
+          <aref type='CFR-TIC-SUBPART'>
+            subpart 
+            <subref title='7' part='9' subpart='5' tq='N'>
+              9.5
+            </subref>
+          </aref>
+          ); however, the identification of the existence of an organizational
+          conflict of interest may be made by either the Administrator or the
+          cognizant Contracting Officer. In the event an organizational conflict
+          of interest is determined to exist, the cognizant Contracting Officer
+          shall take the actions prescribed at FAR 9.504 (
+          <aref type='CFR'>
+            48 CFR 
+            <subref title='48' part='9' sect='504' psec='' tq='N'>
+              9.504
+            </subref>
+          </aref>
+          ) to attempt to avoid, neutralize or mitigate the conflict. Should
+          these actions be deemed by the Administrator and the Contracting
+          Officer to adequately resolve the conflict, the contracting action
+          with the offeror/contractor may proceed. Should the Administrator or
+          the Contracting Officer determine that an organizational conflict of
+          interest still exists such that contract award or other contracting
+          action cannot be taken (award of task/delivery order, etc.) the
+          offeror/contractor shall be so informed by the Contracting Officer and
+          be provided a reasonable opportunity to respond in accordance with FAR
+          9.504(e) (
+          <aref type='CFR'>
+            48 CFR 
+            <subref title='48' part='9' sect='504' psec='#e' tq='N'>
+              9.504(e)
+            </subref>
+          </aref>
+          ). After considering the contractor&apos;s response, if it is found by
+          both the Administrator and Contracting Officer to remedy the conflict
+          of interest, the contracting action may proceed. If the Administrator
+          and Contracting Officer determine that the contractor&apos;s response
+          does not resolve the conflict of interest, yet continuing with the
+          contracting action with the offeror/contractor in question is
+          considered in the best interest of the United States, a waiver in
+          accordance with FAR 9.503 (
+          <aref type='CFR'>
+            48 CFR 
+            <subref title='48' part='9' sect='503' psec='' tq='N'>
+              9.503
+            </subref>
+          </aref>
+          ) may be executed. This waiver shall be submitted under the
+          Contracting Officer&apos;s signature and approved by the
+          Administrator. The Administrator has been delegated Head of
+          Contracting Activity authority by the USDA Senior Procurement
+          Executive solely for the purpose of waiver approval.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14739'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.162
+      </extid>
+      <num st='1'>
+        1789.162
+      </num>
+      <head>
+        Indemnification agreement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='162' psec='' tq='N'>
+              1789.162
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Indemnification agreement.
+        </SUBJECT>
+        <P>
+          As a condition of approving Borrower funding, the government will
+          require the Borrower to enter into an Indemnification Agreement, in
+          form and substance satisfactory to RUS, providing 
+          <PRTPAGE P='400' />
+          that the Borrower will indemnify and hold harmless the government and
+          any officers, agents or employees of the government from any and all
+          liability, including costs, fees, and settlements arising out of, or
+          in any way connected with the payment of the Consultant&apos;s fee
+          pursuant to the Consultant Contract. The Indemnification Agreement may
+          recognize, as a condition of liability thereunder, the rights of the
+          borrower to prompt notice, to use of counsel of its own choosing, and
+          to participation in any settlement of a claim against which
+          indemnification is sought.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14740'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.163
+      </extid>
+      <num st='1'>
+        1789.163
+      </num>
+      <head>
+        Waiver.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='163' psec='' tq='N'>
+              1789.163
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Waiver.
+        </SUBJECT>
+        <P>
+          RUS may waive any requirement or procedure of this subpart by
+          determining that its application in a particular situation would not
+          be in the government&apos;s interest, except that certain provision
+          that the subject contracts are subject to the provisions of the FAR
+          (48 CFR ch. 1) and AGAR (48 CFR ch. 4).
+        </P>
+      </contents>
+    </section>
+    <section orderid='14741'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:A:1789.164-1789.165
+      </extid>
+      <num st='2'>
+        1789.164-1789.165
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1789' sect='164-1789' psec='' tq='N'>
+              1789.164-1789
+            </subref>
+          </aref>
+          .165
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14742'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:B:1789.166
+      </extid>
+      <num st='1'>
+        1789.166
+      </num>
+      <head>
+        Terms and conditions of funding agreement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='166' psec='' tq='N'>
+              1789.166
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms and conditions of funding agreement.
+        </SUBJECT>
+        <P>
+          Funding Agreements between the Borrower and a Consultant shall be in
+          form and substance satisfactory to RUS and provide for, among other
+          matters, the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Specific reference by number to the applicable Consulting Contract
+            entered into between the government and the Consultant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Specific reference by number to the applicable Task Order (where
+            applicable);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A brief description of the Application;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A requirement that Invoices make specific reference to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The applicable contract and Task Order(s); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Escrow Account from which payment is to be made;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             A requirement that the Final Invoice for a Task Order be clearly
+            identified as such;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the services to be provided by the Consultant to
+            RUS and the applicable time frames for the provision of such
+            services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Agreement that the Borrower shall pay for the Consultant services
+            provided to RUS under the applicable contract through an Escrow
+            Account established pursuant to an Escrow Agreement, the Consultant
+            shall not provide services to RUS under the applicable contract
+            unless there are sufficient funds in the Escrow Account to pay for
+            such services, the Consultant shall seek compensation for services
+            provided under the applicable contract from, and only from, funds
+            made available through the Escrow Account, and the Consultant must
+            submit all Invoices to the government for approval.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             A form of Escrow Agreement satisfactory to the Borrower, Consultant
+            and the designated Third-party Commercial Institution;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A schedule setting forth when and in what amounts the Borrower
+            shall fund the Escrow Account;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             Acknowledgment by the Consultant of the Indemnification Agreement
+            provided by the Borrower to the government; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             The Funding Agreement shall not be effective unless and until
+            approved in writing by RUS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14743'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:B:1789.167
+      </extid>
+      <num st='1'>
+        1789.167
+      </num>
+      <head>
+        Terms and conditions of escrow agreement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1789' sect='167' psec='' tq='N'>
+              1789.167
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms and conditions of escrow agreement.
+        </SUBJECT>
+        <P>
+          Escrow Agreements between and among the Borrower, Consultant and
+          Third-party Commercial Institution shall be in form and substance
+          satisfactory to RUS and provide for, among other matters, the
+          following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Specific reference by number to the applicable contract for
+            services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Specific reference by number to the applicable Task Order;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Specific reference by number to the Escrow Account into which funds
+            are to be deposited;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Invoices to specifically identify the applicable contract and Task
+            Order(s);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Funds to be held in the Escrow Account by the escrow agent until
+            paid to the Consultant pursuant to the government&apos;s
+            authorization;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The Escrow Account to be closed and all remaining funds remitted to
+            
+            <PRTPAGE P='401' />
+            the Borrower after payment of the Final Invoice, unless otherwise
+            directed by the government;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The government, the Consultant and the Borrower to have the right
+            to be informed, in a timely manner and in such form as they may
+            reasonably request, as to the status of and activity in the Escrow
+            Account; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The Escrow Agreement shall not be effective unless and until
+            approved in writing by RUS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14744'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1789:B:1789.168-1789.175
+      </extid>
+      <num st='2'>
+        1789.168-1789.175
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1789' sect='168-1789' psec='' tq='N'>
+              1789.168-1789
+            </subref>
+          </aref>
+          .175
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

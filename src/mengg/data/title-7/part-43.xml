@@ -1,0 +1,7801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol2'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:A:43
+    </extid>
+    <num>
+      43
+    </num>
+    <head>
+      STANDARDS FOR SAMPLING PLANS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Secs. 203, 205, 60
+          </aref>
+           Stat. 1087, as amended, 1090, as amended; 
+          <aref type='USC'>
+            <subref title='7' sect='1622' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1622.html'>
+              7 U.S.C. 1622
+            </subref>
+            , 
+            <subref title='7' sect='1624' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1624.html'>
+              1624
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            29 FR 5870
+          </aref>
+          , May 5, 1964, unless otherwise noted. Redesignated at 
+          <aref type='FREGIST'>
+            42 FR 32514
+          </aref>
+          , June 27, 1977, and further redesignated at 
+          <aref type='FREGIST'>
+            46 FR 63203
+          </aref>
+          , Dec. 31, 1981.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='1973'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:43:-:43.101
+      </extid>
+      <num st='1'>
+        43.101
+      </num>
+      <head>
+        Meaning of words.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='43' sect='101' psec='' tq='N'>
+              43.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Meaning of words.
+        </SUBJECT>
+        <P>
+          Words used in this subpart in the singular form shall be considered to
+          impart the plural, or vice versa, as the case may demand.
+        </P>
+      </contents>
+    </section>
+    <section orderid='1974'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:43:-:43.102
+      </extid>
+      <num st='1'>
+        43.102
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='43' sect='102' psec='' tq='N'>
+              43.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Statistical and inspection or sampling terms and their respective
+          definitions that are used in the sampling plans and operating
+          characteristic curves of which are pertinent to the understanding of
+          inspection by attributes follow:
+        </P>
+        <P>
+          <E T='03'>
+            Acceptable quality level
+          </E>
+           (
+          <E T='03'>
+            AQL
+          </E>
+          ). The AQL is expressed in terms of percent defective or defects per
+          100 units. Lots having a quality level equal to a specified AQL will
+          be accepted approximately 95 percent of the time when using the
+          sampling plans prescribed for that AQL.
+        </P>
+        <P>
+          <E T='03'>
+            Acceptance number
+          </E>
+           (
+          <E T='03'>
+            Ac
+          </E>
+          ). The number in a sampling plan that indicates the maximum number of
+          defects or defectives permitted in a sample in order to consider a lot
+          as meeting a specific requirement.
+        </P>
+        <P>
+          <E T='03'>
+            Acceptance sampling.
+          </E>
+           The art or science that deals with procedures in which decisions to
+          accept or reject lots or processes are based on the examination of
+          samples.
+        </P>
+        <P>
+          <E T='03'>
+            Attributes.
+          </E>
+           Refers to the measurement of a given factor noting and recording the
+          presence or absence of some characteristic (attribute) in each of the
+          units in the group under consideration.
+        </P>
+        <P>
+          <E T='03'>
+            Consumer&apos;s risk.
+          </E>
+           The risk a consumer takes that a lot will be accepted by a sampling
+          plan even though the lot does not conform to requirements. In the
+          standards of this subpart this risk is nominally set at ten percent.
+        </P>
+        <P>
+          <E T='03'>
+            Consumer protection.
+          </E>
+           The ability of a sampling plan to reject unacceptable supplies. This
+          is measured as the complement of the probability of acceptance (Pa)
+          for the Limited Quality (LQ) lots. The consumer protection is 90
+          percent in these standards.
+        </P>
+        <P>
+          <E T='03'>
+            Defect.
+          </E>
+           A failure to meet a requirement imposed on a unit with respect to a
+          single quality characteristic. A unit may contain more than one
+          defect.
+        </P>
+        <P>
+          <E T='03'>
+            Defective.
+          </E>
+           A defective unit; one containing one or more defects with respect to
+          the quality characteristic(s) under consideration.
+        </P>
+        <P>
+          <E T='03'>
+            Inspection.
+          </E>
+           The examination (including testing) of supplies (including, when
+          appropriate, raw materials, components and intermediate assemblies).
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Acceptance inspection.
+            </head>
+          </npcatch>
+          <text>
+             An inspection to determine conformance of supplies to specified
+            requirements in order to accept or reject the supplies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Estimation inspection.
+            </head>
+          </npcatch>
+          <text>
+             In dealing with attributes, an inspection to determine the amount
+            of the supplies conforming to a specified requirement—usually
+            expressed as a percentage.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Inspection by attributes.
+          </E>
+           Inspection whereby either the sample unit is classified as defective
+          or non-defective with respect to a requirement or set of requirements
+          (when on a “defective” basis); or, inspection whereby the number of
+          defects in each sample unit is counted with respect to a requirement
+          or set of requirements (when on a “defect” basis).
+        </P>
+        <P>
+          <E T='03'>
+            Limiting quality
+          </E>
+           (
+          <E T='03'>
+            LQ
+          </E>
+          ). The LQ is expressed in terms of percent defective or defects per
+          100 units. Lots inspected under the standards of this subpart that
+          have a ten percent probability of acceptance are referred to as a lot
+          having a quality level equal to LQ.
+        </P>
+        <P>
+          <E T='03'>
+            Lot.
+          </E>
+           A collection of units of the same size, type and style which has been
+          
+          <PRTPAGE P='232' />
+          manufactured or processed under essentially the same conditions. The
+          term shall mean “inspection lot,” i.e., a collection of units of
+          product from which a sample is to be drawn and inspected to determine
+          conformance with the acceptability criteria. An inspection lot may
+          differ from a collection of units designated as a lot for other
+          purposes (e.g., production lot, shipping lot, etc.).
+        </P>
+        <P>
+          <E T='03'>
+            Lot size.
+          </E>
+           The number of units in the lot.
+        </P>
+        <P>
+          <E T='03'>
+            Operating characteristic curve
+          </E>
+           (
+          <E T='03'>
+            OC curve
+          </E>
+          ). A curve that gives the probability of acceptance as a function of a
+          specific lot quality level.
+        </P>
+        <P>
+          <E T='03'>
+            Probability of acceptance
+          </E>
+           (
+          <E T='03'>
+            Pa
+          </E>
+          ). For a given sampling plan and a given quality of inspection lots,
+          is that percentage of inspection lots expected to be accepted.
+        </P>
+        <P>
+          <E T='03'>
+            Process capability.
+          </E>
+           Performance of a process under normal operating conditions. The
+          performance is measured with respect to specific characteristics.
+        </P>
+        <P>
+          <E T='03'>
+            Producer&apos;s risk.
+          </E>
+           The risk that a producer takes that a lot will be rejected by a
+          sampling plan even though the lot conforms to requirements. In the
+          standards of this subpart this risk is nominally set at five percent.
+        </P>
+        <P>
+          <E T='03'>
+            Random sampling.
+          </E>
+           A process of selecting a sample from a lot whereby each unit in the
+          lot has an equal chance of being chosen. Ordinary haphazard choice is
+          generally insufficient to guarantee randomness. Devices such as tables
+          of random numbers are used to remove subjective biases inherent in
+          personal choice.
+        </P>
+        <P>
+          <E T='03'>
+            Rejection number
+          </E>
+           (
+          <E T='03'>
+            Re
+          </E>
+          ). The number in a sampling plan that indicates the minimum number of
+          defects or defectives permitted in a sample that will cause a lot to
+          fail a specific requirement.
+        </P>
+        <P>
+          <E T='03'>
+            Sample.
+          </E>
+           Any number of sample units which are to be used for inspection.
+        </P>
+        <P>
+          <E T='03'>
+            Sample size.
+          </E>
+           The number of sample units which are to be included in the sample.
+        </P>
+        <P>
+          <E T='03'>
+            Sample unit.
+          </E>
+           A container, the entire contents of a container, a portion of the
+          contents of a container, a composite mixture of a product, or any
+          other unit of container or commodity to be used for inspection.
+        </P>
+        <P>
+          <E T='03'>
+            Sampling.
+          </E>
+           The act of drawing or selecting sample units from a given lot.
+        </P>
+        <P>
+          <E T='03'>
+            Sampling plan.
+          </E>
+           A specific plan which states the sample size(s), acceptance number(s)
+          and rejection number(s). In the standards of this subpart two types of
+          sampling plans are provided:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Single sampling plan.
+            </head>
+          </npcatch>
+          <text>
+             A sampling inspection scheme in which a decision to accept or
+            reject an inspection lot is based on the inspection of a single
+            sample. A single sampling plan consists of a single sample size with
+            associated acceptance and rejection number(s).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Double sampling plan.
+            </head>
+          </npcatch>
+          <text>
+             A sampling inspection scheme which involves use of two
+            independently drawn but related samples, a first sample (n
+            <E T='52'>
+              1
+            </E>
+            ) and a second sample which is added to the first to form a total
+            sample size (n
+            <E T='52'>
+              t
+            </E>
+            ). A double sampling plan consists of a first and total sample size
+            with associated acceptance and rejection number(s). Inspection of
+            the first sample leads to a decision to accept, to reject, or to
+            take a second sample and the examination of a second sample, when
+            required, always leads to a decision to accept or reject.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='1975'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:43:-:43.103
+      </extid>
+      <num st='1'>
+        43.103
+      </num>
+      <head>
+        Purpose and scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='43' sect='103' psec='' tq='N'>
+              43.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and scope.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This subpart contains selected single and double sampling plans for
+            inspection by attributes. They are to serve as a source of plans for
+            developing sound specifications, standards, or sampling and
+            inspection procedures.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The sampling plans of this subpart and corresponding operating
+            characteristic curves are indexed by acceptable quality level, AQL.
+            The AQL&apos;s expressed in percent defectives or defects per
+            hundred units are:
+          </text>
+        </P>
+        <table class='gpotable' CDEF='8L,7L,7,7' COLS='4' OPTS='L0'>
+          <caption />
+          <thead />
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                0.065
+              </td>
+              <td>
+                0.40
+              </td>
+              <td>
+                2.5
+              </td>
+              <td>
+                8.5
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                0.10
+              </td>
+              <td>
+                0.65
+              </td>
+              <td>
+                4.0
+              </td>
+              <td>
+                10.0
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                0.15
+              </td>
+              <td>
+                1.0
+              </td>
+              <td>
+                5.0
+              </td>
+              <td>
+                12.5
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                0.25
+              </td>
+              <td>
+                1.5
+              </td>
+              <td>
+                6.5
+              </td>
+              <td>
+                15.0
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </contents>
+    </section>
+    <section orderid='1976'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:43:-:43.104
+      </extid>
+      <num st='1'>
+        43.104
+      </num>
+      <head>
+        Master table of single and double sampling plans.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='43' sect='104' psec='' tq='N'>
+              43.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Master table of single and double sampling plans.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In the master table, a sampling plan is selected by first
+            determining the sample size or sizes and AQL to be used. Then find
+            the applicable acceptance (Ac) and rejection (Re) numbers at the
+            intersection of the sample size(s) row and AQL column. These numbers
+            together with the sample size or sizes constitute a sampling plan.
+            <PRTPAGE P='233' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Single sampling plans having a sample size of 66 or greater and an
+            acceptance number of 1 are not included in the Master Table. These
+            plans are listed in the tables which supplement the Master Table and
+            accompany the OC curves as indexes to the comparable double sampling
+            plans. The use of these single sampling plans do not facilitate the
+            practice of using two or more AQL&apos;s simultaneously with the
+            same sample size.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='1977'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:43:-:43.105
+      </extid>
+      <num st='1'>
+        43.105
+      </num>
+      <head>
+        Operating characteristics (OC) curves.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='43' sect='105' psec='' tq='N'>
+              43.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Operating characteristics (OC) curves.
+        </SUBJECT>
+        <P>
+          The OC curves shows the ability of the various sampling plans,
+          presented for each AQL, to distinguish between lots of different
+          quality.
+        </P>
+      </contents>
+    </section>
+    <section orderid='1978'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:A:43:-:43.106
+      </extid>
+      <num st='1'>
+        43.106
+      </num>
+      <head>
+        Choosing AQL&apos;s and sampling plans.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='43' sect='106' psec='' tq='N'>
+              43.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Choosing AQL&apos;s and sampling plans.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The selection of AQL&apos;s and sampling plans for given lot sizes
+            depends on too many factors to permit the issuance of a
+            “pre-selected” standard set of plans for specified lot sizes. Each
+            user of the standards of this subpart should select AQL&apos;s and
+            sampling plans that are tailored to best meet his needs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Some of the factors that must be considered prior to selecting the
+            AQL&apos;s are:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Class of defects such as major and minor: Major defects would
+            generally require lower AQL&apos;s than those for minor defects;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Process capabilities under good commercial practice with respect to
+            the defects in question: For example, if under normal production
+            processes, the defect level cannot be kept below 2.0 percent
+            defective, the selection of an AQL of 0.15 percent defective,
+            although desirable for the defects in question, may not be
+            practical;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Consumer preferences: These may require higher AQL&apos;s or permit
+            lower AQL&apos;s than process capabilities would indicate; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Time and cost required to sample and inspect a lot under various
+            AQL&apos;s: The smaller the AQL the more time and cost of
+            inspection.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Some of the factors that may be considered prior to selecting the
+            sampling plans for given lot sizes are:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The applicable AQL(s): The AQL dictates, among other things, the
+            smallest sample size that can be used and the size of the “jumps”
+            from one sample size to the next larger one;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The relative ability of the plans to discriminate between “good”
+            and “bad” lots: Although several plans in these standards have the
+            same AQL, they differ in their ability to reject lots worse than the
+            AQL&apos;s. The OC curve in the standards of this subpart provide
+            the basis for determining the discriminating ability of each plan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The amount, time, and cost of sampling required;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The size and value of the lots relative to the producer and
+            consumer protection a sampling plan affords: One may be willing to
+            take larger risks of passing “bad” lots that are small or of lesser
+            value than they would for larger more valuable lots;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The knowledge about the lot(s) to be submitted for inspection: Lots
+            consisting of product produced under essentially the same conditions
+            may require smaller sample sizes than those consisting of product
+            produced by different shifts and different raw stock for example;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The record of the quality level of previously submitted lots: The
+            sample size can be smaller for lots submitted from a supplier with a
+            consistent record of quality levels significantly better than the
+            specified AQL(s) than sample sizes for the supplier whose records
+            show considerable variability in quality, “borderline” supplies or
+            product worse than the AQL.
+            <PRTPAGE P='234' />
+          </text>
+        </P>
+        <table class='gpotable' CDEF='s15,r15,6,6,6,6,6,6,6,6,6,6,6,6,6,6,8,8' COLS='18'>
+          <caption>
+            <div>
+              <strong>
+                Master Table of Single and Double Sampling Plans 
+                <sup>
+                  1
+                </sup>
+              </strong>
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Sample size code letter
+              </th>
+              <th rowspan='3'>
+                Sample size
+              </th>
+              <th colspan='32'>
+                Acceptable quality levels
+              </th>
+            </tr>
+            <tr>
+              <th>
+                0.065
+              </th>
+              <th>
+                0.10
+              </th>
+              <th>
+                0.15
+              </th>
+              <th>
+                0.25
+              </th>
+              <th>
+                0.40
+              </th>
+              <th>
+                0.65
+              </th>
+              <th>
+                1.0
+              </th>
+              <th>
+                1.5
+              </th>
+              <th>
+                2.5
+              </th>
+              <th>
+                4.0
+              </th>
+              <th>
+                5.0
+              </th>
+              <th>
+                6.5
+              </th>
+              <th>
+                8.5
+              </th>
+              <th>
+                10.0
+              </th>
+              <th>
+                12.5
+              </th>
+              <th>
+                15.0
+              </th>
+            </tr>
+            <tr>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+              <th>
+                Ac Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='18'>
+                <sup>
+                  1
+                </sup>
+                 Double plans are indicated by 2 sample sizes, n
+                <E T='52'>
+                  1
+                </E>
+                 (first) and n
+                <E T='52'>
+                  t
+                </E>
+                 (total).Ac=Acceptance numberRe=Rejection number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                AA
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =1
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                A
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =2
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                B
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td />
+              <td />
+              <td>
+                03
+              </td>
+              <td>
+                12
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =8
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                C
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =4
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                D
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =5
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                E
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =6
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                EE
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =7
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                F
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =9
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+              <td>
+                34
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                G
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =11
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+              <td>
+                34
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                H
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =13
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td />
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+              <td>
+                34
+              </td>
+              <td />
+              <td>
+                45
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                J
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =21
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                14
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                35
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                56
+              </td>
+              <td>
+                67
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =31
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td>
+                23
+              </td>
+              <td />
+              <td>
+                34
+              </td>
+              <td />
+              <td>
+                56
+              </td>
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                K
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =29
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                12
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                14
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                37
+              </td>
+              <td>
+                56
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                78
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =65
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td>
+                67
+              </td>
+              <td />
+              <td />
+              <td>
+                9 10
+              </td>
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                L
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =48
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                12
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                56
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                78
+              </td>
+              <td>
+                89
+              </td>
+              <td>
+                10 11
+              </td>
+              <td>
+                11 12
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =72
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                M
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =84
+              </td>
+              <td />
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                03
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                78
+              </td>
+              <td>
+                9 10
+              </td>
+              <td>
+                11 12
+              </td>
+              <td>
+                13 14
+              </td>
+              <td>
+                15 16
+              </td>
+              <td>
+                18 19
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =120
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =132
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                N
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =126
+              </td>
+              <td />
+              <td />
+              <td>
+                01
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                03
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                9 10
+              </td>
+              <td>
+                10 11
+              </td>
+              <td>
+                13 14
+              </td>
+              <td>
+                16 17
+              </td>
+              <td>
+                18 19
+              </td>
+              <td>
+                22 23
+              </td>
+              <td>
+                26 27
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =180
+              </td>
+              <td />
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =210
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                P
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =200
+              </td>
+              <td />
+              <td>
+                01
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                03
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                9 10
+              </td>
+              <td>
+                13 14
+              </td>
+              <td>
+                15 16
+              </td>
+              <td>
+                19 20
+              </td>
+              <td>
+                24 25
+              </td>
+              <td>
+                27 28
+              </td>
+              <td>
+                33 34
+              </td>
+              <td>
+                39 40
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =284
+              </td>
+              <td />
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =326
+              </td>
+              <td />
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Q
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =315
+              </td>
+              <td>
+                01
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                89
+              </td>
+              <td>
+                13 14
+              </td>
+              <td>
+                19 20
+              </td>
+              <td>
+                22 23
+              </td>
+              <td>
+                28 29
+              </td>
+              <td>
+                35 36
+              </td>
+              <td>
+                41 42
+              </td>
+              <td>
+                50 51
+              </td>
+              <td>
+                59 60
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =435
+              </td>
+              <td />
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =519
+              </td>
+              <td />
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                R
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =500
+              </td>
+              <td>
+                02
+              </td>
+              <td>
+                03
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                9 10
+              </td>
+              <td>
+                12 13
+              </td>
+              <td>
+                18 19
+              </td>
+              <td>
+                28 29
+              </td>
+              <td>
+                33 34
+              </td>
+              <td>
+                42 43
+              </td>
+              <td>
+                53 54
+              </td>
+              <td>
+                62 63
+              </td>
+              <td>
+                76 77
+              </td>
+              <td>
+                90 91
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =644
+              </td>
+              <td>
+                12
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =836
+              </td>
+              <td />
+              <td>
+                23
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                S
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =800
+              </td>
+              <td>
+                03
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                9 10
+              </td>
+              <td>
+                13 14
+              </td>
+              <td>
+                18 19
+              </td>
+              <td>
+                27 28
+              </td>
+              <td>
+                42 43
+              </td>
+              <td>
+                50 510
+              </td>
+              <td>
+                64 65
+              </td>
+              <td>
+                82 83
+              </td>
+              <td>
+                95 96
+              </td>
+              <td>
+                117 118
+              </td>
+              <td>
+                140 141
+              </td>
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                n
+                <E T='52'>
+                  t
+                </E>
+                =1304
+              </td>
+              <td>
+                23
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                T
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =1250
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                9 10
+              </td>
+              <td>
+                13 14
+              </td>
+              <td>
+                19 20
+              </td>
+              <td>
+                26 27
+              </td>
+              <td>
+                41 42
+              </td>
+              <td>
+                63 64
+              </td>
+              <td>
+                76 77
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                U
+              </td>
+              <td>
+                n
+                <E T='52'>
+                  1
+                </E>
+                =2000
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                45
+              </td>
+              <td>
+                67
+              </td>
+              <td>
+                9 10
+              </td>
+              <td>
+                13 14
+              </td>
+              <td>
+                19 20
+              </td>
+              <td>
+                28 29
+              </td>
+              <td>
+                39 40
+              </td>
+              <td>
+                62 63
+              </td>
+              <td>
+                96 97
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <PRTPAGE P='235' />
+        <table class='gpotable' CDEF='s25,4,4,4,4,4,4,4,4,4,5,4,4' COLS='13' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=0.065 Percent Defective (or AQL=0.065 Defects per Hundred
+                Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=0.065]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='16'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S, T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='13'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                624
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                1250
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                2,000
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                500
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='22' />
+              <td>
+                644
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                1304
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='361' SPAN='2'>
+          <GID>
+            EC02SE91.023
+          </GID>
+        </GPH>
+        <PRTPAGE P='236' />
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,5,2,2,5,2,2' COLS='16' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=0.10 Percent Defective (or AQL=0.10 Defects per Hundred
+                Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=0.10]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='20'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R, S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='16'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                408
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                1,250
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                2,000
+              </td>
+              <td>
+                4
+              </td>
+              <td />
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                315
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                435
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                836
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='357' SPAN='2'>
+          <GID>
+            EC02SE91.024
+          </GID>
+        </GPH>
+        <PRTPAGE P='237' />
+        <table class='gpotable' CDEF='s20,3,2,2,3,2,2,3,2,2,3,2,2,5,2,2,5,2,2' COLS='19' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=0.15 Percent Defective (or AQL=0.15 Defects per Hundred
+                Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=0.15]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='24'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R, S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='19'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                264
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                1,250
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                2,000
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                200
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                284
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                519
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='364' SPAN='2'>
+          <GID>
+            EC02SE91.025
+          </GID>
+        </GPH>
+        <PRTPAGE P='238' />
+        <table class='gpotable' CDEF='s20,2,2,2,3,2,2,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='22' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=0.25 Defects per Hundred Units
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=0.25]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='28'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P, Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='22'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                168
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                1250
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                2000
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                10
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                126
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                180
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                326
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='208' SPAN='2'>
+          <GID>
+            EC02SE91.026
+          </GID>
+        </GPH>
+        <PRTPAGE P='239' />
+        <table class='gpotable' CDEF='s20,2,2,2,3,2,2,3,2,2,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='25' OPTS='L2,b2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=0.40 Percent Defective (or AQL=0.40 Defects per Hundred
+                Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=0.40]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='32'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N, P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='25'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                108
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                1250
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                10
+              </td>
+              <td>
+                2000
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                10
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                84
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                120
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                210
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='209' SPAN='2'>
+          <GID>
+            EC02SE91.027
+          </GID>
+        </GPH>
+        <PRTPAGE P='240' />
+        <table class='gpotable' CDEF='s20,2,2,2,2,2,2,3,2,2,3,2,2,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='28' OPTS='L2,b1'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=0.65 Percent Defective (or AQL=0.65 Defects per Hundred
+                Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=0.65]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='36'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                K
+              </th>
+              <th colspan='3'>
+                L
+              </th>
+              <th colspan='3'>
+                M, N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='28'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                66
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                10
+              </td>
+              <td>
+                1250
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                14
+              </td>
+              <td>
+                2000
+              </td>
+              <td>
+                19
+              </td>
+              <td>
+                20
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                48
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                72
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                132
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='211' SPAN='2'>
+          <GID>
+            EC02SE91.028
+          </GID>
+        </GPH>
+        <PRTPAGE P='241' />
+        <table class='gpotable' CDEF='xs75,3,2,2,2,2,2,3,2,2,4,2,2,4,2,2' COLS='16' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=1.0 Percent Defective (or AQL=1.0 Defects per Hundred Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=1.0]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='20'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                J
+              </th>
+              <th colspan='3'>
+                K, L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                21
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                29
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                65
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='16' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='16'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                10
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                14
+              </td>
+              <td>
+                1250
+              </td>
+              <td>
+                19
+              </td>
+              <td>
+                20
+              </td>
+              <td>
+                2000
+              </td>
+              <td>
+                28
+              </td>
+              <td>
+                29
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='210' SPAN='2'>
+          <GID>
+            EC02SE91.029
+          </GID>
+        </GPH>
+        <PRTPAGE P='242' />
+        <table class='gpotable' CDEF='xs75,2,2,2,2,2,2,2,2,2,2,2,2,3,2,2,3,2,2' COLS='19' OPTS='L2,b2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=1.5 Percent Defective (or AQL=1.5 Defects per Hundred Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=1.5]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='24'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                H
+              </th>
+              <th colspan='3'>
+                J, K
+              </th>
+              <th colspan='3'>
+                L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                21
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                31
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='16' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='16'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                8
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                12
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                18
+              </td>
+              <td>
+                19
+              </td>
+              <td>
+                1,250
+              </td>
+              <td>
+                26
+              </td>
+              <td>
+                27
+              </td>
+              <td>
+                2,000
+              </td>
+              <td>
+                39
+              </td>
+              <td>
+                40
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='209' SPAN='2'>
+          <GID>
+            EC02SE91.030
+          </GID>
+        </GPH>
+        <PRTPAGE P='243' />
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='19' OPTS='L2,b2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=2.5 Percent Defective (or AQL=2.5 Defects per Hundred Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=2.5]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='24'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                F
+              </th>
+              <th colspan='3'>
+                J, K
+              </th>
+              <th colspan='3'>
+                L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                10
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                21
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                2
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                31
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='16' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='16'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                14
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                18
+              </td>
+              <td>
+                19
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                27
+              </td>
+              <td>
+                28
+              </td>
+              <td>
+                1,250
+              </td>
+              <td>
+                41
+              </td>
+              <td>
+                42
+              </td>
+              <td>
+                2,000
+              </td>
+              <td>
+                62
+              </td>
+              <td>
+                63
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='207' SPAN='2'>
+          <GID>
+            EC02SE91.031
+          </GID>
+        </GPH>
+        <PRTPAGE P='244' />
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='19' OPTS='L2,b2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=4.0 Percent Defective (or AQL=4.0 Defects per Hundred Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=4.0]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='24'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                D
+              </th>
+              <th colspan='3'>
+                G
+              </th>
+              <th colspan='3'>
+                J
+              </th>
+              <th colspan='3'>
+                K L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                11
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                21
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                10
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                29
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                4
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                65
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='s20,3,2,2,3,2,2,3,2,2,3,2,2,4,2,2,4,2,2' COLS='19' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+              <th colspan='3'>
+                U
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='19'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                14
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                19
+              </td>
+              <td>
+                20
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                28
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                42
+              </td>
+              <td>
+                43
+              </td>
+              <td>
+                1250
+              </td>
+              <td>
+                63
+              </td>
+              <td>
+                64
+              </td>
+              <td>
+                2000
+              </td>
+              <td>
+                96
+              </td>
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='207' SPAN='2'>
+          <GID>
+            EC02SE91.032
+          </GID>
+        </GPH>
+        <PRTPAGE P='245' />
+        <table class='gpotable' CDEF='xs75,2,2,2,2,2,2,2,2,2,2,2,2,4,2,2,3,2,2' COLS='19' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=5.0 Percent Defective (or AQL=5.0 Defects per Hundred Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=5.0]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='24'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                C
+              </th>
+              <th colspan='3'>
+                F
+              </th>
+              <th colspan='3'>
+                J, K
+              </th>
+              <th colspan='3'>
+                L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                8
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                10
+              </td>
+              <td>
+                11
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                21
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                4
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                31
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,3,2,2,4,2,2' COLS='16' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+              <th colspan='3'>
+                T
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='16'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                15
+              </td>
+              <td>
+                16
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                22
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                33
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                50
+              </td>
+              <td>
+                51
+              </td>
+              <td>
+                1250
+              </td>
+              <td>
+                76
+              </td>
+              <td>
+                77
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='209' SPAN='2'>
+          <GID>
+            EC02SE91.033
+          </GID>
+        </GPH>
+        <PRTPAGE P='246' />
+        <table class='gpotable' CDEF='xs75,2,2,2,2,2,2,2,2,2,2,2,2,4,2,2,3,2,2' COLS='19' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=6.5 Percent Defective (or AQL=6.5 Defects per Hundred Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=6.5]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='24'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                B
+              </th>
+              <th colspan='3'>
+                E
+              </th>
+              <th colspan='3'>
+                H
+              </th>
+              <th colspan='3'>
+                J
+              </th>
+              <th colspan='3'>
+                K
+              </th>
+              <th colspan='3'>
+                L
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                21
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='xs75,2,2,2,3,2,2,3,2,2,3,2,2,4,2,2,3,2,2' COLS='19' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='19'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                10
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                14
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                19
+              </td>
+              <td>
+                20
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                28
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                42
+              </td>
+              <td>
+                43
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                64
+              </td>
+              <td>
+                65
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='206' SPAN='2'>
+          <GID>
+            EC02SE91.034
+          </GID>
+        </GPH>
+        <PRTPAGE P='247' />
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,3,2,2,3,2,2' COLS='16' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=8.5 Percent Defective (or AQL=8.5 Defects per Hundred Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=8.5]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='20'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                D
+              </th>
+              <th colspan='3'>
+                G
+              </th>
+              <th colspan='3'>
+                J
+              </th>
+              <th colspan='3'>
+                K, L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr RUL=''>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                11
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                24
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                8
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                11
+              </td>
+              <td>
+                1
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td rowspan='2' />
+              <td>
+                21
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                7
+              </td>
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                31
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                65
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                10
+              </td>
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,3,2,2,3,2,2' COLS='16' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='16'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                16
+              </td>
+              <td>
+                17
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                24
+              </td>
+              <td>
+                25
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                35
+              </td>
+              <td>
+                36
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                53
+              </td>
+              <td>
+                54
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                82
+              </td>
+              <td>
+                83
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='213' SPAN='2'>
+          <GID>
+            EC02SE91.035
+          </GID>
+        </GPH>
+        <PRTPAGE P='248' />
+        <table class='gpotable' CDEF='s20,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2' COLS='22' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=10.0 Percent Defective (or AQL=10.0 Defects per Hundred
+                Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=10.0]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='28'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                A
+              </th>
+              <th colspan='3'>
+                C
+              </th>
+              <th colspan='3'>
+                F
+              </th>
+              <th colspan='3'>
+                H
+              </th>
+              <th colspan='3'>
+                J
+              </th>
+              <th colspan='3'>
+                K
+              </th>
+              <th colspan='3'>
+                L
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                21
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                8
+              </td>
+              <td>
+                9
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='xs75,2,2,2,3,2,2,3,2,2,3,2,2,3,2,2,3,2,2' COLS='19' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='19'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                14
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                18
+              </td>
+              <td>
+                19
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                27
+              </td>
+              <td>
+                28
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                41
+              </td>
+              <td>
+                42
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                62
+              </td>
+              <td>
+                63
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                95
+              </td>
+              <td>
+                96
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='205' SPAN='2'>
+          <GID>
+            EC02SE91.036
+          </GID>
+        </GPH>
+        <PRTPAGE P='249' />
+        <table class='gpotable' CDEF='xs75,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2' COLS='19' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristics (OC) Curves for
+                AQL=12.5 Percent Defective (or AQL=12.5 Defects per Hundred
+                Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=12.5]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Identification letter of OC curve
+              </th>
+              <th colspan='24'>
+                Comparable sampling plans
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                B, EE
+              </th>
+              <th colspan='3'>
+                G
+              </th>
+              <th colspan='3'>
+                J
+              </th>
+              <th colspan='3'>
+                K
+              </th>
+              <th colspan='3'>
+                L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr RUL='n,s'>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                11
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                21
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                10
+              </td>
+              <td>
+                11
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                15
+              </td>
+              <td>
+                16
+              </td>
+            </tr>
+            <tr>
+              <td I='01'>
+                Double
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+            <tr>
+              <td I='11' />
+              <td>
+                8
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+              <td />
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='xs75,3,2,2,3,2,2,3,2,2,3,2,2,3,3,3' COLS='16' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='16'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                22
+              </td>
+              <td>
+                23
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                33
+              </td>
+              <td>
+                34
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                50
+              </td>
+              <td>
+                51
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                76
+              </td>
+              <td>
+                77
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                117
+              </td>
+              <td>
+                118
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='210' SPAN='2'>
+          <GID>
+            EC02SE91.037
+          </GID>
+        </GPH>
+        <PRTPAGE P='250' />
+        <table class='gpotable' CDEF='s20,2,2,2,2,2,2,3,2,2,3,2,2,3,2,2,3,2,2,3,3,3' COLS='22' OPTS='L2'>
+          <caption>
+            <div>
+              <strong>
+                Sampling Plans and Operating Characteristic (OC) Curves for
+                AQL=15.0 Percent Defective (or AQL=15.0 Defects per Hundred
+                Units)
+              </strong>
+            </div>
+            <div class='description'>
+              [Sampling plans—AQL=15.0]
+            </div>
+          </caption>
+          <thead>
+            <tr>
+              <th rowspan='3'>
+                Comparable sampling plans
+              </th>
+              <th colspan='28'>
+                Identification letter of OC curve
+              </th>
+            </tr>
+            <tr>
+              <th colspan='3'>
+                AA
+              </th>
+              <th colspan='3'>
+                B
+              </th>
+              <th colspan='3'>
+                E
+              </th>
+              <th colspan='3'>
+                F
+              </th>
+              <th colspan='3'>
+                H
+              </th>
+              <th colspan='3'>
+                J
+              </th>
+              <th colspan='3'>
+                K
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot />
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                0
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                1
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                2
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                9
+              </td>
+              <td>
+                3
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                13
+              </td>
+              <td>
+                4
+              </td>
+              <td>
+                5
+              </td>
+              <td>
+                21
+              </td>
+              <td>
+                6
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                29
+              </td>
+              <td>
+                7
+              </td>
+              <td>
+                8
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class='gpotable' CDEF='s20,2,2,2,2,2,2,3,2,2,3,2,2,3,2,2,3,2,2,3,3,3' COLS='22' OPTS='L2'>
+          <caption />
+          <thead>
+            <tr>
+              <th rowspan='2' />
+              <th colspan='3'>
+                L
+              </th>
+              <th colspan='3'>
+                M
+              </th>
+              <th colspan='3'>
+                N
+              </th>
+              <th colspan='3'>
+                P
+              </th>
+              <th colspan='3'>
+                Q
+              </th>
+              <th colspan='3'>
+                R
+              </th>
+              <th colspan='3'>
+                S
+              </th>
+            </tr>
+            <tr>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+              <th>
+                n
+                <E T='52'>
+                  c
+                </E>
+              </th>
+              <th>
+                Ac
+              </th>
+              <th>
+                Re
+              </th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <td class='tnote' colspan='22'>
+                n
+                <E T='52'>
+                  c
+                </E>
+                =Cumulative sample size.Ac=Acceptance number.Re=Rejection
+                number.
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr>
+              <td I='01'>
+                Single
+              </td>
+              <td>
+                48
+              </td>
+              <td>
+                11
+              </td>
+              <td>
+                12
+              </td>
+              <td>
+                84
+              </td>
+              <td>
+                18
+              </td>
+              <td>
+                19
+              </td>
+              <td>
+                126
+              </td>
+              <td>
+                26
+              </td>
+              <td>
+                27
+              </td>
+              <td>
+                200
+              </td>
+              <td>
+                39
+              </td>
+              <td>
+                40
+              </td>
+              <td>
+                315
+              </td>
+              <td>
+                59
+              </td>
+              <td>
+                60
+              </td>
+              <td>
+                500
+              </td>
+              <td>
+                90
+              </td>
+              <td>
+                91
+              </td>
+              <td>
+                800
+              </td>
+              <td>
+                140
+              </td>
+              <td>
+                141
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <GPH DEEP='209' SPAN='2'>
+          <GID>
+            EC02SE91.038
+          </GID>
+        </GPH>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

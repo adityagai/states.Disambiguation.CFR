@@ -1,0 +1,3523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol4'>
+    <extid>
+      lii:cfr:2013:7:0:B:II:B:251
+    </extid>
+    <num>
+      251
+    </num>
+    <head>
+      THE EMERGENCY FOOD ASSISTANCE PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='7501-751' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7501-751.html'>
+              7 U.S.C. 7501-751
+            </subref>
+          </aref>
+          6.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            51 FR 12823
+          </aref>
+          , Apr. 16, 1986, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='4835'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.1
+      </extid>
+      <num st='1'>
+        251.1
+      </num>
+      <head>
+        General purpose and scope.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          51 FR 12823
+        </aref>
+        , Apr. 16, 1986, as amended at 
+        <aref type='FREGIST'>
+          64 FR 72902
+        </aref>
+        , Dec. 29, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='1' psec='' tq='N'>
+              251.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General purpose and scope.
+        </SUBJECT>
+        <P>
+          This part announces the policies and prescribes the regulations
+          necessary to carry out certain provisions of the Emergency Food
+          Assistance Act of 1983, (
+          <aref type='USC'>
+            <subref title='7' sect='612c' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/612c.html'>
+              7 U.S.C. 612c
+            </subref>
+          </aref>
+          <E T='03'>
+            note
+          </E>
+          ).
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            51 FR 12823
+          </aref>
+          , Apr. 16, 1986, as amended at 
+          <aref type='FREGIST'>
+            64 FR 72902
+          </aref>
+          , Dec. 29, 1999]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4836'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.2
+      </extid>
+      <num st='1'>
+        251.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          51 FR 12823
+        </aref>
+        , Apr. 16, 1986, as amended at 
+        <aref type='FREGIST'>
+          51 FR 17933
+        </aref>
+        , May 13, 1987; 
+        <aref type='FREGIST'>
+          59 FR 16974
+        </aref>
+        , Apr. 11, 1994; 
+        <aref type='FREGIST'>
+          62 FR 53731
+        </aref>
+        , Oct. 16, 1997; 
+        <aref type='FREGIST'>
+          64 FR 72902, 72903
+        </aref>
+        , Dec. 29, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='2' psec='' tq='N'>
+              251.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Food and Nutrition Service.
+            </head>
+          </npcatch>
+          <text>
+             Within the United States Department of Agriculture (the
+            “Department”), the Food and Nutrition Service (FNS) shall have
+            responsibility for the distribution of food commodities and
+            allocation of funds under the part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              State Agencies
+            </E>
+             Within the States, distribution to eligible recipient agencies and
+            receipt of payments for storage and distribution shall be the
+            responsibility of the State agency which has: (1) Been designated
+            for such responsibility by the Governor or other appropriate State
+            executive authority; and (2) entered into an agreement with the
+            Department for such distribution and receipt in accordance with
+            paragraph (c) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Agreements—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Agreements between Department and States.
+            </head>
+          </npcatch>
+          <text>
+             Each State agency that distributes donated foods to eligible
+            recipient agencies or receives payments for storage and distribution
+            costs in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='8' psec='' tq='N'>
+                251.8
+              </subref>
+            </aref>
+             must perform those functions pursuant to an agreement entered into
+            with the Department. This agreement will be considered permanent,
+            with amendments initiated by State agencies, or submitted by them at
+            the Department&apos;s request, all of which will be subject to
+            approval by the Department.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Agreements between State agencies and eligible recipient agencies,
+              and between eligible recipient agencies.
+            </head>
+          </npcatch>
+          <text>
+             Prior to making donated foods or administrative funds available,
+            State agencies must enter into a written agreement with eligible
+            recipient agencies to which they plan to distribute donated foods
+            and/or administrative funds. State agencies must ensure that
+            eligible recipient agencies in turn enter into a written agreement
+            with any eligible recipient agencies to which they plan to
+            distribute donated foods and/or administrative funds before donated
+            foods or administrative funds are transferred between any two
+            eligible recipient agencies. All agreements entered into must
+            contain the information specified in paragraph (d) of this section,
+            and be considered permanent, with amendments to be made as
+            necessary, except that agreements must specify that they may be
+            terminated by either party upon 30 days&apos; written notice. State
+            agencies must ensure that eligible recipient agencies provide, on a
+            timely basis, by amendment to the agreement, or other written
+            documents incorporated into the agreement by reference if permitted
+            under paragraph (d) of this section, any information on changes in
+            program administration, including any changes resulting from
+            amendments to Federal regulations or policy.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Contents of agreements between State agencies and eligible
+              recipient agencies and between eligible recipient agencies.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Agreements between State agencies and eligible recipient agencies
+            and between eligible recipient agencies must provide:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             That eligible recipient agencies agree to operate the program in
+            accordance with the requirements of this part, and, as applicable, 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='250' tq='N'>
+                250 of this chapter
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The name and address of the eligible recipient agency receiving
+            commodities and/or administrative funds under the agreement.
+            <PRTPAGE P='583' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The following information must also be identified, either in the
+            agreement or other written documents incorporated by reference in
+            the agreement:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If the State agency delegates the responsibility for any aspect of
+            the program to an eligible recipient agency, each function for which
+            the eligible recipient agency will be held responsible; except that
+            in no case may State agencies delegate responsibility for
+            establishing eligibility criteria for organizations in accordance
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='5' psec='#a' tq='N'>
+                251.5(a)
+              </subref>
+            </aref>
+            , establishing eligibility criteria for recipients in accordance
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='5' psec='#b' tq='N'>
+                251.5(b)
+              </subref>
+            </aref>
+            , or conducting reviews of eligible recipient agencies in accordance
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='10' psec='#e' tq='N'>
+                251.10(e)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If the receiving eligible recipient agency is to be allowed to
+            further distribute TEFAP commodities and/or administrative funds to
+            other eligible recipient agencies, the specific terms and conditions
+            for doing so, including, if applicable, a list of specific
+            organizations or types of organizations eligible to receive
+            commodities or administrative funds;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             If the use of administrative funds is restricted to certain types
+            of expenses pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='8' psec='#e_2' tq='N'>
+                251.8(e)(2)
+              </subref>
+            </aref>
+            , the specific types of administrative expenses eligible recipient
+            agencies are permitted to incur;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Any other conditions set forth by the State agency.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            51 FR 12823
+          </aref>
+          , Apr. 16, 1986, as amended at 
+          <aref type='FREGIST'>
+            51 FR 17933
+          </aref>
+          , May 13, 1987; 
+          <aref type='FREGIST'>
+            59 FR 16974
+          </aref>
+          , Apr. 11, 1994; 
+          <aref type='FREGIST'>
+            62 FR 53731
+          </aref>
+          , Oct. 16, 1997; 
+          <aref type='FREGIST'>
+            64 FR 72902, 72903
+          </aref>
+          , Dec. 29, 1999]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4837'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.3
+      </extid>
+      <num st='1'>
+        251.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          64 FR 72903
+        </aref>
+        , Dec. 29, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='3' psec='' tq='N'>
+              251.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The terms used in this part that are defined in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='250' tq='N'>
+                250 of this chapter
+              </subref>
+            </aref>
+             have the meanings ascribed to them therein, unless a different
+            meaning for such a term is defined herein.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Charitable institution
+            </E>
+             (which is defined differently in this part than in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='250' tq='N'>
+                250 of this chapter
+              </subref>
+            </aref>
+            ) means an organization which—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Is public, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Is private, possessing tax exempt status pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='5' psec='#a_3' tq='N'>
+                251.5(a)(3)
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Is not a penal institution (this exclusion also applies to
+            correctional institutions which conduct rehabilitation programs);
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Provides food assistance to needy persons.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Distribution site
+            </E>
+             means a location where the eligible recipient agency actually
+            distributes commodities to needy persons for household consumption
+            or serves prepared meals to needy persons under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Eligible recipient agency
+            </E>
+             means an organization which—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Is public, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Is private, possessing tax exempt status pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='5' psec='#a_3' tq='N'>
+                251.5(a)(3)
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Is not a penal institution; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Provides food assistance—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Exclusively to needy persons for household consumption, pursuant to
+            a means test established pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='5' psec='#b' tq='N'>
+                251.5 (b)
+              </subref>
+            </aref>
+            , or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Predominantly to needy persons in the form of prepared meals
+            pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='5' psec='#a_2' tq='N'>
+                251.5(a)(2)
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Has entered into an agreement with the designated State agency
+            pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='2' psec='#c' tq='N'>
+                251.2(c)
+              </subref>
+            </aref>
+             for the receipt of commodities or administrative funds, or receives
+            commodities or administrative funds under an agreement with another
+            eligible recipient agency which has signed such an agreement with
+            the State agency or another eligible recipient agency within the
+            State pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='2' psec='#c' tq='N'>
+                251.2(c)
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Falls into one of the following categories:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Emergency feeding organizations (including food banks, food
+            pantries and soup kitchens);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Charitable institutions (including hospitals and retirement homes);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Summer camps for children, or child nutrition programs providing
+            food service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Nutrition projects operating under the Older Americans Act of 1965
+            (Nutrition Program for the Elderly), including projects that operate
+            congregate Nutrition sites and projects that provide home-delivered
+            meals; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Disaster relief programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Emergency feeding organization
+            </E>
+             means an eligible recipient agency which provides nutrition
+            assistance to relieve situations of emergency and distress through
+            the provision of food to needy persons, including low-income and
+            unemployed persons. Emergency feeding organizations have priority
+            over other eligible recipient agencies 
+            <PRTPAGE P='584' />
+            in the distribution of TEFAP commodities pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='4' psec='#h' tq='N'>
+                251.4(h)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Food bank
+            </E>
+             means a public or charitable institution that maintains an
+            established operation involving the provision of food or edible
+            commodities, or the products of food or edible commodities, to food
+            pantries, soup kitchens, hunger relief centers, or other food or
+            feeding centers that, as an integral part of their normal
+            activities, provide meals or food to feed needy persons on a regular
+            basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Food pantry
+            </E>
+             means a public or private nonprofit organization that distributes
+            food to low-income and unemployed households, including food from
+            sources other than the Department of Agriculture, to relieve
+            situations of emergency and distress.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Formula
+            </E>
+             means the formula used by the Department to allocate among States
+            the commodities and funding available under this part. The amount of
+            such commodities and funds to be provided to each State will be
+            based on each State&apos;s population of low-income and unemployed
+            persons, as compared to national statistics. Each State&apos;s share
+            of commodities and funds shall be based 60 percent on the number of
+            persons in households within the State having incomes below the
+            poverty level and 40 percent on the number of unemployed persons
+            within the State. The surplus commodities will be allocated to
+            States on the basis of their weight (pounds), and the commodities
+            purchased under 
+            <aref type='UNKNOWN'>
+              section 214 of
+            </aref>
+             the Emergency Food Assistance Act of 1983 will be allocated on the
+            basis of their value (dollars). In instances in which a State
+            determines that it will not accept the full amount of its allocation
+            of commodities purchased under 
+            <aref type='UNKNOWN'>
+              section 214 of
+            </aref>
+             the Emergency Food Assistance Act of 1983, the Department will
+            reallocate the commodities to other States on the basis of the same
+            formula used for the initial allocation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              State agency
+            </E>
+             means the State government unit designated by the Governor or other
+            appropriate State executive authority which has entered into an
+            agreement with the United States Department of Agriculture under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='2' psec='#c' tq='N'>
+                251.2(c)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Soup kitchen
+            </E>
+             means a public or charitable institution that, as an integral part
+            of the normal activities of the institution, maintains an
+            established feeding operation to provide food to needy homeless
+            persons on a regular basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Value of commodities distributed
+            </E>
+             means the Department&apos;s cost of acquiring commodities for
+            distribution under this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            64 FR 72903
+          </aref>
+          , Dec. 29, 1999]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4838'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.4
+      </extid>
+      <num st='1'>
+        251.4
+      </num>
+      <head>
+        Availability of commodities.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          51 FR 12823
+        </aref>
+        , Apr. 16, 1986, as amended at 
+        <aref type='FREGIST'>
+          52 FR 17933
+        </aref>
+        , May 13, 1987; 
+        <aref type='FREGIST'>
+          52 FR 42634
+        </aref>
+        , Nov. 6, 1987; 
+        <aref type='FREGIST'>
+          59 FR 16974
+        </aref>
+        , Apr. 11, 1994; 
+        <aref type='FREGIST'>
+          64 FR 72904
+        </aref>
+        , Dec. 29, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='4' psec='' tq='N'>
+              251.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of commodities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             The Department shall make commodities available for distribution
+            and use in accordance with the provisions of this part and also in
+            accordance with the terms and conditions of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='250' tq='N'>
+                250 of this chapter
+              </subref>
+            </aref>
+             to the extent that the 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='250' tq='N'>
+                250
+              </subref>
+            </aref>
+             terms and conditions are not inconsistent with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Displacement.
+            </head>
+          </npcatch>
+          <text>
+             State agencies shall require that eligible recipient agencies
+            receiving commodities under this part shall not diminish their
+            normal expenditures for food because of receipt of commodities.
+            Additionally, the Secretary shall withhold commodities from
+            distribution if it is determined that the commodities would
+            substitute for the same or a similar product that would otherwise be
+            purchased in the market.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Allocations.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Allocations of commodities shall be made to State agencies on the
+            basis of the formula defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='3' psec='#h' tq='N'>
+                251.3(h)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             FNS shall promptly notify State agencies regarding their allocation
+            of commodities to be made available under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             State agencies shall notify the appropriate FNSRO of the amount of
+            the commodities they will accept not later than 30 days prior to the
+            beginning of the shipping period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Quantities requested.
+            </head>
+          </npcatch>
+          <text>
+             State agencies shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Request commodities only in quantities which can be utilized
+            without waste in providing food assistance to needy persons under
+            this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Ensure that no eligible recipient agency receives commodities in
+            excess of anticipated use, based on inventory records and controls,
+            or in excess of its ability to accept and store such commodities;
+            and
+            <PRTPAGE P='585' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Initial processing and packaging.
+            </head>
+          </npcatch>
+          <text>
+             The Department will furnish commodities to be distributed to
+            institutions and to needy persons in households in forms and units
+            suitable for institutional and home use.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Bulk processing by States.
+            </head>
+          </npcatch>
+          <text>
+             Commodities may be made available to a State agency or, at the
+            direction of the State agency, directly to private companies for
+            processing bulk commodities for use by eligible recipient agencies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Department will reimburse the State agency at the current flat
+            rate for such processing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Minimum yields and product specifications established by the
+            Department shall be met by the processor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The State shall require the processor to meet State and local
+            health standards.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The external shipping containers of processed products shall be
+            clearly labeled “Donated by the U.S. Department of Agriculture—Not
+            to be Sold or Exchanged”. Internal packaging shall be clearly marked
+            “Donated by the U.S. Department of Agriculture—Processed Under
+            Agreement with the State of ___.” FNS may grant waivers to the
+            internal label requirement if the enforcement of this requirement
+            precludes a State&apos;s participation in the program, or in cases
+            where other processors are not available who are able to meet the
+            labeling requirement within the allowed reimbursement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Processors and State agencies shall also meet the basic minimum
+            requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='250' sect='30' psec='' tq='N'>
+                250.30
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Availability and control of donated commodities.
+            </head>
+          </npcatch>
+          <text>
+             Donated commodities will be made available to State agencies only
+            for distribution and use in accordance with this part. Except as
+            otherwise provided in paragraph (f) of this section, donated
+            commodities not so distributed or used for any reason may not be
+            sold, exchanged, or otherwise disposed of without the approval of
+            the Department. However, donated commodities made available under 
+            <aref type='UNKNOWN'>
+              section 32 of
+            </aref>
+             Pub. L. 74-320 (
+            <aref type='USC'>
+              <subref title='7' sect='612c' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/612c.html'>
+                7 U.S.C. 612c
+              </subref>
+            </aref>
+            ) may be transferred by eligible recipient agencies receiving
+            commodities under this part, or recipient agencies, as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='250' sect='3' psec='' tq='N'>
+                250.3
+              </subref>
+               of this chapter
+            </aref>
+            , to any other eligible recipient agency or recipient agency which
+            agrees to use such donated foods to provide without cost or waste,
+            nutrition assistance to individuals in low-income groups. Such
+            transfers will be effected only with prior authorization by the
+            appropriate State agency and must be documented. Such documentation
+            shall be maintained in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='10' psec='#a' tq='N'>
+                251.10(a)
+              </subref>
+               of this part
+            </aref>
+             and 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='250' sect='16' psec='' tq='N'>
+                250.16
+              </subref>
+               of this chapter
+            </aref>
+             by the distributing agency and the State agency responsible for
+            administering TEFAP and made available for review upon request.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Distribution to eligible recipient agencies—priority system and
+              advisory boards.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             State agencies must distribute commodities made available under
+            this part to eligible recipient agencies in accordance with the
+            following priorities:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              First priority.
+            </head>
+          </npcatch>
+          <text>
+             When a State agency cannot meet all eligible recipient
+            agencies&apos; requests for TEFAP commodities, the State agency must
+            give priority in the distribution of such commodities to emergency
+            feeding organizations as defined under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='3' psec='#e' tq='N'>
+                251.3(e)
+              </subref>
+            </aref>
+            . A State agency may, at its discretion, concentrate commodity
+            resources upon a certain type or types of such organizations, to the
+            exclusion of others.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='h_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Second priority.
+            </head>
+          </npcatch>
+          <text>
+             After a State agency has distributed TEFAP commodities sufficient
+            to meet the needs of all emergency feeding organizations, the State
+            agency must distribute any remaining program commodities to other
+            eligible recipient agencies which serve needy people, but do not
+            relieve situations of emergency and distress. A State agency may, at
+            its discretion, concentrate commodity resources upon a certain type
+            or types of such organizations, to the exclusion of others.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Delegation.
+            </head>
+          </npcatch>
+          <text>
+             When a State agency has delegated to an eligible recipient agency
+            the authority to select other eligible recipient agencies, the
+            eligible recipient agency exercising this authority must ensure that
+            any TEFAP commodities are distributed in accordance with the
+            priority system set forth in paragraphs (h)(1)(i) and (h)(1)(ii) of
+            this section. State agencies and eligible recipient agencies will be
+            deemed to be in compliance with the priority system when eligible
+            recipient agencies distribute TEFAP commodities to 
+            <PRTPAGE P='586' />
+            meet the needs of all emergency feeding organizations under their
+            jurisdiction prior to making commodities available to eligible
+            recipient agencies which are not emergency feeding organizations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Existing networks.
+            </head>
+          </npcatch>
+          <text>
+             Subject to the constraints of paragraphs (h)(1)(i) and (h)(1)(ii)
+            of this section, State agencies may give priority in the
+            distribution of TEFAP commodities to existing food bank networks and
+            other organizations whose ongoing primary function is to facilitate
+            the distribution of food to low-income households, including food
+            from sources other than the Department.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              State advisory boards.
+            </head>
+          </npcatch>
+          <text>
+             Each State agency receiving TEFAP commodities is encouraged to
+            establish a State advisory board representing all types of entities
+            in the State, both public and private, interested in the
+            distribution of such commodities. Such advisory boards can provide
+            valuable advice on how resources should be allocated among various
+            eligible outlet types, what areas have the greatest need for food
+            assistance, and other important issues that will help States to use
+            their program resources in the most efficient and effective manner
+            possible. A State agency may expend TEFAP administrative funds to
+            support the activities of an advisory board in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='8' psec='' tq='N'>
+                251.8
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Distribution of non-USDA foods.
+            </head>
+          </npcatch>
+          <text>
+             Eligible recipient agencies may incorporate the distribution of
+            foods which have been donated by charitable organizations or other
+            entities with the distribution of USDA-donated commodities or
+            distribute them separately.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Interstate cooperation.
+            </head>
+          </npcatch>
+          <text>
+             State agencies may enter into interagency cooperative agreements to
+            provide jointly or to transfer commodities to an eligible recipient
+            agency that has signed an agreement with the respective State
+            agencies when such organization serves needy persons in a contiguous
+            area which crosses States&apos; borders.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Distribution in rural areas.
+            </head>
+          </npcatch>
+          <text>
+             State agencies shall encourage eligible recipient agencies to
+            implement or expand commodity distribution activities to relieve
+            situations of emergency and distress through the provision of
+            commodities to needy households in rural areas of the State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+            <head>
+              Commodity losses.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='l_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State agency shall be responsible for the loss of commodities:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             When the loss arises from the State agency&apos;s improper
+            distribution or use of any commodities or failure to provide proper
+            storage, care, or handling; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             When the State agency fails to pursue claims arising in its favor,
+            fails to provide for the rights to assert such claims, or fails to
+            require its eligible recipient agencies to provide for such rights.
+          </text>
+        </P>
+        <FP>
+          Except as provided in paragraph (l)(4) of this section, the State
+          agency shall begin claims action immediately upon receipt of
+          information concerning the improper distribution, loss of or damage to
+          commodities, and shall make a claim determination within 30 days of
+          the receipt of information, as described in further detail in FNS
+          Instruction 410-1, 
+          <E T='03'>
+            Non-Audit Claims—Food Distribution.
+          </E>
+           The funds received from the collection of claims shall be returned to
+          FNS. In instances in which it has been determined by the Department
+          that the collection of funds will have a significant adverse effect on
+          the operation of the program, the Department may permit in-kind
+          replacement of the donated foods in lieu of payment to FNS.
+          Replacement in kind will only be permitted under such terms and
+          conditions as agreed to by the Secretary.
+        </FP>
+        <P>
+          <npcatch lev='2' id='l_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the State agency itself causes the loss of commodities and the
+            value exceeds $250, the State agency shall immediately transmit the
+            claim determination to the FNS Regional Office, fully documented as
+            to facts and findings. Except as provided in paragraph (l)(4) of
+            this section, if the State agency itself causes the loss of
+            commodities, and the value does not exceed $250, the State agency
+            shall immediately return funds equal to the claim amount to FNS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the State agency determines that a claim exists against an
+            eligible recipient agency, warehouseman, carrier or any other entity
+            and the value of the lost commodities exceeds $2500, the State
+            agency shall immediately transmit the claim determination to the
+            appropriate FNS Regional Office, 
+            <PRTPAGE P='587' />
+            fully documented as to facts and findings. If FNS determines from
+            its review of the claim determination that a claim exists, the State
+            agency shall make demand for restitution upon the entity liable
+            immediately upon receipt of notice from the FNS Regional Office.
+            Except as provided in paragraph (l)(4) of this section, if the State
+            agency determines that a claim exists in favor of the State agency
+            against an eligible recipient agency, warehouseman, carrier or any
+            other entity and the value of the lost commodities does not exceed
+            $2500, the State agency shall immediately proceed to collect the
+            claim.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             No claim determination shall be required where the value of the
+            lost commodities is $100 or less. However, no such claim shall be
+            disregarded where:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             There is evidence of fraud or a violation of Federal, State or
+            local criminal law; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Program operations would be adversely affected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The State agency shall maintain records and substantiating
+            documents, on all claims actions and adjustments including
+            documentation of those cases in which no claim was asserted because
+            of the minimal amount involved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             In making final claim determinations for commodity losses incurred
+            by eligible recipient agencies when there is no evidence of fraud or
+            negligence, State agencies and FNS Regional Offices, as applicable,
+            shall consider the special needs and circumstances of the eligible
+            recipient agencies, and adjust the claim and/or conditions for claim
+            collection as appropriate. These special needs and circumstances
+            include but are not limited to the eligible recipient agency&apos;s
+            use of volunteers and limited financial resources and the effect of
+            the claim on the organization&apos;s ability to meet the food needs
+            of low-income populations.
+          </text>
+        </P>
+        <APPRO>
+          (Approved by the Office of Management and Budget under control number
+          0584-0313 and 0584-0341)
+        </APPRO>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            51 FR 12823
+          </aref>
+          , Apr. 16, 1986, as amended at 
+          <aref type='FREGIST'>
+            52 FR 17933
+          </aref>
+          , May 13, 1987; 
+          <aref type='FREGIST'>
+            52 FR 42634
+          </aref>
+          , Nov. 6, 1987; 
+          <aref type='FREGIST'>
+            59 FR 16974
+          </aref>
+          , Apr. 11, 1994; 
+          <aref type='FREGIST'>
+            64 FR 72904
+          </aref>
+          , Dec. 29, 1999]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4839'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.5
+      </extid>
+      <num st='1'>
+        251.5
+      </num>
+      <head>
+        Eligibility determinations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          64 FR 72904
+        </aref>
+        , Dec. 29, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='5' psec='' tq='N'>
+              251.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility determinations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Criteria for determining eligibility of organizations.
+            </head>
+          </npcatch>
+          <text>
+             Prior to making commodities or administrative funds available,
+            State agencies, or eligible recipient agencies to which the State
+            agency has delegated responsibility for the distribution of TEFAP
+            commodities or administrative funds, must ensure that an
+            organization applying for participation in the program meets the
+            definition of an “eligible recipient agency” under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='3' psec='#d' tq='N'>
+                251.3(d)
+              </subref>
+            </aref>
+            . In addition, applicant organizations must meet the following
+            criteria:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Agencies distributing to households.
+            </head>
+          </npcatch>
+          <text>
+             Organizations distributing commodities to households for home
+            consumption must limit the distribution of commodities provided
+            under this part to those households which meet the eligibility
+            criteria established by the State agency in accordance with
+            paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Agencies providing prepared meals.
+            </head>
+          </npcatch>
+          <text>
+             Organizations providing prepared meals must demonstrate, to the
+            satisfaction of the State agency, or eligible recipient agency to
+            which they have applied for the receipt of commodities or
+            administrative funds, that they serve predominantly needy persons.
+            State agencies may establish a higher standard than “predominantly”
+            and may determine whether organizations meet the applicable standard
+            by considering socioeconomic data of the area in which the
+            organization is located, or from which it draws its clientele. State
+            agencies may not, however, require organizations to employ a means
+            test to determine that recipients are needy, or to keep records
+            solely for the purpose of demonstrating that its recipients are
+            needy.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Tax-exempt status.
+            </head>
+          </npcatch>
+          <text>
+             Private organizations must—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Be currently operating another Federal program requiring tax-exempt
+            status under the Internal Revenue Code (IRC), or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Possess documentation from the Internal Revenue Service (IRS)
+            recognizing tax-exempt status under the IRC, or
+            <PRTPAGE P='588' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             If not in possession of such documentation, be automatically tax
+            exempt as “organized or operated exclusively for religious purposes”
+            under the IRC, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             If not in possession of such documentation, but required to file an
+            application under the IRC to obtain tax-exempt status, have made
+            application for recognition of such status and be moving toward
+            compliance with the requirements for recognition of tax-exempt
+            status. If the IRS denies a participating organization&apos;s
+            application for recognition of tax-exempt status, the organization
+            must immediately notify the State agency or the eligible recipient
+            agency, whichever is appropriate, of such denial, and that agency
+            will terminate the organization&apos;s agreement and participation
+            immediately upon receipt of such notification. If documentation of
+            IRS recognition of tax-exempt status has not been obtained and
+            forwarded to the appropriate agency within 180 days of the effective
+            date of the organization&apos;s approval for participation in TEFAP,
+            the State agency or eligible recipient agency must terminate the
+            organization&apos;s participation until such time as recognition of
+            tax-exempt status is actually obtained, except that the State agency
+            or eligible recipient agency may grant a single extension not to
+            exceed 90 days if the organization can demonstrate, to the State
+            agency&apos;s or eligible recipient agency&apos;s satisfaction, that
+            its inability to obtain tax-exempt status within the 180 day period
+            is due to circumstances beyond its control. It is the responsibility
+            of the organization to document that it has complied with all IRS
+            requirements and has provided all information requested by IRS in a
+            timely manner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Criteria for determining recipient eligibility.
+            </head>
+          </npcatch>
+          <text>
+             Each State agency must establish uniform Statewide criteria for
+            determining the eligibility of households to receive commodities
+            provided under this part for home consumption. The criteria must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Enable the State agency to ensure that only households which are in
+            need of food assistance because of inadequate household income
+            receive TEFAP commodities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Include income-based standards and the methods by which households
+            may demonstrate eligibility under such standards; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Include a requirement that the household reside in the geographic
+            location served by the State agency at the time of applying for
+            assistance, but length of residency shall not be used as an
+            eligibility criterion.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Delegation of authority.
+            </head>
+          </npcatch>
+          <text>
+             A State agency may delegate to one or more eligible recipient
+            agencies with which the State agency enters into an agreement the
+            responsibility for the distribution of commodities and
+            administrative funds made available under this part. State agencies
+            may also delegate the authority for selecting eligible recipient
+            agencies and for determining the eligibility of such organizations
+            to receive commodities and administrative funds. However,
+            responsibility for establishing eligibility criteria for
+            organizations in accordance with paragraph (a) of this section, and
+            for establishing recipient eligibility criteria in accordance with
+            paragraph (b) of this section, may not be delegated. In instances in
+            which State agencies delegate authority to eligible recipient
+            agencies to determine the eligibility of organizations to receive
+            commodities and administrative funds, eligibility must be determined
+            in accordance with the provisions contained in this part and the
+            State plan. State agencies will remain responsible for ensuring that
+            commodities and administrative funds are distributed in accordance
+            with the provisions contained in this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            64 FR 72904
+          </aref>
+          , Dec. 29, 1999]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4840'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.6
+      </extid>
+      <num st='1'>
+        251.6
+      </num>
+      <head>
+        Distribution plan.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          64 FR 72905
+        </aref>
+        , Dec. 29, 1999, as amended at 
+        <aref type='FREGIST'>
+          74 FR 62474
+        </aref>
+        , Nov. 30, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='6' psec='' tq='N'>
+              251.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Distribution plan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Contents of the plan.
+            </head>
+          </npcatch>
+          <text>
+             The State agency must submit for approval by the appropriate FNS
+            Regional Office a plan which contains:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A designation of the State agency responsible for distributing
+            commodities and administrative funds provided under this part, and
+            the address of such agency;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A plan of operation and administration to expeditiously distribute
+            commodities received under this part;
+            <PRTPAGE P='589' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the standards of eligibility for recipient
+            agencies, including any subpriorities within the two-tier priority
+            system; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A description of the criteria established in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='5' psec='#b' tq='N'>
+                251.5(b)
+              </subref>
+            </aref>
+             which must be used by eligible recipient agencies in determining
+            the eligibility of households to receive TEFAP commodities for home
+            consumption.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Plan submission and amendments.
+            </head>
+          </npcatch>
+          <text>
+             Once approved, State plans are permanent. State agencies must
+            submit amendments to the distribution plan when necessary to reflect
+            any changes in program operations or administration as described in
+            the plan, or at the request of FNS, to the appropriate FNS Regional
+            Office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Amendments.
+            </head>
+          </npcatch>
+          <text>
+             State agencies must submit amendments to the distribution plan to
+            the extent that such amendments are necessary to reflect any changes
+            in program operations or administration as described in the plan, or
+            at the request of FNS, to the appropriate FNS Regional Office.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            64 FR 72905
+          </aref>
+          , Dec. 29, 1999, as amended at 
+          <aref type='FREGIST'>
+            74 FR 62474
+          </aref>
+          , Nov. 30, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4841'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.7
+      </extid>
+      <num st='1'>
+        251.7
+      </num>
+      <head>
+        Formula adjustments.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          64 FR 72905
+        </aref>
+        , Dec. 29, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='7' psec='' tq='N'>
+              251.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Formula adjustments.
+        </SUBJECT>
+        <SUBJECT>
+          Formula adjustments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Commodity adjustments.
+            </head>
+          </npcatch>
+          <text>
+             The Department will make annual adjustments to the commodity
+            allocation for each State, based on updated unemployment statistics.
+            These adjusted allocations will be effective for the entire fiscal
+            year, subject to reallocation or transfer in accordance with this
+            part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Funds adjustments.
+            </head>
+          </npcatch>
+          <text>
+             The Department will make annual adjustments of the funds allocation
+            for each State based on updated unemployment statistics. These
+            adjusted allocations will be effective for the entire fiscal year
+            unless funds are recovered, withheld, or reallocated by FNS in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='8' psec='#f' tq='N'>
+                251.8(f)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            64 FR 72905
+          </aref>
+          , Dec. 29, 1999]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4842'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.8
+      </extid>
+      <num st='1'>
+        251.8
+      </num>
+      <head>
+        Payment of funds for administrative costs.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          51 FR 12823
+        </aref>
+        , Apr. 16, 1986, as amended at 
+        <aref type='FREGIST'>
+          59 FR 16974
+        </aref>
+        , Apr. 11, 1994; 
+        <aref type='FREGIST'>
+          64 FR 72906
+        </aref>
+        , Dec. 29, 1999; 
+        <aref type='FREGIST'>
+          74 FR 62474
+        </aref>
+        , Nov. 30, 2009]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='8' psec='' tq='N'>
+              251.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment of funds for administrative costs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Availability and allocation of funds.
+            </head>
+          </npcatch>
+          <text>
+             Funds made available to the Department for State and local costs
+            associated with the distribution of commodities under this part
+            shall, in any fiscal year, be distributed to each State agency on
+            the basis of the funding formula defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='3' psec='#h' tq='N'>
+                251.3(h)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Uniform Federal Assistance Regulations.
+            </head>
+          </npcatch>
+          <text>
+             Funds provided under this section shall be subject to the
+            Department&apos;s regulations issued under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3016' tq='N'>
+                3016
+              </subref>
+            </aref>
+             or 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            , as applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Payment to States.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Funds under this section shall be made available by means of
+            letters of credit in favor of the State agency. The State agency
+            shall use any funds received without delay in accordance with
+            paragraph (d) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Upon notification by the FNS Regional Office that an agreement has
+            been entered into in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='2' psec='#c' tq='N'>
+                251.2(c)
+              </subref>
+               of this part
+            </aref>
+            , FNS shall issue a grant award pursuant to procedures established
+            by FNS, and promptly make funds available to each State agency
+            within the State&apos;s allocation through issuance of a letter of
+            credit. To the extent funds are available and subject to the
+            provisions of paragraph (f) of this section, funds will be made
+            available to State agencies on an advance basis.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Each State agency shall return to FNS any funds made available
+            under this section either through the original allocation or through
+            subsequent reallocations which are unobligated as of the end of the
+            fiscal year for which they were made available. Such return shall be
+            made as soon as practicable but in no event later than 30 days
+            following demand made by FNS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Priority for eligible recipient agencies distributing USDA
+              commodities.
+            </head>
+          </npcatch>
+          <text>
+             State agencies and eligible recipient agencies distributing
+            administrative funds must ensure that the administrative funding
+            needs of eligible recipient agencies which receive USDA commodities
+            are met, relative to both USDA commodities and any non-USDA
+            commodities they may receive, before such funding is made available
+            to eligible recipient agencies which distribute only non-USDA
+            commodities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Use of funds—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Allowable administrative costs.
+            </head>
+          </npcatch>
+          <text>
+             State agencies and eligible recipient agencies may use funds made
+            available under this part to pay the direct expenses associated with
+            the distribution of USDA commodities and commodities secured from
+            other 
+            <PRTPAGE P='590' />
+            sources to the extent that the commodities are ultimately
+            distributed by eligible recipient agencies which have entered into
+            agreements in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='2' psec='' tq='N'>
+                251.2
+              </subref>
+            </aref>
+            . Direct expenses include the following, regardless of whether they
+            are charged to TEFAP as direct or indirect costs:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The intrastate and interstate transport, storing, handling,
+            repackaging, processing, and distribution of commodities (including
+            donated wild game); except that for interstate expenditures to be
+            allowable, the commodities must have been specifically earmarked for
+            the particular State or eligible recipient agency which incurs the
+            cost;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Costs associated with determinations of eligibility, verification,
+            and documentation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Costs of providing information to persons receiving USDA
+            commodities concerning the appropriate storage and preparation of
+            such commodities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Costs involved in publishing announcements of times and locations
+            of distribution; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Costs of recordkeeping, auditing, and other administrative
+            procedures required for program participation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              State restriction of administrative costs.
+            </head>
+          </npcatch>
+          <text>
+             A State agency may restrict the use of TEFAP administrative funds
+            by eligible recipient agencies by disallowing one or more types of
+            expenses expressly allowed in paragraph (e)(1) of this section. If a
+            State agency so restricts the use of administrative funds, the
+            specific types of expenses the State will allow eligible recipient
+            agencies to incur must be identified in the State agency&apos;s
+            agreements with its eligible recipient agencies, or set forth by
+            other written notification, incorporated into such agreements by
+            reference.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Agreements.
+            </head>
+          </npcatch>
+          <text>
+             In order to be eligible for funds under paragraph (e)(1) of this
+            section, eligible recipient agencies must have entered into an
+            agreement with the State agency or another eligible recipient agency
+            pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='2' psec='#c' tq='N'>
+                251.2(c)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Pass-through requirement-local support to emergency feeding
+              organizations.
+            </head>
+          </npcatch>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Not less than 40 percent of the Federal Emergency Food Assistance
+            Program administrative funds allocated to the State agency in
+            accordance with paragraph (a) of this section must be:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_4_v_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Provided by the State agency to emergency feeding organizations
+            that have signed an agreement with the State agency as either
+            reimbursement or advance payment for administrative costs incurred
+            by emergency feeding organizations in accordance with paragraph
+            (e)(1) of this section, except that such emergency feeding
+            organizations may retain advance payments only to the extent that
+            they actually incur such costs; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_4_v_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Directly expended by the State agency to cover administrative costs
+            incurred by, or on behalf of, emergency feeding organizations in
+            accordance with paragraph (e)(1) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Any funds allocated to or expended by the State agency to cover
+            costs incurred by eligible recipient agencies which are not
+            emergency feeding organizations shall not count toward meeting the
+            pass-through requirement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             State agencies must not charge for commodities made available under
+            this part to eligible recipient agencies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Recovery and reallocation.
+            </head>
+          </npcatch>
+          <text>
+             If, during the course of the fiscal year, the Department determines
+            that a State agency is unable to use all of the funds allocated to
+            it during the fiscal year, the Department shall recover or withhold
+            and reallocate such unused funds among other States.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            51 FR 12823
+          </aref>
+          , Apr. 16, 1986, as amended at 
+          <aref type='FREGIST'>
+            59 FR 16974
+          </aref>
+          , Apr. 11, 1994; 
+          <aref type='FREGIST'>
+            64 FR 72906
+          </aref>
+          , Dec. 29, 1999; 
+          <aref type='FREGIST'>
+            74 FR 62474
+          </aref>
+          , Nov. 30, 2009]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4843'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.9
+      </extid>
+      <num st='1'>
+        251.9
+      </num>
+      <head>
+        Matching of funds.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          52 FR 17934
+        </aref>
+        , May 13, 1987, as amended at 
+        <aref type='FREGIST'>
+          59 FR 16975
+        </aref>
+        , Apr. 11, 1994; 
+        <aref type='FREGIST'>
+          64 FR 72906
+        </aref>
+        , Dec. 29, 1999]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='9' psec='' tq='N'>
+              251.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Matching of funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              State matching requirement.
+            </head>
+          </npcatch>
+          <text>
+             The State must provide a cash or in-kind contribution equal to the
+            amount of TEFAP administrative funds received under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='8' psec='' tq='N'>
+                251.8
+              </subref>
+            </aref>
+             and retained by the State agency for State-level costs or made
+            available by the State agency directly to eligible recipient
+            agencies that are not emergency feeding organizations as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='3' psec='#e' tq='N'>
+                251.3(e)
+              </subref>
+            </aref>
+            . The State agency will not be required to match any portion of the
+            Federal grant passed through for administrative costs incurred by
+            emergency feeding organizations or directly expended by the State 
+            <PRTPAGE P='591' />
+            agency for such costs in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='8' psec='#e_4' tq='N'>
+                251.8(e)(4)
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Exceptions.
+            </head>
+          </npcatch>
+          <text>
+             In accordance with the provisions of 
+            <aref type='USC'>
+              <subref title='48' sect='1469a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/48/1469a.html'>
+                48 U.S.C. 1469a
+              </subref>
+            </aref>
+            , American Samoa, Guam, the Virgin Islands and the Northern Mariana
+            Islands shall be exempt from the matching requirements of paragraph
+            (a) of this section if their respective matching requirements are
+            under $200,000.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Applicable contributions.
+            </head>
+          </npcatch>
+          <text>
+             States shall meet the requirements of paragraph (a) of this section
+            through cash or in-kind contributions from sources other than
+            Federal funds which are prohibited by law from being used to meet a
+            Federally mandated State matching requirement. Such contributions
+            shall meet the requirements set forth in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3016' sect='24' psec='' tq='N'>
+                3016.24
+              </subref>
+            </aref>
+            . In accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3016' tq='N'>
+                3016
+              </subref>
+               or 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            , as applicable, the matching requirement shall not be met by
+            contributions for costs supported by another Federal grant, except
+            as provided by Federal statute. Allowable contributions are only
+            those contributions for costs which would otherwise be allowable as
+            State or local-level administrative costs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Cash.
+            </head>
+          </npcatch>
+          <text>
+             An allowable cash contribution is any cash outlay of the State
+            agency for a specifically identifiable allowable State- or
+            local-level administrative cost, including the outlay of money
+            contributed to the State agency by other public agencies and
+            institutions, and private organizations and individuals. Examples of
+            cash contributions include, but are not limited to, expenditures for
+            office supplies, storage space, transportation, loading facilities
+            and equipment, employees&apos; salaries, and other goods and
+            services specifically identifiable as State- or local-level
+            administrative costs for which there has been a cash outlay by the
+            State agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              In-kind.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Allowable in-kind contributions are any contributions, which are
+            non-cash outlays, of real property and non-expendable personal
+            property and the value of goods and services specifically
+            identifiable with allowable State administrative costs or, when
+            contributed by the State agency to an eligible recipient agency,
+            allowable local-level administrative costs. Examples of in-kind
+            contributions include, but are not limited to, the donation of
+            office supplies, storage space, vehicles to transport the
+            commodities, loading facilities and equipment such as pallets and
+            forklifts, and other non-cash goods or services specifically
+            identifiable with allowable State-level administrative costs or,
+            when contributed by the State agency to an eligible recipient
+            agency, allowable local-level administrative costs. In-kind
+            contributions shall be valued in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3016' tq='N'>
+                3016
+              </subref>
+               or 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            , as applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             In order for a third-party in-kind contribution to qualify as a
+            State-level administrative cost for purposes of meeting the match,
+            all of the following criteria shall be met:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='c_2_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             In its administration of food assistance programs, the State has
+            performed this type of function over a sustained period of time in
+            the past;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='c_2_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             The function was not previously performed by the State on behalf of
+            eligible recipient agencies; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='c_2_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             The State would normally perform the function as part of its
+            responsibility in administering TEFAP or related food assistance
+            programs if it were not provided as an in-kind contribution.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Assessment fees.
+            </head>
+          </npcatch>
+          <text>
+             States shall not assess any fees for the distribution of donated
+            foods to eligible recipient agencies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Reporting requirements.
+            </head>
+          </npcatch>
+          <text>
+             State agencies shall identify their matching contribution on the
+            FNS-667, Report of TEFAP Administrative Costs, in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='10' psec='#d' tq='N'>
+                251.10(d)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Failure to match.
+            </head>
+          </npcatch>
+          <text>
+             If, during the course of the fiscal year, the quarterly FNS-667
+            indicates that the State is or will be unable to meet the matching
+            requirements in whole or in part, the Department shall suspend or
+            disallow the unmatched portion of Federal funds subject to the
+            provisions of paragraph (a) of this section. If, upon submission of
+            the final FNS-667 for the fiscal year, the Department determines
+            that the State has not met the requirements of paragraph (a) of this
+            section in whole or in part, the unmatched portion of Federal funds
+            subject to the requirements of paragraph (a) of this section 
+            <PRTPAGE P='592' />
+            shall be subject to disallowance by FNS.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            52 FR 17934
+          </aref>
+          , May 13, 1987, as amended at 
+          <aref type='FREGIST'>
+            59 FR 16975
+          </aref>
+          , Apr. 11, 1994; 
+          <aref type='FREGIST'>
+            64 FR 72906
+          </aref>
+          , Dec. 29, 1999]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4844'>
+      <extid>
+        lii:cfr:2013:7:0:B:II:B:251:-:251.10
+      </extid>
+      <num st='1'>
+        251.10
+      </num>
+      <head>
+        Miscellaneous provisions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          51 FR 12823
+        </aref>
+        , Apr. 16, 1986. Redesignated and amended at 
+        <aref type='FREGIST'>
+          51 FR 17934
+        </aref>
+        , May 13, 1987; 
+        <aref type='FREGIST'>
+          53 FR 15357
+        </aref>
+        , Apr. 29, 1988; 
+        <aref type='FREGIST'>
+          59 FR 16975
+        </aref>
+        , Apr. 11, 1994; 
+        <aref type='FREGIST'>
+          62 FR 53731
+        </aref>
+        , Oct. 16, 1997; 
+        <aref type='FREGIST'>
+          64 FR 72907
+        </aref>
+        , Dec. 29, 1999; 
+        <aref type='FREGIST'>
+          72 FR 24184
+        </aref>
+        , May 2, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='251' sect='10' psec='' tq='N'>
+              251.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Miscellaneous provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Records—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Commodities.
+            </head>
+          </npcatch>
+          <text>
+             State agencies, subdistributing agencies (as defined in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='250' sect='3' psec='' tq='N'>
+                250.3
+              </subref>
+               of this chapter
+            </aref>
+            ), and eligible recipient agencies must maintain records to document
+            the receipt, disposal, and inventory of commodities received under
+            this part that they, in turn, distribute to eligible recipient
+            agencies. Such records must be maintained in accordance with the
+            requirements set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='250' sect='16' psec='' tq='N'>
+                250.16
+              </subref>
+               of this chapter
+            </aref>
+            . Eligible recipient agencies must sign a receipt for program
+            commodities which they receive under this part for distribution to
+            households or for use in preparing meals, and records of all such
+            receipts must be maintained.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Administrative funds.
+            </head>
+          </npcatch>
+          <text>
+             In addition to maintaining financial records in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3016' tq='N'>
+                3016
+              </subref>
+            </aref>
+            , State agencies must maintain records to document the amount of
+            funds received under this part and paid to eligible recipient
+            agencies for allowable administrative costs incurred by such
+            eligible recipient agencies. State agencies must also ensure that
+            eligible recipient agencies maintain such records.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Household information.
+            </head>
+          </npcatch>
+          <text>
+             Each distribution site must collect and maintain on record for each
+            household receiving TEFAP commodities for home consumption, the name
+            of the household member receiving commodities, the address of the
+            household (to the extent practicable), the number of persons in the
+            household, and the basis for determining that the household is
+            eligible to receive commodities for home consumption.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Record retention.
+            </head>
+          </npcatch>
+          <text>
+             All records required by this section must be retained for a period
+            of 3 years from the close of the Federal Fiscal Year to which they
+            pertain, or longer if related to an audit or investigation in
+            progress. State agencies may take physical possession of such
+            records on behalf of their eligible recipient agencies. However,
+            such records must be reasonably accessible at all times for use
+            during management evaluation reviews, audits or investigations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Commodities not income.
+            </head>
+          </npcatch>
+          <text>
+             In accordance with 
+            <aref type='UNKNOWN'>
+              section 206 of
+            </aref>
+            <aref target='_blank' title='Pub. L. 98-8' alt='Pub. L. 98-8' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d98:./list/bd/d98pl.lst:8%28Public_Laws%29'>
+              Pub. L. 98-8
+            </aref>
+            , as amended, and notwithstanding any other provision of law,
+            commodities distributed for home consumption and meals prepared from
+            commodities distributed under this part shall not be considered
+            income or resources for any purposes under any Federal, State, or
+            local law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Nondiscrimination.
+            </head>
+          </npcatch>
+          <text>
+             There shall be no discrimination in the distribution of foods for
+            home consumption or availability of meals prepared from commodities
+            donated under this part because of race, color, national origin,
+            sex, age, or handicap.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Reports—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              Submission of Form FNS-667.
+            </head>
+          </npcatch>
+          <text>
+             Designated State agencies must identify funds obligated and
+            disbursed to cover the costs associated with the program at the
+            State and local level. State and local costs must be identified
+            separately. The data must be identified on Form FNS-667, Report of
+            Administrative Costs (TEFAP) and submitted to the appropriate FNS
+            Regional Office on a quarterly basis. The quarterly report must be
+            submitted no later than 30 calendar days after the end of the
+            quarter to which it pertains. The final report must be submitted no
+            later than 90 calendar days after the end of the fiscal year to
+            which it pertains.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Reports of excessive inventory.
+            </head>
+          </npcatch>
+          <text>
+             Each State agency must complete and submit to the FNS Regional
+            Office reports to ensure that excessive inventories of donated foods
+            are not maintained, in accordance with the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='250' sect='17' psec='#a' tq='N'>
+                250.17(a)
+              </subref>
+               of this chapter
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              State monitoring system.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Each State agency must monitor the operation of the program to
+            ensure that it is being administered in accordance with Federal and
+            State requirements. State agencies may not delegate this
+            responsibility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Unless specific exceptions are approved in writing by FNS, the
+            State agency monitoring system must include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             An annual review of at least 25 percent of all eligible recipient
+            agencies which have signed an agreement with the State agency
+            pursuant to 
+            <PRTPAGE P='593' />
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='251' sect='2' psec='#c' tq='N'>
+                251.2(c)
+              </subref>
+            </aref>
+            , provided that each such agency must be reviewed no less frequently
+            than once every four years; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='e_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             An annual review of one-tenth or 20, whichever is fewer, of all
+            eligible recipient agencies which receive TEFAP commodities and/or
+            administrative funds pursuant to an agreement with another eligible
+            recipient agency. Reviews must be conducted, to the maximum extent
+            feasible, simultaneously with actual distribution of commodities
+            and/or meal service, and eligibility determinations, if applicable.
+            State agencies must develop a system for selecting eligible
+            recipient agencies for review that ensures deficiencies in program
+            administration are detected and resolved in an effective and
+            efficient manner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Each review must encompass, as applicable, eligibility
+            determinations, food ordering procedures, storage and warehousing
+            practices, inventory controls, approval of distribution sites,
+            reporting and recordkeeping requirements, and civil rights.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Upon concurrence by FNS, reviews of eligible recipient agencies
+            which have been conducted by FNS Regional Office personnel may be
+            incorporated into the minimum coverage required by paragraph (e)(2)
+            of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             If deficiencies are disclosed through the review of an eligible
+            recipient agency, the State agency must submit a report of the
+            review findings to the eligible recipient agency and ensure that
+            corrective action is taken to eliminate the deficiencies identified.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Limitation on unrelated activities.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Activities unrelated to the distribution of TEFAP foods or meal
+            service may be conducted at distribution sites as long as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The person(s) conducting the activity makes clear that the activity
+            is not part of TEFAP and is not endorsed by the Department
+            (impermissible activities include information not related to TEFAP
+            placed in or printed on bags, boxes, or other containers in which
+            commodities are distributed). Recipes or information about
+            commodities, dates of future distributions, hours of operations, or
+            other Federal, State, or local government programs or services for
+            the needy may be distributed without a clarification that the
+            information is not endorsed by the Department;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The person(s) conducting the activity makes clear that cooperation
+            is not a condition of the receipt of TEFAP commodities for home
+            consumption or prepared meals containing TEFAP commodities
+            (cooperation includes contributing money, signing petitions, or
+            conversing with the person(s)); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='f_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The activity is not conducted in a manner that disrupts the
+            distribution of TEFAP commodities or meal service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible recipient agencies and distribution sites shall ensure
+            that activities unrelated to the distribution of TEFAP foods or meal
+            service are conducted in a manner consistent with paragraph (f)(1)
+            of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Termination for violation.
+            </head>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (f)(4) of this section, State
+            agencies shall immediately terminate from further participation in
+            TEFAP operations any eligible recipient agency that distributes or
+            permits distribution of materials in a manner inconsistent with the
+            provisions of paragraph (f)(1) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Termination exception.
+            </head>
+          </npcatch>
+          <text>
+             The State agency may withhold termination of an eligible recipient
+            agency&apos;s or distribution site&apos;s TEFAP participation if the
+            State agency cannot find another eligible recipient agency to
+            operate the distribution in the area served by the violating
+            organization. In such circumstances, the State agency shall monitor
+            the violating organization to ensure that no further violations
+            occur.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Use of volunteer workers and non-USDA commodities.
+            </head>
+          </npcatch>
+          <text>
+             In the operation of the Emergency Food Assistance Program, State
+            agencies and eligible recipient agencies shall, to the maximum
+            extent practicable, use volunteer workers and foods which have been
+            donated by charitable and other types of organizations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Maintenance of effort.
+            </head>
+          </npcatch>
+          <text>
+             The State may not reduce the expenditure of its own funds to
+            provide commodities or services to organizations receiving funds or
+            services under the Emergency Food Assistance Act of 1983 below the
+            level of such expenditure existing in 
+            <PRTPAGE P='594' />
+            the fiscal year when the State first began administering TEFAP, or
+            Fiscal Year 1988, which is the fiscal year in which the
+            maintenance-of-effort requirement became effective, whichever is
+            later.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Data collection related to eligible recipient agencies.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='i_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Each State agency must collect data related to eligible recipient
+            agencies that have an agreement with the State agency to participate
+            in the program for each of Federal fiscal years 2006 through 2009,
+            including those eligible recipient agencies that participated only
+            for part of the fiscal year. Such data shall include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The name of each eligible recipient agency;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The city in which each participating eligible recipient agency was
+            headquartered and the name of the state;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The amount of funds provided to the participating organization,
+            i.e., the sum of the amount of federal administrative funds plus the
+            value of the commodities purchased under 
+            <aref type='UNKNOWN'>
+              Section 214 of
+            </aref>
+             the Emergency Food Assistance Act of 1983 provided to each
+            participating eligible recipient agency; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The type of participating organization, e.g., government agency,
+            educational institution, non-profit organization/secular, non-profit
+            organization/faith-based, and “other.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             On or before August 31, 2007, and each subsequent year through
+            2010, State agencies must report to FNS data as specified in
+            paragraph (i)(1) of this section for the prior Federal fiscal year.
+            State agencies must submit this data in a format designated by FNS.
+          </text>
+        </P>
+        <APPRO>
+          (Approved by the Office of Management and Budget under control number
+          0584-0313)
+        </APPRO>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            51 FR 12823
+          </aref>
+          , Apr. 16, 1986. Redesignated and amended at 
+          <aref type='FREGIST'>
+            51 FR 17934
+          </aref>
+          , May 13, 1987; 
+          <aref type='FREGIST'>
+            53 FR 15357
+          </aref>
+          , Apr. 29, 1988; 
+          <aref type='FREGIST'>
+            59 FR 16975
+          </aref>
+          , Apr. 11, 1994; 
+          <aref type='FREGIST'>
+            62 FR 53731
+          </aref>
+          , Oct. 16, 1997; 
+          <aref type='FREGIST'>
+            64 FR 72907
+          </aref>
+          , Dec. 29, 1999; 
+          <aref type='FREGIST'>
+            72 FR 24184
+          </aref>
+          , May 2, 2007]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

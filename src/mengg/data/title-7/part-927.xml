@@ -1,0 +1,4420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol8'>
+    <extid>
+      lii:cfr:2013:7:0:B:IX:-:927
+    </extid>
+    <num>
+      927
+    </num>
+    <head>
+      PEARS GROWN IN OREGON AND WASHINGTON
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='601-674' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601-674.html'>
+              7 U.S.C. 601-674
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            70 FR 29392
+          </aref>
+          , May 20, 2005, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='8271'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.1
+      </extid>
+      <num st='1'>
+        927.1
+      </num>
+      <head>
+        Secretary.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='1' psec='' tq='N'>
+              927.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Secretary.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of Agriculture of the United States, or any
+          officer or employee of the Department of Agriculture who has been
+          delegated, or to whom authority may hereafter be delegated, the
+          authority to act for the Secretary.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8272'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.2
+      </extid>
+      <num st='1'>
+        927.2
+      </num>
+      <head>
+        Act.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='2' psec='' tq='N'>
+              927.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Act.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Act
+          </E>
+           means Public Act No. 10, 73d Congress (May 12, 1933), as amended and
+          as 
+          <PRTPAGE P='179' />
+          reenacted and amended by the Agricultural Marketing Agreement Act of
+          1937, as amended (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=73_statutes2_at_large&amp;position=all&amp;page=31'>
+            48 Stat. 31
+          </aref>
+          , as amended; 
+          <aref type='USC'>
+            <subref title='7' sect='601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/601.html'>
+              7 U.S.C. 601
+            </subref>
+          </aref>
+           et seq.).
+        </P>
+      </contents>
+    </section>
+    <section orderid='8273'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.3
+      </extid>
+      <num st='1'>
+        927.3
+      </num>
+      <head>
+        Person.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='3' psec='' tq='N'>
+              927.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Person.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Person
+          </E>
+           means an individual partnership, corporation, association, legal
+          representative, or any other business unit.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8274'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.4
+      </extid>
+      <num st='1'>
+        927.4
+      </num>
+      <head>
+        Pears.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='4' psec='' tq='N'>
+              927.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Pears.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Pears
+            </E>
+             means and includes any and all varieties or subvarieties of pears
+            with the genus 
+            <E T='03'>
+              Pyrus
+            </E>
+             that are produced in the production area and are classified as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Summer/fall pears including Bartlett and Starkrimson pears;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Winter pears including Beurre D&apos;Anjou, Beurre Bosc, Doyenne du
+            Comice, Concorde, Forelle, Winter Nelis, Packham, Seckel, and
+            Taylor&apos;s Gold pears; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Other pears including any or all other varieties or subvarieties of
+            pears not classified as summer/fall or winter pears.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Fresh Pear Committee and/or the Processed Pear Committee, with
+            the approval of the Secretary, may recognize new or delete obsolete
+            varieties or subvarieties for each category.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8275'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.5
+      </extid>
+      <num st='1'>
+        927.5
+      </num>
+      <head>
+        Size.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='5' psec='' tq='N'>
+              927.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Size.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Size
+          </E>
+           means the number of pears which can be packed in a 44-pound net
+          weight standard box or container equivalent, or as “size” means the
+          greatest transverse diameter of the pear taken at right angles to a
+          line running from the stem to the blossom end, or such other
+          specifications more specifically defined in a regulation issued under
+          this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8276'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.6
+      </extid>
+      <num st='1'>
+        927.6
+      </num>
+      <head>
+        Grower.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='6' psec='' tq='N'>
+              927.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grower.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Grower
+          </E>
+           is synonymous with producer and means any person engaged in the
+          production of pears, either as owner or as tenant.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8277'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.7
+      </extid>
+      <num st='1'>
+        927.7
+      </num>
+      <head>
+        Handler.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='7' psec='' tq='N'>
+              927.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Handler.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Handler
+          </E>
+           is synonymous with shipper and means any person (except a common or
+          contract carrier transporting pears owned by another person) who, as
+          owner, agent, broker, or otherwise, ships or handles pears, or causes
+          pears to be shipped or handled by rail, truck, boat, or any other
+          means whatsoever.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8278'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.8
+      </extid>
+      <num st='1'>
+        927.8
+      </num>
+      <head>
+        Ship or handle.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='8' psec='' tq='N'>
+              927.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Ship or handle.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Ship or handle
+          </E>
+           means to sell, deliver, consign, transport or ship pears within the
+          production area or between the production area and any point outside
+          thereof, including receiving pears for processing: 
+          <E T='03'>
+            Provided
+          </E>
+          , That the term “handle” shall not include the transportation of pear
+          shipments within the production area from the orchard where grown to a
+          packing facility located within the production area for preparation
+          for market or delivery for processing.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8279'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.9
+      </extid>
+      <num st='1'>
+        927.9
+      </num>
+      <head>
+        Fiscal period.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='9' psec='' tq='N'>
+              927.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fiscal period.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Fiscal period
+          </E>
+           means the period beginning July 1 of any year and ending June 30 of
+          the following year or such may be approved by the Secretary pursuant
+          to a joint recommendation by the Fresh Pear Committee and the
+          Processed Pear Committee.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8280'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.10
+      </extid>
+      <num st='1'>
+        927.10
+      </num>
+      <head>
+        Production area.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='10' psec='' tq='N'>
+              927.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Production area.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Production area
+          </E>
+           means and includes the States of Oregon and Washington.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8281'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.11
+      </extid>
+      <num st='1'>
+        927.11
+      </num>
+      <head>
+        District.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='11' psec='' tq='N'>
+              927.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          District.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            District
+          </E>
+           means the applicable one of the following-described subdivisions of
+          the production area covered by the provisions of this subpart:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For the purpose of committee representation, administration and
+            application of provisions of this subpart as applicable to pears for
+            the fresh market, districts shall be defined as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Medford District
+            </E>
+             shall include all the counties in the State of Oregon except for
+            Hood River and Wasco counties.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Mid-Columbia District
+            </E>
+             shall include Hood River and Wasco counties in the State of Oregon,
+            and the counties of Skamania and Klickitat in the State of
+            Washington.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Wenatchee District
+            </E>
+             shall include the counties of King, Chelan, Okanogan, Douglas,
+            Grant, Lincoln, and Spokane in the State of Washington, and all
+            other counties in Washington lying north thereof.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Yakima District
+            </E>
+             shall include all of the State of Washington, not included 
+            <PRTPAGE P='180' />
+            in the Wenatchee District or in the Mid-Columbia District.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For the purpose of committee representation, administration and
+            application of provisions of this subpart as applicable to pears for
+            processing, districts shall be defined as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State of Washington.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The State of Oregon.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary, upon recommendation of the Fresh Pear Committee or
+            the Processed Pear Committee, may reestablish districts within the
+            production area.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8282'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.12
+      </extid>
+      <num st='1'>
+        927.12
+      </num>
+      <head>
+        Export market.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='12' psec='' tq='N'>
+              927.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Export market.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Export market
+          </E>
+           means any destination which is not within the 50 states, or the
+          District of Columbia, of the United States.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8283'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.13
+      </extid>
+      <num st='1'>
+        927.13
+      </num>
+      <head>
+        Subvariety.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='13' psec='' tq='N'>
+              927.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Subvariety.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Subvariety
+          </E>
+           means and includes any mutation, sport, or other derivation of any of
+          the varieties covered in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='4' psec='' tq='N'>
+              927.4
+            </subref>
+          </aref>
+           which is recognized by the Fresh Pear Committee or the Processed Pear
+          Committee and approved by the Secretary. Recognition of a subvariety
+          shall include classification within a varietal group for the purposes
+          of votes conducted under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='52' psec='' tq='N'>
+              927.52
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='8284'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.14
+      </extid>
+      <num st='1'>
+        927.14
+      </num>
+      <head>
+        Processor.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='14' psec='' tq='N'>
+              927.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Processor.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Processor
+          </E>
+           means any person who as owner, agent, broker, or otherwise,
+          commercially processes pears in the production area.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8285'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.15
+      </extid>
+      <num st='1'>
+        927.15
+      </num>
+      <head>
+        Process.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='15' psec='' tq='N'>
+              927.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Process.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Process
+          </E>
+           means to can, concentrate, freeze, dehydrate, press or puree pears,
+          or in any other way convert pears commercially into a processed
+          product.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8286'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.20
+      </extid>
+      <num st='1'>
+        927.20
+      </num>
+      <head>
+        Establishment and membership.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='20' psec='' tq='N'>
+              927.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Establishment and membership.
+        </SUBJECT>
+        <P>
+          There are hereby established two committees to administer the terms
+          and provisions of this subpart as specifically provided in 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='927' sect='20' psec='' tq='N'>
+              927.20
+            </subref>
+          </aref>
+           through 927.35:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A Fresh Pear Committee, consisting of 13 individual persons as its
+            members is established to administer order provisions relating to
+            the handling of pears for the fresh market. Six members of the Fresh
+            Pear Committee shall be growers, six members shall be handlers, and
+            one member shall represent the public. For each member there shall
+            be two alternates, designated as the “first alternate” and the
+            “second alternate,” respectively. Each district shall be represented
+            by one grower member and one handler member, except that the
+            Mid-Columbia District and the Wenatchee District shall be
+            represented by two grower members and two handler members.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A Processed Pear Committee consisting of 10 members is established
+            to administer order provisions relating to the handling of pears for
+            processing. Three members of the Processed Pear Committee shall be
+            growers, three members shall be handlers, three members shall be
+            processors, and one member shall represent the public. For each
+            member there shall be two alternates, designated as the “first
+            alternate” and the “second alternate,” respectively. District 1, the
+            State of Washington, shall be represented by two grower members, two
+            handler members and two processor members. District 2, the State of
+            Oregon, shall be represented by one grower member, one handler
+            member and one processor member.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary, upon recommendation of the Fresh Pear Committee or
+            the Processed Pear Committee may reapportion members among
+            districts, may change the number of members and alternates, and may
+            change the composition by changing the ratio of members, including
+            their alternates. In recommending any such changes, the following
+            shall be considered:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Shifts in pear acreage within districts and within the production
+            area during recent years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The importance of new pear production in its relation to existing
+            districts;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The equitable relationship between membership and districts;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Economies to result for growers in promoting efficient
+            administration due to redistricting or reapportionment of members
+            within districts; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Other relevant factors.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8287'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.21
+      </extid>
+      <num st='1'>
+        927.21
+      </num>
+      <head>
+        Nomination and selection of members and their respective alternates.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='181' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='21' psec='' tq='N'>
+              927.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Nomination and selection of members and their respective alternates.
+        </SUBJECT>
+        <P>
+          Grower members and their respective alternates for each district shall
+          be selected by the Secretary from nominees elected by the growers in
+          such district. Handler members and their respective alternates for
+          each district shall be selected by the Secretary from nominees elected
+          by the handlers in such district. Processor members and their
+          respective alternates shall be selected by the Secretary from nominees
+          elected by the processors. Public members for each committee shall be
+          nominated by the Fresh Pear Committee and the Processed Pear
+          Committee, each independently, and selected by the Secretary. The
+          Fresh Pear Committee and the Processed Pear Committee may, each
+          independently, prescribe such additional qualifications,
+          administrative rules and procedures for selection for each candidate
+          as it deems necessary and as the Secretary approves.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8288'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.22
+      </extid>
+      <num st='1'>
+        927.22
+      </num>
+      <head>
+        Meetings for election of nominees.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='22' psec='' tq='N'>
+              927.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Meetings for election of nominees.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Nominations for members of the Fresh Pear Committee and their
+            alternates shall be made at meetings of growers and handlers held in
+            each of the districts designated in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='11' psec='' tq='N'>
+                927.11
+              </subref>
+            </aref>
+             at such times and places designated by the Fresh Pear Committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Nominations for grower and handler members of the Processed Pear
+            Committee and their alternates shall be made at meetings of growers
+            and handlers held in each of the districts designated in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='11' psec='' tq='N'>
+                927.11
+              </subref>
+            </aref>
+             at such times and places designated by the Processed Pear
+            Committee. Nominations for processor members of the Processed Pear
+            Committee and their alternates shall be made at a meeting of
+            processors at such time and place designated by the Processed Pear
+            Committee.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8289'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.23
+      </extid>
+      <num st='1'>
+        927.23
+      </num>
+      <head>
+        Voting.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='23' psec='' tq='N'>
+              927.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Voting.
+        </SUBJECT>
+        <P>
+          Only growers in attendance at meetings for election of nominees shall
+          participate in the nomination of grower members and their alternates,
+          and only handlers in attendance at meetings for election of nominees
+          shall participate in the nomination of handler members and their
+          alternates, and only processors in attendance for election of nominees
+          shall participate in the nomination of processor members and their
+          alternates. A grower may participate only in the election held in the
+          district in which he or she produces pears, and a handler may
+          participate only in the election held in the district in which he or
+          she handles pears. Each person may vote as a grower, handler or
+          processor, but not a combination thereof. Each grower, handler and
+          processor shall be entitled to cast one vote, on behalf of himself,
+          his agents, partners, affiliates, subsidiaries, and representatives,
+          for each nominee to be elected.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8290'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.24
+      </extid>
+      <num st='1'>
+        927.24
+      </num>
+      <head>
+        Eligibility for membership.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='24' psec='' tq='N'>
+              927.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility for membership.
+        </SUBJECT>
+        <P>
+          Each grower member and each of his or her alternates shall be a
+          grower, or an officer or employee of a corporate or LLC grower, who
+          grows pears in the district in which and for which he or she is
+          nominated and selected. Each handler member and each of his or her
+          alternates shall be a handler, or an officer or employee of a handler,
+          handling pears in the district in and for which he or she is nominated
+          and selected. Each processor member and each of their alternates shall
+          be a processor, or an officer or employee of a processor, who
+          processes pears in the production area.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8291'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.25
+      </extid>
+      <num st='1'>
+        927.25
+      </num>
+      <head>
+        Failure to nominate.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='25' psec='' tq='N'>
+              927.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Failure to nominate.
+        </SUBJECT>
+        <P>
+          In the event nominations are not made pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='927' sect='21' psec='' tq='N'>
+              927.21
+            </subref>
+             and 
+            <subref title='7' part='927' sect='22' psec='' tq='N'>
+              927.22
+            </subref>
+          </aref>
+           on or before June 1 of any year, the Secretary may select members and
+          alternates for members without regard to nominations.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8292'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.26
+      </extid>
+      <num st='1'>
+        927.26
+      </num>
+      <head>
+        Qualifications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='26' psec='' tq='N'>
+              927.26
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Qualifications.
+        </SUBJECT>
+        <P>
+          Any person prior to or within 15 days after selection as a member or
+          as an alternate for a member of the Fresh Pear Committee or the
+          Processed Pear Committee shall qualify by filing with the Secretary a
+          written acceptance of the person&apos;s willingness to serve.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8293'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.27
+      </extid>
+      <num st='1'>
+        927.27
+      </num>
+      <head>
+        Term of office.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='27' psec='' tq='N'>
+              927.27
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Term of office.
+        </SUBJECT>
+        <P>
+          The term of office of each member and alternate member of the Fresh
+          Pear Committee and the Processed Pear Committee shall be for two years
+          beginning July 1 and ending June 30: 
+          <PRTPAGE P='182' />
+          <E T='03'>
+            Provided,
+          </E>
+           That the terms of office of one-half the initial members and
+          alternates shall end June 30, 2006; and that beginning with the
+          2005-2006 fiscal period, no member shall serve more than three
+          consecutive two-year terms unless specifically exempted by the
+          Secretary. Members and alternate members shall serve in such
+          capacities for the portion of the term of office for which they are
+          selected and have qualified and until their respective successors are
+          selected and have qualified. The terms of office of successor members
+          and alternates shall be so determined that one-half of the total
+          committee membership ends each June 30.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8294'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.28
+      </extid>
+      <num st='1'>
+        927.28
+      </num>
+      <head>
+        Alternates for members.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='28' psec='' tq='N'>
+              927.28
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Alternates for members.
+        </SUBJECT>
+        <P>
+          The first alternate for a member shall act in the place and stead of
+          the member for whom he or she is an alternate during such
+          member&apos;s absence. In the event of the death, removal,
+          resignation, or disqualification of a member, his or her first
+          alternate shall act as a member until a successor for the member is
+          selected and has qualified. The second alternate for a member shall
+          serve in the place and stead of the member for whom he or she is an
+          alternate whenever both the member and his or her first alternate are
+          unable to serve. In the event that a member of the Fresh Pear
+          Committee or the Processed Pear Committee and both that member&apos;s
+          alternates are unable to attend a meeting, the member may designate
+          any other alternate member from the same group (handler, processor, or
+          grower) to serve in that member&apos;s place and stead.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8295'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.29
+      </extid>
+      <num st='1'>
+        927.29
+      </num>
+      <head>
+        Vacancies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='29' psec='' tq='N'>
+              927.29
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Vacancies.
+        </SUBJECT>
+        <P>
+          To fill any vacancy occasioned by the failure of any person selected
+          as a member or as an alternate for a member of the Fresh Pear
+          Committee or the Processed Pear Committee to qualify, or in the event
+          of death, removal, resignation, or disqualification of any qualified
+          member or qualified alternate for a member, a successor for his or her
+          unexpired term shall be nominated and selected in the manner set forth
+          in 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='927' sect='20' psec='' tq='N'>
+              927.20
+            </subref>
+          </aref>
+           to 927.35. If nominations to fill any such vacancy are not made
+          within 20 days after such vacancy occurs, the Secretary may fill such
+          vacancy without regard to nominations.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8296'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.30
+      </extid>
+      <num st='1'>
+        927.30
+      </num>
+      <head>
+        Compensation and expenses.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='30' psec='' tq='N'>
+              927.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compensation and expenses.
+        </SUBJECT>
+        <P>
+          The members and alternates for members shall serve without
+          compensation, but may be reimbursed for expenses necessarily incurred
+          by them in the performance of their respective duties.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8297'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.31
+      </extid>
+      <num st='1'>
+        927.31
+      </num>
+      <head>
+        Powers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='31' psec='' tq='N'>
+              927.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Powers.
+        </SUBJECT>
+        <P>
+          The Fresh Pear Committee and the Processed Pear Committee shall have
+          the following powers to exercise each independently:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To administer, as specifically provided in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='927' sect='20' psec='' tq='N'>
+                927.20
+              </subref>
+            </aref>
+             to 927.35, the terms and provisions of this subpart:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To make administrative rules and regulations in accordance with,
+            and to effectuate, the terms and provisions of this subpart; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To receive, investigate, and report to the Secretary complaints of
+            violations of the provisions of this subpart.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8298'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.32
+      </extid>
+      <num st='1'>
+        927.32
+      </num>
+      <head>
+        Duties.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='32' psec='' tq='N'>
+              927.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Duties.
+        </SUBJECT>
+        <P>
+          The duties of the Fresh Pear Committee and the Processed Pear
+          Committee, each independently, shall be as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To act as intermediary between the Secretary and any grower,
+            handler or processor;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To keep minutes, books, and records which will reflect clearly all
+            of the acts and transactions. The minutes, books, and records shall
+            be subject at any time to examination by the Secretary or by such
+            person as may be designated by the Secretary;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To investigate, from time to time, and to assemble data on the
+            growing, harvesting, shipping, and marketing conditions relative to
+            pears, and to furnish to the Secretary such available information as
+            may be requested;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             To perform such duties as may be assigned to it from time to time
+            by the Secretary in connection with the administration of 
+            <aref type='UNKNOWN'>
+              section 32 of
+            </aref>
+             the Act to amend the Agricultural Adjustment Act, and for other
+            purposes, Public Act No. 320, 74th Congress, approved August 24,
+            1935 (
+            <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=74_statutes_at_large&amp;position=all&amp;page=774'>
+              49 Stat. 774
+            </aref>
+            ), as amended;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             To cause the books to be audited by one or more competent
+            accountants at the end of each fiscal year and at 
+            <PRTPAGE P='183' />
+            such other times as the Fresh Pear Committee or the Processed Pear
+            Committee may deem necessary or as the Secretary may request, and to
+            file with the Secretary copies of any and all audit reports made;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             To appoint such employees agents, and representatives as it may
+            deem necessary, and to determine the compensation and define the
+            duties of each;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             To give the Secretary, or the designated agent of the Secretary,
+            the same notice of meetings as is given to the members of the Fresh
+            Pear Committee or the Processed Pear Committee;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             To select a chairman of the Fresh Pear Committee or the Processed
+            Pear Committee and, from time to time, such other officers as it may
+            deem advisable and to define the duties of each; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             To submit to the Secretary as soon as practicable after the
+            beginning of each fiscal period, a budget for such fiscal year,
+            including a report in explanation of the items appearing therein and
+            a recommendation as to the rate of assessment for such period.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8299'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.33
+      </extid>
+      <num st='1'>
+        927.33
+      </num>
+      <head>
+        Procedure.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='33' psec='' tq='N'>
+              927.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Procedure.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Quorum and voting.
+            </head>
+          </npcatch>
+          <text>
+             A quorum at a meeting of the Fresh Pear Committee or the Processed
+            Pear Committee shall consist of 75 percent of the number of
+            committee members, or alternates then serving in the place of any
+            members, respectively. Except as otherwise provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='52' psec='' tq='N'>
+                927.52
+              </subref>
+            </aref>
+            , all decisions of the Fresh Pear Committee or the Processed Pear
+            Committee at any meeting shall require the concurring vote of at
+            least 75 percent of those members present, including alternates then
+            serving in the place of any members.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Mail voting.
+            </head>
+          </npcatch>
+          <text>
+             The Fresh Pear Committee or the Processed Pear Committee may
+            provide for members voting by mail, telecopier or other electronic
+            means, telephone, or telegraph, upon due notice to all members.
+            Promptly after voting by telephone or telegraph, each member thus
+            voting shall confirm in writing, the vote so cast.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8300'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.34
+      </extid>
+      <num st='1'>
+        927.34
+      </num>
+      <head>
+        Right of the Secretary.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='34' psec='' tq='N'>
+              927.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Right of the Secretary.
+        </SUBJECT>
+        <P>
+          The members and alternates for members and any agent or employee
+          appointed or employed by the Fresh Pear Committee or the Processed
+          Pear Committee shall be subject to removal or suspension by the
+          Secretary at any time. Each and every regulation, decision,
+          determination, or other act shall be subject to the continuing right
+          of the Secretary to disapprove of the same at any time, and, upon such
+          disapproval, shall be deemed null and void, except as to acts done in
+          reliance thereon or in compliance therewith prior to such disapproval
+          by the Secretary.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8301'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.35
+      </extid>
+      <num st='1'>
+        927.35
+      </num>
+      <head>
+        Funds and other property.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='35' psec='' tq='N'>
+              927.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Funds and other property.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All funds received pursuant to any of the provisions of this
+            subpart shall be used solely for the purposes specified in this
+            subpart, and the Secretary may require the Fresh Pear Committee or
+            the Processed Pear Committee and its members to account for all
+            receipts and disbursements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Upon the death, resignation, removal, disqualification, or
+            expiration of the term of office of any member or employee, all
+            books, records, funds, and other property in his or her possession
+            belonging to the Fresh Pear Committee or the Processed Pear
+            Committee shall be delivered to his or her successor in office or to
+            the Fresh Pear Committee or Processed Pear Committee, and such
+            assignments and other instruments shall be executed as may be
+            necessary to vest in such successor or in the Fresh Pear Committee
+            or Processed Pear Committee full title to all the books, records,
+            funds, and other property in the possession or under the control of
+            such member or employee pursuant to this subpart.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8302'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.40
+      </extid>
+      <num st='1'>
+        927.40
+      </num>
+      <head>
+        Expenses.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='40' psec='' tq='N'>
+              927.40
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Expenses.
+        </SUBJECT>
+        <P>
+          The Fresh Pear Committee and the Processed Pear Committee are
+          authorized, each independently, to incur such expenses as the
+          Secretary finds may be necessary to carry out their functions under
+          this subpart. The funds to cover such expenses shall be acquired by
+          the levying of assessments as provided in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='41' psec='' tq='N'>
+              927.41
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='8303'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.41
+      </extid>
+      <num st='1'>
+        927.41
+      </num>
+      <head>
+        Assessments.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='184' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='41' psec='' tq='N'>
+              927.41
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Assessments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Assessments will be levied only upon handlers who first handle
+            pears. Each handler shall pay assessments on all pears handled by
+            such handler as the pro rata share of the expenses which the
+            Secretary finds are reasonable and likely to be incurred by the
+            Fresh Pear Committee or the Processed Pear Committee during a fiscal
+            period. The payment of assessments for the maintenance and
+            functioning of the Fresh Pear Committee or the Processed Pear
+            Committee may be required under this part throughout the period such
+            assessments are payable irrespective of whether particular
+            provisions thereof are suspended or become inoperative.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Based upon a recommendation of the Fresh Pear Committee or other
+            available data, the Secretary shall fix three base rates of
+            assessment for pears that handlers shall pay on pears handled for
+            the fresh market during each fiscal period. Such base rates shall
+            include one rate of assessment for any or all varieties or
+            subvarieties of pears classified as summer/fall; one rate of
+            assessment for any or all varieties or subvarieties of pears,
+            classified as winter; and one rate of assessment for any or all
+            varieties or subvarieties of pears classified as other. Upon
+            recommendation of the Fresh Pear Committee or other available data,
+            the Secretary may also fix supplemental rates of assessment on
+            individual varieties or subvarieties categorized within the
+            assessment classifications in this paragraph (b)(1) to secure
+            sufficient funds to provide for projects authorized under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='47' psec='' tq='N'>
+                927.47
+              </subref>
+            </aref>
+            . At any time during the fiscal period when it is determined on the
+            basis of a Fresh Pear Committee recommendation or other information
+            that different rates are necessary for fresh pears or for any
+            varieties or subvarieties, the Secretary may modify those rates of
+            assessment and such new rate shall apply to any or all varieties or
+            subvarieties that are shipped during the fiscal period for fresh
+            market.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Based upon a recommendation of the Processed Pear Committee or
+            other available data, the Secretary shall fix three base rates of
+            assessment for pears that handlers shall pay on pears handled for
+            processing during each fiscal period. Such base rates shall include
+            one rate of assessment for any or all varieties or subvarieties of
+            pears classified as summer/fall; one rate of assessment for any or
+            all varieties or subvarieties of pears, classified as winter; and
+            one rate of assessment for any or all varieties or subvarieties of
+            pears classified as other. Upon recommendation of the Processed Pear
+            Committee or other available data, the Secretary may also fix
+            supplemental rates of assessment on individual varieties or
+            subvarieties categorized within the assessment classifications
+            defined in paragraph (b)(1) of this section to secure sufficient
+            funds to provide for projects authorized under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='47' psec='' tq='N'>
+                927.47
+              </subref>
+            </aref>
+            . At any time during the fiscal period when it is determined on the
+            basis of a Processed Pear Committee recommendation or other
+            information that different rates are necessary for pears for
+            processing or for any varieties or subvarieties, the Secretary may
+            modify those rates of assessment and such new rate shall apply to
+            any or all varieties or subvarieties of pears that are shipped
+            during the fiscal period for processing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Based on the recommendation of the Fresh Pear Committee, the
+            Processed Pear Committee or other available data, the Secretary may
+            establish additional base rates of assessments, or change or modify
+            the base rate classifications defined in paragraphs (a) and (b) of
+            this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Fresh Pear Committee or the Processed Pear Committee may impose
+            a late payment charge on any handler who fails to pay any assessment
+            within the time prescribed. In the event the handler thereafter
+            fails to pay the amount outstanding, including the late payment
+            charge, within the prescribed time, the Fresh Pear Committee or the
+            Processed Pear Committee may impose an additional charge in the form
+            of interest on such outstanding amount. The Fresh Pear Committee or
+            the Processed Pear Committee, with the approval of the Secretary,
+            shall prescribe the amount of such late payment charge and rate of
+            interest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             In order to provide funds to carry out the functions of the Fresh
+            Pear Committee or the Processed Pear Committee prior to commencement
+            of shipments in any season, handlers may 
+            <PRTPAGE P='185' />
+            make advance payments of assessments, which advance payments shall
+            be credited to such handlers and the assessments of such handlers
+            shall be adjusted so that such assessments are based upon the
+            quantity of each variety or subvariety of pears handled by such
+            handlers during such season. Further, payment discounts may be
+            authorized by the Fresh Pear Committee or the Processed Pear
+            Committee upon the approval of the Secretary to handlers making such
+            advance assessment payments.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8304'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.42
+      </extid>
+      <num st='1'>
+        927.42
+      </num>
+      <head>
+        Accounting.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='42' psec='' tq='N'>
+              927.42
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Accounting.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If, at the end of a fiscal period, the assessments collected are in
+            excess of expenses incurred, the Fresh Pear Committee or the
+            Processed Pear Committee may carryover such excess into subsequent
+            fiscal periods as a reserve: 
+            <E T='03'>
+              Provided,
+            </E>
+             That funds already in the reserve do not exceed approximately one
+            fiscal period&apos;s expenses. Such reserve may be used to cover any
+            expense authorized under this part and to cover necessary expenses
+            of liquidation in the event of termination of this part. Any such
+            excess not retained in a reserve or applied to any outstanding
+            obligation of the person from whom it was collected shall be
+            refunded proportionately to the persons from whom it was collected.
+            Upon termination of this part, any funds not required to defray the
+            necessary expenses of liquidation shall be disposed of in such
+            manner as the Secretary may determine to be appropriate: 
+            <E T='03'>
+              Provided,
+            </E>
+             That to the extent practical, such funds shall be returned pro rata
+            to the persons from whom such funds were collected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All funds received pursuant to the provisions of this part shall be
+            used solely for the purpose specified in this part and shall be
+            accounted for in the manner provided in this part. The Secretary may
+            at any time require the Fresh Pear Committee or the Processed Pear
+            Committee and its members to account for all receipts and
+            disbursements.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8305'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.43
+      </extid>
+      <num st='1'>
+        927.43
+      </num>
+      <head>
+        Use of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='43' psec='' tq='N'>
+              927.43
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Use of funds.
+        </SUBJECT>
+        <P>
+          From the funds acquired pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='41' psec='' tq='N'>
+              927.41
+            </subref>
+          </aref>
+           the Fresh Pear Committee and the Processed Pear Committee, each
+          independently, shall pay the salaries of its employees, if any, and
+          pay the expenses necessarily incurred in the performance of the duties
+          of the Fresh Pear Committee or the Processed Pear Committee.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8306'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.44
+      </extid>
+      <num st='1'>
+        927.44
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='44' psec='' tq='N'>
+              927.44
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='8307'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.45
+      </extid>
+      <num st='1'>
+        927.45
+      </num>
+      <head>
+        Contributions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='45' psec='' tq='N'>
+              927.45
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contributions.
+        </SUBJECT>
+        <P>
+          The Fresh Pear Committee or the Processed Pear Committee may accept
+          voluntary contributions, but these shall only be used to pay expenses
+          incurred pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='47' psec='' tq='N'>
+              927.47
+            </subref>
+          </aref>
+          . Furthermore, such contributions shall be free from any encumbrances
+          by the donor, and the Fresh Pear Committee or the Processed Pear
+          Committee shall retain complete control of their use.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8308'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.47
+      </extid>
+      <num st='1'>
+        927.47
+      </num>
+      <head>
+        Research and development.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='47' psec='' tq='N'>
+              927.47
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Research and development.
+        </SUBJECT>
+        <P>
+          The Fresh Pear Committee or the Processed Pear Committee, with the
+          approval of the Secretary, may establish or provide for the
+          establishment of production and post-harvest research, or marketing
+          research and development projects designed to assist, improve, or
+          promote the marketing, distribution, and consumption of pears. Such
+          projects may provide for any form of marketing promotion, including
+          paid advertising. The expense of such projects shall be paid from
+          funds collected pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='927' sect='41' psec='' tq='N'>
+              927.41
+            </subref>
+             and 
+            <subref title='7' part='927' sect='45' psec='' tq='N'>
+              927.45
+            </subref>
+          </aref>
+          . Expenditures for a particular variety or subvariety of pears shall
+          approximate the amount of assessments and voluntary contributions
+          collected for that variety or subvariety of pears.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8309'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.50
+      </extid>
+      <num st='1'>
+        927.50
+      </num>
+      <head>
+        Marketing policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='50' psec='' tq='N'>
+              927.50
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Marketing policy.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             It shall be the duty of the Fresh Pear Committee to investigate,
+            from time to time, supply and demand conditions relative to pears
+            and each grade, size, and quality of each variety or subvariety
+            thereof. Such investigations shall be with respect to the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated production of each variety or subvariety of pears and of
+            each grade, size, and quality thereof;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Prospective supplies and prices of pears and other fruits, both in
+            fresh 
+            <PRTPAGE P='186' />
+            and processed form, which are competitive to the marketing of pears;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Prospective exports of pears and imports of pears from other
+            producing areas;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Probable harvesting period for each variety or subvariety of pears;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The trend and level of consumer income;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             General economic conditions; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Other relevant factors.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             On or before August 1 of each year, the Fresh Pear Committee shall
+            recommend regulations to the Secretary if it finds, on the basis of
+            the investigations specified in this section, that such regulation
+            as is provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='51' psec='' tq='N'>
+                927.51
+              </subref>
+            </aref>
+             will tend to effectuate the declared policy of the act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In the event the Fresh Pear Committee at any time finds that by
+            reason of changed conditions any regulation issued pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='51' psec='' tq='N'>
+                927.51
+              </subref>
+            </aref>
+             should be modified, suspended, or terminated, it shall so recommend
+            to the Secretary.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8310'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.51
+      </extid>
+      <num st='1'>
+        927.51
+      </num>
+      <head>
+        Issuance of regulations; and modification, suspension, or termination
+        thereof.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='51' psec='' tq='N'>
+              927.51
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Issuance of regulations; and modification, suspension, or termination
+          thereof.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever the Secretary finds, from the recommendations and
+            information submitted by the Fresh Pear Committee, or from other
+            available information, that regulation, in the manner specified in
+            this section, of the shipment of fresh pears would tend to
+            effectuate the declared policy of the act, he or she shall so limit
+            the shipment of such pears during a specified period or periods.
+            Such regulation may:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Limit the total quantity of any grade, size, quality, or
+            combinations thereof, of any variety or subvariety of pears grown in
+            any district and may prescribe different requirements applicable to
+            shipments to different export markets;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Limit, during any period or periods, the shipment of any particular
+            grade, size, quality, or any combination thereof, of any variety or
+            subvariety, of pears grown in any district or districts of the
+            production area; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Provide a method, through rules and regulation issued pursuant to
+            this part, for fixing markings on the container or containers, which
+            may be used in the packaging or handling of pears, including
+            appropriate logo or other container markings to identify the
+            contents thereof.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever the Secretary finds, from the recommendations and
+            information submitted by the Fresh Pear Committee, or from other
+            available information, that a regulation should be modified,
+            suspended, or terminated with respect to any or all shipments of
+            fresh pears grown in any district in order to effectuate the
+            declared policy of the act, he or she shall so modify, suspend, or
+            terminate such regulation. If the Secretary finds, from the
+            recommendations and information submitted by the Fresh Pear
+            Committee, or from other available information, that a regulation
+            obstructs or does not tend to effectuate the declared policy of the
+            act, he or she shall suspend or terminate such regulation. On the
+            same basis and in like manner, the Secretary may terminate any such
+            modification or suspension.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8311'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.52
+      </extid>
+      <num st='1'>
+        927.52
+      </num>
+      <head>
+        Prerequisites to recommendations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='52' psec='' tq='N'>
+              927.52
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Prerequisites to recommendations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Decisions of the Fresh Pear Committee or the Processed Pear
+            Committee with respect to any recommendations to the Secretary
+            pursuant to the establishment or modification of a supplemental rate
+            of assessment for an individual variety or subvariety of pears shall
+            be made by affirmative vote of not less than 75 percent of the
+            applicable total number of votes, computed in the manner described
+            in paragraph (b) of this section, of all members. Decisions of the
+            Fresh Pear Committee pursuant to the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='50' psec='' tq='N'>
+                927.50
+              </subref>
+            </aref>
+             shall be made by an affirmative vote of not less than 80 percent of
+            the applicable total number of votes, computed in the manner
+            prescribed in paragraph (b) of this section, of all members.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             With respect to a particular variety or subvariety of pears, the
+            applicable total number of votes shall be the aggregate of the votes
+            allotted to the members in accordance with the following: Each
+            member shall have one vote as an individual and, in addition, shall
+            have a vote equal to the percentage of the vote of the district
+            represented by such member; and such district vote shall be computed
+            as soon as 
+            <PRTPAGE P='187' />
+            practical after the beginning of each fiscal period on either:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The basis of one vote for each 25,000 boxes (except 2,500 boxes for
+            varieties or subvarieties with less than 200,000 standard boxes or
+            container equivalents) of the average quantity of such variety or
+            subvariety produced in the particular district and shipped therefrom
+            during the immediately preceding three fiscal periods; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Such other basis as the Fresh Pear Committee or the Processed Pear
+            Committee may recommend and the Secretary may approve. The votes so
+            allotted to a member may be cast by such member on each
+            recommendation relative to the variety or subvariety of pears on
+            which such votes were computed.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8312'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.53
+      </extid>
+      <num st='1'>
+        927.53
+      </num>
+      <head>
+        Notification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='53' psec='' tq='N'>
+              927.53
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notification.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Fresh Pear Committee shall give prompt notice to growers and
+            handlers of each recommendation to the Secretary pursuant to the
+            provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='927' sect='50' psec='' tq='N'>
+                927.50
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall immediately notify the Fresh Pear Committee of
+            the issuance of each regulation and of each modification,
+            suspension, or termination of a regulation and the Fresh Pear
+            Committee shall give prompt notice thereof to growers and handlers.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8313'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.54
+      </extid>
+      <num st='1'>
+        927.54
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='54' psec='' tq='N'>
+              927.54
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='8314'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.60
+      </extid>
+      <num st='1'>
+        927.60
+      </num>
+      <head>
+        Inspection and certification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='60' psec='' tq='N'>
+              927.60
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspection and certification.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Handlers shall ship only fresh pears inspected by the Federal-State
+            Inspection Service or under a program developed by the Federal-State
+            Inspection Service: except, that such inspection and certification
+            of shipments of pears may be performed by such other inspection
+            service as the Fresh Pear Committee, with the approval of the
+            Secretary, may designate. Promptly after shipment of any pears, the
+            handler shall submit, or cause to be submitted, to the Fresh Pear
+            Committee a copy of the inspection certificate issued on such
+            shipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any handler may ship pears, on any one conveyance and in such
+            quantity as the committee, with the approval of the Secretary, may
+            prescribe, exempt from the inspection and certification requirements
+            of paragraph (a) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Fresh Pear Committee may, with the approval of the Secretary,
+            prescribe rules and regulations modifying or eliminating the
+            requirement for mandatory inspection and certification of shipments:
+            Provided, That an adequate method of ensuring compliance with
+            quality and size requirements is developed.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8315'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.65
+      </extid>
+      <num st='1'>
+        927.65
+      </num>
+      <head>
+        Exemption from regulation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='65' psec='' tq='N'>
+              927.65
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exemption from regulation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Nothing contained in this subpart shall limit or authorize the
+            limitation of shipment of pears for consumption by charitable
+            institutions or distribution by relief agencies, nor shall any
+            assessment be computed on pears so shipped. The Fresh Pear Committee
+            or the Processed Pear Committee may prescribe regulations to prevent
+            pears shipped for either of such purposes from entering commercial
+            channels of trade contrary to the provisions of this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Fresh Pear Committee or the Processed Pear Committee may
+            prescribe rules and regulations, to become effective upon the
+            approval of the Secretary, whereby quantities of pears or types of
+            pear shipments may be exempted from any or all provisions of this
+            subpart.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8316'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.70
+      </extid>
+      <num st='1'>
+        927.70
+      </num>
+      <head>
+        Reports.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='70' psec='' tq='N'>
+              927.70
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reports.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Upon the request of the Fresh Pear Committee or the Processed Pear
+            Committee, and subject to the approval of the Secretary, each
+            handler shall furnish to the aforesaid committee, respectively, in
+            such manner and at such times as it prescribes, such information as
+            will enable it to perform its duties under this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All such reports shall be held under appropriate protective
+            classification and custody by the Fresh Pear Committee or the
+            Processed Pear Committee, or duly appointed employees thereof, so
+            that the information contained therein which may adversely affect
+            the competitive position of any handler in relation to other
+            handlers 
+            <PRTPAGE P='188' />
+            will not be disclosed. Compilations of general reports from data
+            submitted by handlers are authorized subject to the prohibition of
+            disclosure of individual handler&apos;s identities or operations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler shall maintain for at least two succeeding years such
+            records of the pears received and of pears disposed of, by such
+            handler as may be necessary to verify reports pursuant to this
+            section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8317'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.71
+      </extid>
+      <num st='1'>
+        927.71
+      </num>
+      <head>
+        Compliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='71' psec='' tq='N'>
+              927.71
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance.
+        </SUBJECT>
+        <P>
+          Except as provided in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='65' psec='' tq='N'>
+              927.65
+            </subref>
+          </aref>
+          , no handler shall ship any pears contrary to the applicable
+          restrictions and limitations specified in, or effective pursuant to,
+          the provisions of this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8318'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.72
+      </extid>
+      <num st='1'>
+        927.72
+      </num>
+      <head>
+        Duration of immunities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='72' psec='' tq='N'>
+              927.72
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Duration of immunities.
+        </SUBJECT>
+        <P>
+          The benefits, privileges, and immunities conferred by virtue of this
+          subpart shall cease upon termination hereof, except with respect to
+          acts done under and during the existence of this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8319'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.73
+      </extid>
+      <num st='1'>
+        927.73
+      </num>
+      <head>
+        Separability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='73' psec='' tq='N'>
+              927.73
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Separability.
+        </SUBJECT>
+        <P>
+          If any provision of this subpart is declared invalid, or the
+          applicability thereof to any person, circumstance, or thing is held
+          invalid, the validity of the remaining provisions and the
+          applicability thereof to any other person, circumstance, or thing
+          shall not be affected thereby.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8320'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.74
+      </extid>
+      <num st='1'>
+        927.74
+      </num>
+      <head>
+        Derogation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='74' psec='' tq='N'>
+              927.74
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Derogation.
+        </SUBJECT>
+        <P>
+          Nothing contained in this subpart is or shall be construed to be in
+          derogation of, or in modification of, the rights of the Secretary or
+          of the United States to exercise any powers granted by the act or
+          otherwise, or, in accordance with such powers, to act in the premises
+          whenever such action is deemed advisable.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8321'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.75
+      </extid>
+      <num st='1'>
+        927.75
+      </num>
+      <head>
+        Liability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='75' psec='' tq='N'>
+              927.75
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Liability.
+        </SUBJECT>
+        <P>
+          No member or alternate for a member of the Fresh Pear Committee or the
+          Processed Pear Committee, nor any employee or agent thereof, shall be
+          held personally responsible, either individually or jointly with
+          others, in any way whatsoever, to any party under this subpart or to
+          any other person for errors in judgment, mistakes, or other acts,
+          either of commission or omission, as such member, alternate for a
+          member, agent or employee, except for acts of dishonesty, willful
+          misconduct, or gross negligence.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8322'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.76
+      </extid>
+      <num st='1'>
+        927.76
+      </num>
+      <head>
+        Agents.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='76' psec='' tq='N'>
+              927.76
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Agents.
+        </SUBJECT>
+        <P>
+          The Secretary may name, by designation in writing, any person,
+          including any officer or employee of the Government or any bureau or
+          division in the Department of Agriculture to act as his or her agent
+          or representative in connection with any of the provisions of this
+          subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8323'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.77
+      </extid>
+      <num st='1'>
+        927.77
+      </num>
+      <head>
+        Effective time.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='77' psec='' tq='N'>
+              927.77
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effective time.
+        </SUBJECT>
+        <P>
+          The provisions of this subpart and of any amendment thereto shall
+          become effective at such time as the Secretary may declare, and shall
+          continue in force until terminated in one of the ways specified in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='78' psec='' tq='N'>
+              927.78
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='8324'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.78
+      </extid>
+      <num st='1'>
+        927.78
+      </num>
+      <head>
+        Termination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='78' psec='' tq='N'>
+              927.78
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Termination.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary may at any time terminate this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall terminate or suspend the operation of any or
+            all of the provisions of this subpart whenever he or she finds that
+            such operation obstructs or does not tend to effectuate the declared
+            policy of the act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall terminate the provisions of this subpart
+            applicable to fresh pears for market or pears for processing at the
+            end of any fiscal period whenever the Secretary finds, by referendum
+            or otherwise, that such termination is favored by a majority of
+            growers of fresh pears for market or pears for processing,
+            respectively: 
+            <E T='03'>
+              Provided
+            </E>
+            , That such majority has during such period produced more than 50
+            percent of the volume of fresh pears for market or pears for
+            processing, respectively, in the production area. Such termination
+            shall be effective only if announced on or before the last day of
+            the then current fiscal period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Secretary shall conduct a referendum within every six-year
+            period beginning on May 21, 2005, to ascertain whether continuance
+            of the provisions of this subpart applicable to fresh pears for
+            market or pears for processing are favored by producers of pears for
+            the fresh market and pears for processing, respectively. The
+            Secretary may terminate the provisions of this subpart at 
+            <PRTPAGE P='189' />
+            the end of any fiscal period in which the Secretary has found that
+            continuance of this subpart is not favored by producers who, during
+            a representative period determined by the Secretary, have been
+            engaged in the production of fresh pears for market or pears for
+            processing in the production area: 
+            <E T='03'>
+              Provided
+            </E>
+            , That termination of the order shall be effective only if announced
+            on or before the last day of the then current fiscal period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The provisions of this part shall, in any event, terminate whenever
+            the provisions of the act authorizing them cease to be in effect.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8325'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.79
+      </extid>
+      <num st='1'>
+        927.79
+      </num>
+      <head>
+        Proceedings after termination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='79' psec='' tq='N'>
+              927.79
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Proceedings after termination.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Upon the termination of this subpart, the members of the Fresh Pear
+            Committee or the Processed Pear Committee then functioning shall
+            continue as joint trustees for the purpose of liquidating all funds
+            and property then in the possession or under the control of the
+            Fresh Pear Committee or the Processed Pear Committee, including
+            claims for any funds unpaid or property not delivered at the time of
+            such termination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The joint trustees shall continue in such capacity until discharged
+            by the Secretary; from time to time account for all receipts and
+            disbursements; deliver all funds and property on hand, together with
+            all books and records of the Fresh Pear Committee or the Processed
+            Pear Committee and of the joint trustees, to such person as the
+            Secretary shall direct; and, upon the request of the Secretary,
+            execute such assignments or other instruments necessary and
+            appropriate to vest in such person full title and right to all of
+            the funds, property, or claims vested in the Fresh Pear Committee or
+            the Processed Pear Committee or in said joint trustees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any funds collected pursuant to this subpart and held by such joint
+            trustees or such person over and above the amounts necessary to meet
+            outstanding obligations and the expenses necessarily incurred by the
+            joint trustees or such other person in the performance of their
+            duties under this subpart, as soon as practicable after the
+            termination hereof, shall be returned to the handlers pro rata in
+            proportion to their contributions thereto.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Any person to whom funds, property, or claims have been transferred
+            or delivered by the Fresh Pear Committee or the Processed Pear
+            Committee or its members, upon direction of the Secretary, as
+            provided in this section, shall be subject to the same obligations
+            and duties with respect to said funds, property, or claims as are
+            imposed upon the members or upon said joint trustees.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='8326'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii144:927.80
+      </extid>
+      <num st='1'>
+        927.80
+      </num>
+      <head>
+        Amendments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='80' psec='' tq='N'>
+              927.80
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Amendments.
+        </SUBJECT>
+        <P>
+          Amendments to this subpart may be proposed from time to time by the
+          Fresh Pear Committee or the Processed Pear Committee or by the
+          Secretary.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8327'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.100
+      </extid>
+      <num st='1'>
+        927.100
+      </num>
+      <head>
+        Terms.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 59625
+        </aref>
+        , Oct. 13, 2005, as amended at 
+        <aref type='FREGIST'>
+          71 FR 7676
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='100' psec='' tq='N'>
+              927.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms.
+        </SUBJECT>
+        <P>
+          Each term used in this subpart shall have the same meaning as when
+          used in the marketing order.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 59625
+          </aref>
+          , Oct. 13, 2005, as amended at 
+          <aref type='FREGIST'>
+            71 FR 7676
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8328'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.101
+      </extid>
+      <num st='1'>
+        927.101
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='101' psec='' tq='N'>
+              927.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='8329'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.102
+      </extid>
+      <num st='1'>
+        927.102
+      </num>
+      <head>
+        Order.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 7676
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='102' psec='' tq='N'>
+              927.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Order.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Order
+          </E>
+           means Marketing Order No. 927, as amended (
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='927' sect='1' psec='' tq='N'>
+              927.1
+            </subref>
+          </aref>
+           to 927.81), regulating the handling of pears grown in the States of
+          Oregon and Washington.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 7676
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8330'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.103
+      </extid>
+      <num st='1'>
+        927.103
+      </num>
+      <head>
+        Organically produced pears.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='103' psec='' tq='N'>
+              927.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Organically produced pears.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Organically produced pears
+          </E>
+           means pears that have been certified by an organic certification
+          organization currently registered with the Oregon or Washington State
+          Departments of Agriculture, or such certifying organization accredited
+          under the National Organic Program.
+        </P>
+      </contents>
+    </section>
+    <section orderid='8331'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.105
+      </extid>
+      <num st='1'>
+        927.105
+      </num>
+      <head>
+        Communications.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 7676
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='105' psec='' tq='N'>
+              927.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Communications.
+        </SUBJECT>
+        <P>
+          Unless otherwise prescribed in this subpart or in the order, or
+          required by the Fresh Pear Committee or the Processed Pear Committee,
+          all reports, applications, submittals, requests, inspection
+          certificates, and communications in connection with the order shall be
+          forwarded to: Fresh Pear Committee, 4382 SE International Way, Suite
+          A, Milwaukie OR 97222-4635 and or the Processed Pear Committee, 105
+          South 18th Street, Suite 205, Yakima WA 98901.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 7676
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8332'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.120
+      </extid>
+      <num st='1'>
+        927.120
+      </num>
+      <head>
+        Pears for charitable or byproduct purposes.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 59625
+        </aref>
+        , Oct. 13, 2005, as amended at 
+        <aref type='FREGIST'>
+          71 FR 7676
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='120' psec='' tq='N'>
+              927.120
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Pears for charitable or byproduct purposes.
+        </SUBJECT>
+        <P>
+          Pears which do not meet the requirements of the then effective grade,
+          size, or quality regulations shall not be shipped or handled for
+          consumption by any charitable institution or for distribution by any
+          relief agency or for conversion into any by-product, unless there
+          first shall have been delivered to the manager of the Fresh Pear
+          Committee a certificate executed by the intended receiver and user of
+          said pears showing, to the manager&apos;s satisfaction, that said
+          pears actually will be used for one or more of the aforesaid purposes.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 59625
+          </aref>
+          , Oct. 13, 2005, as amended at 
+          <aref type='FREGIST'>
+            71 FR 7676
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8333'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.121
+      </extid>
+      <num st='1'>
+        927.121
+      </num>
+      <head>
+        Pears for gift purposes.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 59625
+        </aref>
+        , Oct. 13, 2005, as amended at 
+        <aref type='FREGIST'>
+          71 FR 7676
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='121' psec='' tq='N'>
+              927.121
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Pears for gift purposes.
+        </SUBJECT>
+        <P>
+          There are exempted from the provisions of the order any and all pears
+          which, in individual gift packages, are shipped directly to, or which
+          are shipped for distribution without resale to, an individual person
+          as the consumer thereof, and any and all pears which, in individual
+          gift packages are shipped directly to, or are shipped for distribution
+          without resale to, a purchaser who will use these pears solely for
+          gift purposes and not for sale.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 59625
+          </aref>
+          , Oct. 13, 2005, as amended at 
+          <aref type='FREGIST'>
+            71 FR 7676
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8334'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.122
+      </extid>
+      <num st='1'>
+        927.122
+      </num>
+      <head>
+        Consumer direct pear sales.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          76 FR 4204
+        </aref>
+        , Jan. 25, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='122' psec='' tq='N'>
+              927.122
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Consumer direct pear sales.
+        </SUBJECT>
+        <P>
+          Notwithstanding any other provision of this section, fresh pears may
+          be handled without regard to the provisions of 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='927' sect='41' psec='' tq='N'>
+              927.41
+            </subref>
+            , 
+            <subref title='7' part='927' sect='51' psec='' tq='N'>
+              927.51
+            </subref>
+            , 
+            <subref title='7' part='927' sect='60' psec='' tq='N'>
+              927.60
+            </subref>
+            , and 
+            <subref title='7' part='927' sect='70' psec='' tq='N'>
+              927.70
+            </subref>
+          </aref>
+           under the following conditions:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Such pears are sold in person and sold directly to consumers on the
+            premises where grown, at packing facilities, at roadside stands, or
+            at farmers&apos; markets.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Such pears are for home use only and are not for resale.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The total quantity of such pears sold to each consumer during any
+            single transaction does not exceed 220 pounds.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            76 FR 4204
+          </aref>
+          , Jan. 25, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8335'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.123
+      </extid>
+      <num st='1'>
+        927.123
+      </num>
+      <head>
+        Interest and late payment charges.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 59625
+        </aref>
+        , Oct. 13, 2005, as amended at 
+        <aref type='FREGIST'>
+          71 FR 7676
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='123' psec='' tq='N'>
+              927.123
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interest and late payment charges.
+        </SUBJECT>
+        <P>
+          Payments received more than 45 days after the date on which they are
+          due shall be considered delinquent and subject to a late payment
+          charge of $25.00 or 2 percent of the total due, whichever is greater.
+          Payments received more than 60 days after the date on which they are
+          due shall be subject to a 1
+          <FR>
+            1/2
+          </FR>
+           percent interest charge per month, until final payment is made and
+          interest shall be applied to the total unpaid balance, including the
+          late payment charge and any accumulated interest. Any amount paid
+          shall be credited when the payment is received in the Fresh Pear
+          Committee or Processed Pear Committee office.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 59625
+          </aref>
+          , Oct. 13, 2005, as amended at 
+          <aref type='FREGIST'>
+            71 FR 7676
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8336'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.125
+      </extid>
+      <num st='1'>
+        927.125
+      </num>
+      <head>
+        Fresh pear reports.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 7677
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='125' psec='' tq='N'>
+              927.125
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fresh pear reports.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler shall furnish to the Fresh Pear Committee, as of every
+            other Friday or at such other times established by the Fresh Pear
+            Committee, a “Handler&apos;s Statement of Fresh Pear Shipments”
+            containing the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of each variety or subvariety of fresh pears shipped
+            by that handler during the preceding two weeks;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The assessment payment due and enclosed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The date of each shipment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The ultimate destination by city and state or city and country;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The name and address of such handler; and
+            <PRTPAGE P='191' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Other information as may be requested by the Fresh Pear Committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler shall furnish to the Fresh Pear Committee, each Friday
+            during the shipping season or at such other times established by the
+            Fresh Pear Committee, a “Handler&apos;s Packout Report” containing
+            the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The projected total quantity of the packout of each variety or
+            subvariety;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity to date of the packout of each variety or subvariety;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of each variety or subvariety loose in storage;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of the packout in controlled atmosphere (C.A.) storage
+            and the quantity in C.A. storage which is sold;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of each variety or subvariety shipped;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The name and address of such handler; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Other information as may be requested by the Fresh Pear Committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler shall furnish to the Fresh Pear Committee, upon
+            request, the “Pear Size and Grade Storage Report” containing the
+            quantity of specific grades and sizes of fresh pears in regular and
+            C.A. storage by variety or subvariety, and such other information as
+            may be requested from the Fresh Pear Committee for the time period
+            specified.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler who has shipped less than 2,500 44-pound net weight
+            standard boxes or container equivalents of fresh pears during any
+            reporting period of the shipping season may, in lieu of reporting as
+            provided in (a) and (b) of this section, report as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             At completion of harvest, on the next reporting date, furnish to
+            the Fresh Pear Committee a “Handlers Packout Report&apos;;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             After unreported shipments total 2,500 44-pound net weight standard
+            boxes or container equivalents of fresh pears, furnish to the Fresh
+            Pear Committee a “Handler&apos;s Statement of Fresh Pear Shipments”
+            and a “Handler&apos;s Packout Report” on the next reporting date;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             After completion of all shipments from regular storage (i.e.
+            non-C.A. storage), furnish to the Fresh Pear Committee a
+            “Handler&apos;s Statement of Fresh Pear Shipments” and a
+            “Handler&apos;s Packout Report” on the next reporting date;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             At mid-season for C.A. storage, at a date established by the Fresh
+            Pear Committee, furnish to the Fresh Pear Committee a
+            “Handler&apos;s Statement of Fresh Pear Shipments”, and a
+            “Handler&apos;s Packout Report&apos;; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             At the completion of all seasonal pear shipments, furnish to the
+            Fresh Pear Committee a “Handler&apos;s Statement of Fresh Pear
+            Shipments” and a “Handler&apos;s Packout Report”, on the next
+            reporting date. Each of these reports shall be marked “final report”
+            and include an explanation of the actual shipments versus the
+            original estimate, if different.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler shall specify on each bill of lading covering each
+            shipment, the variety or subvariety and quantity of all pears
+            included in that shipment.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 7677
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8337'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.126
+      </extid>
+      <num st='1'>
+        927.126
+      </num>
+      <head>
+        Processed pear reports.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 7677
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='126' psec='' tq='N'>
+              927.126
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Processed pear reports.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler shall furnish to the Processed Pear Committee annually
+            on a date established by the Processed Pear Committee the “Processed
+            Pear Assessment Report” containing the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the processor(s) or firm(s) to whom pears were sold;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of each variety or subvariety of pears shipped by that
+            handler;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The crop year covered in the report;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The assessment payment due and enclosed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The name and address of such handler; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Other information as may be requested by the Processed Pear
+            Committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler shall specify on each bill of lading covering each
+            shipment, the variety or subvariety and quantity of all pears
+            included in that shipment.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 7677
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8338'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.142
+      </extid>
+      <num st='1'>
+        927.142
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='142' psec='' tq='N'>
+              927.142
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='8339'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.236
+      </extid>
+      <num st='1'>
+        927.236
+      </num>
+      <head>
+        Fresh pear assessment rate.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 7677
+        </aref>
+        , Feb. 14, 2006, as amended at 
+        <aref type='FREGIST'>
+          76 FR 54078
+        </aref>
+        , Aug. 31, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='236' psec='' tq='N'>
+              927.236
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fresh pear assessment rate.
+        </SUBJECT>
+        <P>
+          On and after July 1, 2011, the following base rates of assessment for 
+          <PRTPAGE P='192' />
+          fresh pears are established for the Fresh Pear Committee:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             $0.366 per 44-pound net weight standard box or container equivalent
+            for any or all varieties or subvarieties of fresh pears classified
+            as “summer/fall”;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             $0.471 per 44-pound net weight standard box or container equivalent
+            for any or all varieties or subvarieties of fresh pears classified
+            as “winter”; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             $0.000 per 44-pound net weight standard box or container equivalent
+            for any or all varieties or subvarieties of fresh pears classified
+            as “other”.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 7677
+          </aref>
+          , Feb. 14, 2006, as amended at 
+          <aref type='FREGIST'>
+            76 FR 54078
+          </aref>
+          , Aug. 31, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8340'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.237
+      </extid>
+      <num st='1'>
+        927.237
+      </num>
+      <head>
+        Processed pear assessment rate.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 7677
+        </aref>
+        , Feb. 14, 2006, as amended at 
+        <aref type='FREGIST'>
+          76 FR 53813
+        </aref>
+        , Aug. 30, 2011; 
+        <aref type='FREGIST'>
+          77 FR 72199
+        </aref>
+        , Dec. 5, 2012]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='237' psec='' tq='N'>
+              927.237
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Processed pear assessment rate.
+        </SUBJECT>
+        <P>
+          On and after July 1, 2012, the following base rates of assessment for
+          pears for processing are established for the Processed Pear Committee:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             $7.00 per ton for any or all varieties or subvarieties of pears for
+            canning classified as “summer/fall” excluding pears for other
+            methods of processing;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             $0.00 per ton for any or all varieties or subvarieties of pears for
+            processing classified as “winter”; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             $0.00 per ton for any or all varieties or subvarieties of pears for
+            processing classified as “other”.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 7677
+          </aref>
+          , Feb. 14, 2006, as amended at 
+          <aref type='FREGIST'>
+            76 FR 53813
+          </aref>
+          , Aug. 30, 2011; 
+          <aref type='FREGIST'>
+            77 FR 72199
+          </aref>
+          , Dec. 5, 2012]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='8341'>
+      <extid>
+        lii:cfr:2013:7:0:B:IX:-:927:lii145:927.316
+      </extid>
+      <num st='1'>
+        927.316
+      </num>
+      <head>
+        Handling regulation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 7677
+        </aref>
+        , Feb. 14, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='927' sect='316' psec='' tq='N'>
+              927.316
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Handling regulation.
+        </SUBJECT>
+        <P>
+          During the period August 15 through November 1, no person shall handle
+          any fresh Beurre D&apos;Anjou variety of pears for shipments to North
+          America (Continental United States, Mexico, or Canada), unless such
+          pears meet the following requirements:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Fresh Beurre D&apos;Anjou variety of pears shall have a
+            certification by the Federal-State Inspection Service, issued prior
+            to shipment, showing that the core/pulp temperature of such pears
+            has been lowered to 35 degrees Fahrenheit or less and any such pears
+            have an average pressure test of 14 pounds or less. The handler
+            shall submit, or cause to be submitted, a copy of the certificate
+            issued on the shipment to the Fresh Pear Committee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each handler may ship on any one conveyance 8,800 pounds or less of
+            fresh Beurre D&apos;Anjou variety of pears without regard to the
+            quality and inspection requirements in paragraph (a) of this
+            section.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 7677
+          </aref>
+          , Feb. 14, 2006]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

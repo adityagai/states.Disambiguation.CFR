@@ -1,0 +1,5232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol1'>
+    <extid>
+      lii:cfr:2013:7:0:A:-:-:15
+    </extid>
+    <num>
+      15
+    </num>
+    <head>
+      NONDISCRIMINATION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='29' sect='794' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/29/794.html'>
+              29 U.S.C. 794
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+    </text>
+    <section orderid='531'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.1
+      </extid>
+      <num st='1'>
+        15.1
+      </num>
+      <head>
+        Purpose and application of part.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 16274
+        </aref>
+        , Dec. 4, 1964, as amended at 
+        <aref type='FREGIST'>
+          38 FR 17925
+        </aref>
+        , July 5, 1973; 
+        <aref type='FREGIST'>
+          68 FR 51341
+        </aref>
+        , Aug. 26, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='1' psec='' tq='N'>
+              15.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and application of part.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The purpose of the regulations in this part is to effectuate the
+            provisions of title VI of the Civil Rights Act of 1964 (hereinafter
+            referred to as the “Act”) to the end that no person in the United
+            States shall, on the ground of race, color, or national origin, be
+            excluded from participation in, be denied the benefits of, or be
+            otherwise subjected to discrimination under any program or activity
+            of an applicant or recipient receiving Federal financial assistance
+            from the Department of Agriculture or any Agency thereof.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations in this part apply to any program or activity of an
+            applicant or recipient for which Federal financial assistance is
+            authorized under a law administered by the Department including, but
+            not limited to, the Federal financial assistance listed in the
+            appendix to this part. They apply to 
+            <PRTPAGE P='401' />
+            money paid, property transferred, or other Federal financial
+            assistance extended to an applicant or recipient for its program or
+            activity after the effective date of these regulations pursuant to
+            an application approved or statutory or other provision made
+            therefor prior to such effective date. The regulations in this part
+            do not apply to (1) any Federal financial assistance by way of
+            insurance or guaranty contract, (2) money paid, property
+            transferred, or other assistance extended prior to the effective
+            date of the regulations in this part, (3) any assistance to an
+            applicant or recipient who is an ultimate beneficiary, or (4) except
+            as provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='3' psec='#c' tq='N'>
+                15.3(c)
+              </subref>
+            </aref>
+            , any employment practice of any employer, employment agency or
+            labor organization. The fact that a specific kind of Federal
+            financial assistance is not listed in the appendix, shall not mean,
+            if title VI of the Act is otherwise applicable, that such Federal
+            financial assistance is not covered. Other Federal financial
+            assistance under statutes now in force or hereinafter enacted may be
+            added to this list by notice approved and issued by the Secretary
+            and published in the 
+            <E T='04'>
+              Federal Register.
+            </E>
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 16274
+          </aref>
+          , Dec. 4, 1964, as amended at 
+          <aref type='FREGIST'>
+            38 FR 17925
+          </aref>
+          , July 5, 1973; 
+          <aref type='FREGIST'>
+            68 FR 51341
+          </aref>
+          , Aug. 26, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='532'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.2
+      </extid>
+      <num st='1'>
+        15.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 16274
+        </aref>
+        , Dec. 4, 1964, as amended at 
+        <aref type='FREGIST'>
+          36 FR 3411
+        </aref>
+        , Feb. 24, 1971; 
+        <aref type='FREGIST'>
+          38 FR 17925
+        </aref>
+        , July 5, 1973; 
+        <aref type='FREGIST'>
+          68 FR 51340, 51341
+        </aref>
+        , Aug. 26, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='2' psec='' tq='N'>
+              15.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Department
+            </E>
+             means the Department of Agriculture, and includes each of its
+            operating agencies and other organizational units.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Agency
+            </E>
+             means any service, bureau, agency, office, administration,
+            instrumentality of or corporation within the U.S. Department of
+            Agriculture extending Federal financial assistance to any program or
+            activity, or any officer or employee of the Department to whom the
+            Secretary delegates authority to carry out any of the functions or
+            responsibilities of an agency under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Secretary
+            </E>
+             means the Secretary of Agriculture or any officer or employee of
+            the Department to whom the Secretary has heretofore delegated, or to
+            whom the Secretary may hereafter delegate, the authority to act in
+            his stead under the regulations in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Hearing Officer
+            </E>
+             means a hearing examiner appointed pursuant to 
+            <aref type='USC'>
+              <subref title='5' sect='3105' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/3105.html'>
+                5 U.S.C. 3105
+              </subref>
+            </aref>
+            , and designated to hold hearings under the regulations in this part
+            or any person authorized to hold a hearing and make a final decision
+            under the regulations in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Recipient
+            </E>
+             means any State, political subdivision of any State, or
+            instrumentality of any State or political subdivision, any public or
+            private agency, institution, or organization, or other entity or any
+            individual in any State, to whom Federal financial assistance is
+            extended, directly or through another recipient, including any
+            successor, assignee, or transferee thereof, but such term does not
+            include any ultimate beneficiary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Primary recipient
+            </E>
+             includes any recipient which is authorized or required to extend
+            Federal financial assistance to another recipient.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Federal financial assistance
+            </E>
+             or 
+            <E T='03'>
+              financial assistance
+            </E>
+             includes (1) grants and loans of Federal funds, (2) the grant or
+            donation of Federal property and interests in property, (3) the
+            detail of Federal personnel, (4) the sale and lease of, and the
+            permission to use (on other than a casual or transient basis),
+            Federal property or any interest in such property or the furnishing
+            of services without consideration or at a nominal consideration, or
+            at a consideration which is reduced for the purpose of assisting the
+            recipient, or in recognition of the public interest to be served by
+            such sale, lease or furnishing of services to the recipient, and (5)
+            any Federal agreement, arrangement, or other contract which has as
+            one of its purposes the provision of assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Grant, loan or contract
+            </E>
+             includes any grant, loan agreement or commitment to loan, contract
+            or agreement to provide financial assistance or any other
+            arrangement between the Department or any Agency and a recipient of
+            financial assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              United States
+            </E>
+             means the States of the United States, the District of Columbia,
+            Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island,
+            the Canal Zone, and the territories and possessions of the United
+            States, and the term 
+            <E T='03'>
+              State
+            </E>
+             means any one of the foregoing.
+            <PRTPAGE P='402' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Applicant
+            </E>
+             means one who submits an application, request, or plan required to
+            be approved by an Agency, or by a primary recipient, as a condition
+            to eligibility for Federal financial assistance, and 
+            <E T='03'>
+              application
+            </E>
+             means such an application, request, or plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Program or activity
+            </E>
+             and 
+            <E T='03'>
+              program
+            </E>
+             mean all of the operations of any entity described in paragraphs
+            (k)(1) through (4) of this section, any part of which is extended
+            Federal financial assistance:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <npcatch lev='3' id='k_1_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A department, agency, special purpose district, or other
+            instrumentality of a State or of a local government; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The entity of such State or local government that distributes such
+            assistance and each such department or agency (and each other State
+            or local government entity) to which the assistance is extended, in
+            the case of assistance to a State or local government;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <npcatch lev='3' id='k_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A college, university, or other postsecondary institution, or a
+            public system of higher education; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             A local educational agency (as defined in 
+            <aref type='USC'>
+              <subref title='20' sect='7801' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/20/7801.html'>
+                20 U.S.C. 7801
+              </subref>
+            </aref>
+            ), system of vocational education, or other school system;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             An entire corporation, partnership, or other private organization,
+            or an entire sole proprietorship—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_3_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             If assistance is extended to such corporation, partnership, private
+            organization, or sole proprietorship as a whole; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_3_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Which is principally engaged in the business of providing
+            education, health care, housing, social services, or parks and
+            recreation; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The entire plant or other comparable, geographically separate
+            facility to which Federal financial assistance is extended, in the
+            case of any other corporation, partnership, private organization, or
+            sole proprietorship; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Any other entity which is established by two or more of the
+            entities described in paragraph (k)(1), (2), or (3) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Facility
+            </E>
+             includes all or any portion of structures, equipment, or other real
+            or personal property or interests therein, and the provision of
+            facilities includes the construction, expansion, renovation,
+            remodeling, alteration or acquisition of facilities.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 16274
+          </aref>
+          , Dec. 4, 1964, as amended at 
+          <aref type='FREGIST'>
+            36 FR 3411
+          </aref>
+          , Feb. 24, 1971; 
+          <aref type='FREGIST'>
+            38 FR 17925
+          </aref>
+          , July 5, 1973; 
+          <aref type='FREGIST'>
+            68 FR 51340, 51341
+          </aref>
+          , Aug. 26, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='533'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.3
+      </extid>
+      <num st='1'>
+        15.3
+      </num>
+      <head>
+        Discrimination prohibited.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 16274
+        </aref>
+        , Dec. 4, 1964, as amended at 
+        <aref type='FREGIST'>
+          35 FR 18383
+        </aref>
+        , Dec. 3, 1970; 
+        <aref type='FREGIST'>
+          38 FR 17925
+        </aref>
+        , July 5, 1973; 
+        <aref type='FREGIST'>
+          68 FR 51341
+        </aref>
+        , Aug. 26, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='3' psec='' tq='N'>
+              15.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Discrimination prohibited.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             No person in the United States shall, on the ground of race, color,
+            or national origin, be excluded from participation in, be denied the
+            benefits of, or be otherwise subjected to discrimination under any
+            program or activity of the applicant or recipient to which these
+            regulations apply. These regulations apply, but are not restricted,
+            to unequal treatment in priority, quality, quantity, methods or
+            charges for service, use, occupancy or benefit, participation in the
+            service or benefit available, or in the use, occupancy or benefit of
+            any structure, facility, or improvement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Specific discriminatory actions prohibited.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A recipient under any program to which the regulations in this part
+            apply may not, directly or through contractual or other arrangements
+            on the ground of race, color, or national origin:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Deny an individual any service, financial aid, or other benefit
+            provided under the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Provide any service, financial aid, or other benefit, to an
+            individual which is different, or is provided in a different manner,
+            from that provided to others under the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Subject an individual to segregation or separate treatment in any
+            matter related to his receipt of any service, financial aid, or
+            other benefit under the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Restrict an individual in any way in the enjoyment of any advantage
+            or privilege, enjoyed by others receiving any service, financial
+            aid, or other benefit under the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Treat an individual differently from others in determining whether
+            he satisfies any admission, enrollment, quota, eligibility,
+            membership or other requirement or condition which individuals must
+            meet in order to be provided any service, financial aid, or other
+            benefit provided under the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Deny an individual an opportunity to participate in the program 
+            <PRTPAGE P='403' />
+            through the provisions of services or otherwise or afford him an
+            opportunity to do so which is different from that afforded others
+            under the program (including the opportunity to participate in the
+            program as an employee but only to the extent set forth in paragraph
+            (c) of this section).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Deny a person the opportunity to participate as a member of a
+            planning or advisory body which is an integral part of the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A recipient, in determining the types of services, financial aid,
+            or other benefits, or facilities which will be provided under any
+            such program, or the class of individuals to whom, or the situations
+            in which, such services, financial aid, other benefits, or
+            facilities will be provided under any such program or the class of
+            individuals to be afforded an opportunity to participate in any such
+            program, may not, directly or through contractual or other
+            arrangements, utilize criteria or methods of administration which
+            have the effect of subjecting individuals to discrimination because
+            of their race, color, or national origin, or have the effect of
+            defeating or substantially impairing accomplishment of the
+            objectives of the program as respects individuals of a particular
+            race, color, or national origin.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In determining the site or location of facilities, an applicant or
+            recipient may not make selections with the purpose or effect of
+            excluding individuals from, denying them the benefits of, or
+            subjecting them to discrimination under any of its programs or
+            activities to which the regulations in this part apply, on the
+            grounds of race, color, or national origin; or with the purpose or
+            effect of defeating or substantially impairing the accomplishment of
+            the objectives of the Act and the regulations in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             As used in this section, the services, financial aid, or other
+            benefit provided under a program or activity of an applicant or
+            recipient receiving Federal financial assistance shall be deemed to
+            include any and all services, financial aid, or other benefit
+            provided in or through a facility provided or improved in whole or
+            part with the aid of Federal financial assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The enumeration of specific forms of prohibited discrimination in
+            these regulations does not limit the applicability of the provisions
+            of paragraph (a) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <npcatch lev='3' id='b_6_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             In administering a program regarding which the recipient has
+            previously discriminated against persons on the ground of race,
+            color, or national origin, the recipient must take affirmative
+            action to overcome the effects of prior discrimination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_6_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Even in the absence of such prior discrimination, a recipient in
+            administering a program may take affirmative action to overcome the
+            effects of conditions which resulted in limiting participation by
+            persons of a particular race, color or national origin.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Employment practices.
+            </head>
+          </npcatch>
+          <text>
+             Where a primary objective of the Federal financial assistance to a
+            program to which the regulations in this part apply is to provide
+            employment, a recipient may not, directly or through contractual or
+            other arrangements, subject an individual to discrimination on the
+            ground of race, color, or national origin in its employment
+            practices under the program including recruitment or recruitment
+            advertising, employment, layoff or termination, upgrading, demotion,
+            or transfer, rates of pay or other forms of compensation, and use of
+            facilities. This paragraph applies to programs where a primary
+            objective of the Federal financial assistance is (1) to reduce
+            unemployment, (2) to assist individuals in meeting expenses incident
+            to the commencement or continuation of their education or training,
+            or (3) to provide work experience which contributes to education or
+            training. Where a primary objective of the Federal financial
+            assistance is not to provide employment, but discrimination on the
+            grounds of race, color, or national origin in the employment
+            practices of the recipient or other persons subject to the
+            regulations in this part, tends, on the grounds of race, color, or
+            national origin, to exclude individuals from participation in, to
+            deny them the benefits of, or to subject them to discrimination
+            under any program or activity of the applicant or recipient to which
+            these regulations apply, the foregoing provisions of this 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='3' psec='#c' tq='N'>
+                15.3(c)
+              </subref>
+            </aref>
+             shall apply to 
+            <PRTPAGE P='404' />
+            the employment practices of the recipient or other persons subject
+            to these regulations, to the extent necessary to assure equality of
+            opportunity to, and nondiscriminatory treatment of, beneficiaries.
+            The requirements applicable to construction employment under any
+            program or activity of the applicant or recipient shall be those
+            specified in or pursuant to part III of Executive Order 11246 or any
+            Executive order which supersedes it.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Examples.
+            </head>
+          </npcatch>
+          <text>
+             In order that all parties may have a clear understanding of the
+            applicability of the regulations in this part to their activities,
+            there are listed in this section types of Federal financial
+            assistance together with illustrations, by way of example only, of
+            types of activity covered by the regulations in this part. These
+            illustrations and examples, however, are not intended to be all
+            inclusive. The fact that a particular type of Federal financial
+            assistance is not listed does not, of course, indicate that a
+            program is not covered by the regulations in this part. Moreover,
+            the examples set forth with respect to any particular listed type of
+            Federal financial assistance are not limited to that program alone
+            and the prohibited actions described may also be prohibited in other
+            programs or activities whether or not listed below.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Cooperative Agricultural Extension Program.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='d_1_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in making available or in the manner of making
+            available instructions, demonstrations, information, and
+            publications offered by or through the Cooperative Extension
+            Service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in the use in any program or activity funded by the
+            Cooperative Extension Service of any facility, including offices,
+            training facilities, lecture halls, or other structures or
+            improvements; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in training activities, admission to or
+            participation in fairs, competitions, field days, and encampments,
+            conducted or sponsored by, or in which the Cooperative Extension
+            Service participates.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Rural Electrification and Rural Telephone Programs.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='d_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Refusal or failure by a borrower to accept applications for
+            membership or applications to purchase shares of stock, or
+            discrimination by a borrower in the terms and conditions of
+            membership or stock ownership, where such membership or stock
+            ownership is a condition prerequisite to the furnishing of electric
+            or telephone service by the borrower, or to the receipt of any
+            benefits or advantages related to such service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Refusal or failure by a borrower to extend, or discrimination by a
+            borrower in the extension of, electric or telephone service to
+            unserved persons;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Denial by a borrower to any person of the benefits of improvement,
+            expansion or upgrading, or discrimination by a borrower among
+            consumers or subscribers in improving, expanding or upgrading, of
+            electric or telephone service;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination by a borrower in respect of rates, or terms or
+            conditions of, service among consumers or subscribers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Exclusion by a borrower of any member or stockholder, if the
+            borrower is a cooperative or mutual type of corporation, from
+            participation in any meeting of members or stockholders of the
+            borrower, discrimination among its members or stockholders in
+            respect of the exercise of any of their rights as members or
+            stockholders, or in the manner of the exercise of such rights; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Exclusion by a borrower of any consumer or subscriber from, denial
+            by a borrower to any consumer or subscriber of the use of, or
+            discrimination by a borrower against any consumer or subscriber in
+            his use of, any of the borrower&apos;s facilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Direct Distribution Program.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='d_3_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Exclusion of an otherwise eligible recipient agency (school, summer
+            camp for children, institution, welfare agency or disaster
+            organization) or person from participation in the Direct
+            Distribution Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in the allocation of food to eligible persons.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in the manner in which or the place or times at
+            which foods donated under the Program are distributed by recipient
+            agencies to eligible persons.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Segregation of persons served in different meal periods or by
+            different seating or serving or different food or different size
+            portions by recipient 
+            <PRTPAGE P='405' />
+            agencies serving prepared meals containing donated foods.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              National School Lunch Program.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='d_4_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination by a State agency in the selection of schools to
+            participate in the Program or in the assignment to schools of rates
+            of reimbursement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Exclusion of any child from participation in the Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination by school officials in the selection of children to
+            receive free or reduced-price lunches.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_4_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Segregation of participating children in different lunch periods or
+            different seating, and discrimination by serving different food or
+            different size portions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_4_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to offer free and reduced-price lunches, on an equitable
+            basis in schools of a school district in which children are assigned
+            to schools on the basis of race, color, or national origin.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Food Stamp Program.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='d_5_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination by a State agency in certifying households as
+            eligible for the Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Segregation or other discrimination in the manner in which or the
+            times at which eligible households are issued food coupons.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+            <head>
+              Special Milk Program for Children.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='d_6_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination by a State agency in the selection of schools and
+            child-care institutions to participate in the Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination by a State agency in the selection of needy schools
+            to receive reimbursement for milk served free.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination by a State agency in the assignment of reimbursement
+            rates to schools and child-care institutions or in the adjustment of
+            such rates, or in fixing allowable distribution costs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Exclusion of any child from participation in the Program and
+            segregation of participating children in different serving periods
+            or different places of service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_6_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination by school officials or child-care institutions in
+            the selection of children to receive free milk.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+            <head>
+              Price Support Programs carried out through producer associations
+              or cooperatives or through persons who are required to provide
+              specified benefits to producers.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='d_7_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Denial of the benefits of price support for a producers commodity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_7_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Denial of membership or stock ownership to any producer by any
+            association or cooperative.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_7_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination among producers in the manner of making or paying
+            any price support advances, loans, or payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_7_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in the fees or charges collected from or in the net
+            gains distributed to producers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_7_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in the use of facilities and services generally made
+            available to members or patrons under the Price Support Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+            <head>
+              Forest Service Programs.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='d_8_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Refusal or failure by a recipient of a permit or lease to provide
+            to any person the benefits from the use of land administered by the
+            Forest Service, the resources therefrom, or improvements thereon.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_8_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Refusal or failure by any recipient to provide to any person the
+            benefits from Federal payments based on a share of the receipts from
+            lands administered by the Forest Service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_8_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Refusal or failure by any recipient to provide to any person the
+            benefits from Federal assistance in cooperative programs for the
+            protection, development, management, and use of forest resources.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_8_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Refusal or failure by any cooperator or other recipient to provide
+            to any person the benefits from Federal assistance through grants or
+            advances of funds for research.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+            <head>
+              Farmers Home Administration Programs—
+            </head>
+          </npcatch>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+            <head>
+              Direct soil and water loans to association.
+            </head>
+          </npcatch>
+          <text>
+             (
+            <E T='03'>
+              a
+            </E>
+            ) A borrower&apos;s denial of, or discrimination in furnishing,
+            services under a program or activity financed wholly or partially
+            with the aid of the loan, as in the case of a water supply system.
+          </text>
+        </P>
+        <P>
+          (
+          <E T='03'>
+            b
+          </E>
+          ) A borrower&apos;s denial of, or discrimination or segregation in
+          permitting, the use of facilities which are part of a project financed
+          wholly or partially with the aid of the loan, as in the case of a golf
+          course, swimming pool, tennis courts, parking areas, lounges, dining
+          rooms, and rest rooms of a recreation association.
+        </P>
+        <P>
+          (
+          <E T='03'>
+            c
+          </E>
+          ) Discrimination by a borrower in the terms and conditions of
+          membership or stock ownership, or refusal or failure of a borrower to
+          accept applications for membership or for purchase of shares of stock,
+          or discrimination by a 
+          <PRTPAGE P='406' />
+          borrower in acting or failing to act upon such applications, where
+          such membership or stock ownership is a prerequisite to the
+          participation in services furnished by, or the use of facilities of,
+          the borrower which are financed wholly or partially with the aid of
+          the loan or to the receipt of any benefits or advantages related to
+          such services or the use of such facilities.
+        </P>
+        <P>
+          (
+          <E T='03'>
+            d
+          </E>
+          ) Denial or impairment by a borrower of any person&apos;s rights as a
+          member or stockholder of the borrower, or borrower&apos;s
+          discrimination against or segregation of persons in the exercise of
+          their rights as members or stockholders of the borrower.
+        </P>
+        <P>
+          <npcatch lev='1' id='ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+            <head>
+              Direct senior citizens rental housing loans to private nonprofit
+              corporations and consumer cooperatives.
+            </head>
+          </npcatch>
+          <text>
+             (
+            <E T='03'>
+              a
+            </E>
+            ) A borrower&apos;s exclusion of any person from, discrimination in
+            the terms and conditions of eligibility for, or discrimination
+            against or segregation of any person in, the use and occupancy of
+            the housing and related facilities financed wholly or partially with
+            the aid of the loan.
+          </text>
+        </P>
+        <P>
+          (
+          <E T='03'>
+            b
+          </E>
+          ) Discrimination by a borrower in the terms and conditions of
+          membership or stock ownership, or refusal or failure of a borrower to
+          accept applications for membership or for purchase of shares of stock,
+          or discrimination by a borrower in acting or failing to act upon such
+          applicattions, where such membership or stock ownership is a condition
+          of eligibility for use and occupancy of the housing and related
+          facilities financed wholly or partially with the aid of the loan or to
+          the receipt of any benefits or advantages related to such housing or
+          facilities.
+        </P>
+        <P>
+          (
+          <E T='03'>
+            c
+          </E>
+          ) Denial or impairment by a borrower of any person&apos;s rights as a
+          member or stockholder of the borrower, or a borrower&apos;s
+          discrimination against or segregation of persons in the exercise of
+          their rights as members or stockholders of the borrower.
+        </P>
+        <P>
+          <npcatch lev='2' id='ii_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+            <head>
+              Cooperative State Research Programs.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='ii_10_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in making available information whether published or
+            provided through public or private statement, correspondence,
+            demonstration or field day.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='ii_10_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in participation in any Cooperative Research Program
+            or project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='ii_10_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in the use of any facility, including offices,
+            laboratories, or other structures, or research plots or fields.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='ii_10_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Discrimination in employment of graduate students to conduct
+            research when such students receive substantial research training
+            benefits as a result of such employment.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 16274
+          </aref>
+          , Dec. 4, 1964, as amended at 
+          <aref type='FREGIST'>
+            35 FR 18383
+          </aref>
+          , Dec. 3, 1970; 
+          <aref type='FREGIST'>
+            38 FR 17925
+          </aref>
+          , July 5, 1973; 
+          <aref type='FREGIST'>
+            68 FR 51341
+          </aref>
+          , Aug. 26, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='534'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.4
+      </extid>
+      <num st='1'>
+        15.4
+      </num>
+      <head>
+        Assurances required.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 16274
+        </aref>
+        , Dec. 4, 1964, as amended at 
+        <aref type='FREGIST'>
+          32 FR 3967
+        </aref>
+        , Mar. 11, 1967; 
+        <aref type='FREGIST'>
+          35 FR 18383
+        </aref>
+        , Dec. 3, 1970; 
+        <aref type='FREGIST'>
+          38 FR 17926
+        </aref>
+        , July 5, 1973; 
+        <aref type='FREGIST'>
+          68 FR 53141
+        </aref>
+        , Aug. 26, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='4' psec='' tq='N'>
+              15.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Assurances required.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Every application for Federal financial assistance to which these
+            regulations apply, except an application to which paragraph (b) of
+            this section applies, and every application for Federal financial
+            assistance to provide a facility, shall as a condition to its
+            approval and the extension of any Federal financial assistance
+            pursuant to the application, contain or be accompanied by an
+            assurance that the applicant&apos;s program or activity will be
+            conducted or the facility operated in compliance with all
+            requirements imposed by or pursuant to the Act and the regulations
+            in this part. In the case where the Federal financial assistance is
+            to provide or is in the form of personal property, or real property
+            or interest therein, or structures thereon, the assurance shall
+            obligate the recipient, or, in the case of a subsequent transfer,
+            the transferee, for the period during which the property is used for
+            the purpose for which the Federal financial assistance is extended
+            or for another purpose involving the provision of similar services
+            and benefits or for as long as the recipient retains ownership or
+            possession of the property, whichever is longer. In all other cases,
+            the assurance shall obligate the recipient for the period during
+            which Federal financial assistance is extended pursuant to the
+            application. The Agency shall specify the form of the foregoing
+            assurances and the extent to which like assurances will be required
+            of subgrantees, contractors, and subcontractors, successors in
+            interest and other participants. Any such assurance shall include
+            provisions which give the United States a right to seek its judicial
+            enforcement.
+            <PRTPAGE P='407' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of real property, structures, or improvements thereon,
+            or interests therein, which was acquired through Federal financial
+            assistance, or in the case where Federal financial assistance is
+            provided in the form of a transfer of real property or interest
+            therein from the Federal Government, the instrument effecting or
+            recording the transfer shall contain a covenant running with the
+            land assuring nondiscrimination for the period during which the real
+            property is used for a purpose for which the Federal financial
+            assistance is extended or for another purpose involving the
+            provision of similar services or benefits, or for as long as the
+            recipient retains ownership or possession of the property, whichever
+            is longer. Where no transfer of property is involved, but property
+            is improved through Federal financial assistance, the recipient
+            shall agree to include such a covenant in any subsequent transfer of
+            such property. Where the property is obtained from the Federal
+            Government, such covenant may also include a condition coupled with
+            a right to be reserved by the Agency to revert title to the property
+            in the event of a breach of the covenant where, in the discretion of
+            the Agency concerned, such a condition and right of reverter is
+            appropriate to the purposes of the Federal financial assistance
+            under which the real property is obtained and to the nature of the
+            grant and the grantee. In such event, if a transferee of real
+            property proposes to mortgage or otherwise encumber the real
+            property as security for financing construction of new, or
+            improvement of existing, facilities on such property for the
+            purposes for which the property was transferred, the Agency may
+            agree, upon request of the transferee and if necessary to accomplish
+            such financing, and upon such conditions as it deems appropriate to
+            forbear the exercise of such right to revert title for so long as
+            the lien of such mortgage or other encumbrance remains effective.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Transfers of surplus property are subject to regulations issued by
+            the Administrator of General Services (
+            <aref type='CFR'>
+              41 CFR 
+              <subref title='41' part='101-6' sect='2' psec='' tq='N'>
+                101-6.2
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Every application by a State or a State Agency, including a State
+            Extension Service, but not including an application for aid to an
+            institution of higher education, continuing Federal financial
+            assistance to which the regulations in this part apply shall as a
+            condition to its approval and the exension of any Federal financial
+            assistance pursuant to the application (1) contain or be accompanied
+            by a statement that the program is (or, in the case of a new
+            program, will be) conducted in compliance with all requirements
+            imposed by or pursuant to this part, and (2) provide or be
+            accompanied by provision for such methods of administration for the
+            program as are found by the Agency to give reasonable assurance that
+            the applicant and all recipients of Federal financial assistance
+            under such program will comply with all requirements imposed by or
+            pursuant to the regulations in this part: 
+            <E T='03'>
+              Provided,
+            </E>
+             That where no application is required prior to payment, the State
+            or State Agency, including a State Extension Service, shall, as a
+            condition to the extension of any Federal financial assistance,
+            submit an assurance complying with the requirements of paragraphs
+            (b)(1) and (2) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Assurances from institutions.
+            </head>
+          </npcatch>
+          <text>
+             The assurance required with respect to an institution of higher
+            education, or any other institution, insofar as the assurance
+            relates to the institution&apos;s practices with respect to
+            admission or other treatment of individuals or to the opportunity to
+            participate in the provision of services or other benefits to such
+            individuals, shall be applicable to the entire institution.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Recipients other than applicants.
+            </head>
+          </npcatch>
+          <text>
+             Each recipient not required to submit an application for Federal
+            financial assistance, shall furnish, as a condition to the extension
+            of any such assistance, an assurance or statement as is required of
+            applicants under paragraphs (a), (b)(1) and (2) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Elementary and secondary schools.
+            </head>
+          </npcatch>
+          <text>
+             The requirements of paragraphs (a), (b), or (d) of this section
+            with respect to any elementary or secondary school or school system
+            shall be deemed to be satisfied if such school or school system (1)
+            is subject to a final order of a court of the United States for the
+            desegregation of such school or school system, and provides an
+            assurance that 
+            <PRTPAGE P='408' />
+            it will comply with such order, including any future modification of
+            such order, or (2) submits a plan for the desegregation of such
+            school or school system which the responsible official of the
+            Department of Health, Education, and Welfare determines is adequate
+            to accomplish the purposes of the Act and this part, and provides
+            reasonable assurance that it will carry out such plan; in any case
+            of continuing Federal financial assistance the said responsible
+            official of the Department of Health, Education, and Welfare may
+            reserve the right to redetermine, after such period as may be
+            specified by him, the adequacy of the plan to accomplish the
+            purposes of the Act and this part within the earliest practical
+            time. In any case in which a final order of a court of the United
+            States for the desegregation of such school or school system is
+            entered after submission of such a plan, such plan shall be revised
+            to conform to such final order, including any future modification of
+            such order.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 16274
+          </aref>
+          , Dec. 4, 1964, as amended at 
+          <aref type='FREGIST'>
+            32 FR 3967
+          </aref>
+          , Mar. 11, 1967; 
+          <aref type='FREGIST'>
+            35 FR 18383
+          </aref>
+          , Dec. 3, 1970; 
+          <aref type='FREGIST'>
+            38 FR 17926
+          </aref>
+          , July 5, 1973; 
+          <aref type='FREGIST'>
+            68 FR 53141
+          </aref>
+          , Aug. 26, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='535'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.5
+      </extid>
+      <num st='1'>
+        15.5
+      </num>
+      <head>
+        Compliance.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 16274
+        </aref>
+        , Dec. 4, 1964, as amended at 
+        <aref type='FREGIST'>
+          29 FR 16966
+        </aref>
+        , Dec. 11, 1964; 
+        <aref type='FREGIST'>
+          38 FR 17926
+        </aref>
+        , July 5, 1973; 
+        <aref type='FREGIST'>
+          68 FR 51341
+        </aref>
+        , Aug. 26, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='5' psec='' tq='N'>
+              15.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Cooperation and assistance.
+            </head>
+          </npcatch>
+          <text>
+             Each Agency shall to the fullest extent practicable seek the
+            cooperation of recipients in obtaining compliance with the
+            regulations and this part and shall provide assistance and guidance
+            to recipients to help them comply voluntarily with the regulations
+            in this part. As a normal part of the administration of Federal
+            financial assistance covered by the regulations in this part,
+            designated personnel will in their reviews and other activities or
+            as specifically directed by the Agency, review the activities of
+            recipients to determine whether they are complying with the
+            regulations in this part. Reports by such personnel shall include
+            statements regarding compliance and instances, if any, of
+            noncompliance. In the event of noncompliance, the Agency shall seek
+            to secure voluntary compliance by all appropriate means.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Compliance reports.
+            </head>
+          </npcatch>
+          <text>
+             Each recipient shall keep such records and submit to the Agency
+            timely, complete and accurate compliance reports at such times, and
+            in such form and containing such information, as the Agency may
+            determine to be necessary to ascertain whether the recipient has
+            complied or is complying with the regulations in this part. In the
+            case in which a primary recipient extends Federal financial
+            assistance to any other recipient, such other recipient shall also
+            submit such compliance reports to the primary recipient as may be
+            necessary to enable the primary recipient to carry out its
+            obligations under the regulations in this part. In general,
+            recipients should have available for the Agency racial and ethnic
+            data showing the extent to which members of minority groups are
+            beneficiaries of federally assisted programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Access to sources of information.
+            </head>
+          </npcatch>
+          <text>
+             Each recipient shall permit access by authorized employees of this
+            Department during normal business hours to such of its books,
+            records, accounts, and other sources of information, and its
+            facilities as may be pertinent to ascertain compliance with the
+            regulations in this part. Where any information required of a
+            recipient is in the exclusive possession of any other agency,
+            institution or person and this agency, institution or person shall
+            fail or refuse to furnish this information, the recipient shall so
+            certify in its report and shall set forth what efforts it has made
+            to obtain the information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Information to beneficiaries and participants.
+            </head>
+          </npcatch>
+          <text>
+             Each recipient shall make available to participants, beneficiaries,
+            and other interested persons such information regarding the
+            provisions of the regulations in this part and their applicability
+            to the program for Federal statutes, authorities, or other means by
+            which Federal financial assistance is extended and which the
+            recipient receives Federal financial assistance, and make such
+            information available to them in such manner, as the Department or
+            its Agencies finds necessary to apprise such persons of the
+            protections against discrimination assured them by the Act and the
+            regulations in this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 16274
+          </aref>
+          , Dec. 4, 1964, as amended at 
+          <aref type='FREGIST'>
+            29 FR 16966
+          </aref>
+          , Dec. 11, 1964; 
+          <aref type='FREGIST'>
+            38 FR 17926
+          </aref>
+          , July 5, 1973; 
+          <aref type='FREGIST'>
+            68 FR 51341
+          </aref>
+          , Aug. 26, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='536'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.6
+      </extid>
+      <num st='1'>
+        15.6
+      </num>
+      <head>
+        Complaints.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          50 FR 25687
+        </aref>
+        , June 21, 1985, as amended at 
+        <aref type='FREGIST'>
+          68 FR 27449
+        </aref>
+        , May 20, 2003]
+      </citation>
+      <contents>
+        <PRTPAGE P='409' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='6' psec='' tq='N'>
+              15.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Complaints.
+        </SUBJECT>
+        <P>
+          Any person who believes himself/herself or any specific class of
+          individuals to be subjected to discrimination prohibited by the
+          regulations in this part may by himself/herself or by an authorized
+          representative file with the Secretary or any Agency a written
+          complaint. A complaint must be filed not later than 180 days from the
+          date of the alleged discrimination, unless the time for filing is
+          extended by the Agency or by the Secretary. Such complaint shall be
+          promptly referred to the Assistant Secretary for Civil Rights. The
+          complaint shall be investigated in the manner determined by the
+          Assistant Secretary for Civil Rights and such further action taken by
+          the Agency or the Secretary as may be warranted.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            50 FR 25687
+          </aref>
+          , June 21, 1985, as amended at 
+          <aref type='FREGIST'>
+            68 FR 27449
+          </aref>
+          , May 20, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='537'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.7
+      </extid>
+      <num st='1'>
+        15.7
+      </num>
+      <head>
+        Intimidatory or retaliatory acts prohibited.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='7' psec='' tq='N'>
+              15.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Intimidatory or retaliatory acts prohibited.
+        </SUBJECT>
+        <P>
+          No recipient or other person shall intimidate, threaten, coerce, or
+          discriminate against any individual for the purpose of interfering
+          with any right or privilege secured by 
+          <aref type='UNKNOWN'>
+            section 601 of
+          </aref>
+           the Act or the regulations in this part, or because he has made a
+          complaint, testified, assisted, or participated in any manner in an
+          investigation, proceeding, or hearing under the regulations in this
+          part. The identity of complainants shall be kept confidential except
+          to the extent necessary to carry out the purposes of the regulations
+          in this part, including the conduct of any hearing or judicial
+          proceeding arising thereunder.
+        </P>
+      </contents>
+    </section>
+    <section orderid='538'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.8
+      </extid>
+      <num st='1'>
+        15.8
+      </num>
+      <head>
+        Procedure for effecting compliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='8' psec='' tq='N'>
+              15.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Procedure for effecting compliance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             If there appears to be a failure or threatened failure to comply
+            with the regulations in this part, and if the noncompliance or
+            threatened noncompliance cannot be corrected by informal means,
+            compliance with the regulations in this part may be effected by the
+            suspension or termination of or refusal to grant or to continue
+            Federal financial assistance, upon a finding, in accordance with the
+            procedure hereinafter prescribed, or by any other means authorized
+            by law. Such other means may include, but are not limited to, (1) a
+            reference to the Department of Justice with a recommendation that
+            appropriate proceedings be brought to enforce any rights of the
+            United States under any law of the United States (including other
+            titles of the Act), or any assurance or other contractual
+            undertaking, and (2) any applicable proceeding under State or local
+            law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Noncompliance with 
+              <aref type='CFR-TIC-SECT'>
+                § 
+                <subref title='7' part='15' sect='4' psec='' tq='N'>
+                  15.4
+                </subref>
+              </aref>
+              .
+            </head>
+          </npcatch>
+          <text>
+             If an applicant fails or refuses to furnish an assurance required
+            under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='4' psec='' tq='N'>
+                15.4
+              </subref>
+            </aref>
+             or otherwise fails or refuses to comply with the requirements
+            imposed by or pursuant to that section, Federal financial assistance
+            may be refused in accordance with the procedures of paragraph (c) of
+            this section. The Department shall not be required to provide
+            assistance in such a case during the pendency of the administrative
+            proceedings under such paragraph, except that the Department shall
+            continue assistance during the pendency of such proceedings where
+            such assistance is due and payable pursuant to an application
+            therefor approved prior to the effective date of the regulations in
+            this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Termination of or refusal to grant or to continue Federal
+              financial assistance.
+            </head>
+          </npcatch>
+          <text>
+             No order suspending, terminating, or refusing to grant or to
+            continue Federal financial assistance shall become effective until
+            (1) the Agency has advised the applicant or recipient of his failure
+            to comply and has determined that compliance cannot be secured by
+            voluntary means, (2) there has been an express finding on the
+            record, after opportunity for hearing, of a failure by the applicant
+            or recipient to comply with the requirement imposed by or pursuant
+            to the regulations in this part, (3) the action has been approved by
+            the Secretary pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='10' psec='#e' tq='N'>
+                15.10(e), and (4)
+              </subref>
+            </aref>
+             the expiration of 30 days after the Secretary has filed with the
+            committee of the House and the committee of the Senate, having
+            legislative jurisdiction over the program involved, a full written
+            report of the circumstances and the grounds for such action. Any
+            action to suspend or terminate or to refuse to grant or to continue
+            Federal financial assistance shall be limited to the particular
+            political entity, or part thereof, or other applicant or recipient
+            as to whom such a 
+            <PRTPAGE P='410' />
+            finding has been made and shall be limited in its effect to the
+            particular program, or part thereof, in which such noncompliance has
+            been so found.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Other means authorized by law.
+            </head>
+          </npcatch>
+          <text>
+             No action to effect compliance by any other means authorized by law
+            shall be taken until (1) the Secretary has determined that
+            compliance cannot be secured by voluntary means, (2) the recipient
+            or other person has been notified of its failure to comply and of
+            the action to be taken to effect compliance, and (3) the expiration
+            of at least ten days from the mailing of such notice to the
+            recipient or other person. During this period of at least ten days,
+            additional efforts shall be made to persuade the recipient or other
+            person to comply with the regulations in this part and to take such
+            corrective action as may be appropriate.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='539'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.9
+      </extid>
+      <num st='1'>
+        15.9
+      </num>
+      <head>
+        Hearings.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 16274
+        </aref>
+        , Dec. 4, 1964, as amended at 
+        <aref type='FREGIST'>
+          35 FR 18384
+        </aref>
+        , Dec. 3, 1970; 
+        <aref type='FREGIST'>
+          38 FR 17926
+        </aref>
+        , July 5, 1973; 
+        <aref type='FREGIST'>
+          68 FR 51341
+        </aref>
+        , Aug. 26, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='9' psec='' tq='N'>
+              15.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Hearings.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Opportunity for hearing.
+            </head>
+          </npcatch>
+          <text>
+             Whenever an opportunity for a hearing is required under the
+            regulations in this part, reasonable notice shall be given by
+            registered or certified mail, return receipt requested, to the
+            affected applicant or recipient. This notice shall advise the
+            applicant or recipient of the action proposed to be taken, the
+            specific provision under which the proposed action against it is to
+            be taken, and the matters of fact or law asserted as the basis for
+            this action, and either (1) fix a date not less than 20 days after
+            the date of such notice within which the applicant or recipient may
+            request of the Secretary or the Agency that the matter be scheduled
+            for hearing or (2) advise the applicant or recipient that the matter
+            in question has been set down for hearing at a stated place and
+            time. The time and place so fixed shall be reasonable and shall be
+            subject to change for cause. The complainant, if any, shall be
+            advised of the time and place of the hearing. An applicant or
+            recipient may waive a hearing and submit written information and
+            argument for the record. The failure of an applicant or recipient to
+            request a hearing under this subsection or to appear at a hearing
+            for which a date has been set shall be deemed to be a waiver of the
+            right to a hearing under 
+            <aref type='UNKNOWN'>
+              section 602 of
+            </aref>
+             the Act and the regulations in this part and consent to the making
+            of a decision on the basis of such information as is available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Time and place of hearing.
+            </head>
+          </npcatch>
+          <text>
+             Hearings shall be held at the offices of the Department in
+            Washington, DC, at a time fixed by the hearing officer or by the
+            Secretary unless it is determined that the convenience of the
+            applicant or recipient or of the Department requires that another
+            place be selected. Hearings shall be held before a hearing officer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Right to counsel.
+            </head>
+          </npcatch>
+          <text>
+             In all proceedings under this section, the applicant or recipient
+            and the Department shall have the right to be represented by
+            counsel.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Procedures, evidence, and record.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The hearing, decision, and any administrative review thereof shall
+            be conducted in conformity with 
+            <aref type='USC'>
+              <subref title='5' sect='554-557' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/554-557.html'>
+                5 U.S.C. 554-557
+              </subref>
+            </aref>
+            , and in accordance with such rules of procedure promulgated by the
+            Secretary as not inconsistent with this section, relating to the
+            conduct of the hearing, giving of notices subsequent to those
+            provided for in paragraph (a) of this section, taking of testimony,
+            exhibits, arguments and briefs, requests for findings, and other
+            related matters. Both the Department, and the applicant or recipient
+            shall be entitled to introduce all relevant evidence on the issues
+            as stated in the notice for hearing or as determined by the hearing
+            officer conducting the hearing at the outset of or during the
+            hearing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Technical rules of evidence shall not apply to hearings conducted
+            pursuant to these regulations in this part, but rules or principles
+            designed to assure production of the most credible evidence
+            available and to subject testimony to test by cross-examination
+            shall be applied where reasonably necessary by the hearing officer.
+            The hearing officer may exclude irrelevant, immaterial, or unduly
+            repetitious evidence. All documents and other evidence offered or
+            taken for the record shall be open to examination by the parties and
+            opportunity shall be given to refute facts and arguments advanced on
+            either side of the issues. A transcript shall be made of the oral
+            evidence except to the extent the substance thereof is stipulated
+            for the record. All decisions shall be based 
+            <PRTPAGE P='411' />
+            upon the hearing record and written findings shall be made.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Consolidated or joint hearings.
+            </head>
+          </npcatch>
+          <text>
+             In cases in which the same or related facts are asserted to
+            constitute noncompliance with these regulations with respect to two
+            or more to which the regulations in this part apply, or
+            noncompliance with the regulations in this part and the regulations
+            of one or more other Federal Departments or Agencies issued under
+            title VI of the Act, the Secretary may, by agreement with such other
+            Departments or Agencies, where applicable provide for the conduct of
+            consolidated or joint hearings, and for the application to such
+            hearings of rules of procedure not inconsistent with the regulations
+            in this part. Final decisions in such cases, insofar as the
+            regulations in this part are concerned, shall be made in accordance
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='10' psec='' tq='N'>
+                15.10
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 16274
+          </aref>
+          , Dec. 4, 1964, as amended at 
+          <aref type='FREGIST'>
+            35 FR 18384
+          </aref>
+          , Dec. 3, 1970; 
+          <aref type='FREGIST'>
+            38 FR 17926
+          </aref>
+          , July 5, 1973; 
+          <aref type='FREGIST'>
+            68 FR 51341
+          </aref>
+          , Aug. 26, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='540'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.10
+      </extid>
+      <num st='1'>
+        15.10
+      </num>
+      <head>
+        Decisions and notices.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 16274
+        </aref>
+        , Dec. 4, 1964, as amended at 
+        <aref type='FREGIST'>
+          35 FR 18384
+        </aref>
+        , Dec. 3, 1970; 
+        <aref type='FREGIST'>
+          38 FR 17926
+        </aref>
+        , July 5, 1973; 
+        <aref type='FREGIST'>
+          68 FR 51341
+        </aref>
+        , Aug. 26, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='10' psec='' tq='N'>
+              15.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Decisions and notices.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Decision by hearing officer or Secretary.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The hearing officer shall either make an initial decision, if so
+            authorized, or certify the entire record including his recommended
+            findings, and proposed decision to the Secretary for a final
+            decision, and a copy of such initial decision or certification shall
+            be mailed to the applicant or recipient. The applicant or recipient
+            may within 30 days of the mailing of such notice of initial decision
+            file with the Secretary his exceptions to the initial decision, with
+            his reasons therefor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In the absence of exceptions, the Secretary may on his own motion
+            within 45 days after the initial decision serve on the applicant or
+            recipient a notice that he will review the decision. Upon the filing
+            of such exceptions or of such notice of review the Secretary shall
+            review the initial decision and issue his own decision thereon
+            including the reasons therefor. In the absence of either exceptions
+            or a notice of review the initial decision shall constitute the
+            final decision of the Secretary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Decisions on record or review.
+            </head>
+          </npcatch>
+          <text>
+             Whenever a record is certified to the Secretary for decision or he
+            reviews the decision of a hearing officer pursuant to paragraph (a),
+            the applicant or recipient shall be given reasonable opportunity to
+            file with him briefs or other written statements of its contentions,
+            and a copy of the final decision of the Secretary shall be given in
+            writing to the applicant or recipient, and to the complainant, if
+            any.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Decisions on record where a hearing is waived.
+            </head>
+          </npcatch>
+          <text>
+             Whenever a hearing is waived pursuant to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='9' psec='#a' tq='N'>
+                15.9(a)
+              </subref>
+            </aref>
+            , a decision shall be made by the Secretary on the record and a copy
+            of such decision shall be given in writing to the applicant or
+            recipient, and to the complainant, if any.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Rulings required.
+            </head>
+          </npcatch>
+          <text>
+             Each decision of a hearing officer shall set forth his ruling on
+            each finding, conclusion, or exception presented, and shall identify
+            the requirement or requirements imposed by or pursuant to the
+            regulations in this part with which it is found that the applicant
+            or recipient has failed to comply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Decision by Secretary.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary shall make any final decision which provides for the
+            suspension or termination of, or the refusal to grant or continue
+            Federal financial assistance, or the imposition of any other
+            sanction available under the regulations in this part or the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Content of orders.
+            </head>
+          </npcatch>
+          <text>
+             The final decision may provide for suspension or termination of, or
+            refusal to grant or continue Federal financial assistance, in whole
+            or in part, to which this regulation applies, and may contain such
+            terms, conditions, and other provisions as are consistent with and
+            will effectuate the purposes of the Act and the regulations in this
+            part, including provisions designed to assure that no Federal
+            financial assistance to which this regulation applies will
+            thereafter be extended to the applicant or recipient determined by
+            such decision to be in default in its performance of an assurance
+            given by it pursuant to the regulations in this part, or to have
+            otherwise failed to comply with the regulations in this part, unless
+            and until it corrects its noncompliance and satisfies the Agency
+            that it will fully comply with the regulations in this part.
+            <PRTPAGE P='412' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Post termination proceedings.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant or recipient adversely affected by an order issued
+            under paragraph (f) of this section shall be restored to full
+            eligibilty to receive Federal financial assistance if it satisfies
+            the terms and conditions of that order for such eligibility or if it
+            brings itself into compliance with the Act and the regulations in
+            this part and provides reasonable assurance that it will fully
+            comply therewith. An elementary or secondary school or school system
+            which is unable to file an assurance of compliance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='4' psec='#a' tq='N'>
+                15.4 (a), (b), or (d)
+              </subref>
+            </aref>
+             shall be restored to full eligibility to receive Federal financial
+            assistance if it complies with the requirements of a 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='4' psec='#e' tq='N'>
+                15.4(e)
+              </subref>
+            </aref>
+             and is otherwise in compliance with the Act and the regulations in
+            this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any applicant or recipient adversely affected by an order entered
+            pursuant to paragraph (f) of this section may at any time request
+            the Secretary to restore fully its eligibility to receive Federal
+            financial assistance. Any such request shall be supported by
+            information showing that the applicant or recipient has met the
+            requirements of paragraph (g)(1) of this section. If the Secretary
+            determines that those requirements have been satisfied, he shall
+            restore such eligibility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the Secretary denies any such request, the applicant or
+            recipient may submit a request for a hearing in writing, specifying
+            why it believes the denial to have been in error. It shall thereupon
+            be given an expeditious hearing, with a decision on the record, in
+            accordance with rules of procedure set forth in subpart C of this
+            part. The applicant or recipient will be restored to such
+            eligibility if it proves at such a hearing, that it has satisfied
+            the requirements of paragraph (g)(1) of this section. While
+            proceedings under this paragraph are pending, the sanctions imposed
+            by the order issued under paragraph (f) of this section shall remain
+            in effect.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 16274
+          </aref>
+          , Dec. 4, 1964, as amended at 
+          <aref type='FREGIST'>
+            35 FR 18384
+          </aref>
+          , Dec. 3, 1970; 
+          <aref type='FREGIST'>
+            38 FR 17926
+          </aref>
+          , July 5, 1973; 
+          <aref type='FREGIST'>
+            68 FR 51341
+          </aref>
+          , Aug. 26, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='541'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.11
+      </extid>
+      <num st='1'>
+        15.11
+      </num>
+      <head>
+        Judicial review.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='11' psec='' tq='N'>
+              15.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Judicial review.
+        </SUBJECT>
+        <P>
+          Action taken pursuant to 
+          <aref type='UNKNOWN'>
+            section 602 of
+          </aref>
+           the Act is subject to judicial review as provided in 
+          <aref type='UNKNOWN'>
+            section 603 of
+          </aref>
+           the Act.
+        </P>
+      </contents>
+    </section>
+    <section orderid='542'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:A:15.12
+      </extid>
+      <num st='1'>
+        15.12
+      </num>
+      <head>
+        Effect on other regulations; forms and instructions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          29 FR 16274
+        </aref>
+        , Dec. 4, 1964, as amended at 
+        <aref type='FREGIST'>
+          38 FR 17927
+        </aref>
+        , July 5, 1973; 
+        <aref type='FREGIST'>
+          68 FR 51341
+        </aref>
+        , Aug. 26, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='12' psec='' tq='N'>
+              15.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effect on other regulations; forms and instructions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Effect on other regulations.
+            </head>
+          </npcatch>
+          <text>
+             All regulations, orders, or like directions heretofore issued by
+            any officer of the Department which impose requirements designed to
+            prohibit any discrimination against individuals on the ground of
+            race, color, or national origin under any program to which the
+            regulations in this part apply, and which authorize the suspension
+            or termination of or refusal to grant or to continue Federal
+            financial assistance to any applicant for or recipient of such
+            assistance for failure to comply with such requirements, are hereby
+            superseded to the extent that such discrimination is prohibited by
+            the regulations in this part, except that nothing in the regulations
+            in this part shall be deemed to relieve any person of any obligation
+            assumed or imposed under any such superseded regulation, order,
+            instruction, or like direction prior to the effective date of the
+            regulations in this part. Nothing in these regulations, however,
+            shall be deemed to supersede any of the following including future
+            amendments thereof:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Executive Order 11246 and regulations issued thereunder; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Executive Order 11063 and regulations issued thereunder or any
+            other regulations or instructions insofar as they prohibit
+            discrimination on the ground of race, color, or national origin in
+            any program or situation to which the regulations in this part are
+            inapplicable, or prohibit discrimination on any other ground.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Forms and instructions.
+            </head>
+          </npcatch>
+          <text>
+             Each Agency shall issue and promptly make available forms and such
+            implementing instructions and procedures consistent with the
+            regulations in this part as may be necessary. Each Agency in making
+            available Federal financial assistance to any program or activity
+            may utilize contractual commitments in obtaining compliance with the
+            regulations in this part, including obtaining compliance by
+            recipients other than the contracting recipient.
+            <PRTPAGE P='413' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Supervision and coordination.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary may from time to time assign to officials of other
+            Departments or Agencies of the Government with the consent of such
+            Department or Agency, responsibilities in connection with the
+            effectuation of the purposes of title VI of the Act and the
+            regulations in this part (other than responsibility for final
+            decision as provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='10' psec='' tq='N'>
+                15.10
+              </subref>
+            </aref>
+            ) including the achievement of effective coordination and maximum
+            uniformity within the Department and within the Executive Branch of
+            the Government in the application of title VI and these regulations
+            to similar programs and in similar situations. Any action taken,
+            determination made, or requirement imposed by an official of another
+            Department or Agency acting under this paragraph shall have the same
+            effect as though such action had been taken by the Secretary or any
+            Agency of this Department.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            29 FR 16274
+          </aref>
+          , Dec. 4, 1964, as amended at 
+          <aref type='FREGIST'>
+            38 FR 17927
+          </aref>
+          , July 5, 1973; 
+          <aref type='FREGIST'>
+            68 FR 51341
+          </aref>
+          , Aug. 26, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='543'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.60
+      </extid>
+      <num st='1'>
+        15.60
+      </num>
+      <head>
+        Scope of rules.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='60' psec='' tq='N'>
+              15.60
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope of rules.
+        </SUBJECT>
+        <P>
+          The rules of practice and procedure in this subpart supplement 
+          <aref type='UNKNOWN'>
+            §§ 
+            <subref title='7' part='15' sect='9' psec='' tq='N'>
+              15.9
+            </subref>
+             and 15.10 of
+          </aref>
+           subpart A of this part and govern the practice for hearings,
+          decisions, and administrative review conducted by the Department of
+          Agriculture, pursuant to title VI of the Civil Rights Act of 1964, 
+          <aref type='CFR-TIC-SECT'>
+            section 602
+          </aref>
+           (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=88_statutes2_at_large&amp;position=all&amp;page=252'>
+            78 Stat. 252
+          </aref>
+          ) and this part, title 7, CFR, except these rules shall not apply to
+          any stage of a proceeding which has occurred prior to the effective
+          date hereof.
+        </P>
+      </contents>
+    </section>
+    <section orderid='544'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.61
+      </extid>
+      <num st='1'>
+        15.61
+      </num>
+      <head>
+        Records to be public.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='61' psec='' tq='N'>
+              15.61
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Records to be public.
+        </SUBJECT>
+        <P>
+          All documents and papers filed in any proceeding under this part may
+          be inspected and copied in the Office of the Department Hearing Clerk.
+        </P>
+      </contents>
+    </section>
+    <section orderid='545'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.62
+      </extid>
+      <num st='1'>
+        15.62
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='62' psec='' tq='N'>
+              15.62
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          All terms used in this subpart shall, unless the context otherwise
+          requires, have the same meaning as defined in subpart A of this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='546'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.63
+      </extid>
+      <num st='1'>
+        15.63
+      </num>
+      <head>
+        Computation of time.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='63' psec='' tq='N'>
+              15.63
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Computation of time.
+        </SUBJECT>
+        <P>
+          A period of time begins with the day following the act or event and
+          includes the last day of the period, unless it is a Saturday, Sunday,
+          or legal holiday observed in the District of Columbia, in which case
+          it shall be the following workday. When the period of time prescribed
+          or allowed is less than 7 days, intermediate Saturdays, Sundays, and
+          legal holidays shall be excluded from the computation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='547'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.64
+      </extid>
+      <num st='1'>
+        15.64
+      </num>
+      <head>
+        Parties.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='64' psec='' tq='N'>
+              15.64
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Parties.
+        </SUBJECT>
+        <P>
+          The term 
+          <E T='03'>
+            party
+          </E>
+           shall include an applicant or recipient with respect to whom the
+          agency has issued a notice of hearing or opportunity to request a
+          hearing in accordance with subpart A of this part and 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='81' psec='' tq='N'>
+              15.81
+            </subref>
+          </aref>
+          . The agency shall be deemed a party to all proceedings.
+        </P>
+      </contents>
+    </section>
+    <section orderid='548'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.65
+      </extid>
+      <num st='1'>
+        15.65
+      </num>
+      <head>
+        Appearance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='65' psec='' tq='N'>
+              15.65
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appearance.
+        </SUBJECT>
+        <P>
+          Any party may appear in person or by counsel or authorized
+          representative and participate fully in any proceeding.
+        </P>
+      </contents>
+    </section>
+    <section orderid='549'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.66
+      </extid>
+      <num st='1'>
+        15.66
+      </num>
+      <head>
+        Complainants not parties.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='66' psec='' tq='N'>
+              15.66
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Complainants not parties.
+        </SUBJECT>
+        <P>
+          A person submitting a complaint pursuant to 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='6' psec='' tq='N'>
+              15.6
+            </subref>
+          </aref>
+           is not a party to the proceedings governed by this subpart, but may
+          petition, after proceedings have been commenced, to become an
+          intervener.
+        </P>
+      </contents>
+    </section>
+    <section orderid='550'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.67
+      </extid>
+      <num st='1'>
+        15.67
+      </num>
+      <head>
+        Intervener.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='67' psec='' tq='N'>
+              15.67
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Intervener.
+        </SUBJECT>
+        <P>
+          Any interested person or organization may file a petition to intervene
+          which will include a statement of position and a statement of what
+          petitioner expects to contribute to the hearing, and a copy of the
+          petition will be served on all parties. Such petition should be filed
+          prior to the prehearing conference, or if none is held, before the
+          commencement of the hearing, unless the petitioner shows good cause
+          for filing the petition later. The hearing officer may grant the
+          petition if he believes that such participation will not unduly delay
+          a hearing and will contribute materially to the proceeding. An
+          intervener is not a party and may not introduce evidence at a hearing,
+          or propound questions to a witness, unless the hearing officer
+          determines that the proposed additional evidence is relevant and will
+          clarify the facts. The intervener may submit and serve on all parties
+          a brief in support or opposition to any brief of a party. All service
+          and notice required by and upon a party shall apply to an intervener.
+        </P>
+      </contents>
+    </section>
+    <section orderid='551'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.68
+      </extid>
+      <num st='1'>
+        15.68
+      </num>
+      <head>
+        Ex parte communications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='68' psec='' tq='N'>
+              15.68
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          <E T='7462'>
+            Ex parte
+          </E>
+           communications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             After proceedings have been commenced, any communication or
+            discussion 
+            <E T='03'>
+              ex parte,
+            </E>
+             as regards the merits of the proceeding or a factually related
+            proceeding, between an employee of the Department involved in the
+            decisional process and a person not employed by the Department, and
+            any such communication or discussion between any employee of the
+            Department, who is or has been engaged in any way in the
+            investigation or prosecution of the proceeding or a factually
+            related proceeding, and an employee of the Department who is
+            involved or may be involved in the decisional process of a
+            proceeding, except at a conference, hearing or review proceeding
+            under these rules is improper and prohibited.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Request for information.
+            </head>
+          </npcatch>
+          <text>
+             A request for information about the status of a 
+            <PRTPAGE P='419' />
+            proceeding without discussing issues or expressing points of view
+            and inquiries with respect to procedural matters or an emergency
+            request for an extension of time are not deemed 
+            <E T='03'>
+              ex parte
+            </E>
+             communications. When practical all parties should be notified of
+            any request for an extension of time. Communication between an
+            applicant or recipient and the agency or the Secretary with respect
+            to securing voluntary compliance with any requirement of subpart A
+            of this part is not prohibited.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Unsponsored written material.
+            </head>
+          </npcatch>
+          <text>
+             Letters expressing views or urging action and other unsponsored
+            written material regarding matters in issue in a proceeding will be
+            placed in the correspondence section of the docket of the
+            proceeding. Such are not deemed part of the evidence or record.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='552'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.71
+      </extid>
+      <num st='1'>
+        15.71
+      </num>
+      <head>
+        Form of documents to be filed.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='71' psec='' tq='N'>
+              15.71
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Form of documents to be filed.
+        </SUBJECT>
+        <P>
+          All copies of documents filed in a proceeding shall be dated, signed
+          in ink, shall show the address and position or title of the signatory,
+          and shall show the docket number and title of the proceeding on the
+          front page.
+        </P>
+      </contents>
+    </section>
+    <section orderid='553'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.72
+      </extid>
+      <num st='1'>
+        15.72
+      </num>
+      <head>
+        Filing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='72' psec='' tq='N'>
+              15.72
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Filing.
+        </SUBJECT>
+        <P>
+          All documents relating to a proceeding under this subpart shall be
+          filed in an original and two copies of such document with the Office
+          of the Hearing Clerk at Room 112, Administration Building, Department
+          of Agriculture, Washington, D.C., 20250, during regular business
+          hours. Regular business hours are every Monday through Friday (legal
+          holidays in the District of Columbia excepted) from 9 a.m. to 5:30
+          p.m., eastern standard or daylight saving time, whichever is effective
+          in the District of Columbia at the time.
+        </P>
+      </contents>
+    </section>
+    <section orderid='554'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.73
+      </extid>
+      <num st='1'>
+        15.73
+      </num>
+      <head>
+        Service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='73' psec='' tq='N'>
+              15.73
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Service.
+        </SUBJECT>
+        <P>
+          Service shall be made by the Hearing Clerk by personal delivery of one
+          copy to each person to be served or by mailing by first-class mail, or
+          air mail if more than 300 miles, properly addressed with postage
+          prepaid. When a party or intervener has appeared by attorney or
+          representative, service upon such attorney or representative will be
+          deemed proper service. The initial notice of hearing, opportunity to
+          request a hearing, or notice setting a date for a hearing shall be by
+          certified mail, return receipt requested.
+        </P>
+      </contents>
+    </section>
+    <section orderid='555'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.74
+      </extid>
+      <num st='1'>
+        15.74
+      </num>
+      <head>
+        Date of service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='74' psec='' tq='N'>
+              15.74
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Date of service.
+        </SUBJECT>
+        <P>
+          The date of service shall be the day when the matter is deposited in
+          the U.S. mail or is delivered in person, except that the date of
+          service of the initial notice a hearing or notice of opportunity to
+          request a hearing or notice setting a date for a hearing shall be the
+          date of its delivery, or of its attempted delivery if delivery is
+          refused.
+        </P>
+      </contents>
+    </section>
+    <section orderid='556'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.81
+      </extid>
+      <num st='1'>
+        15.81
+      </num>
+      <head>
+        How proceedings are commenced.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='81' psec='' tq='N'>
+              15.81
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How proceedings are commenced.
+        </SUBJECT>
+        <P>
+          Proceedings are commenced by mailing a notice to an applicant or
+          recipient of alleged noncompliance with the Act and the
+          Secretary&apos;s regulations thereunder. The notice will be signed by
+          the interested agency head or by the Secretary and shall be filed with
+          the hearing clerk for proper service by the hearing clerk according to
+          the rules of this subpart. The notice shall include either a notice of
+          hearing or notice of opportunity to request a hearing as determined by
+          the Secretary and shall comply with the requirements of 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='9' psec='#a' tq='N'>
+              15.9(a)
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='557'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.82
+      </extid>
+      <num st='1'>
+        15.82
+      </num>
+      <head>
+        Notice of hearing and response thereto.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='82' psec='' tq='N'>
+              15.82
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notice of hearing and response thereto.
+        </SUBJECT>
+        <P>
+          A notice of hearing shall fix a date not less than 30 days from the
+          date of service of the notice of a hearing on matters alleged in the
+          notice. If the applicant or recipient does not desire a hearing, he
+          should so state in writing, in which case the applicant or recipient
+          shall have the right to submit written information and argument for
+          the record, and the additional right to further participate in the
+          proceeding. Failure to appear at the time set for a hearing, without
+          good cause, shall be deemed a waiver of the right to a hearing under 
+          <aref type='UNKNOWN'>
+            section 602 of
+          </aref>
+           the Act and the regulations in this part and consent to the making of
+          a decision on such information as is available which may be presented
+          for the record.
+        </P>
+      </contents>
+    </section>
+    <section orderid='558'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.83
+      </extid>
+      <num st='1'>
+        15.83
+      </num>
+      <head>
+        Notice of opportunity to request a hearing and response thereto.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='420' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='83' psec='' tq='N'>
+              15.83
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notice of opportunity to request a hearing and response thereto.
+        </SUBJECT>
+        <P>
+          A notice of opportunity to request a hearing shall set a date not less
+          than 20 days from service of said notice within which the applicant or
+          recipient may file a request for a hearing, or may wiave a hearing and
+          submit written information and argument for the record, in which case,
+          the applicant or recipient shall have the right to further participate
+          in the proceeding. When the applicant or recipient elects to file a
+          request for a hearing, a time shall be set for the hearing at a date
+          not less than 20 days from the date applicant or recipient is notified
+          of the date set for the hearing. Failure of the applicant or recipient
+          to request a hearing or to appear at the date set shall be deemed a
+          waiver of the right to a hearing, under 
+          <aref type='UNKNOWN'>
+            section 602 of
+          </aref>
+           the Act and the regulations in this part and consent to the making of
+          a decision on such information as is available which may be presented
+          for the record.
+        </P>
+      </contents>
+    </section>
+    <section orderid='559'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.84
+      </extid>
+      <num st='1'>
+        15.84
+      </num>
+      <head>
+        Answer.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='84' psec='' tq='N'>
+              15.84
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Answer.
+        </SUBJECT>
+        <P>
+          In any case covered by 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='82' psec='' tq='N'>
+              15.82
+            </subref>
+          </aref>
+           or 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='83' psec='' tq='N'>
+              15.83
+            </subref>
+          </aref>
+           the applicant or recipient shall file an answer. Said answer shall
+          admit or deny each allegation of the notice, unless the applicant or
+          recipient is without knowledge, in which case the answer shall so
+          state, and the statement will be considered a denial. Failure to file
+          an answer shall be deemed an admission of all allegations of fact in
+          the notice. Allegations of fact in the notice not denied or
+          controverted by answer shall be deemed admitted. Matters intended to
+          be offered as affirmative defenses must be stated as a separate part
+          of the answer. The answer under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='82' psec='' tq='N'>
+              15.82
+            </subref>
+          </aref>
+           shall be filed within 20 days from the date of service of the notice
+          of hearing. The answer under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='83' psec='' tq='N'>
+              15.83
+            </subref>
+          </aref>
+           shall be filed within 20 days of service of the notice of opportunity
+          to request a hearing.
+        </P>
+      </contents>
+    </section>
+    <section orderid='560'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.85
+      </extid>
+      <num st='1'>
+        15.85
+      </num>
+      <head>
+        Amendment of notice or answer.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='85' psec='' tq='N'>
+              15.85
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Amendment of notice or answer.
+        </SUBJECT>
+        <P>
+          The notice of hearing or notice of opportunity to request a hearing
+          may be amended once as a matter of course before an answer thereto is
+          served, and each applicant or recipient may amend his answer once as a
+          matter of course not later than 10 days before the date fixed for
+          hearing but in no event later than 20 days from the date of service of
+          his original answer. Otherwise a notice or answer may be amended only
+          by leave of the hearing officer. An applicant or recipient shall file
+          his answer to an amended notice within the time remaining for filing
+          the answer to the original notice or within 10 days after service of
+          the amended notice, whichever period may be the longer, unless the
+          hearing officer otherwise orders.
+        </P>
+      </contents>
+    </section>
+    <section orderid='561'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.86
+      </extid>
+      <num st='1'>
+        15.86
+      </num>
+      <head>
+        Consolidated or joint hearings.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='86' psec='' tq='N'>
+              15.86
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Consolidated or joint hearings.
+        </SUBJECT>
+        <P>
+          Two or more proceedings against the same respondent, or against
+          different respondents in which the same or related facts are asserted
+          to constitute noncompliance, may be consolidated for hearing or
+          decision or both by the agency head, if he has the principal
+          responsibility within the Department for the administration of all the
+          laws extending the Federal financial assistance involved. If laws
+          administered by more than one agency head are involved, such officials
+          may by agreement order consolidation for hearing. The Secretary may
+          order proceedings in the Department consolidated for hearing with
+          proceedings in other Federal Departments or agencies, by agreement
+          with such other Departments or agencies. All parties to any proceeding
+          consolidated subsequently to service of the notice of hearing or
+          notice of opportunity to request a hearing shall be promptly served
+          with notice of such consolidation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='562'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.91
+      </extid>
+      <num st='1'>
+        15.91
+      </num>
+      <head>
+        Who presides.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='91' psec='' tq='N'>
+              15.91
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who presides.
+        </SUBJECT>
+        <P>
+          A hearing officer shall preside over all proceedings held under this
+          part. The hearing officer shall be a hearing examiner qualified under 
+          <aref type='UNKNOWN'>
+            section 11 of
+          </aref>
+           the Administrative Procedure Act (
+          <aref type='USC'>
+            <subref title='5' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/1001.html'>
+              5 U.S.C. 1001
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ), and designated to hold hearings under the regulations in this
+          subpart or any person authorized to hold a hearing and make a final
+          decision. The hearing officer will serve until he has made an initial
+          decision, certified the record to the Secretary, or made a final
+          decision if so authorized.
+        </P>
+      </contents>
+    </section>
+    <section orderid='563'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.92
+      </extid>
+      <num st='1'>
+        15.92
+      </num>
+      <head>
+        Designation of hearing officer.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='421' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='92' psec='' tq='N'>
+              15.92
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Designation of hearing officer.
+        </SUBJECT>
+        <P>
+          Unless otherwise provided by an order of the Secretary at the time the
+          notice of alleged noncompliance provided in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='81' psec='' tq='N'>
+              15.81
+            </subref>
+          </aref>
+           is filed with the Office of the Hearing Clerk, the hearing shall be
+          held before a hearing examiner, who shall be appointed by the Chief
+          Hearing Examiner, Office of Hearing Examiners within five days after
+          the filing of such notice. Unless otherwise provided, the hearing
+          examiner shall certify the entire record with his recommended findings
+          and proposed decision to the Secretary for final decision.
+        </P>
+      </contents>
+    </section>
+    <section orderid='564'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.93
+      </extid>
+      <num st='1'>
+        15.93
+      </num>
+      <head>
+        Time and place of hearing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='93' psec='' tq='N'>
+              15.93
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Time and place of hearing.
+        </SUBJECT>
+        <P>
+          When a notice of hearing is sent to an applicant or recipient, the
+          time and place of hearing shall be fixed by the Secretary, and when
+          the applicant or recipient requests a hearing, the time and place
+          shall be set by the hearing officer and in either case in conformity
+          with 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='9' psec='#b' tq='N'>
+              15.9(b)
+            </subref>
+          </aref>
+          . The complainant, if any, shall be advised of the time and place of
+          the hearing.
+        </P>
+      </contents>
+    </section>
+    <section orderid='565'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.94
+      </extid>
+      <num st='1'>
+        15.94
+      </num>
+      <head>
+        Disability of hearing officer.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='94' psec='' tq='N'>
+              15.94
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disability of hearing officer.
+        </SUBJECT>
+        <P>
+          In the case of death, illness, disqualification, or unavailability of
+          the designated hearing officer, another hearing officer may be
+          designated by the Secretary to take his place. If such death, illness,
+          disqualification or unavailability occurs during the course of a
+          hearing, the hearing will be either continued under a substitute
+          hearing officer, or terminated and tried de novo in the discretion of
+          the Secretary. In the absence of the designated hearing officer any
+          hearing examiner may rule on motions and other interlocutory papers.
+        </P>
+      </contents>
+    </section>
+    <section orderid='566'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.95
+      </extid>
+      <num st='1'>
+        15.95
+      </num>
+      <head>
+        Responsibilities and duties of hearing officer.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='95' psec='' tq='N'>
+              15.95
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Responsibilities and duties of hearing officer.
+        </SUBJECT>
+        <P>
+          The hearing officer shall have the duty to conduct a fair hearing, to
+          take all necessary action to avoid delay, and to maintain order. He
+          shall have all powers necessary to these ends, including (but not
+          limited to) the power to:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Arrange and issue notice of the date, time and place of hearings,
+            or, upon due notice to the parties, to change the date, time and
+            place of hearings previously set.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Hold conferences to settle, simplify, or fix the issues in a
+            proceeding, or to consider other matters that may aid in the
+            expeditious disposition of the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Require parties and interveners to state their position with
+            respect to the various issues in the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Administer oaths and affirmations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Rule on motions, and other procedural items on matters pending
+            before him.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Regulate the course of the hearing and conduct of parties therein.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Examine witnesses and direct witnesses to testify.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Receive, rule on, exclude or limit evidence.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Fix the time for filing motions, petitions, briefs, or other items
+            in matters pending before him.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             In accordance with his authority issue an initial decision, or
+            recommended findings and proposed decision, or final decision.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             Take any other action a hearing officer is authorized to take under
+            these rules or subpart A of this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='567'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.101
+      </extid>
+      <num st='1'>
+        15.101
+      </num>
+      <head>
+        Form and content.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='101' psec='' tq='N'>
+              15.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Form and content.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Motions shall state the relief sought and the authority relied
+            upon. If made before or after the hearing, the motion shall be in
+            writing and filed with the hearing clerk with a copy to all parties.
+            If made at the hearing, they should be stated orally but the hearing
+            officer may require that any motion be reduced to writing and filed
+            and served on all parties in the same manner as a formal motion.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Extension of time or postponement.
+            </head>
+          </npcatch>
+          <text>
+             A request for an extention of time should be filed and served on
+            all parties and should set forth the reasons for the request and may
+            be granted upon a showing of good cause. Answers to such requests
+            are permitted, if made promptly.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='568'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.102
+      </extid>
+      <num st='1'>
+        15.102
+      </num>
+      <head>
+        Responses to motions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='102' psec='' tq='N'>
+              15.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Responses to motions.
+        </SUBJECT>
+        <P>
+          Within 8 days or such reasonable time as may be fixed by the hearing
+          officer, or Secretary, if the motion is properly addressed to him, any
+          party 
+          <PRTPAGE P='422' />
+          may file a response to the motion, unless the motion is made at a
+          hearing in which case an immediate response may be required. The
+          hearing officer may dispose of motions at a prehearing conference.
+        </P>
+      </contents>
+    </section>
+    <section orderid='569'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.103
+      </extid>
+      <num st='1'>
+        15.103
+      </num>
+      <head>
+        Disposition of motions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='103' psec='' tq='N'>
+              15.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disposition of motions.
+        </SUBJECT>
+        <P>
+          The hearing officer may not sustain or grant a motion prior to
+          expiration of the time for filing responses thereto, but may overrule
+          or deny such motion without waiting on a response: 
+          <E T='03'>
+            Provided, however,
+          </E>
+           That prehearing conferences, hearings, and decisions need not be
+          delayed pending disposition of motions. Oral motions may be ruled on
+          immediately. Motions submitted to the hearing officer not disposed of
+          in separate rulings or in his decision will be deemed denied. Oral
+          argument shall not be held on written motions unless expressly
+          ordered. Interlocutory appeals from rulings on motions shall be
+          governed by 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='123' psec='' tq='N'>
+              15.123
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='570'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.110
+      </extid>
+      <num st='1'>
+        15.110
+      </num>
+      <head>
+        Prehearing conferences.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='110' psec='' tq='N'>
+              15.110
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Prehearing conferences.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In any case in which it appears that such procedure will expedite
+            the proceeding, the hearing officer may, prior to the commencement
+            of the hearing, request the parties to meet with him or to
+            correspond with him regarding any of the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Simplification and clarification of the issues;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Necessity or desirability of amendments to the pleadings;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Stipulations, admissions of fact and of the contents and
+            authenticity of documents;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Matters of which official notice will be taken;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Limitation of the number of experts or other witnesses;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Disposal of all motions; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Such other matters as may expedite and aid in the disposition of
+            the proceeding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The hearing officer shall enter in the record a written summary of
+            the results of the conference or correspondence with the parties.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='571'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.111
+      </extid>
+      <num st='1'>
+        15.111
+      </num>
+      <head>
+        Purpose of hearing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='111' psec='' tq='N'>
+              15.111
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose of hearing.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The hearing is directed to receiving factual evidence and expert
+            opinion testimony related to the issues in the proceeding. Argument
+            will not be received in evidence; rather it should be presented in
+            statements, memoranda or briefs, as determined by the hearing
+            officer. Brief opening statements, which shall be limited to a
+            statement of the party&apos;s position and what he intends to prove,
+            may also be made at hearings.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Hearings for the reception of evidence will be held only in cases
+            where issues of fact must be resolved in order to determine whether
+            the respondent has failed to comply with one or more applicable
+            requirements of subpart A of this part. In any case where it appears
+            from the answer of the applicant or recipient to the notice of
+            hearing or notice of opportunity to request a hearing, from his
+            failure timely to answer, or from his admissions or stipulations in
+            the record that there are no matters of material fact in dispute,
+            the hearing officer may enter an order so finding, and fixing the
+            time for the submission of evidence by the Government for the
+            record. Thereafter, the proceedings shall go to conclusion in
+            accordance with subpart A of this part and the rules of this
+            subpart. An appeal from such order may be allowed in accordance with
+            the rules for interlocutory appeal in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='15' sect='123' psec='' tq='N'>
+                15.123
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='572'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.112
+      </extid>
+      <num st='1'>
+        15.112
+      </num>
+      <head>
+        Statement of position and brief.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='112' psec='' tq='N'>
+              15.112
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Statement of position and brief.
+        </SUBJECT>
+        <P>
+          The hearing officer may require all parties and any intervener to file
+          a written statement of position or brief prior to the beginning of a
+          hearing.
+        </P>
+      </contents>
+    </section>
+    <section orderid='573'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.113
+      </extid>
+      <num st='1'>
+        15.113
+      </num>
+      <head>
+        Testimony.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='113' psec='' tq='N'>
+              15.113
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Testimony.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Testimony shall be given orally under oath or affirmation by
+            witnesses at the hearing, but the hearing officer, in his
+            discretion, may require or permit that the testimony of any witness
+            be prepared in writing and served on all parties in advance of the
+            hearing. Such testimony may be adopted by the witness at the hearing
+            and filed as part of the record thereof. Unless authorized by the
+            hearing officer, witnesses will not be permitted to read prepared
+            testimony into the record. Except as provided in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='15' sect='115' psec='' tq='N'>
+                15.115
+              </subref>
+               and 
+              <subref title='7' part='15' sect='116' psec='' tq='N'>
+                15.116
+              </subref>
+            </aref>
+            , witnesses shall be available at the hearing for cross-examination.
+            <PRTPAGE P='423' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Proposed exhibits shall be exchanged either at a prehearing
+            conference, or otherwise prior to the hearing. Proposed exhibits not
+            so exchanged may be denied admission as evidence unless good cause
+            is shown why they were not exchanged. The authenticity of all
+            proposed exhibits exchanged prior to hearing will be deemed admitted
+            unless written objection thereto is filed prior to the hearing or
+            unless good cause is shown at the hearing for failure to file such
+            written objection.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='574'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.115
+      </extid>
+      <num st='1'>
+        15.115
+      </num>
+      <head>
+        Affidavits.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='115' psec='' tq='N'>
+              15.115
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Affidavits.
+        </SUBJECT>
+        <P>
+          An affidavit, intended to be used as evidence without
+          cross-examination of the affiant, will be filed and served on the
+          parties at least 15 days prior to the hearing; and not less than seven
+          days prior to hearing a party may file and serve written objections to
+          any affidavit on the ground that he believes it necessary to test the
+          truth of assertions therein by cross-examination. In such event, the
+          affidavit objected to will not be received in evidence unless the
+          affiant is made available for cross-examination at the hearing or
+          otherwise as prescribed by the hearing officer. In absence of an
+          objection being filed within the time specified, such affidavit will
+          be received in evidence.
+        </P>
+      </contents>
+    </section>
+    <section orderid='575'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.116
+      </extid>
+      <num st='1'>
+        15.116
+      </num>
+      <head>
+        Depositions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='116' psec='' tq='N'>
+              15.116
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Depositions.
+        </SUBJECT>
+        <P>
+          Upon such terms as may be just, the hearing officer, in his
+          discretion, may authorize the testimony of any witness to be taken by
+          deposition.
+        </P>
+      </contents>
+    </section>
+    <section orderid='576'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.117
+      </extid>
+      <num st='1'>
+        15.117
+      </num>
+      <head>
+        Evidence.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='117' psec='' tq='N'>
+              15.117
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evidence.
+        </SUBJECT>
+        <P>
+          Irrelevant, immaterial, unreliable, and unduly repetitious evidence
+          will be excluded, and technical rules of evidence shall not apply but
+          rules or principles designed to assure the most credible evidence
+          available and to subject testimony to test by cross-examination shall
+          apply.
+        </P>
+      </contents>
+    </section>
+    <section orderid='577'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.118
+      </extid>
+      <num st='1'>
+        15.118
+      </num>
+      <head>
+        Cross-examination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='118' psec='' tq='N'>
+              15.118
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cross-examination.
+        </SUBJECT>
+        <P>
+          Cross-examination will be limited to the scope of direct examination
+          and matters at issue in the hearing.
+        </P>
+      </contents>
+    </section>
+    <section orderid='578'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.119
+      </extid>
+      <num st='1'>
+        15.119
+      </num>
+      <head>
+        Objections.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='119' psec='' tq='N'>
+              15.119
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Objections.
+        </SUBJECT>
+        <P>
+          Objections to evidence shall be timely and briefly state the ground
+          relied upon. The ruling of the hearing officer will be part of the
+          record. Argument in support of the objection will not be part of the
+          record.
+        </P>
+      </contents>
+    </section>
+    <section orderid='579'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.120
+      </extid>
+      <num st='1'>
+        15.120
+      </num>
+      <head>
+        Exceptions to rulings of hearing officer unnecessary.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='120' psec='' tq='N'>
+              15.120
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exceptions to rulings of hearing officer unnecessary.
+        </SUBJECT>
+        <P>
+          Exceptions to rulings of the hearing officer are unnecessary. It is
+          sufficient that a party, at the time the ruling of the hearing officer
+          is sought, makes known the action which he desires the hearing officer
+          to take, or his objection to an action taken, and his grounds
+          therefor.
+        </P>
+      </contents>
+    </section>
+    <section orderid='580'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.121
+      </extid>
+      <num st='1'>
+        15.121
+      </num>
+      <head>
+        Official notice.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='121' psec='' tq='N'>
+              15.121
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Official notice.
+        </SUBJECT>
+        <P>
+          A public document, or part thereof, such as an official report
+          decision, opinion, or published scientific or economic statistical
+          data issued by any branch of the Federal or a State Government which
+          has been shown to be reasonably available to the public, may be
+          offered for official notice and accepted in the record without further
+          proof of authenticity. Where official notice is to be taken, any
+          party, on timely request, shall have an opportunity to show the
+          contrary.
+        </P>
+      </contents>
+    </section>
+    <section orderid='581'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.122
+      </extid>
+      <num st='1'>
+        15.122
+      </num>
+      <head>
+        Offer of proof.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='122' psec='' tq='N'>
+              15.122
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Offer of proof.
+        </SUBJECT>
+        <P>
+          An offer of proof made in connection with an objection taken to any
+          ruling of the hearing officer rejecting or excluding proposed oral
+          testimony shall consist of a statement for the record of the substance
+          of the evidence which counsel contends would be adduced by such
+          testimony; and, if the excluded evidence consists of evidence in
+          documentary or written form or of reference to documents or records, a
+          copy of such evidence shall be marked for identification and shall
+          accompany the record as an offer of proof.
+        </P>
+      </contents>
+    </section>
+    <section orderid='582'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.123
+      </extid>
+      <num st='1'>
+        15.123
+      </num>
+      <head>
+        Appeals from ruling of hearing officer.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='123' psec='' tq='N'>
+              15.123
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals from ruling of hearing officer.
+        </SUBJECT>
+        <P>
+          A ruling of the hearing officer may not be appealed to the Secretary
+          prior to consideration of the entire proceeding by the hearing officer
+          except with the consent of the hearing officer and where he certifies
+          on the record or in writing that the allowance of an interlocutory
+          appeal is clearly necessary to prevent exceptional delay, expense, or
+          prejudice to any part or substantial 
+          <PRTPAGE P='424' />
+          detriment to the public interest. If an appeal is allowed, any party
+          may file a brief with the Secretary within such period as the hearing
+          officer directs. Oral argument will be heard in the discretion of the
+          Secretary.
+        </P>
+      </contents>
+    </section>
+    <section orderid='583'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.124
+      </extid>
+      <num st='1'>
+        15.124
+      </num>
+      <head>
+        Admissions as to facts and documents.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          31 FR 8586
+        </aref>
+        , June 21, 1966]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='124' psec='' tq='N'>
+              15.124
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Admissions as to facts and documents.
+        </SUBJECT>
+        <P>
+          Not later than 15 days prior to the scheduled date of the hearing
+          except for good cause shown, or prior to such earlier date as the
+          hearing officer may order, any party may serve upon an opposing party
+          a written request for the admission of the genuineness and
+          authenticity of any relevant documents described in and exhibited with
+          the request, or for the admission of the truth of any relevant matters
+          of fact stated in the request. Each of the matters of which an
+          admission is requested shall be deemed admitted, unless within a
+          period designated in the request (not less than 10 days after service
+          thereof, or within such further time as the hearing officer may allow
+          upon motion and notice) the party to whom the request is directed
+          serves upon the requesting party a sworn statement either denying
+          specifically the matters of which an admission is requested or setting
+          forth in detail the reasons why he cannot truthfully either admit or
+          deny such matters. Copies of requests for admission and answers
+          thereto shall be served on all parties. Any admission made by a party
+          to such request is only for the purposes of the pending proceeding, or
+          any proceeding or action instituted for the enforcement of any order
+          entered therein, and shall not constitute an admission by him for any
+          other purpose or be used against him in any other proceeding or
+          action.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            31 FR 8586
+          </aref>
+          , June 21, 1966]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='584'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.131
+      </extid>
+      <num st='1'>
+        15.131
+      </num>
+      <head>
+        Official transcript.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='131' psec='' tq='N'>
+              15.131
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Official transcript.
+        </SUBJECT>
+        <P>
+          The hearing clerk will designate the official reporter for all
+          hearings. The official transcript of testimony taken, together with
+          any affidavits, exhibits, depositions, briefs, or memoranda of law
+          shall be filed with the hearing clerk. Transcripts of testimony in
+          hearings will be supplied by the official reporter to the parties and
+          to the public at rates not to exceed the maximum rates fixed by the
+          contract between the Department and the reporter. Upon notice to all
+          parties, the hearing officer may authorize corrections to the
+          transcript which involve matters of substance.
+        </P>
+      </contents>
+    </section>
+    <section orderid='585'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.132
+      </extid>
+      <num st='1'>
+        15.132
+      </num>
+      <head>
+        Record for decision.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='132' psec='' tq='N'>
+              15.132
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Record for decision.
+        </SUBJECT>
+        <P>
+          The transcript of testimony, exhibits, affidavits, depositions,
+          briefs, memoranda of law, and all pleadings, motions, papers, and
+          requests filed in the proceeding, except the correspondence section of
+          the docket, including rulings, and any recommended findings and
+          proposed decision, or initial decision shall constitute the exclusive
+          record for final decision.
+        </P>
+      </contents>
+    </section>
+    <section orderid='586'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.135
+      </extid>
+      <num st='1'>
+        15.135
+      </num>
+      <head>
+        Posthearing briefs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='135' psec='' tq='N'>
+              15.135
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Posthearing briefs.
+        </SUBJECT>
+        <P>
+          The hearing officer shall fix a reasonable time for filing posthearing
+          briefs, which may contain proposed findings of fact and conclusions of
+          law, and, if permitted, reply briefs. Briefs should include a summary
+          of the evidence relied upon together with references to exhibit
+          numbers and pages of the transcript, with citations of the authorities
+          relied upon. Briefs shall be filed in the Office of the Hearing Clerk
+          with a copy to all parties.
+        </P>
+      </contents>
+    </section>
+    <section orderid='587'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.136
+      </extid>
+      <num st='1'>
+        15.136
+      </num>
+      <head>
+        Decisions and notices.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='136' psec='' tq='N'>
+              15.136
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Decisions and notices.
+        </SUBJECT>
+        <P>
+          When the time for submission of posthearing briefs has expired the
+          hearing officer shall either make an initial decision or final
+          decision, if so authorized, or certify the entire record including his
+          recommended findings and proposed decision to the Secretary for a
+          final decision and a copy of such initial, or final decision or
+          certification shall be mailed to the applicant or recipient and other
+          parties by the hearing clerk.
+        </P>
+      </contents>
+    </section>
+    <section orderid='588'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.137
+      </extid>
+      <num st='1'>
+        15.137
+      </num>
+      <head>
+        Exceptions to initial or proposed decision.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='137' psec='' tq='N'>
+              15.137
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exceptions to initial or proposed decision.
+        </SUBJECT>
+        <P>
+          Within 30 days of the mailing of such notice of initial or recommended
+          findings and proposed decision, the applicant or recipient and other
+          parties may file with the hearing clerk for consideration by the
+          Secretary exceptions to 
+          <PRTPAGE P='425' />
+          the initial or recommended findings and proposed decision, with
+          reasons therefor. Each party will be given reasonable opportunity to
+          file briefs or other written statements of contentions in which the
+          party may request that the decision be modified, reversed, affirmed or
+          adopted.
+        </P>
+      </contents>
+    </section>
+    <section orderid='589'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.138
+      </extid>
+      <num st='1'>
+        15.138
+      </num>
+      <head>
+        Review of initial decision.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='138' psec='' tq='N'>
+              15.138
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Review of initial decision.
+        </SUBJECT>
+        <P>
+          In the absence of exceptions to an initial decision, the Secretary may
+          on his own motion within 45 days after an initial decision serve upon
+          the parties a notice that he will review the decision and will give
+          the parties reasonable opportunity to file briefs or other written
+          statements of contentions. At the expiration of said time for filing
+          briefs, the Secretary will review the initial decision and issue a
+          final decision thereon. In the absence of either exceptions to an
+          initial decision or a notice or review, the initial decision shall
+          constitute the final decision of the Secretary.
+        </P>
+      </contents>
+    </section>
+    <section orderid='590'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.139
+      </extid>
+      <num st='1'>
+        15.139
+      </num>
+      <head>
+        Oral argument.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='139' psec='' tq='N'>
+              15.139
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Oral argument.
+        </SUBJECT>
+        <P>
+          If any party desires to argue orally before the Secretary on the
+          review of recommended findings and proposed decision, or an initial
+          decision, he shall so state at the time he files his exceptions or
+          brief. The Secretary may grant such request in his discretion. If
+          granted, he will serve notice of oral argument on all parties and will
+          set forth the order of presentation and the amount of time allotted,
+          and the time and place of argument.
+        </P>
+      </contents>
+    </section>
+    <section orderid='591'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.140
+      </extid>
+      <num st='1'>
+        15.140
+      </num>
+      <head>
+        Service of decisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='140' psec='' tq='N'>
+              15.140
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Service of decisions.
+        </SUBJECT>
+        <P>
+          All final decisions shall be promptly served on all parties and the
+          complainant.
+        </P>
+      </contents>
+    </section>
+    <section orderid='592'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.141
+      </extid>
+      <num st='1'>
+        15.141
+      </num>
+      <head>
+        Contents of decision.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='141' psec='' tq='N'>
+              15.141
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contents of decision.
+        </SUBJECT>
+        <P>
+          Each decision of a hearing officer shall set forth his ruling on each
+          finding, conclusion, or exception presented, and shall identify the
+          requirement or requirements imposed by or pursuant to the regulations
+          in this part with which it is found that the applicant or recipient
+          has failed to comply.
+        </P>
+      </contents>
+    </section>
+    <section orderid='593'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.142
+      </extid>
+      <num st='1'>
+        15.142
+      </num>
+      <head>
+        Content of orders.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='142' psec='' tq='N'>
+              15.142
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Content of orders.
+        </SUBJECT>
+        <P>
+          The final decision may provide for suspension or termination of, or
+          refusal to grant or continue Federal financial assistance, in whole or
+          in part, under the program involved, and may contain such terms,
+          conditions, and other provisions as are consistent with and will
+          effectuate the purposes of the Act and the regulations in this part,
+          including provisions designed to assure that no Federal financial
+          assistance will thereafter be extended under such program to the
+          applicant or recipient determined by such decision to be in default in
+          its performance of an assurance given by it pursuant to the
+          regulations in this part, or to have otherwise failed to comply with
+          the regulations in this part, unless and until it corrects its
+          noncompliance and satisfies the Agency that it will fully comply with
+          the regulations in this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='594'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:15:C:15.143
+      </extid>
+      <num st='1'>
+        15.143
+      </num>
+      <head>
+        Decision where financial assistance affected.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='15' sect='143' psec='' tq='N'>
+              15.143
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Decision where financial assistance affected.
+        </SUBJECT>
+        <P>
+          The Secretary shall make any final decision which provides for the
+          suspension or termination of, or the refusal to grant or continue
+          Federal financial assistance, or the imposition of any other sanction
+          available under the regulations in this part or the Act.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

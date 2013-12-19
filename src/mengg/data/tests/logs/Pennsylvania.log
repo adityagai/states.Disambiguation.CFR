@@ -1,0 +1,19 @@
+------------------ Evaluation model for Pennsylvania ---------------------
+
+Number of attributes : 3500
+
+Correctly Classified Instances          27               67.5    %
+Incorrectly Classified Instances        13               32.5    %
+Kappa statistic                          0.35  
+Mean absolute error                      0.325 
+Root mean squared error                  0.5701
+Relative absolute error                 65      %
+Root relative squared error            114.0175 %
+Total Number of Instances               40     
+
+=========== Confusion Matrix ===================
+16.0|4.0|
+9.0|11.0|
+
+
+----------- ModelPath : C:\Users\Prasannjit Kumar\workspace\stateDisambiguation/src/mengg/data/tests/trainingModel/Pennsylvania.model

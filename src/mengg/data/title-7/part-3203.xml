@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXXII:-:3203
+    </extid>
+    <num>
+      3203
+    </num>
+    <head>
+      GUIDELINES FOR THE TRANSFER OF EXCESS COMPUTERS OR OTHER TECHNICAL
+      EQUIPMENT PURSUANT TO SECTION 14220 OF THE 2008 FARM BILL
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='2206b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2206b.html'>
+              7 U.S.C. 2206b
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            77 FR 26661
+          </aref>
+          , May 7, 2012, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='16367'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.1
+      </extid>
+      <num st='1'>
+        3203.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='327' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='1' psec='' tq='N'>
+              3203.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This part sets forth the procedures to be utilized by USDA when
+          transferring excess USDA computers or other technical equipment to an
+          organization for the purposes of distribution to a city, town, or
+          local government entity in a rural area as authorized by 
+          <aref type='USC'>
+            <subref title='7' sect='2206b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2206b.html'>
+              7 U.S.C. 2206b
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='16368'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.2
+      </extid>
+      <num st='1'>
+        3203.2
+      </num>
+      <head>
+        Eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='2' psec='' tq='N'>
+              3203.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility.
+        </SUBJECT>
+        <P>
+          To be eligible under this part:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A city, town, or local government entity must be located in a rural
+            area as defined in 
+            <aref type='USC'>
+              <subref title='7' sect='1991' note='' psec='#a_13_A' tq='N' target='http://www.law.cornell.edu/uscode/7/1991.html#a_13_A'>
+                7 U.S.C. 1991(a)(13)(A)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A designated organization must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Have the documented capability to refurbish and distribute excess
+            computers or other technical equipment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Serve the interest of cities, towns, or local government entities
+            in rural areas; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Have been designated by an official of a city, town, or local
+            government entity in a rural area to receive excess computers or
+            other technical equipment under this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16369'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.3
+      </extid>
+      <num st='1'>
+        3203.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='3' psec='' tq='N'>
+              3203.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Cannibalization
+          </E>
+           means to remove serviceable parts from one item of equipment in order
+          to install them on another item of equipment in order to repair or
+          enhance its operability.
+        </P>
+        <P>
+          <E T='03'>
+            City, town, or local government entity in a rural area
+          </E>
+           as defined in 
+          <aref type='USC'>
+            <subref title='7' sect='1991' note='' psec='#a_13_A' tq='N' target='http://www.law.cornell.edu/uscode/7/1991.html#a_13_A'>
+              7 U.S.C. 1991(a)(13)(A)
+            </subref>
+          </aref>
+           means any area other than:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A city or town that has a population of greater than 50,000
+            inhabitants; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any urbanized area contiguous and adjacent to such a city or town
+            described in paragraph (1) of this definition.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Computers or other technical equipment
+          </E>
+           means central processing units, laptops, desktops, computer mouses,
+          keyboards, monitors, related peripheral tools (e.g., printers, modems,
+          routers, servers, multimedia projectors, multifunctional devices,
+          external hard drives) and fax machines. This term may also include
+          computer software where the transfer of a license is permitted.
+        </P>
+        <P>
+          <E T='03'>
+            Designated organization
+          </E>
+           means an organization that has been selected by an official of a
+          city, town, or local government entity in a rural area to provide
+          refurbishing services on donated computer and technical equipment.
+        </P>
+        <P>
+          <E T='03'>
+            Excess
+          </E>
+           means any property under the control of a USDA agency that is no
+          longer required for that agency&apos;s or another USDA agency&apos;s
+          needs, as determined by the agency head or designee.
+        </P>
+        <P>
+          <E T='03'>
+            Property Management Officer (PMO)
+          </E>
+           is an eligible recipient&apos;s designated point of contact,
+          responsible for adherence to procedures described in this part.
+        </P>
+        <P>
+          <E T='03'>
+            Recipient
+          </E>
+           means a city, town, or local government entity located in a rural
+          area as defined in 
+          <aref type='USC'>
+            <subref title='7' sect='1991' note='' psec='#a_13_A' tq='N' target='http://www.law.cornell.edu/uscode/7/1991.html#a_13_A'>
+              7 U.S.C. 1991(a)(13)(A)
+            </subref>
+          </aref>
+           that may receive excess computers or other technical equipment under
+          this part.
+        </P>
+        <P>
+          <E T='03'>
+            Refurbish
+          </E>
+           means to make `like new&apos; by the process of major maintenance or
+          minor repair of an item, either aesthetically or mechanically.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16370'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.4
+      </extid>
+      <num st='1'>
+        3203.4
+      </num>
+      <head>
+        Procedures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='4' psec='' tq='N'>
+              3203.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Procedures.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each agency head will designate, in writing, an authorized official
+            to approve transfers of excess computers or other technical
+            equipment under this part consistent with the Department&apos;s
+            policies on personal property management.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Excess computers or other technical equipment must first be
+            internally screened to ensure it is not needed elsewhere in the
+            Department.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             To receive information concerning the availability of USDA excess
+            computers or other technical equipment, an eligible recipient&apos;s
+            PMO should contact any USDA office near to its location.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The USDA employee responsible for personal property, at the office
+            contacted, will review the request for eligibility of the recipient
+            and the availability of excess computers or other technical
+            equipment. The USDA employee will inform the requestor of the
+            outcome of the review (e.g. eligibility, the availability of excess
+            computers or other technical equipment).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible recipients will express their interest in receiving
+            property under this part by submitting a request, on letterhead
+            paper (electronic copy is acceptable), to a USDA authorized
+            official. All requests must originate from, and be signed by, a
+            representative of an eligible recipient 
+            <PRTPAGE P='328' />
+            city, town, or local government entity. Requests must include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Type of excess computers or other technical equipment requested
+            (should include specifications);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Justification for eligibility (see 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3203' sect='2' psec='' tq='N'>
+                3203.2
+              </subref>
+            </aref>
+            );
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Contact information of the requestor;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Logistical information such as when and how the property will be
+            picked up; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Information on the recipient&apos;s designated organization
+            (company name, contact person and phone number) that is designated
+            to receive and refurbish the property for the eligible recipient
+            along with a copy of the agreement between the recipient and its
+            designated organization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Excess computers or other technical equipment should be inspected
+            before the property is transferred or the USDA agency should be
+            contacted to verify the condition of the property.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             If the condition of the property is acceptable, the recipient or
+            its designated organization will coordinate with the USDA contact
+            for transfer of the property. Since the USDA agency office may have
+            several requests for property, it is critical that the recipient or
+            its designated organization contact USDA as soon as possible.
+            Property will usually be allocated on a first-come, first-served
+            basis, taking into account fair and equitable distribution of excess
+            computers or other technical equipment to all eligible recipients.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Transfers will be accomplished using the appropriate USDA property
+            transfer form. The transfer form must contain the following
+            statement: “Property listed on this form is being transferred
+            pursuant to the provisions in 
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3203' tq='N'>
+                3203
+              </subref>
+            </aref>
+            .” The form must be signed by an authorized official of the USDA
+            agency and an official of the recipient organization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A copy of the request that transferred the property must be
+            attached to the transfer order and kept in the USDA agency&apos;s
+            files.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             When property is transferred to a designated organization, a copy
+            of the completed transfer document will be sent to the eligible
+            recipient government entity for its records. Eligible recipients are
+            responsible for following up with the designated organization they
+            have designated for the final receipt of the property.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             In cases where an agency receives competing requests for excess
+            computers or other technical equipment, to the extent permitted by
+            law, the agency shall give full consideration to such factors as
+            national defense requirements, emergency needs, energy conservation,
+            preclusion of new procurement, fair and equitable distribution,
+            transportation costs, and retention of title in the Government.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+             Prior to transferring any property pursuant to this Act, the
+            transferring agency must remove data from the excess computers or
+            other technical equipment (memory or any kind of data storage
+            device) according to accepted sanitization procedures. To the
+            maximum extent practicable, the transferring agency must remove data
+            using a means that does not remove, disable, destroy, or otherwise
+            render unusable the excess computers or other technical equipment or
+            components. It is imperative that agencies take the necessary steps
+            to ensure that no personal computer, server, external storage
+            device, or related electronic component is transferred that might
+            contain sensitive or confidential information. See Departmental
+            Manual 3575-001, Security Controls in the System Life Cycle/System
+            Development Life Cycle, for additional guidance.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16371'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.5
+      </extid>
+      <num st='1'>
+        3203.5
+      </num>
+      <head>
+        Dollar limitation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='5' psec='' tq='N'>
+              3203.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Dollar limitation.
+        </SUBJECT>
+        <P>
+          There is no dollar limitation on excess computers or other technical
+          equipment obtained under this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16372'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.6
+      </extid>
+      <num st='1'>
+        3203.6
+      </num>
+      <head>
+        Restrictions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='6' psec='' tq='N'>
+              3203.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Restrictions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Only an authorized USDA official may approve the transfer of excess
+            computers or other technical equipment under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Excess computers or other technical equipment may be transferred
+            for the purpose of cannibalization, provided that the requestor
+            submits a statement clearly indicating that cannibalization of the
+            requested property will have greater benefit than utilization of the
+            item in its existing form. Cannibalization is a secondary use of 
+            <PRTPAGE P='329' />
+            equipment and, therefore, these requests are considered subordinate
+            to requests for primary use.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Designated organizations will only receive property for
+            cannibalization when it has been specifically requested by the
+            recipient and the cannibalized parts must only be used in computers
+            or other technical equipment destined for eligible recipients.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16373'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.7
+      </extid>
+      <num st='1'>
+        3203.7
+      </num>
+      <head>
+        Title.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='7' psec='' tq='N'>
+              3203.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Title.
+        </SUBJECT>
+        <P>
+          Title of ownership to excess computers or other technical equipment
+          transferred under this part shall automatically pass to the recipient
+          once the transferring agency and recipient or designated organization
+          sign the transfer form indicating that the designated organization has
+          received the property.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16374'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.8
+      </extid>
+      <num st='1'>
+        3203.8
+      </num>
+      <head>
+        Costs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='8' psec='' tq='N'>
+              3203.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Costs.
+        </SUBJECT>
+        <P>
+          The designated organization must pay any costs associated with
+          packaging and transportation of the property unless it has made other
+          arrangements. The designated organization must remove property from
+          the USDA agency&apos;s premises within 15 calendar days after being
+          notified that the property is available for pickup, unless otherwise
+          coordinated with the USDA agency. If the recipient decides prior to
+          picking up or removing the property that it no longer wants the
+          property, it must notify the USDA agency that approved the transfer
+          request that the property is no longer needed.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16375'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.9
+      </extid>
+      <num st='1'>
+        3203.9
+      </num>
+      <head>
+        Accountability and recordkeeping.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='9' psec='' tq='N'>
+              3203.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Accountability and recordkeeping.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             USDA requires all excess computers or other technical equipment
+            received by an eligible recipient pursuant to this part be placed
+            into use within one year of receipt of the property and used for at
+            least one year thereafter. The recipient&apos;s PMO must maintain
+            accountable records for such property during this time period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             GSA requires that all excess personal property given to non-federal
+            recipients be reported each fiscal year. USDA agencies that transfer
+            property under this part must report the transfers in their annual
+            reports to OPPM and include both the recipient and organization
+            names. OPPM will review the reports for accuracy, as well as fair
+            and equitable distribution of the excess computers or other
+            technical equipment, before submitting to GSA.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='16376'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.10
+      </extid>
+      <num st='1'>
+        3203.10
+      </num>
+      <head>
+        Disposal.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='10' psec='' tq='N'>
+              3203.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disposal.
+        </SUBJECT>
+        <P>
+          When property received under this part is no longer needed by the
+          recipient, it must be disposed of in an environmentally sound manner
+          that is not detrimental or dangerous to public health or safety and in
+          accordance with all Federal, State and local laws.
+        </P>
+      </contents>
+    </section>
+    <section orderid='16377'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXXII:-:3203:-:3203.11
+      </extid>
+      <num st='1'>
+        3203.11
+      </num>
+      <head>
+        Liabilities and losses.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='3203' sect='11' psec='' tq='N'>
+              3203.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Liabilities and losses.
+        </SUBJECT>
+        <P>
+          USDA assumes no liability with respect to accidents, bodily injury,
+          illness, or any other damages or loss related to excess computers or
+          other technical equipment transferred under this part. The
+          recipient/designated organization is advised to insure or otherwise
+          protect itself and others as appropriate.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

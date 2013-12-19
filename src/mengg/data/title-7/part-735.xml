@@ -1,0 +1,4508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol7'>
+    <extid>
+      lii:cfr:2013:7:0:B:VII:C:735
+    </extid>
+    <num>
+      735
+    </num>
+    <head>
+      REGULATIONS FOR THE UNITED STATES WAREHOUSE ACT
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='241' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/241.html'>
+              7 U.S.C. 241
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            67 FR 50763
+          </aref>
+          , Aug. 5, 2002, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6605'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.1
+      </extid>
+      <num st='1'>
+        735.1
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='1' psec='' tq='N'>
+              735.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations of this part set forth the terms and conditions
+            under which the Secretary of Agriculture through the Farm Service
+            Agency (FSA) will administer the United States Warehouse Act (USWA
+            or the Act) and sets forth the standards and the terms and
+            conditions a participant must meet for eligibility to act under the
+            USWA. The extent the provisions of this part are more restrictive,
+            or more lenient, with respect to the same activities governed by
+            State law, the provisions of this part shall prevail.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Additional terms and conditions may be set forth in applicable
+            licensing agreements, provider agreements and other documents.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Compliance with State laws relating to the warehousing, grading,
+            weighing, storing, merchandising or other similar activities is not
+            required with respect to activities engaged in by a warehouse
+            operator in a warehouse subject to a license issued in accordance
+            with this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6606'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.2
+      </extid>
+      <num st='1'>
+        735.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='2' psec='' tq='N'>
+              735.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             FSA will administer all provisions and activities regulated under
+            the Act under the general direction and supervision of the
+            FSA&apos;s Deputy Administrator, Commodity Operations (DACO), or a
+            designee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             DACO may waive or modify the licensing or authorization
+            requirements or deadlines in cases where lateness or 
+            <PRTPAGE P='50' />
+            failure to meet such requirements does not adversely affect the
+            licensing or authorizations operated under the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             DACO will provide affected licensees or authorized providers with
+            changes to their licensing or provider agreements before the
+            effective date.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Licensing and authorization agreement updates will be available at:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             DACO&apos;s USWA website, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The following address: Deputy Administrator, Commodity Operations,
+            Farm Service Agency, United States Department of Agriculture, STOP
+            0550, 1400 Independence Avenue, SW, Washington, DC 20250-0550.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6607'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.3
+      </extid>
+      <num st='1'>
+        735.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='3' psec='' tq='N'>
+              735.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Words used in this part will be applicable to the activities
+          authorized by this part and will be used in all aspects of
+          administering the Act.
+        </P>
+        <P>
+          <E T='03'>
+            Access
+          </E>
+           means the ability, when authorized, to read, change, and transfer
+          warehouse receipts or other applicable document information retained
+          in a central filing system.
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural product
+          </E>
+           means an agriculturally-produced product stored or handled for the
+          purposes of interstate or foreign commerce, including a processed
+          product of such agricultural product, as determined by DACO.
+        </P>
+        <P>
+          <E T='03'>
+            Central filing system (CFS)
+          </E>
+           means an electronic system operated and maintained by a provider, as
+          a disinterested third party, authorized by DACO where information
+          relating to warehouse receipts, USWA documents and other electronic
+          documents is recorded and maintained in a confidential and secure
+          fashion independent of any outside influence or bias in action or
+          appearance.
+        </P>
+        <P>
+          <E T='03'>
+            Certificate
+          </E>
+           means a USWA document that bears specific assurances under the Act or
+          warrants a person to operate or perform in a certain manner and sets
+          forth specific responsibilities, rights, and privileges granted to the
+          person under the Act.
+        </P>
+        <P>
+          <E T='03'>
+            Control of the facility
+          </E>
+           means ultimate responsibility for the operation and integrity of a
+          facility by ownership, lease, or operating agreement.
+        </P>
+        <P>
+          <E T='03'>
+            Department
+          </E>
+           means the Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Electronic document
+          </E>
+           means any document that is generated, sent, received, or stored by
+          electronic, optical, or similar means, including, but not limited to,
+          electronic data interchange, advanced communication methods,
+          electronic mail, telegram, telex, or telecopy.
+        </P>
+        <P>
+          <E T='03'>
+            Electronic warehouse receipt
+          </E>
+           (EWR) means a warehouse receipt that is authorized by DACO to be
+          issued or transmitted under the Act in the form of an electronic
+          document.
+        </P>
+        <P>
+          <E T='03'>
+            Examiner
+          </E>
+           means an individual designated by DACO for the purpose of examining
+          warehouses or for any other activities authorized under the Act.
+        </P>
+        <P>
+          <E T='03'>
+            Financial assurance
+          </E>
+           means the surety or other financial obligation authorized by DACO
+          that is a condition of receiving a license or authorization under the
+          Act.
+        </P>
+        <P>
+          <E T='03'>
+            Force majeure
+          </E>
+           means severe weather conditions, fire, explosion, flood, earthquake,
+          insurrection, riot, strike, labor dispute, act of civil or military,
+          non-availability of transportation facilities, or any other cause
+          beyond the control of the warehouse operator or provider that renders
+          performance impossible.
+        </P>
+        <P>
+          <E T='03'>
+            Holder
+          </E>
+           means a person that has possession in fact or by operation of law of
+          a warehouse receipt, USWA electronic document, or any electronic
+          document.
+        </P>
+        <P>
+          <E T='03'>
+            License
+          </E>
+           means a license issued under the Act by DACO.
+        </P>
+        <P>
+          <E T='03'>
+            Licensing agreement
+          </E>
+           means the document and any amendment or addenda to such agreement
+          executed by the warehouse operator and FSA specifying licensing terms
+          and conditions specific to the warehouse operator and the agricultural
+          product licensed to be stored.
+        </P>
+        <P>
+          <E T='03'>
+            Non-storage agricultural product
+          </E>
+           means an agricultural product received temporarily into a warehouse
+          for conditioning, transferring or assembling for shipment, or lots of
+          an agricultural product moving through a warehouse for current
+          merchandising or milling use, against which no warehouse receipts are
+          issued and no storage charges assessed.
+        </P>
+        <P>
+          <E T='03'>
+            Official Standards of the United States
+          </E>
+           means the standards of the quality or condition for an agricultural
+          product, fixed and established under (
+          <aref type='USC'>
+            <subref title='7' sect='51' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/51.html'>
+              7 U.S.C. 51
+            </subref>
+          </aref>
+          ) the United States Cotton Standards Act, (
+          <aref type='USC'>
+            <subref title='7' sect='71' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/71.html'>
+              7 U.S.C. 71
+            </subref>
+          </aref>
+          ) the United States 
+          <PRTPAGE P='51' />
+          Grain Standards Act, (
+          <aref type='USC'>
+            <subref title='7' sect='1622' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1622.html'>
+              7 U.S.C. 1622
+            </subref>
+          </aref>
+          ) the Agricultural Marketing Act of 1946, or other applicable official
+          United States Standards.
+        </P>
+        <P>
+          <E T='03'>
+            Other electronic documents
+          </E>
+           (OED) means those electronic documents, other than an EWR or USWA
+          electronic document, that may be issued or transferred, related to the
+          shipment, payment or financing of agricultural products that DACO has
+          authorized for inclusion in a provider&apos;s CFS.
+        </P>
+        <P>
+          <E T='03'>
+            Person
+          </E>
+           means a person as set forth in 
+          <aref type='USC'>
+            <subref title='1' sect='1' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/1/1.html'>
+              1 U.S.C. 1
+            </subref>
+          </aref>
+          , a State; or a political subdivision of a State.
+        </P>
+        <P>
+          <E T='03'>
+            Provider
+          </E>
+           means a person authorized by DACO, as a disinterested third party,
+          which maintains one or more confidential and secure electronic systems
+          independent of any outside influence or bias in action or appearance.
+        </P>
+        <P>
+          <E T='03'>
+            Provider agreement
+          </E>
+           means the document and any amendment or addenda to such agreement
+          executed by the provider and FSA that sets forth the provider&apos;s
+          responsibilities concerning the provider&apos;s operation or
+          maintenance of a CFS.
+        </P>
+        <P>
+          <E T='03'>
+            Receipt
+          </E>
+           means a warehouse receipt issued in accordance with the Act,
+          including an electronic warehouse receipt.
+        </P>
+        <P>
+          <E T='03'>
+            Schedule of charges
+          </E>
+           means the tariff or uniform rate or amount charged by an authorized
+          person for specific services offered or rendered under the Act.
+        </P>
+        <P>
+          <E T='03'>
+            Schedule of fees
+          </E>
+           means the fees charged and assessed by FSA for licensing, provider
+          agreements or services furnished under the Act to help defray the
+          costs of administering the Act, and as such are shown in a schedule of
+          fees attached to the licensing or provider agreement.
+        </P>
+        <P>
+          <E T='03'>
+            Service license
+          </E>
+           means the document and any amendment to such document, issued under
+          the Act by DACO to individuals certified competent by the licensed
+          warehouse operator to perform inspection, sampling, grading
+          classifying, or weighing services according to established standards
+          and procedures, set forth in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='202' psec='' tq='N'>
+              735.202
+            </subref>
+          </aref>
+          , at the specific warehouse license.
+        </P>
+        <P>
+          <E T='03'>
+            Stored agricultural products
+          </E>
+           means all agricultural products received into, stored within, or
+          delivered out of the warehouse that are not classified as a
+          non-storage agricultural product under this part.
+        </P>
+        <P>
+          <E T='03'>
+            User
+          </E>
+           means a person that uses a provider&apos;s CFS.
+        </P>
+        <P>
+          <E T='03'>
+            USWA electronic document
+          </E>
+           means a USWA electronic document initiated by DACO to be issued,
+          transferred or transmitted that is not identified as an EWR or OED in
+          the appropriate licensing or provider agreement or as determined by
+          DACO.
+        </P>
+        <P>
+          <E T='03'>
+            Warehouse
+          </E>
+           means a structure or other authorized storage facility, as determined
+          by DACO, in which any agricultural product may be stored or handled
+          for the purpose of interstate or foreign commerce.
+        </P>
+        <P>
+          <E T='03'>
+            Warehouse capacity
+          </E>
+           means the maximum quantity of an agricultural product that the
+          warehouse will accommodate when stored in a manner customary to the
+          warehouse as determined by DACO.
+        </P>
+        <P>
+          <E T='03'>
+            Warehouse operator
+          </E>
+           means a person lawfully engaged in the business of storing or
+          handling agricultural products.
+        </P>
+        <P>
+          <E T='03'>
+            Warehousing activities and practices
+          </E>
+           means any legal, operational, managerial or financial duty that a
+          warehouse operator has regarding an agricultural product.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6608'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.4
+      </extid>
+      <num st='1'>
+        735.4
+      </num>
+      <head>
+        Fees.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='4' psec='' tq='N'>
+              735.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             FSA will assess persons covered by the Act fees to cover the costs
+            of administering the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse operators, licensees, applicants, or providers must pay:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An annual fee as provided in the applicable licensing or provider
+            agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Fees that FSA assesses for specific services, examinations and
+            audits, or as provided in the applicable licensing or provider
+            agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The schedule of fees showing the current fees or any annual fee
+            changes will be provided as an addendum to the applicable licensing
+            or provider agreement or/and:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Will be available at DACO&apos;s USWA Web site, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             May be requested at the following address: Deputy Administrator,
+            Commodity Operations, Farm Service Agency, United States Department
+            of 
+            <PRTPAGE P='52' />
+            Agriculture, STOP 0550, 1400 Independence Avenue, SW., Washington,
+            DC 20250-0550.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             At the sole discretion of DACO, these fees may be waived.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6609'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.5
+      </extid>
+      <num st='1'>
+        735.5
+      </num>
+      <head>
+        Penalties.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          67 FR 50763
+        </aref>
+        , Aug. 5, 2002, as amended at 
+        <aref type='FREGIST'>
+          75 FR 17560
+        </aref>
+        , Apr. 7. 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='5' psec='' tq='N'>
+              735.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Penalties.
+        </SUBJECT>
+        <P>
+          If a person fails to comply with any requirement of the Act, the
+          regulations set forth in this part or any applicable licensing or
+          provider agreement, DACO may assess, after an opportunity for a
+          hearing as provided in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='8' psec='' tq='N'>
+              735.8
+            </subref>
+          </aref>
+          , a civil penalty:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Of not more than the amount specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='3' sect='91' psec='#b_10_i' tq='N'>
+                3.91(b)(10)(i)
+              </subref>
+               of this title
+            </aref>
+             per violation, if an agricultural product is not involved in the
+            violation; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Of not more than 100 percent of the value of the agricultural
+            product, if an agricultural product is involved in the violation.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            67 FR 50763
+          </aref>
+          , Aug. 5, 2002, as amended at 
+          <aref type='FREGIST'>
+            75 FR 17560
+          </aref>
+          , Apr. 7. 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='6610'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.6
+      </extid>
+      <num st='1'>
+        735.6
+      </num>
+      <head>
+        Suspension, revocation and liquidation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='6' psec='' tq='N'>
+              735.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Suspension, revocation and liquidation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             DACO may, after an opportunity for a hearing as provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='735' sect='8' psec='' tq='N'>
+                735.8
+              </subref>
+            </aref>
+            , suspend, revoke or liquidate any license or agreement issued under
+            the Act, for any violation of or failure to comply with any
+            provision of the Act, regulations or any applicable licensing or
+            provider agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The reasons for a suspension, revocation or liquidation under this
+            part include, but are not limited to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to perform licensed or authorized services as provided in
+            this part or in the applicable licensing or provider agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to maintain minimum financial requirements as provided in
+            the applicable licensing or provider agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to submit a proper annual financial statement within the
+            established time period as provided in the applicable licensing or
+            provider agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to maintain control of the warehouse or provider system.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The warehouse operator or provider requests closure, cancellation
+            or liquidation. and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Commission of fraud against FSA, any depositor, EWR or OED holder
+            or user, or any other function or operation under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             FSA retains USWA&apos;s full authority over a warehouse operator or
+            provider for one year after such license revocation or provider
+            agreement termination or until satisfaction of any claims filed
+            against such warehouse operator or provider are resolved, whichever
+            is later.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Upon DACO&apos;s determination that continued operation of a
+            warehouse by a warehouse operator or an electronic provider system
+            by a provider is likely to result in probable loss of assets to
+            storage depositors, or loss of data integrity to EWR or OED holders
+            and users. DACO may immediately suspend, close, or take control and
+            begin an orderly liquidation of such warehouse inventory or provider
+            system data as provided in this part or in the applicable licensing
+            or provider agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Any disputes involving probable loss of assets to storage
+            depositors, or loss of data integrity to EWR or OED holders and
+            users will be determined by DACO for the benefit of the depositors,
+            or EWR or OED holders and users and such determinations shall be
+            final.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6611'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.7
+      </extid>
+      <num st='1'>
+        735.7
+      </num>
+      <head>
+        Return of suspended or revoked certificates of licensing or certificates
+        of authorization.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='7' psec='' tq='N'>
+              735.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Return of suspended or revoked certificates of licensing or
+          certificates of authorization.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             When a license issued to a warehouse operator or service license
+            ends or is suspended or revoked by DACO, such certificates of
+            licensing and applicable licensing agreement and certificates of
+            authorization must be immediately surrendered and returned to DACO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             When an agreement with a provider ends or is suspended or revoked
+            by DACO, such certificates of authorization and applicable provider
+            agreement must be immediately surrendered to DACO
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6612'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.8
+      </extid>
+      <num st='1'>
+        735.8
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='8' psec='' tq='N'>
+              735.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any person who is subject to an adverse determination made under
+            the Act may appeal the determination by filing a written request
+            with DACO at the following address: Deputy Administrator, Commodity
+            Operations, Farm Service Agency, United States Department of
+            Agriculture, STOP 0550, 1400 
+            <PRTPAGE P='53' />
+            Independence Avenue, SW., Washington, DC 20250-0550.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any person who believes that they have been adversely affected by a
+            determination under this part must seek review by DACO within
+            twenty-eight calendar days of such determination, unless provided
+            with notice by DACO of a different deadline.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The appeal process set forth in this part is applicable to all
+            licensees and providers under any provision of the Act, regulations
+            or any applicable licensing agreement as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             DACO will notify the person in writing of the nature of the
+            suspension, revocation or liquidation action;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The person must notify DACO of any appeal of its action within
+            twenty-eight calendar days;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The appeal and request must state whether:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A hearing is requested,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The person will appear in person at such hearing, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Such hearing will be held by telephone;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             DACO will provide the person a written acknowledgment of their
+            request to pursue an appeal;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             When a person requests an appeal and does not request a hearing
+            DACO will allow that person:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_5_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             To submit in writing the reasons why they believe DACO&apos;s
+            determination to be in error,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Twenty-eight calendar days from the receipt of the acknowledgment
+            to file any statements and documents in support of their appeal,
+            unless provided with notice by DACO of a different deadline, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_5_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             An additional fourteen calendar days to respond to any new issues
+            raised by DACO in response to the person&apos;s initial submission,
+            unless provided with notice by DACO of a different deadline;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             If the person requests to pursue an appeal and requests a hearing,
+            DACO will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Notify the person of the date of the hearing,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Determine the location of the hearing, when the person asks to
+            appear in person,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Notify the person of the location of the hearing,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Afford the person twenty-eight calendar days from the receipt of
+            the notification of the scheduling of the hearing to submit any
+            statements and documents in support of the appeal, unless provided
+            with notice by DACO of a different deadline, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Allow the person an additional fourteen calendar days from the date
+            of the hearing to submit any additional material, unless provided
+            with notice by DACO of a different deadline;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Determinations of DACO will be final and no further appeal within
+            USDA will be available except as may be specified in the final
+            determination of DACO; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             A person may not initiate an action in any court of competent
+            jurisdiction concerning a determination made under the Act prior to
+            the exhaustion of the appeal process set forth in this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6613'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.9
+      </extid>
+      <num st='1'>
+        735.9
+      </num>
+      <head>
+        Dispute resolution and arbitration of private parties.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='9' psec='' tq='N'>
+              735.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Dispute resolution and arbitration of private parties.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A person may initiate legal action in any court of competent
+            jurisdiction concerning a claim for noncompliance or an unresolved
+            dispute with respect to activities authorized under the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any claim for noncompliance or an unresolved dispute between a
+            warehouse operator or provider and another party with respect to
+            activities authorized under the Act may be resolved by the parties
+            through mutually agreed-upon arbitration procedures or as may be
+            prescribed in the applicable licensing or provider agreement. No
+            arbitration determination or award will affect DACO&apos;s authority
+            under the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In no case will USDA provide assistance or representation to
+            parties involved in an arbitration proceeding arising with respect
+            to activities authorized under the Act.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6614'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.10
+      </extid>
+      <num st='1'>
+        735.10
+      </num>
+      <head>
+        Posting of certificates of licensing, certificates of authorization or
+        other USWA documents.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='10' psec='' tq='N'>
+              735.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Posting of certificates of licensing, certificates of authorization or
+          other USWA documents.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The warehouse operator must post, in a conspicuous place in the
+            principal place where warehouse receipts are issued, any applicable
+            certificate furnished by DACO that the warehouse operator is an
+            authorized licensee under the Act.
+            <PRTPAGE P='54' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Immediately upon receipt of their certificate of service licensing
+            or any modification or extension thereof under the Act, the licensee
+            and warehouse operator must jointly post the same, and thereafter,
+            except as otherwise provided in the regulations in this part or as
+            prescribed in the applicable licensing agreement, keep such
+            certificate of licensing conspicuously posted in the office where
+            all or most of the services are done, or in such place as may be
+            designated by DACO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The provider must post, in a conspicuous place in the principal
+            place of business, any applicable certificate of authorization
+            furnished by DACO that the provider is authorized to offer and
+            provide specific services under the Act.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6615'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.11
+      </extid>
+      <num st='1'>
+        735.11
+      </num>
+      <head>
+        Lost or destroyed certificates of licensing, authorization or
+        agreements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='11' psec='' tq='N'>
+              735.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Lost or destroyed certificates of licensing, authorization or
+          agreements.
+        </SUBJECT>
+        <P>
+          FSA will replace lost or destroyed certificates of licensing,
+          certificate of authorization or applicable agreement upon satisfactory
+          proof of loss or destruction. FSA will mark such certificates or
+          agreements as duplicates.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6616'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.12
+      </extid>
+      <num st='1'>
+        735.12
+      </num>
+      <head>
+        Safe keeping of records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='12' psec='' tq='N'>
+              735.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Safe keeping of records.
+        </SUBJECT>
+        <P>
+          Each warehouse operator or provider must take necessary precautions to
+          safeguard all records, either paper or electronic format, from
+          destruction.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6617'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.13
+      </extid>
+      <num st='1'>
+        735.13
+      </num>
+      <head>
+        Information of violations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='13' psec='' tq='N'>
+              735.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Information of violations.
+        </SUBJECT>
+        <P>
+          Every person licensed or authorized under the Act must immediately
+          furnish DACO any information they may have indicating that any
+          provision of the Act or the regulations in this part has been
+          violated.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6618'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:A:735.14
+      </extid>
+      <num st='1'>
+        735.14
+      </num>
+      <head>
+        Bonding and other financial assurance requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='14' psec='' tq='N'>
+              735.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Bonding and other financial assurance requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             As a condition of receiving a license or authorization under the
+            Act, the person applying for the license or authorization must
+            execute and file with DACO a bond or provide such other financial
+            assurance as DACO determines appropriate to secure the person&apos;s
+            compliance with the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Such bond or assurance must be for a period of not less than one
+            year and in such amount as required by DACO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to provide for, or renew, a bond or a financial assurance
+            instrument will result in the immediate and automatic revocation of
+            the warehouse operator&apos;s license or provider&apos;s agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If DACO determines that a previously accepted bond or other
+            financial assurance is insufficient, DACO may immediately suspend or
+            revoke the license or authorization covered by the bond or other
+            financial assurance if the person that filed the bond or other
+            financial assurance does not provide such additional bond or other
+            financial assurance as DACO determines appropriate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             To qualify as a suitable bond or other financial assurance, the
+            entity issuing the bond or other financial assurance must be subject
+            to service of process in lawsuits or legal actions on the bond or
+            other financial assurance in the State in which the warehouse is
+            located.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6619'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.100
+      </extid>
+      <num st='1'>
+        735.100
+      </num>
+      <head>
+        Application.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='100' psec='' tq='N'>
+              735.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant for a license must submit to DACO information and
+            documents determined by DACO to be sufficient to conclude that the
+            applicant can comply with the provisions of the Act. Such documents
+            must include a current review or an audit-level financial statement
+            prepared according to generally accepted accounting standards as
+            defined by the American Institute of Certified Public Accountants.
+            For any entity that is not an individual, a document that
+            establishes proof of the existence of the entity, such as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For a partnership, an executed partnership agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For a corporation:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Articles of incorporation certified by the Secretary of State of
+            the applicable State of incorporation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Bylaws; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Permits to do business; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For a limited partnership, an executed limited partnership
+            agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For a limited liability company:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Articles of organization or similar documents; and
+            <PRTPAGE P='55' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Operating agreement or similar agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The warehouse facilities of an operator licensed under the Act
+            must, as determined by DACO, be:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Physically and operationally suitable for proper storage of the
+            applicable agricultural product or agricultural products specified
+            in the license;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Operated according to generally accepted warehousing activities and
+            practices in the industry for the applicable agricultural product or
+            agricultural products stored in the facility; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the warehouse operator&apos;s control of the facility
+            including all contiguous storage space with respect to such
+            facilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             As specified in individual licensing agreements, a warehouse
+            operator must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Meet the basic financial requirements determined by DACO; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Meet the net worth requirements determined by DACO;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In order to obtain a license, the warehouse operator must correct
+            any exceptions made by the warehouse examiner at the time of the
+            original warehouse examination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             DACO may issue a license for the storage of two or more
+            agricultural products in a single warehouse as provided in the
+            applicable licensing agreements. The amount of the bond or financial
+            assurance, net worth, and inspection and license fees will be
+            determined by DACO in accordance with the licensing agreements
+            applicable to the specific agricultural product, based upon the
+            warehouses&apos; total capacity for storing such product, that would
+            require:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The largest bond or financial assurance;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The greatest amount of net worth; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The greatest amount of fees.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6620'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.101
+      </extid>
+      <num st='1'>
+        735.101
+      </num>
+      <head>
+        Financial records and reporting requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='101' psec='' tq='N'>
+              735.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial records and reporting requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse operators must maintain complete, accurate, and current
+            financial records that must be available to DACO for review or audit
+            at DACO&apos;s request as may be prescribed in the applicable
+            licensing agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse operators must, annually, present a financial statement
+            as may be prescribed in the applicable licensing agreement to DACO.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6621'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.102
+      </extid>
+      <num st='1'>
+        735.102
+      </num>
+      <head>
+        Financial assurance requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='102' psec='' tq='N'>
+              735.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial assurance requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse operators must file with DACO financial assurances
+            approved by DACO consisting of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A warehouse operator&apos;s bond; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Obligations that are unconditionally guaranteed as to both interest
+            and principal by the United States, in a sum equal at their par
+            value to the amount of the bond otherwise required to be furnished,
+            together with an irrevocable power of attorney authorizing DACO to
+            collect, sell, assign and transfer such obligations in case of any
+            default in the performance of any of the conditions required in the
+            licensing agreement; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             An irrevocable letter of credit issued in the favor of DACO with a
+            term of not less than two years; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A certificate of participation in, and coverage by, an indemnity or
+            insurance fund as approved by DACO, established and maintained by a
+            State, backed by the full faith and credit of the applicable State,
+            which guarantees depositors of the licensed warehouse full
+            indemnification for the breach of any obligation of the licensed
+            warehouse operator under the terms of the Act. If a warehouse
+            operator files a bond or financial assurance in the form of a
+            certification of participation in an indemnity or insurance fund,
+            the certification may only be used to satisfy any deficiencies in
+            assets above the minimum net worth requirement as prescribed in the
+            applicable licensing agreement. A certificate of participation and
+            coverage in this fund must be furnished to DACO annually; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Other alternative instruments and forms of financial assurance
+            approved by DACO as may be prescribed in the applicable licensing
+            agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The warehouse operator may not withdraw obligations required under
+            this section until one year after license termination or until
+            satisfaction of any claims against the obligations, whichever is
+            later.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6622'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.103
+      </extid>
+      <num st='1'>
+        735.103
+      </num>
+      <head>
+        Amendments to license.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='56' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='103' psec='' tq='N'>
+              735.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Amendments to license.
+        </SUBJECT>
+        <P>
+          FSA will issue an amended license upon:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Receipt of forms prescribed and furnished by DACO outlining the
+            requested changes to the license;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Payment of applicable licensing and examination fees;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Receipt of bonding or other financial assurance if required in the
+            applicable licensing agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Receipt of a report on the examination of the proposed facilities
+            pending inclusion or exclusion, if determined necessary by DACO.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6623'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.104
+      </extid>
+      <num st='1'>
+        735.104
+      </num>
+      <head>
+        Insurance requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='104' psec='' tq='N'>
+              735.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Insurance requirements.
+        </SUBJECT>
+        <P>
+          Each warehouse operator must comply fully with the terms of insurance
+          policies or contracts covering their licensed warehouse and all
+          products stored therein, and must not commit any acts, nor permit
+          others to do anything, that might impair or invalidate such insurance.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6624'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.105
+      </extid>
+      <num st='1'>
+        735.105
+      </num>
+      <head>
+        Care of agricultural products.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='105' psec='' tq='N'>
+              735.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Care of agricultural products.
+        </SUBJECT>
+        <P>
+          Each warehouse operator must at all times, including during any period
+          of suspension of their license, exercise such care in regard to stored
+          and non-storage agricultural products in their custody as required in
+          the applicable licensing agreement.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6625'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.106
+      </extid>
+      <num st='1'>
+        735.106
+      </num>
+      <head>
+        Excess storage and transferring of agricultural products.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='106' psec='' tq='N'>
+              735.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Excess storage and transferring of agricultural products.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If at any time a warehouse operator stores an agricultural product
+            in a warehouse subject to a license issued under the Act in excess
+            of the warehouse capacity for which it is licensed, such warehouse
+            operator must immediately notify DACO of such excess storage and the
+            reason for the storage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A warehouse operator who desires to transfer stored agricultural
+            products to another warehouse may do so either by physical movement,
+            by other methods as may be provided in the applicable licensing
+            agreement, or as authorized by DACO.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6626'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.107
+      </extid>
+      <num st='1'>
+        735.107
+      </num>
+      <head>
+        Warehouse charges and tariffs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='107' psec='' tq='N'>
+              735.107
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Warehouse charges and tariffs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A warehouse operator must not make any unreasonable or exorbitant
+            charge for services rendered.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A warehouse operator must follow the terms and conditions for each
+            new or revised warehouse tariff or schedule of charges and rates as
+            prescribed in the applicable licensing agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6627'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.108
+      </extid>
+      <num st='1'>
+        735.108
+      </num>
+      <head>
+        Inspections and examinations of warehouses.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='108' psec='' tq='N'>
+              735.108
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspections and examinations of warehouses.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse operators must permit any agent of the Department to
+            enter and inspect or examine, on any business day during the usual
+            hours of business, any licensed warehouse, the offices of the
+            warehouse operator, the books, records, papers, and accounts.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Routine and special inspections and examinations will be
+            unannounced.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse operators must provide safe access to all storage
+            facilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse operators must inform any agent of the Department, upon
+            arrival, of any hazard.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Agents of the Department must accomplish inspections and
+            examinations of warehouses in a manner that is efficient and
+            cost-effective without jeopardizing any inspection and examination
+            integrity.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6628'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.109
+      </extid>
+      <num st='1'>
+        735.109
+      </num>
+      <head>
+        Disaster loss to be reported.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='109' psec='' tq='N'>
+              735.109
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disaster loss to be reported.
+        </SUBJECT>
+        <P>
+          If at any time a disaster or loss occurs at or within any licensed
+          warehouse, the warehouse operator must report immediately the
+          occurrence of the disaster or loss and the extent of damage, to DACO.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6629'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.110
+      </extid>
+      <num st='1'>
+        735.110
+      </num>
+      <head>
+        Conditions for delivery of agricultural products.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='110' psec='' tq='N'>
+              735.110
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conditions for delivery of agricultural products.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In the absence of a lawful excuse, a warehouse operator will,
+            without unnecessary delay, deliver the agricultural product stored
+            or handled in the warehouse on a demand made by:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The holder of the warehouse receipt for the agricultural product;
+            or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The person that deposited the agricultural product, if no warehouse
+            receipt has been issued.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Prior to delivery of the agricultural product, payment of the
+            accrued charges associated with the storage or handling of the
+            agricultural product, including satisfaction of the warehouse
+            operator&apos;s lien, must be made if requested by the warehouse
+            operator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             When the holder of a warehouse receipt requests delivery of an
+            agricultural product covered by the warehouse 
+            <PRTPAGE P='57' />
+            receipt, the holder must surrender the warehouse receipt to the
+            warehouse operator before obtaining the agricultural product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A warehouse operator must cancel each warehouse receipt surrendered
+            to the warehouse operator upon the delivery of the agricultural
+            product for which the warehouse receipt was issued and in accordance
+            with the applicable licensing agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             For the purpose of this part, unless prevented from doing so by
+            force majeure, a warehouse operator will deliver or ship such
+            agricultural products stored or handled in their warehouse as
+            prescribed in the applicable licensing agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6630'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.111
+      </extid>
+      <num st='1'>
+        735.111
+      </num>
+      <head>
+        Fair treatment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='111' psec='' tq='N'>
+              735.111
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fair treatment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Contingent upon the capacity of a warehouse, a warehouse operator
+            will deal in a fair and reasonable manner with persons storing, or
+            seeking to store, an agricultural product in the warehouse if the
+            agricultural product is:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Of the kind, type, and quality customarily stored or handled in the
+            area in which the warehouse is located;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Tendered to the warehouse operator in a suitable condition for
+            warehousing; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Tendered in a manner that is consistent with the ordinary and usual
+            course of business.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Nothing in this section will prohibit a warehouse operator from
+            entering into an agreement with a depositor of an agricultural
+            product to allocate available storage space.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6631'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:B:735.112
+      </extid>
+      <num st='1'>
+        735.112
+      </num>
+      <head>
+        Terminal and futures contract markets.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='112' psec='' tq='N'>
+              735.112
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terminal and futures contract markets.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             DACO may issue service licenses to weigh-masters or their deputies
+            to perform services relating to warehouse receipts that are
+            deliverable in satisfaction of futures contracts in such contract
+            markets or as may be prescribed in any applicable licensing
+            agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             DACO may authorize a registrar of warehouse receipts issued for an
+            agricultural product in a warehouse licensed under the Act that
+            operates in any terminal market or in any futures contract market
+            the official designated by officials of the State in which such
+            market is located if such individual is not:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An owner or employee of the licensed warehouse;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The owner of, or an employee of the owner of, such agricultural
+            product deposited in any such licensed warehouse; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             As may be prescribed in any applicable licensing or provider
+            agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6632'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:C:735.200
+      </extid>
+      <num st='1'>
+        735.200
+      </num>
+      <head>
+        Service licenses.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='200' psec='' tq='N'>
+              735.200
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Service licenses.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             FSA may issue to a person a license for:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Inspection of any agricultural product stored or handled in a
+            warehouse subject to the Act;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Sampling of such an agricultural product;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Classification of such an agricultural product according to
+            condition, grade, or other class and certify the condition, grade,
+            or other class of the agricultural product;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Weighing of such an agricultural product and certify the weight of
+            the agricultural product; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Performing two or more services specified in paragraphs (a)(1),
+            (a)(2), (a)(3) or (a)(4) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each person seeking a license to perform activities described in
+            this section must submit an application on forms furnished by DACO
+            that contain, at a minimum, the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The name, location and license number of the warehouses where the
+            applicant would perform such activities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A statement from the warehouse operator that the applicant is
+            competent and authorized to perform such activities at specific
+            locations; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence that the applicant is competent to inspect, sample,
+            classify, according to grade or weigh the agricultural product.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The warehouse operator will promptly notify DACO in writing of any
+            changes with respect to persons authorized to perform such
+            activities at the licensed warehouse.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6633'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:C:735.201
+      </extid>
+      <num st='1'>
+        735.201
+      </num>
+      <head>
+        Agricultural product certificates; format.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='58' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='201' psec='' tq='N'>
+              735.201
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Agricultural product certificates; format.
+        </SUBJECT>
+        <P>
+          Each inspection, grade, class, weight or combination certificate
+          issued under the Act by a licensee to perform such services must be:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In a format prescribed by DACO;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Issued and maintained in a consecutive order; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             As prescribed in the applicable licensing or provider agreement and
+            authorized by DACO.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6634'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:C:735.202
+      </extid>
+      <num st='1'>
+        735.202
+      </num>
+      <head>
+        Standards of grades for other agricultural products.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='202' psec='' tq='N'>
+              735.202
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Standards of grades for other agricultural products.
+        </SUBJECT>
+        <P>
+          Official Standards of the United States for any kind, class or grade
+          of an agricultural product to be inspected must be used if such
+          standards exist. Until Official Standards of the United States are
+          fixed and established for the kind of agricultural product to be
+          inspected, the kind, class and grade of the agricultural product must
+          be stated, subject to the approval of DACO. If such standards do not
+          exist for such an agricultural product, the following will be used:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             State standards established in the State in which the warehouse is
+            located,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In the absence of any State standards, in accordance with the
+            standards, if any, adopted by the local board of trade, chamber of
+            commerce, or by the agricultural product trade generally in the
+            locality in which the warehouse is located, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In the absence of the standards set forth in paragraphs (a) and (b)
+            of this section, in accordance with any standards approved for the
+            purpose by DACO.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6635'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:D:735.300
+      </extid>
+      <num st='1'>
+        735.300
+      </num>
+      <head>
+        Warehouse receipt requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='300' psec='' tq='N'>
+              735.300
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Warehouse receipt requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse receipts may be:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Negotiable or non-negotiable;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For a single unit, multiple units, identity preserved or commingled
+            lot; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In a paper or electronic format that, besides complying with the
+            requirements of the Act, must be in a format as prescribed in the
+            applicable licensing or provider agreement and authorized by DACO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The warehouse operator must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             At the request of a depositor of an agricultural product stored or
+            handled in a warehouse licensed under the Act, issue a warehouse
+            receipt to the depositor;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Not issue a warehouse receipt for an agricultural product unless
+            the agricultural product is actually stored in their warehouse at
+            the time of issuance;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Not issue a warehouse receipt until the quality, condition and
+            weight of such an agricultural product is ascertained by a licensed
+            inspector and weigher;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Not directly or indirectly compel or attempt to compel the
+            depositor to request the issuance of a warehouse receipt omitting
+            the statement of quality or condition;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Not issue an additional warehouse receipt under the Act for a
+            specific identity-preserved or commingled agricultural product lot
+            (or any portion thereof) if another warehouse receipt representing
+            the same specific identity-preserved or commingled lot of the
+            agricultural product is outstanding. No two warehouse receipts
+            issued by a warehouse operator may have the same warehouse receipt
+            number or represent the same agricultural product lot;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             When issuing a warehouse receipt and purposefully omitting any
+            information, notate the blank to show such intent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Not deliver any portion of an agricultural product for which they
+            have issued a negotiable warehouse receipt until the warehouse
+            receipt has been surrendered to them and canceled as prescribed in
+            the applicable licensing agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Not deliver more than 90% of the receipted quantity of an
+            agricultural product for which they have issued a non-negotiable
+            warehouse receipt until such warehouse receipt has been surrendered
+            or the depositor or the depositor&apos;s agent has provided a
+            written order for the agricultural product and the warehouse receipt
+            surrendered upon final delivery; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Deliver, upon proper presentation of a warehouse receipt for any
+            agricultural product, and payment or tender 
+            <PRTPAGE P='59' />
+            of all advances and charges, to the depositor or lawful holder of
+            such warehouse receipt the agricultural product of such identity,
+            quantity, grade and condition as set forth in such warehouse
+            receipt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of a lost or destroyed warehouse receipt, a new
+            warehouse receipt upon the same terms, subject to the same
+            conditions, and bearing on its face the number and the date of the
+            original warehouse receipt may be issued.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6636'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:D:735.301
+      </extid>
+      <num st='1'>
+        735.301
+      </num>
+      <head>
+        Notification requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='301' psec='' tq='N'>
+              735.301
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notification requirements.
+        </SUBJECT>
+        <P>
+          Warehouse operators must file with DACO the name and genuine signature
+          of each person authorized to sign warehouse receipts for the licensed
+          warehouse operator, and will promptly notify DACO of any changes with
+          respect to persons authorized to sign.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6637'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:D:735.302
+      </extid>
+      <num st='1'>
+        735.302
+      </num>
+      <head>
+        Paper warehouse receipts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='302' psec='' tq='N'>
+              735.302
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Paper warehouse receipts.
+        </SUBJECT>
+        <P>
+          Paper warehouse receipts must be issued as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             On distinctive paper specified by DACO;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Printed by a printer authorized by DACO; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Issued, identified and maintained in a consecutive order.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6638'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:D:735.303
+      </extid>
+      <num st='1'>
+        735.303
+      </num>
+      <head>
+        Electronic warehouse receipts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='303' psec='' tq='N'>
+              735.303
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Electronic warehouse receipts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Warehouse operators issuing EWR under the Act may issue EWR&apos;s
+            for the agricultural product stored in their warehouse. Warehouse
+            operators issuing EWR&apos;s under the Act must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Only issue EWR&apos;s through one FSA-authorized provider annually;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Inform DACO of the identity of their provider, when they are a
+            first time user of EWR&apos;s, 60 calendar days in advance of
+            issuing an EWR through that provider. DACO may waive or modify this
+            60-day requirement as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='735' sect='2' psec='#b' tq='N'>
+                735.2(b)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Before issuing an EWR, request and receive from FSA a range of
+            consecutive warehouse receipt numbers that the warehouse will use
+            consecutively for issuing their EWR&apos;s;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             When using an authorized provider, issue and cancel all warehouse
+            receipts as EWR&apos;s;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Cancel an EWR only when they are the holder of the warehouse
+            receipt;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Be the holder of an EWR to correct information contained within any
+            required data field;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Receive written authorization from FSA at least 30 calendar days
+            before changing providers. Upon authorization, they may request
+            their current provider to transfer their EWR data from its Central
+            Filing System (CFS) to the CFS of the authorized provider whom they
+            select; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Notify all holders of EWR&apos;s by inclusion in the CFS at least
+            30 calendar days before changing providers, unless otherwise
+            required or allowed by FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An EWR establishes the same rights and obligations with respect to
+            an agricultural product as a paper warehouse receipt and possesses
+            the following attributes:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The holder of an EWR will be entitled to the same rights and
+            privileges as the holder of a paper warehouse receipt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Only the current holder of the EWR may transfer the EWR to a new
+            holder.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The identity of the holder must be confidential and included as
+            information for every EWR.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Only one person may be designated as the holder of an EWR at any
+            one time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A warehouse operator may not issue an EWR on a specific
+            identity-preserved or commingled lot of agricultural product or any
+            portion thereof while another valid warehouse receipt representing
+            the same specific identity-preserved or commingled lot of
+            agricultural product remains not canceled. No two warehouse receipts
+            issued by a warehouse operator may have the same warehouse receipt
+            number or represent the same agricultural product lot.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             An EWR may only be issued to replace a paper warehouse receipt if
+            requested by the current holder of the paper warehouse receipt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Holders and warehouse operators may authorize any other user of
+            their provider or the provider itself to act on 
+            <PRTPAGE P='60' />
+            their behalf with respect to their activities with this provider.
+            This authorization must be in writing, and acknowledged and retained
+            by the warehouse operator and provider.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A warehouse operator not licensed under the Act may, at the option
+            of the warehouse operator, issue EWRs in accordance with this
+            subpart, except this option does not apply to a warehouse operator
+            that is licensed under State law to store agricultural products in a
+            warehouse if the warehouse operator elects to issue an EWR under
+            State law.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6639'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:E:735.400
+      </extid>
+      <num st='1'>
+        735.400
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='400' psec='' tq='N'>
+              735.400
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          This subpart sets forth the regulations under which DACO may authorize
+          one or more electronic systems under which:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Electronic documents relating to the shipment, payment, and
+            financing of the sale of agricultural products may be issued or
+            transferred; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Electronic receipts may be issued and transferred.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6640'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:E:735.401
+      </extid>
+      <num st='1'>
+        735.401
+      </num>
+      <head>
+        Electronic warehouse receipt and USWA electronic document providers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='401' psec='' tq='N'>
+              735.401
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Electronic warehouse receipt and USWA electronic document providers.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To establish a USWA-authorized system to issue and transfer
+            EWR&apos;s and USWA electronic documents, each applicant must submit
+            to DACO information and documents determined by DACO to be
+            sufficient to determine that the applicant can comply with the
+            provisions of the Act. Each provider operating pursuant to this
+            section must meet the following requirements:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Have and maintain a net worth as specified in the applicable
+            provider agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain two insurance policies; one for “errors and omissions” and
+            another for “fraud and dishonesty.” Each policy&apos;s minimum
+            coverage and maximum deductible amounts and applicability of other
+            forms of financial assurances as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='735' sect='14' psec='' tq='N'>
+                735.14
+              </subref>
+            </aref>
+             will be prescribed in the applicable provider agreement. Each
+            policy must contain a clause requiring written notification to FSA
+            30 days prior to cancellation or as prescribed by FSA;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Submit a current review or an audit level financial statement
+            prepared according to generally accepted accounting standards as
+            defined by the American Institute of Certified Public Accountants;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For any entity that is not an individual, a document that
+            establishes proof of the existence, such as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             For a partnership, an executed partnership agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             For a corporation:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Articles of incorporation certified by the Secretary of State of
+            the applicable State of incorporation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Bylaws; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Permits to do business; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             For a limited partnership, an executed limited partnership
+            agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             For a limited liability company:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_iv_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Articles of organization or similar documents; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_iv_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Operating agreement or similar agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Meet any additional financial requirements as set forth in the
+            applicable provider agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Pay user fees annually to FSA, as set and announced annually by FSA
+            prior to April 1 of each calendar year; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Operate a CFS as a neutral third party in a confidential and secure
+            fashion independent of any outside influence or bias in action or
+            appearance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The provider agreement will contain, but not be limited to, these
+            basic elements:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Scope of authority;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Minimum document and warehouse receipt requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Liability;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Transfer of records protocol;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Records;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Conflict of interest requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             USDA common electronic information requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Financial requirements
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Terms of insurance policies or assurances;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Provider&apos;s integrity statement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Security audits; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Submission, authorization, approval, use and retention of
+            documents.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             DACO may suspend or terminate a provider&apos;s agreement for cause
+            at any time.
+            <PRTPAGE P='61' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Hearings and appeals will be conducted in accordance with
+            procedures as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='735' sect='6' psec='' tq='N'>
+                735.6
+              </subref>
+               and 
+              <subref title='7' part='735' sect='8' psec='' tq='N'>
+                735.8
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Suspended or terminated providers may not execute any function
+            pertaining to USDA, USWA documents, or USWA or State EWR&apos;s
+            during the pendency of any appeal or subsequent to this appeal if
+            the appeal is denied, except as authorized by DACO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The provider or DACO may terminate the provider agreement without
+            cause solely by giving the other party written notice 60 calendar
+            days prior to termination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Each provider agreement will be automatically renewed annually on
+            April 30th as long as the provider complies with the terms contained
+            in the provider agreement, the regulations in this subpart, and the
+            Act.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6641'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:E:735.402
+      </extid>
+      <num st='1'>
+        735.402
+      </num>
+      <head>
+        Providers of other electronic documents.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='402' psec='' tq='N'>
+              735.402
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Providers of other electronic documents.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To establish a USWA-authorized system to issue and transfer OED,
+            each applicant must submit to DACO information and documents
+            determined by DACO to be sufficient to determine that the applicant
+            can comply with the provisions of the Act. Each provider operating
+            pursuant to this section must meet the following requirements:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Have and maintain a net worth as specified in the applicable
+            provider agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain two insurance policies; one for &apos;errors and
+            omissions&apos; and another for &apos;fraud and dishonesty&apos;.
+            Each policy&apos;s minimum coverage and maximum deductible amounts
+            and applicability of other forms of financial assurances as set
+            forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='735' sect='14' psec='' tq='N'>
+                735.14
+              </subref>
+            </aref>
+             will be prescribed in the applicable provider agreement. Each
+            policy must contain a clause requiring written notification to FSA
+            30 days prior to cancellation or as prescribed by FSA;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Submit a current review or an audit level financial statement
+            prepared according to generally accepted accounting standards as
+            defined by the American Institute of Certified Public Accountants;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For any entity that is not an individual, a document that
+            establishes proof of the existence, such as:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             For a partnership, an executed partnership agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             For a corporation:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_ii_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Articles of incorporation certified by the Secretary of State of
+            the applicable State of incorporation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_ii_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Bylaws; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_ii_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Permits to do business; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             For a limited partnership, an executed limited partnership
+            agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_4_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             For a limited liability company:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_iv_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Articles of organization or similar documents; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='a_4_iv_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Operating agreement or similar agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Meet any additional financial requirements as set forth in the
+            applicable provider agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Pay user fees annually to FSA, as set and announced annually by FSA
+            prior to April 1 of each calendar year; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Operate a CFS as a neutral third party in a confidential and secure
+            fashion independent of any outside influence or bias in action or
+            appearance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The provider agreement will contain, but not be limited to, these
+            basic elements:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Scope of authority;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Minimum document and warehouse receipt requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Liability;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Transfer of records protocol;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Records;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Conflict of interest requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             USDA common electronic information requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Financial requirements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Terms of insurance policies or assurances;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Provider&apos;s integrity statement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Security audits; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Submission, authorization, approval, use and retention of
+            documents.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             DACO may suspend or terminate a provider&apos;s agreement for cause
+            at any time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Hearings and appeals will be conducted in accordance with
+            procedures as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='735' sect='6' psec='' tq='N'>
+                735.6
+              </subref>
+               and 
+              <subref title='7' part='735' sect='8' psec='' tq='N'>
+                735.8
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Suspended or terminated providers may not execute any function
+            pertaining to USDA, USWA documents, USWA or State EWR&apos;s or
+            OED&apos;s during the pendency of any appeal or subsequent to this
+            appeal if the appeal is denied, except as authorized by DACO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Each provider agreement will be automatically renewed annually on 
+            <PRTPAGE P='62' />
+            April 30th as long as the provider complies with the terms contained
+            in the provider agreement, the regulations in this subpart, and the
+            Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             In addition to audits prescribed in this section the provider must
+            submit a copy of any audit, examination or investigative report
+            prepared by any Federal regulatory agency with respect to the
+            provider including agencies such as, but not limited to, the
+            Comptroller of the Currency, Department of the Treasury, the Federal
+            Trade Commission, and the Commodity Futures Trading Commission.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6642'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:E:735.403
+      </extid>
+      <num st='1'>
+        735.403
+      </num>
+      <head>
+        Audits.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='403' psec='' tq='N'>
+              735.403
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Audits.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             No later than 120 calendar days following the end of the
+            provider&apos;s fiscal year, the provider authorized under 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='735' sect='401' psec='' tq='N'>
+                735.401
+              </subref>
+               and 
+              <subref title='7' part='735' sect='402' psec='' tq='N'>
+                735.402
+              </subref>
+            </aref>
+             must submit to FSA an annual audit level financial statement and an
+            electronic data processing audit that meets the minimum requirements
+            as provided in the applicable provider agreement. The electronic
+            data processing audit will be used by DACO to evaluate current
+            computer operations, security, disaster recovery capabilities of the
+            system, and compatibility with other systems authorized by DACO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each provider will grant the Department unlimited, free access at
+            any time to all records under the provider&apos;s control relating
+            to activities conducted under this part and as specified in the
+            applicable provider agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6643'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:C:735:E:735.404
+      </extid>
+      <num st='1'>
+        735.404
+      </num>
+      <head>
+        Schedule of charges and rates.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='735' sect='404' psec='' tq='N'>
+              735.404
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Schedule of charges and rates.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A provider authorized under 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='735' sect='401' psec='' tq='N'>
+                735.401
+              </subref>
+               or 
+              <subref title='7' part='735' sect='402' psec='' tq='N'>
+                735.402
+              </subref>
+            </aref>
+             must furnish FSA with copies of its current schedule of charges and
+            rates for all services as they become effective.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Charges and rates assessed any user by the provider must be in
+            effect for a minimum period of one year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Providers must furnish FSA and all users a 60-calendar day advance
+            notice of their intent to change any charges and rates.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

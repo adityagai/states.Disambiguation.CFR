@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:A:1405
+    </extid>
+    <num>
+      1405
+    </num>
+    <head>
+      LOANS, PURCHASES, AND OTHER OPERATIONS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1515' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1515.html'>
+              7 U.S.C. 1515
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='7416a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7416a.html'>
+              7 U.S.C. 7416a
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='7991' note='' psec='#e' tq='N' target='http://www.law.cornell.edu/uscode/7/7991.html#e'>
+              7 U.S.C. 7991(e)
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='15' sect='714b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714b.html'>
+              15 U.S.C. 714b
+            </subref>
+             and 
+            <subref title='15' sect='714c' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714c.html'>
+              714c
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            61 FR 37575
+          </aref>
+          , July 18, 1996, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12259'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.1
+      </extid>
+      <num st='1'>
+        1405.1
+      </num>
+      <head>
+        Interest.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='1' psec='' tq='N'>
+              1405.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interest.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as may otherwise be determined by CCC as provided in
+            individual program regulations, program contracts or such other
+            means as deemed appropriate by CCC the rate of interest that is
+            applicable to CCC loans shall be equal to the rate of interest
+            charged by 
+            <PRTPAGE P='455' />
+            the U.S. Treasury for funds borrowed by CCC on the date the loan is
+            disbursed by CCC, plus 1 percent. This rate of interest shall be in
+            effect until the earlier of the maturity of the loan or the next
+            January 1.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The rate of interest applicable to all CCC loans that are
+            outstanding as of January 1 of any year shall be adjusted as of such
+            date to equal the rate of interest charged by the U.S. Treasury for
+            funds borrowed by CCC on such date, plus 1 percent. This rate shall
+            be in effect until the earlier of the maturity of the loan or the
+            next January 1. The rate of interest applicable to CCC loans as of
+            January 1 of any year shall be announced by CCC by press release or
+            other means.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12260'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.2
+      </extid>
+      <num st='1'>
+        1405.2
+      </num>
+      <head>
+        Basic rule of fractions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='2' psec='' tq='N'>
+              1405.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Basic rule of fractions.
+        </SUBJECT>
+        <P>
+          Fractions shall be rounded in accordance with the provisions of 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='718' tq='N'>
+              718
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='12261'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.3
+      </extid>
+      <num st='1'>
+        1405.3
+      </num>
+      <head>
+        Effect of changes in regulations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='3' psec='' tq='N'>
+              1405.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Effect of changes in regulations.
+        </SUBJECT>
+        <P>
+          Unless otherwise indicated, the regulations in effect in this chapter
+          as of April 4, 1996, shall continue to apply to the 1991 through 1995
+          crops of agricultural commodities, to milk produced on or before May
+          1, 1996, and to contracts entered into prior to any amendments to this
+          chapter after that date.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12262'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.4
+      </extid>
+      <num st='1'>
+        1405.4
+      </num>
+      <head>
+        Delegations of authority.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='4' psec='' tq='N'>
+              1405.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Delegations of authority.
+        </SUBJECT>
+        <P>
+          The delegations of authority relating to the CCC programs and
+          activities are set forth in the by-laws of CCC and in dockets approved
+          by the CCC Board of Directors. Copies of the By-laws and the dockets
+          may be obtained from the Secretary of CCC.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12263'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.5
+      </extid>
+      <num st='1'>
+        1405.5
+      </num>
+      <head>
+        Notice and comment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='5' psec='' tq='N'>
+              1405.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notice and comment.
+        </SUBJECT>
+        <P>
+          The level of loans, purchases and payments made in accordance with the
+          programs set forth in this chapter shall be determined without regard
+          to the notice and comment provisions of 
+          <aref type='USC'>
+            <subref title='5' sect='553' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/553.html'>
+              5 U.S.C. 553
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='12264'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.6
+      </extid>
+      <num st='1'>
+        1405.6
+      </num>
+      <head>
+        Crop insurance requirement.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          61 FR 37575
+        </aref>
+        , July 18, 1996, as amended at 
+        <aref type='FREGIST'>
+          68 FR 32337
+        </aref>
+        , May 30, 2003]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='6' psec='' tq='N'>
+              1405.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Crop insurance requirement.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for any benefits or payments under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1410' tq='N'>
+                1410
+              </subref>
+            </aref>
+             the producer must obtain at least the catastrophic level of
+            insurance for each crop of economic significance in which the
+            producer has an interest or provide a written waiver to the
+            Secretary that waives any eligibility for emergency crop loss
+            assistance in connection with the crop, if insurance is available in
+            the county for the crop. In meeting this requirement, the producer
+            may:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Obtain at least the catastrophic level of crop insurance in all
+            counties for each crop of economic significance in which the
+            producer has an interest;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Obtain at least the catastrophic level of crop insurance for some,
+            but not all, crops of economic significance for which the producer
+            has an interest, and sign a waiver; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Sign a waiver that waives any eligibility for crop loss assistance
+            in connection with the producer&apos;s crop.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Crop of economic significance.
+            </head>
+          </npcatch>
+          <text>
+             The term “crop of economic significance” means a crop that has
+            contributed in the previous year, or is expected to contribute in
+            the current crop year, 10 percent or more of the total expected
+            value of all crops grown by the producer. However, notwithstanding
+            the preceding sentence, if the total expected liability under the
+            catastrophic risk protection endorsement is equal to or less than
+            the administrative fee required for the crop, such crop will not be
+            considered a crop of economic significance.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            61 FR 37575
+          </aref>
+          , July 18, 1996, as amended at 
+          <aref type='FREGIST'>
+            68 FR 32337
+          </aref>
+          , May 30, 2003]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12265'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.7
+      </extid>
+      <num st='1'>
+        1405.7
+      </num>
+      <head>
+        Uruguay Round Agreements Act.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          67 FR 64751
+        </aref>
+        , Oct. 21, 2002]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='7' psec='' tq='N'>
+              1405.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Uruguay Round Agreements Act.
+        </SUBJECT>
+        <P>
+          In the event the outlays by the United States for domestic support
+          measures will exceed, in any required reporting period, the allowable
+          levels under the Uruguay Round Agreements (as defined in 
+          <aref type='UNKNOWN'>
+            section 2 of
+          </aref>
+           the Uruguay Round Agreements Act), CCC will, as determined by the
+          Secretary of Agriculture, reduce the amount of payments and benefits
+          to be made in any such reporting period, and/or collect a refund of
+          payments or benefits previously made with respect to such reporting
+          period, under 
+          <aref type='CFR-TIC-PART'>
+            parts 
+            <subref title='7' part='1412' tq='N'>
+              1412, 1413, 1421, 1427, 1430, 1434
+            </subref>
+             and 
+            <subref title='7' part='1435' tq='N'>
+              1435 of this chapter
+            </subref>
+          </aref>
+           in order to ensure that the level of domestic support provided by the
+          United States complies with the 
+          <PRTPAGE P='456' />
+          commitments of the United States in the Uruguay Round Agreements.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            67 FR 64751
+          </aref>
+          , Oct. 21, 2002]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12266'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.8
+      </extid>
+      <num st='1'>
+        1405.8
+      </num>
+      <head>
+        Disqualification due to crop insurance violation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 39448
+        </aref>
+        , July 2, 2003, as amended at 
+        <aref type='FREGIST'>
+          72 FR 63361
+        </aref>
+        , Nov. 8, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='8' psec='' tq='N'>
+              1405.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disqualification due to crop insurance violation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Section 515(h) of
+            </aref>
+             the Federal Crop Insurance Act (FCIA) provides that a person who
+            willfully and intentionally provides any false or inaccurate
+            information to the Federal Crop Insurance Corporation (FCIC) or to
+            an approved insurance provider with respect to a policy or plan of
+            FCIC insurance after notice and an opportunity for a hearing on the
+            record, will be subject to one or more of the sanctions described in
+            
+            <aref type='CFR-TIC-SECT'>
+              section 515(h)(3)
+            </aref>
+            . In 
+            <aref type='CFR-TIC-SECT'>
+              section 515(h)(3)
+            </aref>
+            , the FCIA specifies that in the case of a violation committed by a
+            producer, the producer may be disqualified for a period of up to 5
+            years from receiving any monetary or non-monetary benefit under a
+            number of programs. The list includes, but is not limited to,
+            benefits under:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The FCIA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Agricultural Market Transition Act (
+            <aref type='USC'>
+              <subref title='7' sect='7201' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7201.html'>
+                7 U.S.C. 7201
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ), including the Noninsured Crop Disaster Assistance Program under 
+            <aref type='UNKNOWN'>
+              section 196 of
+            </aref>
+             that Act (
+            <aref type='USC'>
+              <subref title='7' sect='7333' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7333.html'>
+                7 U.S.C. 7333
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The Agricultural Act of 1949 (
+            <aref type='USC'>
+              <subref title='7' sect='1421' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1421.html'>
+                7 U.S.C. 1421
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The Commodity Credit Corporation Charter Act (
+            <aref type='USC'>
+              <subref title='15' sect='714' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714.html'>
+                15 U.S.C. 714
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The Agricultural Adjustment Act of 1938 (
+            <aref type='USC'>
+              <subref title='7' sect='1281' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1281.html'>
+                7 U.S.C. 1281
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Title XII of the Food Security Act of 1985 (
+            <aref type='USC'>
+              <subref title='16' sect='3801' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3801.html'>
+                16 U.S.C. 3801
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The Consolidated Farm and Rural Development Act (
+            <aref type='USC'>
+              <subref title='7' sect='1921' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1921.html'>
+                7 U.S.C. 1921
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Any law that provides assistance to a producer of an agricultural
+            commodity affected by a crop loss or a decline in prices of
+            agricultural commodities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Violation determinations are made by FCIC. However, upon notice
+            from FCIC to CCC that a producer has been found to have committed a
+            violation to which paragraph (a) of this section applies, that
+            person shall be considered ineligible for payments under the
+            programs specified in paragraph (a) of this section that are funded
+            by CCC for the same period of time for which, as determined by FCIC,
+            the producer will be ineligible for crop insurance benefits of the
+            kind referred to in paragraph (a)(1) of this section. Appeals of the
+            determination of ineligibility will be administered under the rules
+            set by FCIC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Other sanctions may also apply.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 39448
+          </aref>
+          , July 2, 2003, as amended at 
+          <aref type='FREGIST'>
+            72 FR 63361
+          </aref>
+          , Nov. 8, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12267'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:A:1405:-:1405.9
+      </extid>
+      <num st='1'>
+        1405.9
+      </num>
+      <head>
+        Commodity assessments.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 52285
+        </aref>
+        , Sept. 2, 2005, as amended at 
+        <aref type='FREGIST'>
+          75 FR 70812
+        </aref>
+        , Nov. 19, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1405' sect='9' psec='' tq='N'>
+              1405.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Commodity assessments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will deduct from the proceeds of a marketing assistance loan an
+            amount equal to the amount of an assessment otherwise required to be
+            remitted to a State agency under a State statute by the producer of
+            the commodity pledged as collateral for such loan or by the first
+            purchaser of such commodity subject to the requirements of paragraph
+            (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The assessment will be collected in one of the following ways, as
+            requested by the State, but not both:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             When the proceeds of the loan are disbursed; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             When the commodity pledged as collateral for the loan is forfeited
+            to CCC, in which case CCC will collect from the producer the amount
+            of the assessment submitted by CCC to the State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will deduct from the proceeds of a marketing assistance loan an
+            amount equal to the amount of an assessment otherwise authorized to
+            be remitted to a federally authorized entity under a Federal statute
+            by the producer of the commodity pledged as collateral for such loan
+            or the first purchaser of such commodity in the manner agreed to by
+            CCC and the entity to whom the Secretary of Agriculture has
+            authorized to collect such assessments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will collect commodity assessments authorized under a State
+            statute when:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State entity has:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Requested that the assessment be collected;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Identified whether the assessment is to be collected at the time
+            the loan proceeds are disbursed or at the time the commodity is
+            forfeited to CCC;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Identified the person who may enter into an agreement with CCC that
+            sets forth the obligations of the State and CCC with respect to the
+            collection of the assessment; and
+            <PRTPAGE P='457' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Provided an opinion from the Office of the Attorney General to CCC
+            that concludes the person signing the agreement may obligate the
+            State to comply with the agreement and the provisions of 
+            <aref target='_blank' title='Public Law 108-470' alt='Public Law 108-470' href='http://www.gpo.gov/fdsys/pkg/PLAW-108publ470/html/PLAW-108publ470.htm'>
+              Public Law 108-470
+            </aref>
+             have been met.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The agreement described in paragraph (c) of this section has been
+            executed by the appropriate State official and CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will enter into an agreement with an authorized State official
+            to collect commodity assessments when the actions set forth in
+            paragraphs (b)(1) and (2) of this section have been completed. Such
+            agreement will contain the obligations and responsibilities of the
+            State and CCC. All such agreements will include provisions that
+            provide:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State will indemnify CCC for any costs incurred in the
+            collection of the assessment including costs incurred with respect
+            to resolution of disputes arising from the requested collection of
+            the assessment but not for administrative costs incurred by CCC in
+            the collection of the assessment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The State, in cases where an assessment has been collected two or
+            more times with respect to the same quantity of the commodity
+            subject to the assessment, will refund the amount of the excess
+            collection to the producer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The agreement may be terminated by either party upon 30 days
+            notice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The State, in cases where the marketing assistance loan is made by
+            a cooperative marketing association or a designated marketing
+            association approved by CCC, or any other similar entity that is
+            approved by CCC, to obtain such a loan on behalf of its members may
+            enter into individual arrangements with such entity to facilitate
+            the collection of the assessment with the approval of CCC.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 52285
+          </aref>
+          , Sept. 2, 2005, as amended at 
+          <aref type='FREGIST'>
+            75 FR 70812
+          </aref>
+          , Nov. 19, 2010]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

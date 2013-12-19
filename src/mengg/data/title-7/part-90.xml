@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:E:90
+    </extid>
+    <num>
+      90
+    </num>
+    <head>
+      INTRODUCTION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1622' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1622.html'>
+              7 U.S.C. 1622
+            </subref>
+            , 
+            <subref title='7' sect='1624' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1624.html'>
+              1624
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            58 FR 42414
+          </aref>
+          , Aug. 9, 1993, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='3996'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:90:A:90.1
+      </extid>
+      <num st='1'>
+        90.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42414
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          61 FR 51350
+        </aref>
+        , Oct. 2, 1996; 
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='90' sect='1' psec='' tq='N'>
+              90.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          This subchapter sets forth the functions and responsibilities of the
+          Science and Technology (S&amp;T) of the Agricultural Marketing Service
+          (AMS) relating to:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The performance of comprehensive analytical tests and laboratory
+            determinations of agricultural commodities and processed products.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The conduct of experiments and collaborative studies to validate
+            new analytical procedures and improved methodologies in order to
+            promote faster, more precise, or safer laboratory testing for
+            agricultural commodities and processed products.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The supervised issuance of external quality control or proficiency
+            check samples to laboratories under the Science and
+            Technology&apos;s direction or performance review in order to
+            regularly spot check and assess that analytical or test data
+            produced by each laboratory is reproducible, precise, and reliable
+            for a specific test program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The granting of laboratory program accreditation or certification
+            or approval for specialty testing of agricultural commodities and
+            products.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The licensing of chemists to analyze cottonseed in order to certify
+            its quality and grade.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The granting of certification to non-federal laboratories for
+            testing for trichinae in horsemeat for export to the European
+            Community (EC).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The granting of acceptance of standardized methodology or new
+            procedures for commodity testing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The auditing of the facilities, equipment, quality control
+            procedures, standard methodologies, and good laboratory practices
+            for a commodity testing program of a laboratory.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The examination of plants for novelty and distinctiveness in order
+            to grant certificates of protection for new varieties of sexually
+            reproduced plants, and the provision of other fee based services
+            authorized by the Plant Variety Protection Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             The extension or coordination of research for the determination of
+            a new chemical analyte or microorganism in a commodity product or
+            food.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             The analysis of imported flue-cured and burley tobacco for
+            pesticide residues.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+             The supervision and implementation of the State enforcement of the
+            recordkeeping requirements for private applicators of restricted-use
+            pesticides for agricultural production.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42414
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            61 FR 51350
+          </aref>
+          , Oct. 2, 1996; 
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3997'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:90:B:90.2
+      </extid>
+      <num st='1'>
+        90.2
+      </num>
+      <head>
+        General terms defined.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42414
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          61 FR 51350
+        </aref>
+        , Oct. 2, 1996; 
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='90' sect='2' psec='' tq='N'>
+              90.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General terms defined.
+        </SUBJECT>
+        <P>
+          Words used in the regulations in this subchapter in the singular form
+          will import the plural, and vice versa, as the case may demand. As
+          used throughout the regulations in this subchapter and unless the
+          context requires otherwise, the following terms will be construed to
+          mean:
+          <PRTPAGE P='237' />
+        </P>
+        <P>
+          <E T='03'>
+            Act.
+          </E>
+           The Agricultural Marketing Act of 1946 (Title II of the act of
+          Congress approved August 14, 1946, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=79_statutes2_at_large&amp;position=all&amp;page=1087'>
+            60 Stat. 1087
+          </aref>
+          -1091, as amended; 
+          <aref type='USC'>
+            <subref title='7' sect='1621-162' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621-162.html'>
+              7 U.S.C. 1621-162
+            </subref>
+          </aref>
+          7).
+        </P>
+        <P>
+          <E T='03'>
+            Administrator.
+          </E>
+           The Administrator of the Agricultural Marketing Service, or any
+          officer or employee of the Service, to whom authority has been
+          delegated, or to whom authority may be delegated, to act in his or her
+          stead.
+        </P>
+        <P>
+          <E T='03'>
+            Cooperative agreement.
+          </E>
+           An agreement between the Agricultural Marketing Service and another
+          Federal agency or a State agency, or other agency, organization or
+          person that defines in the general terms the basis on which the
+          parties concerned will cooperate to serve a mutual interest on an
+          agricultural service project. The responsibilities for AMS and each
+          cooperator are stated in the document along with the conditions as
+          applicable.
+        </P>
+        <P>
+          <E T='03'>
+            Department.
+          </E>
+           The United States Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Deputy Administrator.
+          </E>
+           The Deputy Administrator of the Science and Technology program of the
+          Agricultural Marketing Service agency, or any officer or employee of
+          this agency to whom authority has heretofore been delegated, or to
+          whom authority may hereafter be delegated, to act.
+        </P>
+        <P>
+          <E T='03'>
+            Laboratories.
+          </E>
+           Science and Technology laboratories performing the official analyses
+          described in this subchapter.
+        </P>
+        <P>
+          <E T='03'>
+            Program.
+          </E>
+           The Science and Technology (S&amp;T) program of the Agricultural
+          Marketing Service (AMS) which performs official analytical testing
+          services, issues licenses for cottonseed chemists, and conducts
+          quality assurance reviews and grants accreditation or certification
+          for commodity testing programs of laboratories.
+        </P>
+        <P>
+          <E T='03'>
+            Quality assurance.
+          </E>
+           The assurance that there is accuracy of analytical data using
+          proficiency check sample or analyte recovery techniques. In addition,
+          the certainty that there is strict adherence by the analysts in
+          following the quality control details in the recommended or official
+          methods for reagents, laboratory apparatus and procedures. The overall
+          objective of quality assurance, as a comprehensive program, is to
+          ensure that all analytical data produced by the laboratory meets
+          certain quality criteria and that all data produced is reproducible,
+          precise, and accurate.
+        </P>
+        <P>
+          <E T='03'>
+            Quality control.
+          </E>
+           The system of close examination of the critical details of an
+          analytical procedure in order to have the proper equipment parameters,
+          techniques, supplies and reagents to achieve a predetermined level of
+          quality data, with the performance of a particular laboratory
+          analysis.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary.
+          </E>
+           The Secretary of Agriculture of the United States, or any officer or
+          employee of the Department to whom authority has heretofore been
+          delegated, or to whom authority may hereafter be delegated, to act in
+          his or her stead.
+        </P>
+        <P>
+          <E T='03'>
+            Service.
+          </E>
+           The Agricultural Marketing Service of the United States Department of
+          Agriculture.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42414
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            61 FR 51350
+          </aref>
+          , Oct. 2, 1996; 
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3998'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:90:C:90.3
+      </extid>
+      <num st='1'>
+        90.3
+      </num>
+      <head>
+        General.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42414
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          61 FR 51350
+        </aref>
+        , Oct. 2, 1996; 
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='90' sect='3' psec='' tq='N'>
+              90.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Laboratory service programs of laboratories certified and approved by
+          the Science and Technology shall have good laboratory practice (GLP)
+          requirements that are generalized in this subpart.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42414
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            61 FR 51350
+          </aref>
+          , Oct. 2, 1996; 
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3999'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:90:C:90.4-90.100
+      </extid>
+      <num st='2'>
+        90.4-90.100
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='90' sect='4-90' psec='' tq='N'>
+              90.4-90
+            </subref>
+          </aref>
+          .100
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='4000'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:90:D:90.101
+      </extid>
+      <num st='1'>
+        90.101
+      </num>
+      <head>
+        General.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42414
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          61 FR 51350
+        </aref>
+        , Oct. 2, 1996; 
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='90' sect='101' psec='' tq='N'>
+              90.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Laboratory service programs of laboratories certified and approved by
+          the Science and Technology shall have quality assurance requirements
+          that are generalized in this subpart.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42414
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            61 FR 51350
+          </aref>
+          , Oct. 2, 1996; 
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4001'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:90:D:90.102
+      </extid>
+      <num st='1'>
+        90.102
+      </num>
+      <head>
+        Quality assurance review.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42414
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64309
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='90' sect='102' psec='' tq='N'>
+              90.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Quality assurance review.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each laboratory performing tests and analysis under this subchapter
+            will be subject to a quality assurance program evaluation at least
+            annually, and 
+            <PRTPAGE P='238' />
+            more often if deemed necessary by the Deputy Administrator. Such
+            evaluation will include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A review of the adequacy of quality control measures taken by the
+            laboratory for the standardized method of analysis for a commodity
+            and its related products;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A review of the laboratory methodologies and procedures;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A review of records for the calibration and maintenance of
+            equipment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A review of records documenting sample handling;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The evidence of quality control records;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The evidence of correct reporting and determination of analytical
+            data.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A laboratory will receive a quality assurance report following the
+            review. This evaluation will address any necessary improvements to
+            the laboratory program(s) being examined.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42414
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64309
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4002'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:90:D:90.103
+      </extid>
+      <num st='1'>
+        90.103
+      </num>
+      <head>
+        Maintenance of quality control records.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='90' sect='103' psec='' tq='N'>
+              90.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Maintenance of quality control records.
+        </SUBJECT>
+        <P>
+          Quality control records pertaining, but not limited to the following
+          areas, shall be retained by the laboratory for at least the 3 most
+          recent years:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Prepared solution standardizations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Recovery studies by known analyte additions;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The purity checks of reagents and test materials;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Apparatus and equipment calibrations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The quality examination and testing of materials;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The mandatory participation in proficiency check sample testing or
+            collaborative studies;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Daily critical parameter checks of equipment, such as temperature
+            readings;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The equivalency tests of new procedures with standard
+            methodologies.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4003'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:90:D:90.104-90.200
+      </extid>
+      <num st='2'>
+        90.104-90.200
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='90' sect='104-90' psec='' tq='N'>
+              90.104-90
+            </subref>
+          </aref>
+          .200
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

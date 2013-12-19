@@ -1,0 +1,10 @@
+@relation 'C__Users_Prasannjit Kumar_workspace_project_src_mengg_data_tests_testingData_Connecticut'
+
+@attribute text string
+@attribute @@class@@ {negative,positive}
+
+@data
+'a) Type 51. That type of cigar-leaf tobacco commonly known as Connecticut Valley Broadleaf or Connecticut Broadleaf, produced principally in the Connecticut River Valley.',negative
+'Areas Covered: Connecticut, Delaware, District of Columbia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, West Virginia.',negative
+'In the States of Connecticut, Maine, Massachusetts, New Hampshire is the best.',negative
+'Areas Covered: Connecticut, Delaware, District of Columbia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, West Virginia.',positive

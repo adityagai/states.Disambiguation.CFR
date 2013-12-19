@@ -1,0 +1,2963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1468
+    </extid>
+    <num>
+      1468
+    </num>
+    <head>
+      CONSERVATION FARM OPTION
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='3839bb' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3839bb.html'>
+              16 U.S.C. 3839bb
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            63 FR 51786
+          </aref>
+          , Sept. 29, 1998, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12984'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.1
+      </extid>
+      <num st='1'>
+        1468.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='1' psec='' tq='N'>
+              1468.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Through the Conservation Farm Option (CFO), the Commodity Credit
+            Corporation (CCC) provides financial assistance to eligible farmers
+            and ranchers to address soil, water, and related natural resource
+            concerns, water quality protection or improvement; wetland
+            restoration and protection; wildlife habitat development and
+            protection; and other similar conservation purposes on their lands
+            in an environmentally beneficial and cost-effective manner. The
+            Natural Resources Conservation Service (NRCS) may provide technical
+            assistance, upon request by the producer or landowner.
+            <PRTPAGE P='825' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The CCC provides a single contract and annual payments for
+            implementation of innovative and environmentally-sound methods for
+            addressing natural resource concerns for producers of wheat, feed
+            grains, cotton, and rice, resulting in consolidation of payments
+            that would have been available under the Conservation Reserve
+            Program (CRP), the Wetlands Reserve Program cost-share agreements
+            (WRP), and the Environmental Quality Incentives Program (EQIP). CFO
+            participation is determined through two step process: first, the
+            Chief, with FSA concurrence, selects CFO pilot project areas based
+            on proposals submitted by the public; then CCC accepts applications
+            from eligible producers or owners within the selected pilot project
+            area.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12985'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.2
+      </extid>
+      <num st='1'>
+        1468.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='2' psec='' tq='N'>
+              1468.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             CFO is carried out using Commodity Credit Corporation funds and
+            will be administered on behalf of CCC by the Natural Resources
+            Conservation Service (NRCS) and the Farm Service Agency (FSA) as set
+            forth below.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Provide overall program management and implementation for CFO;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Establish policies, procedures, priorities, and guidance for
+            program implementation, including determination of pilot project
+            areas;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Establish annual payment rates consistent with EQIP, CRP, and WRP
+            payment rates;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Make funding decisions and determine allocations of program funds,
+            with FSA concurrence;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Determine eligibility of practices;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Provide technical leadership for conservation planning and
+            implementation, quality assurance, and evaluation of program
+            performance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             FSA will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be responsible for the administrative processes and procedures
+            including applications, contracting, and financial matters, such as
+            payments to participants, assistance in determining participant
+            eligibility, and program accounting; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Provide leadership for establishing, implementing, and overseeing
+            administrative processes for applications, contracts, payment
+            processes, and administrative and financial performance reporting.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS and FSA will cooperate in establishing program policies,
+            priorities, and guidelines related to the implementation of this
+            part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             No delegation herein to lower organizational levels shall preclude
+            the Chief of NRCS, or the Administrator of FSA, or a designee, from
+            determining any question arising under this part or from reversing
+            or modifying any determination made under this part that is the
+            responsibility of their respective agencies.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12986'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.3
+      </extid>
+      <num st='1'>
+        1468.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 51786
+        </aref>
+        , Sept. 29, 1998, as amended at 
+        <aref type='FREGIST'>
+          76 FR 4806
+        </aref>
+        , Jan. 27, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='3' psec='' tq='N'>
+              1468.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions apply to this part and all documents issued
+          in accordance with this part, unless specified otherwise:
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means a producer or owner in an approved pilot project area who has
+          requested in writing to participate in CFO.
+        </P>
+        <P>
+          <E T='03'>
+            Chief
+          </E>
+           means the Chief of NRCS, or designee.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation district
+          </E>
+           means a political subdivision of a State, Indian tribe, or territory,
+          organized pursuant to the State or territorial soil conservation
+          district law, or tribal law. The subdivision may be a conservation
+          district, soil conservation district, soil and water conservation
+          district, resource conservation district, natural resource district,
+          land conservation committee, or similar legally constituted body.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation farm plan
+          </E>
+           means a record of a participant&apos;s decisions, and supporting
+          information for treatment of a unit of land or water as a result of
+          the planning process, that meets the local NRCS Field Office Technical
+          Guide (FOTG) criteria for each natural resource and takes into account
+          economic and social considerations. The plan describes the schedule of
+          operations and activities needed to solve identified natural resource
+          problems, and take advantage of opportunities, at a conservation
+          management system level. In the conservation farm plan, the needs of
+          the client, the resources, and Federal, state, Tribal, and local
+          requirements will be met.
+          <PRTPAGE P='826' />
+        </P>
+        <P>
+          <E T='03'>
+            Conservation practice
+          </E>
+           means a specified treatment, such as structural, vegetative, or a
+          land management practice, which is planned and applied according to
+          NRCS standards and specifications.
+        </P>
+        <P>
+          <E T='03'>
+            Contract
+          </E>
+           means a legal document that specifies the rights and obligations of
+          any person who has been accepted for participation in the program.
+        </P>
+        <P>
+          <E T='03'>
+            County executive director
+          </E>
+           means the FSA employee responsible for directing and managing program
+          and administrative operations in one or more FSA county offices.
+        </P>
+        <P>
+          <E T='03'>
+            Farm Service Agency county committee
+          </E>
+           means a committee elected by the agricultural producers in the county
+          or area, in accordance with 
+          <aref type='UNKNOWN'>
+            Sec. 8(b) of
+          </aref>
+           the Soil Conservation and Domestic Allotment Act, as amended, or
+          designee.
+        </P>
+        <P>
+          <E T='03'>
+            Field office technical guide
+          </E>
+           means the official NRCS guidelines, criteria, and standards for
+          planning and applying conservation treatments and conservation
+          management systems. The guide contains detailed information on the
+          conservation of soil, water, air, plant, and animal resources
+          applicable to the local area for which it is prepared. A copy of the
+          guide for that area is available at the appropriate NRCS field office.
+        </P>
+        <P>
+          <E T='03'>
+            Indian tribe
+          </E>
+           means any Indian tribe, band, nation, or other organized group or
+          community, including any Alaska Native village or regional or village
+          corporation as defined in or established pursuant to the Alaska Native
+          Claims Settlement Act (
+          <aref type='USC'>
+            <subref title='43' sect='1601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601.html'>
+              43 U.S.C. 1601
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ) which is recognized as eligible for the special programs and
+          services provided by the United States to Indians because of their
+          status as Indians.
+        </P>
+        <P>
+          <E T='03'>
+            Innovative technology
+          </E>
+           means the use of new management techniques, specific treatments, or
+          procedures such as structural or vegetative measures used in field
+          trials or as interim conservation practice standards that have the
+          purpose of solving or reducing the severity of natural resource use
+          problems or that take advantage of resource opportunities. Innovative
+          technologies used by program participants must be able to achieve the
+          required level of resource protection.
+        </P>
+        <P>
+          <E T='03'>
+            Land management practice
+          </E>
+           means conservation practices that primarily require site-specific
+          management techniques and methods to conserve, protect from
+          degradation, or improve soil, water, or related natural resources in
+          the most cost-effective manner. Land management practices include, but
+          are not limited to nutrient management, manure management, integrated
+          pest management, integrated crop management, irrigation water
+          management, tillage or residue management, stripcropping, contour
+          farming, grazing management, wildlife management, resource conserving
+          crop rotations, cover crop management, and organic matter and carbon
+          sink management.
+        </P>
+        <P>
+          <E T='03'>
+            Liquidated damages
+          </E>
+           means a sum of money stipulated in the contract which the participant
+          agrees to pay, in addition to refunds and other charges, if the
+          participant breaches the contract, and represents an estimate of the
+          anticipated or actual harm caused by the breach, and reflects the
+          difficulties of proof of loss and the inconvenience or nonfeasibility
+          of otherwise obtaining an adequate remedy.
+        </P>
+        <P>
+          <E T='03'>
+            Local work group
+          </E>
+           means representatives of FSA, the National Institute of Food and
+          Agriculture (NIFA), the conservation district, and other Federal,
+          State, and local government agencies, including Tribes and Resource
+          Conservation and Development councils, with expertise in natural
+          resources who consult with NRCS on decisions related to CFO
+          implementation.
+        </P>
+        <P>
+          <E T='03'>
+            Operation and maintenance
+          </E>
+           means work performed by the participant to keep the applied
+          conservation practice functioning for the intended purpose during its
+          life span. Operation includes the administration, management, and
+          performance of non-maintenance actions needed to keep the completed
+          practice safe and functioning as intended. Maintenance includes work
+          to prevent deterioration of the practice, repairing damage, or
+          replacement of the practice to its original condition if one or more
+          components fail.
+        </P>
+        <P>
+          <E T='03'>
+            Participant
+          </E>
+           means an applicant who is a party to a CFO contract.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of the United States Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            State conservationist
+          </E>
+           means the NRCS employee authorized to direct and supervise NRCS
+          activities in a State, the 
+          <PRTPAGE P='827' />
+          Caribbean Area, or the Pacific Basin Area.
+        </P>
+        <P>
+          <E T='03'>
+            State technical committee
+          </E>
+           means a committee established by the Secretary in a state pursuant to
+          
+          <aref type='USC'>
+            <subref title='16' sect='3861' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3861.html'>
+              16 U.S.C. 3861
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Technical assistance
+          </E>
+           means the personnel and support resources needed to conduct
+          conservation planning; conservation practice survey, layout, design,
+          installation, and certification; training, certification, and quality
+          assurance for professional conservationists; and evaluation and
+          assessment of the program.
+        </P>
+        <P>
+          <E T='03'>
+            Unit of concern
+          </E>
+           means a parcel of agricultural land that has natural resource
+          conditions that are of concern to the participant.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 51786
+          </aref>
+          , Sept. 29, 1998, as amended at 
+          <aref type='FREGIST'>
+            76 FR 4806
+          </aref>
+          , Jan. 27, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12987'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.4
+      </extid>
+      <num st='1'>
+        1468.4
+      </num>
+      <head>
+        Establishing Conservation Farm Option (CFO) pilot project areas.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='4' psec='' tq='N'>
+              1468.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Establishing Conservation Farm Option (CFO) pilot project areas.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may periodically solicit proposals from the public to establish
+            pilot project areas in the 
+            <E T='04'>
+              Federal Register
+            </E>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Pilot projects may involve one or more participants. Each owner or
+            producer within an approved pilot project area must submit an
+            application in order to be considered for enrollment in the CFO.
+            This pilot project area may be a watershed, a subwatershed, an area,
+            or an individual farm that can be geographically described and has
+            specific environmental sensitivities or significant soil, water, and
+            related natural resource concerns. The pilot project area must have
+            acreage enrolled in a production flexibility contract, which is
+            authorized by the Agricultural Marketing and Transition Act of 1996.
+            After these pilot project area proposals are received, the Chief,
+            with FSA concurrence, will select proposals for funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will select pilot project areas based on the extent the
+            individual proposal:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrates innovative approaches to conservation program delivery
+            and administration;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Proposes innovative conservation technologies and system;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Provides assurances that the greatest amount of environmental
+            benefits will be delivered in a cost effective manner;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Ensures effective monitoring and evaluation of the pilot effort;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Considers multiple stakeholder participation (partnerships) within
+            the pilot area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Provides additional non-Federal funding; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Addresses the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_7_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation of soil, water, and related natural resources,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_7_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Water quality protection or improvement,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_7_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Wetland restoration and protection, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_7_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Wildlife habitat development and protection,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_7_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Or other similar conservation purposes.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12988'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.5
+      </extid>
+      <num st='1'>
+        1468.5
+      </num>
+      <head>
+        General provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='5' psec='' tq='N'>
+              1468.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Program participation is voluntary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Participation in the CFO is limited to producers of wheat, feed
+            grains, cotton, or rice who have a production flexibility contract,
+            in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1412' tq='N'>
+                1412 of this chapter
+              </subref>
+            </aref>
+            , on the farm enrolling in CFO and who are eligible for either CRP (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1410' tq='N'>
+                1410
+              </subref>
+            </aref>
+            ), EQIP (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1466' tq='N'>
+                1466
+              </subref>
+            </aref>
+            ), or WRP (
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1467' tq='N'>
+                1467
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The participant is responsible for the development of a
+            conservation farm plan for the farm or ranch and may request
+            assistance from NRCS or a third party in writing both the
+            conservation farm plan and installing the practices outlined within
+            the plan. Conservation practices in the conservation farm plan that
+            would have been eligible for payment under CRP, EQIP, or cost-share
+            agreements under WRP are eligible for CFO payment. The provisions
+            for determining eligibility for payment and the calculation of
+            payment under CFO will be similar to those specified for the
+            eligible conservation practices under CRP, EQIP, or cost-share
+            agreements under WRP. For land retirement payments, the CRP payment
+            schedule in effect for the applicable soils at the time the CFO
+            contract is signed will be utilized. CCC will provide annual
+            payments to a participant for such conservation practices as
+            specified in the time schedule set forth in the conservation farm
+            plan.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12989'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.6
+      </extid>
+      <num st='1'>
+        1468.6
+      </num>
+      <head>
+        Practice eligibility provisions.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='828' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='6' psec='' tq='N'>
+              1468.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Practice eligibility provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Practices may be eligible for payment under CFO if the conservation
+            practice specified in the conservation farm plan is determined to be
+            an eligible practice, as determined by the Chief, in accordance
+            with:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1410' tq='N'>
+                1410
+              </subref>
+            </aref>
+             for land retirement rental payments and practices that are eligible
+            under CRP;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1467' tq='N'>
+                1467
+              </subref>
+            </aref>
+             for wetland restoration or protection practices that are eligible
+            under WRP; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1466' tq='N'>
+                1466
+              </subref>
+            </aref>
+             for conservation practices that are eligible under EQIP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For practices that are installed on retired land, the CRP
+            cost-share rate for practices must be utilized.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12990'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.7
+      </extid>
+      <num st='1'>
+        1468.7
+      </num>
+      <head>
+        Participant eligibility provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='7' psec='' tq='N'>
+              1468.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Participant eligibility provisions.
+        </SUBJECT>
+        <P>
+          Participants in the CFO must at the time of enrollment:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Have a production flexibility contract in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1412' tq='N'>
+                1412 of this chapter
+              </subref>
+            </aref>
+             on the farm enrolling in CFO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to forgo earning future payments under the Conservation
+            Reserve Program authorized by 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1410' tq='N'>
+                1410 of this chapter
+              </subref>
+            </aref>
+            , the Wetlands Reserve Program cost-share payments authorized by 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1467' tq='N'>
+                1467 of this chapter
+              </subref>
+            </aref>
+            , and Environmental Quality Incentives Program authorized by 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1466' tq='N'>
+                1466 of this chapter
+              </subref>
+            </aref>
+            , on the farm enrolled in the CFO for the term of the CFO contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Be in compliance with the highly erodible land and wetland
+            conservation provisions found at 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='12' tq='N'>
+                12 of this title
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Have control of the land for the term of the proposed contract
+            period;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An exception may be made by the Chief in the case of land allotted
+            by the Bureau of Indian Affairs (BIA), tribal land, or other
+            instances in which the Chief determines that there is sufficient
+            assurance of control.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is a tenant of the land involved in agricultural
+            production the applicant shall provide CCC with the written
+            authorization by the landowner to apply the structural or vegetative
+            practice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the applicant is a landowner, the landowner is presumed to have
+            control.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Submit a proposed conservation farm plan to CCC that is in
+            compliance with the terms and conditions of the program. To receive
+            payment under the CFO, the participant must also meet the
+            eligibility requirements, as determined by the Chief, in:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1410' tq='N'>
+                1410
+              </subref>
+            </aref>
+             if the land retirement rental payment and practice determined
+            eligible in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#a' tq='N'>
+                1468.6(a)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1467' tq='N'>
+                1467
+              </subref>
+            </aref>
+             if the wetland restoration or protection practice was determined
+            eligible in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#b' tq='N'>
+                1468.6(b)
+              </subref>
+            </aref>
+            , or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1466' tq='N'>
+                1466
+              </subref>
+            </aref>
+            , if the conservation practice was determined eligible in accordance
+            with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#c' tq='N'>
+                1468.6(c)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with the provisions at 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1412' sect='304' psec='' tq='N'>
+                1412.304
+              </subref>
+               of this chapter
+            </aref>
+             for protecting the interests of tenants and sharecroppers,
+            including provisions for sharing, on a fair and equitable basis,
+            payments made available under this part, as may be applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Supply information as required by CCC to determine eligibility for
+            the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with all the provisions of the CFO contract which includes
+            the conservation farm plan approved by the local conservation
+            district.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12991'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.8
+      </extid>
+      <num st='1'>
+        1468.8
+      </num>
+      <head>
+        Land eligibility provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='8' psec='' tq='N'>
+              1468.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Land eligibility provisions.
+        </SUBJECT>
+        <P>
+          Land may be eligible for enrollment in CFO, if CCC determines that the
+          farm or ranch is enrolled in a production flexibility contract,
+          authorized by the Agricultural Marketing Transition Act of 1996 and if
+          the land upon which the CFO conservation practice, will be applied is
+          determined to be eligible land as determined by the Chief, in
+          accordance with:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1410' tq='N'>
+                1410
+              </subref>
+            </aref>
+            , if the practice was determined an eligible land retirement rental
+            payment and cost-share practice similar to CRP in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#a' tq='N'>
+                1468.6(a)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1467' tq='N'>
+                1467
+              </subref>
+            </aref>
+            , if the practice was determined an eligible wetland restoration or
+            protection practice similar to WRP in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#b' tq='N'>
+                1468.6(b)
+              </subref>
+            </aref>
+            ; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1466' tq='N'>
+                1466
+              </subref>
+            </aref>
+            , if the practice was determined an eligible conservation practice
+            similar to EQIP in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#c' tq='N'>
+                1468.6(c)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12992'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:A:1468.9
+      </extid>
+      <num st='1'>
+        1468.9
+      </num>
+      <head>
+        Conservation farm plan.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='829' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='9' psec='' tq='N'>
+              1468.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation farm plan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation farm plan forms the basis of the CFO contract.
+            Prior to contract approval, a conservation farm plan must be written
+            and approved. In deciding whether to approve a conservation farm
+            plan, CCC may consider whether:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The participant will use conservation practices to solve the
+            natural resource concerns that will maximize environmental benefits
+            per dollar expended, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation practice would have been eligible for enrollment
+            in the CRP, EQIP, or under the WRP cost-share agreements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation farm plan for the farm or ranch unit of concern
+            shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Describe any resource conserving crop rotation, and all other
+            conservation practices, to be implemented and maintained on the
+            acreage that is subject to contract during the contact period;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Address the resource concerns identified in the CFO pilot project
+            area proposal;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Contain a schedule for the implementation and maintenance of the
+            practices described in the conservation farm plan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Ensure that net environmental benefits under a CRP contract are
+            maintained or exceeded for the whole farm, as constituted by FSA,
+            when terminating a CRP contract and enrolling in a CFO contract; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Meet the objectives of the pilot project area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation farm plan is part of the CFO contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The conservation farm plan must allow the participant to achieve a
+            cost-effective resource management system, or some appropriate
+            portion of that system, identified in the applicable NRCS field
+            office technical guide or as approved by the State Conservationist.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Participants are responsible for implementing the conservation farm
+            plan in compliance with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Upon a participant&apos;s request, the NRCS may provide technical
+            assistance to a participant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Participants may, at their own cost, use qualified professionals,
+            other than NRCS personnel, to provide technical assistance. NRCS
+            retains approval authority over the technical adequacy of work done
+            by non-NRCS personnel for the purpose of determining CFO contract
+            compliance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Technical and other assistance provided by qualified personnel not
+            affiliated with NRCS may include, but not limited to: conservation
+            planning; conservation practice survey, layout, design, and
+            installation; information, education, and training for producers;
+            and training and quality assurance for professional
+            conservationists.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             All conservation practices scheduled in the conservation farm plan
+            are to be carried out in accordance with the applicable NRCS Field
+            Office Technical Guide. The State Conservationist may approve use of
+            innovative conservation measures that are not contained in the NRCS
+            Field Office Technical Guide.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To simplify the conservation planning process for the participant,
+            the conservation farm plan may be developed, at the request of the
+            participant, as a single plan that incorporates, other Federal,
+            state, Tribal, or local government program or regulatory
+            requirements. CCC development or approval of a conservation farm
+            plan shall not constitute compliance with program, statutory and
+            regulatory requirements administered or enforced by a non-USDA
+            agency, except as agreed to by the participant and the relevant
+            Federal, state, local or tribal entities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may accept an existing conservation plan developed and required
+            for participation in any other CCC or USDA program if the
+            conservation plan otherwise meets the requirements of this part.
+            When a participant develops a single conservation farm plan for more
+            than one program, the participant shall clearly identify the
+            portions of the plan that are applicable to the CFO contract. It is
+            the responsibility of the participant to ascertain and comply with
+            all applicable statutory and regulatory requirements.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12993'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:B:1468.20
+      </extid>
+      <num st='1'>
+        1468.20
+      </num>
+      <head>
+        Application for CFO program participation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='20' psec='' tq='N'>
+              1468.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for CFO program participation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any eligible owner or producer within an approved pilot project
+            area 
+            <PRTPAGE P='830' />
+            may submit an application for participation in the CFO to a service
+            center or other USDA county or field office(s) of FSA or NRCS, where
+            the pilot project area is located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will accept applications throughout the fiscal year. CCC will
+            rank and select the offers of applicants periodically, as determined
+            appropriate by the State Conservationist. The application period
+            will begin after a pilot project area has been approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The designated conservationist, in consultation with the local work
+            group, will develop ranking criteria to prioritize applications
+            within a pilot project area which consists of more than one owner or
+            producer. NRCS will prioritize applications from the same pilot
+            project area using the criteria specific to the area. The FSA county
+            committee, with the assistance of the designated conservationist and
+            designated FSA official, will approve for funding the application in
+            a pilot project area based on eligibility factors of the applicant
+            and the NRCS ranking.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The designated conservationist will work with the applicant to
+            collect the information necessary to evaluate the application using
+            the ranking criteria. An applicant has the option of offering and
+            accepting less than the maximum program payments allowed, offering
+            to apply more conservation practices to the land in order to
+            increase the likelihood of being enrolled. In evaluating the
+            applications, the designated conservationist will take into
+            consideration the following factors:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Soil erosion;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Water quality;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Wildlife benefits;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Soil productivity;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Conservation compliance considerations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Likelihood to remain in conserving uses beyond the contract period,
+            including tree planting and permanent wildlife habitat;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             State water quality priority areas;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             The environmental benefits per dollar expended; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             The degree to which application is consistent with the pilot
+            project proposal.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If two or more applications have an equal rank, the application
+            that will result in the least cost to the program will be given
+            greater consideration.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12994'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:B:1468.21
+      </extid>
+      <num st='1'>
+        1468.21
+      </num>
+      <head>
+        Contract requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='21' psec='' tq='N'>
+              1468.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In order for an applicant to receive annual payments, the applicant
+            must enter into a contract agreeing to implement a conservation farm
+            plan. The FSA county committee, with NRCS concurrence, will use the
+            NRCS ranking consistent with the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='20' psec='' tq='N'>
+                1468.20
+              </subref>
+            </aref>
+             and grant final approval of the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A CFO contract will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Incorporate by reference all portions of a conservation farm plan
+            applicable to CFO;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be for a duration of 10 years, and may be renewed, subject to the
+            availability of funds, for a period not to exceed 5 years upon
+            mutual agreement of CCC and the participant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Provide that the participant will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Not conduct any practices on the farm or ranch unit of concern
+            consistent with the goals of the contract that would tend to defeat
+            the purposes of the contract, or reduce net environmental and
+            societal benefits;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Refund with interest any program payments received and forfeit any
+            future payments under the program, on the violation of a term or
+            condition of the contract, in accordance with the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='25' psec='' tq='N'>
+                1468.25
+              </subref>
+               of this part
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Refund all program payments received on the transfer of the right
+            and interest of the producer in land subject to the contract, unless
+            the transferee of the right and interest agrees to assume all
+            obligations of the contract, in accordance with the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='24' psec='' tq='N'>
+                1468.24
+              </subref>
+               of this part
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to forego participation in CRP, EQIP, and the cost-share
+            agreements under WRP, along with future payments associated with
+            these programs, with regard to the land under the CFO contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Supply information as required by CCC to determine compliance with
+            the contract and requirements of the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Specify the participant&apos;s requirements for operation and
+            maintenance of the applied conservation practices in accordance with
+            the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='22' psec='' tq='N'>
+                1468.22
+              </subref>
+               of this part
+            </aref>
+            , and
+            <PRTPAGE P='831' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Include any other provision determined necessary or appropriate by
+            CCC.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             There is a limit of one CFO contract at any one time for each farm,
+            as constituted by FSA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The contract will incorporate the operation and maintenance of
+            conservation practices applied under the contract, including those
+            practices transferred from terminated CRP and EQIP contracts and WRP
+            cost-share agreements. For persons wishing to transfer from CRP,
+            EQIP, or WRP to CFO, practices included in CRP or EQIP contracts or
+            WRP cost-share agreements must be included in a CFO contract if an
+            owner or producer wishes to participate, unless otherwise stated in
+            the conservation farm plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Acreage that is subject to a WRP easement will not be included in
+            the CFO contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Upon completion, the participant must certify that a conservation
+            practice is completed in accordance with the conservation farm plan
+            to establish compliance with the contract.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12995'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:B:1468.22
+      </extid>
+      <num st='1'>
+        1468.22
+      </num>
+      <head>
+        Conservation practice operation and maintenance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='22' psec='' tq='N'>
+              1468.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conservation practice operation and maintenance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The participant will operate and maintain the conservation practice
+            for its intended purpose for the life span of the conservation
+            practice, as identified in the conservation farm plan. Conservation
+            practices installed before the execution of a CFO contract, but
+            needed in the contract to obtain the environmental benefits agreed
+            upon, are to be operated and maintained as specified in the
+            contract. NRCS may periodically inspect the conservation practice
+            during the lifespan of the practice as specified in the contract to
+            ensure that the operation and maintenance is occurring.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For those persons who are signatories to existing CRP or EQIP
+            contracts, or WRP cost-share agreements, practices will be
+            transferred from EQIP and CRP contracts or WRP cost-share
+            agreements, as agreed upon in the CFO conservation farm plan and CFO
+            contract. Remaining rights and obligations under CRP, EQIP, or WRP
+            will be incorporated into the new CFO contract. Practices included
+            in CRP, EQIP, or WRP will be incorporated into the new CFO contract.
+            Practices included in CRP or EQIP contracts or WRP cost-share
+            agreements must be included in a CFO contract if an owner or
+            producer wishes to participate. Participants in CFO with CRP, EQIP,
+            or WRP practices incorporated into CFO contracts are responsible for
+            operating and maintaining these practices for the balance of the
+            period specified in the original program contract, unless otherwise
+            stated in the conservation farm plan and CFO contract.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12996'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:B:1468.23
+      </extid>
+      <num st='1'>
+        1468.23
+      </num>
+      <head>
+        Annual payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='23' psec='' tq='N'>
+              1468.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Annual payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will determine annual payments, subject to the availability of
+            funds, based on the value of the expected payments that would have
+            been paid to the participant for that practice as specified in:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR-TIC-PART'>
+              Part 
+              <subref title='7' part='1410' tq='N'>
+                1410 of this chapter
+              </subref>
+            </aref>
+            , if the practice is a land retirement rental payment or cost-share
+            practice which would have qualified for payment under CRP in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#a' tq='N'>
+                1468.6(a)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR-TIC-PART'>
+              Part 
+              <subref title='7' part='1467' tq='N'>
+                1467 of this chapter
+              </subref>
+            </aref>
+            , if the practice is a wetland restoration or protection practice
+            which would have qualified for payment under WRP which was
+            determined eligible in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#b' tq='N'>
+                1468.6(b)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR-TIC-PART'>
+              Part 
+              <subref title='7' part='1466' tq='N'>
+                1466 of this chapter
+              </subref>
+            </aref>
+            , if the practice was a conservation practice which would have
+            qualified for payment under EQIP which was determined eligible in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='6' psec='#c' tq='N'>
+                1468.6(c)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The maximum amount of annual payments which a person may receive
+            under the CFO for any fiscal year shall not exceed the total of the
+            amounts calculated in accordance with paragraph (a) of this section
+            after being limited as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The payment calculated in accordance with paragraph (a)(1) of this
+            section is limited in accordance with CRP payment limitation
+            provisions set forth in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1410' tq='N'>
+                1410 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The payment calculated in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1467' sect='9' psec='#a_2' tq='N'>
+                1467.9(a)(2)
+              </subref>
+               of this chapter
+            </aref>
+             is not limited.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The payment calculated in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='23' psec='#a_3' tq='N'>
+                1466.23(a)(3)
+              </subref>
+               of this chapter
+            </aref>
+             is limited in accordance with EQIP payment limitation provisions in
+            
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1466' sect='23' psec='#b' tq='N'>
+                1466.23(b)
+              </subref>
+               of this chapter
+            </aref>
+            .
+            <PRTPAGE P='832' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations set forth at 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this chapter
+              </subref>
+            </aref>
+             will be applicable in making payment eligibility determinations for
+            CFO and in making person determination as they apply to the
+            limitation of payments determined in accordance with paragraph (b)
+            of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The CCC cost-share payments to a participant shall be reduced so
+            that total financial contributions for a structural or vegetative
+            practice from all public and private entity sources do not exceed
+            the cost of the practice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             A landowner or producer that enrolls in CFO and terminates a CRP or
+            EQIP contract or WRP cost-share agreement will be eligible to
+            receive payments for practices which have been determined,
+            established, or completed by the technical agency under those
+            contracts or agreements. Once the CFO contract is effective, all
+            payments for practices, including any practice transferred from the
+            terminated contract agreement will be made under the CFO contract,
+            except for payments already earned under prior contracts or
+            cost-share agreements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Payments will not be made to a participant who has applied or
+            initiated the application of a conservation practice for the
+            purposes of CFO prior to approval of the CFO contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             When requested by the State Conservationist on a case-by-case
+            basis, the Chief may approve, based upon availability of funding,
+            cost share on the reapplication of a practice to replace or repair
+            practice destroyed by unusual circumstances beyond the control of
+            the landowner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The participant and NRCS must certify that a conservation practice
+            is completed in accordance with the conservation farm plan to
+            establish compliance with the contract before the CCC will approve
+            the payment of any cost-share, incentive, or land retirement
+            payment.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12997'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:B:1468.24
+      </extid>
+      <num st='1'>
+        1468.24
+      </num>
+      <head>
+        Contract modifications and transfers of land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='24' psec='' tq='N'>
+              1468.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract modifications and transfers of land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The participant and CCC may modify a contract if the participant
+            and CCC agree to the contract modification and the conservation farm
+            plan is revised in accordance with CCC requirements and is approved
+            by the conservation district.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The participant may agree to transfer a contract to another
+            eligible owner or operator with the agreement of CCC. The transferee
+            shall assume full responsibility under the contract, including
+            operation and maintenance of those conservation practices already
+            installed and to be installed as a condition of the contract. By
+            agreeing to participate in CFO, CCC may require operation and
+            maintenance of those conservation practices installed under CRP,
+            EQIP, or WRP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             CCC may require a participant to refund all or a portion of any
+            assistance earned under a CRP or EQIP contract, or WRP cost-share
+            agreement that was terminated as a condition of participation in
+            CFO, if the participant sells or loses control of the land under a
+            CFO contract and the new owner or controller does not assume
+            responsibility under the contract.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12998'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:B:1468.25
+      </extid>
+      <num st='1'>
+        1468.25
+      </num>
+      <head>
+        Contract violations and termination.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='25' psec='' tq='N'>
+              1468.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Contract violations and termination.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If it is determined that a participant is in violation of the
+            provisions of this part, or the terms of the contract including
+            portions of the contract that incorporate transferred obligations
+            from CRP or EQIP contracts, or WRP cost-share agreements, CCC will
+            give the participant written notice of a reasonable time to correct
+            the violation and comply with the terms of the contract and
+            attachments thereto, as determined by the FSA county committee, in
+            consultation with NRCS. If a participant continues in violation
+            after the time to comply has elapsed, the FSA county committee may,
+            in consultation with NRCS, terminate the CFO contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding the provisions of paragraph (a)(1) of this section,
+            a contract termination shall be effective immediately upon a
+            determination by the FSA county committee, in consultation with
+            NRCS, that the participant has submitted false information, filed a
+            false claim, or engaged in any act for which a finding of
+            ineligibility for payments is permitted under the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1468' sect='35' psec='' tq='N'>
+                1468.35
+              </subref>
+               of this part
+            </aref>
+            , or in a case in which the actions of the party involved are deemed
+            to be sufficiently 
+            <PRTPAGE P='833' />
+            purposeful or negligent to warrant a termination without delay.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If CCC terminates a contract, the participant shall forfeit all
+            rights for future payments under the contract and shall refund all
+            or part of the payments received, plus interest, determined in
+            accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            . CCC has the option of requiring only partial refund of the
+            payments received if a previously installed conservation practice
+            can function independently, is not affected by the violation or
+            other conservation practices that would have been installed under
+            the contract, and the participant agrees to operate and maintain the
+            installed conservation practice for the life span of the practice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If CCC terminates a contract for any reason stated above, before
+            any contractual payments have been made, the participant shall
+            forfeit all rights for further payments under the contract and shall
+            pay such liquidated damages as are prescribed in the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             When making all contract termination decisions, CCC may reduce the
+            amount of money owed by the participant by a proportion which
+            reflects the good-faith effort of the participant to comply with the
+            contract, or the hardships beyond the participant&apos;s control
+            that have prevented compliance with the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The participant may voluntarily terminate a contract without
+            penalty, if CCC determines that such termination would be in the
+            public interest.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12999'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:C:1468.30
+      </extid>
+      <num st='1'>
+        1468.30
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='30' psec='' tq='N'>
+              1468.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant or participant may obtain administrative review of an
+            adverse decision made with respect to this part and the CFO contract
+            in accordance with 
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+               and 
+              <subref title='7' part='614' tq='N'>
+                614 of this title
+              </subref>
+            </aref>
+            , except as provided in paragraph (b) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The following decisions are not appealable:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             CCC funding allocations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible conservation practices;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Payment rates, and cost-share percentages;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Science-based formulas and factor values;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Soils mapping and information; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Other matters of general applicability.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13000'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:C:1468.31
+      </extid>
+      <num st='1'>
+        1468.31
+      </num>
+      <head>
+        Compliance with regulatory measures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='31' psec='' tq='N'>
+              1468.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance with regulatory measures.
+        </SUBJECT>
+        <P>
+          Participants who carry out conservation practices shall be responsible
+          for obtaining the authorities, rights, easements, permits, or other
+          approvals necessary for the implementation, operation, and maintenance
+          of the conservation practices in keeping with applicable laws and
+          regulations. Participants shall be responsible for compliance with all
+          laws and for all effects or actions resulting from the
+          participant&apos;s performance under the contract.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13001'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:C:1468.32
+      </extid>
+      <num st='1'>
+        1468.32
+      </num>
+      <head>
+        Access to operating unit.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='32' psec='' tq='N'>
+              1468.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to operating unit.
+        </SUBJECT>
+        <P>
+          Any authorized CCC representative shall have the right to enter an
+          operating unit or tract for the purpose of ascertaining the accuracy
+          of any representations made in a contract or in anticipation of
+          entering a contract, or as to the performance of the terms and
+          conditions of the contract. Access shall include the right to provide
+          technical assistance and inspect any work undertaken under the
+          contract. The CCC representative shall make a reasonable effort to
+          contact the participant prior to the exercise of this right to access.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13002'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:C:1468.33
+      </extid>
+      <num st='1'>
+        1468.33
+      </num>
+      <head>
+        Performance based upon advice or action of representatives of CCC.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='33' psec='' tq='N'>
+              1468.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Performance based upon advice or action of representatives of CCC.
+        </SUBJECT>
+        <P>
+          If a participant relied upon the advice or action of any authorized
+          representative of CCC, and did not know or have reason to know that
+          the action or advice was improper or erroneous, the FSA county
+          committee, in consultation with NRCS, may accept the advice or action
+          as meeting the requirements of the program and may grant relief, to
+          the extent it is deemed desirable, to provide a fair and equitable
+          treatment because of the good-faith reliance on the part of the
+          participant.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13003'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:C:1468.34
+      </extid>
+      <num st='1'>
+        1468.34
+      </num>
+      <head>
+        Offsets and assignments.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='834' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='34' psec='' tq='N'>
+              1468.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Offsets and assignments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (b) of this section, any payment or
+            portion thereof to any participant shall be made without regard to
+            questions of title under State law and without regard to any claim
+            or lien against the crop, or proceeds thereof, in favor of the owner
+            or any other creditor except agencies of the United States. The
+            regulations governing offsets and withholdings found at 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+             shall apply to contract payments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any participant entitled to any payment may assign any payments in
+            accordance with regulations governing assignment of payment found at
+            
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1404' tq='N'>
+                1404 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13004'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1468:C:1468.35
+      </extid>
+      <num st='1'>
+        1468.35
+      </num>
+      <head>
+        Misrepresentation and scheme or device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1468' sect='35' psec='' tq='N'>
+              1468.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Misrepresentation and scheme or device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A participant who is determined to have erroneously represented any
+            fact affecting a program determination made in accordance with this
+            part shall not be entitled to contract payments and must refund to
+            CCC all payments, plus interest determined in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant or participant who is determined to have knowingly
+            adopted any scheme or device that tends to defeat the purpose of the
+            program; made any fraudulent representation; or misrepresented any
+            fact affecting a program determination, shall refund to CCC all
+            payments, plus interest determined in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1403' tq='N'>
+                1403 of this chapter
+              </subref>
+            </aref>
+            , received by such applicant or participant with respect to CFO
+            contracts.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

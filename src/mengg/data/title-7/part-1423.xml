@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XIV:B:1423
+    </extid>
+    <num>
+      1423
+    </num>
+    <head>
+      COMMODITY CREDIT CORPORATION APPROVED WAREHOUSES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='15' sect='714b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714b.html'>
+              15 U.S.C. 714b
+            </subref>
+             and 
+            <subref title='15' sect='714c' psec='' tq='N' target='http://www.law.cornell.edu/uscode/15/714c.html'>
+              714c
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            71 FR 35773
+          </aref>
+          , June 22, 2006, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='12514'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.1
+      </extid>
+      <num st='1'>
+        1423.1
+      </num>
+      <head>
+        Applicability.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='1' psec='' tq='N'>
+              1423.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This part sets forth the terms and conditions for approval of a
+            warehouse operator by the Commodity Credit Corporation (CCC) to
+            store and handle CCC interest commodities, which are owned by CCC
+            and, as may be required under 
+            <aref type='CFR-TIC-PART'>
+              parts 
+              <subref title='7' part='1421' tq='N'>
+                1421, 1427
+              </subref>
+               and 
+              <subref title='7' part='1435' tq='N'>
+                1435 of this title
+              </subref>
+            </aref>
+            , with respect to commodities pledged as security for a loan made by
+            CCC. CCC may require that a warehouse enter into a storage agreement
+            under this part to store such commodities. The execution of such a
+            storage agreement by CCC does not constitute a commitment that CCC
+            will use the warehouse.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             By entering into a storage agreement with CCC, the warehouse
+            operator agrees to comply with the terms and conditions of the
+            storage agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12515'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.2
+      </extid>
+      <num st='1'>
+        1423.2
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='2' psec='' tq='N'>
+              1423.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          On behalf of CCC, the Farm Service Agency (FSA) will administer this
+          part under the supervision of the Deputy Administrator for Commodity
+          Operations (Deputy Administrator), FSA.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12516'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.3
+      </extid>
+      <num st='1'>
+        1423.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 35773
+        </aref>
+        , June 22, 2006, as amended at 
+        <aref type='FREGIST'>
+          75 FR 50849
+        </aref>
+        , Aug. 18, 2010]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='3' psec='' tq='N'>
+              1423.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Active shipping order
+          </E>
+           means an early shipping order or shipping order, as defined in this
+          section, scheduled for a current cotton warehouse reporting week or
+          for a prior reporting week, but not picked up.
+        </P>
+        <P>
+          <E T='03'>
+            Agreement
+          </E>
+           means agreements covering storage and handling of any such commodity
+          CCC may determine appropriate for storage.
+        </P>
+        <P>
+          <E T='03'>
+            Early shipping order
+          </E>
+           means a list of bale tag numbers sent to a cotton warehouse operator
+          without transfer of warehouse receipts.
+        </P>
+        <P>
+          <E T='03'>
+            KCCO
+          </E>
+           means the FSA, Kansas City Commodity Office.
+        </P>
+        <P>
+          <E T='03'>
+            Shipping order
+          </E>
+           means a list of bale tag numbers sent to a cotton warehouse operator
+          accompanied by transfer of warehouse receipts.
+        </P>
+        <P>
+          <E T='03'>
+            Warehouse
+          </E>
+           means a building, structure, or other protected enclosure, in good
+          state of repair, and adequately equipped to receive, handle, store,
+          preserve, and deliver the applicable commodity.
+        </P>
+        <P>
+          <E T='03'>
+            Warehouse operator
+          </E>
+           means an individual, partnership, corporation, association, or other
+          legal entity engaged in the business of storing or handling for hire,
+          or both, the applicable commodity.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 35773
+          </aref>
+          , June 22, 2006, as amended at 
+          <aref type='FREGIST'>
+            75 FR 50849
+          </aref>
+          , Aug. 18, 2010]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12517'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.4
+      </extid>
+      <num st='1'>
+        1423.4
+      </num>
+      <head>
+        General requirements.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='596' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='4' psec='' tq='N'>
+              1423.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Unless otherwise provided in this part, approved warehouse
+            operators must maintain a current and valid license for the kind of
+            storage operation for which the warehouse operator seeks approval if
+            such a license is required by State or local laws or regulations and
+            maintain accurate and complete inventory and operating records.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Approved warehouse operators may only use pre-numbered warehouse
+            receipts, or pre-assigned ranges of numbers for electronic warehouse
+            receipts as set forth in the agreement, and may only use
+            pre-numbered scale tickets, if applicable, as CCC may approve.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In addition, the warehouse operator must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be in compliance with state and local laws regarding fire safety;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Furnish a copy of any written lease agreement to CCC with the
+            application. All leases are subject to CCC approval; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Have sufficient employees and management with technical
+            qualifications and skills in the warehousing business regarding the
+            commodities subject to the agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Unless otherwise provided in this part, each approved warehouse
+            shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be maintained under the control of the warehouse operator;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be maintained in a good state of repair; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain adequate equipment to receive, handle, store, preserve and
+            deliver the applicable commodity.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12518'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.5
+      </extid>
+      <num st='1'>
+        1423.5
+      </num>
+      <head>
+        Application requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='5' psec='' tq='N'>
+              1423.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application requirements.
+        </SUBJECT>
+        <P>
+          To apply for approval under this part, a warehouse operator shall
+          submit to CCC the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An application as prescribed by CCC for the applicable commodity
+            storage agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Evidence of compliance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1423' sect='4' psec='' tq='N'>
+                1423.4
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Current financial information sufficient to meet the requirements
+            of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1423' sect='6' psec='' tq='N'>
+                1423.6
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             For State licensed or non-licensed warehouse operators, a sample
+            copy of the warehouse operator&apos;s warehouse receipts or
+            electronic warehouse receipt record descriptor when applicable; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Such other documents or information as CCC may require to make a
+            determination that the warehouse operator can comply with the
+            provisions of this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12519'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.6
+      </extid>
+      <num st='1'>
+        1423.6
+      </num>
+      <head>
+        Financial information documentation requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='6' psec='' tq='N'>
+              1423.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial information documentation requirements.
+        </SUBJECT>
+        <P>
+          To be approved under this part, a warehouse operator shall submit a
+          current financial statement at the time of application, and annually
+          thereafter, as provided for in the applicable storage agreement.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12520'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.7
+      </extid>
+      <num st='1'>
+        1423.7
+      </num>
+      <head>
+        Net worth alternatives.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='7' psec='' tq='N'>
+              1423.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Net worth alternatives.
+        </SUBJECT>
+        <P>
+          Warehouse operators with net worth equal to or greater than the
+          minimum net worth required, but less than the total net worth for the
+          commodity involved in the particular agreement, may satisfy the net
+          worth deficiency by furnishing one of the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A bond which:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Is executed by a surety approved by the U.S. Department of the
+            Treasury so long as the surety maintains someone authorized to
+            accept service of legal process in the State where the warehouse is
+            located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Is executed on either a bond form obtained from CCC, or which is
+            furnished under State law or operational rules for non-governmental
+            supervisory agencies, if approved by CCC, so long as CCC determines
+            that such alternative bond:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Provides adequate protection to CCC;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Has been executed by a surety approved by the U.S. Department of
+            the Treasury or has an acceptable blanket rider and endorsement
+            executed by such a surety with the liability of the surety under
+            such rider or endorsement being the same as that of the surety under
+            the original bond; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Is effective for at least 1 year and cannot be canceled without 120
+            days notice to CCC. Excess coverage on a bond for one warehouse will
+            not be accepted by CCC against insufficient bond coverage on other
+            warehouses;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Cash and negotiable securities. Any such cash or negotiable
+            securities accepted by CCC will be returned to the warehouse
+            operator when the period for which coverage was required has ended 
+            <PRTPAGE P='597' />
+            and CCC determines there is no liability under the storage
+            agreement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             An irrevocable letter of credit meeting CCC requirements that is
+            effective for at least 1 year and cannot be canceled without 120
+            days notice to CCC. The issuing bank must be a commercial bank
+            insured by the Federal Deposit Insurance Corporation or a financial
+            institution subject to the Farm Credit Act, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Other alternative instruments and forms of financial assurance as
+            the Deputy Administrator determines appropriate to secure the
+            warehouse operator&apos;s compliance with this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='12521'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.8
+      </extid>
+      <num st='1'>
+        1423.8
+      </num>
+      <head>
+        Approval or rejection.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 35773
+        </aref>
+        , June 22, 2006, as amended at 
+        <aref type='FREGIST'>
+          71 FR 42017
+        </aref>
+        , July 25, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='8' psec='' tq='N'>
+              1423.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Approval or rejection.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will notify warehouse operators approved under this part in
+            writing. Such approval does not relieve the warehouse operator of
+            any obligation under any agreement to CCC or any other agency of the
+            United States, and does not obligate CCC to use the warehouse.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             CCC will notify the warehouse operator of rejection under this part
+            in writing. The notification will state the cause(s) for rejection.
+            CCC will reconsider a warehouse for approval when the warehouse
+            operator establishes that the reasons for rejection have been
+            remedied or requests reconsideration of the action and presents to
+            the Director, KCCO, in writing, information in support of such
+            request. The warehouse operator may, if dissatisfied with the
+            Director&apos;s determination, obtain a review of the determination
+            and an informal hearing by submitting a request with the Deputy
+            Administrator. Appeals shall be as prescribed in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='780' tq='N'>
+                780 of this title
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 35773
+          </aref>
+          , June 22, 2006, as amended at 
+          <aref type='FREGIST'>
+            71 FR 42017
+          </aref>
+          , July 25, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12522'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.9
+      </extid>
+      <num st='1'>
+        1423.9
+      </num>
+      <head>
+        Examination of warehouses.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='9' psec='' tq='N'>
+              1423.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Examination of warehouses.
+        </SUBJECT>
+        <P>
+          Before approval, and while a storage agreement is in effect, a
+          warehouse must be examined by a person designated by CCC periodically
+          to determine compliance with this part. CCC or any other agency of
+          USDA shall, at any time, have the right to inspect the warehouse
+          storage facilities and any applicable records. Inspection or
+          examination by CCC does not absolve the warehouse operator of any
+          failure to comply with this part that CCC does not discover. Failure
+          to allow access to facilities as required under this paragraph will
+          result in rejection or revocation of approval.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12523'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.10
+      </extid>
+      <num st='1'>
+        1423.10
+      </num>
+      <head>
+        Exceptions for United States Warehouse Act licensed warehouses.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='10' psec='' tq='N'>
+              1423.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exceptions for United States Warehouse Act licensed warehouses.
+        </SUBJECT>
+        <P>
+          The financial requirements, net worth alternatives and examination
+          provisions of this part do not apply if the warehouse operator is
+          licensed under the U.S. Warehouse Act (USWA) for such commodities, but
+          an examination under this part will be made of such a warehouse
+          whenever CCC determines such action is necessary to protect its
+          interests.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12524'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.11
+      </extid>
+      <num st='1'>
+        1423.11
+      </num>
+      <head>
+        Delivery and shipping standards for cotton warehouses.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          71 FR 51426
+        </aref>
+        , Aug. 30, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='11' psec='' tq='N'>
+              1423.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Delivery and shipping standards for cotton warehouses.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Unless prevented from doing so by severe weather conditions, fire,
+            explosion, flood, earthquake, insurrection, riot, strike, labor
+            dispute, acts of civil or military authority, non-availability of
+            transportation facilities or any cause beyond the control of the
+            warehouse operator that renders performance impossible, the
+            warehouse operator will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Deliver stored cotton without unnecessary delay.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be considered to have delivered cotton without unnecessary delay
+            if, for the week in question, the warehouse operator has made
+            available for shipment at least 4.5 percent of their applicable
+            storage capacity in effect during the relevant week of shipment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The warehouse operator shall provide a written report to CCC on a
+            weekly basis. The reporting week shall be the seven day period
+            starting at midnight following the close of business on each
+            Saturday and ending at midnight after close of business of the
+            following Saturday. Before close of business of the first business
+            day of the following week, the warehouse operator will provide
+            following information to CCC:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Bales made available for shipment (BMAS) during such week. BMAS is
+            defined as any cotton bales that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Have been delivered, or are scheduled and ready for delivery during
+            such week; and
+            <PRTPAGE P='598' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Were scheduled and ready for delivery in a previous week, but were
+            not picked up by the shipper and remain available for immediate
+            loading and another shipping date has not been established, or such
+            bales are not subject to a restocking fee as provided in the
+            warehouse operator&apos;s public tariff.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Active shipping orders, by week; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Applicable storage capacity that is the higher of CCC approved
+            capacity or the maximum number of bales stored at any time during
+            the applicable crop year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The warehouse operator may resolve any claim for noncompliance from
+            any entity other than CCC with the cotton shipping standard in a
+            court of competent jurisdiction or through mutually agreed upon
+            arbitration procedures. In no case will CCC provide assistance or
+            representation to parties involved in arbitration proceedings
+            arising with respect to activities authorized under the Cotton
+            Storage Agreement.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            71 FR 51426
+          </aref>
+          , Aug. 30, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='12525'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.12
+      </extid>
+      <num st='1'>
+        1423.12
+      </num>
+      <head>
+        Application, inspection, and annual agreement fees.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='12' psec='' tq='N'>
+              1423.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application, inspection, and annual agreement fees.
+        </SUBJECT>
+        <P>
+          Each warehouse operator not licensed under USWA shall pay to CCC a fee
+          or fees, including an application fee, inspection fee, and an annual
+          agreement fee for each warehouse approved by CCC or for which approval
+          is sought. The terms and conditions of such fees will be set forth in
+          the applicable agreement.
+        </P>
+      </contents>
+    </section>
+    <section orderid='12526'>
+      <extid>
+        lii:cfr:2013:7:0:B:XIV:B:1423:-:1423.13
+      </extid>
+      <num st='1'>
+        1423.13
+      </num>
+      <head>
+        Appeals, suspensions, and debarment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1423' sect='13' psec='' tq='N'>
+              1423.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals, suspensions, and debarment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             After initial approval, warehouse operators may request that CCC
+            reconsider adverse actions when the warehouse operator establishes
+            that the reasons for the action have been remedied or requests
+            reconsideration of the action and presents to the Director, KCCO, in
+            writing, information in support of such request. The warehouse
+            operator may, if dissatisfied with the Director&apos;s
+            determination, obtain a review of the determination and an informal
+            hearing by submitting a request to the Deputy Administrator. Appeals
+            shall be as prescribed in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='780' tq='N'>
+                780 of this title
+              </subref>
+            </aref>
+            , and under such regulations the warehouse operator shall be
+            considered as a “participant.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Suspension and debarment actions taken under this part shall be
+            conducted in accordance with 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1407' tq='N'>
+                1407 of this chapter
+              </subref>
+            </aref>
+            . After expiration of the suspension or debarment period, a
+            warehouse operator may, at any time, apply for approval under this
+            part.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

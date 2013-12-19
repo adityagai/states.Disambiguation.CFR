@@ -1,0 +1,2211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol7'>
+    <extid>
+      lii:cfr:2013:7:0:B:VII:D:772
+    </extid>
+    <num>
+      772
+    </num>
+    <head>
+      SERVICING MINOR PROGRAM LOANS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+            , 
+            <subref title='5' sect='7' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/7.html'>
+              7
+            </subref>
+          </aref>
+           U.S.C. 1989, 
+          <aref type='USC'>
+            <subref title='25' sect='490' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/25/490.html'>
+              25 U.S.C. 490
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            68 FR 69949
+          </aref>
+          , Dec. 16, 2003, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='7144'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.1
+      </extid>
+      <num st='1'>
+        772.1
+      </num>
+      <head>
+        Policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='1' psec='' tq='N'>
+              772.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Purpose.
+            </head>
+          </npcatch>
+          <text>
+             This part contains the Agency&apos;s policies and procedures for
+            servicing Minor Program loans which include: Grazing Association
+            loans, Irrigation and Drainage Association loans, and Non-Farm
+            Enterprise and Recreation loans to individuals.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Appeals.
+            </head>
+          </npcatch>
+          <text>
+             The regulations at 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+               and 
+              <subref title='7' part='780' tq='N'>
+                780
+              </subref>
+            </aref>
+             apply to decisions made under this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7145'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.2
+      </extid>
+      <num st='1'>
+        772.2
+      </num>
+      <head>
+        Abbreviations and Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='2' psec='' tq='N'>
+              772.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Abbreviations and Definitions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Abbreviations.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <EXTRACT>
+          <FP SOURCE='FP-1'>
+            <E T='03'>
+              AMP
+            </E>
+            Association-Type Minor Program loan;
+          </FP>
+          <FP SOURCE='FP-1'>
+            <E T='03'>
+              CFR
+            </E>
+            Code of Federal Regulations;
+          </FP>
+          <FP SOURCE='FP-1'>
+            <E T='03'>
+              FO
+            </E>
+            Farm Ownership Loan;
+          </FP>
+          <FP SOURCE='FP-1'>
+            <E T='03'>
+              FSA
+            </E>
+            Farm Service Agency;
+          </FP>
+          <FP SOURCE='FP-1'>
+            <E T='03'>
+              IMP
+            </E>
+            Individual-Type Minor Program loan;
+          </FP>
+          <FP SOURCE='FP-1'>
+            <E T='03'>
+              OL
+            </E>
+            Operating Loan;
+          </FP>
+          <FP SOURCE='FP-1'>
+            <E T='03'>
+              USDA
+            </E>
+            United States Department of Agriculture.
+          </FP>
+        </EXTRACT>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Definitions.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Association-Type Minor Program loans (AMP):
+          </E>
+           Loans to Grazing Associations and Irrigation and Drainage
+          Associations.
+        </P>
+        <P>
+          <E T='03'>
+            Entity:
+          </E>
+           Cooperative, corporation, partnership, joint operation, trust, or
+          limited liability company.
+        </P>
+        <P>
+          <E T='03'>
+            Graduation:
+          </E>
+           The requirement contained in loan documents that borrowers pay their
+          FSA loan in full with funds received from a commercial lending source
+          as a result of improvement in their financial condition.
+        </P>
+        <P>
+          <E T='03'>
+            Individual-type Minor Program loans (IMP):
+          </E>
+           Non-Farm Enterprise or Recreation loans to individuals.
+          <PRTPAGE P='333' />
+        </P>
+        <P>
+          <E T='03'>
+            Member:
+          </E>
+           Any individual who has an ownership interest in the entity which has
+          received the Minor Program loan.
+        </P>
+        <P>
+          <E T='03'>
+            Minor Program:
+          </E>
+           Non-Farm Enterprise, Individual Recreation, Grazing Association, or
+          Irrigation and Drainage loan programs administered or to be
+          administered by FSA
+        </P>
+        <P>
+          <E T='03'>
+            Review official:
+          </E>
+           An agency employee, contractor or designee who is authorized to
+          conduct a compliance review of a Minor Program borrower under this
+          part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='7146'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.3
+      </extid>
+      <num st='1'>
+        772.3
+      </num>
+      <head>
+        Compliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='3' psec='' tq='N'>
+              772.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compliance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Requirements.
+            </head>
+          </npcatch>
+          <text>
+             No Minor Program borrower shall directly, or through contractual or
+            other arrangement, subject any person or cause any person to be
+            subjected to discrimination on the basis of race, color, national
+            origin, or disability. Borrowers must comply with all applicable
+            Federal laws and regulations regarding equal opportunity in hiring,
+            procurement, and related matters. AMP borrowers are subject to the
+            nondiscrimination provisions applicable to Federally assisted
+            programs contained in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='15' tq='N'>
+                15
+              </subref>
+            </aref>
+            , subparts A and C, and 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='15b' tq='N'>
+                15b
+              </subref>
+            </aref>
+            . IMP loans are subject to the nondiscrimination provisions
+            applicable to federally conducted programs contained in 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='15d' tq='N'>
+                15d
+              </subref>
+               and 
+              <subref title='7' part='15e' tq='N'>
+                15e
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Reviews.
+            </head>
+          </npcatch>
+          <text>
+             In accordance with Title VI of the Civil Rights Act of 1964, the
+            Agency will conduct a compliance review of all Minor Program
+            borrowers, to determine if a borrower has directly, or through
+            contractual or other arrangement, subjected any person or caused any
+            person to be subjected to discrimination on the basis of race,
+            color, or national origin. The borrower must allow the review
+            official access to their premises and all records necessary to carry
+            out the compliance review as determined by the review official.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Frequency and timing.
+            </head>
+          </npcatch>
+          <text>
+             Compliance reviews will be conducted no later than October 31 of
+            every third year until the Minor Program loan is paid in full or
+            otherwise satisfied.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Violations.
+            </head>
+          </npcatch>
+          <text>
+             If a borrower refuses to provide information or access to their
+            premises as requested by a review official during a compliance
+            review, or is determined by the Agency to be not in compliance in
+            accordance with this section or Departmental regulations and
+            procedures, the Agency will service the loan in accordance with the
+            provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='772' sect='16' psec='' tq='N'>
+                772.16
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7147'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.4
+      </extid>
+      <num st='1'>
+        772.4
+      </num>
+      <head>
+        Environmental requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='4' psec='' tq='N'>
+              772.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Environmental requirements.
+        </SUBJECT>
+        <P>
+          Servicing activities such as transfers, assumptions, subordinations,
+          sale or exchange of security property, and leasing of security will be
+          reviewed for compliance with 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='1940' tq='N'>
+              1940
+            </subref>
+          </aref>
+          , subpart G and the exhibits to that subpart and 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='799' tq='N'>
+              799
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='7148'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.5
+      </extid>
+      <num st='1'>
+        772.5
+      </num>
+      <head>
+        Security maintenance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='5' psec='' tq='N'>
+              772.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Security maintenance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Borrowers are responsible for maintaining the collateral that is
+            serving as security for their Minor Program loan in accordance with
+            their lien instruments, security agreement and promissory note.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Security inspection.
+            </head>
+          </npcatch>
+          <text>
+             The Agency will inspect real estate that is security for a Minor
+            Program loan at least once every 3 years, and chattel security at
+            least annually. More frequent security inspections may be made as
+            determined necessary by the Agency. Borrowers will allow
+            representatives of the Agency, or any agency of the U.S. Government,
+            in accordance with statutes and regulations, such access to the
+            security property as the agency determines is necessary to document
+            compliance with the requirements of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Violations.
+            </head>
+          </npcatch>
+          <text>
+             If the Agency determines that the borrower has failed to adequately
+            maintain security, made unapproved dispositions of security, or
+            otherwise has placed the repayment of the Minor Program loan in
+            jeopardy, the Agency will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For chattel security, service the account according to 7 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1962' tq='N'>
+                1962
+              </subref>
+            </aref>
+            , subpart A. If any normal income security as defined in that
+            subpart secures a Minor Program loan, the reporting, approval and
+            release provisions in that subpart shall apply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For real estate security for AMP loans, contact the Regional Office
+            of General Counsel for advice on the appropriate servicing including
+            liquidation if warranted.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             For real estate security for IMP loans, service the account
+            according to 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1965' tq='N'>
+                1965
+              </subref>
+            </aref>
+            , subpart A.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7149'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.6
+      </extid>
+      <num st='1'>
+        772.6
+      </num>
+      <head>
+        Subordination of security.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='334' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='6' psec='' tq='N'>
+              772.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Subordination of security.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Eligibility.
+            </head>
+          </npcatch>
+          <text>
+             The Agency shall grant a subordination of Minor Program loan
+            security when the transaction will further the purposes for which
+            the loan was made, and all of the following are met:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The loan will still be adequately secured after the subordination,
+            or the value of the loan security will be increased by the amount of
+            advances to be made under the terms of the subordination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower can document the ability to pay all debts including
+            the new loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The action does not change the nature of the borrower&apos;s
+            activities to the extent that they would no longer be eligible for a
+            Minor Program loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The subordination is for a specific amount.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower is unable, as determined by the Agency, to refinance
+            its loan and graduate in accordance with this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The loan funds will not be used in such a way that will contribute
+            to erosion of highly erodible land or conversion of wetlands for the
+            production of an agricultural commodity according to 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1940' tq='N'>
+                1940
+              </subref>
+            </aref>
+            , subpart G.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower has not been convicted of planting, cultivating,
+            growing, producing, harvesting or storing a controlled substance
+            under Federal or state law. “Borrower,” for purposes of this
+            subparagraph, specifically includes an individual or entity borrower
+            and any member of an entity borrower. “Controlled substance,” for
+            the purpose of this subparagraph, is defined at 
+            <aref type='CFR'>
+              21 CFR part 
+              <subref title='21' part='1308' tq='N'>
+                1308
+              </subref>
+            </aref>
+            . The borrower will be ineligible for a subordination for the crop
+            year in which the conviction occurred and the four succeeding crop
+            years. An applicant must attest on the Agency application form that
+            it, and its members if an entity, have not been convicted of such a
+            crime.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Application.
+            </head>
+          </npcatch>
+          <text>
+             To request a subordination, a Minor Program borrower must make the
+            request in writing and provide the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The specific amount of debt for which a subordination is needed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             An appraisal prepared in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='761' sect='7' psec='' tq='N'>
+                761.7
+              </subref>
+               of this chapter
+            </aref>
+            , if the request is for a subordination of more than $10,000, unless
+            a sufficient appraisal report, as determined by the Agency, that is
+            less than one year old, is on file with the Agency; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Consent and subordination, as necessary, of all other
+            creditors&apos; security interests.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7150'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.7
+      </extid>
+      <num st='1'>
+        772.7
+      </num>
+      <head>
+        Leasing minor program loan security.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='7' psec='' tq='N'>
+              772.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Leasing minor program loan security.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Eligibility.
+            </head>
+          </npcatch>
+          <text>
+             The Agency may consent to the borrower leasing all or a portion of
+            security property for Minor Program loans to a third party when:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Leasing is the only feasible way to continue to operate the
+            enterprise and is a customary practice;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The lease will not interfere with the purpose for which the loan
+            was made;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower retains ultimate responsibility for the operation,
+            maintenance and management of the facility or service for its
+            continued availability and use at reasonable rates and terms;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The lease prohibits amendments to the lease or subleasing
+            arrangements without prior written approval from the Agency;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The lease terms provide that the Agency is a lienholder on the
+            subject property and, as such, the lease is subordinate to the
+            rights and claims of the Agency as lienholder; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The lease is for less than 3 years and does not constitute a
+            lease/purchase arrangement, unless the transfer and assumption
+            provisions of this subpart are met.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Application.
+            </head>
+          </npcatch>
+          <text>
+             The borrower must submit a written request for Agency consent to
+            lease the property.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7151'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.8
+      </extid>
+      <num st='1'>
+        772.8
+      </num>
+      <head>
+        Sale or exchange of security property.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 69949
+        </aref>
+        , Dec. 16, 2003, as amended at 
+        <aref type='FREGIST'>
+          69 FR 18741
+        </aref>
+        , Apr. 8, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='8' psec='' tq='N'>
+              772.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Sale or exchange of security property.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For AMP loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Sale of all or a portion of the security property may be approved
+            when all of the following conditions are met:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The property is sold for market value based on a current appraisal
+            prepared in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='761' sect='7' psec='' tq='N'>
+                761.7
+              </subref>
+               of this chapter
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The sale will not prevent carrying out the original purpose of the
+            loan. The borrower must execute an Assurance Agreement as prescribed
+            by the Agency. The covenant involved will remain in effect as long
+            as the property 
+            <PRTPAGE P='335' />
+            continues to be used for the same or similar purposes for which the
+            loan was made. The instrument of conveyance will contain the
+            following nondiscrimination covenant: 
+          </text>
+        </P>
+        <EXTRACT>
+          <FP>
+            The property described herein was obtained or improved with Federal
+            financial assistance and is subject to the non-discrimination
+            provisions of title VI of the Civil Rights Act of 1964, title IX of
+            the Education Amendments of 1972, 
+            <aref type='UNKNOWN'>
+              section 504 of
+            </aref>
+             the Rehabilitation Act of 1973, and other similarly worded Federal
+            statutes, and the regulations issued pursuant thereto that prohibit
+            discrimination on the basis of race, color, national origin,
+            handicap, religion, age, or sex in programs or activities receiving
+            Federal financial assistance. Such provisions apply for as long as
+            the property continues to be used for the same or similar purposes
+            for which the Federal assistance was extended, or for so long as the
+            purchaser owns it, whichever is later.
+          </FP>
+        </EXTRACT>
+        <P>
+          <npcatch lev='3' id='a_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The remaining security for the loan is adequate or will not change
+            after the transaction.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Sale proceeds remaining after paying any reasonable and necessary
+            selling expenses are applied to the Minor Program loan according to
+            lien priority.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Exchange of all or a portion of security property for an AMP loan
+            may be approved when:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will obtain a lien on the property acquired in the
+            exchange;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Property more suited to the borrower&apos;s needs related to the
+            purposes of the loan is to be acquired in the exchange;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The AMP loan will be as adequately secured after the transaction as
+            before; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             It is necessary to develop or enlarge the facility, improve the
+            borrower&apos;s debt-paying ability, place the operation on a more
+            sound financial basis or otherwise further the loan objectives and
+            purposes, as determined by the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For IMP loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A sale or exchange of chattel that is serving as security is
+            governed by 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1962' tq='N'>
+                1962
+              </subref>
+            </aref>
+            , subpart A.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A sale or exchange of real estate that is serving as security for
+            an IMP loan is governed by 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1965' tq='N'>
+                1965
+              </subref>
+            </aref>
+            , subpart A.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 69949
+          </aref>
+          , Dec. 16, 2003, as amended at 
+          <aref type='FREGIST'>
+            69 FR 18741
+          </aref>
+          , Apr. 8, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7152'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.9
+      </extid>
+      <num st='1'>
+        772.9
+      </num>
+      <head>
+        Releases.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 69949
+        </aref>
+        , Dec. 16, 2003, as amended at 
+        <aref type='FREGIST'>
+          69 FR 7679
+        </aref>
+        , Feb. 19, 2004; 
+        <aref type='FREGIST'>
+          72 FR 64121
+        </aref>
+        , Nov. 15, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='9' psec='' tq='N'>
+              772.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Releases.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Security.
+            </head>
+          </npcatch>
+          <text>
+             Minor Program liens may be released when:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The debt is paid in full;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Security property is sold for market value and sale proceeds are
+            received and applied to the borrower&apos;s creditors according to
+            lien priority; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             An exchange in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='772' sect='8' psec='' tq='N'>
+                772.8
+              </subref>
+            </aref>
+             has been concluded.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Borrower liability.
+            </head>
+          </npcatch>
+          <text>
+             The Agency may release a borrower from liability when the Minor
+            Program loan, plus all administrative collection costs and charges
+            are paid in full. IMP borrowers who have had previous debt
+            forgiveness on a farm loan program loan as defined in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='761' tq='N'>
+                761
+              </subref>
+            </aref>
+            , however, cannot be released from liability by FSA until the
+            previous loss to the Agency has been repaid with interest from the
+            date of debt forgiveness. An AMP borrower may also be released in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='772' sect='10' psec='' tq='N'>
+                772.10
+              </subref>
+            </aref>
+             in conjunction with a transfer and assumption.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Servicing of debt not satisfied through liquidation.
+            </head>
+          </npcatch>
+          <text>
+             Balances remaining after sale or liquidation of the security will
+            be subject to administrative offset in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3' tq='N'>
+                3
+              </subref>
+            </aref>
+            , Department of Treasury Offset Program (TOP) and Treasury
+            Cross-Servicing regulations at 
+            <aref type='CFR'>
+              31 CFR part 
+              <subref title='31' part='285' tq='N'>
+                285
+              </subref>
+            </aref>
+             and Federal Claims Collections Standards at 
+            <aref type='CFR'>
+              31 CFR parts 
+              <subref title='31' part='900-904' tq='N'>
+                900-904
+              </subref>
+            </aref>
+            . Thereafter the debt settlement provisions in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1956' tq='N'>
+                1956
+              </subref>
+            </aref>
+            , subpart B of chapter XVIII of the Code of Federal Regulations or
+            successor regulation apply.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 69949
+          </aref>
+          , Dec. 16, 2003, as amended at 
+          <aref type='FREGIST'>
+            69 FR 7679
+          </aref>
+          , Feb. 19, 2004; 
+          <aref type='FREGIST'>
+            72 FR 64121
+          </aref>
+          , Nov. 15, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7153'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.10
+      </extid>
+      <num st='1'>
+        772.10
+      </num>
+      <head>
+        Transfer and assumption—AMP loans.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='10' psec='' tq='N'>
+              772.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Transfer and assumption—AMP loans.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Eligibility.
+            </head>
+          </npcatch>
+          <text>
+             The Agency may approve transfers and assumptions of AMP loans when:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The present borrower is unable or unwilling to accomplish the
+            objectives of the loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The transfer will not harm the Government or adversely affect the
+            Agency&apos;s security position;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The transferee will continue with the original purpose of the loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The transferee will assume an amount at least equal to the present
+            market value of the loan security;
+            <PRTPAGE P='336' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The transferee documents the ability to pay the AMP loan debt as
+            provided in the assumption agreement and has the legal capacity to
+            enter into the contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             If there is a lien or judgment against the Agency security being
+            transferred, the transferee is subject to such claims. The
+            transferee must document the ability to repay the claims against the
+            land; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             If the transfer is to one or more members of the borrower&apos;s
+            organization and there is no new member, there must not be a loss to
+            the Government.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Withdrawal.
+            </head>
+          </npcatch>
+          <text>
+             Withdrawal of a member and transfer of the withdrawing
+            member&apos;s interest in the Association to a new eligible member
+            may be approved by the Agency if all of the following conditions are
+            met:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The entire unpaid balance of the withdrawing member&apos;s share of
+            the AMP loan must be assumed by the new member;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In accordance with the Association&apos;s governing articles, the
+            required number of remaining members must agree to accept any new
+            member; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The transfer will not adversely affect collection of the AMP loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Requesting a transfer and assumption.
+            </head>
+          </npcatch>
+          <text>
+             The transferor/borrower and transferee/applicant must submit:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The written consent of any other lienholder, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A current balance sheet and cash flow statement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Terms.
+            </head>
+          </npcatch>
+          <text>
+             The interest rate and term of the assumed AMP loan will not be
+            changed. Any delinquent principal and interest of the AMP loan must
+            be paid current before the transfer and assumption will be approved
+            by the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Release of liability.
+            </head>
+          </npcatch>
+          <text>
+             Transferors may be released from liability with respect to an AMP
+            loan by the Agency when:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The full amount of the loan is assumed; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Less than the full amount of the debt is assumed, and the balance
+            remaining will be serviced in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='772' sect='9' psec='#c' tq='N'>
+                772.9(c)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7154'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.11
+      </extid>
+      <num st='1'>
+        772.11
+      </num>
+      <head>
+        Transfer and assumption—IMP loans.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 69949
+        </aref>
+        , Dec. 16, 2003, as amended at 
+        <aref type='FREGIST'>
+          72 FR 64121
+        </aref>
+        , Nov. 15, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='11' psec='' tq='N'>
+              772.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Transfer and assumption—IMP loans.
+        </SUBJECT>
+        <P>
+          Transfers and assumptions for IMP loans are processed in accordance
+          with 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='765' tq='N'>
+              765
+            </subref>
+          </aref>
+          . Any remaining transferor liability will be serviced in accordance
+          with 
+          <aref type='UNKNOWN'>
+            § 772.9(c) of
+          </aref>
+           this subpart.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 69949
+          </aref>
+          , Dec. 16, 2003, as amended at 
+          <aref type='FREGIST'>
+            72 FR 64121
+          </aref>
+          , Nov. 15, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7155'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.12
+      </extid>
+      <num st='1'>
+        772.12
+      </num>
+      <head>
+        Graduation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 69949
+        </aref>
+        , Dec. 16, 2003, as amended at 
+        <aref type='FREGIST'>
+          72 FR 64121
+        </aref>
+        , Nov. 15, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='12' psec='' tq='N'>
+              772.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Graduation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             This section only applies to Minor Program borrowers with
+            promissory notes which contain provisions requiring graduation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Graduation reviews.
+            </head>
+          </npcatch>
+          <text>
+             Borrowers shall provide current financial information when
+            requested by the Agency or its representatives to conduct graduation
+            reviews.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             AMP loans shall be reviewed at least every two years. In the year
+            to be reviewed, each borrower must submit, at a minimum, a year-end
+            balance sheet and cash flow projection for the current year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All IMP borrowers classified as “commercial” or “standard” by the
+            agency must be reviewed at least every 2 years. In the year to be
+            reviewed, each borrower must submit a year-end balance sheet, actual
+            financial performance for the most recent year, and a projected
+            budget for the current year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Criteria.
+            </head>
+          </npcatch>
+          <text>
+             Borrowers must graduate from the Minor Programs as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers with IMP loans that are classified as “commercial” or
+            “standard” must apply for private financing within 30 days from the
+            date the borrower is notified of lender interest, if an application
+            is required by the lender. For good cause, the Agency may grant the
+            borrower a reasonable amount of additional time to apply for
+            refinancing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers with AMP loans will be considered for graduation at least
+            every two years or more frequently if the Agency determines that the
+            borrower&apos;s financial condition has significantly improved.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 69949
+          </aref>
+          , Dec. 16, 2003, as amended at 
+          <aref type='FREGIST'>
+            72 FR 64121
+          </aref>
+          , Nov. 15, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7156'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.13
+      </extid>
+      <num st='1'>
+        772.13
+      </num>
+      <head>
+        Delinquent account servicing.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 69949
+        </aref>
+        , Dec. 16, 2003, as amended at 
+        <aref type='FREGIST'>
+          72 FR 64121
+        </aref>
+        , Nov. 15, 2007]
+      </citation>
+      <contents>
+        <PRTPAGE P='337' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='13' psec='' tq='N'>
+              772.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Delinquent account servicing.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              AMP loans.
+            </head>
+          </npcatch>
+          <text>
+             If the borrower does not make arrangements to cure the default
+            after notice by the Agency and is not eligible for reamortization in
+            accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='772' sect='14' psec='' tq='N'>
+                772.14
+              </subref>
+            </aref>
+            , the Agency will liquidate the account according to 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='772' sect='16' psec='' tq='N'>
+                772.16
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              IMP loans.
+            </head>
+          </npcatch>
+          <text>
+             Delinquent IMP borrowers will be serviced according to 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3' tq='N'>
+                3
+              </subref>
+            </aref>
+            , 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='766' tq='N'>
+                766
+              </subref>
+            </aref>
+            , and 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1951' tq='N'>
+                1951
+              </subref>
+            </aref>
+            , subpart C, concerning internal agency offset and referral to the
+            Department of the Treasury Offset Program and Treasury
+            Cross-Servicing (or successor regulations).
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 69949
+          </aref>
+          , Dec. 16, 2003, as amended at 
+          <aref type='FREGIST'>
+            72 FR 64121
+          </aref>
+          , Nov. 15, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7157'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.14
+      </extid>
+      <num st='1'>
+        772.14
+      </num>
+      <head>
+        Reamortization of AMP loans.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='14' psec='' tq='N'>
+              772.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reamortization of AMP loans.
+        </SUBJECT>
+        <P>
+          The Agency may approve reamortization of AMP loans provided:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             There is no extension of the final maturity date of the loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             No intervening lien exists on the security for the loan which would
+            jeopardize the Government&apos;s security position;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the account is delinquent, it cannot be brought current within
+            one year and the borrower has presented a cash flow budget which
+            demonstrates the ability to meet the proposed new payment schedule;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If the account is current, the borrower will be unable to meet the
+            annual loan payments due to circumstances beyond the borrower&apos;s
+            control.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7158'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.15
+      </extid>
+      <num st='1'>
+        772.15
+      </num>
+      <head>
+        Protective advances.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='15' psec='' tq='N'>
+              772.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Protective advances.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may approve, without regard to any loan or total
+            indebtedness limitation, vouchers to pay costs, including insurance
+            and real estate taxes, to preserve and protect the security, the
+            lien, or the priority of the lien securing the debt owed to the
+            Agency if the debt instrument provides that the Agency may voucher
+            the account to protect its lien or security.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may pay protective advances only when it determines it
+            to be in the Government&apos;s best financial interest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Protective advances are immediately due and payable.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='7159'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.16
+      </extid>
+      <num st='1'>
+        772.16
+      </num>
+      <head>
+        Liquidation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          68 FR 69949
+        </aref>
+        , Dec. 16, 2003, as amended at 
+        <aref type='FREGIST'>
+          72 FR 64121
+        </aref>
+        , Nov. 15, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='16' psec='' tq='N'>
+              772.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Liquidation.
+        </SUBJECT>
+        <P>
+          When the Agency determines that continued servicing will not
+          accomplish the objectives of the loan and the delinquency or financial
+          distress cannot be cured by the options in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='13' psec='' tq='N'>
+              772.13
+            </subref>
+          </aref>
+          , or the loan is in non-monetary default, the borrower will be
+          encouraged to dispose of the Agency security voluntarily through sale
+          or transfer and assumption in accordance with this part. If such a
+          transfer or voluntary sale is not carried out, the loan will be
+          liquidated according to 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='766' tq='N'>
+              766
+            </subref>
+          </aref>
+          . For AMP loans, appeal rights under 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='11' tq='N'>
+              11
+            </subref>
+          </aref>
+           are provided in the notice of acceleration. For IMP loans, appeal
+          rights must be exhausted before acceleration, and the notice of
+          acceleration is not appealable.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            68 FR 69949
+          </aref>
+          , Dec. 16, 2003, as amended at 
+          <aref type='FREGIST'>
+            72 FR 64121
+          </aref>
+          , Nov. 15, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7160'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.17
+      </extid>
+      <num st='1'>
+        772.17
+      </num>
+      <head>
+        Equal opportunity and non-discrimination requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          72 FR 64121
+        </aref>
+        , Nov. 15, 2007]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='17' psec='' tq='N'>
+              772.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Equal opportunity and non-discrimination requirements.
+        </SUBJECT>
+        <P>
+          With respect to any aspect of a credit transaction, the Agency will
+          comply with the requirements of the Equal Credit Opportunity Act and
+          the Department&apos;s civil rights policy in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='15d' tq='N'>
+              15d
+            </subref>
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            72 FR 64121
+          </aref>
+          , Nov. 15, 2007]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='7161'>
+      <extid>
+        lii:cfr:2013:7:0:B:VII:D:772:-:772.18
+      </extid>
+      <num st='1'>
+        772.18
+      </num>
+      <head>
+        Exception authority.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='772' sect='18' psec='' tq='N'>
+              772.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exception authority.
+        </SUBJECT>
+        <P>
+          Exceptions to any requirement in this subpart can be approved in
+          individual cases by the Administrator if application of any
+          requirement or failure to take action would adversely affect the
+          Government&apos;s financial interest. Any exception must be consistent
+          with the authorizing statute and other applicable laws.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

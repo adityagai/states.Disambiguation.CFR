@@ -1,0 +1,2366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol10'>
+    <extid>
+      lii:cfr:2013:7:0:B:XV:-:1580
+    </extid>
+    <num>
+      1580
+    </num>
+    <head>
+      TRADE ADJUSTMENT ASSISTANCE FOR FARMERS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='19' sect='2401' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/19/2401.html'>
+              19 U.S.C. 2401
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            75 FR 9089
+          </aref>
+          , Mar. 1, 2010, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='13324'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.101
+      </extid>
+      <num st='1'>
+        1580.101
+      </num>
+      <head>
+        General statement.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='1040' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='101' psec='' tq='N'>
+              1580.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General statement.
+        </SUBJECT>
+        <P>
+          This part provides regulations for the Trade Adjustment Assistance
+          (TAA) for Farmers program as authorized by the Trade Act of 1974,
+          amended by Subtitle C of Title I of the Trade Act of 2002 (
+          <aref target='_blank' title='Pub. L. 107-210' alt='Pub. L. 107-210' href='http://www.gpo.gov/fdsys/pkg/PLAW-107publ210/html/PLAW-107publ210.htm'>
+            Pub. L. 107-210
+          </aref>
+          ), and re-authorized and modified by the American Recovery and
+          Reinvestment Act of 2009 (
+          <aref target='_blank' title='Pub. L. 111-5' alt='Pub. L. 111-5' href='http://www.gpo.gov/fdsys/pkg/PLAW-111publ5/html/PLAW-111publ5.htm'>
+            Pub. L. 111-5
+          </aref>
+          ). The regulations establish procedures by which a group of producers
+          of raw agricultural commodities or fishermen (jointly referred to as
+          “producers”) can petition for certification of eligibility and through
+          which individual producers covered by a certified petition can apply
+          for technical assistance and cash benefits for the development and
+          implementation of approved business adjustment plans.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13325'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.102
+      </extid>
+      <num st='1'>
+        1580.102
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='102' psec='' tq='N'>
+              1580.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in the part, the following terms mean:
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural commodity
+          </E>
+           means any commodity in its raw or natural state; found in chapters 1,
+          3, 4, 5, 6, 7, 8, 10, 12, 14, 23, 24, 41, 51, and 52 of the Harmonized
+          Tariff Schedule of the United States (HTS).
+        </P>
+        <P>
+          <E T='03'>
+            Articles like
+          </E>
+           or 
+          <E T='03'>
+            directly competitive
+          </E>
+           generally means products falling under the same HTS number used to
+          identify the agricultural commodity in the petition. A “like” product
+          means substantially identical in inherent or intrinsic
+          characteristics, and the term “directly competitive” means articles
+          that are substantially equivalent for commercial purposes (
+          <E T='03'>
+            i.e.,
+          </E>
+           adapted to the same uses and essentially interchangeable therefore).
+          For fishery products, competition could be either from farm-raised or
+          wild-caught products.
+        </P>
+        <P>
+          <E T='03'>
+            Authorized representative
+          </E>
+           means an entity that represents a group of agricultural commodity
+          producers or fishermen.
+        </P>
+        <P>
+          <E T='03'>
+            Average price received by the producer
+          </E>
+           means the average of the 3 marketing year prices per unit received by
+          the producer from the first level of sales for the commodity.
+        </P>
+        <P>
+          <E T='03'>
+            Cash receipts
+          </E>
+           mean the value of commodity marketings during the calendar year,
+          irrespective of the year of production, as calculated by the Economic
+          Research Service of the USDA.
+        </P>
+        <P>
+          <E T='03'>
+            Certification of eligibility
+          </E>
+           means the date on which the Administrator (FAS) announces in the 
+          <E T='04'>
+            Federal Register
+          </E>
+           or by Department news release, whichever comes first, a certification
+          of eligibility to apply for trade adjustment assistance.
+        </P>
+        <P>
+          <E T='03'>
+            Contributed importantly
+          </E>
+           means a cause which is important, but not necessarily more important
+          than any other cause.
+        </P>
+        <P>
+          <E T='03'>
+            County price maintained by the Secretary
+          </E>
+           means a daily price obtained from a USDA agency for the commodity and
+          producer location, except that weekly or monthly prices may be used if
+          daily prices are unavailable.
+        </P>
+        <P>
+          <E T='03'>
+            Department
+          </E>
+           means the U.S. Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Deputy Administrator
+          </E>
+           means the Deputy Administrator for Farm Programs of the Farm Service
+          Agency (FSA).
+        </P>
+        <P>
+          <E T='03'>
+            Family member
+          </E>
+           means an individual to whom a producer is related as spouse, lineal
+          ancestor, lineal descendent, or sibling, including:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Great grandparent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Grandparent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Parent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Children, including legally adopted children;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Grandchildren;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Great grandchildren;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Sibling of the family member in the farming operation; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Spouse of a person listed in paragraphs (1) through (7) of this
+            definition.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Filing period
+          </E>
+           means the dates during which petitions may be submitted, as published
+          in the 
+          <E T='04'>
+            Federal Register.
+          </E>
+        </P>
+        <P>
+          <E T='03'>
+            FSA
+          </E>
+           means the Farm Service Agency of the U.S. Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Group
+          </E>
+           means three or more producers who are not members of the same family.
+        </P>
+        <P>
+          <E T='03'>
+            Impacted area
+          </E>
+           means one or more States of the United States.
+        </P>
+        <P>
+          <E T='03'>
+            Marketing year
+          </E>
+           means the marketing season or year designated by the Administrator
+          (FAS) with respect to an agricultural commodity. In the case of an
+          agricultural commodity that does not have a designated marketing year,
+          a calendar year will be used.
+        </P>
+        <P>
+          <E T='03'>
+            National average price
+          </E>
+           means the average price paid to producers for an agricultural
+          commodity in a marketing year as determined by the National
+          Agricultural Statistics Service (NASS) of the U.S. Department of
+          Agriculture, or 
+          <PRTPAGE P='1041' />
+          the National Marine Fisheries Service of the National Oceanic and
+          Atmospheric Administration, when available, or when unavailable, as
+          determined by the Administrator (FAS).
+        </P>
+        <P>
+          <E T='03'>
+            NIFA
+          </E>
+           means the National Institute of Food and Agriculture, the Federal
+          agency within the U.S. Department of Agriculture which administers the
+          Federal agricultural extension programs.
+        </P>
+        <P>
+          <E T='03'>
+            Producer
+          </E>
+           means a person who shares in the risk of producing an agricultural
+          commodity and is entitled to a share of the commodity for marketing;
+          including an operator, a sharecropper, or a person who owns or rents
+          the land on which the commodity is produced; or a person who reports
+          gain or loss from the trade or business of fishing on the
+          person&apos;s annual Federal income tax return for the taxable year
+          that most closely corresponds to the marketing year with respect to
+          which a petition is filed.
+        </P>
+        <P>
+          <E T='03'>
+            Raw
+          </E>
+           or 
+          <E T='03'>
+            natural state
+          </E>
+           means unaltered by any process other than cleaning, grading, coating,
+          sorting, trimming, mixing, conditioning, drying, dehulling, shelling,
+          chilling, cooling, blanching, irradiating, or fumigating.
+        </P>
+        <P>
+          <E T='03'>
+            State Cooperative Extension Service
+          </E>
+           means an organization established at the land-grant college or
+          university under the Smith-Lever Act of May 8, 1914, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='341-349' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/341-349.html'>
+              7 U.S.C. 341-349
+            </subref>
+          </aref>
+          ); 
+          <aref type='UNKNOWN'>
+            section 209(b) of
+          </aref>
+           the Act of October 26, 1974, as amended (D.C. Code, through 
+          <aref type='CFR-TIC-SECT'>
+            section 31-1719(b)
+          </aref>
+          ); or 
+          <aref type='UNKNOWN'>
+            section 1444 of
+          </aref>
+           the National Agricultural Research, Extension, and Teaching Policy
+          Act of 1977, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='3221' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/3221.html'>
+              7 U.S.C. 3221
+            </subref>
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            United States
+          </E>
+           means the 50 States of the United States, the District of Columbia,
+          and Puerto Rico.
+        </P>
+        <P>
+          <E T='03'>
+            Value of production
+          </E>
+           means the value of commodities produced during the crop year
+          calculated as production times the marketing year average price. This
+          may be equal to cash receipts when the crop year for the commodity
+          runs from January through December.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13326'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.201
+      </extid>
+      <num st='1'>
+        1580.201
+      </num>
+      <head>
+        Petitions for trade adjustment assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='201' psec='' tq='N'>
+              1580.201
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Petitions for trade adjustment assistance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A group of producers in the United States or its authorized
+            representative may file a petition for trade adjustment assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Filings may be written or electronic, as provided for by the
+            Administrator (FAS), and submitted to FAS no later than the last day
+            of the filing period announced in the 
+            <E T='04'>
+              Federal Register.
+            </E>
+             Petitions received after this date will be returned to the sender.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Petitions shall include the following information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Name, business address, phone number, and e-mail address (if
+            available) of each producer in the group, or its authorized
+            representative. The petition shall identify a contact person for the
+            group.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The agricultural commodity and its Harmonized Tariff Schedule of
+            the United States (HTS) number.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The production area represented by the group or its authorized
+            representative. The petition shall indicate if the group is filing
+            on behalf of all producers in the United States, or if it is filing
+            solely on behalf of all producers in a specifically identified
+            impacted area. In the latter case, at least one member of the group
+            must reside in each State within the impacted area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The beginning and ending dates for the marketing year upon which
+            the petition is based. A petition may be filed for only the most
+            recent full marketing year for which data are available for national
+            average prices, or quantity of production, or value of production,
+            or cash receipts.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             A justification statement explaining why the petitioners should be
+            considered eligible for adjustment assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Supporting information justifying the basis of the petition,
+            including required data for the petitioned marketing year and the
+            previous 3 marketing years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever possible, the petitioners shall use national average data
+            compiled by the National Agricultural Statistics Service (NASS) or
+            the National Marine Fisheries Service (NMFS), to determine national
+            average prices, or quantity of production, or value of production,
+            or cash receipts. If NASS or NMFS has not compiled such data for the
+            commodity, the petitioners shall provide alternative data for the
+            marketing year under review and for the 
+            <PRTPAGE P='1042' />
+            previous 3 marketing years, and identify the source of the data. In
+            such cases the Administrator (FAS) shall determine if the
+            alternative data is acceptable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             If the petition is filed on behalf of producers in a specifically
+            identified impacted area, the petitioners shall provide the national
+            average prices or county prices if applicable, or quantity of
+            production or value of production, or cash receipts for the
+            petitioned commodity in the impacted area for the marketing year
+            under review and for the previous 3 marketing years, and
+            identification of the data source.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_6_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator (FAS) may request petitioners to provide records
+            to support their data.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Once the petition is received, the Administrator (FAS) shall
+            determine if it meets the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='201' psec='#c' tq='N'>
+                1580.201(c)
+              </subref>
+               of this part
+            </aref>
+            , and if so, publish notice in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             that a petition has been filed and that an investigation is being
+            initiated. The notice shall identify the agricultural commodity,
+            including any like or directly competitive commodities, the
+            marketing year being investigated, the data being used, and the
+            production area covered by the petition. The notice may also
+            announce the scheduling of a public hearing, if requested by the
+            petitioner. If the petition does not meet the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='201' psec='#c' tq='N'>
+                1580.201(c)
+              </subref>
+               of this part
+            </aref>
+            , the Administrator (FAS) shall notify as soon as practicable the
+            contact person or the authorized representative for the group of the
+            deficiencies.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13327'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.202
+      </extid>
+      <num st='1'>
+        1580.202
+      </num>
+      <head>
+        Hearings, petition reviews, and amendments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='202' psec='' tq='N'>
+              1580.202
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Hearings, petition reviews, and amendments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the petitioner, or any other person found by the Administrator
+            (FAS) to have a substantial interest in the proceedings, submits not
+            later than 10 days after the date of publication of notice in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='201' psec='#d' tq='N'>
+                1580.201(d)
+              </subref>
+               of this part
+            </aref>
+            , a request in writing for a hearing, the Administrator (FAS) shall
+            provide for a public hearing and afford such interested person an
+            opportunity to be present, to produce evidence, and to be heard.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the petitioner or any other person having an interest in the
+            proceedings takes issue with any of the information published in the
+            
+            <E T='04'>
+              Federal Register
+            </E>
+             concerning the petition, such person may submit to the
+            Administrator (FAS) their comments in writing or electronically for
+            consideration by the Administrator (FAS) not later than 10 days
+            after the date of publication of notice in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='201' psec='#d' tq='N'>
+                1580.201(d)
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A producer or group of producers that resides outside of the State
+            or region identified in the petition filed under paragraph (a) of
+            this section, may file a request to become a party to that petition
+            not later than 15 days after the date that the notice is published
+            in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='201' psec='#d' tq='N'>
+                1580.201(d)
+              </subref>
+               of this part
+            </aref>
+            . The Administrator (FAS) may amend the original petition to expand
+            the impacted area and include the additional filer, or consider it a
+            separate filing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator (FAS) shall publish in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             as soon as practicable any changes to the original notice resulting
+            from any actions taken under this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13328'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.203
+      </extid>
+      <num st='1'>
+        1580.203
+      </num>
+      <head>
+        Determination of eligibility and certification by the Administrator
+        (FAS).
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='203' psec='' tq='N'>
+              1580.203
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determination of eligibility and certification by the Administrator
+          (FAS).
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             As soon as practicable after the petition has been filed, but in
+            any event not later than 40 days after that date, the Administrator
+            (FAS) shall certify a group of producers as eligible to apply for
+            adjustment assistance under this chapter if the Administrator (FAS)
+            determines:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             At least one of the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The national average price of the agricultural commodity produced
+            by the group during the most recent marketing year for which data
+            are available is less than 85 percent of the average of the national
+            average price for the commodity in the 3 marketing years preceding
+            such marketing year; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The quantity of production of the agricultural commodity produced
+            by the group during such marketing year is less than 85 percent of
+            the average of the quantity of production of the commodity produced
+            by the group in the 3 marketing years preceding such marketing year;
+            or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The value of production of the agricultural commodity produced by 
+            <PRTPAGE P='1043' />
+            the group during such marketing year is less than 85 percent of the
+            average value of production of the commodity produced by the group
+            in the 3 marketing years preceding such marketing year; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The cash receipts for the agricultural commodity produced by the
+            group during such marketing year are less than 85 percent of the
+            average of the cash receipts for the commodity produced by the group
+            in the 3 marketing years preceding such marketing year;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The volume of imports of articles like or directly competitive with
+            the agricultural commodity produced by the group in the marketing
+            year with respect to which the group files the petition increased
+            compared to the average volume of such imports during the 3
+            marketing years preceding such marketing year; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The increase in such imports contributed importantly to the
+            decrease in the national average price, or quantity of production,
+            or value of production, or cash receipts for, the agricultural
+            commodity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In any case in which there are separate classes of goods within an
+            agricultural commodity, the Administrator (FAS) shall treat each
+            class as a separate commodity in determining:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Group eligibility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The national average price, or quantity of production, or value of
+            production, or cash receipts; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The volume of imports.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Upon making a determination, whether affirmative or negative, the
+            Administrator (FAS) shall promptly publish in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             a summary of the determination, together with the reasons for
+            making the determination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In addition, the Administrator (FAS) shall notify producers covered
+            by a certification how to apply for adjustment assistance.
+            Notification methods may include direct mailings to known producers,
+            messages to directly affected producer groups and organizations,
+            electronic communications, Web site notices on the Internet, use of
+            broadcast print media, and transmittal through local USDA offices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Whenever a group of agricultural producers is certified as eligible
+            to apply for assistance, the Administrator (FAS) shall notify NIFA,
+            the Agricultural Marketing Service, and FSA who will assist in
+            informing other producers about the TAA for Farmers program and how
+            they may apply for trade adjustment assistance.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13329'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.301
+      </extid>
+      <num st='1'>
+        1580.301
+      </num>
+      <head>
+        Application for trade adjustment assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='301' psec='' tq='N'>
+              1580.301
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application for trade adjustment assistance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Only producers covered by a certification of eligibility under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='203' psec='' tq='N'>
+                1580.203
+              </subref>
+               of this title
+            </aref>
+            , may apply for adjustment assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An eligible producer may submit an application for adjustment
+            assistance by submitting to FSA a designated application form at any
+            time after the certification date but not later than 90 days after
+            the certification date. If the 90-day application period ends on a
+            weekend or legal holiday, the producer may apply the following
+            business day.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             When submitting an application, the producer shall provide
+            sufficient documentation to establish that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The producer produced the agricultural commodity in the marketing
+            year for which the petition is filed and in at least 1 of the 3
+            marketing years preceding that marketing year;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             There has been a decrease in the quantity of the agricultural
+            commodity produced by the producer in the marketing year for which
+            the petition is certified from the most recent prior marketing year
+            preceding that marketing year for which data is available; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             There has been a decrease in the price of the agricultural
+            commodity based on:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The price received for the agricultural commodity by the producer
+            during the marketing year with respect to which the petition is
+            filed from the average price for the commodity received by the
+            producer in the 3 marketing years preceding that marketing year; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The effective posted county price maintained by the Secretary for
+            the agricultural commodity on the date on which the Administrator
+            (FAS) accepts a petition for consideration as published in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             from 
+            <PRTPAGE P='1044' />
+            the average effective posted county level price for the commodity in
+            the 3 marketing years preceding that date. If USDA prices are not
+            available, prices from verifiable sources, including universities,
+            cooperatives, or local markets, may be used.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If a petition is certified with respect to a commodity not produced
+            by the producer every year, the producer may establish the average
+            price received by the producer for the commodity in the 3 marketing
+            years preceding the year in which the petition is filed by using
+            annual price data for the 3 most recent marketing years in which the
+            producer produced the commodity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The producer must certify that the producer has not received cash
+            benefits under the Trade Adjustment Assistance for Workers or Trade
+            Adjustment Assistance for Firms programs; or TAA for Farmers
+            benefits based on the production of an agricultural commodity
+            covered by another TAA for Farmers petition.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The producer must certify that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For petitions certified for 2008 crops, their compliance with
+            person determinations set forth in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this title
+              </subref>
+            </aref>
+            , subpart B and average adjusted gross income limitation
+            requirements set forth in subpart G, effective July 18, 1996.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For petitions certified for 2009 and subsequent crops, their
+            average gross nonfarm income and average adjusted gross farm income
+            meet requirements set forth in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this title
+              </subref>
+            </aref>
+            , subpart F, and payment limitation requirements set forth in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this title
+              </subref>
+            </aref>
+            , subparts A and B, effective December 29, 2008; and,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The total amount of payments made to a producer for which the
+            application was approved may not exceed the limitations on payments
+            applicable to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For petitions certified for 2008 crops, counter-cyclical payments,
+            set forth in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this title
+              </subref>
+            </aref>
+            , subpart A, effective July 18, 1996.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For petitions certified for 2009 and subsequent crops, the
+            counter-cyclical payments, including the Average Crop Revenue
+            Election (ACRE) set forth in 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1400' tq='N'>
+                1400 of this title
+              </subref>
+            </aref>
+            , subparts A and B, effective December 29, 2008; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             If requested by FSA, a producer must provide documentation
+            regarding average adjusted gross income and payment limitations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13330'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.302
+      </extid>
+      <num st='1'>
+        1580.302
+      </num>
+      <head>
+        Technical assistance and services.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='302' psec='' tq='N'>
+              1580.302
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Technical assistance and services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Initial Technical Assistance:
+            </head>
+          </npcatch>
+          <text>
+             A producer covered by a certification who has been determined by
+            FSA to meet the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='301' psec='' tq='N'>
+                1580.301
+              </subref>
+               of this part
+            </aref>
+            , is eligible to receive Initial Technical Assistance through NIFA
+            to be completed within 180 days of petition certification. Such
+            assistance shall include information regarding:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Improving the yield and marketing of that agricultural commodity,
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The feasibility and desirability, of substituting one or more
+            agricultural commodities for that agricultural commodity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Intensive Technical Assistance:
+            </head>
+          </npcatch>
+          <text>
+             Upon completion of Initial Technical Assistance, a producer is
+            eligible to participate in Intensive Technical Assistance. Intensive
+            Technical Assistance shall consist of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A series of courses to further assist the producer in improving the
+            competitiveness of producing the agricultural commodity certified
+            under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='203' psec='' tq='N'>
+                1580.203
+              </subref>
+               of this part
+            </aref>
+            , or another agricultural commodity, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Assistance in developing an initial business plan based on the
+            courses completed under paragraph (a) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              During Intensive Technical Assistance:
+            </head>
+          </npcatch>
+          <text>
+             NIFA shall deliver and the producer shall be required to attend a
+            series of Intensive Technical Assistance workshops relevant to the
+            circumstances of the producer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Initial Business Plan:
+            </head>
+          </npcatch>
+          <text>
+             Upon completion of the Initial and Intensive Technical Assistance,
+            the producer shall be required to develop an Initial Business Plan
+            recommended by NIFA and approved by the Administrator (FAS) before
+            receiving an adjustment assistance payment. The Initial Business
+            Plan will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Reflect the skills gained by the producer through the courses
+            described in paragraph (c) of this section; and
+            <PRTPAGE P='1045' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrate how the producer will apply those skills to the
+            circumstances of the producer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Upon approval of the Initial Business Plan, the producer will
+            receive an amount not to exceed $4,000 to implement the Initial
+            Business Plan or develop a Long-Term Business Adjustment Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A producer who completes the Intensive Technical Assistance and
+            whose Initial Business Plan has been approved shall be eligible, in
+            addition to the amount under paragraph (e) of this section, for
+            assistance in developing a Long-Term Business Adjustment Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Long-Term Business Adjustment Plan:
+            </head>
+          </npcatch>
+          <text>
+             The Long-Term Business Adjustment Plan shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Include steps reasonably calculated to materially contribute to the
+            economic adjustment of the producer to changing market conditions;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Take into consideration the interests of the workers employed by
+            the producer; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Demonstrate that the producer will have sufficient resources to
+            implement the business plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Upon recommendation by NIFA and approval of the producer&apos;s
+            Long-Term Business Adjustment Plan by the Administrator (FAS), the
+            producer shall be entitled to receive an amount not to exceed $8,000
+            to implement their Long-Term Business Adjustment Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The Initial Business Plan and Long-Term Business Adjustment Plan
+            must be completed and approved within 36 months after a petition is
+            certified.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             A producer shall not receive a combined total of more than $12,000
+            for the Initial Business Plan and the Long Term Business Adjustment
+            Plan in the 36-month period following petition certification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator (FAS) may authorize supplemental assistance
+            necessary to defray reasonable transportation and subsistence
+            expenses incurred by a producer in connection with the initial
+            technical assistance, if such initial technical assistance is
+            provided at facilities that are not within normal commuting distance
+            of the regular place of residence of the producer. NIFA and FSA will
+            work with the producer and the Administrator (FAS) to facilitate
+            application for and proper payment of reasonable allowable
+            supplemental expenses. The Administrator (FAS) will not authorize
+            payments to a producer:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For subsistence expenses that exceed the lesser of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The actual per diem expenses for subsistence incurred by a
+            producer; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The prevailing per diem allowance rate authorized under Federal
+            travel regulations; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For travel expenses that exceed the prevailing mileage rate
+            authorized under the Federal travel regulations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13331'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.303
+      </extid>
+      <num st='1'>
+        1580.303
+      </num>
+      <head>
+        Adjustment assistance payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='303' psec='' tq='N'>
+              1580.303
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Adjustment assistance payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the Administrator (FAS) determines that insufficient
+            appropriated fiscal year funds are available to provide maximum cash
+            benefits to all eligible applicants, after having deducted estimated
+            transportation and substance payments and administrative and
+            technical assistance costs, the Administrator (FAS) shall prorate
+            cash payments to producers for the approved initial and long-term
+            business plans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any producer who may be entitled to a payment may assign their
+            rights to such payment in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1404' tq='N'>
+                1404
+              </subref>
+            </aref>
+             or successor regulations as designated by the Department.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of death, incompetency, disappearance, or dissolution
+            of a producer that is eligible to receive benefits in accordance
+            with this part, such producer or producers specified in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='707' tq='N'>
+                707
+              </subref>
+            </aref>
+             may receive such benefits.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13332'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.401
+      </extid>
+      <num st='1'>
+        1580.401
+      </num>
+      <head>
+        Subsequent year petition recertification.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='401' psec='' tq='N'>
+              1580.401
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Subsequent year petition recertification.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Prior to the anniversary of the petition certification date:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Groups or authorized representatives that provided the data to
+            justify their initial petition shall provide the Administrator (FAS)
+            data for the most recent marketing year, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator (FAS) shall make a determination with respect to
+            the re-certification of petitions for the subsequent year by
+            applying criteria as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='203' psec='' tq='N'>
+                1580.203
+              </subref>
+               of this part
+            </aref>
+             for the most recent marketing year.
+            <PRTPAGE P='1046' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator (FAS) will promptly publish in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             the determination with the reasons for the determination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If a petition is re-certified, only eligible producers who did not
+            receive training and cash benefits under this program may apply.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13333'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.501
+      </extid>
+      <num st='1'>
+        1580.501
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='501' psec='' tq='N'>
+              1580.501
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The petition process will be administered by FAS. FAS will publish
+            in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             the filing dates for commodity groups to file petitions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             FSA will administer the producer application and payment process.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             State and county FSA committees and representatives do not have the
+            authority to modify or waive any of the provisions of this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The technical assistance process and the recommendation for
+            approval of all producer business plans will be under the general
+            supervision of NIFA. NIFA may award the technical assistance and
+            services to a state cooperative extension service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Deputy Administrator may, in consultation with the
+            Administrator, FAS, authorize the State and County committees to
+            waive or modify non-statutory deadlines or other program
+            requirements in cases where lateness or failure to meet such other
+            requirements by applicants does not adversely affect the operation
+            of the program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13334'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.502
+      </extid>
+      <num st='1'>
+        1580.502
+      </num>
+      <head>
+        Maintenance of records, audits, and compliance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='502' psec='' tq='N'>
+              1580.502
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Maintenance of records, audits, and compliance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Producers making application for benefits under this program must
+            maintain accurate records and accounts that will document that they
+            meet all eligibility requirements specified herein, as may be
+            requested. Such records and accounts must be retained for 2 years
+            after the date of the final payment to the producer under this
+            program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             At all times during regular business hours, authorized
+            representatives of the U.S. Department of Agriculture or any agency
+            thereof, the Comptroller General of the United States shall have
+            access to the premises of the producer in order to inspect, examine,
+            and make copies of the books, records, and accounts, and other
+            written data as specified in paragraph (a) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Audits of certifications of average adjusted gross income may be
+            conducted as necessary to determine compliance with the requirements
+            of this subpart. As a part of this audit, income tax forms may be
+            requested and if requested, must be supplied. If a producer has
+            submitted information to FSA, including a certification from a
+            certified public accountant or attorney, that relied upon
+            information from a form previously filed with the Internal Revenue
+            Service, such producer shall provide FSA a copy of any amended form
+            filed with the Internal Revenue Service within 30 days of the
+            filing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If requested in writing by the U.S. Department of Agriculture or
+            any agency thereof, or the Comptroller General of the United States,
+            the producer shall provide all information and documentation the
+            reviewing authority determines necessary to verify any information
+            or certification provided under this subpart, including all
+            documents referred to in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='301' psec='#c' tq='N'>
+                1580.301(c)
+              </subref>
+               of this part
+            </aref>
+            , within 30 days. Acceptable production documentation may be
+            submitted by facsimile, in person, or by mail and may include copies
+            of receipts, ledgers, income statements, deposit slips, register
+            tapes, invoices for custom harvesting, records to verify production
+            costs, contemporaneous measurements, truck scale tickets, fish
+            tickets, landing reports, and contemporaneous diaries that are
+            determined acceptable. Failure to provide necessary and accurate
+            information to verify compliance, or failure to comply with this
+            part&apos;s requirements, will result in ineligibility for all
+            program benefits subject to this part for the year or years subject
+            to the request.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13335'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.503
+      </extid>
+      <num st='1'>
+        1580.503
+      </num>
+      <head>
+        Recovery of overpayments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='503' psec='' tq='N'>
+              1580.503
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recovery of overpayments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the Administrator (FAS) determines that any producer has
+            received any payment under this program to which the producer was
+            not entitled, or has expended funds received under this program for
+            purpose that was not approved by the Administrator (FAS) such
+            producer will be liable to repay such amount. The Administrator
+            (FAS) may waive such repayment if it is determined that:
+            <PRTPAGE P='1047' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The payment was made without fault on the part of the producer; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Requiring such repayment would be contrary to equity and good
+            conscience.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Unless an overpayment is otherwise recovered, or waived under
+            paragraph (a) of this section, the Administrator (FAS), shall
+            recover the overpayment as a debt following the procedures in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3' tq='N'>
+                3
+              </subref>
+            </aref>
+            . The requirement for demand and notice and opportunity for a
+            hearing under the debt collection procedures in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3' tq='N'>
+                3
+              </subref>
+            </aref>
+             shall satisfy the notice and hearing requirements under 
+            <aref type='USC'>
+              <subref title='19' sect='2401f' note='' psec='#c' tq='N' target='http://www.law.cornell.edu/uscode/19/2401f.html#c'>
+                19 U.S.C. 2401f(c)
+              </subref>
+            </aref>
+            , and the appeal procedures in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='505' psec='' tq='N'>
+                1580.505
+              </subref>
+               of this part
+            </aref>
+             shall not apply to collection of overpayments
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13336'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.504
+      </extid>
+      <num st='1'>
+        1580.504
+      </num>
+      <head>
+        Debarment, suspension, and penalties.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='504' psec='' tq='N'>
+              1580.504
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Debarment, suspension, and penalties.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Generally.
+            </head>
+          </npcatch>
+          <text>
+             The regulations governing Governmentwide Debarment and Suspension
+            (Nonprocurement), 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3017' tq='N'>
+                3017
+              </subref>
+            </aref>
+            , and Government Requirements for Drug-Free Workplace (Financial
+            Assistance), 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3021' tq='N'>
+                3021
+              </subref>
+            </aref>
+            , apply to this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Additional specific suspension and debarment provision for this
+              program.
+            </head>
+          </npcatch>
+          <text>
+             In addition to any other debarment or suspension of a producer
+            under paragraph (a) of this section, in connection with this
+            program, if the Administrator (FAS) or a court of competent
+            jurisdiction, determines that a producer:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Knowingly has made, or caused another to make, a false statement or
+            representation of a material fact, or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Knowingly has failed, or caused another to fail, to disclose a
+            material fact; and, as a result of such false statement or
+            representation, or of such nondisclosure, such producer has received
+            any payment under this program to which the producer was not
+            entitled, the Administrator (FAS) shall suspend and debar such
+            producer from any future payments under this program, as provided in
+            
+            <aref type='USC'>
+              <subref title='19' sect='2401f' note='' psec='#b' tq='N' target='http://www.law.cornell.edu/uscode/19/2401f.html#b'>
+                19 U.S.C. 2401f(b)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Criminal penalty.
+            </head>
+          </npcatch>
+          <text>
+             Whoever makes a false statement of a material fact knowing it to be
+            false, or knowingly fails to disclose a material fact, for the
+            purpose of obtaining or increasing for himself or for any other
+            producer any payments authorized to be furnished under this program
+            shall be fined not more that $10,000 or imprisoned for not more than
+            1 year, or both.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13337'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.505
+      </extid>
+      <num st='1'>
+        1580.505
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='505' psec='' tq='N'>
+              1580.505
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A producer adversely affected by a determination with respect to
+            their application for trade adjustment assistance under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='301' psec='' tq='N'>
+                1580.301
+              </subref>
+               of this part
+            </aref>
+             or with respect to the receipt of technical assistance or payments
+            under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1580' sect='302' psec='' tq='N'>
+                1580.302
+              </subref>
+               of this part
+            </aref>
+             may file a notice of appeal within 30 days of the date that the
+            notification of the adverse determination was sent.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A producer may not seek judicial review of any adverse decision
+            under this paragraph without receiving a final determination
+            pursuant to this paragraph.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13338'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.506
+      </extid>
+      <num st='1'>
+        1580.506
+      </num>
+      <head>
+        Judicial review.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='506' psec='' tq='N'>
+              1580.506
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Judicial review.
+        </SUBJECT>
+        <P>
+          Any producer aggrieved by a final agency determination under this part
+          may appeal to the U.S. Court of International Trade for a review of
+          such determination in accordance with its rules and procedures.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13339'>
+      <extid>
+        lii:cfr:2013:7:0:B:XV:-:1580:-:1580.602
+      </extid>
+      <num st='1'>
+        1580.602
+      </num>
+      <head>
+        Paperwork Reduction Act assigned number.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1580' sect='602' psec='' tq='N'>
+              1580.602
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Paperwork Reduction Act assigned number.
+        </SUBJECT>
+        <P>
+          The information collection requirements contained in this part have
+          been approved by the Office of Management and Budget (OMB) under the
+          provisions of 44 U.S.C. Chapter 35 and been assigned OMB control
+          number 0551-0040.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

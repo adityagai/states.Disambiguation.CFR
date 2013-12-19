@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXV:-:2502
+    </extid>
+    <num>
+      2502
+    </num>
+    <head>
+      AGRICULTURAL CAREER AND EMPLOYMENT (ACE) GRANTS PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='2008q-1' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2008q-1.html'>
+              7 U.S.C. 2008q-1
+            </subref>
+          </aref>
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            76 FR 69117
+          </aref>
+          , Nov. 8, 2011, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15895'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2502:A:2502.1
+      </extid>
+      <num st='1'>
+        2502.1
+      </num>
+      <head>
+        Applicability of regulations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2502' sect='1' psec='' tq='N'>
+              2502.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability of regulations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This part contains program-specific definitions for the ACE Grants
+            Program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Subpart B establishes the criteria to be used in determining
+            eligibility for an ACE grant award and the requirements for the
+            delivery of program benefits and services, including who is
+            considered eligible to receive such benefits and services and what
+            the responsibilities are of ACE grantees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Subpart C establishes that, unless otherwise provided herein, the
+            procedures for applying for ACE grants, the processes to be followed
+            by OAO in evaluating grant proposals and awarding program funds, and
+            the procedures for post-award administration of ACE grants are those
+            set forth in a rule proposed ON DATE to codify provisions at 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='2500' tq='N'>
+                2500
+              </subref>
+            </aref>
+            , subparts A, B, C, D, and E.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15896'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2502:A:2502.2
+      </extid>
+      <num st='1'>
+        2502.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2502' sect='2' psec='' tq='N'>
+              2502.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in this part (unless otherwise indicated):
+        </P>
+        <P>
+          <E T='03'>
+            Agency
+          </E>
+           means the Office of Advocacy and Outreach (OAO), an agency of the
+          United States Department of Agriculture (USDA) or a successor agency.
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural Employer
+          </E>
+           means any person or entity which employs, as defined in the Migrant
+          and Seasonal Agricultural Worker Protection Act, 
+          <aref type='USC'>
+            <subref title='29' sect='1802' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/29/1802.html'>
+              29 U.S.C. 1802
+            </subref>
+          </aref>
+          , individuals engaged in agricultural employment and may include
+          farmers, ranchers, dairy operators, agricultural cooperatives, and
+          farm labor contractors.
+          <PRTPAGE P='75' />
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural Employment
+          </E>
+           means any service or activity as defined in the Migrant and Seasonal
+          Agricultural Worker Protection Act, 
+          <aref type='USC'>
+            <subref title='29' sect='1802' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/29/1802.html'>
+              29 U.S.C. 1802
+            </subref>
+          </aref>
+          , including any activity defined as “agriculture” in 
+          <aref type='CFR-TIC-SECT'>
+            Section 3(f)
+          </aref>
+           or the Fair Labor Standards Act of 1938, 
+          <aref type='USC'>
+            <subref title='29' sect='203' note='' psec='#f' tq='N' target='http://www.law.cornell.edu/uscode/29/203.html#f'>
+              29 U.S.C. 203(f)
+            </subref>
+          </aref>
+          , any activity defined as “agricultural labor” in 
+          <aref type='USC'>
+            <subref title='26' sect='3121' note='' psec='#g' tq='N' target='http://www.law.cornell.edu/uscode/26/3121.html#g'>
+              26 U.S.C. 3121(g)
+            </subref>
+          </aref>
+           (the Internal Revenue Code); as well as the handling, planting,
+          drying, packing, packaging, processing, freezing, or grading prior to
+          delivery for storage of any agricultural or horticultural commodity in
+          its unmanufactured state. Authorized Departmental Officer (ADO) means
+          the individual, acting within the scope of delegated authority, who is
+          responsible for executing and administering awards on behalf of the
+          U.S. Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Community-based organization
+          </E>
+           means a non-governmental organization with a well-defined
+          constituency that includes all or part of a particular community.
+        </P>
+        <P>
+          <E T='03'>
+            Consortium
+          </E>
+           means a group formed by entities with similar goals and objectives
+          for the purpose of pooling resources to undertake a project that would
+          otherwise be reasonably beyond the capabilities of any one member.
+        </P>
+        <P>
+          <E T='03'>
+            Eligible entity,
+          </E>
+           as described in 
+          <aref type='UNKNOWN'>
+            section 379C(a) of
+          </aref>
+           the Consolidated Farm and Rural Development Act (
+          <aref type='USC'>
+            <subref title='7' sect='2008q' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/7/2008q.html#a'>
+              7 U.S.C. 2008q(a)
+            </subref>
+          </aref>
+          ), means a non-profit organization, or a consortium of nonprofit
+          organizations, agribusinesses, State and local governments,
+          agricultural labor organizations, farmer or rancher cooperatives, and
+          community-based organizations with the capacity to train farm workers.
+        </P>
+        <P>
+          <E T='03'>
+            Farmworker
+          </E>
+           means an individual hired to perform agricultural employment,
+          including migrant, seasonal, and hired family farm workers. The term
+          farmworker includes individuals who are not currently employed as a
+          farmworker but who are actively seeking work as such. The term does
+          not include agricultural employers or individuals who are
+          self-employed.
+        </P>
+        <P>
+          <E T='03'>
+            Grantee
+          </E>
+           means the organization designated in the grant award document as the
+          responsible legal entity to which a grant is awarded.
+        </P>
+        <P>
+          <E T='03'>
+            Legally present in the United States
+          </E>
+           shall have the same meaning as the term “lawfully present” in the
+          United States as defined at 
+          <aref type='CFR'>
+            8 CFR 
+            <subref title='8' part='103' sect='12' psec='#a' tq='N'>
+              103.12(a)
+            </subref>
+          </aref>
+           (addressing eligibility for Title II Social Security benefits under 
+          <aref target='_blank' title='Pub. L. 104-193' alt='Pub. L. 104-193' href='http://www.gpo.gov/fdsys/pkg/PLAW-104publ193/html/PLAW-104publ193.htm'>
+            Pub. L. 104-193
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Notice of Funding Availability (NOFA)
+          </E>
+           means a notice published in the 
+          <E T='04'>
+            Federal Register
+          </E>
+           announcing the availability of money for the grants program which
+          lists the application deadlines, eligibility requirements and
+          locations where interested parties can get help in applying.
+        </P>
+        <P>
+          <E T='03'>
+            Office of Advocacy and Outreach (OAO)
+          </E>
+           means the Office of Advocacy and Outreach, an office within the
+          USDA&apos;s Departmental Management.
+        </P>
+        <P>
+          <E T='03'>
+            Request for Proposal (RFP)
+          </E>
+           refers to a grant competition and is used interchangeably with the
+          phrase grant application notice and solicitation for grant
+          applications (SFA).
+        </P>
+        <P>
+          <E T='03'>
+            Retaining an agricultural job
+          </E>
+           means continuing agricultural employment, including upgraded
+          employment.
+        </P>
+        <P>
+          <E T='03'>
+            Returning from an agricultural job
+          </E>
+           means returning to a home area from a position in agricultural
+          employment.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of Agriculture and any other officer or employee
+          of the United States Department of Agriculture to whom the authority
+          involved is delegated.
+        </P>
+        <P>
+          <E T='03'>
+            Securing an agricultural job
+          </E>
+           means obtaining agricultural employment.
+        </P>
+        <P>
+          <E T='03'>
+            State
+          </E>
+           means any of the States of the United States, the District of
+          Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, and
+          Guam.
+        </P>
+        <P>
+          <E T='03'>
+            United States worker (U.S. worker)
+          </E>
+           shall have the same meaning as the term U.S. worker defined by the
+          Department of Labor at 
+          <aref type='CFR'>
+            20 CFR 
+            <subref title='20' part='655' sect='4' psec='' tq='N'>
+              655.4
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Upgrading an agricultural job
+          </E>
+           means advancement to a position in agricultural employment which
+          offers more hours of work and/or better terms and conditions of
+          employment and/or an increase in wages.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15897'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2502:A:2502.3
+      </extid>
+      <num st='1'>
+        2502.3
+      </num>
+      <head>
+        Deviations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2502' sect='3' psec='' tq='N'>
+              2502.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Deviations.
+        </SUBJECT>
+        <P>
+          Any request by the applicant or grantee for a waiver or deviation from
+          any provision of this part shall be submitted to the ADO identified in
+          the agency specific requirements. OAO shall review the request and
+          notify the applicant/grantee whether the request to deviate has been
+          approved within 30 calendar days from the date of receipt 
+          <PRTPAGE P='76' />
+          of the deviation request. If the deviation request is still under
+          consideration at the end of 30 calendar days, OAO shall inform the
+          applicant/grantee in writing of the date when the applicant/grantee
+          may expect the decision.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15898'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2502:B:2502.4.
+      </extid>
+      <num st='1'>
+        2502.4.
+      </num>
+      <head>
+        Program eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2502' sect='4' psec='' tq='N'>
+              2502.4
+            </subref>
+          </aref>
+          .
+        </SECTNO>
+        <SUBJECT>
+          Program eligibility.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Entities eligible to apply for and receive a grant under this part
+            include:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A non-profit organization;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A consortium of nonprofit organizations; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A consortium which includes a non-profit organization(s) and one or
+            more of the following: agribusinesses, State and local governments,
+            agricultural labor organizations, farmer or rancher cooperatives,
+            and community-based organizations with the capacity to train farm
+            workers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Additional information about eligible entities may be included in
+            the RFP. In addition, the RFP will specify the criteria by which an
+            entity&apos;s capacity to train farm workers will be evaluated, but
+            at a minimum, the entity shall be required to demonstrate that it
+            has:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             An understanding of the issues facing hired farmworkers and
+            conditions under which they work;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Familiarity with the agricultural industry in the geographic area
+            to be served, including agricultural labor needs and existing
+            services for farmworkers; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The capacity to effectively administer a program of services and
+            benefits authorized by the ACE program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             An applicant will be required to submit information to OAO, as
+            specified in the RFP and/or FOA as part of the grant application.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15899'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2502:B:2502.5
+      </extid>
+      <num st='1'>
+        2502.5
+      </num>
+      <head>
+        Program benefits and services.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2502' sect='5' psec='' tq='N'>
+              2502.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program benefits and services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The ACE grants program will be centrally administered by the USDA
+            in a manner consistent with these regulations, as well as the
+            pertinent requirements of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3015' tq='N'>
+                3015, 7
+              </subref>
+            </aref>
+             CFR 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3016' tq='N'>
+                3016
+              </subref>
+            </aref>
+            , 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3018' tq='N'>
+                3018, 7
+              </subref>
+            </aref>
+             CFR 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+             and 
+            <aref type='CFR'>
+              7 CFR 3052
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Office of Advocacy and Outreach (OAO) has been designated as
+            the organizational unit responsible for administering the ACE
+            program, including, among other things, determining the number and
+            amount of grants to be awarded, the purposes for the grants to be
+            awarded, as well as the criteria for the evaluation and award of
+            grants.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Services and benefits provided under the ACE grants program are
+            limited to those which will assist eligible farmworkers in securing,
+            retaining, upgrading or returning from agricultural jobs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Such services will include the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Agricultural labor skills development
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Provision of agricultural labor market information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Transportation:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Short-term housing while in transit to an agricultural worksite;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Workplace literacy and assistance with English as a second
+            language;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Health and safety instruction, including ways of safeguarding the
+            food supply of the United States;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Such other services as the Secretary deems appropriate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Grant funds shall not be used to deliver or replace any services or
+            benefits which an agricultural employer, association, contractor, or
+            any other entity is legally obliged to provide.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15900'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2502:B:2502.6
+      </extid>
+      <num st='1'>
+        2502.6
+      </num>
+      <head>
+        Recipients of program benefits or services.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2502' sect='6' psec='' tq='N'>
+              2502.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recipients of program benefits or services.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Those eligible to receive program services or benefits under the
+            ACE program are farmworkers who meet the definition of “United
+            States Workers” as set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2502' sect='2' psec='' tq='N'>
+                2502.2
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Grantees shall be responsible for verifying the employment of
+            farmworkers who are actively employed and are seeking to participate
+            in program services or benefits. Unemployed farmworkers seeking to
+            participate shall be required to certify to grantees that they are
+            eligible for program services and benefits as provided herein.
+            Additional eligibility requirements may be included in the RFP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15901'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2502:B:2502.7
+      </extid>
+      <num st='1'>
+        2502.7
+      </num>
+      <head>
+        Responsibilities of grantees.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2502' sect='7' psec='' tq='N'>
+              2502.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Responsibilities of grantees.
+        </SUBJECT>
+        <P>
+          Each grantee is responsible for providing services and/or benefits
+          authorized by this program in accord with a service delivery strategy
+          described in 
+          <PRTPAGE P='77' />
+          its approved grant plan. The services must reflect the needs of the
+          relevant farmworker population in the area to be served and be
+          consistent with the goals of assisting farmworkers in securing,
+          retaining, upgrading, or returning from agricultural jobs. The
+          necessary components of a service delivery strategy and grant plan
+          will be fully set forth in an RFP but the plan shall include, at a
+          minimum, the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The employment and education needs of the farmworker population to
+            be served;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The manner in which the proposed services to be delivered will
+            assist agricultural employers and farmworkers in securing,
+            retaining, upgrading or returning from agricultural jobs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The manner in which the proposed services will be coordinated with
+            other available services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The number of participants the grantee expects to serve for each
+            service provided, the results expected and the anticipated
+            expenditures for each category of service.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15902'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2502:C:2502.8
+      </extid>
+      <num st='1'>
+        2502.8
+      </num>
+      <head>
+        Pre-award, award, and post-award procedures and administration of
+        grants.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2502' sect='8' psec='' tq='N'>
+              2502.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Pre-award, award, and post-award procedures and administration of
+          grants.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Unless otherwise provided in this rule, the requirements governing
+            pre-award solicitation and submission of proposals and/or
+            applications, the review and evaluation of such, the award of grant
+            funds, and post-award and close-out procedures are those set forth
+            at 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='2500' tq='N'>
+                2500
+              </subref>
+            </aref>
+            , subparts A, B, C, D, and E.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For purposes of the ACE Grants Program, the provisions of Subpart
+            E, at 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='2500' sect='49' psec='' tq='N'>
+                2500.49
+              </subref>
+            </aref>
+            , “Prior Approvals,” shall not apply. In lieu of that provision, the
+            following requirements shall apply: Awardees may not subcontract
+            more than 20 percent of the award to other parties without prior
+            written approval of the ADO. To request approval, a justification
+            for the proposed subcontract, a performance statement, and a
+            detailed budget for the subcontract must be submitted in writing to
+            the ADO.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol12'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1776
+    </extid>
+    <num>
+      1776
+    </num>
+    <head>
+      HOUSEHOLD WATER WELL SYSTEM GRANT PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='1926e' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1926e.html'>
+              7 U.S.C. 1926e
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            70 FR 28788
+          </aref>
+          , May 19, 2005, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='14359'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:A:1776.1
+      </extid>
+      <num st='1'>
+        1776.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='1' psec='' tq='N'>
+              1776.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This part sets forth the policies and procedures for making grants to
+          private, non-profit organizations to finance the construction,
+          refurbishing and servicing of individually-owned household water well
+          systems in rural areas for individuals with low or moderate income.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14360'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:A:1776.2
+      </extid>
+      <num st='1'>
+        1776.2
+      </num>
+      <head>
+        Uniform Federal Assistance Provisions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='2' psec='' tq='N'>
+              1776.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Uniform Federal Assistance Provisions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This program is subject to the general provisions that apply to all
+            grants made by USDA and that are set forth in 
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            —Uniform Federal Assistance Regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This program is subject to the uniform administrative requirements
+            that apply to all grants made by USDA to non-profit organizations
+            and that are set forth in 
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            —Uniform Administrative Requirements for Grants And Agreements with
+            Institutions of Higher Education, Hospitals, and Other Non-Profit
+            Organizations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             This program is subject to OMB Circular No. A-122 (Revised): Cost
+            Principles for Non-Profit Organizations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14361'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:A:1776.3
+      </extid>
+      <num st='1'>
+        1776.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='3' psec='' tq='N'>
+              1776.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Administrative expenses
+          </E>
+           means expenses incurred by a grant recipient that are of the type
+          more particularly described in 
+          <aref type='CFR-TIC-SECT'>
+            Section 13 of this part
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means a private, non-profit organization that applies for a HWWS
+          grant under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Centralized Servicing Center (CSC)
+          </E>
+           means the centralized loan servicing center within the United States
+          Department of Agriculture, Rural Development. CSC provides nationwide
+          services for borrowers that have received financing from Rural
+          Development programs.
+        </P>
+        <P>
+          <E T='03'>
+            Construction
+          </E>
+           means building or assembling a water well system or portion thereof,
+          that is not a water well system or portion thereof being constructed
+          in connection with a new building.
+        </P>
+        <P>
+          <E T='03'>
+            Eligible individual
+          </E>
+           means an individual who is a member of a household the members of
+          which have a combined income (for the most recent 12-month period for
+          which the information is 
+          <PRTPAGE P='254' />
+          available) that is not more than 100 percent of the median
+          nonmetropolitan household income for the State or territory in which
+          the individual resides, according to the most recent decennial census
+          of the United States.
+        </P>
+        <P>
+          <E T='03'>
+            Grant agreement
+          </E>
+           means the contract between RUS and the grant recipient which sets
+          forth the terms and conditions governing a particular grant awarded
+          under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Grant recipient
+          </E>
+           means an applicant that has been awarded a HWWS grant under this
+          part.
+        </P>
+        <P>
+          <E T='03'>
+            HWWS
+          </E>
+           means household water well system.
+        </P>
+        <P>
+          <E T='03'>
+            HWWS grant
+          </E>
+           means a grant awarded by RUS to a grant recipient under this part.
+        </P>
+        <P>
+          <E T='03'>
+            HWWS loan
+          </E>
+           means a loan made by a grant recipient to a loan recipient using the
+          direct or indirect proceeds of a HWWS grant awarded under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Loan recipient
+          </E>
+           means an eligible individual who has received a HWWS loan.
+        </P>
+        <P>
+          <E T='03'>
+            Refurbishing
+          </E>
+           means to renovate or to restore a water well system or portion
+          thereof to near new condition.
+        </P>
+        <P>
+          <E T='03'>
+            Revolved funds
+          </E>
+           means the cash portion of the revolving loan fund that is not
+          composed of HWWS grant funds, including repayments of revolving HWWS
+          loans, fees, and interest collected on HWWS loans.
+        </P>
+        <P>
+          <E T='03'>
+            Revolving loan fund
+          </E>
+           means the loan fund established by the grant recipient to carry out
+          the purposes of this part, such fund comprising the proceeds of a HWWS
+          grant and other related assets.
+        </P>
+        <P>
+          <E T='03'>
+            Rural area
+          </E>
+           means any area other than a city or town that has a population of
+          greater than 50,000 inhabitants; and the urbanized area contiguous and
+          adjacent to such city or town.
+        </P>
+        <P>
+          <E T='03'>
+            RUS
+          </E>
+           means the Rural Utilities Service, a Federal agency delivering the
+          United States Department of Agriculture&apos;s Rural Development
+          Utilities Program.
+        </P>
+        <P>
+          <E T='03'>
+            Servicing
+          </E>
+           means making repairs or performing maintenance on a water well system
+          or portion thereof.
+        </P>
+        <P>
+          <E T='03'>
+            USDA
+          </E>
+           means the United States Department of Agriculture.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14362'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:A:1776.4
+      </extid>
+      <num st='1'>
+        1776.4
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='4' psec='' tq='N'>
+              1776.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14363'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.5
+      </extid>
+      <num st='1'>
+        1776.5
+      </num>
+      <head>
+        Eligibility to receive a HWWS grant.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='5' psec='' tq='N'>
+              1776.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility to receive a HWWS grant.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must be a private organization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must be organized as a non-profit organization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must have legal capacity and lawful authority to
+            perform the obligations of a grant recipient under this part.
+            Example 1: If the organization is incorporated as a non-profit
+            corporation, it must have corporate authority under state law and
+            its corporate charter to engage in the practice of making loans to
+            individuals. Example 2: if the organization is an unincorporated
+            association, state law may prevent the organization from entering
+            into binding contracts, such as a grant agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must have sufficient expertise and experience in
+            lending and in promoting the safe and productive use of
+            individually-owned household water well systems and ground water to
+            assure the likelihood that the objectives of this part can be
+            achieved.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14364'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.6
+      </extid>
+      <num st='1'>
+        1776.6
+      </num>
+      <head>
+        Notice of availability of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='6' psec='' tq='N'>
+              1776.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Notice of availability of funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In Fiscal Year 2005, applications will be accepted for this program
+            from May 19, 2005, until July 18, 2005, at which time the
+            application period will close. An applicant may withdraw,
+            substitute, amend or supplement its application at any time before
+            the application period closes. Once the application period has
+            closed, all applications will be final.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For subsequent fiscal years, if any funds for this program are
+            available, the Secretary will publish a notice to that effect. The
+            notice will establish the period during which applications for such
+            funds may be submitted for consideration.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14365'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.7
+      </extid>
+      <num st='1'>
+        1776.7
+      </num>
+      <head>
+        HWWS Grant application process.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='7' psec='' tq='N'>
+              1776.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          HWWS Grant application process.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must complete and submit the following standard forms
+            to RUS to apply for a HWWS grant under this part:
+            <PRTPAGE P='255' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Application for Federal Assistance: 
+            <E T='03'>
+              Standard Form 424,
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Budget Information—Non-Construction Programs: 
+            <E T='03'>
+              Standard Form 424A,
+            </E>
+             and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Assurances—Non-Construction Programs: 
+            <E T='03'>
+              Standard Form 424B.
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must submit a written work plan that demonstrates the
+            feasibility of the applicant&apos;s lending program to meet the
+            objectives of this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant should submit a narrative establishing the basis for
+            any claims that it has substantial expertise in promoting the safe
+            and productive use of individually-owned household water well
+            systems. The Secretary will give priority to an applicant that
+            demonstrates it has substantial experience of this type.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant must submit:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A pro forma balance sheet at start-up and projected balance sheets
+            for at least three additional years,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Financial statements for the last three years, or from inception of
+            the operations of the grant recipient if less than three years, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Projected cash flow and earnings statements for at least three
+            years, supported by a list of assumptions showing the basis for the
+            projections. The projected earnings statement and balance sheets
+            must include one set of projections specific to the revolving loan
+            fund, and a separate set of projections that detail the proposed
+            applicant organization&apos;s total operations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant may submit such additional information as it elects
+            to support and describe its plan for achieving the objectives of
+            this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14366'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.8
+      </extid>
+      <num st='1'>
+        1776.8
+      </num>
+      <head>
+        Methods for submitting applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='8' psec='' tq='N'>
+              1776.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Methods for submitting applications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications may be filed in either paper or electronic format. RUS
+            will not accept applications by fax or e-mail.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Paper applications for HWWS grants may be delivered by the U.S.
+            Postal Service (USPS) or courier delivery services. Applications
+            submitted by mail or courier must be postmarked no later than the
+            filing deadline to be considered for the grant period. Applications
+            delivered by mail or courier must be addressed to the attention of
+            the Assistant Administrator, Water and Environmental Programs as
+            follows: ATTN: Assistant Administrator, WEP, Rural Utilities
+            Service, Stop 1548 Room 5145 South, 1400 Independence Ave. SW.,
+            Washington, DC 20250-1548.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Electronic applications may be filed through Grants.gov, the
+            official Federal Government Web site at 
+            <E T='03'>
+              http://www.grants.gov.
+            </E>
+             The applicant must be registered with Grants.gov before they can
+            submit a grant applicant. The applicant should refer to instructions
+            found on the Grants.gov Web site for procedures for registering and
+            using this facility. An applicant who is not registered on
+            Grants.gov should allow a sufficient number of business days to
+            complete the process. Applications submitted electronically must be
+            show an electronic date and time stamp on or before the filing
+            deadline to be considered for the grant period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The methods of submitting applications may be changed from time to
+            reflect changes in addresses and electronic submission procedures.
+            The applicant should refer to the most recent notice of funding
+            availability for notice of any such changes. In the event of any
+            discrepancy, the notice must be followed.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14367'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.9
+      </extid>
+      <num st='1'>
+        1776.9
+      </num>
+      <head>
+        Scoring applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='9' psec='' tq='N'>
+              1776.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scoring applications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Applications that are incomplete or ineligible will be returned to
+            the applicant, accompanied by a statement explaining why the
+            application is being returned.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Promptly after an application period closes, all applications that
+            are complete and eligible will be ranked competitively based on the
+            following scoring criteria:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Degree of expertise and experience in promoting the safe and
+            productive use of individually-owned household water well systems
+            and ground water. Up to 30 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Degree of expertise and successful experience in making and
+            servicing loans to individuals. Up to 20 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Percentage of applicant contributions. Points allowed under this
+            paragraph will be based on written evidence of the availability of
+            funds from sources other than the proceeds of a HWWS grant to pay
+            part of the cost of 
+            <PRTPAGE P='256' />
+            a loan recipient&apos;s project. In-kind contributions will not be
+            considered. Funds from other sources as a percentage of the HWWS
+            grant and points corresponding to such percentages are as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             0 to 9 percent—ineligible;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             10 to 25 percent—5 points;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             26 to 30 percent—10 points;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             31 to 50 percent—15 points; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             51 percent or more—20 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Extent to which the work plan demonstrates a well thought out,
+            comprehensive approach to accomplishing the objectives of this part,
+            clearly defines who will be served by the project, and appears
+            likely to be sustainable. Up to 20 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Extent to which the goals and objectives are clearly defined, tied
+            to the work plan, and measurable. Up to 10 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Lowest ratio of projected administrative expenses to loans
+            advanced. 10 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Administrator&apos;s discretion, considering such factors as
+            creative outreach ideas for marketing HWWS loans to rural residents,
+            the amount of funds requested in relation to the amount of needs
+            demonstrated in the work plan, previous experiences demonstrating
+            excellent utilization of a revolving loan fund grant, and optimizing
+            the use of agency resources. Up to 10 points
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             All qualifying applications under this part will be scored based on
+            the criteria contained in this section. Awards will be made based on
+            the highest ranking applications and the amount of financial
+            assistance available for HWWS grants. All applicants will be
+            notified in writing of the score each application receives.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14368'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.10
+      </extid>
+      <num st='1'>
+        1776.10
+      </num>
+      <head>
+        Grant agreement.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          73 FR 68294
+        </aref>
+        , Nov. 18, 2008]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='10' psec='' tq='N'>
+              1776.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grant agreement.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             RUS and the grantee will enter into an agreement setting forth the
+            terms and conditions governing a particular HWWS grant award. RUS
+            will furnish the form of grant agreement. No funds awarded under
+            this part shall be disbursed to the grant recipient before the grant
+            agreement is binding and RUS has received a fully executed
+            counterpart of the grant agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The grantee or RUS may initiate an amendment or modification to the
+            grant agreement to provide for a loan limit up to $11,000. No change
+            in the grant agreement requested by the grant recipient will be
+            effective unless approved in writing by RUS.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            73 FR 68294
+          </aref>
+          , Nov. 18, 2008]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='14369'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.11
+      </extid>
+      <num st='1'>
+        1776.11
+      </num>
+      <head>
+        Revolving loan fund.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='11' psec='' tq='N'>
+              1776.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Revolving loan fund.
+        </SUBJECT>
+        <P>
+          The grant recipient shall establish and maintain a revolving loan fund
+          for the purposes set forth in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='12' psec='' tq='N'>
+              1776.12
+            </subref>
+          </aref>
+          . All loans made to loan recipients shall be drawn from the revolving
+          loan fund. The loans shall be serviced, and the revolving loan fund
+          shall be maintained, as set forth in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='17' psec='' tq='N'>
+              1776.17
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='14370'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.12
+      </extid>
+      <num st='1'>
+        1776.12
+      </num>
+      <head>
+        Use of HWWS grant proceeds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='12' psec='' tq='N'>
+              1776.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Use of HWWS grant proceeds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise provided in the next paragraph, HWWS grant
+            proceeds shall be used solely for the purpose of providing loans to
+            eligible individuals for the construction, refurbishing, and
+            servicing of individual household water well systems in rural areas
+            that are or will be owned by the eligible individuals.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A grant recipient may use HWWS grant funds to pay administrative
+            expenses associated with providing the assistance described in the
+            immediately preceding paragraph.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A grant recipient may not use grant funds in any manner
+            inconsistent with the terms of the grant agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14371'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:B:1776.13
+      </extid>
+      <num st='1'>
+        1776.13
+      </num>
+      <head>
+        Administrative expenses.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='13' psec='' tq='N'>
+              1776.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administrative expenses.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Subject to the limitations provided in paragraphs (b), (c) and (d)
+            of this section, the grant recipient may use grant funds to pay
+            administrative expenses associated with providing HWWS loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Administrative expenses incurred in any calendar year which exceed
+            10 percent of the HWWS loans made by the grant recipient during that
+            same period do not qualify for reimbursement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Administrative expenses incurred prior to the execution of the
+            grant agreement by RUS do not qualify for reimbursement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Allowability of administrative expense costs shall be determined in
+            accordance with 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3019' sect='27' psec='' tq='N'>
+                3019.27
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14372'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:C:1776.14
+      </extid>
+      <num st='1'>
+        1776.14
+      </num>
+      <head>
+        Eligibility to receive a HWWS loan.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='14' psec='' tq='N'>
+              1776.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility to receive a HWWS loan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The loan recipient must be an eligible individual.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The loan recipient must either own and occupy the home being
+            improved with the proceeds of the HWWS loan, or be occupying the
+            home as the purchaser under a legally enforceable land purchase
+            contract which is not in default by either the seller or the
+            purchaser.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The home using the water well system being funded from proceeds of
+            the HWWS loan must be located in a rural area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The water well system being funded from the proceeds of the HWWS
+            loan may not be associated with the construction of a new dwelling.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The water well system being funded from the proceeds of the HWWS
+            loan may not be used to substitute for water service available from
+            collective water systems. Example: Loan recipient wishes to restore
+            an old well which had been abandoned when the dwelling was connected
+            to a water line belonging to a water district.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             A loan recipient must not be suspended or debarred from
+            participation in Federal programs.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14373'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:C:1776.15
+      </extid>
+      <num st='1'>
+        1776.15
+      </num>
+      <head>
+        Terms of loans.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          70 FR 28788
+        </aref>
+        , May 19, 2005, as amended at 
+        <aref type='FREGIST'>
+          73 FR 68295
+        </aref>
+        , Nov. 18, 2008]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='15' psec='' tq='N'>
+              1776.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms of loans.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             HWWS loans under this part—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Shall have an interest rate of 1 percent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Shall have a term not to exceed 20 years; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Shall not exceed $11,000 for each household water well system.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The grant recipient must set forth the HWWS loan terms in written
+            documentation signed by the loan recipient.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Grant recipients must develop and use HWWS loan documentation that
+            conforms to the terms of this part, the grant agreement, and the
+            laws of the state or states having jurisdiction.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            70 FR 28788
+          </aref>
+          , May 19, 2005, as amended at 
+          <aref type='FREGIST'>
+            73 FR 68295
+          </aref>
+          , Nov. 18, 2008]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='14374'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:C:1776.16
+      </extid>
+      <num st='1'>
+        1776.16
+      </num>
+      <head>
+        Loan servicing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='16' psec='' tq='N'>
+              1776.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan servicing.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If RUS determines that HWWS loans may be serviced by CSC, then the
+            grant recipient will enter into an agreement with the Centralized
+            Servicing Center for servicing all HWWS loans made from the
+            revolving loan fund. All HWWS loan payments will be received by and
+            processed at the Centralized Servicing Center. The grant recipient
+            will be charged a fee for this service, and such fee should be
+            included in the projected financial statements and work plan
+            submitted as part of the grant application. This fee may be
+            reimbursed as an administrative expense as provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1776' sect='13' psec='' tq='N'>
+                1776.13
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If RUS determines that CSC is not able to service HWWS loans, then
+            the grant recipient shall be responsible for servicing, or causing
+            to be serviced, all HWWS loans. Servicing will include preparing
+            loan agreements, processing loan payments, reviewing financial
+            statements and debt reserves balances, and other responsibilities
+            such as enforcement of loan terms. Loan servicing will be in
+            accordance with the work plan RUS approved when the grant was
+            awarded. It will continue as long as any loan made in whole or in
+            part with RUS grant funds is outstanding.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14375'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1776:C:1776.17
+      </extid>
+      <num st='1'>
+        1776.17
+      </num>
+      <head>
+        Revolving loan fund maintenance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='17' psec='' tq='N'>
+              1776.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Revolving loan fund maintenance.
+        </SUBJECT>
+        <P>
+          As long as any part of the HWWS grant remains available for lending,
+          and loans made from the revolving loan fund have an outstanding
+          balance due, the grant recipient must maintain the revolving loan fund
+          for the purposes set forth in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1776' sect='13' psec='' tq='N'>
+              1776.13
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All HWWS grant funds received by a grant recipient must be
+            deposited into the revolving loan fund.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The grant recipient may transfer additional assets into the
+            revolving loan fund.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             All cash and other assets of the revolving loan fund shall be
+            deposited in a separate bank account or accounts.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             No cash or other assets of any other fund maintained by the grant
+            recipient shall be commingled with the cash and other assets of the
+            revolving loan fund.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             All moneys deposited in such bank account or accounts shall be
+            money of the revolving loan fund.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Loans to loan recipients are advanced from the revolving loan fund.
+            <PRTPAGE P='258' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The revolving loan fund will consist of receivables created by
+            making loans, the grant recipient&apos;s security interest in
+            collateral pledged by loan recipients, collections on the
+            receivables, interest, fees, and any other income or assets derived
+            from the operation of the revolving loan fund.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The portion of the revolving loan fund that consists of HWWS grant
+            funds, on a last-in-first-out basis, may be used for only those
+            purposes set forth in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The grant recipient must submit an annual budget of proposed
+            administrative costs for RUS approval. The amount removed from the
+            revolving loan fund for administrative costs in any year must be
+            reasonable; must not exceed the actual cost of operating the
+            revolving loan fund, including loan servicing and providing
+            technical assistance; and must not exceed the amount approved by RUS
+            in the grant recipient&apos;s annual budget.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             A reasonable amount of revolved funds must be used to create a
+            reserve for bad debts. Reserves should be accumulated over a period
+            of years. The total amount should not exceed maximum expected
+            losses, considering the quality of the grant recipient&apos;s
+            portfolio of loans. Unless the grant recipient provides loss and
+            delinquency records that, in the opinion of RUS, justifies different
+            amounts, a reserve for bad debts of 6 percent of outstanding loans
+            must be accumulated over three years and then maintained as set
+            forth in the grant agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             Any cash in the revolving loan fund from any source that is not
+            needed for debt service, approved administrative costs, or
+            reasonable reserves must be available for additional loans to loan
+            recipients.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+             All reserves and other cash in the revolving loan fund not
+            immediately needed for loans to loan recipients or other authorized
+            uses must be deposited in accounts in banks or other financial
+            institutions. Such accounts must be fully covered by Federal deposit
+            insurance or fully collateralized with U.S. Government obligations,
+            and must be interest bearing. Any interest earned thereon remains a
+            part of the revolving loan fund.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

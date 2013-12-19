@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:C:621
+    </extid>
+    <num>
+      621
+    </num>
+    <head>
+      RIVER BASIN INVESTIGATIONS AND SURVEYS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='CFR-TIC-SECT'>
+            Sec. 6
+          </aref>
+           (Pub. L. 83-566) 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=83_statutes2_at_large&amp;position=all&amp;page=666'>
+            68 Stat. 666
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='16' sect='1006' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1006.html'>
+              16 U.S.C. 1006
+            </subref>
+          </aref>
+          ).
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            48 FR 18788
+          </aref>
+          , Apr. 26, 1983, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6186'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:A:621.1
+      </extid>
+      <num st='1'>
+        621.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='1' psec='' tq='N'>
+              621.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This part describes policies, requirements, and procedures governing
+          the Department of Agriculture&apos;s (USDA&apos;s) investigations and
+          surveys of watersheds of rivers and other waterways as a basis for
+          developing coordinated programs. These activities are undertaken in
+          cooperation with other Federal, State, and local agencies. The
+          delegation of authority to the Natural Resources Conservation Service
+          (NRCS) to provide national leadership for the conservation,
+          development, and productive use of the Nation&apos;s soil, water, and
+          related resources, including the activities treated in this part is
+          found at 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2' sect='62' psec='' tq='N'>
+              2.62
+            </subref>
+             of this title
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='6187'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:A:621.2
+      </extid>
+      <num st='1'>
+        621.2
+      </num>
+      <head>
+        Scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='2' psec='' tq='N'>
+              621.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope.
+        </SUBJECT>
+        <P>
+          USDA river basin activities include:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Cooperative river basin surveys in coordination with Federal,
+            State, and local agencies;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Floodplain management assistance in coordination with the
+            responsible State agency and involved local governments;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Joint investigations and reports with the Department of the Army
+            under Pub. L. 87-639, 76 Statute 438 (
+            <aref type='USC'>
+              <subref title='16' sect='1009' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/1009.html'>
+                16 U.S.C. 1009
+              </subref>
+            </aref>
+            ); and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Interagency coordination of water resources activities.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6188'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:B:621.10
+      </extid>
+      <num st='1'>
+        621.10
+      </num>
+      <head>
+        Description.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='10' psec='' tq='N'>
+              621.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Description.
+        </SUBJECT>
+        <P>
+          Cooperative river basin studies provide USDA planning assistance to
+          Federal, State, and local governments. The purpose of these studies is
+          to assist in appraising water and related land resources; defining and
+          determining the extent of the problems; and formulating alternative
+          plans, including land treatment, nonstructural or structural measures,
+          or combinations thereof, that would solve existing problems or meet
+          existing and projected needs. These studies concentrate on specific
+          objectives identified by the requesting agencies and citizen groups
+          that are consistent with USDA authorities and responsibilities and
+          current NRCS priorities. The objectives ordinarily include the
+          formulation of a plan but may require only inventories of available
+          resources and associated problems to be used by other agencies in plan
+          
+          <PRTPAGE P='468' />
+          formulation. USDA assistance is provided through field advisory
+          committees composed of representatives of the Economic Research
+          Service, Forest Service, and NRCS. The NRCS representative chairs the
+          field advisory committee.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6189'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:B:621.11
+      </extid>
+      <num st='1'>
+        621.11
+      </num>
+      <head>
+        Who may obtain assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='11' psec='' tq='N'>
+              621.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who may obtain assistance.
+        </SUBJECT>
+        <P>
+          Assistance is available to conservation districts, communities. county
+          governments, regional planning boards, other planning groups, and
+          State and Federal agencies. Local groups express their desires for a
+          cooperative study to the governor or appropriate State agency.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6190'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:B:621.12
+      </extid>
+      <num st='1'>
+        621.12
+      </num>
+      <head>
+        How to request assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='12' psec='' tq='N'>
+              621.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How to request assistance.
+        </SUBJECT>
+        <P>
+          For a cooperative study a governor, or a Federal, State, or local
+          government agency must submit a written request and a Proposal to
+          Study (PTS) through the NRCS State Conservationist to the Chief.
+          Assistance in preparing the proposal may be obtained by contacting the
+          State Conservationist. The State Conservationist sends the request and
+          proposal with comments to the Chief for consideration. The proposal
+          should:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Describe the basin or study area, including a map of the study
+            area;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Explain the need for the study;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Explain the need for USDA participation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             State the responsibility and authority of the requesting agency in
+            the study;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Estimate the extent of participation of other Federal and State
+            agencies;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Discuss views and priorities of affected soil conservation
+            districts regarding the proposed study;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Briefly describe the intended management organization of the study;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Specifically describe the expected results of the study;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Identify primary users of the study results and the manner in which
+            the results will be used;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             State the relationship of the study to ongoing and completed river
+            basin studies;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+             State that procedures for informing clearinghouses and for
+            eliciting public participation will be followed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+             Estimate the duration and scope of the study; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+          </npcatch>
+          <text>
+             Estimate the study costs by year and agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6191'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:B:621.13
+      </extid>
+      <num st='1'>
+        621.13
+      </num>
+      <head>
+        Conditions for approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='13' psec='' tq='N'>
+              621.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conditions for approval.
+        </SUBJECT>
+        <P>
+          The Chief may authorize requested cooperative studies recommended by
+          the State Conservationist. Priority for starting cooperative studies
+          is based on the date of application, the readiness of the requesting
+          agency to begin participation, the importance and significance of
+          problems to be studied, the monetary or in-kind contributions toward
+          the study, the sequence of ongoing and future studies, the type of
+          study, the duration of study, the cost of study, the potential for
+          implementation and other factors affecting the effectiveness and
+          efficiency of the study. The number and location of cooperative
+          studies started each year are governed by the availability of USDA
+          funds and personnel.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6192'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:B:621.14
+      </extid>
+      <num st='1'>
+        621.14
+      </num>
+      <head>
+        Recipient responsibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='14' psec='' tq='N'>
+              621.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recipient responsibility.
+        </SUBJECT>
+        <P>
+          Leadership in arrangements for other needed Federal, State, and local
+          agency participation is responsibility of the requesting agency.
+          Consistent with national objectives and NRCS policy and procedures,
+          the requesting agency has leadership responsibility for developing
+          specific study objectives, providing the necessary study organization,
+          and ensuring public participation in the planning process.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6193'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:C:621.20
+      </extid>
+      <num st='1'>
+        621.20
+      </num>
+      <head>
+        Description.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='20' psec='' tq='N'>
+              621.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Description.
+        </SUBJECT>
+        <P>
+          Floodplain management studies provide needed information and
+          assistance to local and State entities so that they can implement
+          programs for reducing existing and future flood damages in rural and
+          urban communities. Assistance is targeted to communities where flood
+          damage is a serious concern and local governments are sincerely
+          interested in taking action to reduce damage.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6194'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:C:621.21
+      </extid>
+      <num st='1'>
+        621.21
+      </num>
+      <head>
+        Who may obtain assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='21' psec='' tq='N'>
+              621.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who may obtain assistance.
+        </SUBJECT>
+        <P>
+          Assistance is available to conservation districts, communities, county
+          
+          <PRTPAGE P='469' />
+          governments, regional planning boards, other planning groups, and
+          State and Federal agencies.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6195'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:C:621.22
+      </extid>
+      <num st='1'>
+        621.22
+      </num>
+      <head>
+        How to request assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='22' psec='' tq='N'>
+              621.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How to request assistance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A conservation district, local community or other jurisdiction may
+            request floodplain management assistance for a local area for which
+            they are responsible, by letter to the governor or the agency of
+            State government responsible for floodplain management activities.
+            Assistance in making application may be obtained by contacting any
+            NRCS office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The governor or his designee may request floodplain management
+            assistance for the State by submitting a written request to the
+            State Conservationist.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6196'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:C:621.23
+      </extid>
+      <num st='1'>
+        621.23
+      </num>
+      <head>
+        Conditions for approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='23' psec='' tq='N'>
+              621.23
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conditions for approval.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             USDA floodplain management studies are authorized by the Director
+            of the Basin and Area Planning Division. Priority for starting
+            floodplain management studies is based on the same factors as for
+            USDA Cooperative Studies as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='621' sect='13' psec='' tq='N'>
+                621.13
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A study for an individual community may be started upon completion
+            of a plan of work in which the Director of the Basin and Area
+            Planning Division concurs and for which funds are available.
+            Preparation of the plan of work is the responsibility of and must be
+            approved by the applicant, the responsible State agency, and the
+            State Conservationist. The plan sets forth the responsibilities of
+            the applicant, the State, and USDA in carrying out the study and
+            interpreting and using the data in a local floodplain management
+            program. The State agency responsible for floodplain management
+            activities may establish priorities on which to base the sequence of
+            approval of floodplain management studies within its State. The
+            number of studies started each Federal fiscal year is governed by
+            the availability of funds and personnel and the amount of State and
+            local assistance available.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             States and communities are encouraged to make monetary or in-kind
+            contributions toward the floodplain management study. The State and
+            local share may reflect in-kind contributions in lieu of fund
+            transfers.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6197'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:C:621.24
+      </extid>
+      <num st='1'>
+        621.24
+      </num>
+      <head>
+        NRCS responsibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='24' psec='' tq='N'>
+              621.24
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          NRCS responsibility.
+        </SUBJECT>
+        <P>
+          NRCS is responsible for providing leadership for scheduling and
+          implementing the technical phases of the studies and preparing the
+          reports. NRCS assists in interpreting the study results.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6198'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:C:621.25
+      </extid>
+      <num st='1'>
+        621.25
+      </num>
+      <head>
+        Recipient responsibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='25' psec='' tq='N'>
+              621.25
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recipient responsibility.
+        </SUBJECT>
+        <P>
+          The State agency is responsible for developing State priorities for
+          floodplain management studies and coordinating this work with related
+          activities in the State. The cooperating local government entity is
+          responsible for obtaining permission for carrying out field surveys.
+          The State and local participants assist in distributing and
+          interpreting the report and providing public information and
+          educational services.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6199'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:D:621.30
+      </extid>
+      <num st='1'>
+        621.30
+      </num>
+      <head>
+        Description.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='30' psec='' tq='N'>
+              621.30
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Description.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             As provided by Pub. L. 87-639, joint investigations and reports by
+            USDA and the Department of the Army may be authorized by resolutions
+            adopted by the Committee on Environment and Public Works of the U.S.
+            Senate or the Committee on Public Works and Transportation of the
+            U.S. House of Representatives for any watershed area in the 50
+            States, the Commonwealth of Puerto Rico, and the U.S. Virgin Islands
+            if the nature of the watershed area problems dictates need for a
+            joint effort by the two Departments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Authorized joint investigations and reports are made to determine
+            works of improvement needed in the study area for flood prevention;
+            for the conservation, development, use, and disposal of water; for
+            flood control; for the conservation and proper use of land; and for
+            allied purposes. The joint report to Congress may include a water
+            and related land resources plan recommended for implementation. Such
+            an implementation plan must be accompanied by an environmental
+            impact statement (EIS) and must be in sufficient detail to permit
+            its implementation.
+            <PRTPAGE P='470' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             As mutually agreed by USDA and the Department of the Army Corps of
+            Engineers, the report and EIS are forwarded to Congress through
+            appropriate channels after technical, public, and interagency
+            reviews in accordance with NRCS policy as described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='622' sect='34' psec='' tq='N'>
+                622.34
+              </subref>
+            </aref>
+            , or in accordance with the Corps of Engineers&apos; policy
+            concerning technical and public review. Implementation of these
+            plans is contingent on congressional action.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6200'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:D:621.31
+      </extid>
+      <num st='1'>
+        621.31
+      </num>
+      <head>
+        Who may request assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='31' psec='' tq='N'>
+              621.31
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who may request assistance.
+        </SUBJECT>
+        <P>
+          Any organization, group, or State or local government may request
+          assistance.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6201'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:D:621.32
+      </extid>
+      <num st='1'>
+        621.32
+      </num>
+      <head>
+        How to request assistance.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='32' psec='' tq='N'>
+              621.32
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How to request assistance.
+        </SUBJECT>
+        <P>
+          Applicants for a joint investigation and report should request their
+          congressional representative(s) to initiate appropriate action under
+          Pub. L. 87-639.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6202'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:D:621.33
+      </extid>
+      <num st='1'>
+        621.33
+      </num>
+      <head>
+        Conditions for approval.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='33' psec='' tq='N'>
+              621.33
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Conditions for approval.
+        </SUBJECT>
+        <P>
+          A joint investigation and report is authorized by a resolution of the
+          Committee on Environment and Public Works of the U.S. Senate or the
+          Committee on Public Works and Transportation of the U.S. House of
+          Representatives. Studies are initiated when funds for them are
+          appropriated by the Congress.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6203'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:D:621.34
+      </extid>
+      <num st='1'>
+        621.34
+      </num>
+      <head>
+        Recipient responsibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='34' psec='' tq='N'>
+              621.34
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Recipient responsibility.
+        </SUBJECT>
+        <P>
+          Participating local and State governments work with USDA and the
+          Department of the Army representatives in developing objectives,
+          collecting data, analyzing problems, planning and formulating
+          proposals, and considering financial plans. Active public
+          participation is solicited in the planning process through means such
+          as questionnaires, public meetings, citizen advisory boards, and
+          technical committees.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6204'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:E:621.40
+      </extid>
+      <num st='1'>
+        621.40
+      </num>
+      <head>
+        Participation in Federal interagency policy activities at the national
+        level.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='40' psec='' tq='N'>
+              621.40
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Participation in Federal interagency policy activities at the national
+          level.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Policy development in water and related land resources is
+            coordinated at the Federal level through the Cabinet Council on
+            Natural Resources and Environment. NRCS provides staff support and
+            representation in these activities as requested.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Within the Department, all interested USDA agencies participate in
+            water policy development through the USDA Committee on Natural
+            Resources and Environment and the Water Issues Work Group.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS provides appropriate staff support when requested for
+            committees, work groups, and task forces established for interagency
+            coordination of water resources related activities of Federal
+            agencies.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6205'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:E:621.41
+      </extid>
+      <num st='1'>
+        621.41
+      </num>
+      <head>
+        Participation in Federal-State policy and planning activities at the
+        regional level.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='41' psec='' tq='N'>
+              621.41
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Participation in Federal-State policy and planning activities at the
+          regional level.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS has a responsibility to represent the Department when needed
+            to assist regional water planning entities and interagency
+            committees which coordinate water resources planning activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For the Arkansas-White-Red Basin Interagency Committee (AWRBIAC)
+            and the Pacific Southwest Interagency Committee (PSIAC), the USDA
+            member periodically serves as chairperson and provides an executive
+            secretary. For the Southeast Basin Interagency Committee (SEBIAC),
+            NRCS periodically provides an executive secretary for the
+            chairperson, who is a State government official.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Under the leadership of NRCS, other USDA agencies, principally the
+            Forest Service and Economic Research Service, also participate.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6206'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:E:621.42
+      </extid>
+      <num st='1'>
+        621.42
+      </num>
+      <head>
+        Federal-State compacts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='42' psec='' tq='N'>
+              621.42
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Federal-State compacts.
+        </SUBJECT>
+        <P>
+          NRCS is designated to represent USDA in assisting the U.S.
+          Commissioners of the Delaware River Basin Commission and the
+          Susquehanna River Basin Commission. In carrying out this
+          responsibility, NRCS provides a liaison officer to work with the U.S.
+          Commissioners on policy level matters, as well as providing the USDA
+          representatives on the Federal field committees to assist the
+          Commissioners.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6207'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:E:621.43
+      </extid>
+      <num st='1'>
+        621.43
+      </num>
+      <head>
+        Interstate compacts and commissions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='43' psec='' tq='N'>
+              621.43
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interstate compacts and commissions.
+        </SUBJECT>
+        <P>
+          As assigned, an NRCS State Conservationist is the USDA point of
+          contact for governing bodies of interstate compacts and commissions
+          concerned 
+          <PRTPAGE P='471' />
+          with the conservation, development, and proper use of water, soil, and
+          related resources.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6208'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:E:621.44
+      </extid>
+      <num st='1'>
+        621.44
+      </num>
+      <head>
+        Special studies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='44' psec='' tq='N'>
+              621.44
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Special studies.
+        </SUBJECT>
+        <P>
+          As designated, NRCS represents USDA on special study groups such as
+          for the Colorado River Basin Salinity Control Program Studies.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6209'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:621:E:621.45
+      </extid>
+      <num st='1'>
+        621.45
+      </num>
+      <head>
+        Flood insurance studies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='621' sect='45' psec='' tq='N'>
+              621.45
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Flood insurance studies.
+        </SUBJECT>
+        <P>
+          As requested by the Federal Emergency Management Agency (FEMA), and
+          within the limits of available resources, NRCS carries out flood
+          insurance studies of various types under the National Flood Insurance
+          Program (Pub. L. 90-448, 82 Statute, 574 (
+          <aref type='USC'>
+            <subref title='42' sect='4012' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/4012.html'>
+              42 U.S.C. 4012
+            </subref>
+          </aref>
+          )), as amended. In this activity, NRCS performs detailed technical
+          studies to determine the extent and frequency of flooding. The flood
+          insurance program is administered by FEMA. NRCS is reimbursed by that
+          agency for actual costs incurred in carrying out the studies. Local
+          entities desiring flood insurance coverage should contact the
+          responsible State agency or FEMA and apply in accordance with
+          procedures of that agency.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

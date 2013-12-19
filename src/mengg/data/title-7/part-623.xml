@@ -1,0 +1,2430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:C:623
+    </extid>
+    <num>
+      623
+    </num>
+    <head>
+      EMERGENCY WETLANDS RESERVE PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='3837-383' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/3837-383.html'>
+              16 U.S.C. 3837-383
+            </subref>
+          </aref>
+          7f; 
+          <aref target='_blank' title='Pub. L. 103-75' alt='Pub. L. 103-75' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:75%28Public_Laws%29'>
+            Pub. L. 103-75
+          </aref>
+          , Chapter 1, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=103_statutes_at_large&amp;position=all&amp;page=739'>
+            107 Stat. 739, 742
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            58 FR 62497
+          </aref>
+          , Nov. 29, 1993, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6224'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.1
+      </extid>
+      <num st='1'>
+        623.1
+      </num>
+      <head>
+        Purpose and scope.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='1' psec='' tq='N'>
+              623.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and scope.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations in this part set forth the policies, procedures,
+            and requirements for the Emergency Wetlands Reserve Program (EWRP).
+            Under the EWRP, NRCS will make offers to purchase wetland
+            conservation easements from persons owning croplands that were
+            damaged by the 1993 Midwest floods if those lands have the potential
+            for restoration to wetland conditions and if the owner voluntarily
+            agrees to restore and maintain those conditions. The easements are
+            to be purchased to promote the restoration and maintenance of
+            wetland characteristics, such as hydrologic conditions of inundation
+            or saturation of the soil and hydrophytic vegetation. The functions
+            and values of the wetlands for wildlife habitat, water quality
+            improvement, flood water retention, floodway enhancement, ground
+            water recharge, open space, aesthetic values, and environmental
+            education will thus be promoted. The wetland conservation easements
+            will permanently prohibit use of 
+            <PRTPAGE P='475' />
+            the affected land as cropland. Additionally, the easement shall
+            require permanent maintenance of the wetland conditions, except in
+            the case of natural disaster.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The EWRP is available only in the following States: Illinois, Iowa,
+            Kansas, Minnesota, Missouri, Nebraska, South Dakota, and Wisconsin.
+            Certain cropland areas within these States have been determined to
+            have been inundated by the Midwest floods of 1993. As more fully
+            defined and described in this part, eligible land may include farmed
+            wetlands or prior converted wetlands (wetlands converted prior to
+            December 23, 1985), together with adjacent lands on which the
+            wetlands are functionally dependent so long as the likelihood of
+            successful restoration of such land and the potential wetland values
+            merit inclusion in the program with reasonable costs.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6225'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.2
+      </extid>
+      <num st='1'>
+        623.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='2' psec='' tq='N'>
+              623.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions shall be applicable for the purposes of this
+          part:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Agricultural commodity—
+            </head>
+          </npcatch>
+          <text>
+            means any crop planted and produced by annual tilling of the soil,
+            or on an annual basis by one trip planters, or alfalfa and other
+            multiyear grasses and legumes in rotation as approved by the
+            Secretary. For purposes of determining crop history, as relevant to
+            eligibility to enroll land in the program, land shall be “considered
+            planted to an agricultural commodity” during a crop year if, as
+            determined by ASCS, as action of the Secretary prevented land from
+            being planted to the commodity during the crop year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Applicant—
+            </head>
+          </npcatch>
+          <text>
+            means a person who submits to NRCS an application to participate in
+            the EWRP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Commodity Credit Corporation—
+            </head>
+          </npcatch>
+          <text>
+            a wholly owned government corporation within the U.S. Department of
+            Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Conservation District
+            </E>
+             (CD)—means a subdivision of a State or local government organized
+            pursuant to applicable State law to promote soil and water
+            conservation practices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Conservation Reserve Program—
+            </head>
+          </npcatch>
+          <text>
+            means the program under which long-term payments and cost-share
+            assistance is provided to individuals to establish permanent
+            vegetative cover on cropland that is highly erodible or
+            environmentally sensitive.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Prior converted wetland—
+            </head>
+          </npcatch>
+          <text>
+            means wetland that has been drained, dredged, filled, leveled, or
+            otherwise manipulated (including any activity that results in
+            impairing or reducing the flow, circulation, or reach of water)
+            prior to December 23, 1985, for the purpose, or that has the effect,
+            of making the production of agricultural commodities possible if
+            such production would not have been possible but for such action.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Cost-share payment—
+            </head>
+          </npcatch>
+          <text>
+            means the payment made by NRCS to assist program participants in
+            establishing the practices required in a WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Chief—
+            </head>
+          </npcatch>
+          <text>
+            means the Chief of the Natural Resources Conservation Service, or
+            the Chief&apos;s designee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Easement—
+            </head>
+          </npcatch>
+          <text>
+            means the real property interest acquired by NRCS under this part
+            for wetland restoration and maintenance and which is properly filed
+            with the appropriate local or State government official.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Easement area—
+            </head>
+          </npcatch>
+          <text>
+            means the land to which the approved wetland restoration practices
+            and wetland conservation restrictions are to be applied.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Fair market value (FMV)—
+            </head>
+          </npcatch>
+          <text>
+            means the price that a willing seller would accept and a willing
+            buyer would pay in an open, informed transaction.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+            <head>
+              Farmed wetland—
+            </head>
+          </npcatch>
+          <text>
+            means wetland that was drained, dredged, filled, or otherwise
+            manipulated prior to December 23, 1985 to the extent that the
+            production of agricultural commodities was made possible, but which
+            continues to meet wetland criteria [refer to 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='12' sect='32' psec='#a_3' tq='N'>
+                12.32(a)(3)
+              </subref>
+            </aref>
+             for descriptions of farmed wetlands].
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+            <head>
+              Floodwater control systems—
+            </head>
+          </npcatch>
+          <text>
+            means dikes, levees, or other similar structural measures for the
+            protection of cropland from flooding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='n'>
+            <enum src='gpotxt' cln='1'>
+              (n)
+            </enum>
+            <head>
+              FWS—
+            </head>
+          </npcatch>
+          <text>
+            means the Fish and Wildlife Service of the United States Department
+            of the Interior.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='o'>
+            <enum src='gpotxt' cln='1'>
+              (o)
+            </enum>
+            <head>
+              Local NRCS office—
+            </head>
+          </npcatch>
+          <text>
+            means the office of the Natural Resources Conservation Service
+            serving the county or combination of counties in which the
+            landowner&apos;s farm or ranch is located.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='p'>
+            <enum src='gpotxt' cln='1'>
+              (p)
+            </enum>
+            <head>
+              Participant—
+            </head>
+          </npcatch>
+          <text>
+            means a person(s) owning land subject to a perfected 
+            <PRTPAGE P='476' />
+            easement purchased by the Natural Resources Conservation Service
+            under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='q'>
+            <enum src='gpotxt' cln='1'>
+              (q)
+            </enum>
+            <head>
+              Offer—
+            </head>
+          </npcatch>
+          <text>
+            means the total payment NRCS will make to a landowner to purchase an
+            easement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='r'>
+            <enum src='gpotxt' cln='1'>
+              (r)
+            </enum>
+            <head>
+              Permanent easement—
+            </head>
+          </npcatch>
+          <text>
+            means an easement in perpetuity.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='s'>
+            <enum src='gpotxt' cln='1'>
+              (s)
+            </enum>
+            <head>
+              Substantially altered lands—
+            </head>
+          </npcatch>
+          <text>
+            means lands which have not been and are not now wetlands but could
+            likely develop wetland characteristics in the future, as a result of
+            the Midwest floods of 1993.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='t'>
+            <enum src='gpotxt' cln='1'>
+              (t)
+            </enum>
+            <head>
+              Practice—
+            </head>
+          </npcatch>
+          <text>
+            means the wetland and easement area development restoration measures
+            agreed to in the WRPO to accomplish the desired program objectives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='u'>
+            <enum src='gpotxt' cln='1'>
+              (u)
+            </enum>
+            <head>
+              Technical assistance—
+            </head>
+          </npcatch>
+          <text>
+            means the assistance provided to land owners to facilitate
+            implementation of the WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+            <head>
+              Wetland—
+            </head>
+          </npcatch>
+          <text>
+            means land that (1) has a predominance of hydric soils; (2) is
+            inundated or saturated by surface or groundwater at a frequency and
+            duration sufficient to support a prevalence of hydrophytic
+            vegetation typically adapted for life in saturated soil conditions;
+            and (3) does support a prevalence of such vegetation under normal
+            circumstances.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6226'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.3
+      </extid>
+      <num st='1'>
+        623.3
+      </num>
+      <head>
+        Eligible person.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='3' psec='' tq='N'>
+              623.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible person.
+        </SUBJECT>
+        <P>
+          To be eligible to participate in the EWRP, a person must be the owner
+          of eligible land for which enrollment is sought and must have been the
+          owner of such land for at least the preceding 12 months prior to the
+          time the enrollment offer is declared by NRCS, as provided in this
+          part. The person shall provide to NRCS adequate proof of ownership of
+          the land. NRCS may waive the 12 month ownership requirement if:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The land was acquired by will or succession as a result of the
+            death of the previous owner; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Adequate assurances have been presented that the new owner of such
+            land did not acquire such land for the purpose of placing it in the
+            EWRP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6227'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.4
+      </extid>
+      <num st='1'>
+        623.4
+      </num>
+      <head>
+        Eligible land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='4' psec='' tq='N'>
+              623.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise provided in this section, land is eligible for
+            enrollment in the EWRP only if NRCS determines that the land:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Was inundated by the Midwest floods of 1993;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If restored to productive condition, would have a fair market value
+            that is less than the estimated costs of restoring the land to
+            productive condition and repairing related floodwater control
+            systems;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Is likely to have its wetland value restored with minimal costs;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Is wetland farmed under natural conditions, a farmed wetland or
+            prior converted wetland, or substantially altered lands which are
+            cropland; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Is wetland that has been restored on the land under a CRP contract,
+            or under a Federal or State wetland restoration program with an
+            easement for a period of less than 30 years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To be eligible for enrollment in the EWRP, land must also:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be determined by ASCS to have been annually planted or considered
+            planted to an agricultural commodity in at least 1 of the 5 previous
+            crop years; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be land under a CRP contract, in which case, the land need only to
+            have been planted to an agricultural commodity during 2 of the 1981
+            through 1985 crop years.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Other lands may be considered eligible if the inclusion of such
+            lands in the EWRP easement would significantly add to the functions
+            and values of the wetlands to be restored under this part, as
+            determined by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The criteria and procedures contained in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='12' tq='N'>
+                12
+              </subref>
+            </aref>
+             will be used to identify wetlands, converted wetlands, and farmed
+            wetlands.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6228'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.5
+      </extid>
+      <num st='1'>
+        623.5
+      </num>
+      <head>
+        Ineligible land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='5' psec='' tq='N'>
+              623.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Ineligible land.
+        </SUBJECT>
+        <P>
+          Notwithstanding any other provisions of this part, the following land
+          is not eligible for enrollment in the EWRP:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Land that contains either timber stands or trees established in
+            connection with a CRP contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Lands owned or acquired by an agency of the Federal Government;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Land already subject to a deed restriction prohibiting the
+            production of agricultural commodities or the alternation of
+            existing wetland hydrologic conditions;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Land located between the pre-flood mainstem levees and the river;
+            or
+            <PRTPAGE P='477' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Land that was restored to wetland conditions, as required under 
+            <aref type='CFR-TIC-PART'>
+              Part 
+              <subref title='7' part='12' tq='N'>
+                12 of this title
+              </subref>
+            </aref>
+            , to mitigate the conversion of wetland to cropland use.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6229'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.6
+      </extid>
+      <num st='1'>
+        623.6
+      </num>
+      <head>
+        Transfer of lands from the CRP to the EWRP.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='6' psec='' tq='N'>
+              623.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Transfer of lands from the CRP to the EWRP.
+        </SUBJECT>
+        <P>
+          Land that is subject to an existing CRP contract administered under 
+          <aref type='CFR'>
+            7 CFR parts 
+            <subref title='7' part='704' tq='N'>
+              704
+            </subref>
+             and 
+            <subref title='7' part='1410' tq='N'>
+              1410
+            </subref>
+          </aref>
+           may be transferred into the EWRP only if:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The land and landowner(s) meet the requirements of this part; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The application for transfer into the EWRP is approved by Commodity
+            Credit Corporation (CCC), if found to be in the interest of the
+            program. If such transfer is requested by the owner and approved by
+            CCC, the CRP contract for the property will be terminated or
+            otherwise modified subject to such terms and conditions as are
+            mutually agreed by the landowner, CCC, and NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6230'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.7
+      </extid>
+      <num st='1'>
+        623.7
+      </num>
+      <head>
+        Terms of the easement.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='7' psec='' tq='N'>
+              623.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Terms of the easement.
+        </SUBJECT>
+        <P>
+          Landowners will grant to NRCS an easement which shall run with the
+          land and be in favor of NRCS and its assigns or delegates. The
+          easement shall require the land to be monitored as specified by the
+          WRPO to promote the purposes of this part, including but not limited
+          to maintenance of the restored wetland for entire length of the
+          easement. Such easement shall: (a) be a permanent reserve interest
+          easement; (b) require that the maintenance of the land be in
+          accordance with the terms of the easement and with the terms of the
+          WRPO and shall be the responsibility of the owners of the property and
+          their successors of any kind, including, but not limited to, the
+          owners&apos; heirs and assigns; (c) grant to NRCS a right of access in
+          favor of NRCS and its delegates, assigns and successors of any kind,
+          to the portion of the property which is subject to the provisions of
+          the easement. Maintenance of such access shall be the responsibility
+          of the owner and their successors of any kind; (d) reserve to NRCS the
+          right to permit such compatible uses of the easement area as may be
+          identified in the WRPO; (e) reserve to the landowner those compatible
+          uses identified in the WRPO that are permitted to be pursued by the
+          landowner; (f) be signed by each person with an interest of any kind
+          in the land covered by the easement; (g) permanently prohibit use of
+          the easement area for cropland, except to harvest an agricultural
+          commodity planted before the easement is perfected; and (h) require
+          permanent maintenance of the wetland conditions, except in the case of
+          natural disaster.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6231'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.8
+      </extid>
+      <num st='1'>
+        623.8
+      </num>
+      <head>
+        Easement value.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='8' psec='' tq='N'>
+              623.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Easement value.
+        </SUBJECT>
+        <P>
+          NRCS offers for easements will be based on the fair market value, as
+          determined by the NRCS State Conservationist, of the land covered by
+          the easements. Fair market value will be based on post-flood
+          conditions as if reclaimed. Land easement values will be determined by
+          the State Conservationist in consultation with a technical committee.
+          A technical committee shall included representatives of: ASCS,
+          Extension Service, and FWS. Additionally, the State Conservationist
+          may collect information from other sources as he deems necessary.
+          Coordination between States will be provided by the Chief, NRCS.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6232'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.9
+      </extid>
+      <num st='1'>
+        623.9
+      </num>
+      <head>
+        Easement priority.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='9' psec='' tq='N'>
+              623.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Easement priority.
+        </SUBJECT>
+        <P>
+          The State Conservationist, in consultation with the FWS and with input
+          from a technical committee and other interested Federal agencies, will
+          establish a ranking process to establish the priority of parcels
+          offered into the EWRP. This process will rank the floodway enhancement
+          and environmental benefits per dollar of government expenditure on
+          restoration and easement purchase. The factors for determining the
+          priority for selection will consider the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Protection and enhancement of habitat for migratory birds and
+            wildlife, including the contribution the restoration may make to the
+            recovery of threatened and endangered species,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Floodway expansion,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Proximity to other protected wetlands,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Level of hydrology restored,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Wetland function or values,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Likelihood of successful restoration of wetland values,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Cost of restoration and easement purchase, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Other factors as determined appropriate by NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6233'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.10
+      </extid>
+      <num st='1'>
+        623.10
+      </num>
+      <head>
+        Application to participate.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='478' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='10' psec='' tq='N'>
+              623.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application to participate.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A person seeking to enroll land in the EWRP must apply for
+            enrollment on an approved NRCS form. The application to participate
+            must be filed with the local NRCS field office during an announced
+            period for such submissions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A person submitting an application to participate shall not be
+            obligated to accept an NRCS offer to purchase an easement if one is
+            forthcoming.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             An application to participate must be signed by all owners of the
+            property or their duly authorized representative(s).
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6234'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.11
+      </extid>
+      <num st='1'>
+        623.11
+      </num>
+      <head>
+        Obligations of the landowner.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='11' psec='' tq='N'>
+              623.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Obligations of the landowner.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All owners of land who accept an EWRP offer from NRCS shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with the terms of the easement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with all terms and conditions of the WRPO for the full life
+            of the easement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Ensure that the easement granted to NRCS is superior to the
+            interest of all other parties who may have an interest in the
+            easement area, except as authorized by NRCS. Such action shall
+            include, but not be limited to, obtaining a written statement of
+            consent to such a superior easement from those holding a security
+            interest or any other encumbrance or the land covered by the
+            easement. Additionally, the landowner shall perfect the easement
+            with superior NRCS interest in accordance with State law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to the permanent retirement of the aggregate total of crop
+            acreage bases, and allotment and mandatory quota on the farm or
+            ranch in order to maintain the base allotment on quota acres at or
+            below the number of acres of cropland after the easement has been
+            perfected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Not allow grazing or commercial use of the land covered by an
+            easement except as provided for in the WRPO, or harvesting of any
+            agricultural commodity produced on the land subject to the EWRP
+            easement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with Federal or State noxious week laws in the manner
+            specified in the WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Control other identified weed and pest species, in the manner
+            specified in the WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Be responsible for repairs, improvements, and inspections of the
+            WRPO practices as necessary to maintain existing public drainage
+            systems when the land is restored to the condition required by the
+            terms of the easement, the contract, and the easement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Be permitted to control public access, in accordance with the WRPO,
+            on the land enrolled in the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Implement any additional provisions that are required by NRCS in
+            consultation with FWS in the contract, WRPO, or easement, in order
+            to, as determined by NRCS, facilitate the administration of the
+            EWRP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Not alter the vegetation, except to harvest already planted crops
+            or forage, or hydrology on such acres subsequent to perfection of
+            the easement by the landowner, except as provided for in the
+            easement or WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Be responsible for the long-term management of the easement in
+            accordance with the terms of the easement and related agreements
+            including the WRPO. Owners may enter into agreements with Federal or
+            State agencies or private organizations to assist in the management
+            of the easement area. No NRCS funds will be provided to these
+            agencies or organizations for management expenses. Responsibility
+            for management of the easement shall in all cases remain with the
+            owner and the owner&apos;s successors of any kind regardless of
+            whether arrangements are made for third-party management.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+          </npcatch>
+          <text>
+             Agree that each person with an interest in the land covered by an
+            easement under EWRP shall be jointly and severally responsible for
+            compliance with the WRPO, the easement, the provisions of this part,
+            and for any refunds or payment adjustment which may be required for
+            violation of any terms or conditions of the WRPO, the easement, or
+            provisions of this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_14'>
+            <enum src='gpotxt' cln='1'>
+              (14)
+            </enum>
+          </npcatch>
+          <text>
+             Refrain from taking any action on the easement area unless
+            specifically authorized in the reserve interest easement or the
+            WRPO; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_15'>
+            <enum src='gpotxt' cln='1'>
+              (15)
+            </enum>
+          </npcatch>
+          <text>
+             Secure any necessary local, State and Federal permits prior to
+            commencing restoration of the designated area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In addition, program participants and their successors of any kind
+            may:
+            <PRTPAGE P='479' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Not alter wildlife habitat and other natural land features of the
+            enrolled land unless authorized by the WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Apply pesticides or fertilizers on enrolled land or mow such land,
+            only as provided for in the WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Not engage in any activities on other land on the farm on which the
+            easement exists that will, as determined by NRCS; (i) alter the flow
+            of surface or subsurface water into or out of the easement area
+            except as specified in the WRPO; or (ii) be otherwise inconsistent
+            with the terms of the easement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The activities of any person on the property shall be considered
+            for purposes of this section to be the actions of the program
+            participant. However, if the NRCS determines that the activities of
+            the person were beyond the control of the program participants, NRCS
+            may adjust the remedies provided for in this part to the extent
+            determined consistent with program goals. Obligations created by the
+            easement shall run with the land and shall bind all persons having
+            an interest in the property at any time whether such interest is
+            created by death of the owner, sale, assignment, or otherwise.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6235'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.12
+      </extid>
+      <num st='1'>
+        623.12
+      </num>
+      <head>
+        Payments to landowners by NRCS.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='12' psec='' tq='N'>
+              623.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments to landowners by NRCS.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will share the cost with landowners of rehabilitating the
+            enrolled land in the EWRP as provided in the WRPO. The amount of the
+            cost-share assistance shall be specified in the contract. Eligible
+            costs for such cost-share assistance by NRCS shall only include
+            those costs which NRCS determines are appropriate and shall be
+            subject to the following restrictions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will establish cost-share rates of
+            between 75 to 100 percent of the historical cost of establishing or
+            installing the practices specified in the WRPO; or pay the average
+            cost of establishing the practices specified in the WRPO, based on
+            the historical cost of establishing the practices in the State;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Cost-share payments may be made only upon a determination that an
+            approved practice or an identifiable unit of the practice has been
+            completed in compliance with NRCS approved standards and
+            specifications; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Cost-share payments may not be made for the maintenance of the
+            practice except as specifically permitted in writing by the State
+            Conservationist.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding paragraph (a)(3) of this section, cost share
+            payments may be authorized for the replacement or restoration of
+            practices for which cost share assistance has been previously
+            allowed under the EWRP, but only if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Replacement or restoration of the practice is needed to meet the
+            objectives for which the easement was established; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The failure of the original practice was due to reasons beyond the
+            control of the participant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS shall pay the amount agreed upon by NRCS and the landowner for
+            the purchase of the easement in a lump-sum amount after the easement
+            is perfected in compliance with State law, except in the case of
+            paragraph (c)(2) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For all easements, NRCS shall pay no more than 75 percent of the
+            total easement price pending completion of the practices to restore
+            the wetlands as provided under the WRPO. The remaining amount shall
+            be paid when NRCS determines the restoration is complete.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             After an easement is perfected, NRCS will reimburse landowners for
+            fair and reasonable expenses incurred for title searches, filing
+            expenses, and related costs, as determined by NRCS.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6236'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.13
+      </extid>
+      <num st='1'>
+        623.13
+      </num>
+      <head>
+        Wetlands reserve plan of operations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='13' psec='' tq='N'>
+              623.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Wetlands reserve plan of operations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             After NRCS has accepted the applicant for enrollment in the
+            program, a WRPO will be developed by the landowner and NRCS, in
+            consultation with FWS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The WRPO shall:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Include an aerial photo displaying the land offered for enrollment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Specify the manner in which the eligible land shall be restored,
+            operated, and maintained to accomplish the goal of the program,
+            including, but not limited to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Measures to control noxious weeds and insect pests in order to
+            comply with applicable Federal, or State noxious weed and pest
+            control laws; and
+            <PRTPAGE P='480' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Measures to control other specified species of weeds, insects or
+            pests;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Specify compatible land uses for personal enjoyment for which the
+            landowner may be compensated. These compatible land uses shall be
+            reserved to the landowner in the easement. Such uses may include,
+            among others:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Recreational use, hunting and fishing;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Manage timber production including harvesting; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Managed haying or grazing consistent with the goals of the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Set out cost estimates of the practices required by the WRPO, the
+            offer for the easement, and other reimbursement costs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Identify access routes to be maintained for wetland restoration
+            activities and future management and easement monitoring in
+            connection with the land to be enrolled;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Make provisions deemed necessary for maintaining public drainage
+            systems if present on lands subject to the WRPO;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Contain scheduled implementation dates for restoration practices;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Contain other provisions or limitations as NRCS, in consultation
+            with the FWS, determines to be necessary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS in consultation with FWS will collect from State or Federal
+            agencies whatever additional information is deemed necessary for the
+            development of the WRPO with the landowner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The WRPO must be signed by NRCS, FWS, Conservation District (CD),
+            and the landowner(s). However, if agreement between NRCS and FWS, or
+            CD at the local level is not reached within 20 calendar days, the
+            WRPO shall be developed by the State Conservationist of NRCS in
+            consultation with FWS or CD.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The WRPO may require that a temporary vegetative or water cover be
+            established on the property if immediate establishment of a
+            permanent cover is not practicable or otherwise desirable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The terms of an approved WRPO shall not relieve the program
+            participant of any obligation or term imposed or provided for in the
+            contract, the easement, or this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             WRPO, where appropriate, will provide for the development of a tree
+            planting plan with the assistance of the FS or State forestry
+            agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The WRPO, where appropriate, will provide for the development by
+            NRCS of detailed plans for weed control, structural measures and
+            their operation, vegetation establishment and management, and other
+            measures as needed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Revisions of the WRPO to enhance or protect the value for which the
+            easement was established may be made at any time at the request of
+            either NRCS, FWS, the owner and upon the concurrence of all three
+            parties.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6237'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.14
+      </extid>
+      <num st='1'>
+        623.14
+      </num>
+      <head>
+        Easement modifications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='14' psec='' tq='N'>
+              623.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Easement modifications.
+        </SUBJECT>
+        <P>
+          After the easement has been perfected, no change will be made in the
+          easement without a written request by the participant and the written
+          consent of the Chief. Approval may be granted to achieve the goals of
+          EWRP or facilitate the practical administration and management of the
+          easement area or the program and the approval will not adversely
+          affect the functions and values for which the easement was
+          established. A modified easement shall be perfected in accordance with
+          State law and NRCS superior interest shall be reserved by the
+          landowner in accordance with 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='623' sect='7' psec='' tq='N'>
+              623.7
+            </subref>
+             and 
+            <subref title='7' part='623' sect='11' psec='#a_3' tq='N'>
+              623.11(a)(3)
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='6238'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.15
+      </extid>
+      <num st='1'>
+        623.15
+      </num>
+      <head>
+        Transfer of land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='15' psec='' tq='N'>
+              623.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Transfer of land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If a new owner purchases or obtains the right and interest in, or
+            right to occupancy of, the land subject to a EWRP easement, such new
+            owner shall be subject to the terms and conditions of the easement.
+            The participant who is the signatory to the easement shall be
+            entitled to receive all remaining payments, if any, for the purchase
+            of the easement. Eligible cost-share payments shall be made to the
+            participants. with respect to costs actually incurred.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Upon the transfer of the property subject to an EWRP easement, any
+            remaining cost-share payments shall be paid to the new owner or
+            purchaser only if the new owner or purchaser becomes a party to the
+            WRPO within 60 days of the perfection of the deed transferring title
+            to the new owner. Such payments shall be paid in the 
+            <PRTPAGE P='481' />
+            manner agreed to by the participant and the buyer. The new owner or
+            purchaser shall be responsible for assuring completion of all
+            measures and practices required by the contract and the WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any transfer of the property prior to the perfection of the
+            easement shall void any NRCS offer or WRPO unless the new owner
+            agrees to accept the offer within 60 days of the perfection of the
+            deed transferring the land to the new owner.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6239'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.16
+      </extid>
+      <num st='1'>
+        623.16
+      </num>
+      <head>
+        Monitoring and enforcement of easement terms and conditions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='16' psec='' tq='N'>
+              623.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Monitoring and enforcement of easement terms and conditions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS or its representative shall be permitted to inspect each
+            easement area at any and all times determined necessary by NRCS to
+            ensure that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Structural and vegetative restoration work are properly maintained;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The wetlands and adjacent upland habitat of the easement area is
+            being managed as required in the WRPO and the terms of the easement;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Uses of the area are consistent with the terms and conditions of
+            the easement and the WRPO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If an owner or other interested party is unwilling to voluntarily
+            correct, in a timely manner, deficiencies in compliance with the
+            terms of the WRPO, the EWRP easement, or any related agreements,
+            NRCS may at the expense of any person who is subject to the EWRP
+            easement correct such deficiency. Such NRCS action shall be in
+            addition to other remedies available to NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Monitoring and enforcement responsibilities may be delegated by
+            NRCS at any time to other Federal or State agencies. Landowners may
+            transfer management responsibilities only to Federal, State, or
+            local agencies or private organizations that have been approved by
+            NRCS in advance as having the appropriate authority, expertise, and
+            resources necessary to carry out such delegated responsibilities.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6240'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.17
+      </extid>
+      <num st='1'>
+        623.17
+      </num>
+      <head>
+        Violations and remedies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='17' psec='' tq='N'>
+              623.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Violations and remedies.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If a violation of the terms and conditions of the contract, the
+            WRPO, or the recorded EWRP easement occurs, the easement shall
+            remain in force and NRCS may:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Require the owner to fully restore the easement area to fulfill the
+            terms and conditions of the easement and WRPO; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Require the owner, who received payments from NRCS for any purpose
+            under this part, to refund all or part of such payments received
+            together with interest, as determined appropriate by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If an owner fails to carry out the terms and conditions of an
+            easement, appropriate legal action may be initiated. The owner of
+            the property shall reimburse NRCS for all costs incurred including,
+            but not limited to, legal fees.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6241'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.18
+      </extid>
+      <num st='1'>
+        623.18
+      </num>
+      <head>
+        Access to land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='18' psec='' tq='N'>
+              623.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to land.
+        </SUBJECT>
+        <P>
+          In order to determine eligibility and compliance with respect to this
+          part, representatives of the Department, or designee thereof, shall
+          have the right of access to:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Land which is the subject of an application made in accordance with
+            this part,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Land which is subject to an easement made in accordance with this
+            part, and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Records of the participant showing status of all ownership interest
+            in lands subject to this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6242'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.19
+      </extid>
+      <num st='1'>
+        623.19
+      </num>
+      <head>
+        Assignments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='19' psec='' tq='N'>
+              623.19
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Assignments.
+        </SUBJECT>
+        <P>
+          Any participant entitled to any cash payment under this program may
+          assign the right to receive such cash payments, in whole or in part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6243'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.20
+      </extid>
+      <num st='1'>
+        623.20
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          60 FR 67316
+        </aref>
+        , Dec. 29, 1995]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='20' psec='' tq='N'>
+              623.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          A participant in the EWRP may obtain a review of any administrative
+          determination concerning land eligibility, development of a WRPO, or
+          any adverse determination under this part in accordance with the
+          administrative appeal regulations provided in 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='614' tq='N'>
+              614 of this title
+            </subref>
+          </aref>
+          .
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            60 FR 67316
+          </aref>
+          , Dec. 29, 1995]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='6244'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.21
+      </extid>
+      <num st='1'>
+        623.21
+      </num>
+      <head>
+        Scheme and device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='21' psec='' tq='N'>
+              623.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scheme and device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If it is determined by NRCS that a landowner has employed a scheme
+            or device to defeat the purposes of this part, any part of any
+            program payment otherwise due or paid such landowner during the
+            applicable period may be 
+            <PRTPAGE P='482' />
+            withheld or be required to be refunded with interest thereon, as
+            determined appropriate by NRCS, and the contract with the landowner
+            may be terminated. In such a case, NRCS may also continue to hold
+            the easement interest acquired under this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A scheme or device includes, but is not limited to, coercion,
+            fraud, misrepresentation, depriving any other person of payments for
+            cost-share practices or easements for the purpose of obtaining a
+            payment to which a person would otherwise not be entitled.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             An owner of land subject to this part who succeeds to the
+            responsibilities under this part shall report in writing to NRCS any
+            interest of any kind in the land subject to this part that is
+            retained by a previous participant. Such interest includes a
+            present, future or conditional interest, reversionary interest or
+            any option, future or present, with respect to such land and any
+            interest of any lender in such land where the lender has, will, or
+            can obtain, a right of occupancy to such land or an interest in the
+            equity in such land other than an interest in the appreciation in
+            the value of such land occurring after the loan was made. A failure
+            of full disclosure will be considered a scheme or device under this
+            section.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6245'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:623:-:623.22
+      </extid>
+      <num st='1'>
+        623.22
+      </num>
+      <head>
+        Filing of false claims.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='623' sect='22' psec='' tq='N'>
+              623.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Filing of false claims.
+        </SUBJECT>
+        <P>
+          If it is determined by NRCS that any participant has knowingly
+          supplied false information or has knowingly filed a false claim, such
+          participant shall be ineligible for any payment under this part. False
+          information or false claims include claims for payment for practices
+          which do not meet the specifications of the applicable WRPO. Any
+          amounts paid under these circumstances shall be refunded, together
+          with interest as determined by NRCS, and any amounts otherwise due
+          such participant shall be withheld.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol12'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1792
+    </extid>
+    <num>
+      1792
+    </num>
+    <head>
+      COMPLIANCE WITH OTHER FEDERAL STATUTES, REGULATIONS, AND EXECUTIVE ORDERS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+           et seq., 1921 et seq., 6941 et seq.; 
+          <aref type='USC'>
+            <subref title='42' sect='7701' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/7701.html'>
+              42 U.S.C. 7701
+            </subref>
+          </aref>
+           et seq.; E.O. 12699 (3 CFR, 1990 Comp., p. 269).
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            58 FR 32437
+          </aref>
+          , June 10, 1993, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='14745'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1792:C:1792.101
+      </extid>
+      <num st='1'>
+        1792.101
+      </num>
+      <head>
+        General.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 32437
+        </aref>
+        , June 10, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 76916
+        </aref>
+        , Dec. 8, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1792' sect='101' psec='' tq='N'>
+              1792.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Earthquake Hazards Reduction Act of 1977 (
+            <aref type='USC'>
+              <subref title='42' sect='7701' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/7701.html'>
+                42 U.S.C. 7701
+              </subref>
+            </aref>
+             et seq.) was enacted to reduce risks to life and property through
+            the establishment and maintenance of an effective earthquake hazards
+            reduction program (the National Earthquake Hazards Reduction Program
+            or NEHRP). The Federal Emergency Management Agency (FEMA) is
+            designated as the agency with the primary responsibilities to plan
+            and coordinate the NEHRP. This program includes the development and
+            implementation of feasible design and construction methods to make
+            structures earthquake resistant. Executive Order 12699 of January 5,
+            1990, Seismic Safety of Federal and Federally Assisted or Regulated
+            New Building Construction (3 CFR, 1990 Comp., p. 269), requires that
+            measures to assure seismic safety be imposed on federally assisted
+            new building construction.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             This subpart identifies acceptable seismic standards which must be
+            employed in new building construction funded by loans, grants, or
+            guarantees made by the Rural Utilities Service (RUS) or the Rural
+            Telephone Bank (RTB) (or through lien accommodations or
+            subordinations approved by RUS or RTB).
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 32437
+          </aref>
+          , June 10, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 76916
+          </aref>
+          , Dec. 8, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='14746'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1792:C:1792.102
+      </extid>
+      <num st='1'>
+        1792.102
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 32437
+        </aref>
+        , June 10, 1993, as amended at 
+        <aref type='FREGIST'>
+          59 FR 66440
+        </aref>
+        , Dec. 27, 1994; 
+        <aref type='FREGIST'>
+          65 FR 76916
+        </aref>
+        , Dec. 8, 2000; 
+        <aref type='FREGIST'>
+          69 FR 23642
+        </aref>
+        , Apr. 30, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1792' sect='102' psec='' tq='N'>
+              1792.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in this subpart, the following terms have the following
+          meaning:
+        </P>
+        <P>
+          <E T='03'>
+            Administrator—
+          </E>
+          Administrator of RUS or the Governor of the Rural Telephone Bank or
+          his or her designee.
+        </P>
+        <P>
+          <E T='03'>
+            Borrower—
+          </E>
+          An entity which borrows or seeks to borrow money from, or arranges
+          financing with the assistance of RUS through guarantees, lien
+          accommodations or lien subordinations.
+        </P>
+        <P>
+          <E T='03'>
+            Building—
+          </E>
+          Any structure, fully or partially enclosed, used or intended for
+          sheltering persons or property.
+        </P>
+        <P>
+          <E T='03'>
+            Federally assisted—
+          </E>
+          The provision of financing assistance by RUS through loans, loan
+          guarantees, grants, and lien accommodations and subordinations.
+        </P>
+        <P>
+          <E T='03'>
+            Grant recipient—
+          </E>
+          Any entity which receives a grant from RUS.
+        </P>
+        <P>
+          <E T='03'>
+            Lien accommodation—
+          </E>
+          The consensual sharing of the government&apos;s (RUS&apos;s) lien on
+          property or the release of government&apos;s lien on property.
+        </P>
+        <P>
+          <E T='03'>
+            Lien subordination—
+          </E>
+          Agreement that the government&apos;s (RUS) lien on property will rank
+          below the lien of another entity.
+        </P>
+        <P>
+          <E T='03'>
+            Model Code
+          </E>
+          —A building code developed for the adoption of local or state
+          authorities or to be used as the basis of a local or state building
+          code.
+        </P>
+        <P>
+          <E T='03'>
+            NEHRP—
+          </E>
+          National Earthquake Hazards Reduction Program.
+        </P>
+        <P>
+          <E T='03'>
+            Registered—
+          </E>
+          A person licensed by the State(s) or Authority(ies) to perform
+          architectural or engineering services in the State(s) where
+          construction occurs.
+          <PRTPAGE P='402' />
+        </P>
+        <P>
+          <E T='03'>
+            RUS
+          </E>
+          —Rural Utilities Service, and for the purposes of this subpart, shall
+          include the Rural Telephone Bank. For the purposes of RTB borrowers,
+          as used in this subpart, RUS means RTB and Administrator means
+          Governor.
+        </P>
+        <P>
+          <E T='03'>
+            State—
+          </E>
+          Each of the 50 States of the United States, the District of Columbia,
+          and territories and possessions of the United States which are
+          authorized to receive loans, loan guarantees, or grants from RUS.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 32437
+          </aref>
+          , June 10, 1993, as amended at 
+          <aref type='FREGIST'>
+            59 FR 66440
+          </aref>
+          , Dec. 27, 1994; 
+          <aref type='FREGIST'>
+            65 FR 76916
+          </aref>
+          , Dec. 8, 2000; 
+          <aref type='FREGIST'>
+            69 FR 23642
+          </aref>
+          , Apr. 30, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='14747'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1792:C:1792.103
+      </extid>
+      <num st='1'>
+        1792.103
+      </num>
+      <head>
+        Seismic design and construction standards for new buildings.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 23642
+        </aref>
+        , Apr. 30, 2004, as amended at 
+        <aref type='FREGIST'>
+          71 FR 60658
+        </aref>
+        , Oct. 16, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1792' sect='103' psec='' tq='N'>
+              1792.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Seismic design and construction standards for new buildings.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             In the design and construction of federally assisted buildings, the
+            borrowers and grant recipients must utilize the seismic provisions
+            of the most recent edition of those standards and practices that are
+            substantially equivalent to or exceed the seismic safety level in
+            the 2000 edition of the NEHRP Recommended Provisions for the
+            Development of Seismic Regulation for New Buildings.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Each of the following model codes or standards provides a level of
+            seismic safety substantially equivalent to that provided by the 2000
+            NEHRP Recommended Provisions and are appropriate for federally
+            assisted new building construction:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              2003 NFPA 5000 Building Construction and Safety Code.
+            </head>
+          </npcatch>
+          <text>
+             Copies of the book are available from the NFPA (National Fire
+            Protection Association), 1 Batterymarch Park, Quincy, MA 02269-7471.
+            Telephone: (617) 770-3000. Fax: (617) 770-0700.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             2002 American Society of Civil Engineers (ASCE) 7, 
+            <E T='03'>
+              Minimum Design Loads for Buildings and Other Structures.
+            </E>
+             Copies are available from the American Society of Civil Engineers,
+            Publications Marketing Department, 1801 Alexander Bell Drive,
+            Reston, VA 20191-4400. E-mail: 
+            <E T='03'>
+              marketing@asce.org.
+            </E>
+             Telephone: (800) 548-2723. Fax: (703) 295-6211.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              2003 International Code Council (ICC) International Building Code
+              (IBC).
+            </head>
+          </npcatch>
+          <text>
+             Copies of the book or CD-ROM are available from the International
+            Conference of Building Officials, 4051 West Flossmoor Rd., Country
+            Club Hill, IL 60478. Telephone: (800) 786-4452. Fax: (800) 214-7167.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The NEHRP Recommended Provisions for the Development of Seismic
+            Regulations for New Buildings is available from the Office of
+            Earthquakes and Natural Hazards, Federal Emergency Management
+            Agency, 500 C Street, SW., Washington, DC 20472.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 23642
+          </aref>
+          , Apr. 30, 2004, as amended at 
+          <aref type='FREGIST'>
+            71 FR 60658
+          </aref>
+          , Oct. 16, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='14748'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1792:C:1792.104
+      </extid>
+      <num st='1'>
+        1792.104
+      </num>
+      <head>
+        Seismic acknowledgments.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 23642
+        </aref>
+        , Apr. 30, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1792' sect='104' psec='' tq='N'>
+              1792.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Seismic acknowledgments.
+        </SUBJECT>
+        <P>
+          For each applicable building, borrowers and grant recipients must
+          provide RUS a written acknowledgment from a registered architect or
+          engineer responsible for the building design stating that seismic
+          provisions pursuant to 
+          <aref type='UNKNOWN'>
+            § 1792.103 of
+          </aref>
+           this subpart will be used in the design of the building.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For projects in which plans and specifications are required to be
+            submitted to RUS, this acknowledgement shall be on the title page of
+            the drawings included with the final plans and specifications. This
+            acknowledgement will include the identification and date of the
+            model code or standard that is used in the seismic design of the
+            building project. The plans and specifications must be dated,
+            signed, and sealed by the registered architect or engineer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For projects in which plans and specifications are not submitted,
+            this acknowledgement shall be in the form of a statement from the
+            architect or engineer responsible for the building design. The
+            statement shall identify the model code or standard identified that
+            is used in the seismic design of the building or buildings and,
+            shall be dated and signed.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 23642
+          </aref>
+          , Apr. 30, 2004]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

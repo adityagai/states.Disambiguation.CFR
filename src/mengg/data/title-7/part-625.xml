@@ -1,0 +1,3275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:C:625
+    </extid>
+    <num>
+      625
+    </num>
+    <head>
+      HEALTHY FORESTS RESERVE PROGRAM
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='16' sect='6571-657' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/6571-657.html'>
+              16 U.S.C. 6571-657
+            </subref>
+          </aref>
+          8.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            75 FR 6546
+          </aref>
+          , Feb. 10, 2010, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6257'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.1
+      </extid>
+      <num st='1'>
+        625.1
+      </num>
+      <head>
+        Purpose and scope.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='489' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='1' psec='' tq='N'>
+              625.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose and scope.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The purpose of the Healthy Forests Reserve Program (HFRP) is to
+            assist landowners, on a voluntary basis, in restoring, enhancing,
+            and protecting forestland resources on private lands through
+            easements, 30-year contracts, and 10-year cost-share agreements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The objectives of HFRP are to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Promote the recovery of endangered and threatened species under the
+            Endangered Species Act of 1973 (ESA);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Improve plant and animal biodiversity; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Enhance carbon sequestration.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations in this part set forth the policies, procedures,
+            and requirements for the HFRP as administered by the Natural
+            Resources Conservation Service (NRCS) for program implementation and
+            processing applications for enrollment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief may implement HFRP in any of the 50 States, District of
+            Columbia, Commonwealth of Puerto Rico, Guam, Virgin Islands,
+            American Samoa, and the Commonwealth of the Northern Mariana
+            Islands.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6258'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.2
+      </extid>
+      <num st='1'>
+        625.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='2' psec='' tq='N'>
+              625.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The following definitions will be applicable to this part:
+        </P>
+        <P>
+          <E T='03'>
+            30-year Contract
+          </E>
+           means a contract that is limited to acreage owned by Indian tribes.
+          The 30-year contract is not eligible for use on tribal lands held in
+          trust or subject to Federal restrictions against alienation.
+        </P>
+        <P>
+          <E T='03'>
+            Acreage Owned by Indian Tribes
+          </E>
+           means lands to which the title is held by individual Indians and
+          Indian tribes. This term does not include land held in trust by the
+          United States or lands where the fee title contains restraints against
+          alienation.
+        </P>
+        <P>
+          <E T='03'>
+            Biodiversity (Biological Diversity)
+          </E>
+           means the variety and variability among living organisms and the
+          ecological complexes in which they live.
+        </P>
+        <P>
+          <E T='03'>
+            Candidate Conservation Agreement with Assurances (CCAA)
+          </E>
+           means a voluntary arrangement between the U.S. Fish and Wildlife
+          Service (FWS) or the National Marine Fisheries Service (NMFS), and
+          cooperating non-Federal landowners under the authority of 
+          <aref type='UNKNOWN'>
+            section 10(a)(1) of
+          </aref>
+           the Endangered Species Act of 1973, 
+          <aref type='USC'>
+            <subref title='16' sect='1539' note='' psec='#a_1' tq='N' target='http://www.law.cornell.edu/uscode/16/1539.html#a_1'>
+              16 U.S.C. 1539(a)(1)
+            </subref>
+          </aref>
+          . Under the CCAA and an associated enhancement of survival permit, the
+          non-Federal landowner implements actions that are consistent with the
+          conditions of the permit. CCAA with FWS are also subject to
+          regulations at 
+          <aref type='CFR'>
+            50 CFR 
+            <subref title='50' part='17' sect='22' psec='#d' tq='N'>
+              17.22(d)
+            </subref>
+          </aref>
+           for endangered species or 
+          <aref type='CFR'>
+            50 CFR 
+            <subref title='50' part='17' sect='32' psec='#d' tq='N'>
+              17.32(d)
+            </subref>
+          </aref>
+           for threatened species, or applicable subsequent regulations.
+        </P>
+        <P>
+          <E T='03'>
+            Carbon sequestration
+          </E>
+           means the long-term storage of carbon in soil (as soil organic
+          matter) or in plant material (such as in trees).
+        </P>
+        <P>
+          <E T='03'>
+            Chief
+          </E>
+           means the Chief of the Department of Agriculture (USDA) NRCS, or
+          designee.
+        </P>
+        <P>
+          <E T='03'>
+            Confer
+          </E>
+           means to discuss for the purpose of providing information; to offer
+          an opinion for consideration; or to meet for discussion, while
+          reserving final decision-making authority with NRCS.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation practice
+          </E>
+           means one or more conservation improvements and activities, including
+          structural practices, land management practices, vegetative practices,
+          forest management, and other improvements that benefit the eligible
+          land and optimize environmental benefits, planned and applied
+          according to NRCS standards and specifications.
+        </P>
+        <P>
+          <E T='03'>
+            Conservation treatment
+          </E>
+           means any and all conservation practices, measures, activities, and
+          works of improvement that have the purpose of alleviating resource
+          concerns, solving or reducing the severity of natural resource use
+          problems, or taking advantage of resource opportunities, including the
+          restoration, enhancement, maintenance, or management of habitat
+          conditions for HFRP purposes.
+        </P>
+        <P>
+          <E T='03'>
+            Coordination
+          </E>
+           means to obtain input and involvement from others while reserving
+          final decision-making authority with NRCS.
+        </P>
+        <P>
+          <E T='03'>
+            Cost-share agreement
+          </E>
+           means a legal document that specifies the rights and obligations of
+          any participant accepted into the program. A HFRP cost-share agreement
+          is a binding agreement for the transfer of assistance from USDA to the
+          participant to share in the costs of applying conservation. A
+          cost-share agreement under HFRP has a duration of 10-years.
+          <PRTPAGE P='490' />
+        </P>
+        <P>
+          <E T='03'>
+            Cost-share payment
+          </E>
+           means the payment made by NRCS to a program participant or vendor to
+          achieve the restoration, enhancement, and protection goals of enrolled
+          land in accordance with the HFRP restoration plan.
+        </P>
+        <P>
+          <E T='03'>
+            Easement
+          </E>
+           means a conservation easement, which is an interest in land defined
+          and delineated in a deed whereby the landowner conveys certain rights,
+          title, and interests in a property to the United States for the
+          purpose of protecting the forest ecosystem and the conservation values
+          of the property.
+        </P>
+        <P>
+          <E T='03'>
+            Easement area
+          </E>
+           means the land encumbered by an easement.
+        </P>
+        <P>
+          <E T='03'>
+            Easement payment
+          </E>
+           means the consideration paid to a landowner for an easement conveyed
+          to the United States under the HFRP.
+        </P>
+        <P>
+          <E T='03'>
+            Fish and Wildlife Service
+          </E>
+           is an agency of the Department of Interior.
+        </P>
+        <P>
+          <E T='03'>
+            Forest Service
+          </E>
+           is an agency of USDA.
+        </P>
+        <P>
+          <E T='03'>
+            Forest ecosystem
+          </E>
+           means a dynamic set of living organisms, including plants, animals,
+          and microorganisms interacting among themselves and with the
+          environment in which they live. A forest ecosystem is characterized by
+          predominance of trees, and by the fauna, flora, and ecological cycles
+          (energy, water, carbon, and nutrients).
+        </P>
+        <P>
+          <E T='03'>
+            HFRP restoration plan
+          </E>
+           means the document that identifies the conservation treatments that
+          are scheduled for application to land enrolled in HFRP in accordance
+          with NRCS standards and specifications.
+        </P>
+        <P>
+          <E T='03'>
+            Indian tribe
+          </E>
+           means any Indian tribe, band, Nation, or other organized group or
+          community, including any Alaska Native village or regional or village
+          corporation as defined in or established pursuant to the Alaska Native
+          Claims Settlement Act (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=92_statutes_at_large&amp;position=all&amp;page=688'>
+            85 Stat. 688
+          </aref>
+          , 
+          <aref type='USC'>
+            <subref title='43' sect='1601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601.html'>
+              43 U.S.C. 1601
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ), which is recognized as eligible for the special programs and
+          services provided by the United States to Indians because of their
+          status as Indians.
+        </P>
+        <P>
+          <E T='03'>
+            Landowner
+          </E>
+           means an individual or entity having legal ownership of land. The
+          term landowner may also include all forms of collective ownership
+          including joint tenants, tenants in common, and life tenants.
+        </P>
+        <P>
+          <E T='03'>
+            Landowner protections
+          </E>
+           means protections and assurances made available by NRCS to HFRP
+          participants, when requested, and whose voluntary conservation
+          activities result in a net conservation benefit for listed, candidate,
+          or other species and meet other requirements of the program. These
+          Landowner Protections are subject to a HFRP restoration plan and
+          associated cost-share agreement, 30-year contract, or easement being
+          properly implemented. Landowner protections made available by the
+          Secretary of Agriculture to HFRP participants may include an
+          incidental take authorization received by NRCS from FWS or NMFS, or
+          may be provided by a Safe Harbor Agreement (SHA) or CCAA directly
+          between the HFRP participant and FWS or NMFS, as appropriate.
+        </P>
+        <P>
+          <E T='03'>
+            Liquidated damages
+          </E>
+           means a sum of money stipulated in the HFRP restoration agreement
+          that the participant agrees to pay NRCS if the participant fails to
+          adequately complete the terms of the restoration agreement. The sum
+          represents an estimate of the expenses incurred by NRCS to service the
+          restoration agreement, and reflects the difficulties of proof of loss
+          and the inconvenience or non-feasibility of otherwise obtaining an
+          adequate remedy.
+        </P>
+        <P>
+          <E T='03'>
+            Maintenance
+          </E>
+           means work performed to keep the applied conservation practice
+          functioning for the intended purpose during its life span. Maintenance
+          includes work to prevent deterioration of the practice, repairing
+          damage, or replacement of the practice to its original condition if
+          one or more components fail.
+        </P>
+        <P>
+          <E T='03'>
+            Measure
+          </E>
+           means one or more specific actions that is not a conservation
+          practice, but has the effect of alleviating problems or improving the
+          treatment of the resources.
+        </P>
+        <P>
+          <E T='03'>
+            National Marine Fisheries Service
+          </E>
+           is an agency of the United States Department of Commerce.
+        </P>
+        <P>
+          <E T='03'>
+            Natural Resources Conservation Service
+          </E>
+           is an agency of USDA which has the responsibility for administering
+          HFRP.
+        </P>
+        <P>
+          <E T='03'>
+            Participant
+          </E>
+           means a person, entity, or Indian tribe who is a party to a 10-year
+          cost share agreement, 30-year contract, or an agreement to purchase an
+          easement.
+        </P>
+        <P>
+          <E T='03'>
+            Private land
+          </E>
+           means land that is not owned by a local, State, or Federal
+          governmental entity, and includes land 
+          <PRTPAGE P='491' />
+          that meets the definition of “acreage owned by Indian tribes.”
+        </P>
+        <P>
+          <E T='03'>
+            Restoration
+          </E>
+           means implementing any conservation practice (vegetative, management,
+          or structural) or measure that improves forest ecosystem values and
+          functions (native and natural plant communities).
+        </P>
+        <P>
+          <E T='03'>
+            Restoration agreement
+          </E>
+           means a cost-share agreement between the program participant and NRCS
+          to restore, enhance, and protect the functions and values of a forest
+          ecosystem for the purposes of HFRP under either an easement, 30-year
+          contract, or a 10-year cost-share agreement enrollment option.
+        </P>
+        <P>
+          <E T='03'>
+            Safe Harbor Agreement
+          </E>
+           means a voluntary arrangement between FWS or NMFS and cooperating
+          non-Federal landowners under the authority of 
+          <aref type='UNKNOWN'>
+            section 10(a)(1) of
+          </aref>
+           the Endangered Species Act of 1973, 
+          <aref type='USC'>
+            <subref title='16' sect='1539' note='' psec='#a_1' tq='N' target='http://www.law.cornell.edu/uscode/16/1539.html#a_1'>
+              16 U.S.C. 1539(a)(1)
+            </subref>
+          </aref>
+          . Under the SHA and an associated enhancement of survival permit, the
+          private property owner implements actions that are consistent with the
+          conditions of the permit. SHAs with FWS are also subject to
+          regulations at 
+          <aref type='CFR'>
+            50 CFR 
+            <subref title='50' part='17' sect='22' psec='#c' tq='N'>
+              17.22(c)
+            </subref>
+          </aref>
+           for endangered species or 
+          <aref type='CFR'>
+            50 CFR 
+            <subref title='50' part='17' sect='32' psec='#c' tq='N'>
+              17.32(c)
+            </subref>
+          </aref>
+           for threatened species, or applicable subsequent regulations.
+        </P>
+        <P>
+          <E T='03'>
+            State-listed species
+          </E>
+           means a species listed as threatened or endangered under State
+          endangered species laws, a candidate for such listing, or a species
+          listed in a State Wildlife Action Plan as a Species of Greatest
+          Conservation Need.
+        </P>
+        <P>
+          <E T='03'>
+            Sign-up notice
+          </E>
+           means the public notification document that NRCS provides to describe
+          the particular requirements for a specific HFRP sign-up.
+        </P>
+        <P>
+          <E T='03'>
+            State Conservationist
+          </E>
+           means the NRCS employee authorized to implement HFRP and direct and
+          supervise NRCS activities in a State, Caribbean Area, or Pacific
+          Islands Area.
+        </P>
+        <P>
+          <E T='03'>
+            Technical service provider
+          </E>
+           means an individual, private-sector entity, or public agency
+          certified by NRCS to provide technical services to program
+          participants in lieu of or on behalf of NRCS.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6259'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.3
+      </extid>
+      <num st='1'>
+        625.3
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='3' psec='' tq='N'>
+              625.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The regulations in this part will be administered under the general
+            supervision and direction of the Chief.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief may modify or waive a provision of this part if the Chief
+            determines that the application of such provision to a particular
+            limited situation is inappropriate and inconsistent with the goals
+            of the program. This authority cannot be further delegated. The
+            Chief may not modify or waive any provision of this part which is
+            required by applicable law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             No delegation in this part to lower organizational levels will
+            preclude the Chief from determining any issue arising under this
+            part or from reversing or modifying any determination arising from
+            this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist will develop a list of eligible
+            restoration practices, payment rates and cost-share percentages, a
+            priority ranking process, and any related technical matters.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will coordinate with FWS and NMFS in the implementation of the
+            program and in establishing program policies. In carrying out this
+            program, NRCS may confer with private forest landowners, including
+            Indian tribes, the Forest Service and other Federal agencies, State
+            fish and wildlife agencies, State forestry agencies, State
+            environmental quality agencies, other State conservation agencies,
+            and nonprofit conservation organizations. No determination by the
+            FWS, NMFS, Forest Service, any Federal, State, or tribal agency,
+            conservation district, or other organization will compel NRCS to
+            take any action which NRCS determines will not serve the purposes of
+            the program established by this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6260'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.4
+      </extid>
+      <num st='1'>
+        625.4
+      </num>
+      <head>
+        Program requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          75 FR 6546
+        </aref>
+        , Feb. 10, 2010, as amended at 
+        <aref type='FREGIST'>
+          76 FR 19684
+        </aref>
+        , Apr. 8, 2011]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='4' psec='' tq='N'>
+              625.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Under the HFRP, NRCS will purchase conservation easements from, or
+            enter into 30-year contracts or 10-year cost-share agreements with,
+            eligible landowners who voluntarily cooperate in the restoration and
+            protection of forestlands and associated lands. To participate in
+            HFRP, a landowner will agree to the implementation of a HFRP
+            restoration plan, the effect of which is to restore, protect,
+            enhance, maintain, and manage the habitat conditions necessary to
+            increase the likelihood of recovery of listed species under the ESA,
+            or measurably improve the well-being of species that are not listed
+            as endangered 
+            <PRTPAGE P='492' />
+            or threatened under the ESA but are candidates for such listing,
+            State-listed species, or species identified by the Chief for special
+            consideration for funding. NRCS may provide cost-share assistance
+            for the activities that promote the restoration, protection,
+            enhancement, maintenance, and management of forest ecosystem
+            functions and values. Specific restoration, protection, enhancement,
+            maintenance, and management activities may be undertaken by the
+            landowner or other NRCS designee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Of the total amount of funds expended under the program for a
+            fiscal year to acquire easements and enter into 10-year cost-share
+            agreements, not more than 40 percent will be used for cost-share
+            agreements, and not more than 60 percent will be used for easements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Chief may use any funds that are not obligated by April 1 of
+            the fiscal year for which the funds are made available to carry out
+            a different method of enrollment during that fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Landowner eligibility.
+            </head>
+          </npcatch>
+          <text>
+             To be eligible to enroll an easement in the HFRP, an individual or
+            entity must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be the landowner of eligible land for which enrollment is sought;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to provide such information to NRCS, as the agency deems
+            necessary or desirable, to assist in its determination of
+            eligibility for program benefits and for other program
+            implementation purposes; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with applicable registration and reporting requirements of
+            the Federal Funding Accountability and Transparency Act of 2006 (
+            <aref target='_blank' title='Pub. L. 109-282' alt='Pub. L. 109-282' href='http://www.gpo.gov/fdsys/pkg/PLAW-109publ282/html/PLAW-109publ282.htm'>
+              Pub. L. 109-282
+            </aref>
+            , as amended), and 
+            <aref type='CFR'>
+              2 CFR parts 
+              <subref title='2' part='25' tq='N'>
+                25
+              </subref>
+               and 
+              <subref title='2' part='170' tq='N'>
+                170
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Eligible land.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS, in coordination with FWS or NMFS, will determine whether land
+            is eligible for enrollment and whether once found eligible, the
+            lands may be included in the program based on the likelihood of
+            successful restoration, enhancement, and protection of forest
+            ecosystem functions and values when considering the cost of
+            acquiring the easement, 30-year contract, or 10-year cost share
+            agreement, and the restoration, protection, enhancement,
+            maintenance, and management costs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Land will be considered eligible for enrollment in the HFRP only if
+            NRCS determines that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Such private land will contribute to the restoration or enhancement
+            of the habitat or otherwise measurably increase the likelihood of
+            recovery for a selected species listed under 
+            <aref type='UNKNOWN'>
+              section 4 of
+            </aref>
+             the ESA; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Such private land will contribute to the restoration or enhancement
+            of the habitat or otherwise measurably improve the well-being of a
+            selected species not listed under 
+            <aref type='UNKNOWN'>
+              section 4 of
+            </aref>
+             the ESA but is a candidate for such listing, or the selected
+            species is a State-listed species, or is a species identified by the
+            Chief for special consideration for funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may also enroll land adjacent to eligible land if the
+            enrollment of such adjacent land would contribute significantly to
+            the practical administration of the easement area, but not more than
+            it determines is necessary for such contribution.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             To be enrolled in the program, eligible land must be configured in
+            a size and with boundaries that allow for the efficient management
+            of the area for easement purposes and otherwise promote and enhance
+            program objectives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of acreage owned by an Indian tribe, NRCS may enroll
+            acreage into the HFRP which is privately owned by either the tribe
+            or an individual.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Ineligible land.
+            </head>
+          </npcatch>
+          <text>
+             The following land is not eligible for enrollment in the HFRP:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Land owned by the United States, States, or units of local
+            government;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Land subject to an easement or deed restriction that already
+            provides for the protection of fish and wildlife habitat or that
+            would interfere with HFRP purposes, as determined by NRCS; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Land that would not be eligible for HFRP under paragraphs (c)(1)
+            through (c)(5).
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            75 FR 6546
+          </aref>
+          , Feb. 10, 2010, as amended at 
+          <aref type='FREGIST'>
+            76 FR 19684
+          </aref>
+          , Apr. 8, 2011]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='6261'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.5
+      </extid>
+      <num st='1'>
+        625.5
+      </num>
+      <head>
+        Application procedures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='5' psec='' tq='N'>
+              625.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application procedures.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Sign-up process.
+            </head>
+          </npcatch>
+          <text>
+             As funds are available, the Chief will solicit project proposals
+            from the State Conservationist. The State Conservationist may
+            consult 
+            <PRTPAGE P='493' />
+            with other agencies at the State, Federal, and local levels to
+            develop proposals. The State Conservationist will submit the
+            proposal(s) to the Chief for funding selection. Upon selection for
+            funding, the State Conservationist will issue a public sign-up
+            notice which will announce and explain the rationale for decisions
+            based on the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The geographic scope of the sign-up;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any additional program eligibility criteria that are not
+            specifically listed in this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Any additional requirements that participants must include in their
+            HFRP applications that are not specifically identified in this part;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Information on the priority order of enrollment for funding;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             An estimate of the total funds NRCS expects to obligate during a
+            given sign-up; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The schedule for the sign-up process, including the deadline(s) for
+            applying.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Application for participation.
+            </head>
+          </npcatch>
+          <text>
+             To apply for enrollment through an easement, 30-year contract, or
+            10-year cost-share agreement, a landowner must submit an application
+            for participation in the HFRP during an announced period for such
+            sign-up.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Preliminary agency actions.
+            </head>
+          </npcatch>
+          <text>
+             By filing an application for participation, the applicant consents
+            to an NRCS representative entering upon the land for purposes of
+            determining land eligibility, and for other activities that are
+            necessary or desirable for NRCS to make offers of enrollment. The
+            applicant is entitled to accompany an NRCS representative on any
+            site visits.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Voluntary reduction in compensation.
+            </head>
+          </npcatch>
+          <text>
+             In order to enhance the probability of enrollment in HFRP, an
+            applicant may voluntarily offer to accept a lesser payment than is
+            being offered by NRCS. Such offer and subsequent payments may not be
+            less than those rates set forth in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='625' sect='8' psec='' tq='N'>
+                625.8
+              </subref>
+            </aref>
+             and 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='625' sect='10' psec='' tq='N'>
+                625.10
+              </subref>
+               of this part
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6262'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.6
+      </extid>
+      <num st='1'>
+        625.6
+      </num>
+      <head>
+        Establishing priority for enrollment in HFRP.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='6' psec='' tq='N'>
+              625.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Establishing priority for enrollment in HFRP.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Ranking considerations.
+            </head>
+          </npcatch>
+          <text>
+             Based on the specific criteria set forth in a sign-up announcement
+            and the applications for participation, NRCS, in coordination FWS
+            and NMFS, may consider the following factors to rank properties:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated conservation benefit to habitat required by threatened or
+            endangered species listed under 
+            <aref type='UNKNOWN'>
+              section 4 of
+            </aref>
+             the ESA;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated conservation benefit to habitat required by species not
+            listed as endangered or threatened under 
+            <aref type='UNKNOWN'>
+              section 4 of
+            </aref>
+             the ESA but that are candidates for such listing, State-listed
+            species, or species identified by the Chief for special
+            consideration for funding;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated improvement of biological diversity, if enrolled;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Potential for increased capability of carbon sequestration, if
+            enrolled;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Availability of contribution of non-Federal funds;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Significance of forest ecosystem functions and values;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated cost-effectiveness of the particular restoration
+            cost-share agreement, contract, or easement, and associated HFRP
+            restoration plan; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Other factors identified in a HFRP sign-up notice.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may place higher priority on certain forest ecosystems based
+            regions of the State or multi-State area where restoration of
+            forestland may better achieve NRCS programmatic and sign-up goals
+            and objectives.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding any limitation of this part, NRCS may enroll
+            eligible lands at any time in order to encompass project areas
+            subject to multiple land ownership or otherwise to achieve program
+            objectives. Similarly, NRCS may, at any time, exclude otherwise
+            eligible lands if the participation of the adjacent landowners is
+            essential to the successful restoration of the forest ecosystem and
+            those adjacent landowners are unwilling to participate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If available funds are insufficient to accept the highest ranked
+            application, and the applicant is not interested in reducing the
+            acres offered to match available funding, NRCS may select a lower
+            ranked application that can be fully funded. In cases where HFRP
+            funds are not sufficient to cover the costs of an application
+            selected for funding, the applicant may lower the cost of the
+            application by changing the duration of the easement or agreement 
+            <PRTPAGE P='494' />
+            or reducing the acreage offered, unless these changes result in a
+            reduction of the application ranking score below that of the score
+            of the next available application on the ranking list.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6263'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.7
+      </extid>
+      <num st='1'>
+        625.7
+      </num>
+      <head>
+        Enrollment of easements, contracts, and agreements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='7' psec='' tq='N'>
+              625.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Enrollment of easements, contracts, and agreements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Offers of enrollment.
+            </head>
+          </npcatch>
+          <text>
+             Based on the priority ranking, NRCS will notify an affected
+            landowner of tentative acceptance into the program. This notice of
+            tentative acceptance into the program does not bind NRCS or the
+            United States to enroll the proposed project in HFRP, nor does it
+            bind the landowner to convey an easement, or to contract or agree to
+            HFRP activities. The letter notifies the landowner that NRCS intends
+            to continue the enrollment process on their land unless otherwise
+            notified by the landowner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Acceptance of offer of enrollment.
+            </head>
+          </npcatch>
+          <text>
+             An agreement to purchase or a restoration cost-share agreement or
+            contract will be presented by NRCS to the landowner which will
+            describe the easement, agreement, or contract area; the easement,
+            agreement, or contract terms and conditions; and other terms and
+            conditions for participation that may be required by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Effect of the acceptance of the offer.
+            </head>
+          </npcatch>
+          <text>
+             After the agreement to purchase or restoration cost-share agreement
+            or contract is executed by NRCS and the landowner, the land will be
+            considered enrolled in the HFRP. For easements, NRCS will proceed
+            with various easement acquisition activities, which may include
+            conducting a survey of the easement area, securing necessary
+            subordination agreements, procuring title insurance, and conducting
+            other activities necessary to record the easement or implement the
+            HFRP, as appropriate for the enrollment option being considered. For
+            restoration cost-share agreements and contracts, the landowner will
+            proceed to implement the restoration plan with technical assistance
+            and cost-share from NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Withdrawal of offers.
+            </head>
+          </npcatch>
+          <text>
+             Prior to execution of an agreement to purchase, a restoration
+            cost-share agreement, or contract between the United States and the
+            landowner, NRCS may withdraw the land from enrollment at any time
+            due to lack of availability of funds, inability to clear title, or
+            other reasons. An agreement to purchase will be void, and the offer
+            withdrawn, if not executed by the landowner within the time
+            specified.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6264'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.8
+      </extid>
+      <num st='1'>
+        625.8
+      </num>
+      <head>
+        Compensation for easements and 30-year contracts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='8' psec='' tq='N'>
+              625.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Compensation for easements and 30-year contracts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Determination of easement payment rates.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will offer to pay not less than 75 percent, nor more than 100
+            percent of the fair market value of the enrolled land during the
+            period the land is subject to the easement, less the fair market
+            value of the land encumbered by the easement for permanent easements
+            or easements for the maximum duration allowed under State law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will offer to pay not more than 75 percent of the fair market
+            value of the enrolled land, less the fair market value of the land
+            encumbered by the easement for 30-year easements or 30-year
+            contracts.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Acceptance and use of contributions.
+            </head>
+          </npcatch>
+          <text>
+             NRCS may accept and use contributions of non-Federal funds to make
+            payments under this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Acceptance of offered easement or 30-year contract compensation.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will not acquire any easement or 30-year contract unless the
+            landowner accepts the amount of the payment that is offered by NRCS.
+            The payment may or may not equal the fair market value of the
+            interests and rights to be conveyed by the landowner under the
+            easement or 30-year contract. By voluntarily participating in the
+            program, a landowner waives any claim to additional compensation
+            based on fair market value.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Payments may be made in a single payment or no more than 10 annual
+            payments of equal or unequal size, as agreed to between NRCS and the
+            landowner.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If a landowner believes they may be eligible for a bargain sale tax
+            deduction that is the difference between the fair market value of
+            the easement conveyed to the United States and the easement payment
+            made to the landowner, it is the landowner&apos;s responsibility to
+            discuss those matters with the Internal Revenue Service. NRCS
+            disclaims any representations concerning 
+            <PRTPAGE P='495' />
+            the tax implications of any easement or cost-share transaction.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Per acre payments.
+            </head>
+          </npcatch>
+          <text>
+             If easement payments are calculated on a per acre basis, adjustment
+            to stated easement payment will be made based on final determination
+            of acreage.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Ecosystem Services Credits for Conservation Improvements.
+            </head>
+          </npcatch>
+          <text>
+             USDA recognizes that environmental benefits will be achieved by
+            implementing conservation practices and activities funded through
+            HFRP, and that environmental credits may be gained as a result of
+            implementing activities compatible with the purposes of a HFRP
+            easement, 30-year contract, or restoration cost-share agreement.
+            NRCS asserts no direct or indirect interest in these credits.
+            However, NRCS retains the authority to ensure the requirements of a
+            HFRP easement, contract, cost-share agreement, or restoration plan
+            are met consistent with 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='625' sect='9' psec='' tq='N'>
+                625.9
+              </subref>
+            </aref>
+             through 625.13 of this part. Where activities required under an
+            environmental credit agreement may affect land covered under a HFRP
+            easement, restoration cost-share agreement, or 30-year contract,
+            participants are highly encouraged to request a compatibility
+            assessment from NRCS prior to entering into such agreements.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6265'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.9
+      </extid>
+      <num st='1'>
+        625.9
+      </num>
+      <head>
+        10-year restoration cost-share agreements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='9' psec='' tq='N'>
+              625.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          10-year restoration cost-share agreements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The restoration plan developed under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='625' sect='13' psec='' tq='N'>
+                625.13
+              </subref>
+            </aref>
+             forms the basis for the 10-year cost-share agreement and its terms
+            are incorporated therein.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A 10-year cost-share agreement will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Incorporate all portions of a restoration plan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be for a period of 10 years;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Include all provisions as required by law or statute;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Specify the requirements for operation and maintenance of applied
+            conservation practices;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Include any participant reporting and recordkeeping requirements to
+            determine compliance with the agreement and HFRP;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Be signed by the participant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Identify the amount and extent of cost-share assistance that NRCS
+            will provide for the adoption or implementation of the approved
+            conservation treatment identified in the restoration plan; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Include any other provision determined necessary or appropriate by
+            the NRCS representative.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Once the participant and NRCS have signed a 10-year cost-share
+            agreement, the land will be considered enrolled in HFRP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The State Conservationist may, by mutual agreement with the parties
+            to the 10-year cost-share agreement, consent to the termination of
+            the restoration agreement where:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The parties to the 10-year cost-share agreement are unable to
+            comply with the terms of the restoration agreement as the result of
+            conditions beyond their control;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Compliance with the terms of the 10-year cost-share agreement would
+            work a severe hardship on the parties to the agreement; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Termination of the 10-year cost-share agreement would, as
+            determined by the State Conservationist, be in the public interest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If a 10-year cost-share agreement is terminated in accordance with
+            the provisions of this section, the State Conservationist may allow
+            the participants to retain any cost-share payments received under
+            the 10-year cost-share agreement where forces beyond the
+            participant&apos;s control prevented compliance with the agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6266'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.10
+      </extid>
+      <num st='1'>
+        625.10
+      </num>
+      <head>
+        Cost-share payments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='10' psec='' tq='N'>
+              625.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cost-share payments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS may share the cost with landowners of restoring land enrolled
+            in HFRP as provided in the HFRP restoration plan. The HFRP
+            restoration plan may include periodic manipulation to maximize fish
+            and wildlife habitat and preserve forest ecosystem functions and
+            values, and measures that are needed to provide the Landowner
+            Protections under 
+            <aref type='CFR-TIC-SECT'>
+              section 7(b)(4)
+            </aref>
+             or 
+            <aref type='UNKNOWN'>
+              section 10(a)(1) of
+            </aref>
+             the ESA, including the cost of any permit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Landowner Protections may be made available to landowners enrolled
+            in the HFRP who agree, for a specified period, to restore, protect,
+            enhance, maintain, and manage the habitat conditions on their land
+            in a manner that is reasonably expected to result in a net
+            conservation benefit that contributes to the recovery of listed
+            species 
+            <PRTPAGE P='496' />
+            under the ESA, candidate, or other species covered by this
+            regulation. These protections operate with lands enrolled in the
+            HFRP and are valid for as long as the landowner is in compliance
+            with the terms and conditions of such assurances, any associated
+            permit, the easement, contract, or the restoration agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the Landowner Protections, or any associated permit, require the
+            adoption of a conservation practice or measure in addition to the
+            conservation practices and measures identified in the applicable
+            HFRP restoration plan, NRCS and the landowner will incorporate the
+            conservation practice or measure into the HFRP restoration plan as
+            an item eligible for cost-share assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to perform planned management activities can result in
+            violation of the easement, 10-year cost-share agreement, or the
+            agreement under which Landowner Protections have been provided. NRCS
+            will work with landowners to plan appropriate management activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The amount and terms and conditions of the cost-share assistance
+            will be subject to the following restrictions on the costs of
+            establishing or installing NRCS approved conservation practices or
+            implementing measures specified in the HFRP restoration plan:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             On enrolled land subject to a permanent easement or an easement for
+            the maximum duration allowed under State law, NRCS will offer to pay
+            not less than 75 percent nor more than 100 percent of the average
+            cost, and;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             On enrolled land subject to a 30-year easement or 30-year contract,
+            NRCS will offer to pay not more than 75 percent of the average cost.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             On enrolled land subject to a 10-year cost-share agreement without
+            an associated easement, NRCS will offer to pay not more than 50
+            percent of the average costs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Cost-share payments may be made only upon a determination by NRCS
+            that an eligible conservation practice or measure has been
+            established in compliance with appropriate standards and
+            specifications. Identified conservation practices and measures may
+            be implemented by the landowner or other designee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Cost-share payments may be made for the establishment and
+            installation of additional eligible conservation practices and
+            measures, or the maintenance or replacement of an eligible
+            conservation practice or measure, but only if NRCS determines the
+            practice or measure is needed to meet the objectives of HFRP, and
+            the failure of the original conservation practices or measures was
+            due to reasons beyond the control of the landowner.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6267'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.11
+      </extid>
+      <num st='1'>
+        625.11
+      </num>
+      <head>
+        Easement participation requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='11' psec='' tq='N'>
+              625.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Easement participation requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To enroll land in HFRP through a permanent easement, an easement
+            for the maximum duration allowed under State law, or 30-year
+            enrollment option, a landowner will grant an easement to the United
+            States. The easement deed will require that the easement area be
+            maintained in accordance with HFRP goals and objectives for the
+            duration of the term of the easement, including the restoration,
+            protection, enhancement, maintenance, and management of habitat and
+            forest ecosystem functions and values.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For the duration of its term, the easement will require, at a
+            minimum, that the landowner and the landowner&apos;s heirs,
+            successors, and assignees, will cooperate in the restoration,
+            protection, enhancement, maintenance, and management of the land in
+            accordance with the easement and with the terms of the HFRP
+            restoration plan. In addition, the easement will grant to the United
+            States, through NRCS:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A right of access to the easement area by NRCS or its
+            representative;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The right to determine and permit compatible uses on the easement
+            area and specify the amount, method, timing, intensity, and duration
+            of the compatible use, if such use is consistent with the long-term
+            protection and enhancement of the purposes for which the easement
+            was established;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The rights, title, and interest to the easement area as specified
+            in the conservation easement deed; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The right to perform restoration, protection, enhancement,
+            maintenance, and management activities on the easement area.
+            <PRTPAGE P='497' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The landowner will convey title to the easement which is acceptable
+            to NRCS. The landowner will warrant that the easement granted to the
+            United States is superior to the rights of all others, except for
+            exceptions to the title which are deemed acceptable by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The landowner will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with the terms of the easement;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with all terms and conditions of any associated agreement or
+            contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to the long-term restoration, protection, enhancement,
+            maintenance, and management of the easement in accordance with the
+            terms of the easement and related agreements;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Have the option to enter into an agreement with governmental or
+            private organizations to assist in carrying out any landowner
+            responsibilities on the easement area; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Agree that each person who is subject to the easement will be
+            jointly and severally responsible for compliance with the easement
+            and the provisions of this part, and for any refunds or payment
+            adjustment which may be required for violation of any terms or
+            conditions of the easement or the provisions of this part.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6268'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.12
+      </extid>
+      <num st='1'>
+        625.12
+      </num>
+      <head>
+        30-year contracts.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='12' psec='' tq='N'>
+              625.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          30-year contracts.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To enroll land in HFRP through the 30-year contract option, a
+            landowner will sign a 30-year contract with NRCS. The contract will
+            require that the contract area be maintained in accordance with HFRP
+            goals and objectives for the duration of the term of the contract,
+            including the restoration, protection, enhancement, maintenance, and
+            management of habitat and forest ecosystem functions and values.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For the duration of its term, the 30-year contract will require, at
+            a minimum, that the landowner and the landowner&apos;s assignees,
+            will cooperate in the restoration, protection, enhancement,
+            maintenance, and management of the land in accordance with the
+            contract and with the terms of the HFRP restoration plan. In
+            addition, the contract will grant to the United States through NRCS:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A right of access to the contract area by NRCS or its
+            representative;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The right to allow such activities by the landowner as hunting and
+            fishing, managed timber harvest, or periodic haying or grazing, if
+            such use is consistent with the long-term protection and enhancement
+            of the purposes for which the contract was established;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The right to specify the amount, method, timing, intensity, and
+            duration of the activities listed in paragraph (b)(2) of this
+            section, as incorporated into the terms of the contract; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The right to perform restoration, protection, enhancement,
+            maintenance, and management activities on the contract area.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The landowner will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with the terms of the contract;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Comply with all terms and conditions of any associated agreement or
+            contract; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Agree to the long-term restoration, protection, enhancement,
+            maintenance, and management of the contract area in accordance with
+            the terms of the contract and related agreements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A 30-year contract will:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Be signed by the participant;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Identify the amount and extent of cost-share assistance that NRCS
+            will provide for the adoption or implementation of the approved
+            conservation treatment identified in the restoration plan; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Include any other provision determined necessary or appropriate by
+            the NRCS representative.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Once the landowner and NRCS have signed a 30-year contract, the
+            land will be considered enrolled in HFRP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6269'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.13
+      </extid>
+      <num st='1'>
+        625.13
+      </num>
+      <head>
+        The HFRP restoration plan development and Landowner Protections.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='13' psec='' tq='N'>
+              625.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          The HFRP restoration plan development and Landowner Protections.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The development of the HFRP restoration plan will be made through
+            an NRCS representative, who will confer with the program participant
+            and with the FWS and NMFS, as appropriate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The HFRP restoration plan will specify the manner in which the
+            enrolled land under easement, 30-year 
+            <PRTPAGE P='498' />
+            contract, or 10-year cost-share agreement will be restored,
+            protected, enhanced, maintained, and managed to accomplish the goals
+            of the program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible restoration practices and measures may include land
+            management, vegetative, and structural practices and measures that
+            will restore and enhance habitat conditions for listed species,
+            candidate, State-listed, and other species identified by the Chief
+            for special funding consideration. To the extent practicable,
+            eligible practices and measures will improve biodiversity and
+            optimize the sequestration of carbon through management that
+            maintains diverse and high quality native forests to accomplish the
+            goals of the restoration plan. NRCS, in coordination with FWS and
+            NMFS, will determine the conservation practices and measures. The
+            State Conservationist will develop and make available to the public
+            a list of eligible practices, and will determine payment rates and
+            cost-share percentages within statutory limits.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Landowner Protections. An HFRP participant who enrolls land in HFRP
+            and whose conservation treatment results in a net conservation
+            benefit for listed, candidate, or other species, may request such
+            Landowner Protections as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Incidental Take Authorization.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will extend to participants the incidental take authorization
+            received by NRCS from FWS or NMFS through biological opinions issued
+            as part of the interagency cooperation process under 
+            <aref type='UNKNOWN'>
+              section 7(a)(2) of
+            </aref>
+             the ESA;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will provide assurances, as a provision of the restoration
+            plan, that when a participant is provided authorization for
+            incidental take of a listed species, NRCS will not require
+            management activities related to that species to be undertaken in
+            addition to or different from those specified in the restoration
+            plan without the participant&apos;s consent;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             The program participant will be covered by the authorization to
+            NRCS for incidental take associated with restoration actions or
+            management activities. The incidental take may include a return to
+            baseline conditions at the end of the applicable period, if the
+            landowner so desires.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Provided the landowner has acted in good faith and without intent
+            to violate the terms of the HFRP restoration plan, NRCS will pursue
+            all appropriate options with the participant to avoid termination in
+            the event of the need to terminate an HFRP restoration plan that is
+            being properly implemented; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             If the 30-year contract or 10-year restoration cost-share agreement
+            is terminated, any requested assurances, including an incidental
+            take authorization under this section, provided by NRCS will be
+            voided. As such, the landowner will be responsible to FWS or NMFS
+            for any violations of the ESA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             SHA or CCAA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will provide technical assistance to help participants design
+            and use their HFRP restoration plan for the dual purposes of
+            qualifying for HFRP financial assistance and as a basis for entering
+            into a SHA or CCAA with FWS or NMFS and receiving an associated
+            permit under 
+            <aref type='UNKNOWN'>
+              section 10(a)(1)(a) of
+            </aref>
+             the ESA.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             In exchange for a commitment to undertake conservation measures,
+            the landowner may receive a permit under 
+            <aref type='UNKNOWN'>
+              section 10 of
+            </aref>
+             the ESA from FWS or NMFS authorizing incidental take of species
+            covered by the SHA or CCAA that may occur as a result of restoration
+            actions, management activities, and for a listed species covered by
+            a SHA, a return to baseline conditions at the end of the applicable
+            period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             All SHAs and associated permits issued by FWS or NMFS are subject
+            to the Safe Harbor Policy jointly adopted by FWS and NMFS according
+            to the regulations at 
+            <aref type='FREGIST'>
+              64 FR 32717
+            </aref>
+             or applicable subsequently adopted policy, and SHAs with FWS also
+            are subject to regulations at 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='22' psec='#c' tq='N'>
+                17.22(c)
+              </subref>
+            </aref>
+             for endangered species or 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='32' psec='#c' tq='N'>
+                17.32(c)
+              </subref>
+            </aref>
+             for threatened species, or applicable subsequent regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             All CCAAs and associated permits issued by FWS or NMFS are subject
+            to the CCAAs policy jointly adopted by FWS and NMFS according to the
+            regulations at 
+            <aref type='FREGIST'>
+              64 FR 32706
+            </aref>
+             or applicable subsequently adopted policy, and CCAAs with FWS also
+            are subject to 
+            <PRTPAGE P='499' />
+            regulations at 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='22' psec='#d' tq='N'>
+                17.22(d)
+              </subref>
+            </aref>
+             for endangered species or 
+            <aref type='CFR'>
+              50 CFR 
+              <subref title='50' part='17' sect='32' psec='#d' tq='N'>
+                17.32(d)
+              </subref>
+            </aref>
+             for threatened species, or applicable subsequent regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             If the 30-year contract or 10-year restoration cost-share agreement
+            is terminated, the landowner will be responsible to notify and
+            coordinate with FWS and NMFS or any other relevant party to the
+            specific SHA or CCAA, as appropriate, for any modifications related
+            to the SHA or CCAA.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6270'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.14
+      </extid>
+      <num st='1'>
+        625.14
+      </num>
+      <head>
+        Modification of the HFRP restoration plan.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='14' psec='' tq='N'>
+              625.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Modification of the HFRP restoration plan.
+        </SUBJECT>
+        <P>
+          The State Conservationist may approve modifications to the HFRP
+          restoration plan that do not modify or void provisions of the
+          easement, contract, restoration agreement, or Landowner Protections,
+          and are consistent with applicable law. NRCS may obtain and receive
+          input from the landowner and coordinate with FWS and NMFS to determine
+          whether a modification to the restoration plan is justified. Any HFRP
+          restoration plan modification must meet HFRP program objectives, and
+          must result in equal or greater wildlife benefits and ecological and
+          economic values to the United States. Modifications to the HFRP
+          restoration plan which are substantial and affect provisions of the
+          contract, restoration cost-share agreement, or Landowner Protections
+          will require agreement from the landowner, any relevant party to a
+          specific SHA or CCAA, FWS, or NMFS, as appropriate, and may require
+          execution of an amended contract or 10-year restoration cost-share
+          agreement and modification to the Landowner Protection provisions.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6271'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.15
+      </extid>
+      <num st='1'>
+        625.15
+      </num>
+      <head>
+        Transfer of land.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='15' psec='' tq='N'>
+              625.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Transfer of land.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Offers voided prior to enrollment.
+            </head>
+          </npcatch>
+          <text>
+             Any transfer of the property prior to the applicant&apos;s
+            acceptance into the program will void the offer of enrollment. At
+            the option of the State Conservationist, an offer can be extended to
+            the new landowner if the new landowner agrees to the same or more
+            restrictive easement, agreement, and contract terms and conditions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Actions following transfer of land.
+            </head>
+          </npcatch>
+          <text>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For easements or 30-year contracts with multiple annual payments,
+            any remaining payments will be made to the original landowner unless
+            NRCS receives an assignment of proceeds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible cost-share payments will be made to the new landowner upon
+            presentation of an assignment of rights or other evidence that title
+            has passed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Landowner protections will be available to the new landowner, and
+            the new landowner will be held responsible for assuring completion
+            of all measures and conservation practices required by the contract,
+            deed, and incidental take permit.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If a SHA or CCAA is involved, the previous and new landowner may
+            coordinate with FWS or NMFS, as appropriate, to transfer the
+            agreement and associated permits and assurances.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The landowner and NRCS may agree to transfer a 30-year contract.
+            The transferee must be determined by NRCS to be eligible to
+            participate in HFRP and must assume full responsibility under the
+            contract, including operation and maintenance of all conservation
+            practices and measures required by the contract.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Claims to payments.
+            </head>
+          </npcatch>
+          <text>
+             With respect to any and all payments owed to a person, the United
+            States will bear no responsibility for any full payments or partial
+            distributions of funds between the original landowner and the
+            landowner&apos;s successor. In the event of a dispute or claim on
+            the distribution of cost-share payments, NRCS may withhold payments
+            without the accrual of interest pending an agreement or adjudication
+            on the rights to the funds.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6272'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.16
+      </extid>
+      <num st='1'>
+        625.16
+      </num>
+      <head>
+        Violations and remedies.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='16' psec='' tq='N'>
+              625.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Violations and remedies.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Easement violations.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             In the event of a violation of the easement or any associated
+            agreement involving a landowner, the landowner will be given
+            reasonable notice and an opportunity to voluntarily correct the
+            violation within 30 days of the date of the notice, or such
+            additional time as the State Conservationist determines is necessary
+            to correct the violation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding paragraph (a)(1) of this section, NRCS reserves the
+            right to enter upon the easement area at any time to remedy
+            deficiencies or easement violations. Such entry may be made at the
+            discretion of NRCS 
+            <PRTPAGE P='500' />
+            when such actions are deemed necessary to protect important listed
+            species, candidate species, and forest ecosystem functions and
+            values or other rights of the United States under the easement. The
+            landowner will be liable for any costs incurred by the United States
+            as a result of the landowner&apos;s negligence or failure to comply
+            with easement or contractual obligations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             In addition to any and all legal and equitable remedies as may be
+            available to the United States under applicable law, NRCS may
+            withhold any easement and cost-share payments owed to landowners at
+            any time there is a material breach of the easement covenants,
+            associated restoration agreement, or any associated contract. Such
+            withheld funds may be used to offset costs incurred by the United
+            States in any remedial actions or retained as damages pursuant to
+            court order or settlement agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The United States will be entitled to recover any and all
+            administrative and legal costs, including attorney&apos;s fees or
+            expenses, associated with any enforcement or remedial action.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              30-year contract and 10-year cost-share agreement violations.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS determines that a participant is in violation of the terms
+            of a 30-year contract, or 10-year cost-share agreement, or documents
+            incorporated by reference into the 30-year contract or 10-year
+            cost-share agreement, the landowner will be given reasonable notice
+            and an opportunity to voluntarily correct the violation within 30
+            days of the date of the notice, or such additional time as the State
+            Conservationist determines is necessary to correct the violation. If
+            the violation continues, the State Conservationist may terminate the
+            30-year contract or 10-year cost-share agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding the provisions of paragraph (b)(1) of this section,
+            a 10-year cost-share agreement or 30-year contract termination is
+            effective immediately upon a determination by the State
+            Conservationist that the participant has: submitted false
+            information; filed a false claim; engaged in any act for which a
+            finding of ineligibility for payments is permitted under this part;
+            or taken actions NRCS deems to be sufficiently purposeful or
+            negligent to warrant a termination without delay.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If NRCS terminates a 10-year cost-share agreement or 30-year
+            contract, the participant will forfeit all rights for future
+            payments under the 10-year cost-share agreement or 30-year contract,
+            and must refund all or part of the payments received, plus interest,
+            and liquidated damages.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             When making any 30-year contract or 10-year cost-share agreement
+            termination decisions, the State Conservationist may provide
+            equitable relief in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='635' tq='N'>
+                635
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6273'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.17
+      </extid>
+      <num st='1'>
+        625.17
+      </num>
+      <head>
+        Payments not subject to claims.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='17' psec='' tq='N'>
+              625.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payments not subject to claims.
+        </SUBJECT>
+        <P>
+          Any cost-share, contract, or easement payment or portion thereof due
+          any person under this part will be allowed without regard to any claim
+          or lien in favor of any creditor, except agencies of the United States
+          Government.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6274'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.18
+      </extid>
+      <num st='1'>
+        625.18
+      </num>
+      <head>
+        Assignments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='18' psec='' tq='N'>
+              625.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Assignments.
+        </SUBJECT>
+        <P>
+          Any person entitled to any cash payment under this program may assign
+          the right to receive such cash payments in whole or in part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6275'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.19
+      </extid>
+      <num st='1'>
+        625.19
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='19' psec='' tq='N'>
+              625.19
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A person participating in the HFRP may obtain a review of any
+            administrative determination concerning eligibility for
+            participation utilizing the administrative appeal regulations
+            provided in 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='11' tq='N'>
+                11
+              </subref>
+               and 
+              <subref title='7' part='614' tq='N'>
+                614
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Before a person may seek judicial review of any administrative
+            action concerning eligibility for program participation under this
+            part, the person must exhaust all administrative appeal procedures
+            set forth in paragraph (a) of this section, and for purposes of
+            judicial review, no decision will be a final agency action except a
+            decision of the Chief under these procedures.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Any appraisals, market analysis, or supporting documentation that
+            may be used by NRCS in determining property value are considered
+            confidential information, and will only be disclosed as determined
+            at the sole discretion of NRCS in accordance with applicable law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Enforcement actions undertaken by NRCS in furtherance of its
+            federally 
+            <PRTPAGE P='501' />
+            held property rights are under the jurisdiction of the Federal
+            District Court, and are not subject to review under administrative
+            appeal regulations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6276'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:C:625:-:625.20
+      </extid>
+      <num st='1'>
+        625.20
+      </num>
+      <head>
+        Scheme and device.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='625' sect='20' psec='' tq='N'>
+              625.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scheme and device.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If it is determined by NRCS that a person has employed a scheme or
+            device to defeat the purposes of this part, any part of any program
+            payment otherwise due or paid to such person during the applicable
+            period may be withheld or be required to be refunded with interest
+            thereon, as determined appropriate by NRCS.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A scheme or device includes, but is not limited to, coercion,
+            fraud, misrepresentation, depriving any other person of payments for
+            10-year cost-share agreements, contracts, or easements for the
+            purpose of obtaining a payment to which a person would otherwise not
+            be entitled.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A person who succeeds to the responsibilities under this part will
+            report in writing to NRCS any interest of any kind in enrolled land
+            that is held by a predecessor or any lender. A failure of full
+            disclosure will be considered a scheme or device under this section.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

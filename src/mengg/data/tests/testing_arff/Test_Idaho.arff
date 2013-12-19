@@ -1,0 +1,11 @@
+@relation 'C__Users_Prasannjit Kumar_workspace_project_src_mengg_data_tests_testingData_Idaho'
+
+@attribute text string
+@attribute @@class@@ {Negative,positive}
+
+@data
+'In the States of Alaska, American Samoa, Arizona, California, Guam, Hawaii, Idaho, Nevada, Oregon',Negative
+'The Idaho-Eastern Oregon Potato Committee is hereby established consisting of eight members, of whom four shall currently be producers of potatoes for the fresh market who produced such potatoes during at least three of the last five years',Negative
+'Committee means the Idaho-Eastern Oregon Onion Committee established pursuant to § 958.20.',Negative
+'Alaska, American Samoa, Arizona, California, Guam, Hawaii, Idaho, Nevada, Oregon, Trust Territory of the Pacific Islands, the Northern Mariana Islands, Washington',positive
+'During May 16 through November 30, if moved interstate to any portion of Illinois, Kentucky, Missouri, or Virginia that is north of the 38th parallel; or to any destination in Colorado, Connecticut, Delaware, District of Columbia, Idaho, Indiana, Iowa, Kansas, Maine, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, New York, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Dakota, Utah, Vermont, Washington, West Virginia, Wisconsin, or Wyoming.',positive

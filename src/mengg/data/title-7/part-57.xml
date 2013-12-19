@@ -1,0 +1,5047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:C:57
+    </extid>
+    <num>
+      57
+    </num>
+    <head>
+      INSPECTION OF EGGS (EGG PRODUCTS INSPECTION ACT)
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='21' sect='1031-105' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/21/1031-105.html'>
+              21 U.S.C. 1031-105
+            </subref>
+          </aref>
+          6.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <PRTPAGE P='65' />
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, unless otherwise noted.
+        </P>
+      </SOURCE>
+      <EDNOTE>
+        <HD SOURCE='HED'>
+          Editorial Note:
+        </HD>
+        <P>
+          1. At 
+          <aref type='FREGIST'>
+            63 FR 69969
+          </aref>
+          , Dec. 17, 1998, 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='57' tq='N'>
+              57
+            </subref>
+          </aref>
+           was added by duplicating portions of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='59' tq='N'>
+              59
+            </subref>
+          </aref>
+          . At 
+          <aref type='FREGIST'>
+            63 FR 72353
+          </aref>
+          , Dec. 31, 1998, 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='59' tq='N'>
+              59
+            </subref>
+          </aref>
+           was redesignated as 
+          <aref type='UNKNOWN'>
+            part 590 of
+          </aref>
+           9 CFR.
+        </P>
+        <P>
+          2. Nomenclature changes to 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='57' tq='N'>
+              57
+            </subref>
+          </aref>
+           appear at 
+          <aref type='FREGIST'>
+            63 FR 69971
+          </aref>
+          , Dec. 17, 1998.
+        </P>
+      </EDNOTE>
+    </text>
+    <section orderid='3260'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.1
+      </extid>
+      <num st='1'>
+        57.1
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57164
+        </aref>
+        , Sept. 24, 2004, as amended at 
+        <aref type='FREGIST'>
+          71 FR 12614
+        </aref>
+        , Mar. 13, 2006]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='1' psec='' tq='N'>
+              57.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          For the purpose of the regulations in this part, words in the singular
+          shall be deemed to import the plural and vice versa, as the case may
+          demand. Unless the context otherwise requires, the following terms
+          shall have the following meaning:
+        </P>
+        <P>
+          <E T='03'>
+            Acceptable
+          </E>
+           means suitable for the purpose intended by the Agricultural Marketing
+          Service.
+        </P>
+        <P>
+          <E T='03'>
+            Act
+          </E>
+           means the applicable provisions of the Egg Products Inspection Act,
+          as amended, (Pub. L. 91-597, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=91_statutes2_at_large&amp;position=all&amp;page=1620'>
+            84 Stat. 1620
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the Administrator of AMS of the Department or any other officer
+          or employee of the Department to whom there has heretofore been
+          delegated, or to whom there may hereafter be delegated the authority
+          to act in the Administrator&apos;s stead.
+        </P>
+        <P>
+          <E T='03'>
+            Adulterated
+          </E>
+           means any egg under one or more of the following circumstances:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If it bears or contains any poisonous or deleterious substance
+            which may render it injurious to health; but in case the substance
+            is not an added substance, such article shall not be considered
+            adulterated under this clause if the quantity of such substance in
+            or on such article does not ordinarily render it injurious to
+            health;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If it bears or contains any added poisonous or added deleterious
+            substance (other than one which is a pesticide chemical in or on a
+            raw agricultural commodity; a food additive; or a color additive)
+            which may in the judgment of the Secretary, make such article unfit
+            for human food;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If it is, in whole or in part, a raw agricultural commodity and
+            such commodity bears or contains a pesticide chemical which is
+            unsafe within the meaning of 
+            <aref type='UNKNOWN'>
+              section 408 of
+            </aref>
+             the Federal Food, Drug, and Cosmetic Act;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If it bears or contains any food additive which is unsafe within
+            the meaning of 
+            <aref type='UNKNOWN'>
+              section 409 of
+            </aref>
+             the Federal Food, Drug, and Cosmetic Act;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If it bears or contains any color additive which is unsafe within
+            the meaning of 
+            <aref type='UNKNOWN'>
+              section 706 of
+            </aref>
+             the Federal Food, Drug, and Cosmetic Act: Provided, that an article
+            which is not otherwise deemed adulterated under paragraph (b)(2),
+            (3), or (4) of this definition shall nevertheless be deemed
+            adulterated if use of the pesticide chemical, food additive, or
+            color additive, in or on such article, is prohibited by regulations
+            of the Secretary in official plants;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If it consists, in whole or in part, of any filthy, putrid, or
+            decomposed substance, or if it is otherwise unfit for human food;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             If it has been prepared, packaged, or held under insanitary
+            conditions whereby it may have become contaminated with filth, or
+            whereby it may have been rendered injurious to health;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             If it is an egg which has been subjected to incubation or the
+            product of any egg which has been subjected to incubation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             If its container is composed, in whole or in part, of any poisonous
+            or deleterious substance which may render the contents injurious to
+            health;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             If it has been intentionally subjected to radiation, unless the use
+            of the radiation was in conformity with a regulation or exemption in
+            effect pursuant to 
+            <aref type='UNKNOWN'>
+              section 409 of
+            </aref>
+             the Federal Food, Drug, and Cosmetic Act; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             If any valuable constituent has been, in whole or in part, omitted
+            or abstracted therefrom; or if any substance has been substituted,
+            wholly or in part therefor; or if damage or inferiority has been
+            concealed in any manner; or if any substance has been added thereto
+            or mixed or packed therewith so as to increase its bulk or weight,
+            or reduce its quality or strength, or make it appear better or of
+            greater value than it is.
+            <PRTPAGE P='66' />
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Agricultural Marketing Service
+          </E>
+           or 
+          <E T='03'>
+            AMS
+          </E>
+           mean the Agricultural Marketing Service of the Department.
+        </P>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means any interested party who requests any inspection service.
+        </P>
+        <P>
+          <E T='03'>
+            Capable of use as human food
+          </E>
+           means any egg, unless it is denatured, or otherwise identified, as
+          required by these regulations to deter its use as human food.
+        </P>
+        <P>
+          <E T='03'>
+            Chief of the Grading Branch
+          </E>
+           means Chief of the Grading Branch, Poultry Programs, AMS.
+        </P>
+        <P>
+          <E T='03'>
+            Class
+          </E>
+           means any subdivision of a product based on essential physical
+          characteristics that differentiate between major groups of the same
+          kind, species, or method of processing.
+        </P>
+        <P>
+          <E T='03'>
+            Commerce
+          </E>
+           means interstate, foreign, or intrastate commerce.
+        </P>
+        <P>
+          <E T='03'>
+            Condition
+          </E>
+           means any characteristic affecting a products merchantability
+          including, but not being limited to, the following: The state of
+          preservation, cleanliness, soundness, wholesomeness, or fitness for
+          human food of any product; or the processing, handling, or packaging
+          which affects such product.
+        </P>
+        <P>
+          <E T='03'>
+            Container
+          </E>
+           or 
+          <E T='03'>
+            Package
+          </E>
+           mean for shell eggs, any carton, basket, case, cart, pallet, or other
+          receptacle.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Immediate container
+            </E>
+             means any package or other container in which shell eggs are packed
+            for household or other ultimate consumers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Shipping container
+            </E>
+             means any container used in packing an immediate container.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Department
+          </E>
+           means the United States Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Egg
+          </E>
+           means the shell egg of the domesticated chicken, turkey, duck, goose,
+          or guinea. Some of the terms applicable to shell eggs are as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Check
+            </E>
+             means an egg that has a broken shell or crack in the shell but has
+            its shell membranes intact and contents not leaking.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Clean and sound shell egg
+            </E>
+             means any egg whose shell is free of adhering dirt or foreign
+            material and is not cracked or broken.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Dirty egg
+            </E>
+             or 
+            <E T='03'>
+              Dirties
+            </E>
+             means an egg(s) that has an unbroken shell with adhering dirt, or
+            foreign material.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Incubator reject
+            </E>
+             means an egg that has been subjected to incubation and has been
+            removed from incubation during the hatching operations as infertile
+            or otherwise unhatchable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Inedible
+            </E>
+             means eggs of the following descriptions: Black rots, yellow rots,
+            white rots, mixed rots, sour eggs, eggs with green whites, eggs with
+            stuck yolks, moldy eggs, musty eggs, eggs showing blood rings, and
+            eggs containing embryo chicks (at or beyond the blood ring stage).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Leaker
+            </E>
+             means an egg that has a crack or break in the shell and shell
+            membranes to the extent that the egg contents are exposed or are
+            exuding or free to exude through the shell.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Loss
+            </E>
+             means an egg that is unfit for human food because it is smashed or
+            broken so that its contents are leaking; or overheated, frozen, or
+            contaminated; or an incubator reject; or because it contains a
+            bloody white, large meat or blood spot, a large quantity of blood,
+            or other foreign material.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Restricted egg
+            </E>
+             means any check, dirty egg, incubator reject, inedible, leaker, or
+            loss.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Egg handler
+          </E>
+           means any person, excluding the household consumer, who engages in
+          any business in commerce that involves buying or selling any eggs or
+          processing any egg products, or otherwise using any eggs in the
+          preparation of human food.
+        </P>
+        <P>
+          <E T='03'>
+            Federal Food, Drug, and Cosmetic Act
+          </E>
+           means the Act so entitled, approved June 25, 1938 (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=75_statutes2_at_large&amp;position=all&amp;page=1040'>
+            52 Stat. 1040
+          </aref>
+          ), and Acts amendatory thereof or supplementary thereto.
+        </P>
+        <P>
+          <E T='03'>
+            Inedible egg products
+          </E>
+           means dried, frozen, or liquid inedible egg products that are unfit
+          for human consumption.
+        </P>
+        <P>
+          <E T='03'>
+            Inspection
+          </E>
+           means the application of such inspection methods and techniques as
+          are deemed necessary by the responsible Secretary to carry out the
+          provisions of the Egg Products Inspection Act and the regulations
+          under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Interested party
+          </E>
+           means any person financially interested in a transaction involving
+          any surveillance inspection service.
+        </P>
+        <P>
+          <E T='03'>
+            Label
+          </E>
+           means a display of any printed, graphic, or other method of
+          identification upon the shipping container, if any, or upon the
+          immediate container, including but not limited to, an individual
+          consumer package of eggs, or accompanying such product.
+          <PRTPAGE P='67' />
+        </P>
+        <P>
+          <E T='03'>
+            National supervisor
+          </E>
+           means:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The officer-in-charge of the surveillance inspection service; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Other employee of the Department designated by the national
+            supervisor.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Nest-run eggs
+          </E>
+           means eggs that have been packed as they come from the production
+          facilities without having been washed, sized and/or candled for
+          quality, with the exception that some checks, dirties, or other
+          obvious undergrades may have been removed.
+        </P>
+        <P>
+          <E T='03'>
+            Office of inspection
+          </E>
+           means the office of any inspector.
+        </P>
+        <P>
+          <E T='03'>
+            Official certificate
+          </E>
+           means any certificate prescribed by regulations of the Administrator
+          for issuance by an inspector or other person performing official
+          functions under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Official device
+          </E>
+           means any device prescribed or authorized by the Secretary for use in
+          applying any official mark.
+        </P>
+        <P>
+          <E T='03'>
+            Official egg products processing plant
+          </E>
+           means one or more buildings or parts thereof comprising a single
+          plant in which the plant facilities and methods of operation therein
+          have been approved by the Administrator of the Food Safety Inspection
+          Service as suitable and adequate for the continuous inspection of egg
+          products and in which inspection service is carried on.
+        </P>
+        <P>
+          <E T='03'>
+            Official standards
+          </E>
+           means the official U.S. standards of quality, grades, and weight
+          classes for shell eggs maintained by and available from Poultry
+          Programs, AMS.
+        </P>
+        <P>
+          <E T='03'>
+            Person
+          </E>
+           means any individual, partnership, association, business trust,
+          corporation, or any organized group of persons, whether incorporated
+          or not.
+        </P>
+        <P>
+          <E T='03'>
+            Pesticide chemical, Food additive, Color additive, and Raw
+            agricultural commodity
+          </E>
+           mean the same for purposes of this part as under the Federal Food,
+          Drug, and Cosmetic Act.
+        </P>
+        <P>
+          <E T='03'>
+            Plant
+          </E>
+           means any place of business where eggs are processed.
+        </P>
+        <P>
+          <E T='03'>
+            Quality
+          </E>
+           means the inherent properties of any product which determine its
+          relative degree of excellence.
+        </P>
+        <P>
+          <E T='03'>
+            Regional director
+          </E>
+           means any employee of the Department in charge of the surveillance
+          inspection service in a designated geographical area.
+        </P>
+        <P>
+          <E T='03'>
+            Regulations
+          </E>
+           means the provisions in this entire part and such U.S. Standards,
+          Grades, and Weight Classes for Shell Eggs as may be in effect at the
+          time grading is performed.
+        </P>
+        <P>
+          <E T='03'>
+            Regulatory inspector or Inspector
+          </E>
+           means any Federal employee or the employee of a cooperating agency to
+          whom a license has been issued by the Secretary to make such
+          inspections as required in 
+          <aref type='UNKNOWN'>
+            § 57.28 of
+          </aref>
+           these regulations.
+        </P>
+        <P>
+          <E T='03'>
+            Regulatory officer or staff officer
+          </E>
+           means staff assistants to regional directors who assist the regional
+          director in administering the surveillance inspection service.
+        </P>
+        <P>
+          <E T='03'>
+            Sampling
+          </E>
+           means the act of taking samples of any product for inspection.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of Agriculture or any other officer or employee
+          of the Department to whom the authority to act in the Secretary&apos;s
+          stead has been delegated.
+        </P>
+        <P>
+          <E T='03'>
+            Service
+          </E>
+           means the personnel who are actively engaged in the administration,
+          application, and direction of the surveillance inspection service
+          pursuant to the regulations in this part.
+        </P>
+        <P>
+          <E T='03'>
+            Shell egg packer
+          </E>
+           means any person engaged in the sorting of eggs into their various
+          qualities.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Producer-packer
+            </E>
+             means any person engaged in the sorting of eggs from their own
+            production into their various qualities, either mechanically or by
+            other means.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Grading station
+            </E>
+             means any person engaged in the sorting of eggs from their own
+            production and sources other than their own production into their
+            various qualities, either mechanically or by other means.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            State
+          </E>
+           means any State of the United States of America, the Commonwealth of
+          Puerto Rico, the Virgin Islands of the United States, and the District
+          of Columbia.
+        </P>
+        <P>
+          <E T='03'>
+            State supervisor or Federal-State supervisor
+          </E>
+           means any authorized and delegated individual who is in charge of the
+          surveillance inspection program in a state.
+        </P>
+        <P>
+          <E T='03'>
+            Surveillance inspection service
+          </E>
+           means the official service within the Department having the
+          responsibility for carrying out the provisions of the Egg Products
+          Inspection Act under this part.
+        </P>
+        <P>
+          <E T='03'>
+            Ultimate consumer
+          </E>
+           means any household consumer, restaurant, institution, or any other
+          party who has purchased or received shell eggs for consumption.
+          <PRTPAGE P='68' />
+        </P>
+        <P>
+          <E T='03'>
+            Unclassified eggs
+          </E>
+           means eggs that have been washed or are unwashed and show evidence of
+          segregating or sizing.
+        </P>
+        <P>
+          <E T='03'>
+            United States Standards, Grades, and Weight Classes for Shell Eggs
+            (AMS 56)
+          </E>
+           means the official U.S. standards, grades, and weight classes for
+          shell eggs that are maintained by and available from Poultry Programs,
+          AMS.
+        </P>
+        <P>
+          <E T='03'>
+            Washed ungraded eggs
+          </E>
+           means eggs which have been washed and that are either sized or
+          unsized, but not segregated for quality.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57164
+          </aref>
+          , Sept. 24, 2004, as amended at 
+          <aref type='FREGIST'>
+            71 FR 12614
+          </aref>
+          , Mar. 13, 2006]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3261'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.10
+      </extid>
+      <num st='1'>
+        57.10
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='10' psec='' tq='N'>
+              57.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          The Administrator shall perform, for and under the supervision of the
+          Secretary such duties as the Secretary may require in the enforcement
+          or administration of the provisions of the act and the regulations in
+          this part. The Administrator is authorized to waive for limited
+          periods any particular provisions of the regulations in this part to
+          permit experimentation so that new procedures, equipment, grading,
+          inspection, and processing techniques may be tested to facilitate
+          definite improvements and at the same time to determine full
+          compliance with the spirit and intent of the regulations in this part.
+          The AMS and its officers and employees shall not be liable in damages
+          through acts of commission or omission in the administration of this
+          part.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3262'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.13
+      </extid>
+      <num st='1'>
+        57.13
+      </num>
+      <head>
+        Federal and State cooperation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='13' psec='' tq='N'>
+              57.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Federal and State cooperation.
+        </SUBJECT>
+        <P>
+          The Secretary shall, whenever determined necessary to effectuate the
+          purposes of the Act, authorize the Administrator to cooperate with
+          appropriate State and other governmental agencies in carrying out any
+          provisions of the Egg Products Inspection Act and this part. In
+          carrying out the provisions of the Act and the regulations in this
+          part, the Secretary may conduct such examinations, investigations, and
+          inspections as the Secretary determines practicable through any
+          officer or employee of any such agency commissioned by the Secretary
+          for such purpose. The Secretary shall reimburse the States and other
+          agencies for the services rendered by them stated in the cooperative
+          agreements signed by the Administrator and the duly authorized agent
+          of the State or other agency.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3263'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.17
+      </extid>
+      <num st='1'>
+        57.17
+      </num>
+      <head>
+        Nondiscrimination.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='17' psec='' tq='N'>
+              57.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Nondiscrimination.
+        </SUBJECT>
+        <P>
+          The conduct of all services and the licensing of inspectors under
+          these regulations shall be accomplished without discrimination as to
+          race, color, national origin, sex, religion, age, disability,
+          political beliefs, sexual orientation, or marital or family status.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3264'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.18
+      </extid>
+      <num st='1'>
+        57.18
+      </num>
+      <head>
+        OMB control number.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69970
+        </aref>
+        , Dec. 17, 1998]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='18' psec='' tq='N'>
+              57.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB control number.
+        </SUBJECT>
+        <P>
+          The information collection requirements in this part have been
+          approved by the Office of Management and Budget and assigned OMB
+          control number 0581-0113.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69970
+          </aref>
+          , Dec. 17, 1998]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3265'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.20
+      </extid>
+      <num st='1'>
+        57.20
+      </num>
+      <head>
+        Inspection in accordance with methods prescribed or approved.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69970
+        </aref>
+        , Dec. 17, 1998]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='20' psec='' tq='N'>
+              57.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspection in accordance with methods prescribed or approved.
+        </SUBJECT>
+        <P>
+          Inspection of eggs shall be rendered pursuant to these regulations and
+          under such conditions and in accordance with such methods as may be
+          prescribed or approved by the Administrator.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69970
+          </aref>
+          , Dec. 17, 1998]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3266'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.22
+      </extid>
+      <num st='1'>
+        57.22
+      </num>
+      <head>
+        Basis of service.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='22' psec='' tq='N'>
+              57.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Basis of service.
+        </SUBJECT>
+        <P>
+          This part provides for inspection services pursuant to the Egg
+          Products Inspection Act, as amended. Eggs shall be inspected in
+          accordance with such standards, methods, and instructions as may be
+          issued or approved by the Administrator. Inspection services shall be
+          subject to supervision at all times by the applicable Federal-State
+          supervisor, staff officer, regulatory officer, regional director, and
+          national supervisor.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3267'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.28
+      </extid>
+      <num st='1'>
+        57.28
+      </num>
+      <head>
+        Inspections.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69970
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='28' psec='' tq='N'>
+              57.28
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspections.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Periodic inspections shall be made of business premises,
+            facilities, inventories, operations, transport vehicles, and records
+            of egg handlers, and the records of all persons engaged in 
+            <PRTPAGE P='69' />
+            the business of transporting, shipping, or receiving any eggs. In
+            the case of shell egg packers packing eggs for the ultimate
+            consumer, such inspections shall be made a minimum of once each
+            calendar quarter. Hatcheries are to be inspected a minimum of once
+            each fiscal year.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Inspections shall be made of imported eggs as required in this
+            part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69970
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3268'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.35
+      </extid>
+      <num st='1'>
+        57.35
+      </num>
+      <head>
+        Eggs in commerce.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='35' psec='' tq='N'>
+              57.35
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eggs in commerce.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             For eggs that moved or are moving in interstate or foreign
+            commerce, no State or local jurisdiction:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             May require the use of standards of quality, condition, grade, or
+            weight classes which are in addition to or different than the
+            official standards; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Other than states in noncontiguous areas of the United States, may
+            require labeling to show the State or other geographical area of
+            production or origin.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             This shall not preclude a State from requiring the name, address,
+            and license number of the person processing or packaging eggs to be
+            shown on each container.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Any State or local jurisdiction may exercise jurisdiction for the
+            purpose of preventing the distribution of eggs for human food
+            purposes that are in violation of this part or any other Federal
+            acts or State or local laws consistent therewith.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3269'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.45
+      </extid>
+      <num st='1'>
+        57.45
+      </num>
+      <head>
+        Prohibition on eggs not intended for use as human food.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69970
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='45' psec='' tq='N'>
+              57.45
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Prohibition on eggs not intended for use as human food.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             No person shall buy, sell, or transport, or offer to buy or sell,
+            or offer or receive for transportation in commerce, any eggs that
+            are not intended for use as human food, unless they are denatured or
+            decharacterized, unless shipped under seal as authorized in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='720' psec='#a' tq='N'>
+                57.720(a)
+              </subref>
+            </aref>
+             and identified as required by the regulations in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             No person shall import or export shell eggs classified as loss,
+            inedible, or incubator rejects unless they are denatured or
+            decharacterized and identified as required by the regulations in
+            this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69970
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3270'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.100
+      </extid>
+      <num st='1'>
+        57.100
+      </num>
+      <head>
+        Specific exemptions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='100' psec='' tq='N'>
+              57.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Specific exemptions.
+        </SUBJECT>
+        <P>
+          The following are exempt to the extent prescribed as to the provisions
+          for control of restricted eggs in 
+          <aref type='UNKNOWN'>
+            section 8(a)(1) and (2) of
+          </aref>
+           the Act: 
+          <E T='03'>
+            Provided,
+          </E>
+           That as to paragraphs (c) through (f) of this section, the exemptions
+          do not apply to restricted eggs when prohibited by State or local law:
+          
+          <E T='03'>
+            And provided further,
+          </E>
+           That the sale of “hard-cooked shell eggs” or “peeled hard-cooked
+          shell eggs” prepared from checks is subject to the conditions for
+          exemption in paragraphs (c), (d), and (f) of this section: 
+          <E T='03'>
+            And provided further,
+          </E>
+           That the conditions for exemption and provisions of these regulations
+          are met:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The sale, transportation, possession, or use of eggs that contain
+            no more restricted eggs than are allowed by the tolerances in the
+            official standards for U.S. Consumer Grade B shell eggs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The sale at the site of production, on a door-to-door retail route,
+            or at an established place of business away from the site of
+            production, by a poultry producer of eggs from his own flock&apos;s
+            production directly to a household consumer exclusively for use by
+            such consumer and members of his household and his nonpaying guests
+            and employees, and the transportation, possession, and use of such
+            eggs: 
+            <E T='03'>
+              Provided,
+            </E>
+             That each such sale of restricted eggs shall be limited to no more
+            than 30 dozen eggs; 
+            <E T='03'>
+              And provided further,
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             That eggs sold directly to consumers at an established place of
+            business away from the site of production be moved directly from the
+            producer to such place of business;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             That such business away from the site of production be owned and
+            managed by the producer; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             That such eggs which are sold on a door-to-door route or at an
+            established place of business away from the site of production shall
+            contain no more loss and/or leakers than allowed 
+            <PRTPAGE P='70' />
+            in the official standards for U.S. Consumer Grade B shell eggs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The sale of eggs by any producer with an annual egg production from
+            a flock of 3,000 hens or less and the record requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='200' psec='' tq='N'>
+                57.200
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The processing and sale of egg products by any producer from eggs
+            of the producer&apos;s own flock when sold directly to a household
+            consumer exclusively for use by such consumer and members of the
+            consumer&apos;s household and the consumer&apos;s nonpaying guests
+            and employees;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The sale of eggs by shell egg packers on the premises where the
+            grading station is located, directly to household consumers for use
+            by such consumer and members of the consumer&apos;s household and
+            the consumer&apos;s nonpaying guests and employees, and the
+            transportation, possession, and use of such eggs. Each such sale of
+            “restricted eggs” shall be limited to no more than 30 dozen eggs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The processing in nonofficial plants, including but not limited to
+            bakeries, restaurants, and other food processors, without continuous
+            inspection, of certain categories of food products which contain
+            eggs or egg products as an ingredient, and the sale and possession
+            of such products: 
+            <E T='03'>
+              Provided,
+            </E>
+             That such products are manufactured from inspected egg products
+            processed in accordance with this part or from eggs containing no
+            more restricted eggs than are allowed in the official standards for
+            U.S. Consumer Grade B shell eggs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The purchase, sale, possession, or transportation of shell eggs
+            containing more restricted eggs than allowed in the tolerances for
+            U.S. Consumer Grade B shell eggs: 
+            <E T='03'>
+              Provided,
+            </E>
+             That such eggs are handled in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='57' sect='200' psec='' tq='N'>
+                57.200
+              </subref>
+               and 
+              <subref title='7' part='57' sect='700' psec='' tq='N'>
+                57.700
+              </subref>
+            </aref>
+             through 57.860 to assure that only eggs fit for human food are used
+            for such purpose. This exemption applies to the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Egg producers, assemblers, wholesalers, and grading operations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Hatcheries;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Transporters;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Laboratories, pharmaceutical companies; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Processors of products not intended for use as human food.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3271'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.105
+      </extid>
+      <num st='1'>
+        57.105
+      </num>
+      <head>
+        Suspension or termination of exemptions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='105' psec='' tq='N'>
+              57.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Suspension or termination of exemptions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may modify or revoke any regulation of this part,
+            granting exemptions whenever he determines such action appropriate
+            to effectuate the purposes of the Act.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Failure to comply with the condition of the exemptions contained in
+            
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='100' psec='' tq='N'>
+                57.100
+              </subref>
+            </aref>
+             shall subject such person to the penalties provided for in the Act
+            and in this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3272'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.110
+      </extid>
+      <num st='1'>
+        57.110
+      </num>
+      <head>
+        Licensed inspectors.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 67166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='110' psec='' tq='N'>
+              57.110
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Licensed inspectors.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any person who is a Federal employee or the employee of a
+            cooperating agency who possesses proper qualifications as determined
+            by an examination for competency, and who is to perform surveillance
+            inspection services, may be licensed by the Secretary as an
+            inspector.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All licenses issued by the Secretary shall be countersigned by the
+            Administrator or by any other designated official of the service.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 67166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3273'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.112
+      </extid>
+      <num st='1'>
+        57.112
+      </num>
+      <head>
+        Suspension of license or authority; revocation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='112' psec='' tq='N'>
+              57.112
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Suspension of license or authority; revocation.
+        </SUBJECT>
+        <P>
+          Pending final action by the Secretary, any person authorized to
+          countersign a license to perform surveillance inspection services may,
+          whenever such action is necessary to assure that any inspection
+          service is properly performed, suspend or revoke any license to
+          perform inspection services issued pursuant to this part by giving
+          notice of such action to the respective licensee, accompanied by a
+          statement of the reasons. Within 7 days after the receipt of the
+          suspension or revocation notice and statement of reasons, the licensee
+          may file an appeal in writing to the Secretary, supported by any
+          argument or evidence that the licensee may wish to offer as to why the
+          license should not be suspended or revoked. 
+          <PRTPAGE P='71' />
+          After the expiration of the 7-day period and consideration of such
+          argument and evidence, the Secretary will take appropriate action
+          regarding the suspension or revocation. When no appeal is filed within
+          the prescribed 7 days, the license is revoked or suspended.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3274'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.114
+      </extid>
+      <num st='1'>
+        57.114
+      </num>
+      <head>
+        Surrender of license.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='114' psec='' tq='N'>
+              57.114
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Surrender of license.
+        </SUBJECT>
+        <P>
+          Each license that is canceled, suspended, revoked, or expired shall
+          immediately be surrendered by the licensee to the office of inspection
+          serving the area in which the licensee is located.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3275'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.119
+      </extid>
+      <num st='1'>
+        57.119
+      </num>
+      <head>
+        Political activity.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='119' psec='' tq='N'>
+              57.119
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Political activity.
+        </SUBJECT>
+        <P>
+          Federal inspectors may participate in certain political activities,
+          including management and participation in political campaigns as
+          allowed by Federal regulation and AMS directives. Inspectors are
+          subject to these rules while they are on leave with or without pay,
+          including furlough; however the rules do not apply to cooperative
+          employees not under Federal supervision and intermittent employees on
+          the days they perform no service. Willfull violations of the political
+          activity rules constitute grounds for removal from the service.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3276'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.120
+      </extid>
+      <num st='1'>
+        57.120
+      </num>
+      <head>
+        Financial interest of inspectors.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='120' psec='' tq='N'>
+              57.120
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial interest of inspectors.
+        </SUBJECT>
+        <P>
+          An inspector shall not inspect any product in which the inspector is
+          financially interested.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3277'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.130
+      </extid>
+      <num st='1'>
+        57.130
+      </num>
+      <head>
+        Identification.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='130' psec='' tq='N'>
+              57.130
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Identification.
+        </SUBJECT>
+        <P>
+          Each inspector shall have in their possession at all times, and
+          present while on duty upon request, the means of identification
+          furnished by the Department.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3278'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.132
+      </extid>
+      <num st='1'>
+        57.132
+      </num>
+      <head>
+        Access to plants.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57166
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='132' psec='' tq='N'>
+              57.132
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Access to plants.
+        </SUBJECT>
+        <P>
+          Access shall not be refused to any representative of the Secretary to
+          any plant, place of business, or transport vehicle subject to
+          inspection under the provisions of this part upon presentation of
+          identification furnished by the Department.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57166
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3279'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.134
+      </extid>
+      <num st='1'>
+        57.134
+      </num>
+      <head>
+        Accessibility of product.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='134' psec='' tq='N'>
+              57.134
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Accessibility of product.
+        </SUBJECT>
+        <P>
+          Each product for which inspection service is required shall be so
+          placed as to disclose fully its class, quality, quantity, and
+          condition as the circumstances may warrant.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3280'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.200
+      </extid>
+      <num st='1'>
+        57.200
+      </num>
+      <head>
+        Records and related requirements.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='200' psec='' tq='N'>
+              57.200
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Records and related requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Persons engaged in the business of transporting, shipping, or
+            receiving any eggs in commerce, or holding such articles so
+            received, and all egg handlers, including hatcheries, shall maintain
+            for 2 years records showing the receipt, delivery, sale, movement,
+            and disposition of all eggs handled by them, and upon the request of
+            an authorized representative of the Secretary, shall permit the
+            representative, at reasonable times, to have access to and to copy
+            all such records.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All egg handlers shall maintain production records as approved by
+            the Administrator. The records (bills of sale, inventories,
+            receipts) shall show the name and address of the shipper and
+            receiver, the date of the transaction, the quality of the eggs
+            (graded eggs, nest-run eggs, dirties, checks, leakers, loss,
+            inedible eggs), and the quantity of the eggs (amount). Producers who
+            ship all of their production as nest-run eggs without segregation
+            need only to maintain records indicating the amount of shell eggs
+            shipped, date of shipment, and the receivers&apos; name and address.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3281'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.220
+      </extid>
+      <num st='1'>
+        57.220
+      </num>
+      <head>
+        Information and assistance to be furnished to inspectors.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='220' psec='' tq='N'>
+              57.220
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Information and assistance to be furnished to inspectors.
+        </SUBJECT>
+        <P>
+          When surveillance inspection service is performed at any plant, the
+          plant operator shall furnish the inspector such information and
+          assistance as may be 
+          <PRTPAGE P='72' />
+          required for the performance of inspection functions, preparing
+          certificates, reports, and for other official duties.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3282'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.240
+      </extid>
+      <num st='1'>
+        57.240
+      </num>
+      <head>
+        Detaining product.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='240' psec='' tq='N'>
+              57.240
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Detaining product.
+        </SUBJECT>
+        <P>
+          Whenever any eggs subject to the Act are found by any authorized
+          representative of the Secretary upon any premises, and there is reason
+          to believe that they are or have been processed, bought, sold,
+          possessed, used, transported, or offered or received for sale or
+          transportation in violation of the Act or the regulations in this
+          part, or that they are in any other way in violation of the Act, or
+          whenever any restricted eggs capable of use as human food are found by
+          such a representative in the possession of any person not authorized
+          to acquire such eggs under the regulations in this part, such articles
+          may be detained by such representative for a period not to exceed 20
+          days, as more fully provided in 
+          <aref type='UNKNOWN'>
+            section 19 of
+          </aref>
+           the Act. A detention tag or other similar device shall be used to
+          identify detained product, and the custodian or owner shall be given a
+          written notice of such detention. Only authorized representatives of
+          the Secretary shall affix or remove detention identification. The
+          provisions of this section shall in no way derogate from authority for
+          condemnation or seizure conferred by other provisions of the Act, the
+          regulations in this part, or other laws.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3283'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.300
+      </extid>
+      <num st='1'>
+        57.300
+      </num>
+      <head>
+        Who may request an appeal inspection.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='300' psec='' tq='N'>
+              57.300
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who may request an appeal inspection.
+        </SUBJECT>
+        <P>
+          An appeal inspection may be requested by any interested party who is
+          dissatisfied with the determination by an inspector of the class,
+          quality, quantity, or condition of any product.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3284'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.310
+      </extid>
+      <num st='1'>
+        57.310
+      </num>
+      <head>
+        Where to file an appeal.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='310' psec='' tq='N'>
+              57.310
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Where to file an appeal.
+        </SUBJECT>
+        <P>
+          Any interested party that is not satisfied with the determination of
+          the class, quality, quantity, or condition of product which was
+          inspected may request an appeal inspection by filing such request with
+          the Regional Director in the region where the product is located or
+          with the Chief of the Grading Branch.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3285'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.320
+      </extid>
+      <num st='1'>
+        57.320
+      </num>
+      <head>
+        How to file an appeal.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='320' psec='' tq='N'>
+              57.320
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          How to file an appeal.
+        </SUBJECT>
+        <P>
+          The request for an appeal inspection may be made orally or in writing.
+          If made orally, written confirmation may be required. The applicant
+          shall clearly state the identity of the product, the decision that is
+          questioned, and the reason(s) for requesting the appeal service.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3286'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.330
+      </extid>
+      <num st='1'>
+        57.330
+      </num>
+      <head>
+        When an application for an appeal inspection may be refused.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='330' psec='' tq='N'>
+              57.330
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          When an application for an appeal inspection may be refused.
+        </SUBJECT>
+        <P>
+          When it appears to the official with whom an appeal request is filed
+          that the reasons given in the request are frivolous or not
+          substantial, or that the condition of the product has undergone a
+          material change since the original inspection, or that the original
+          lot has changed in some manner, or the Act or the regulations in this
+          part have not been complied with, the applicant&apos;s request for the
+          appeal inspection may be refused. In such case, the applicant shall be
+          promptly notified of the reason(s) for such refusal.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3287'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.340
+      </extid>
+      <num st='1'>
+        57.340
+      </num>
+      <head>
+        Who shall perform the appeal.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='340' psec='' tq='N'>
+              57.340
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Who shall perform the appeal.
+        </SUBJECT>
+        <P>
+          The assignment of the inspector(s) who will make the appeal inspection
+          under 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='310' psec='' tq='N'>
+              57.310
+            </subref>
+          </aref>
+           shall be made by the Regional Director or the Chief of the Grading
+          Branch.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3288'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.350
+      </extid>
+      <num st='1'>
+        57.350
+      </num>
+      <head>
+        Procedures for selecting appeal samples.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='350' psec='' tq='N'>
+              57.350
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Procedures for selecting appeal samples.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Products shall not have been moved from the place where the
+            inspection being appealed was performed and must have been
+            maintained under adequate refrigeration when applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The appeal sample shall consist of product taken from the original
+            sample containers plus an equal number of 
+            <PRTPAGE P='73' />
+            containers selected at random. When the original samples are not
+            available or have been altered, such as removing the undergrades,
+            the sample size shall be double the number of samples required in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='56' sect='4' psec='' tq='N'>
+                56.4
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3289'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.360
+      </extid>
+      <num st='1'>
+        57.360
+      </num>
+      <head>
+        Appeal inspection certificates.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57167
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='360' psec='' tq='N'>
+              57.360
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeal inspection certificates.
+        </SUBJECT>
+        <P>
+          Immediately after an appeal inspection is completed, an appeal
+          certificate shall be issued to show that the original inspection was
+          sustained or was not sustained.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57167
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3290'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.370
+      </extid>
+      <num st='1'>
+        57.370
+      </num>
+      <head>
+        Cost of appeals.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57157
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='370' psec='' tq='N'>
+              57.370
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cost of appeals.
+        </SUBJECT>
+        <P>
+          The costs of an appeal inspection shall be borne by the appellant on a
+          fee basis at rates set forth in 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='56' sect='46' psec='' tq='N'>
+              56.46
+            </subref>
+          </aref>
+          , plus any travel and additional expenses. If the appeal inspection or
+          review of an inspector&apos;s decision discloses that a material error
+          was made in the original determination, no fee or expense will be
+          charged.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57157
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3291'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.426
+      </extid>
+      <num st='1'>
+        57.426
+      </num>
+      <head>
+        Retention.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='426' psec='' tq='N'>
+              57.426
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Retention.
+        </SUBJECT>
+        <P>
+          Retention tags or other devices and methods as may be approved by the
+          Administrator shall be used for the identification and control of
+          products which are not in compliance with the regulations or are held
+          for further examination. No product, shall be released for use until
+          it has been made acceptable. Such identification shall not be removed
+          by anyone other than an inspector.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3292'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.690
+      </extid>
+      <num st='1'>
+        57.690
+      </num>
+      <head>
+        Person required to register.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        8, Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='690' psec='' tq='N'>
+              57.690
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Person required to register.
+        </SUBJECT>
+        <P>
+          Egg handlers, except for producer-packers with an annual egg
+          production from a flock of 3,000 hens or less, who grade and pack eggs
+          for the ultimate consumer, and hatcheries, are required to register
+          with the Department by furnishing their name, place of business, and
+          such other information requested on the registration form available
+          from the Department. Completed forms shall be sent to the addressee
+          indicated on the form. Persons above who are establishing a business
+          will be required to register before they start operations.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          8, Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3293'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.700
+      </extid>
+      <num st='1'>
+        57.700
+      </num>
+      <head>
+        Prohibition on disposition of restricted eggs.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          36 FR 9814
+        </aref>
+        , May 28, 1971. Redesignated at 
+        <aref type='FREGIST'>
+          42 FR 32514
+        </aref>
+        , June 27, 1977, and further redesignated at 
+        <aref type='FREGIST'>
+          46 FR 63203
+        </aref>
+        , Dec. 31, 1981, as amended at 
+        <aref type='FREGIST'>
+          63 FR 69970
+        </aref>
+        , Dec. 17, 1998]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='700' psec='' tq='N'>
+              57.700
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Prohibition on disposition of restricted eggs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             No person shall buy, sell, or transport, or offer to buy or sell,
+            or offer or receive for transportation in any business in commerce
+            any restricted eggs, except as authorized in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='57' sect='100' psec='' tq='N'>
+                57.100
+              </subref>
+               and 
+              <subref title='7' part='57' sect='720' psec='' tq='N'>
+                57.720
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             No egg handler shall possess any restricted eggs, except as
+            authorized in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='57' sect='100' psec='' tq='N'>
+                57.100
+              </subref>
+               and 
+              <subref title='7' part='57' sect='720' psec='' tq='N'>
+                57.720
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             No egg handler shall use any restricted eggs in the preparation of
+            human food, except as provided in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='57' sect='100' psec='' tq='N'>
+                57.100
+              </subref>
+               and 
+              <subref title='7' part='57' sect='720' psec='' tq='N'>
+                57.720
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            36 FR 9814
+          </aref>
+          , May 28, 1971. Redesignated at 
+          <aref type='FREGIST'>
+            42 FR 32514
+          </aref>
+          , June 27, 1977, and further redesignated at 
+          <aref type='FREGIST'>
+            46 FR 63203
+          </aref>
+          , Dec. 31, 1981, as amended at 
+          <aref type='FREGIST'>
+            63 FR 69970
+          </aref>
+          , Dec. 17, 1998]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3294'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.720
+      </extid>
+      <num st='1'>
+        57.720
+      </num>
+      <head>
+        Disposition of restricted eggs.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          36 FR 9814
+        </aref>
+        , May 28, 1971; 
+        <aref type='FREGIST'>
+          36 FR 10841
+        </aref>
+        , June 4, 1971; 
+        <aref type='FREGIST'>
+          37 FR 6659
+        </aref>
+        , Apr. 1, 1972; 
+        <aref type='FREGIST'>
+          40 FR 20059
+        </aref>
+        , May 8, 1975. Redesignated at 
+        <aref type='FREGIST'>
+          42 FR 32514
+        </aref>
+        , June 27, 1977, and further redesignated at 
+        <aref type='FREGIST'>
+          46 FR 63203
+        </aref>
+        , Dec. 31, 1981, as amended at 
+        <aref type='FREGIST'>
+          47 FR 745
+        </aref>
+        , Jan. 7, 1982; 
+        <aref type='FREGIST'>
+          60 FR 49170
+        </aref>
+        , Sept. 21, 1995. Redesignated at 
+        <aref type='FREGIST'>
+          63 FR 69970
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='720' psec='' tq='N'>
+              57.720
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Disposition of restricted eggs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Eggs classified as checks, dirties, incubator rejects, inedibles,
+            leakers, or loss shall be disposed of by one of the following
+            methods at point and time of segregation:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             By shipping directly or indirectly to an official egg products
+            processing plant for segregation and processing, if a check or dirty
+            and if labeled in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='800' psec='' tq='N'>
+                57.800
+              </subref>
+            </aref>
+            . Inedible and loss eggs shall not be intermingled in the same
+            container with checks and dirties.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             By destruction and identification in a manner approved by the
+            Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Loss and inedible eggs shall be crushed and shall be placed in a
+            container containing a sufficient amount of approved denaturant or
+            decharacterant, such as FD&amp;C brown, blue, black, or green
+            colors, meat and fish by-products, grain and milling by-products, or
+            any other substance, as approved by the Administrator, that will
+            accomplish the purposes of this section. The approved denaturant or 
+            <PRTPAGE P='74' />
+            decharacterant substance shall be dispersed through the product in
+            amounts sufficient to give the product a distinctive appearance or
+            odor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The denatured and decharacterized product shall be labeled as
+            required in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='57' sect='840' psec='' tq='N'>
+                57.840
+              </subref>
+               and 
+              <subref title='7' part='57' sect='860' psec='' tq='N'>
+                57.860
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             By processing for industrial use or for animal food. Such product
+            shall be denatured or decharacterized in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='720' psec='#a_2' tq='N'>
+                57.720(a)(2)
+              </subref>
+            </aref>
+             and identified as provided in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='57' sect='840' psec='' tq='N'>
+                57.840
+              </subref>
+               and 
+              <subref title='7' part='57' sect='860' psec='' tq='N'>
+                57.860
+              </subref>
+            </aref>
+            , or handled in accordance with other procedures approved by the
+            Administrator. Notwithstanding the foregoing, product which was
+            produced under official supervision and transported for industrial
+            use or animal food need not be denatured or decharacterized if it is
+            shipped under Government seal and received by an inspector or grader
+            as defined in this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             By coloring the shells of loss and inedible eggs with a sufficient
+            amount of FD&amp;C color to give a distinct appearance, or applying
+            a substance that will penetrate the shell and decharacterize the egg
+            meat. Except that, lots of eggs containing significant percentages
+            of blood spots or meat spots, but no other types of loss or inedible
+            eggs may be shipped directly to official egg products processing
+            plants, provided they are conspicuously labeled with the name and
+            address of the shipper and the wording “Spots—For Processing Only In
+            Official Egg Products Products Plants.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Eggs which are packed for the ultimate consumer and which have been
+            found to exceed the tolerance for restricted eggs permitted in the
+            official standards for U.S. Consumer Grade B shall be identified as
+            required in 
+            <aref type='CFR-TIC-SECT'>
+              §§ 
+              <subref title='7' part='57' sect='800' psec='' tq='N'>
+                57.800
+              </subref>
+               and 
+              <subref title='7' part='57' sect='860' psec='' tq='N'>
+                57.860
+              </subref>
+            </aref>
+             and shall be shipped directly or indirectly:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             To an official egg products processing plant for proper segregation
+            and processing; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Be regraded so that they comply with the official standards; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Used as other than human food.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Records shall be maintained as provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='200' psec='' tq='N'>
+                57.200
+              </subref>
+            </aref>
+             to assure proper disposition.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            36 FR 9814
+          </aref>
+          , May 28, 1971; 
+          <aref type='FREGIST'>
+            36 FR 10841
+          </aref>
+          , June 4, 1971; 
+          <aref type='FREGIST'>
+            37 FR 6659
+          </aref>
+          , Apr. 1, 1972; 
+          <aref type='FREGIST'>
+            40 FR 20059
+          </aref>
+          , May 8, 1975. Redesignated at 
+          <aref type='FREGIST'>
+            42 FR 32514
+          </aref>
+          , June 27, 1977, and further redesignated at 
+          <aref type='FREGIST'>
+            46 FR 63203
+          </aref>
+          , Dec. 31, 1981, as amended at 
+          <aref type='FREGIST'>
+            47 FR 745
+          </aref>
+          , Jan. 7, 1982; 
+          <aref type='FREGIST'>
+            60 FR 49170
+          </aref>
+          , Sept. 21, 1995. Redesignated at 
+          <aref type='FREGIST'>
+            63 FR 69970
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3295'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.800
+      </extid>
+      <num st='1'>
+        57.800
+      </num>
+      <head>
+        Identification of restricted eggs.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='800' psec='' tq='N'>
+              57.800
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Identification of restricted eggs.
+        </SUBJECT>
+        <P>
+          The shipping container of restricted eggs shall be determined to be
+          satisfactorily identified if such container bears the packer&apos;s
+          name and address, the quality of the eggs in the container (e.g.,
+          dirties, checks, inedibles, or loss), or the statement “Restricted
+          Eggs—For Processing Only In An Official USDA Egg Products Processing
+          Plant,” for checks or dirties, or “Restricted Eggs—Not To Be Used As
+          Human Food,” for inedibles, loss, and incubator rejects, or
+          “Unclassified Eggs—To Be Regraded” for graded eggs which contain more
+          restricted eggs than are allowed in the official standards for U.S.
+          Consumer Grade B shell eggs. The size of the letters of the
+          identification wording shall be as required in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='860' psec='' tq='N'>
+              57.860
+            </subref>
+          </aref>
+          . When eggs are packed in immediate containers, e.g., cartons, sleeve
+          packs, overwrapped 2
+          <FR>
+            1/2
+          </FR>
+          - or 3-dozen packs, etc., for sale to household consumers under the
+          exemptions provided for in 
+          <aref type='CFR-TIC-SECT'>
+            section 
+            <subref title='7' part='57' sect='100' psec='#c' tq='N'>
+              57.100 (c), or (f)
+            </subref>
+          </aref>
+          , they shall be deemed to be satisfactorily identified in accordance
+          with the requirements of this part if such immediate containers bear
+          the packer&apos;s name and address and the quality of the eggs.
+          Alternatively, a point of sale sign may be displayed showing the above
+          information.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3296'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.801
+      </extid>
+      <num st='1'>
+        57.801
+      </num>
+      <head>
+        Nest run or washed ungraded eggs.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          60 FR 49171
+        </aref>
+        , Sept. 21, 1995. Redesignated at 
+        <aref type='FREGIST'>
+          63 FR 69970
+        </aref>
+        , Dec. 17, 1998]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='801' psec='' tq='N'>
+              57.801
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Nest run or washed ungraded eggs.
+        </SUBJECT>
+        <P>
+          Nest run or washed ungraded eggs are exempt from the labeling
+          provisions in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='800' psec='' tq='N'>
+              57.800
+            </subref>
+          </aref>
+          . However, when such eggs are packed and sold to consumers, they 
+          <PRTPAGE P='75' />
+          may not exceed the tolerance for restricted eggs permitted in the
+          official standards for U.S. Consumer Grade B shell eggs.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            60 FR 49171
+          </aref>
+          , Sept. 21, 1995. Redesignated at 
+          <aref type='FREGIST'>
+            63 FR 69970
+          </aref>
+          , Dec. 17, 1998]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3297'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.840
+      </extid>
+      <num st='1'>
+        57.840
+      </num>
+      <head>
+        Identification of inedible, unwholesome, or adulterated egg products.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='840' psec='' tq='N'>
+              57.840
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Identification of inedible, unwholesome, or adulterated egg products.
+        </SUBJECT>
+        <P>
+          All inedible, unwholesome, or adulterated egg products shall be
+          identified with the name and address of the processor, the words
+          “Inedible Egg Products—Not To Be Used as Human Food.”
+        </P>
+      </contents>
+    </section>
+    <section orderid='3298'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.860
+      </extid>
+      <num st='1'>
+        57.860
+      </num>
+      <head>
+        Identification wording.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='860' psec='' tq='N'>
+              57.860
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Identification wording.
+        </SUBJECT>
+        <P>
+          The letters of the identification wording shall be legible and
+          conspicuous.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3299'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.900
+      </extid>
+      <num st='1'>
+        57.900
+      </num>
+      <head>
+        Requirements for importation of restricted eggs into the United States.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='900' psec='' tq='N'>
+              57.900
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requirements for importation of restricted eggs into the United
+          States.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Restricted eggs may be imported into the United States from any
+            foreign country only in accordance with these regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All such imported articles shall upon entry into the United States
+            be deemed and treated as domestic articles and be subject to the
+            other provisions of the Act, these regulations, and other Federal or
+            State requirements.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3300'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.905
+      </extid>
+      <num st='1'>
+        57.905
+      </num>
+      <head>
+        Importation of restricted eggs or eggs containing more restricted eggs
+        than permitted in the official standards for U.S. Consumer Grade B.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='905' psec='' tq='N'>
+              57.905
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Importation of restricted eggs or eggs containing more restricted eggs
+          than permitted in the official standards for U.S. Consumer Grade B.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             No containers of restricted egg(s) other than checks or dirties
+            shall be imported into the United States. The shipping containers of
+            such eggs shall be identified with the name, address, and country of
+            origin of the exporter, and the date of pack and quality of the eggs
+            (e.g., checks, or dirties) preceded by the word “Imported” or the
+            statement “Imported Restricted Eggs—For Processing Only In An
+            Official USDA Processing Plant,” or “Restricted Eggs—Not To Be Used
+            As Human Food.” Such identification shall be legible and
+            conspicuous. Alternatively, for properly sealed and certified
+            shipments of shell eggs imported for breaking at an official egg
+            products processing plant, the shipping containers need not be
+            labeled, provided that the shipment is segregated and controlled
+            upon arrival at the destination breaking plant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Eggs which are imported for use as human food and upon entry are
+            found to contain more restricted eggs than permitted in the official
+            standards for U.S. Consumer Grade B, shall be refused entry and
+            returned to the importing country or be conspicuously and legibly
+            identified as “Imported Restricted Eggs” and be sent directly under
+            official seal: (1) To a place where they may be regraded to comply
+            with the official U.S. standards for consumer grades; (2) to an
+            official USDA egg products processing plant; or (3) to be used as
+            other than human food.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3301'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.915
+      </extid>
+      <num st='1'>
+        57.915
+      </num>
+      <head>
+        Foreign inspection certification required.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='915' psec='' tq='N'>
+              57.915
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Foreign inspection certification required.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Except as otherwise provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='960' psec='' tq='N'>
+                57.960
+              </subref>
+            </aref>
+            , each consignment of shell eggs shall be accompanied by a foreign
+            inspection certificate, that, unless otherwise approved by the
+            Administrator contains the following information:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Name of Country exporting product;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             City and date where issued;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Quality or description of eggs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Number of cases and total quantity;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Identification marks on containers;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address of exporter;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Name and address of importer;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             A certification that the quality or description of the shell eggs,
+            including date of pack, is true and accurate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             A certification that shell eggs which have been packed into
+            containers destined for the ultimate consumer have, at all times
+            after packing, been stored and transported under refrigeration at an
+            ambient temperature of no greater than 45 °F (7.2 °C); and
+            <PRTPAGE P='76' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Name (including signature) and title of person authorized to issue
+            inspection certificates for shell eggs exported to the United
+            States.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3302'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.920
+      </extid>
+      <num st='1'>
+        57.920
+      </num>
+      <head>
+        Importer to make application for inspection of imported eggs.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='920' psec='' tq='N'>
+              57.920
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Importer to make application for inspection of imported eggs.
+        </SUBJECT>
+        <P>
+          Each person importing any eggs shall make application for inspection
+          upon PY Form 222-Import Request, to the Chief, Grading Branch, Poultry
+          Programs, AMS, U.S. Department of Agriculture, Washington, DC 20250,
+          or to the Poultry Programs, Grading Branch office nearest the port
+          where the product is to be offered for importation. Application shall
+          be made as far in advance as possible prior to the arrival of the
+          product, except in the case of product exempted from inspection by 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='960' psec='' tq='N'>
+              57.960
+            </subref>
+          </aref>
+          . Each application shall state the approximate date of product arrival
+          in the United States, the name of the ship or other carrier, the
+          country from which the product was shipped, the destination, the
+          quantity and class of product, and the point of first arrival in the
+          United States.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3303'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.925
+      </extid>
+      <num st='1'>
+        57.925
+      </num>
+      <head>
+        Inspection of imported eggs.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='925' psec='' tq='N'>
+              57.925
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspection of imported eggs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='960' psec='' tq='N'>
+                57.960
+              </subref>
+            </aref>
+            , eggs offered for importation from any foreign country shall be
+            subject to inspection in accordance with established inspection
+            procedures, including the examination of the labeling information on
+            the containers, by an inspector before the product shall be admitted
+            into the United States. Importers will be advised of the point where
+            inspection will be made, and in case of small shipments (less than
+            carload lots), the importer may be required to move the product to
+            the location of the nearest inspector.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Inspectors may take samples, without cost to the United States, of
+            any product offered for importation that is subject to quality
+            determination, except that samples shall not be taken of any
+            products offered for importation under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='960' psec='' tq='N'>
+                57.960
+              </subref>
+            </aref>
+            , unless there is reason for suspecting the presence therein of a
+            substance in violation of that section.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3304'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.930
+      </extid>
+      <num st='1'>
+        57.930
+      </num>
+      <head>
+        Imported eggs; retention in customs custody; delivery under bond;
+        movement prior to inspection; sealing; handling; facilities, and
+        assistance.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='930' psec='' tq='N'>
+              57.930
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Imported eggs; retention in customs custody; delivery under bond;
+          movement prior to inspection; sealing; handling; facilities, and
+          assistance.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             No eggs required by this part to be inspected shall be released
+            from customs custody prior to required inspections, but such product
+            may be delivered to the consignee, or his agent, prior to inspection
+            if the consignee shall furnish a bond, in the form prescribed by the
+            Secretary of the Treasury, conditioned that the product shall be
+            returned, if demanded, to the collector of the port where the same
+            is offered for clearance through customs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Notwithstanding paragraph (a) of this section, no product required
+            by this part to be inspected shall be moved prior to inspection from
+            the port of arrival where first unloaded, and if arriving by water
+            from the wharf where first unloaded at such port, to any place other
+            than the place designated in accordance with this part as the place
+            where the same shall be inspected; and no product shall be conveyed
+            in any manner other than in compliance with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Means of conveyance or packages in which any product is moved in
+            accordance with this part, prior to inspection, from the port or
+            wharf where first unloaded in the United States, shall be sealed
+            with special import seals of the Department or otherwise identified
+            as provided herein, unless already sealed with customs or consular
+            seals in accordance with the customs regulations. Such special seals
+            shall be affixed by an inspector or, if there is no inspector at
+            such port, by a customs officer. In lieu of sealing packages, the
+            carrier or importer may furnish and attach to each package of
+            product a warning notice on bright yellow paper, not less than 5×8
+            inches in size, containing the following legend in black type of a
+            conspicuous size:
+          </text>
+        </P>
+        <EXTRACT>
+          <PRTPAGE P='77' />
+          <HD SOURCE='HD3'>
+            (Name of Truck Line or Carrier)
+          </HD>
+          <HD SOURCE='HD1'>
+            Notice
+          </HD>
+          <P>
+            This package of _____ must be delivered intact to an inspector of
+            the Poultry Programs, U.S. Department of Agriculture.
+          </P>
+          <HD SOURCE='HD1'>
+            Warning
+          </HD>
+          <P>
+            Failure to comply with these instructions will result in penalty
+            action being taken against the holder of the customs entry bond.
+          </P>
+          <P>
+            If the product is found to be acceptable upon inspection, the
+            product may be released to the consignee, or his agent, and this
+            warning notice defaced.
+          </P>
+        </EXTRACT>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             No person shall affix, break, alter, deface, mutilate, remove, or
+            destroy any special import seal of the Department, except customs
+            officers or inspectors, or as provided in paragraph (f) of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             No product shall be removed from any means of conveyance or package
+            sealed with a special import seal of the Department, except under
+            the supervision of an inspector or a customs officer, or as provided
+            in paragraph (f) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             In case of a wreck or similar extraordinary emergency, the special
+            import seal of the Department on a car, truck, or other means of
+            conveyance may be broken by the carrier and, if necessary, the
+            articles may be reloaded into another means of conveyance for
+            transportation to destination. In all such cases, the carrier shall
+            immediately report the facts to the Chief of the Grading Branch.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             The consignee or his agent shall provide such facilities and
+            assistance as the inspector may require for the inspection and
+            handling and marking of products offered for importation.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3305'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.935
+      </extid>
+      <num st='1'>
+        57.935
+      </num>
+      <head>
+        Means of conveyance and equipment used in handling eggs to be maintained
+        in sanitary condition.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='935' psec='' tq='N'>
+              57.935
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Means of conveyance and equipment used in handling eggs to be
+          maintained in sanitary condition.
+        </SUBJECT>
+        <P>
+          Compartments of boats, railroad cars, and other means of conveyance
+          transporting any product to the United States, and all chutes,
+          platforms, racks, tables, tools, utensils, and all other devices used
+          in moving and handling such product offered for importation, shall be
+          maintained in a sanitary condition.
+        </P>
+      </contents>
+    </section>
+    <section orderid='3306'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.945
+      </extid>
+      <num st='1'>
+        57.945
+      </num>
+      <head>
+        Foreign eggs offered for importation; reporting of findings to customs;
+        handling of products refused entry.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='945' psec='' tq='N'>
+              57.945
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Foreign eggs offered for importation; reporting of findings to
+          customs; handling of products refused entry.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Inspectors shall report their findings to the collector of customs
+            at the port where products are offered for entry, and shall request
+            the collector to refuse entry to eggs that are marked or designated
+            “U.S. Refused Entry” or otherwise are not in compliance with the
+            regulations in this part. Unless such products are exported by the
+            consignee within a time specified by the collector of customs
+            (usually 30 days), the consignee shall cause the destruction of such
+            products for human food purposes under the supervision of an
+            inspector. If products are destroyed for human food purposes under
+            the supervision of an inspector, he shall give prompt notice thereof
+            to the District Director of Customs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Consignees shall, at their own expense, return immediately to the
+            collector of customs, in means of conveyance or packages sealed by
+            the Department, any eggs received by them under this part which in
+            any respect do not comply with this part.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Except as provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='930' psec='#a' tq='N'>
+                57.930(a)
+              </subref>
+            </aref>
+            , no person shall remove or cause to be removed from any place
+            designated as the place of inspection, any eggs that the regulations
+            require to be marked in any way, unless the same has been clearly
+            and legibly marked in compliance with this part.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3307'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.950
+      </extid>
+      <num st='1'>
+        57.950
+      </num>
+      <head>
+        Labeling of containers of eggs for importation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='950' psec='' tq='N'>
+              57.950
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Labeling of containers of eggs for importation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Immediate containers of product offered for importation shall bear
+            a label, printed in English, showing:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The name of product;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the country of origin of the product, and for consumer
+            packaged products, preceded by the words “Product of,” which
+            statement shall appear immediately under the name of the product;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The quality or description of shell eggs, including date of pack;
+            <PRTPAGE P='78' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             For shell eggs, the words, “Keep Refrigerated,” or words of similar
+            meaning;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The name and place of business of manufacturer, packer, or
+            distributor, qualified by a phrase which reveals the connection that
+            such person has with the product;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             An accurate statement of the quantity;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For properly sealed and certified shipments of shell eggs imported
+            for breaking at an official egg products processing plant, the
+            immediate containers need not be labeled, provided that the shipment
+            is segregated and controlled upon arrival at the destination
+            breaking plant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The labels shall not be false or misleading in any respect.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3308'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.955
+      </extid>
+      <num st='1'>
+        57.955
+      </num>
+      <head>
+        Labeling of shipping containers of eggs for importation.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='955' psec='' tq='N'>
+              57.955
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Labeling of shipping containers of eggs for importation.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Shipping containers of foreign product offered for importation
+            shall bear a label, printed in English, showing:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The common or usual name of the product;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The name of the country of origin;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+            -(4) [Reserved]
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The quality or description of the eggs, except as required in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='57' sect='905' psec='' tq='N'>
+                57.905
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The words “Keep refrigerated” or words of similar meaning.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Labeling on shipping containers examined at the time of inspection
+            in the United States, if found to be false or misleading, shall be
+            cause for the product to be refused entry.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For properly sealed and certified shipments of shell eggs imported
+            for breaking at an official egg products plant, the shipping
+            containers need not be labeled, provided that the shipment is
+            segregated and controlled upon arrival at the destination breaking
+            plant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In the case of products which are not in compliance solely because
+            of misbranding, such products may be brought into compliance with
+            the regulations only under the supervision of an authorized
+            representative of the Administrator.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3309'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.960
+      </extid>
+      <num st='1'>
+        57.960
+      </num>
+      <head>
+        Small importations for consignee&apos;s personal use, display, or
+        laboratory analysis.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='960' psec='' tq='N'>
+              57.960
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Small importations for consignee&apos;s personal use, display, or
+          laboratory analysis.
+        </SUBJECT>
+        <P>
+          Any eggs that are offered for importation, exclusively for the
+          consignee&apos;s personal use, display, or laboratory analysis, and
+          not for sale or distribution; which is sound, healthful, wholesome,
+          and fit for human food; and which is not adulterated and does not
+          contain any substance not permitted by the Act or regulations, may be
+          admitted into the United States without a foreign inspection
+          certificate. Such product is not required to be inspected upon arrival
+          in the United States and may be shipped to the consignee without
+          further restriction under this part: 
+          <E T='03'>
+            Provided,
+          </E>
+           That the Department may, with respect to any specific importation,
+          require that the consignee certify that such product is exclusively
+          for the consignee&apos;s personal use, display, or laboratory analysis
+          and not for sale or distribution. The amount of such product imported
+          shall not exceed 30-dozen shell eggs, unless otherwise authorized by
+          the Administrator.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3310'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.965
+      </extid>
+      <num st='1'>
+        57.965
+      </num>
+      <head>
+        Returned U.S. inspected and marked products; not importations.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='965' psec='' tq='N'>
+              57.965
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Returned U.S. inspected and marked products; not importations.
+        </SUBJECT>
+        <P>
+          Products that have been inspected by the Department and so marked, and
+          which are returned from foreign countries are not importations within
+          the meaning of this part. Such returned shipments shall be reported to
+          the Administrator by letter.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3311'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:A:57.970
+      </extid>
+      <num st='1'>
+        57.970
+      </num>
+      <head>
+        Charges for storage, cartage, and labor with respect to products
+        imported contrary to the Act.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          63 FR 69968, 69971
+        </aref>
+        , Dec. 17, 1998, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='970' psec='' tq='N'>
+              57.970
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Charges for storage, cartage, and labor with respect to products
+          imported contrary to the Act.
+        </SUBJECT>
+        <P>
+          All charges for storage, cartage, and labor with respect to any
+          product that is imported contrary to this part shall be paid by the
+          owner or consignee, and in default of such payment shall constitute a
+          lien against such product and any other product thereafter imported
+          under the Act by or for such owner or consignee.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            63 FR 69968, 69971
+          </aref>
+          , Dec. 17, 1998, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='3312'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:C:57:B:57.1000
+      </extid>
+      <num st='1'>
+        57.1000
+      </num>
+      <head>
+        Administrative proceedings.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          64 FR 40738
+        </aref>
+        , July 28, 1999, as amended at 
+        <aref type='FREGIST'>
+          69 FR 57168
+        </aref>
+        , Sept. 24, 2004]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='57' sect='1000' psec='' tq='N'>
+              57.1000
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administrative proceedings.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Uniform Rules of Practice for the Department of Agriculture
+            promulgated in subpart H of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1' tq='N'>
+                1
+              </subref>
+            </aref>
+            , subtitle A, title 7, Code of Federal Regulations, are the Rules of
+            Practice applicable to adjudicating administrative proceedings under
+            
+            <aref type='UNKNOWN'>
+              section 12(c) of
+            </aref>
+             the Egg Products Inspection Act (
+            <aref type='USC'>
+              <subref title='21' sect='1041' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/21/1041.html'>
+                21 U.S.C. 1041
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In addition to the proceedings set forth in paragraph (a) of this
+            section, the Administrator, at any time prior to the issuance of a
+            complaint seeking a civil penalty under the Act may enter into a
+            stipulation with any person, in accordance with the following
+            prescribed conditions:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator gives notice of an apparent violation of the Act
+            or the regulations issued thereunder by such person and affords such
+            person an opportunity for a hearing regarding the matter as provided
+            by the Act;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Such person expressly waives hearing and agrees to a specified
+            order including an agreement to pay a specified civil penalty within
+            a designated time; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator agrees to accept the specified civil penalty in
+            settlement of the particular matter involved if it is paid within
+            the designated time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             If the specified penalty is not paid within the time designated in
+            such stipulation, the amount of the stipulated penalty shall not be
+            relevant in any respect to the penalty that may be assessed after
+            the institution of a formal administrative proceeding pursuant to
+            the Uniform Rules of Practice, Subpart H, 
+            <aref type='CFR-TIC-PART'>
+              Part 
+              <subref title='7' part='1' tq='N'>
+                1
+              </subref>
+            </aref>
+            , Title 7, Code of Federal Regulations.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            64 FR 40738
+          </aref>
+          , July 28, 1999, as amended at 
+          <aref type='FREGIST'>
+            69 FR 57168
+          </aref>
+          , Sept. 24, 2004]
+        </CITA>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

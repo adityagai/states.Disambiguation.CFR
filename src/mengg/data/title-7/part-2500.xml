@@ -1,0 +1,3802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XXV:-:2500
+    </extid>
+    <num>
+      2500
+    </num>
+    <head>
+      OAO FEDERAL FINANCIAL ASSISTANCE PROGRAMS—GENERAL AWARD ADMINISTRATIVE
+      PROCEDURES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='6934' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6934.html'>
+              7 U.S.C. 6934
+            </subref>
+            , 
+            <subref title='7' sect='7' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7.html'>
+              7
+            </subref>
+          </aref>
+           U.S.C. 2279.
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            76 FR 66170
+          </aref>
+          , Oct. 26, 2011, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='15853'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:A:2500.001
+      </extid>
+      <num st='1'>
+        2500.001
+      </num>
+      <head>
+        Applicability of regulations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='001' psec='' tq='N'>
+              2500.001
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability of regulations.
+        </SUBJECT>
+        <P>
+          The regulations in subparts A through E of this part apply to the
+          programs authorized under 
+          <aref type='UNKNOWN'>
+            section 14013 of
+          </aref>
+           the FCEA to be administered within the Office of Advocacy and
+          Outreach (OAO). The purpose of this part is to set forth regulations
+          for competitive and noncompetitive grants, cooperative agreements, and
+          other assistance agreements awarded through OAO.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15854'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:A:2500.002
+      </extid>
+      <num st='1'>
+        2500.002
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='002' psec='' tq='N'>
+              2500.002
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Applicant
+          </E>
+           means the entity that has submitted a proposal in response to an OAO
+          Request For Proposal (RFP).
+        </P>
+        <P>
+          <E T='03'>
+            Authorized Departmental Officer (ADO)
+          </E>
+           means the Secretary or any employee of the Department with delegated
+          authority to issue or modify award instruments on behalf of the
+          Secretary.
+        </P>
+        <P>
+          <E T='03'>
+            Authorized Organizational Representative (AOR)
+          </E>
+           means the President or Chief Executive Officer of the applicant
+          organization or the official, designated by the President or Chief
+          Executive Officer of the applicant organization, who has the authority
+          to commit the resources of the organization to the project.
+        </P>
+        <P>
+          <E T='03'>
+            Award
+          </E>
+           means financial assistance that provides support to accomplish a
+          public purpose. Awards may be grants, cooperative agreements, or other
+          assistance agreements.
+        </P>
+        <P>
+          <E T='03'>
+            Award agreement
+          </E>
+           means the agreement between OAO and the awardee which sets forth the
+          terms and conditions under which the OAO funds will be made available.
+          Award agreement is used as a general term to describe grant
+          agreements, cooperative agreements, and other assistance agreements.
+        </P>
+        <P>
+          <E T='03'>
+            Award closeout
+          </E>
+           means the process by which the award operation is concluded 
+          <PRTPAGE P='62' />
+          at the expiration of the award period or following a decision to
+          terminate the award.
+        </P>
+        <P>
+          <E T='03'>
+            Award period
+          </E>
+           means the timeframe of the award from the beginning date to the
+          ending date as defined in the award agreement.
+        </P>
+        <P>
+          <E T='03'>
+            Awardee
+          </E>
+           means the entity designated in the grant agreement, cooperative
+          agreement, or other assistance agreement as the legal entity to which
+          the award is given.
+        </P>
+        <P>
+          <E T='03'>
+            Baseline monitoring
+          </E>
+           is the minimum, basic monitoring that will take place on an ongoing
+          basis throughout the lifetime of every award.
+        </P>
+        <P>
+          <E T='03'>
+            Beginning date
+          </E>
+           means the date the award agreement is executed by the awardee and OAO
+          and from which costs can be incurred.
+        </P>
+        <P>
+          <E T='03'>
+            Community-based organization
+          </E>
+           means a nongovernmental organization with a well-defined constituency
+          that includes all or part of a particular community.
+        </P>
+        <P>
+          <E T='03'>
+            Cooperative agreement
+          </E>
+           means the award of funds to an eligible awardee to assist in meeting
+          the costs of conducting a project which is intended and designed to
+          accomplish the purpose of the program as identified in the RFP, and
+          where substantial involvement is expected between OAO and the awardee
+          when carrying out the activities included in the agreement. This
+          agreement may also be referred to more generally as an award.
+        </P>
+        <P>
+          <E T='03'>
+            Department
+          </E>
+           means the U.S. Department of Agriculture.
+        </P>
+        <P>
+          <E T='03'>
+            Disallowed costs
+          </E>
+           means the use of Federal financial assistance funds for unauthorized
+          activities or items as stipulated in the applicable Federal cost
+          principles (
+          <aref type='CFR'>
+            2 CFR part 
+            <subref title='2' part='220' tq='N'>
+              220, 2
+            </subref>
+          </aref>
+           CFR 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='225' tq='N'>
+              225
+            </subref>
+          </aref>
+          , and 
+          <aref type='CFR'>
+            2 CFR part 
+            <subref title='2' part='230' tq='N'>
+              230
+            </subref>
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Ending date
+          </E>
+           means the date the award agreement is scheduled to be completed. It
+          is also the latest date award funds will be provided under the award
+          agreement, without an approved time extension.
+        </P>
+        <P>
+          <E T='03'>
+            Participant
+          </E>
+           means an individual or entity that participates in awardee-led
+          activities funded under the award agreement. Furthermore, a
+          participant is any individual or entity who has applied for, otherwise
+          participated in, or received a payment, or other benefit as a result
+          of participating in an activity funded by an OAO award.
+        </P>
+        <P>
+          <E T='03'>
+            Partnering
+          </E>
+           means a joint effort among two or more eligible entities with the
+          capacity to conduct projects intended and designed to accomplish the
+          purpose of the program.
+        </P>
+        <P>
+          <E T='03'>
+            Program leader
+          </E>
+           means the program supervisor within OAO.
+        </P>
+        <P>
+          <E T='03'>
+            Project
+          </E>
+           means activities supported under an OAO award.
+        </P>
+        <P>
+          <E T='03'>
+            Project Director (PD)
+          </E>
+           means the individual designated by the awardee in the proposal and
+          award documentation, and approved by the ADO who is responsible for
+          the direction and management of the award.
+        </P>
+        <P>
+          <E T='03'>
+            Project Officer (PO)
+          </E>
+           means an individual within OAO who is responsible for the
+          programmatic oversight of the award on behalf of the Department.
+        </P>
+        <P>
+          <E T='03'>
+            Request for Proposals (RFP)
+          </E>
+           means an official USDA funding opportunity. At OAO discretion,
+          funding opportunities may be referred to as request for proposals,
+          request for applications, notice of funding availability, or funding
+          opportunity.
+        </P>
+        <P>
+          <E T='03'>
+            Review panel
+          </E>
+           means an evaluation process involving qualified individuals within
+          the relevant field to give advice on the merit of proposals submitted
+          to OAO.
+        </P>
+        <P>
+          <E T='03'>
+            Secretary
+          </E>
+           means the Secretary of Agriculture and any other officer or employee
+          of the Department of Agriculture to whom authority may be delegated.
+        </P>
+        <P>
+          <E T='03'>
+            Terminate funding
+          </E>
+           means the cancellation of Federal assistance, in whole or in part, at
+          any time before the ending date.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15855'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:A:2500.003
+      </extid>
+      <num st='1'>
+        2500.003
+      </num>
+      <head>
+        Other applicable statutes and regulations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='003' psec='' tq='N'>
+              2500.003
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Other applicable statutes and regulations.
+        </SUBJECT>
+        <P>
+          Several Federal statutes and regulations apply to proposals for
+          Federal assistance considered for review and to grants and cooperative
+          agreements awarded by OAO. These include, but are not limited to:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='1' tq='N'>
+                1
+              </subref>
+            </aref>
+            , Subpart A—USDA implementation of the Freedom of Information Act;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3' tq='N'>
+                3
+              </subref>
+            </aref>
+            —USDA implementation of OMB Circular No. A-129, regarding debt
+            management;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Title VI of the Civil Rights Act of 1964 (Pub. L. 88-352), as
+            amended, which prohibits discrimination on the basis of race, color,
+            or national origin, and 7 
+            <PRTPAGE P='63' />
+            CFR 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='15' tq='N'>
+                15
+              </subref>
+            </aref>
+            , subpart A (USDA implementation);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            —USDA Uniform Federal Assistance Regulations, implementing OMB
+            directives and incorporating provisions of the Federal Grant and
+            Cooperative Agreement Act of 1977, 
+            <aref target='_blank' title='Public Law 95-224' alt='Public Law 95-224' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d95:./list/bd/d95pl.lst:224%28Public_Laws%29'>
+              Public Law 95-224
+            </aref>
+            , 31 U.S.C. 
+            <aref type='CFR-TIC-SECT'>
+              § 6301-6308
+            </aref>
+            , as well as general policy requirements applicable to awardees of
+            Departmental financial assistance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3016' tq='N'>
+                3016
+              </subref>
+            </aref>
+            —USDA implementation of Administrative Requirements for Grants and
+            Cooperative Agreements to State and Local Governments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3017' tq='N'>
+                3017
+              </subref>
+            </aref>
+            —USDA implementation of Governmentwide Debarment and Suspension
+            (Nonprocurement).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3018' tq='N'>
+                3018
+              </subref>
+            </aref>
+            —USDA implementation of Restrictions on Lobbying. Imposes
+            prohibitions and requirements for disclosure and certification
+            related to lobbying on awardees of Federal contracts, grants,
+            cooperative agreements, and loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            —USDA implementation of OMB Circular No. A-110, Uniform
+            Administrative Requirements for Grants and Agreements with
+            Institutions of Higher Education, Hospitals and Other Non-Profit
+            Organizations (now relocated at 
+            <aref type='CFR'>
+              2 CFR part 
+              <subref title='2' part='215' tq='N'>
+                215
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3021' tq='N'>
+                3021
+              </subref>
+            </aref>
+            —USDA implementation of Governmentwide Requirements for Drug-Free
+            Workplace (Financial Assistance).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR Part 
+              <subref title='7' part='3052' tq='N'>
+                3052
+              </subref>
+            </aref>
+            —USDA implementation of OMB Circular No. A-133, Audits of States,
+            Local Governments, and Non-Profit Organizations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='USC'>
+              <subref title='7' sect='3318' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/3318.html'>
+                7 U.S.C. 3318
+              </subref>
+            </aref>
+            —conferring upon the Secretary general authority to enter into
+            contracts, grants, and cooperative agreements to further the
+            research, extension, or teaching programs in the food and
+            agricultural sciences of the Department of Agriculture.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='USC'>
+              <subref title='29' sect='794' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/29/794.html'>
+                29 U.S.C. 794
+              </subref>
+            </aref>
+             (
+            <aref type='CFR-TIC-SECT'>
+              Section 504
+            </aref>
+            , Rehabilitation Act of 1973) and 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='15b' tq='N'>
+                15b
+              </subref>
+            </aref>
+             (USDA implementation of statute)—prohibiting discrimination based
+            upon physical or mental handicap in Federally assisted programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='USC'>
+              <subref title='35' sect='200' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/35/200.html'>
+                35 U.S.C. 200
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            —Bayh-Dole Act, promoting the utilization of inventions arising from
+            federally supported research or development; encouraging maximum
+            participation of small business firms in federally supported
+            research and development efforts; and promoting collaboration
+            between commercial concerns and nonprofit organizations, including
+            universities, while ensuring that the Government obtains sufficient
+            rights in federally supported inventions to meet the needs of the
+            Government and protect the public against nonuse or unreasonable use
+            of inventions (implementing regulations are contained in 
+            <aref type='CFR'>
+              37 CFR part 
+              <subref title='37' part='401' tq='N'>
+                401
+              </subref>
+            </aref>
+            )
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='n'>
+            <enum src='gpotxt' cln='1'>
+              (n)
+            </enum>
+          </npcatch>
+          <text>
+             Title IX of the Education Amendment of 1972 (
+            <aref type='USC'>
+              <subref title='20' sect='1681-168' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/20/1681-168.html'>
+                20 U.S.C. 1681-168
+              </subref>
+            </aref>
+            3 and 1685-1686), as amended, which prohibits discrimination on the
+            basis of sex;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='o'>
+            <enum src='gpotxt' cln='1'>
+              (o)
+            </enum>
+          </npcatch>
+          <text>
+             Age Discrimination Act of 1975 (
+            <aref type='USC'>
+              <subref title='42' sect='6101-610' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/6101-610.html'>
+                42 U.S.C. 6101-610
+              </subref>
+            </aref>
+            7), as amended, which prohibits discrimination on the basis of age;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='p'>
+            <enum src='gpotxt' cln='1'>
+              (p)
+            </enum>
+          </npcatch>
+          <text>
+             Drug Abuse Office and Treatment Act of 1972 (Pub. L. 92-255), as
+            amended, relating to nondiscrimination on the basis of drug abuse;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='q'>
+            <enum src='gpotxt' cln='1'>
+              (q)
+            </enum>
+          </npcatch>
+          <text>
+             Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment
+            and Rehabilitation Act of 1970 (Pub. L. 91-616), as amended,
+            relating to nondiscrimination on the basis of alcohol abuse or
+            alcoholism;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='r'>
+            <enum src='gpotxt' cln='1'>
+              (r)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='UNKNOWN'>
+              Sections 523 and 527 of
+            </aref>
+             the Public Health Service Act of 1912 (
+            <aref type='USC'>
+              <subref title='42' sect='290dd-3' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/290dd-3.html'>
+                42 U.S.C. 290dd-3
+              </subref>
+               and 
+              <subref title='42' sect='290ee-3' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/290ee-3.html'>
+                290ee-3
+              </subref>
+            </aref>
+            ), as amended, relating to confidentiality of alcohol and drug abuse
+            patient records;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='s'>
+            <enum src='gpotxt' cln='1'>
+              (s)
+            </enum>
+          </npcatch>
+          <text>
+             Title VIII of the Civil Rights Act of 1968 (
+            <aref type='USC'>
+              <subref title='42' sect='3601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/42/3601.html'>
+                42 U.S.C. 3601
+              </subref>
+            </aref>
+            <E T='03'>
+              et seq.
+            </E>
+            ), as amended, relating to nondiscrimination in the sale, rental or
+            financing of housing;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='t'>
+            <enum src='gpotxt' cln='1'>
+              (t)
+            </enum>
+          </npcatch>
+          <text>
+             Any other nondiscrimination provisions in the specific statute(s)
+            under which proposals for Federal assistance are made, and the
+            requirements of any other nondiscrimination statute(s) which may
+            apply to the proposal.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15856'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:B:2500.011
+      </extid>
+      <num st='1'>
+        2500.011
+      </num>
+      <head>
+        Competition.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='011' psec='' tq='N'>
+              2500.011
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Competition.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Standards for competition.
+            </head>
+          </npcatch>
+          <text>
+             Except as provided in paragraph (b) of this section, OAO will enter
+            into discretionary grants or cooperative agreement only after
+            competition, unless restricted by statute.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Exception.
+            </head>
+          </npcatch>
+          <text>
+             The OAO ADO may make a determination in writing that 
+            <PRTPAGE P='64' />
+            competition is not deemed appropriate for a particular transaction.
+            Such determination shall be limited to transactions where it can be
+            adequately justified that a noncompetitive award is in the best
+            interest of the Federal Government and necessary to the goals of the
+            program. Non-competitive determinations will comply with regulations
+            established in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3015' sect='158' psec='#d' tq='N'>
+                3015.158(d)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15857'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:B:2500.012
+      </extid>
+      <num st='1'>
+        2500.012
+      </num>
+      <head>
+        Requests for proposals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='012' psec='' tq='N'>
+              2500.012
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Requests for proposals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             For each competitive grant or cooperative agreement, OAO will
+            prepare a program solicitation (also called a request for proposals
+            (RFP)). The RFP may include all or a portion of the following items:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Contact information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Catalog of Federal Domestic Assistance (CFDA) number.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Legislative authority and background information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Purpose, priorities, and fund availability.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Program-specific eligibility requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Program-specific restrictions on the use of funds, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Matching requirements, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Acceptable types of proposals.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Types of projects to be given priority consideration, including
+            maximum anticipated awards and maximum project lengths, if
+            applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Program areas, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             Funding restrictions, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Directions for obtaining additional requests for proposals and
+            proposal forms.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+          </npcatch>
+          <text>
+             Information about how to obtain proposal forms and the instructions
+            for completing such forms.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_14'>
+            <enum src='gpotxt' cln='1'>
+              (14)
+            </enum>
+          </npcatch>
+          <text>
+             Instructions and requirements for submitting proposals, including
+            submission deadline(s).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_15'>
+            <enum src='gpotxt' cln='1'>
+              (15)
+            </enum>
+          </npcatch>
+          <text>
+             Explanation of the proposal evaluation process.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_16'>
+            <enum src='gpotxt' cln='1'>
+              (16)
+            </enum>
+          </npcatch>
+          <text>
+             Specific evaluation criteria used in the review process.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_17'>
+            <enum src='gpotxt' cln='1'>
+              (17)
+            </enum>
+          </npcatch>
+          <text>
+             Type of Federal assistance awards (
+            <E T='03'>
+              i.e.
+            </E>
+            , grants or cooperative agreements).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              RFP variations.
+            </head>
+          </npcatch>
+          <text>
+             Where program-specific requirements differ from the requirements
+            established in this part, program solicitations will also address
+            any such variation(s). Variations may occur in the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Award management guidelines.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Restrictions on the delegation of fiscal responsibility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Required approval for changes to project plans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Expected program outputs and reporting requirements, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Applicable Federal statutes and regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Confidential aspects of proposals and awards, if applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Regulatory information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Definitions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Minimum and maximum budget requests and whether proposals outside
+            of these limits will be returned without further review.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Program announcements.
+            </head>
+          </npcatch>
+          <text>
+             Occasionally, OAO will issue a program announcement (PA) to alert
+            potential applicants and the public about new and ongoing funding
+            opportunities. These PAs may provide tentative due dates and are
+            released without associated proposal packages. No proposals are
+            solicited under a PA. PAs will be announced in the 
+            <E T='04'>
+              Federal Register
+            </E>
+             or on the OAO Web site.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15858'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:B:2500.013
+      </extid>
+      <num st='1'>
+        2500.013
+      </num>
+      <head>
+        Types of proposals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='013' psec='' tq='N'>
+              2500.013
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Types of proposals.
+        </SUBJECT>
+        <P>
+          The type of proposal acceptable may vary by funding opportunity. The
+          RFP will stipulate what will be required for submission to OAO in
+          response to the funding opportunity.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15859'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:B:2500.014
+      </extid>
+      <num st='1'>
+        2500.014
+      </num>
+      <head>
+        Eligibility requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='014' psec='' tq='N'>
+              2500.014
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility requirements.
+        </SUBJECT>
+        <P>
+          Program-specific eligibility requirements appear in the subpart
+          applicable to each program and in the corresponding RFPs.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15860'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:B:2500.015
+      </extid>
+      <num st='1'>
+        2500.015
+      </num>
+      <head>
+        Content of a proposal.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='015' psec='' tq='N'>
+              2500.015
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Content of a proposal.
+        </SUBJECT>
+        <P>
+          The RFP provides instructions on how to access a funding opportunity.
+          The funding opportunity contains the proposal package, which includes
+          the forms necessary for completion of a proposal in response to the
+          RFP. The RFP will be posted on 
+          <E T='03'>
+            http://www.Grants.gov.
+          </E>
+           OAO may also publish the RFP in the 
+          <E T='04'>
+            Federal Register
+          </E>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='15861'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:B:2500.016
+      </extid>
+      <num st='1'>
+        2500.016
+      </num>
+      <head>
+        Submission of a proposal.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='016' psec='' tq='N'>
+              2500.016
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Submission of a proposal.
+        </SUBJECT>
+        <P>
+          The RFP will provide deadlines for the submission of proposals. OAO
+          may issue separate RFPs and/or establish 
+          <PRTPAGE P='65' />
+          separate deadlines for different types of proposals, different award
+          instruments, or different topics or phases of the assistance programs.
+          If proposals are not received by applicable deadlines, they will not
+          be considered for funding. Exceptions will be considered only when
+          extenuating circumstances exist, as determined by OAO, and
+          justification and supporting documentation are provided by the
+          applicant. Conformance with preparation and submission instructions is
+          required and will be strictly enforced unless a deviation has been
+          approved. OAO may establish additional requirements. OAO may return
+          without review proposals that are not consistent with the RFP
+          instructions.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15862'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:B:2500.017
+      </extid>
+      <num st='1'>
+        2500.017
+      </num>
+      <head>
+        Confidentiality of proposals and awards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='017' psec='' tq='N'>
+              2500.017
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Confidentiality of proposals and awards.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Names of entities submitting proposals, as well as proposal
+            contents and evaluations, except to those involved in the review
+            process, will be kept confidential to the extent permissible by law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Identifying confidential and proprietary information in a
+              proposal.
+            </head>
+          </npcatch>
+          <text>
+             If a proposal contains proprietary information that constitutes a
+            trade secret, proprietary commercial or financial information,
+            confidential personal information, or data affecting the national
+            security, it will be treated in confidence to the extent permitted
+            by law, provided that the information is clearly marked by the
+            applicant with the term “confidential and proprietary information.”
+            In addition, the following statement must be included at the bottom
+            of the project narrative or any other attachment included in the
+            proposal that contains such information: “The following pages
+            (specify) contain proprietary information which (name of proposing
+            organization) requests not to be released to persons outside the
+            Government, except for purposes of evaluation.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Disposition of proposals.
+            </head>
+          </npcatch>
+          <text>
+             By law, OAO is required to make the final decisions as to whether
+            the information is required to be kept in confidence. Information
+            contained in unsuccessful proposals will remain the property of the
+            applicant. However, the Department will retain for three years one
+            file copy of each proposal received; extra copies will be destroyed.
+            Public release of information from any proposal submitted will be
+            subject to existing legal requirements. Any proposal that is funded
+            will be considered an integral part of the award and normally will
+            be made available to the public upon request, except for information
+            designated proprietary by OAO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Submission of proprietary information.
+            </head>
+          </npcatch>
+          <text>
+             The inclusion of proprietary information is discouraged unless it
+            is necessary for the proper evaluation of the proposal. If
+            proprietary information is to be included, it should be limited, set
+            apart from other text on a separate page, and keyed to the text by
+            numbers. It should be confined to a few critical technical items
+            that, if disclosed, could jeopardize the obtaining of foreign or
+            domestic patents. Trade secrets, salaries, or other information that
+            could jeopardize commercial competitiveness should be similarly
+            keyed and presented on a separate page. Proposals or reports that
+            attempt to restrict dissemination of large amounts of information
+            may be found unacceptable by OAO and constitute grounds for return
+            of the proposal without further consideration. Without assuming any
+            liability for inadvertent disclosure, OAO will limit dissemination
+            of such information to its employees and, where necessary for the
+            evaluation of the proposal, to outside reviewers on a confidential
+            basis.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15863'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:B:2500.018
+      </extid>
+      <num st='1'>
+        2500.018
+      </num>
+      <head>
+        Electronic submission.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='018' psec='' tq='N'>
+              2500.018
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Electronic submission.
+        </SUBJECT>
+        <P>
+          Applicants and awardees are encouraged, but not required, to submit
+          proposals and reports in electronic form as prescribed in the RFP
+          issued by OAO and in the applicable award agreement.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15864'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:C:2500.021
+      </extid>
+      <num st='1'>
+        2500.021
+      </num>
+      <head>
+        Guiding principles.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='021' psec='' tq='N'>
+              2500.021
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Guiding principles.
+        </SUBJECT>
+        <P>
+          The guiding principle for Federal assistance proposal review and
+          evaluation is to ensure that each proposal is treated in a consistent
+          and fair manner. After the evaluation process by the review panel, OAO
+          will provide an opportunity for applicant feedback in as timely a
+          manner as possible.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15865'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:C:2500.022
+      </extid>
+      <num st='1'>
+        2500.022
+      </num>
+      <head>
+        Preliminary proposal review.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='66' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='022' psec='' tq='N'>
+              2500.022
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Preliminary proposal review.
+        </SUBJECT>
+        <P>
+          Prior to technical examination, a preliminary review will be made of
+          all proposals for responsiveness to the administrative requirements
+          set forth in the RFP. Proposals that do not meet the administrative
+          requirements may be eliminated from program competition. However, OAO
+          retains the right to conduct discussions with applicants to resolve
+          technical and/or budget issues, as deemed necessary by OAO.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15866'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:C:2500.023
+      </extid>
+      <num st='1'>
+        2500.023
+      </num>
+      <head>
+        Selection of reviewers.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='023' psec='' tq='N'>
+              2500.023
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Selection of reviewers.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Requirement.
+            </head>
+          </npcatch>
+          <text>
+             OAO is responsible for performing a review of proposals submitted
+            to OAO competitive award programs. The RFP will identify the
+            criteria that OAO will use for the selection of the proposal review
+            panel.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Confidentiality.
+            </head>
+          </npcatch>
+          <text>
+             The identities of reviewers will remain confidential to the maximum
+            extent possible. Therefore, the names of reviewers will not be
+            released to applicants. Names of applicants, as well as proposal
+            content and evaluation comments will be kept confidential to the
+            extent permitted by law, except to those involved in the review
+            process. Reviewers will comply with the above-mentioned
+            confidentiality guidelines.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Conflicts of interest.
+            </head>
+          </npcatch>
+          <text>
+             During the evaluation process, extreme care will be taken to
+            prevent any actual or perceived conflicts of interest that may
+            impact review or evaluation. Reviewers are expected to be in
+            compliance with the Conflict-of-Interest process made a part of the
+            RFP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15867'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:C:2500.024
+      </extid>
+      <num st='1'>
+        2500.024
+      </num>
+      <head>
+        Evaluation criteria.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='024' psec='' tq='N'>
+              2500.024
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evaluation criteria.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             To ensure any project receiving funds from OAO is consistent with
+            the broad goals of the funding program, the content of each proposal
+            submitted to OAO will be evaluated based on a pre-determined set of
+            review criteria as indicated in the RFP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Guidance for reviewers.
+            </head>
+          </npcatch>
+          <text>
+             In order that all potential applicants for a program have similar
+            opportunities to compete for funds, all reviewers will receive an
+            orientation from the Program Leader of the review criteria.
+            Reviewers are instructed to use those same evaluation criteria, and
+            only those criteria, to judge the merit of the proposals they
+            review.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15868'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:C:2500.025
+      </extid>
+      <num st='1'>
+        2500.025
+      </num>
+      <head>
+        Procedures to minimize or eliminate duplication of effort.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='025' psec='' tq='N'>
+              2500.025
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Procedures to minimize or eliminate duplication of effort.
+        </SUBJECT>
+        <P>
+          OAO may implement appropriate business processes to minimize or
+          eliminate the awarding of Federal assistance to projects that
+          unnecessarily duplicate activities already being sponsored under other
+          awards, including awards made by other Federal agencies.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15869'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:C:2500.026
+      </extid>
+      <num st='1'>
+        2500.026
+      </num>
+      <head>
+        Applicant feedback.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='026' psec='' tq='N'>
+              2500.026
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicant feedback.
+        </SUBJECT>
+        <P>
+          Unsuccessful applicants may submit a request for applicant feedback in
+          writing to OAO within 10 days after receiving written notice of not
+          being selected for further processing. Applicant feedback requests are
+          to be mailed to the Program Leader at the address below, unless
+          otherwise stated in the “Notice of Non-Selection” or in the RFP. At
+          OAO&apos;s discretion, either written or oral feedback will be
+          provided to unsuccessful applicants.
+        </P>
+        <P>
+          U.S. Department of Agriculture, Departmental Management, Office of
+          Advocacy and Outreach, 
+          <E T='03'>
+            Attn:
+          </E>
+           Program Leader (Applicant Feedback), Whitten Building, Rm. 520-A,
+          stop 9821, 1400 Independence Avenue, SW., Washington, DC 20250-9821.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15870'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:D:2500.031
+      </extid>
+      <num st='1'>
+        2500.031
+      </num>
+      <head>
+        Administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='031' psec='' tq='N'>
+              2500.031
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administration.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Within the limit of funds available for such purpose, the OAO ADO
+            shall make Federal assistance awards to those responsible, eligible
+            applicants whose proposals are judged most meritorious under the
+            procedures set forth in the RFP. The date specified by the OAO ADO
+            as the effective date of the award shall be no later than September
+            30th of the Federal fiscal year in which the project is approved for
+            support and funds are appropriated for such purpose, unless
+            otherwise permitted by law. It should be noted that the project need
+            not be initiated on the award effective date, but as soon thereafter
+            as practical so that project goals may be attained within the funded
+            project period. All funds awarded by OAO shall be expended solely
+            for the 
+            <PRTPAGE P='67' />
+            purpose for which the funds are awarded in accordance with the
+            approved statement of work and budget, the regulations, the terms
+            and conditions of the OAO award agreement, the applicable Federal
+            cost principles, and the Department&apos;s assistance regulations
+            (e.g., 
+            <aref type='CFR'>
+              7 CFR parts 
+              <subref title='7' part='3015' tq='N'>
+                3015, 3016
+              </subref>
+              , and 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Award agreement.
+            </head>
+          </npcatch>
+          <text>
+             The award agreement and accompanying terms and conditions will
+            provide pertinent instructions and information including, at a
+            minimum, the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Legal name and address of performing organization or institution to
+            which OAO has awarded a grant or cooperative agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Title of project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Name(s) of Project Director(s).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Identifying award number assigned by OAO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Project period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Total amount of OAO financial assistance approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             Legal authority under which the grant or cooperative agreement is
+            awarded.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             Appropriate CFDA number.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Approved budget plan (that may be referenced).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Terms and Conditions
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15871'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.041
+      </extid>
+      <num st='1'>
+        2500.041
+      </num>
+      <head>
+        Payment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='041' psec='' tq='N'>
+              2500.041
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             All payments will be made in advance unless a deviation is accepted
+            or as specified in paragraph (b) of this section. All payments to
+            the awardee shall be made via the approved electronic funds transfer
+            (EFT) method. Awardees are expected to request funds via the
+            federally-approved electronic payment system for reimbursement in a
+            timely manner. Exact payment method will be described in the terms
+            and conditions of the award agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Reimbursement method.
+            </head>
+          </npcatch>
+          <text>
+             OAO shall use the reimbursement method if it determines that
+            advance payment is not feasible or that the awardee does not
+            maintain or demonstrate the willingness to maintain written
+            procedures that minimize the elapse of time between the transfer of
+            funds and disbursement by the awardee, and financial management
+            systems that meet the standards for fund control and accountability.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15872'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.042
+      </extid>
+      <num st='1'>
+        2500.042
+      </num>
+      <head>
+        Cost sharing and matching.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='042' psec='' tq='N'>
+              2500.042
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Cost sharing and matching.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Awardees may be required to match the Federal funds received under
+            an OAO award. The required percentage of matching, type of matching
+            (e.g., cash and/or in-kind contributions), sources of match (e.g.,
+            non-Federal), and whether OAO has any authority to waive the match
+            will be specified in the subpart applicable to the specific Federal
+            assistance program, as well as in the RFP.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Indirect costs as in-kind matching contributions.
+            </head>
+          </npcatch>
+          <text>
+             Indirect costs may be claimed under the Federal portion of the
+            award budget. However, unless explicitly authorized in the RFP,
+            indirect costs may not be claimed on both the Federal and nonfederal
+            portion of the award budget.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15873'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.043
+      </extid>
+      <num st='1'>
+        2500.043
+      </num>
+      <head>
+        Program income.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='043' psec='' tq='N'>
+              2500.043
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program income.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             OAO shall apply the standards set forth in this subpart in
+            requiring awardee organizations to account for program income
+            related to projects financed in whole or in part with Federal funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Addition method.
+            </head>
+          </npcatch>
+          <text>
+             Unless otherwise provided in the authorizing statute, in accordance
+            with the terms and conditions of the award, program income earned
+            during the project period shall be retained by the awardee and shall
+            be added to funds committed to the project by OAO and the awardee
+            and used to further eligible project or program objectives. Any
+            specific program deviations will be identified in the individual
+            subparts.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Award terms and conditions.
+            </head>
+          </npcatch>
+          <text>
+             Unless the program regulations identified in the individual subpart
+            provide otherwise, awardees shall follow the terms and conditions of
+            the OAO award. Such terms and conditions will be made a part of the
+            OAO award agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15874'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.044
+      </extid>
+      <num st='1'>
+        2500.044
+      </num>
+      <head>
+        Indirect costs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='044' psec='' tq='N'>
+              2500.044
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Indirect costs.
+        </SUBJECT>
+        <P>
+          Indirect cost rates for grants and cooperative agreements shall be
+          determined in accordance with the applicable assistance regulations
+          and cost principles, unless superseded by another authority.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15875'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.045
+      </extid>
+      <num st='1'>
+        2500.045
+      </num>
+      <head>
+        Technical reporting.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='68' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='045' psec='' tq='N'>
+              2500.045
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Technical reporting.
+        </SUBJECT>
+        <P>
+          All projects supported with Federal funds under this part must be
+          documented according to the terms and conditions of the OAO award
+          agreement.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15876'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.046
+      </extid>
+      <num st='1'>
+        2500.046
+      </num>
+      <head>
+        Financial reporting.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='046' psec='' tq='N'>
+              2500.046
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Financial reporting.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              SF-425, Federal Financial Report.
+            </head>
+          </npcatch>
+          <text>
+             As stated in the award terms and conditions of the OAO award
+            agreement, a final SF-425, Federal Financial Report, is due 90 days
+            after the expiration of the award and should be submitted to OAO
+            electronically. The awardee shall report program outlays and program
+            income on the same accounting basis (
+            <E T='03'>
+              i.e.
+            </E>
+            , cash or accrual) that it uses in its normal accounting system.
+            When submitting a final SF-425, Federal Financial Report, the total
+            matching contribution, if required, should be shown in the report.
+            The final SF-425 must not show any unliquidated obligations. If the
+            awardee still has valid obligations that remain unpaid when the
+            report is due, it shall request an extension of time for submitting
+            the report pursuant to paragraph (c) of this section; submit a
+            provisional report (showing the unliquidated obligations) by the due
+            date; and submit a final report when all obligations have been
+            liquidated, but no later than the approved extension date. SF-425,
+            Federal Financial Reports, must be submitted by all awardees,
+            including Federal agencies and national laboratories.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Awards with required matching.
+            </head>
+          </npcatch>
+          <text>
+             For awards requiring a matching contribution, an annual SF-425,
+            Federal Financial Report, is required and this requirement will be
+            indicated in the terms and conditions of the OAO award agreement, in
+            which case it must be submitted no later than 45 days following the
+            end of the budget or reporting period.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              After the due date.
+            </head>
+          </npcatch>
+          <text>
+             Requests are considered late when they are submitted after the
+            90-day period following the award expiration date. Requests to
+            submit a late final SF-425, Federal Financial Report, will only be
+            considered, up to 30 days after the due date, in extenuating
+            circumstances. This request should include a provisional report
+            pursuant to paragraph (a) of this section, as well as an anticipated
+            submission date, a justification for the late submission, and a
+            justification for the extenuating circumstances. If an awardee needs
+            to request additional funds, procedures in paragraph (d) of this
+            section apply.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Overdue SF-425, Federal Financial Reports.
+            </head>
+          </npcatch>
+          <text>
+             Awardees with overdue SF-425, Federal Financial Reports, or other
+            required financial reports (as identified in the award terms and
+            conditions), will have their applicable balances in the approved
+            federal electronic funds transfer system restricted or placed on
+            “manual review,” which restricts the awardee&apos;s ability to draw
+            funds, thus requiring prior approval from OAO. If any remaining
+            available balances are needed by the awardee (beyond the 90-day
+            period following the award expiration date) and the awardee has not
+            requested an extension to submit a final SF-425, Financial Status
+            Report, the awardee will be required to contact OAO to request
+            permission to draw any additional funds and will be required to
+            provide justification and documentation to support the draw.
+            Awardees also will need to comply with procedures in paragraph (c)
+            of this section. OAO will approve these draw requests only in
+            extenuating circumstances.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Additional reporting requirements.
+            </head>
+          </npcatch>
+          <text>
+             OAO may require forecasts of Federal cash requirements in the
+            “Remarks” section of the report; and when practical and deemed
+            necessary, OAO may require awardees to report in the “Remarks”
+            section the amount of cash advances received in excess of three days
+            (
+            <E T='03'>
+              i.e.
+            </E>
+            , short narrative with explanations of actions taken to reduce the
+            excess balances). When OAO needs additional information or more
+            frequent reports, a special provision will be added to the award
+            terms and conditions and identified in the OAO award agreement.
+            Should OAO determine that an awardee&apos;s accounting system is
+            inadequate, additional pertinent information to further monitor
+            awards may be requested from the awardee until such time as the
+            system is brought up to standard, as determined by OAO. This
+            additional reporting requirement will be required via a special
+            provision to the award terms and conditions of the OAO award
+            agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15877'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.047
+      </extid>
+      <num st='1'>
+        2500.047
+      </num>
+      <head>
+        Project meetings.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='69' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='047' psec='' tq='N'>
+              2500.047
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Project meetings.
+        </SUBJECT>
+        <P>
+          In addition to reviewing and monitoring the status of progress and
+          final technical reports and financial reports, OAO Project Officers
+          may use regular and periodic conference calls to monitor the
+          awardee&apos;s performance as well as conferences, workshops,
+          meetings, and symposia to not only monitor the awards, but to
+          facilitate communication and the sharing of project results. These
+          opportunities also serve to eliminate or minimize OAO funding of
+          unneeded duplicative project activities. Required attendance at these
+          conference calls, conferences, workshops, meetings, and symposia will
+          be identified in the RFP or award document.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15878'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.048
+      </extid>
+      <num st='1'>
+        2500.048
+      </num>
+      <head>
+        Review of disallowed costs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='048' psec='' tq='N'>
+              2500.048
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Review of disallowed costs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Notice.
+            </head>
+          </npcatch>
+          <text>
+             If the OAO Project Officer (PO) determines that there is a basis
+            for disallowing a cost, OAO shall provide the awardee written notice
+            of its intent to disallow the cost. The written notice shall state
+            the amount of the cost and the factual and legal basis for
+            disallowing it.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Awardee response.
+            </head>
+          </npcatch>
+          <text>
+             Within 60 days of receiving written notice of the PO&apos;s intent
+            to disallow the cost, the awardee may respond with written evidence
+            and arguments to show the cost is allowable, or that, for equitable,
+            practical, or other reasons, shall not recover all or part of the
+            amount, or that the recovery should be made in installments. An
+            extension of time will be granted only in extenuating circumstances.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Decision.
+            </head>
+          </npcatch>
+          <text>
+             Within 60 days of receiving the awardee&apos;s written response to
+            the notice of intent to disallow the cost, the PO shall issue a
+            management decision stating whether or not the cost has been
+            disallowed, the reasons for the decision, and the method of appeal
+            that has been provided under this section. If the awardee does not
+            respond to the written notice under paragraph (a) of this section
+            within the time frame specified in paragraph (b) of this section,
+            the PO shall issue a management decision on the basis of the
+            information available to it. The management decision shall
+            constitute the final action with respect to whether the cost is
+            allowed or disallowed. In the case of a questioned cost identified
+            in the context of an audit subject to 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3052' tq='N'>
+                3052
+              </subref>
+            </aref>
+            , the management decision will constitute the management decision
+            under 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3052' sect='405' psec='#a' tq='N'>
+                3052.405(a)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Demand for payment.
+            </head>
+          </npcatch>
+          <text>
+             If the management decision under paragraph (c) of this section
+            constitutes a finding that the cost is disallowed and, therefore,
+            that a debt is owed to the Government, the PO shall provide the
+            required demand and notice pursuant to 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3' sect='11' psec='' tq='N'>
+                3.11
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Review process.
+            </head>
+          </npcatch>
+          <text>
+             Within 60 days of receiving the demand and notice referred to in
+            paragraph (d) of this section, the awardee may submit a written
+            request to the OAO Director for a review of the final management
+            decision that the debt exists and the amount of the debt. Within 60
+            days of receiving the written request for a review, the OAO Director
+            will issue a final decision regarding the debt. A review by the OAO
+            Director or designee constitutes an administrative review for debts
+            under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3' tq='N'>
+                3
+              </subref>
+            </aref>
+            , subpart F.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15879'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.049
+      </extid>
+      <num st='1'>
+        2500.049
+      </num>
+      <head>
+        Prior approvals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='049' psec='' tq='N'>
+              2500.049
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Prior approvals.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Subcontracts.
+            </head>
+          </npcatch>
+          <text>
+             No more than 50 percent of the award may be subcontracted to other
+            parties without prior written approval of the ADO. Any subcontract
+            awarded to a Federal agency under an award must have prior written
+            approval of the ADO. To request approval, a justification for the
+            proposed subcontractual arrangements, a performance statement, and a
+            detailed budget for the subcontract must be submitted to the ADO.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              No-cost extensions of time—
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             Awardees may initiate a one-time no-cost extension of the
+            expiration date of the award of up to 12 months unless one or more
+            of the following conditions apply: the terms and conditions of the
+            award prohibit the extension; the extension requires additional
+            Federal funds; and the extension involves any change in the approved
+            objectives or scope of the project. For the first no-cost extension,
+            the awardee must notify OAO in writing with the supporting reasons
+            and revised expiration date at least 10 days before the expiration
+            date specified in the award.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Additional requests for no-cost extensions of time before
+              expiration date.
+            </head>
+          </npcatch>
+          <text>
+             When more than one no-cost extension 
+            <PRTPAGE P='70' />
+            of time or an extension of more than 12 months is required, the
+            extension(s) must be approved in writing by the PO. The awardee must
+            submit a written request, which must be received no later than 10
+            days prior to the expiration date of the award, to the PO. The
+            request must contain, at a minimum, the following information: The
+            length of the additional time required to complete the project
+            objectives and a justification for the extension; a summary of the
+            progress to date; an estimate of the funds expected to remain
+            unobligated on the scheduled expiration date; a projected timetable
+            to complete the portion(s) of the project for which the extension is
+            being requested; and signature of the AOR and the PD.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Requests for no-cost extensions of time after expiration date.
+            </head>
+          </npcatch>
+          <text>
+             OAO may consider and approve requests for no-cost extensions of
+            time up to 120 days following the expiration of the award. These
+            will be approved only for extenuating circumstances, as determined
+            by OAO. The awardee&apos;s AOR must submit the requirements
+            identified under paragraph (b)(2) of this section as well as an
+            “extenuating circumstance” justification and a description of the
+            actions taken by the awardee to minimize these requests in the
+            future.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Other requirements.
+            </head>
+          </npcatch>
+          <text>
+             No-cost extensions of time may not be exercised merely for the
+            purpose of using unobligated balances.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15880'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.050
+      </extid>
+      <num st='1'>
+        2500.050
+      </num>
+      <head>
+        Suspension, termination, and withholding of support.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='050' psec='' tq='N'>
+              2500.050
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Suspension, termination, and withholding of support.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             If an awardee has failed to materially comply with the terms and
+            conditions of the award, OAO may take certain enforcement actions,
+            including, but not limited to, suspending the award pending
+            corrective action and terminating the award for cause.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Suspension.
+            </head>
+          </npcatch>
+          <text>
+             OAO generally will suspend (rather than immediately terminate) an
+            award to allow the awardee an opportunity to take appropriate
+            corrective action before OAO makes a termination decision. OAO may
+            decide to terminate the award if the awardee does not take
+            appropriate corrective action during the period of suspension. OAO
+            may terminate, without first suspending, the award if the deficiency
+            is so serious as to warrant immediate termination. Termination for
+            cause may be appealed under the terms and conditions identified in
+            the OAO award agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Termination.
+            </head>
+          </npcatch>
+          <text>
+             An award also may be terminated, partially or wholly, by the
+            awardee or by OAO with the consent of the awardee. If the awardee
+            decides to terminate a portion of the award, OAO may determine that
+            the remaining portion of the award will not accomplish the purposes
+            for which the award was originally made. In any such case, OAO will
+            advise the awardee of the possibility of termination of the entire
+            award and allow the awardee to withdraw its termination request. If
+            the awardee does not withdraw its request for partial termination,
+            OAO may initiate procedures to terminate the entire award for cause.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15881'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.051
+      </extid>
+      <num st='1'>
+        2500.051
+      </num>
+      <head>
+        Debt collection.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='051' psec='' tq='N'>
+              2500.051
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Debt collection.
+        </SUBJECT>
+        <P>
+          The collection of debts owed to OAO by awardees, including those
+          resulting from cost disallowances, recovery of funds, unobligated
+          balances, or other circumstances, are subject to the Department&apos;s
+          debt collection procedures as set forth in 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='3' tq='N'>
+              3
+            </subref>
+          </aref>
+          , and, with respect to cost disallowances, 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='048' psec='' tq='N'>
+              2500.048
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='15882'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.052
+      </extid>
+      <num st='1'>
+        2500.052
+      </num>
+      <head>
+        Award appeals procedures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='052' psec='' tq='N'>
+              2500.052
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Award appeals procedures.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              General.
+            </head>
+          </npcatch>
+          <text>
+             OAO permits awardees to appeal certain adverse post-award
+            administrative decisions made by OAO. Such adverse decisions
+            include: Termination, in whole or in part, and determination that an
+            award is void. An award may be terminated for failure of the awardee
+            to carry out its approved project in accordance with the applicable
+            law and the terms and conditions of award; or for failure of the
+            awardee otherwise to comply with any law, regulation, assurance,
+            term, or condition applicable to the award. Additionally, an award
+            may be determined to be void if, for example, it was not authorized
+            by statute or regulation or because it was fraudulently obtained.
+            Appeals of determinations regarding the allowability of costs are
+            subject to the procedures in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='2500' sect='048' psec='' tq='N'>
+                2500.048
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Appeal Procedures.
+            </head>
+          </npcatch>
+          <text>
+             The formal notification of an adverse determination will contain a
+            statement of the awardee&apos;s appeal rights. To appeal an adverse 
+            <PRTPAGE P='71' />
+            determination, the awardee must submit a request for review to the
+            OAO official specified in the notification, detailing the nature of
+            the disagreement with the adverse determination and providing
+            supporting documents in accordance with the procedures contained in
+            the notification. The awardee&apos;s request to OAO for review must
+            be received within 60 days after receipt of the written notification
+            of the adverse determination; however, an extension may be granted
+            if the awardee can show good cause why an extension is warranted.
+            OAO will carefully consider the merits of all requests for appeals
+            and further reviews. However, at the conclusion of the OAO appeal
+            review process, the OAO decision rendered on the appeal is
+            considered final. The awardee will be notified in writing by OAO of
+            final appeal review determinations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15883'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.053
+      </extid>
+      <num st='1'>
+        2500.053
+      </num>
+      <head>
+        Expiring appropriations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='053' psec='' tq='N'>
+              2500.053
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Expiring appropriations.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              OAO awards supported with office appropriations.
+            </head>
+          </npcatch>
+          <text>
+             Most OAO awards are supported with annual appropriations. On
+            September 30th of the 5th fiscal year after the period of
+            availability for obligation ends, the funds for these appropriations
+            accounts expire per 
+            <aref type='USC'>
+              <subref title='31' sect='1552' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/31/1552.html'>
+                31 U.S.C. 1552
+              </subref>
+            </aref>
+             and the account is closed, unless otherwise specified by law. Funds
+            that have not been drawn through the approved electronic funds
+            transfer system, by the awardee or disbursed through any other
+            system or method by August 31st of that fiscal year are subject to
+            be returned to the U.S. Department of the Treasury after that date.
+            The August 31st requirement also applies to awards with a 90-day
+            period concluding on a date after August 31st of that fifth year.
+            Appropriations cannot be restored after expiration of the accounts.
+            More specific instructions are provided in the OAO award terms and
+            conditions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              OAO awards supported with funds from other Federal agencies
+              (reimbursable funds).
+            </head>
+          </npcatch>
+          <text>
+             OAO may require that all draws and reimbursements for awards
+            supported with reimbursable funds (from other Federal agencies) be
+            completed prior to June 30th of the 5th fiscal year after the period
+            of availability for obligation ends to allow for the proper billing,
+            collection, and close-out of the associated interagency agreement
+            before the appropriations expire. The June 30th requirement also
+            applies to awards with a 90-day period concluding on a date after
+            June 30th of that fifth year. Appropriations cannot be restored
+            after expiration of the accounts. More specific instructions are
+            provided in the terms and conditions of the OAO award agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15884'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.055
+      </extid>
+      <num st='1'>
+        2500.055
+      </num>
+      <head>
+        Audit.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='055' psec='' tq='N'>
+              2500.055
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Audit.
+        </SUBJECT>
+        <P>
+          Awardees must comply with the audit requirements of 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='3052' tq='N'>
+              3052
+            </subref>
+          </aref>
+          . The audit requirements apply to the years in which Federal financial
+          assistance funds are received and years in which work is accomplished
+          using these funds.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15885'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:E:2500.056
+      </extid>
+      <num st='1'>
+        2500.056
+      </num>
+      <head>
+        Civil rights.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='056' psec='' tq='N'>
+              2500.056
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Civil rights.
+        </SUBJECT>
+        <P>
+          Awardees must comply with the civil rights requirements of 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='15' tq='N'>
+              15
+            </subref>
+          </aref>
+          , subpart A—USDA implementation of Title VI of the Civil Rights Act of
+          1964, as amended. In accordance, no person in the United States shall,
+          on the ground of race, color, or national origin, be excluded from
+          participation in, be denied the benefits of, or be otherwise subjected
+          to discrimination under any program or activity for which the
+          recipient receives Federal financial assistance and will immediately
+          take any measures necessary to effectuate this agreement.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15886'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.101
+      </extid>
+      <num st='1'>
+        2500.101
+      </num>
+      <head>
+        Applicability of regulations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='101' psec='' tq='N'>
+              2500.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicability of regulations.
+        </SUBJECT>
+        <P>
+          The regulations in this subpart apply to the Outreach and Assistance
+          for Socially Disadvantaged Farmers and Ranchers (OASDFR) Program
+          authorized under 
+          <aref type='UNKNOWN'>
+            section 2501 of
+          </aref>
+           the Food, Agriculture, Conservation and Trade Act of 1990 (
+          <aref type='USC'>
+            <subref title='7' sect='2279' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/2279.html'>
+              7 U.S.C. 2279
+            </subref>
+          </aref>
+          ), as amended. Unless otherwise specified in this subpart, the
+          requirements of 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='2500' tq='N'>
+              2500
+            </subref>
+          </aref>
+           subparts A through E will apply in addition to the requirements
+          discussed in this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15887'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.102
+      </extid>
+      <num st='1'>
+        2500.102
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='72' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='102' psec='' tq='N'>
+              2500.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The purpose of the OASDFR Program is to make competitive awards to
+            provide outreach and technical assistance to encourage and assist
+            socially disadvantaged farmers and ranchers in:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Owning and operating farms, ranches and non-industrial forest
+            lands; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In participating equitably in the full range of agricultural
+            programs offered by the Department.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The OASDFR Program awards shall be used exclusively to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Enhance coordination of the outreach, technical assistance, and
+            education efforts authorized under agriculture programs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Assist in reaching current and prospective socially disadvantaged
+            farmers, ranchers or forest landowners in a linguistically
+            appropriate manner; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Improve the participation of those farmers and ranchers in
+            agricultural programs.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15888'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.103
+      </extid>
+      <num st='1'>
+        2500.103
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='103' psec='' tq='N'>
+              2500.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The definitions provided in subpart A apply to this subpart. In
+          addition, the definitions that apply specifically to the OASDFR
+          Program under this subpart include:
+        </P>
+        <P>
+          <E T='03'>
+            Agriculture programs
+          </E>
+           means those programs administered within the Department, by agencies
+          including but not limited to: Forest Service (FS), Natural Resources
+          Conservation Service (NRCS), Farm Service Agency (FSA), Risk
+          Management Agency (RMA), Rural Development (RD), Rural Business
+          Cooperative Service (RBCS), National Institute of Food and Agriculture
+          (NIFA), and Agricultural Marketing Service (AMS), and other such
+          programs as determined by the Department on a case-by-case basis
+          either at the OAO Director&apos;s initiative or in response to a
+          written request with supporting explanation for inclusion of a
+          program. (For further details on specific programs included under this
+          subpart see 
+          <aref type='USC'>
+            <subref title='7' sect='2279' note='' psec='#e_3' tq='N' target='http://www.law.cornell.edu/uscode/7/2279.html#e_3'>
+              7 U.S.C. 2279(e)(3)
+            </subref>
+          </aref>
+           or the RFP).
+        </P>
+        <P>
+          <E T='03'>
+            Alaska Native
+          </E>
+           means a citizen of the United States who is a person of one-fourth or
+          more Alaska Indian, Eskimo, or Aleut blood, or combination thereof.
+          (For further specification, see 
+          <aref type='USC'>
+            <subref title='43' sect='1602' note='' psec='#b' tq='N' target='http://www.law.cornell.edu/uscode/43/1602.html#b'>
+              43 U.S.C 1602(b)
+            </subref>
+          </aref>
+           or the RFP).
+        </P>
+        <P>
+          <E T='03'>
+            Alaska Native cooperative colleges
+          </E>
+           means an eligible post-secondary educational institution that has an
+          enrollment of undergraduate full-time equivalent students that is at
+          least 20 percent Alaska Native students at the time of submission of a
+          proposal.
+        </P>
+        <P>
+          <E T='03'>
+            Assistance
+          </E>
+           means providing educational and technical assistance to socially
+          disadvantaged farmers, ranchers, and forest landowners in (1) owning
+          and operating farms, ranches, and non-industrial forest lands; and (2)
+          in participating equitably in the full range of agricultural programs
+          offered by the Department through workshops, site visits and other
+          means of contact in a linguistically appropriate manner.
+        </P>
+        <P>
+          <E T='03'>
+            Farmer, rancher, or forest landowner
+          </E>
+           means the person who primarily cultivates, operates, or manages a
+          farm, ranch, or forest for profit, either as owner or tenant. A farm
+          includes livestock, dairy, poultry, fish, fruit, and truck farms. It
+          also includes plantations, ranches, ranges, and orchards.
+        </P>
+        <P>
+          <E T='03'>
+            Hispanic-serving institution
+          </E>
+           means an eligible institution of higher education that has an
+          enrollment of undergraduate full-time equivalent students that is at
+          least 25 percent Hispanic students at the end of the award year
+          immediately preceding the date of submission of a proposal (see 
+          <aref type='USC'>
+            <subref title='20' sect='1101a' note='' psec='#5' tq='N' target='http://www.law.cornell.edu/uscode/20/1101a.html#5'>
+              20 U.S.C. 1101a(5)
+            </subref>
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Indian tribe
+          </E>
+           means any Indian tribe, band, nation, or other organized group or
+          community, including any Alaska Native village or regional or village
+          corporation as defined in or established pursuant to the Alaska Native
+          Claims Settlement Act (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=92_statutes_at_large&amp;position=all&amp;page=688'>
+            85 Stat. 688
+          </aref>
+          ) (
+          <aref type='USC'>
+            <subref title='43' sect='1601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601.html'>
+              43 U.S.C. 1601
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ), which is recognized as eligible for the special programs and
+          services provided by the United States to Indians because of their
+          status as Indians. (For further specification, see 
+          <aref type='USC'>
+            <subref title='25' sect='450b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/25/450b.html'>
+              25 U.S.C. 450b
+            </subref>
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Indian tribal community college
+          </E>
+           means a post-secondary education institution which is formally
+          controlled, or has been officially sanctioned, or chartered, by the
+          governing body of an Indian tribe or tribes. (See 
+          <aref type='USC'>
+            <subref title='25' sect='1801' note='' psec='#a_4' tq='N' target='http://www.law.cornell.edu/uscode/25/1801.html#a_4'>
+              25 U.S.C. 1801(a)(4)
+            </subref>
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Institution of higher education
+          </E>
+           means an educational institution in any State that is a public or
+          other nonprofit institution that is legally authorized and 
+          <PRTPAGE P='73' />
+          accredited by a nationally recognized accrediting agency or
+          association to provide a program of education beyond secondary
+          education for which the institution awards a bachelor&apos;s degree.
+          (For further specification, see 
+          <aref type='USC'>
+            <subref title='20' sect='1001' note='' psec='#a' tq='N' target='http://www.law.cornell.edu/uscode/20/1001.html#a'>
+              20 U.S.C. 1001(a)
+            </subref>
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Outreach
+          </E>
+           means the use of formal and informal educational materials and
+          activities in a linguistically appropriate manner that serve to
+          encourage and assist socially disadvantaged farmers and ranchers in:
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Owning and operating farms and ranches; and in
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Participating equitably in the full range of agricultural programs
+            offered by the Department.
+          </text>
+        </P>
+        <P>
+          <E T='03'>
+            Socially disadvantaged farmer, rancher or forest landowner
+          </E>
+           means a farmer, rancher, or forest landowner who is a member of a
+          socially disadvantaged group. (See 
+          <aref type='USC'>
+            <subref title='7' sect='2279' note='' psec='#e_2' tq='N' target='http://www.law.cornell.edu/uscode/7/2279.html#e_2'>
+              7 U.S.C. 2279(e)(2)
+            </subref>
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            Socially disadvantaged group
+          </E>
+           means a group whose members have been subjected to racial or ethnic
+          prejudice because of their identity as members of a group without
+          regard to their individual qualities. (See 
+          <aref type='USC'>
+            <subref title='7' sect='2279' note='' psec='#e_1' tq='N' target='http://www.law.cornell.edu/uscode/7/2279.html#e_1'>
+              7 U.S.C. 2279(e)(1)
+            </subref>
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            State
+          </E>
+           means any of the 50 States of the United States, the District of
+          Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of
+          the United States, American Samoa, the Commonwealth of the Northern
+          Mariana Islands, and federally recognized Indian tribes.
+        </P>
+        <P>
+          <E T='03'>
+            Supplemental funding
+          </E>
+           means funding to an existing awardee in addition to the amount of the
+          original award contained in the grant or cooperative agreement. Such
+          additional funding is intended to continue or expand work that is
+          within the scope of the original agreement and statement of work.
+        </P>
+        <P>
+          <E T='03'>
+            Tribal organization
+          </E>
+           means the recognized governing body of any Indian tribe. A tribal
+          organization is any legally established organization of Indians which
+          is controlled, sanctioned, or chartered by such governing body or
+          which is democratically elected by the adult members of the Indian
+          community. In any case where an award is made to an organization to
+          perform services benefiting more than one Indian tribe, the approval
+          of each participating Indian tribe shall be a prerequisite to the
+          making of such an award. (See 
+          <aref type='USC'>
+            <subref title='25' sect='1603' note='' psec='#25' tq='N' target='http://www.law.cornell.edu/uscode/25/1603.html#25'>
+              25 U.S.C. 1603(25)
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='15889'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.104
+      </extid>
+      <num st='1'>
+        2500.104
+      </num>
+      <head>
+        Eligibility requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='104' psec='' tq='N'>
+              2500.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligibility requirements.
+        </SUBJECT>
+        <P>
+          Proposals may be submitted by any of the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Any community-based organization, network, or coalition of
+            community-based organizations that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Has demonstrated experience in providing agricultural education or
+            other agriculturally related services to socially disadvantaged
+            farmers, ranchers, and forest landowners;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Has provided to the Secretary documentary evidence of work with,
+            and on behalf of socially disadvantaged farmers, ranchers, or forest
+            landowners during the three-year period preceding the submission of
+            a proposal for assistance under this program; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Does not engage in activities prohibited under 
+            <aref type='UNKNOWN'>
+              Section 501(c)(3) of
+            </aref>
+             the Internal Revenue Code of 1986.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An 1890 institution or 1994 institution (as defined in 
+            <aref type='USC'>
+              <subref title='7' sect='7601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/7601.html'>
+                7 U.S.C. 7601
+              </subref>
+            </aref>
+            ), including West Virginia State University.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             An Indian tribal community college or an Alaska Native cooperative
+            college.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A Hispanic-serving institution (as defined in 
+            <aref type='USC'>
+              <subref title='7' sect='3103' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/3103.html'>
+                7 U.S.C. 3103
+              </subref>
+            </aref>
+            ).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Any other institution of higher education (as defined in 
+            <aref type='USC'>
+              <subref title='20' sect='1001' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/20/1001.html'>
+                20 U.S.C. 1001
+              </subref>
+            </aref>
+            ) that has demonstrated experience in providing agriculture
+            education or other agriculturally related services to socially
+            disadvantaged farmers, ranchers, and forest landowners in a region.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             An Indian tribe (as defined in 
+            <aref type='USC'>
+              <subref title='25' sect='450b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/25/450b.html'>
+                25 U.S.C. 450b
+              </subref>
+            </aref>
+            ) or a national tribal organization that has demonstrated experience
+            in providing agriculture education or other agriculturally-related
+            services to socially disadvantaged farmers, ranchers, and forest
+            landowners in a region.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Other organizations or institutions that received funding under
+            this program before January 1, 1996, but only with respect to
+            projects that the Secretary considers are similar to projects
+            previously carried out by the entity under this program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15890'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.105
+      </extid>
+      <num st='1'>
+        2500.105
+      </num>
+      <head>
+        Project types and priorities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='105' psec='' tq='N'>
+              2500.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Project types and priorities.
+        </SUBJECT>
+        <P>
+          For each RFP, OAO may develop and include the appropriate project
+          types 
+          <PRTPAGE P='74' />
+          and focus areas based on the critical needs of the socially
+          disadvantaged farmer and rancher community. For standard OASDFR
+          projects, competitive grants or cooperative agreements will be awarded
+          to support programs and services, as appropriate, to encourage and
+          assist socially disadvantaged farmers and ranchers in the following
+          focus areas:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Owning and operating farms and ranches;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Participating equitably in the full range of agricultural programs
+            offered by the Department; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Other areas as specified by the Secretary in the RFP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='15891'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.106
+      </extid>
+      <num st='1'>
+        2500.106
+      </num>
+      <head>
+        Funding restrictions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='106' psec='' tq='N'>
+              2500.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Funding restrictions.
+        </SUBJECT>
+        <P>
+          Funds made available under this subpart shall not be used for the
+          construction of a new building or facility or the acquisition,
+          expansion, remodeling, or alteration of an existing facility
+          (including site grading and improvement, and architect fees).
+        </P>
+      </contents>
+    </section>
+    <section orderid='15892'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.107
+      </extid>
+      <num st='1'>
+        2500.107
+      </num>
+      <head>
+        Matching.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='107' psec='' tq='N'>
+              2500.107
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Matching.
+        </SUBJECT>
+        <P>
+          Matching funds are not required as a condition of receiving awards
+          under this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15893'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.108
+      </extid>
+      <num st='1'>
+        2500.108
+      </num>
+      <head>
+        Term of award.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='108' psec='' tq='N'>
+              2500.108
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Term of award.
+        </SUBJECT>
+        <P>
+          The award term will be defined in the OAO award agreement, and can be
+          later amended upon approval of OAO.
+        </P>
+      </contents>
+    </section>
+    <section orderid='15894'>
+      <extid>
+        lii:cfr:2013:7:0:B:XXV:-:2500:F:2500.109
+      </extid>
+      <num st='1'>
+        2500.109
+      </num>
+      <head>
+        Program requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='2500' sect='109' psec='' tq='N'>
+              2500.109
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Program requirements.
+        </SUBJECT>
+        <P>
+          Grants and cooperative agreements under this subpart shall address the
+          priorities in the Department that involve providing outreach and
+          technical assistance to socially disadvantaged farmers, ranchers, and
+          forest landowners to own and operate farms and participate equitably
+          in agricultural programs; and other priorities as determined by the
+          Secretary.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

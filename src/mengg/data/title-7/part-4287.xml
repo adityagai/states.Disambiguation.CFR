@@ -1,0 +1,4249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol15'>
+    <extid>
+      lii:cfr:2013:7:0:B:XLII:-:4287
+    </extid>
+    <num>
+      4287
+    </num>
+    <head>
+      SERVICING
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='1989' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1989.html'>
+              7 U.S.C. 1989
+            </subref>
+          </aref>
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            61 FR 67648
+          </aref>
+          , Dec. 23, 1996, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='17740'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.101
+      </extid>
+      <num st='1'>
+        4287.101
+      </num>
+      <head>
+        Introduction.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='101' psec='' tq='N'>
+              4287.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Introduction.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This subpart supplements 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279
+              </subref>
+            </aref>
+            , subparts A and B, by providing additional requirements and
+            instructions for servicing and liquidating all Business and Industry
+            (B&amp;I) Guaranteed Loans. This includes Drought and Disaster
+            (D&amp;D), Disaster Assistance for Rural Business Enterprises
+            (DARBE), and Business and Industry Disaster (BID) loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The lender will be responsible for servicing the entire loan and
+            will remain mortgagee and secured party of record notwithstanding
+            the fact that another party may hold a portion of the loan. The
+            entire loan will be secured by the same security with equal lien
+            priority for the guaranteed and unguaranteed portions of the loan.
+            The unguaranteed portion of a loan will neither be paid first nor
+            given any preference or priority over the guaranteed portion of the
+            loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Copies of all forms, regulations, and Instructions referenced in
+            this subpart are available in any Agency office. Whenever a form is
+            designated in this subpart, that designation includes predecessor
+            and successor forms, if applicable, as specified by the field or
+            National Office.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17741'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.102
+      </extid>
+      <num st='1'>
+        4287.102
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='102' psec='' tq='N'>
+              4287.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The definitions and abbreviations contained in 
+          <aref type='UNKNOWN'>
+            § 4279.2 of
+          </aref>
+           subpart A of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='4279' tq='N'>
+              4279 of this chapter
+            </subref>
+          </aref>
+           apply to this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17742'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.103
+      </extid>
+      <num st='1'>
+        4287.103
+      </num>
+      <head>
+        Exception authority.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='103' psec='' tq='N'>
+              4287.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exception authority.
+        </SUBJECT>
+        <P>
+          <aref type='UNKNOWN'>
+            Section 4279.15 of
+          </aref>
+           subpart A of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='4279' tq='N'>
+              4279 of this chapter
+            </subref>
+          </aref>
+           applies to this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17743'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.104-4287.105
+      </extid>
+      <num st='2'>
+        4287.104-4287.105
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='104-4287' psec='' tq='N'>
+              4287.104-4287
+            </subref>
+          </aref>
+          .105
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17744'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.106
+      </extid>
+      <num st='1'>
+        4287.106
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='106' psec='' tq='N'>
+              4287.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <aref type='UNKNOWN'>
+            Section 4279.16 of
+          </aref>
+           subpart A of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='4279' tq='N'>
+              4279 of this chapter
+            </subref>
+          </aref>
+           applies to this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17745'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.107
+      </extid>
+      <num st='1'>
+        4287.107
+      </num>
+      <head>
+        Routine servicing.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          61 FR 67648
+        </aref>
+        , Dec. 23, 1996, as amended at 
+        <aref type='FREGIST'>
+          70 FR 57486
+        </aref>
+        , Oct. 3, 2005]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='107' psec='' tq='N'>
+              4287.107
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Routine servicing.
+        </SUBJECT>
+        <P>
+          The lender is responsible for servicing the entire loan and for taking
+          all servicing actions that a prudent lender would perform in servicing
+          its own portfolio of loans that are not guaranteed. The Loan Note
+          Guarantee is unenforceable by the lender to the extent any loss is
+          occasioned by violation of usury laws, use of loan funds for
+          unauthorized purposes, negligent servicing, or failure to obtain the
+          required security interest regardless of the time at which the Agency
+          acquires knowledge of the foregoing. This responsibility includes but
+          is not limited to the collection of payments, obtaining compliance
+          with the covenants and provisions in the Loan Agreement, obtaining and
+          analyzing financial statements, checking on payment of taxes and
+          insurance premiums, and maintaining liens on collateral.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Lender reports and annual renewal fee.
+            </head>
+          </npcatch>
+          <text>
+             The lender must report the outstanding principal and interest
+            balance on each guaranteed loan semiannually using a USDA-approved
+            status report or other approved format. The lender will transmit the
+            annual renewal fee to the Agency simultaneously with the December 31
+            semiannual status report in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='4279' tq='N'>
+                4279
+              </subref>
+            </aref>
+            , subpart B, 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4279' sect='107' psec='' tq='N'>
+                4279.107
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Loan classification.
+            </head>
+          </npcatch>
+          <text>
+             Within 90 days of receipt of the Loan Note Guarantee, the lender
+            must notify the Agency of the loan&apos;s classification or rating
+            under its regulatory standards. Should the classification be changed
+            at a future time, the Agency must be notified immediately.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Agency and lender conference.
+            </head>
+          </npcatch>
+          <text>
+             At the Agency&apos;s request, the lender will meet with the Agency
+            to ascertain how the guaranteed loan is being serviced and that the
+            conditions and covenants of the Loan Agreement are being enforced.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Financial reports.
+            </head>
+          </npcatch>
+          <text>
+             The lender must obtain and forward to the Agency the financial
+            statements required by the 
+            <PRTPAGE P='1013' />
+            Loan Agreement. The lender must submit annual financial statements
+            to the Agency within 120 days of the end of the borrower&apos;s
+            fiscal year. The lender must analyze the financial statements and
+            provide the Agency with a written summary of the lender&apos;s
+            analysis and conclusions, including trends, strengths, weaknesses,
+            extraordinary transactions, and other indications of the financial
+            condition of the borrower. Spreadsheets of the new financial
+            statements must be included.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Additional expenditures.
+            </head>
+          </npcatch>
+          <text>
+             The lender will not make additional loans to the borrower without
+            first obtaining the prior written approval of the Agency, even
+            though such loans will not be guaranteed.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            61 FR 67648
+          </aref>
+          , Dec. 23, 1996, as amended at 
+          <aref type='FREGIST'>
+            70 FR 57486
+          </aref>
+          , Oct. 3, 2005]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='17746'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.108-4287.111
+      </extid>
+      <num st='2'>
+        4287.108-4287.111
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='108-4287' psec='' tq='N'>
+              4287.108-4287
+            </subref>
+          </aref>
+          .111
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17747'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.112
+      </extid>
+      <num st='1'>
+        4287.112
+      </num>
+      <head>
+        Interest rate adjustments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='112' psec='' tq='N'>
+              4287.112
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Interest rate adjustments.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Reductions.
+            </head>
+          </npcatch>
+          <text>
+             The borrower, lender, and holder (if any) may collectively initiate
+            a permanent or temporary reduction in the interest rate of the
+            guaranteed loan at any time during the life of the loan upon written
+            agreement among these parties. The Agency must be notified by the
+            lender, in writing, within 10 calendar days of the change. If any of
+            the guaranteed portion has been purchased by the Agency, then the
+            Agency will affirm or reject interest rate change proposals in
+            writing. The Agency will concur in such interest-rate changes only
+            when it is demonstrated to the Agency that the change is a more
+            viable alternative than initiating or proceeding with liquidation of
+            the loan or continuing with the loan in its present state.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Fixed rates can be changed to variable rates to reduce the
+            borrower&apos;s interest rate only when the variable rate has a
+            ceiling which is less than or equal to the original fixed rate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Variable rates can be changed to a fixed rate which is at or below
+            the current variable rate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The interest rates, after adjustments, must comply with the
+            requirements for interest rates on new loans as established by 
+            <aref type='UNKNOWN'>
+              § 4279.125 of
+            </aref>
+             subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The lender is responsible for the legal documentation of
+            interest-rate changes by an endorsement or any other legally
+            effective amendment to the promissory note; however, no new notes
+            may be issued. Copies of all legal documents must be provided to the
+            Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Increases.
+            </head>
+          </npcatch>
+          <text>
+             No increases in interest rates will be permitted except the normal
+            fluctuations in approved variable interest rates unless a temporary
+            interest-rate reduction had occurred.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17748'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.113
+      </extid>
+      <num st='1'>
+        4287.113
+      </num>
+      <head>
+        Release of collateral.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='113' psec='' tq='N'>
+              4287.113
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Release of collateral.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All releases of collateral with a value exceeding $100,000 must be
+            supported by a current appraisal on the collateral released. The
+            appraisal will be at the expense of the borrower and must meet the
+            requirements of 
+            <aref type='UNKNOWN'>
+              § 4279.144 of
+            </aref>
+             subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            . The remaining collateral must be sufficient to provide for
+            repayment of the Agency&apos;s guaranteed loan. The Agency may, at
+            its discretion, require an appraisal of the remaining collateral in
+            cases where it is determined that the Agency may be adversely
+            affected by the release of collateral. Sale or release of collateral
+            must be based on an arm&apos;s-length transaction.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Within the parameters of paragraph (a) of this section, lenders
+            may, over the life of the loan, release collateral (other than
+            personal and corporate guarantees) with a cumulative value of up to
+            20 percent of the original loan amount without Agency concurrence if
+            the proceeds generated are used to reduce the guaranteed loan or to
+            buy replacement collateral.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Within the parameters of paragraph (a) of this section, release of
+            collateral with a cumulative value in excess of 20 percent of the
+            original loan or when the proceeds will not be used to reduce the
+            guaranteed loan or to buy replacement collateral must be requested
+            in writing by the lender and concurred in by the Agency in writing
+            in advance of the release. A written evaluation will be completed by
+            the lender to justify the release.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17749'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.114-4287.122
+      </extid>
+      <num st='2'>
+        4287.114-4287.122
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='1014' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='114-4287' psec='' tq='N'>
+              4287.114-4287
+            </subref>
+          </aref>
+          .122
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17750'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.123
+      </extid>
+      <num st='1'>
+        4287.123
+      </num>
+      <head>
+        Subordination of lien position.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='123' psec='' tq='N'>
+              4287.123
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Subordination of lien position.
+        </SUBJECT>
+        <P>
+          A subordination of the lender&apos;s lien position must be requested
+          in writing by the lender and concurred in by the Agency in writing in
+          advance of the subordination. The subordination must enhance the
+          borrower&apos;s business and the Agency&apos;s interest. After the
+          subordination, collateral must be adequate to secure the loan. The
+          lien to which the guaranteed loan is subordinated must be for a fixed
+          dollar limit and fixed or limited term, after which the guaranteed
+          loan lien priority will be restored. Subordination to a revolving line
+          of credit will not exceed 1 year. There must be adequate consideration
+          for the subordination.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17751'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.124
+      </extid>
+      <num st='1'>
+        4287.124
+      </num>
+      <head>
+        Alterations of loan instruments.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='124' psec='' tq='N'>
+              4287.124
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Alterations of loan instruments.
+        </SUBJECT>
+        <P>
+          The lender shall neither alter nor approve any alterations of any loan
+          instrument without the prior written approval of the Agency.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17752'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.125-4287.133
+      </extid>
+      <num st='2'>
+        4287.125-4287.133
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='125-4287' psec='' tq='N'>
+              4287.125-4287
+            </subref>
+          </aref>
+          .133
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17753'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.134
+      </extid>
+      <num st='1'>
+        4287.134
+      </num>
+      <head>
+        Transfer and assumption.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='134' psec='' tq='N'>
+              4287.134
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Transfer and assumption.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Documentation of request.
+            </head>
+          </npcatch>
+          <text>
+             All transfers and assumptions must be approved in writing by the
+            Agency and must be to eligible applicants in accordance with subpart
+            B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            . An individual credit report must be provided for transferee
+            proprietors, partners, officers, directors, and stockholders with 20
+            percent or more interest in the business, along with such other
+            documentation as the Agency may request to determine eligibility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Terms.
+            </head>
+          </npcatch>
+          <text>
+             Loan terms must not be changed unless the change is approved in
+            writing by the Agency with the concurrence of any holder and the
+            transferor (including guarantors) if they have not been or will not
+            be released from liability. Any new loan terms must be within the
+            terms authorized by 4279.126 of subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            . The lender&apos;s request for approval of new loan terms will be
+            supported by an explanation of the reasons for the proposed change
+            in loan terms.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Release of liability.
+            </head>
+          </npcatch>
+          <text>
+             The transferor, including any guarantor, may be released from
+            liability only with prior Agency written concurrence and only when
+            the value of the collateral being transferred is at least equal to
+            the amount of the loan being assumed and is supported by a current
+            appraisal and a current financial statement. The Agency will not pay
+            for the appraisal. If the transfer is for less than the debt, the
+            lender must demonstrate to the Agency that the transferor and
+            guarantors have no reasonable debt-paying ability considering their
+            assets and income in the foreseeable future.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Proceeds.
+            </head>
+          </npcatch>
+          <text>
+             Any proceeds received from the sale of collateral before a transfer
+            and assumption will be credited to the transferor&apos;s guaranteed
+            loan debt in inverse order of maturity before the transfer and
+            assumption are closed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Additional loans.
+            </head>
+          </npcatch>
+          <text>
+             Loans to provide additional funds in connection with a transfer and
+            assumption must be considered as a new loan application under
+            subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Credit quality.
+            </head>
+          </npcatch>
+          <text>
+             The lender must make a complete credit analysis which is subject to
+            Agency review and approval.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Documents.
+            </head>
+          </npcatch>
+          <text>
+             Prior to Agency approval, the lender must advise the Agency, in
+            writing, that the transaction can be properly and legally
+            transferred, and the conveyance instruments will be filed,
+            registered, or recorded as appropriate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The assumption will be done on the lender&apos;s form of assumption
+            agreement and will contain the Agency case number of the transferor
+            and transferee. The lender will provide the Agency with a copy of
+            the transfer and assumption agreement. The lender must ensure that
+            all transfers and assumptions are noted on all original Loan Note
+            Guarantees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A new Loan Agreement, consistent in principle with the original
+            Loan Agreement, should be executed to establish the terms and
+            conditions of the loan being assumed. An assumption agreement can be
+            used to establish the loan covenants.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The lender will provide to the Agency a written certification that
+            the 
+            <PRTPAGE P='1015' />
+            transfer and assumption is valid, enforceable, and complies with all
+            Agency regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Loss resulting from transfer.
+            </head>
+          </npcatch>
+          <text>
+             If a loss should occur upon consummation of a complete transfer and
+            assumption for less than the full amount of the debt and the
+            transferor (including personal guarantors) is released from
+            liability, the lender, if it holds the guaranteed portion, may file
+            an estimated report of loss to recover its 
+            <E T='03'>
+              pro rata
+            </E>
+             share of the actual loss. If a holder owns any of the guaranteed
+            portion, such portion must be repurchased by the lender or the
+            Agency in accordance with 4279.78(c) of subpart A of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            . In completing the report of loss, the amount of the debt assumed
+            will be entered as net collateral (recovery). Approved protective
+            advances and accrued interest thereon made during the arrangement of
+            a transfer and assumption will be included in the calculations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Related party.
+            </head>
+          </npcatch>
+          <text>
+             If the transferor and transferee are affiliated or related parties,
+            any transfer and assumption must be for the full amount of the debt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Payment requests.
+            </head>
+          </npcatch>
+          <text>
+             Requests for a loan guarantee to provide equity for a transfer and
+            assumption must be considered as a new loan under subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Cash downpayment.
+            </head>
+          </npcatch>
+          <text>
+             When the transferee will be making a cash downpayment as part of
+            the transfer and assumption:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The lender must have an appropriate appraiser, acceptable to both
+            the transferee and transferor and currently authorized to perform
+            appraisals, determine the value of the collateral securing the loan.
+            The appraisal fee and any other costs will not be paid by the
+            Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The market value of the collateral, plus any additional property
+            the transferee proposes to offer as collateral, must be adequate to
+            secure the balance of the guaranteed loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Cash downpayments may be paid directly to the transferor provided:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             The lender recommends that the cash be released, and the Agency
+            concurs prior to the transaction being completed. The lender may
+            wish to require that an amount be retained for a defined period of
+            time as a reserve against future defaults. Interest on such account
+            may be paid periodically to the transferor or transferee as agreed;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The lender determines that the transferee has the repayment ability
+            to meet the obligations of the assumed guaranteed loan as well as
+            any other indebtedness;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Any payments by the transferee to the transferor will not suspend
+            the transferee&apos;s obligations to continue to meet the guaranteed
+            loan payments as they come due under the terms of the assumption;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The transferor agrees not to take any action against the transferee
+            in connection with the assumption without prior written approval of
+            the lender and the Agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17754'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.135
+      </extid>
+      <num st='1'>
+        4287.135
+      </num>
+      <head>
+        Substitution of lender.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='135' psec='' tq='N'>
+              4287.135
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Substitution of lender.
+        </SUBJECT>
+        <P>
+          After the issuance of a Loan Note Guarantee, the lender shall not sell
+          or transfer the entire loan without the prior written approval of the
+          Agency. The Agency will not pay any loss or share in any costs (
+          <E T='03'>
+            i.e.
+          </E>
+          , appraisal fees, environmental studies, or other costs associated
+          with servicing or liquidating the loan) with a new lender unless a
+          relationship is established through a substitution of lender in
+          accordance with paragraph (a) of this section. This includes cases
+          where the lender has failed and been taken over by a regulatory agency
+          such as the Federal Deposit Insurance Corporation (FDIC) and the loan
+          is subsequently sold to another lender.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may approve the substitution of a new lender if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The proposed substitute lender:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Is an eligible lender in accordance with 4279.29 of subpart A of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Is able to service the loan in accordance with the original loan
+            documents; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='a_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Agrees in writing to acquire title to the unguaranteed portion of
+            the loan held by the original lender and assumes all original loan
+            requirements, including liabilities and servicing responsibilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The substitution of the lender is requested in writing by the
+            borrower, the proposed substitute lender, and the original lender if
+            still in existence.
+            <PRTPAGE P='1016' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Where the lender has failed and been taken over by FDIC and the
+            guaranteed loan is liquidated by FDIC rather than being sold to
+            another lender, the Agency will pay losses and share in costs as if
+            FDIC were an approved substitute lender.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17755'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.136-4287.144
+      </extid>
+      <num st='2'>
+        4287.136-4287.144
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='136-4287' psec='' tq='N'>
+              4287.136-4287
+            </subref>
+          </aref>
+          .144
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17756'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.145
+      </extid>
+      <num st='1'>
+        4287.145
+      </num>
+      <head>
+        Default by borrower.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='145' psec='' tq='N'>
+              4287.145
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Default by borrower.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The lender must notify the Agency when a borrower is 30 days past
+            due on a payment or is otherwise in default of the Loan Agreement.
+            Form FmHA 1980-44, “Guaranteed Loan Borrower Default Status,” will
+            be used and the lender will continue to submit this form bimonthly
+            until such time as the loan is no longer in default. If a monetary
+            default exceeds 60 days, the lender will arrange a meeting with the
+            Agency and the borrower to resolve the problem.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In considering options, the prospects for providing a permanent
+            cure without adversely affecting the risk to the Agency and the
+            lender is the paramount objective.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Curative actions include but are not limited to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Deferment of principal (subject to rights of any holder);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             An additional unguaranteed loan by the lender to bring the account
+            current;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Reamortization of or rescheduling the payments on the loan (subject
+            to rights of any holder);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Transfer and assumption of the loan in accordance with 
+            <aref type='UNKNOWN'>
+              § 4287.134 of
+            </aref>
+             this subpart;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Reorganization;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Liquidation;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Subsequent loan guarantees; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_viii'>
+            <enum src='gpotxt' cln='1'>
+              (viii)
+            </enum>
+          </npcatch>
+          <text>
+             Changes in interest rates with the Agency&apos;s, the
+            lender&apos;s, and holder&apos;s approval, provided that the
+            interest rate is adjusted proportionately between the guaranteed and
+            unguaranteed portion of the loan and the type of rate remains the
+            same.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             In the event a deferment, rescheduling, reamortization, or
+            moratorium is accomplished, it will be limited to the remaining life
+            of the collateral or remaining limits as contained in 
+            <aref type='UNKNOWN'>
+              § 4279.126 of
+            </aref>
+             subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            , whichever is less.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17757'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.146-4287.155
+      </extid>
+      <num st='2'>
+        4287.146-4287.155
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='146-4287' psec='' tq='N'>
+              4287.146-4287
+            </subref>
+          </aref>
+          .155
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17758'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.156
+      </extid>
+      <num st='1'>
+        4287.156
+      </num>
+      <head>
+        Protective advances.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='156' psec='' tq='N'>
+              4287.156
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Protective advances.
+        </SUBJECT>
+        <P>
+          Protective advances are advances made by the lender for the purpose of
+          preserving and protecting the collateral where the debtor has failed
+          to, will not, or cannot meet its obligations. Sound judgment must be
+          exercised in determining that the protective advance preserves
+          collateral and recovery is actually enhanced by making the advance.
+          Protective advances will not be made in lieu of additional loans.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The maximum loss to be paid by the Agency will never exceed the
+            original principal plus accrued interest regardless of any
+            protective advances made.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Protective advances and interest thereon at the note rate will be
+            guaranteed at the same percentage of loss as provided in the Loan
+            Note Guarantee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Protective advances must constitute an indebtedness of the borrower
+            to the lender and be secured by the security instruments. Agency
+            written authorization is required when cumulative protective
+            advances exceed $5,000.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17759'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.157
+      </extid>
+      <num st='1'>
+        4287.157
+      </num>
+      <head>
+        Liquidation.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='157' psec='' tq='N'>
+              4287.157
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Liquidation.
+        </SUBJECT>
+        <P>
+          In the event of one or more incidents of default or third party
+          actions that the borrower cannot or will not cure or eliminate within
+          a reasonable period of time, liquidation may be considered. If the
+          lender concludes that liquidation is necessary, it must request the
+          Agency&apos;s concurrence. The lender will liquidate the loan unless
+          the Agency, at its option, carries out liquidation. When the decision
+          to liquidate is made, if the loan has not already been repurchased,
+          provisions will be made for repurchase in accordance with 
+          <aref type='UNKNOWN'>
+            § 4279.78 of
+          </aref>
+           subpart A of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='4279' tq='N'>
+              4279 of this chapter
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Decision to liquidate.
+            </head>
+          </npcatch>
+          <text>
+             A decision to liquidate shall be made when it is determined that
+            the default cannot be cured through actions contained in 
+            <aref type='UNKNOWN'>
+              § 4287.145 of
+            </aref>
+             this subpart or it has been determined that it is in the best
+            interest of the Agency and the lender to liquidate. The decision to
+            liquidate or continue with the borrower must be made as soon as
+            possible when any of the following exist:
+            <PRTPAGE P='1017' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A loan has been delinquent 90 days and the lender and borrower have
+            not been able to cure the delinquency through one of the actions
+            contained in 
+            <aref type='UNKNOWN'>
+              § 4287.145 of
+            </aref>
+             this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             It has been determined that delaying liquidation will jeopardize
+            full recovery on the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The borrower or lender has been uncooperative in resolving the
+            problem and the Agency or the lender has reason to believe the
+            borrower is not acting in good faith, and it would enhance the
+            position of the guarantee to liquidate immediately.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Liquidation by the Agency.
+            </head>
+          </npcatch>
+          <text>
+             The Agency may require the lender to assign the security
+            instruments to the Agency if the Agency, at its option, decides to
+            liquidate the loan. When the Agency liquidates, reasonable
+            liquidation expenses will be assessed against the proceeds derived
+            from the sale of the collateral. Form FmHA 1980-45, “Notice of
+            Liquidation Responsibility,” will be forwarded to the Finance Office
+            when the Agency liquidates the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Submission of liquidation plan.
+            </head>
+          </npcatch>
+          <text>
+             The lender will, within 30 days after a decision to liquidate,
+            submit to the Agency in writing its proposed detailed method of
+            liquidation. Upon approval by the Agency of the liquidation plan,
+            the lender will commence liquidation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Lender&apos;s liquidation plan.
+            </head>
+          </npcatch>
+          <text>
+             The liquidation plan must include, but is not limited to, the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Such proof as the Agency requires to establish the lender&apos;s
+            ownership of the guaranteed loan promissory note and related
+            security instruments and a copy of the payment ledger if available
+            which reflects the current loan balance and accrued interest to date
+            and the method of computing the interest.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A full and complete list of all collateral including any personal
+            and corporate guarantees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The recommended liquidation methods for making the maximum
+            collection possible on the indebtedness and the justification for
+            such methods, including recommended action:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             For acquiring and disposing of all collateral; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             To collect from guarantors.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Necessary steps for preservation of the collateral.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Copies of the borrower&apos;s latest available financial
+            statements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Copies of the guarantor&apos;s latest available financial
+            statements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+          </npcatch>
+          <text>
+             An itemized list of estimated liquidation expenses expected to be
+            incurred along with justification for each expense.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+          </npcatch>
+          <text>
+             A schedule to periodically report to the Agency on the progress of
+            liquidation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+          </npcatch>
+          <text>
+             Estimated protective advance amounts with justification.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+          </npcatch>
+          <text>
+             Proposed protective bid amounts on collateral to be sold at auction
+            and a breakdown to show how the amounts were determined.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+          </npcatch>
+          <text>
+             If a voluntary conveyance is considered, the proposed amount to be
+            credited to the guaranteed debt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+          </npcatch>
+          <text>
+             Legal opinions, if needed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+          </npcatch>
+          <text>
+             If the outstanding balance of principal and accrued interest is
+            less than $200,000, the lender will obtain an estimate of fair
+            market and potential liquidation value of the collateral. If the
+            outstanding balance of principal and accrued interest is $200,000 or
+            more, the lender will obtain an independent appraisal report meeting
+            the requirements of 
+            <aref type='UNKNOWN'>
+              § 4279.144 of
+            </aref>
+             subpartB of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+             on all collateral securing the loan which will reflect the fair
+            market value and potential liquidation value. In order to formulate
+            a liquidation plan which maximizes recovery, collateral must be
+            evaluated for the release of hazardous substances, petroleum
+            products, or other environmental hazards which may adversely impact
+            the market value of the collateral. The appraisal shall consider
+            this aspect. The independent appraiser&apos;s fee, including the
+            cost of the environmental site assessment, will be shared equally by
+            the Agency and the lender.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Approval of liquidation plan.
+            </head>
+          </npcatch>
+          <text>
+             The Agency will inform the lender in writing whether it concurs in
+            the lender&apos;s liquidation plan. Should the Agency and the lender
+            not agree on the liquidation plan, negotiations will take place
+            between the Agency and the lender to resolve the disagreement. When
+            the liquidation plan is approved by the Agency, the lender will
+            proceed expeditiously with liquidation.
+            <PRTPAGE P='1018' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A transfer and assumption of the borrower&apos;s operation can be
+            accomplished before or after the loan goes into liquidation.
+            However, if the collateral has been purchased through foreclosure or
+            the borrower has conveyed title to the lender, no transfer and
+            assumption is permitted.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='e_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             A protective bid may be made by the lender, with prior Agency
+            written approval, at a foreclosure sale to protect the lender&apos;s
+            and the Agency&apos;s interest. The protective bid will not exceed
+            the amount of the loan, including expenses of foreclosure, and
+            should be based on the liquidation value considering estimated
+            expenses for holding and reselling the property. These expenses
+            include, but are not limited to, expenses for resale, interest
+            accrual, length of time necessary for resale, maintenance, guard
+            service, weatherization, and prior liens.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Acceleration.
+            </head>
+          </npcatch>
+          <text>
+             The lender, or the Agency if it liquidates, will proceed to
+            accelerate the indebtedness as expeditiously as possible when
+            acceleration is necessary including giving any notices and taking
+            any other legal actions required. A copy of the acceleration notice
+            or other acceleration document will be sent to the Agency (or lender
+            if the Agency liquidates). The guaranteed loan will be considered in
+            liquidation once the loan has been accelerated and a demand for
+            payment has been made upon the borrower.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Filing an estimated loss claim.
+            </head>
+          </npcatch>
+          <text>
+             When the lender is conducting the liquidation and owns any or all
+            of the guaranteed portion of the loan, the lender will file an
+            estimated loss claim once a decision has been made to liquidate if
+            the liquidation will exceed 90 days. The estimated loss payment will
+            be based on the liquidation value of the collateral. For the purpose
+            of reporting and loss claim computation, the lender will discontinue
+            interest accrual on the defaulted loan in accordance with Agency
+            procedures, and the loss claim will be promptly processed in
+            accordance with applicable Agency regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Accounting and reports.
+            </head>
+          </npcatch>
+          <text>
+             When the lender conducts liquidation, it will account for funds
+            during the period of liquidation and will provide the Agency with
+            reports at least quarterly on the progress of liquidation including
+            disposition of collateral, resulting costs, and additional
+            procedures necessary for successful completion of the liquidation.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Transmitting payments and proceeds to the Agency.
+            </head>
+          </npcatch>
+          <text>
+             When the Agency is the holder of a portion of the guaranteed loan,
+            the lender will transmit to the Agency its 
+            <E T='03'>
+              pro rata
+            </E>
+             share of any payments received from the borrower; liquidation; or
+            other proceeds using Form FmHA 1980-43, “Lender&apos;s Guaranteed
+            Loan Payment to FmHA.”
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Abandonment of collateral.
+            </head>
+          </npcatch>
+          <text>
+             There may be instances when the cost of liquidation would exceed
+            the potential recovery value of the collection. The lender, with
+            proper documentation and concurrence of the Agency, may abandon the
+            collateral in lieu of liquidation. A proposed abandonment will be
+            considered a servicing action requiring the appropriate
+            environmental review by the Agency in accordance with subpart G of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='1940' tq='N'>
+                1940 of this title
+              </subref>
+            </aref>
+            . Examples where abandonment may be considered include, but are not
+            limited to:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The cost of liquidation is increased or the value of the collateral
+            is decreased by environmental issues;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The collateral is functionally or economically obsolete;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             There are superior liens held by other parties in excess of the
+            value of the collateral;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The collateral has deteriorated; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The collateral is specialized and there is little or no demand for
+            it.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Disposition of personal or corporate guarantees.
+            </head>
+          </npcatch>
+          <text>
+             The lender should take action to maximize recovery from all
+            collateral, including personal and corporate guarantees. The lender
+            will seek a deficiency judgment when there is a reasonable chance of
+            future collection of the judgment. The lender must make a decision
+            whether or not to seek a deficiency judgment when:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A borrower voluntarily liquidates the collateral, but the sale
+            fails to pay the guaranteed indebtedness;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The collateral is voluntarily conveyed to the lender, but the
+            borrower and personal and corporate guarantors are not released from
+            liability; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A liquidation plan is being developed for forced liquidation.
+            <PRTPAGE P='1019' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+            <head>
+              Compromise settlement.
+            </head>
+          </npcatch>
+          <text>
+             A compromise settlement may be considered at any time.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The lender and the Agency must receive complete financial
+            information on all parties obligated for the loan and must be
+            satisfied that the statements reflect the true and correct financial
+            position of the debtor including all assets. Adequate consideration
+            must be received before a release from liability is issued. Adequate
+            consideration includes money, additional security, or other benefit
+            to the goals and objectives of the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Before a personal guarantor can be released from liability, the
+            following factors must be considered.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Cash, either lump sum or over a period of time, or other
+            consideration offered by the guarantor;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Age and health of the guarantor;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Potential income of the guarantor;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Inheritance prospects of the guarantor;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             Availability of the guarantor&apos;s assets.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_vi'>
+            <enum src='gpotxt' cln='1'>
+              (vi)
+            </enum>
+          </npcatch>
+          <text>
+             Possibility that the guarantor&apos;s assets have been concealed or
+            improperly transferred; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='l_2_vii'>
+            <enum src='gpotxt' cln='1'>
+              (vii)
+            </enum>
+          </npcatch>
+          <text>
+             Effect of other guarantors on the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Once the Agency and the lender agree on a reasonable amount that is
+            fair and adequate, the lender can proceed to effect the settlement
+            compromise.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='l_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             A compromise will only be accepted if it is in the best interest of
+            the Agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17760'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.158
+      </extid>
+      <num st='1'>
+        4287.158
+      </num>
+      <head>
+        Determination of loss and payment.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='158' psec='' tq='N'>
+              4287.158
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determination of loss and payment.
+        </SUBJECT>
+        <P>
+          In all liquidation cases, final settlement will be made with the
+          lender after the collateral is liquidated, unless otherwise designated
+          as a future recovery or after settlement and compromise of all parties
+          has been completed. The Agency will have the right to recover losses
+          paid under the guarantee from any party which may be liable.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Report of loss form.
+            </head>
+          </npcatch>
+          <text>
+             Form FmHA 449-30, “Loan Note Guarantee Report of Loss,” will be
+            used for calculations of all estimated and final loss
+            determinations. Estimated loss payments may only be approved by the
+            Agency after the Agency has approved a liquidation plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Estimated loss.
+            </head>
+          </npcatch>
+          <text>
+             In accordance with the requirements of 
+            <aref type='UNKNOWN'>
+              § 4287.157(g) of
+            </aref>
+             this subpart, an estimated loss claim based on liquidation
+            appraisal value will be prepared and submitted by the lender.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The estimated loss payment shall be applied as of the date of such
+            payment. The total amount of the loss payment remitted by the Agency
+            will be applied by the lender on the guaranteed portion of the loan
+            debt. Such application does not release the borrower from liability.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             An estimated loss will be applied first to reduce the principal
+            balance on the guaranteed loan and the balance, if any, to accrued
+            interest. Interest accrual on the defaulted loan will be
+            discontinued.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             A protective advance claim will be paid only at the time of the
+            final report of loss payment, except in certain transfer and
+            assumption situations as specified in 
+            <aref type='UNKNOWN'>
+              § 4287.134 of
+            </aref>
+             this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Final loss.
+            </head>
+          </npcatch>
+          <text>
+             Within 30 days after liquidation of all collateral, except for
+            certain unsecured personal or corporate guarantees as provided for
+            in this section, is completed, a final report of loss must be
+            prepared and submitted by the lender to the Agency. The Agency will
+            not guarantee interest beyond this 30-day period other than for the
+            period of time it takes the Agency to process the loss claim. Before
+            approval by the Agency of any final loss report, the lender must
+            account for all funds during the period of liquidation, disposition
+            of the collateral, all costs incurred, and any other information
+            necessary for the successful completion of liquidation. Upon receipt
+            of the final accounting and report of loss, the Agency may audit all
+            applicable documentation to determine the final loss. The lender
+            will make its records available and otherwise assist the Agency in
+            making any investigation. The documentation accompanying the report
+            of loss must support the amounts shown on Form FmHA 449-30.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A determination must be made regarding the collectibility of
+            unsecured personal and corporate guarantees. If reasonably possible,
+            such guarantees 
+            <PRTPAGE P='1020' />
+            should be promptly collected or otherwise disposed of in accordance
+            with 
+            <aref type='UNKNOWN'>
+              § 4287.157(k) of
+            </aref>
+             this subpart prior to completion of the final loss report. However,
+            in the event that collection from the guarantors appears unlikely or
+            will require a prolonged period of time, the report of loss will be
+            filed when all other collateral has been liquidated, and unsecured
+            personal or corporate guarantees will be treated as a future
+            recovery with the net proceeds to be shared on a pro rata basis by
+            the lender and the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The lender must document that all of the collateral has been
+            accounted for and properly liquidated and that liquidation proceeds
+            have been properly accounted for and applied correctly to the loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The lender will show a breakdown of any protective advance amount
+            as to the payee, purpose of the expenditure, date paid, and evidence
+            that the amount expended was proper and that payment was actually
+            made.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The lender will show a breakdown of liquidation expenses as to the
+            payee, purpose of the expenditure, date paid, and evidence that the
+            amount expended was proper and that payment was actually made.
+            Liquidation expenses are recoverable only from collateral proceeds.
+            Attorney fees may be approved as liquidation expenses provided the
+            fees are reasonable and cover legal issues pertaining to the
+            liquidation that could not be properly handled by the lender and its
+            in-house counsel.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Accrued interest will be supported by documentation as to how the
+            amount was accrued. If the interest rate was a variable rate, the
+            lender will include documentation of changes in both the selected
+            base rate and the loan rate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             Loss payments will be paid by the Agency within 60 days after the
+            review of the final loss report and accounting of the collateral.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Loss limit.
+            </head>
+          </npcatch>
+          <text>
+             The amount payable by the Agency to the lender cannot exceed the
+            limits set forth in the Loan Note Guarantee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Rent.
+            </head>
+          </npcatch>
+          <text>
+             Any net rental or other income that has been received by the lender
+            from the collateral will be applied on the guaranteed loan debt.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Liquidation costs.
+            </head>
+          </npcatch>
+          <text>
+             Liquidation costs will be deducted from the proceeds of the
+            disposition of primary collateral. If changed circumstances after
+            submission of the liquidation plan require a substantial revision of
+            liquidation costs, the lender will procure the Agency&apos;s written
+            concurrence prior to proceeding with the proposed changes. No
+            in-house expenses of the lender will be allowed. In-house expenses
+            include, but are not limited to, employee&apos;s salaries, staff
+            lawyers, travel, and overhead.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Payment.
+            </head>
+          </npcatch>
+          <text>
+             When the Agency finds the final report of loss to be proper in all
+            respects, it will approve Form FmHA 449-30 and proceed as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If the loss is greater than any estimated loss payment, the Agency
+            will pay the additional amount owed by the Agency to the lender.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If the loss is less than the estimated loss payment, the lender
+            will reimburse the Agency for the overpayment plus interest at the
+            note rate from the date of payment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='g_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             If the Agency has conducted the liquidation, it will pay the lender
+            in accordance with the Loan Note Guarantee.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17761'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.159-4287.168
+      </extid>
+      <num st='2'>
+        4287.159-4287.168
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='159-4287' psec='' tq='N'>
+              4287.159-4287
+            </subref>
+          </aref>
+          .168
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17762'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.169
+      </extid>
+      <num st='1'>
+        4287.169
+      </num>
+      <head>
+        Future recovery.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='169' psec='' tq='N'>
+              4287.169
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Future recovery.
+        </SUBJECT>
+        <P>
+          After a loan has been liquidated and a final loss has been paid by the
+          Agency, any future funds which may be recovered by the lender will be
+          pro rated between the Agency and the lender based on the original
+          percentage of guarantee.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17763'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.170
+      </extid>
+      <num st='1'>
+        4287.170
+      </num>
+      <head>
+        Bankruptcy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='170' psec='' tq='N'>
+              4287.170
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Bankruptcy.
+        </SUBJECT>
+        <P>
+          The lender is responsible for protecting the guaranteed loan and all
+          collateral securing the loan in bankruptcy proceedings.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Lender&apos;s responsibilities.
+            </head>
+          </npcatch>
+          <text>
+             It is the lender&apos;s responsibility to protect the guaranteed
+            loan debt and all of the collateral securing it in bankruptcy
+            proceedings. These responsibilities include but are not limited to
+            the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The lender will file a proof of claim where necessary and all the
+            necessary papers and pleadings concerning the case.
+            <PRTPAGE P='1021' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The lender will attend and, where necessary, participate in
+            meetings of the creditors and all court proceedings.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             When permitted by the Bankruptcy Code, the lender will request
+            modification of any plan of reorganization whenever it appears that
+            additional recoveries are likely.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will be kept adequately and regularly informed in
+            writing of all aspects of the proceedings.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             In a Chapter 11 reorganization, if an independent appraisal of
+            collateral is necessary in the Agency&apos;s opinion, the Agency and
+            the lender will share such appraisal fee equally.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Reports of loss during bankruptcy.
+            </head>
+          </npcatch>
+          <text>
+             When the loan is involved in reorganization proceedings, payment of
+            loss claims may be made as provided in this section. For a
+            liquidation proceeding, only paragraphs (b)(3) and (5) of this
+            section are applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Estimated loss payments.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='b_1_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             If a borrower has filed for protection under Chapter 11 of the
+            United States Code for a reorganization (but not Chapter 13) and all
+            or a portion of the debt has been discharged, the lender will
+            request an estimated loss payment of the guaranteed portion of the
+            accrued interest and principal discharged by the court. Only one
+            estimated loss payment is allowed during the reorganization. All
+            subsequent claims of the lender during reorganization will be
+            considered revisions to the initial estimated loss. A revised
+            estimated loss payment may be processed by the Agency, at its
+            option, in accordance with any court-approved changes in the
+            reorganization plan. Once the reorganization plan has been
+            completed, the lender is responsible for submitting the
+            documentation necessary for the Agency to review and adjust the
+            estimated loss claim to reflect any actual discharge of principal
+            and interest and to reimburse the lender for any court-ordered
+            interest-rate reduction under the terms of the reorganization plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The lender will use Form FmHA 449-30 to request an estimated loss
+            payment and to revise any estimated loss payments during the course
+            of the reorganization plan. The estimated loss claim, as well as any
+            revisions to this claim, will be accompanied by documentation to
+            support the claim.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Upon completion of a reorganization plan, the lender will complete
+            a Form FmHA 1980-44 and forward this form to the Finance Office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Interest loss payments.
+            </head>
+          </npcatch>
+          <npcatch lev='3' id='b_2_i'>
+            <enum src='gpotxt' cln='2'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Interest losses sustained during the period of the reorganization
+            plan will be processed in accordance with paragraph (b)(1) of this
+            section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Interest losses sustained after the reorganization plan is
+            completed will be processed annually when the lender sustains a loss
+            as a result of a permanent interest rate reduction which extends
+            beyond the period of the reorganization plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             If an estimated loss claim is paid during the operation of the
+            Chapter 11 reorganization plan and the borrower repays in full the
+            remaining balance without an additional loss sustained by the
+            lender, a final report of loss is not necessary.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Final loss payments.
+            </head>
+          </npcatch>
+          <text>
+             Final loss payments will be processed when the loan is liquidated.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Payment application.
+            </head>
+          </npcatch>
+          <text>
+             The lender must apply estimated loss payments first to the
+            unsecured principal of the guaranteed portion of the debt and then
+            to the unsecured interest of the guaranteed portion of the debt. In
+            the event a bankruptcy court attempts to direct the payments to be
+            applied in a different manner, the lender will immediately notify
+            the Agency servicing office.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Overpayments.
+            </head>
+          </npcatch>
+          <text>
+             Upon completion of the reorganization plan, the lender will provide
+            the Agency with the documentation necessary to determine whether the
+            estimated loss paid equals the actual loss sustained. If the actual
+            loss sustained as a result of the reorganization is less than the
+            estimated loss, the lender will reimburse the Agency for the
+            overpayment plus interest at the note rate from the date of payment
+            of the estimated loss. If the actual loss is greater than the
+            estimated loss payment, the lender will submit a revised estimated
+            loss in order to obtain payment of the additional amount owed by the
+            Agency to the lender.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+            <head>
+              Protective advances.
+            </head>
+          </npcatch>
+          <text>
+             If approved protective advances were made prior to the borrower
+            having filed bankruptcy, these protective advances and accrued 
+            <PRTPAGE P='1022' />
+            interest will be considered in the loss calculations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Legal expenses during bankruptcy proceedings.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             When a bankruptcy proceeding results in a liquidation of the
+            borrower by a trustee, legal expenses will be handled as directed by
+            the court.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Chapter 11 pertains to a reorganization of a business contemplating
+            an ongoing business rather than a termination and dissolution of the
+            business where legal protection is afforded to the business as
+            defined under Chapter 11 of the Bankruptcy Code. Consequently,
+            expenses incurred by the lender in a Chapter 11 reorganization can
+            never be liquidation expenses unless the proceeding becomes a
+            Chapter 11 liquidation. If the proceeding should become a
+            Liquidating 11, reasonable and customary liquidation expenses may be
+            deducted from proceeds of collateral as provided in the
+            Lender&apos;s Agreement. Chapter 7 pertains to a liquidation of the
+            borrower&apos;s assets. If, and when, liquidation of the
+            borrower&apos;s assets under Chapter 7 is conducted by the
+            bankruptcy trustee, then the lender cannot claim expenses.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17764'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.171-4287.179
+      </extid>
+      <num st='2'>
+        4287.171-4287.179
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='171-4287' psec='' tq='N'>
+              4287.171-4287
+            </subref>
+          </aref>
+          .179
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17765'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.180
+      </extid>
+      <num st='1'>
+        4287.180
+      </num>
+      <head>
+        Termination of guarantee.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='180' psec='' tq='N'>
+              4287.180
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Termination of guarantee.
+        </SUBJECT>
+        <P>
+          A guarantee under this part will terminate automatically:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Upon full payment of the guaranteed loan;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Upon full payment of any loss obligation; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Upon written notice from the lender to the Agency that the
+            guarantee will terminate 30 days after the date of notice, provided
+            that the lender holds all of the guaranteed portion and the Loan
+            Note Guarantee is returned to the Agency to be canceled.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17766'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.181-4287.199
+      </extid>
+      <num st='2'>
+        4287.181-4287.199
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='181-4287' psec='' tq='N'>
+              4287.181-4287
+            </subref>
+          </aref>
+          .199
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17767'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:B:4287.200
+      </extid>
+      <num st='1'>
+        4287.200
+      </num>
+      <head>
+        OMB control number.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='200' psec='' tq='N'>
+              4287.200
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB control number.
+        </SUBJECT>
+        <P>
+          The information collection requirements contained in this regulation
+          have been approved by OMB and have been assigned OMB control number
+          0575-0168. Public reporting burden for this collection of information
+          is estimated to vary from 15 minutes to 8 hours per response, with an
+          average of 4 hours per response, including time for reviewing the
+          collection of information. Send comments regarding this burden,
+          estimate or any other aspect of this collection of information,
+          including suggestions for reducing this burden to the Department of
+          Agriculture, Clearance Officer, OIRM, Stop 7630, Washington, DC 20250.
+          You are not required to respond to this collection of information
+          unless it displays a currently valid OMB control number.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17768'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:D:4287.301
+      </extid>
+      <num st='1'>
+        4287.301
+      </num>
+      <head>
+        Introduction.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='301' psec='' tq='N'>
+              4287.301
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Introduction.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             This subpart supplements 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='4279' tq='N'>
+                4279
+              </subref>
+            </aref>
+            , subparts A and C, by providing additional requirements and
+            instructions for servicing and liquidating all Biorefinery
+            Assistance Guaranteed Loans.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The lender will be responsible for servicing the entire loan and
+            will remain mortgagee and secured party of record notwithstanding
+            the fact that another party may hold a portion of the loan. The
+            entire loan will be secured by the same security with equal lien
+            priority for the guaranteed and unguaranteed portions of the loan.
+            The unguaranteed portion of a loan will neither be paid first nor
+            given any preference or priority over the guaranteed portion of the
+            loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Copies of all forms, regulations, and Instructions referenced in
+            this subpart are available in any Agency office. Whenever a form is
+            designated in this subpart, that designation includes predecessor
+            and successor forms, if applicable, as specified by the field or
+            National Office.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17769'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:D:4287.302
+      </extid>
+      <num st='1'>
+        4287.302
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='302' psec='' tq='N'>
+              4287.302
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          The definitions and abbreviations contained in 
+          <aref type='UNKNOWN'>
+            § 4279.2 of
+          </aref>
+           subpart A and in 
+          <aref type='UNKNOWN'>
+            § 4279.202 of
+          </aref>
+           subpart C of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='4279' tq='N'>
+              4279 of this chapter
+            </subref>
+          </aref>
+           apply to this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17770'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:D:4287.303
+      </extid>
+      <num st='1'>
+        4287.303
+      </num>
+      <head>
+        Exception authority.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='303' psec='' tq='N'>
+              4287.303
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Exception authority.
+        </SUBJECT>
+        <P>
+          The exception authority provisions of this paragraph apply to this
+          subpart instead of those in 
+          <aref type='UNKNOWN'>
+            § 4279.15 of
+          </aref>
+           subpart A 
+          <PRTPAGE P='1023' />
+          of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='4279' tq='N'>
+              4279 of this chapter
+            </subref>
+          </aref>
+          . The Administrator may, with the concurrence of the Secretary of
+          Agriculture, make an exception, on a case-by-case basis, to any
+          requirement or provision of this subpart that is not inconsistent with
+          any authorizing statute or applicable law, if the Administrator
+          determines that application of the requirement or provision would
+          adversely affect the Federal government&apos;s interest.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17771'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:D:4287.304-4287.305
+      </extid>
+      <num st='2'>
+        4287.304-4287.305
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='304-4287' psec='' tq='N'>
+              4287.304-4287
+            </subref>
+          </aref>
+          .305
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='17772'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:D:4287.306
+      </extid>
+      <num st='1'>
+        4287.306
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='306' psec='' tq='N'>
+              4287.306
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          <aref type='UNKNOWN'>
+            Section 4279.16 of
+          </aref>
+           subpart A of 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='4279' tq='N'>
+              4279 of this chapter
+            </subref>
+          </aref>
+           applies to this subpart.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17773'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:D:4287.307
+      </extid>
+      <num st='1'>
+        4287.307
+      </num>
+      <head>
+        Servicing.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='307' psec='' tq='N'>
+              4287.307
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Servicing.
+        </SUBJECT>
+        <P>
+          Except as specified in paragraphs (a) through (m) of this section, all
+          loans guaranteed under this subpart shall comply with the provisions
+          found in 
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='101' psec='' tq='N'>
+              4287.101
+            </subref>
+          </aref>
+           through 4287.180 of this chapter. If the Agency determines that the
+          lender is not in compliance with its servicing responsibilities, the
+          Agency reserves the right to take any action the Agency determines
+          necessary to protect the Agency&apos;s interests with respect to the
+          loan. If the Agency exercises this right, the lender must cooperate
+          with the Agency. Any cost to the Agency associated with such action
+          will be assessed against the lender.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Periodic reports.
+            </head>
+          </npcatch>
+          <text>
+             Each lender shall submit quarterly reports, unless more frequent
+            ones are needed as determined by the Agency to meet the financial
+            interests of the United States, regarding the condition of its
+            Agency guaranteed loan portfolio (including borrower status and loan
+            classification) and any material adverse change in the general
+            financial condition of the borrower since the last report was
+            submitted.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Default reports.
+            </head>
+          </npcatch>
+          <text>
+             Lenders shall submit monthly default reports, including borrower
+            payment history, for each loan in monetary default using a form
+            approved by the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Financial reports.
+            </head>
+          </npcatch>
+          <text>
+             The financial report requirements specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='107' psec='#d' tq='N'>
+                4287.107(d)
+              </subref>
+            </aref>
+             apply except as follows:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The financial reports required under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='107' psec='#d' tq='N'>
+                4287.107(d)
+              </subref>
+            </aref>
+             may be specified in either the loan agreement or the Conditional
+            Commitment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The lender must submit to the Agency quarterly financial statements
+            within 45 days of the end of each quarter; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The annual financial statements required under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='107' psec='#d' tq='N'>
+                4287.107(d)
+              </subref>
+            </aref>
+             must be audited financial statements and must be submitted within
+            180 days.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Additional loans.
+            </head>
+          </npcatch>
+          <text>
+             Instead of complying with the additional expenditures provisions
+            specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='107' psec='#e' tq='N'>
+                4287.107(e)
+              </subref>
+            </aref>
+            , the lender may make additional expenditures or new loans to a
+            borrower with an outstanding loan guaranteed only with prior written
+            Agency approval. The Agency will only approve additional
+            expenditures or new loans where the expenditure or loan will not
+            violate one or more of the loan covenants of the borrower&apos;s
+            loan agreement. In all instances, the lender must notify the Agency
+            when they make any additional expenditures or new loans. Any
+            additional expenditure or loan made by the lender must be junior in
+            priority to the loan guaranteed under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='4279' tq='N'>
+                4279
+              </subref>
+            </aref>
+             except for working capital loans for which the Agency may consider
+            a subordinate lien provided it is consistent with the conditional
+            provisions specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4279' sect='202' psec='#i_1' tq='N'>
+                4279.202(i)(1)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Interest rate adjustments.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='112' psec='' tq='N'>
+                4287.112
+              </subref>
+            </aref>
+             apply, except for 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='112' psec='#a_2' tq='N'>
+                4287.112(a)(2)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Collateral inspection and release.
+            </head>
+          </npcatch>
+          <text>
+             In lieu of complying with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='113' psec='' tq='N'>
+                4287.113
+              </subref>
+            </aref>
+            , lenders must comply with the provisions of this paragraph. The
+            lender must inspect the collateral as often as necessary to properly
+            service the loan. The Agency must give prior approval for the
+            release of collateral, except as specified in paragraph (f)(1) of
+            this section or where the release of collateral is made under the
+            abundance of collateral provision of the applicable security
+            agreement, subject to the provisions of paragraph (f)(3) of this
+            section. Appraisals on the collateral being released are required on
+            all transactions exceeding $250,000 and will be at the expense of
+            the borrower. The appraisal must meet the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4279' sect='244' psec='' tq='N'>
+                4279.244
+              </subref>
+            </aref>
+            . The sale or release of collateral must be based on an arm&apos;s
+            length transaction, unless otherwise approved by the Agency in
+            writing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Lenders may, over the life of the guaranteed loan, release
+            collateral 
+            <PRTPAGE P='1024' />
+            with a cumulative value of up to 20 percent of the original loan
+            amount without Agency concurrence (subject to the provisions of
+            paragraph (f)(3) of this section) if the proceeds generated are used
+            to pay down secured debt in order of lien priority or to buy
+            replacement collateral.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Release of collateral with a cumulative value in excess of 20
+            percent of the original loan or when the proceeds will not be used
+            to pay down secured debt in order of lien priority or to buy
+            replacement collateral, must be requested, in writing, by the lender
+            and concurred by the Agency, in writing, in advance of the release.
+            A written evaluation will be completed by the lender to justify the
+            release.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Lenders may not release collateral with a value of more than 10
+            percent of the original loan amount at any one time and within any
+            one calendar year without Agency concurrence.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             Any release of collateral must not adversely affect the
+            project&apos;s operation or financial condition.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Subordination of lien position.
+            </head>
+          </npcatch>
+          <text>
+             In addition to complying with the provisions found in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='123' psec='' tq='N'>
+                4287.123
+              </subref>
+            </aref>
+            , a subordination must not extend the term of the guaranteed loan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Transfers and assumptions.
+            </head>
+          </npcatch>
+          <text>
+             Transfers and assumptions shall comply with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='134' psec='' tq='N'>
+                4287.134
+              </subref>
+            </aref>
+            , except as specified in paragraphs (h)(1) through (h)(3) of this
+            section, and with paragraphs (h)(4) and (h)(5) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             In complying with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='134' psec='#a' tq='N'>
+                4287.134(a)
+              </subref>
+            </aref>
+            , eligible applicants shall be determined in accordance with subpart
+            C of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+             instead of subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Any new loan terms under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='134' psec='#b' tq='N'>
+                4287.134(b)
+              </subref>
+            </aref>
+             must be within the terms authorized by 
+            <aref type='UNKNOWN'>
+              § 4279.232 of
+            </aref>
+             subpart C of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+             instead of 
+            <aref type='UNKNOWN'>
+              § 4279.126 of
+            </aref>
+             subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Additional loans under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='134' psec='#e' tq='N'>
+                4287.134(e)
+              </subref>
+            </aref>
+             will be considered as a new loan application under subpart C of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+             instead of subpart B of 
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may charge the lender a nonrefundable transfer fee at
+            the time of a transfer application. The Agency will set the amount
+            of the transfer fee in an annual notice of funds availability
+            published in the 
+            <E T='04'>
+              Federal Register
+            </E>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             Assumption shall be deemed to occur in the event of a change in the
+            control of the borrower. For purposes of the loan, change of control
+            means the merger of the borrower, sale of all or substantially all
+            of the assets of the borrower, or the sale of more than 25 percent
+            of the stock or other equity interest of either the borrower or its
+            corporate parent.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will not approve any change in terms that results in an
+            increase in the cost of the loan guarantee, unless the Agency can
+            secure any additional budget authority that would be required and
+            the change otherwise conforms with applicable regulations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Substitution of lender after issuance of the Loan Note Guarantee.
+            </head>
+          </npcatch>
+          <text>
+             All substitutions of lenders must comply with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='135' psec='' tq='N'>
+                4287.135
+              </subref>
+            </aref>
+             except that, instead of approving a new lender as a substitute
+            lender using the provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='135' psec='#a' tq='N'>
+                4287.135(a)
+              </subref>
+            </aref>
+            , the Agency may approve the substitution of a new lender if the
+            proposed substitute lender:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Is an eligible lender in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4279' sect='202' psec='#b' tq='N'>
+                4279.202(b)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Is able to service the loan in accordance with the original loan
+            documents; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Acquires title to the unguaranteed portion of the loan held by the
+            original lender and assumes all original loan requirements,
+            including liabilities and servicing responsibilities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Default by borrower.
+            </head>
+          </npcatch>
+          <text>
+             The provisions of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='145' psec='' tq='N'>
+                4287.145
+              </subref>
+            </aref>
+             apply to this subpart, except that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Instead of complying with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='145' psec='#b_2' tq='N'>
+                4287.145(b)(2)
+              </subref>
+            </aref>
+            , in the event a deferment, rescheduling, reamortization, or
+            moratorium is accomplished, it will be limited to the remaining life
+            of the collateral or remaining limits as contained in 
+            <aref type='UNKNOWN'>
+              § 4279.232(a) of
+            </aref>
+            <aref type='CFR-TIC-PART'>
+              part 
+              <subref title='7' part='4279' tq='N'>
+                4279 of this chapter
+              </subref>
+            </aref>
+            ; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             If a loan goes into default, the lender must provide the
+            notification required under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='145' psec='#a' tq='N'>
+                4287.145(a)
+              </subref>
+            </aref>
+             to the Agency within 15 calendar days of when a borrower is 30 days
+            past due on a payment or is otherwise in default of the Loan
+            Agreement.
+            <PRTPAGE P='1025' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Protective advances.
+            </head>
+          </npcatch>
+          <text>
+             All protective advances made by the lender must comply with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='156' psec='' tq='N'>
+                4287.156
+              </subref>
+            </aref>
+             and the provisions of paragraphs (k)(1) and (k)(2) of this section.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Instead of the $5,000 specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='156' psec='#c' tq='N'>
+                4287.156(c)
+              </subref>
+            </aref>
+            , the Agency&apos;s written authorization is required when
+            cumulative protective advances exceed $100,000, unless otherwise
+            specified by the Agency at a lesser amount.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The lender must obtain written Agency approval for any protective
+            advance that will singularly or cumulatively amount to more than
+            $100,000 or 10 percent of the guaranteed loan, whichever is less.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='l'>
+            <enum src='gpotxt' cln='1'>
+              (l)
+            </enum>
+            <head>
+              Liquidation.
+            </head>
+          </npcatch>
+          <text>
+             Liquidations shall comply with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='157' psec='' tq='N'>
+                4287.157
+              </subref>
+            </aref>
+            , except that, in complying with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='157' psec='#d_13' tq='N'>
+                4287.157(d)(13)
+              </subref>
+            </aref>
+            , lenders are to obtain an independent appraisal report meeting the
+            requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4279' sect='244' psec='' tq='N'>
+                4279.244
+              </subref>
+            </aref>
+            , instead of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4279' sect='144' psec='' tq='N'>
+                4279.144
+              </subref>
+            </aref>
+            , when the outstanding balance of principal and accrued interest is
+            $200,000 or more.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='m'>
+            <enum src='gpotxt' cln='1'>
+              (m)
+            </enum>
+            <head>
+              Determination of loss and payment.
+            </head>
+          </npcatch>
+          <text>
+             In addition to complying with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='4287' sect='158' psec='' tq='N'>
+                4287.158
+              </subref>
+            </aref>
+            , if a lender receives a final loss payment, the lender must submit
+            to the Agency an annual report on its collection activities for each
+            unsatisfied account for 3 years following payment of the final loss
+            claim.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='17774'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:D:4287.308
+      </extid>
+      <num st='1'>
+        4287.308
+      </num>
+      <head>
+        Fiscal Year 2009 and Fiscal Year 2010 loan guarantees.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='4287' sect='308' psec='' tq='N'>
+              4287.308
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fiscal Year 2009 and Fiscal Year 2010 loan guarantees.
+        </SUBJECT>
+        <P>
+          Any loan guarantee application that has been submitted to the Agency
+          under this program prior to March 16, 2011 may submit to the Agency a
+          written request for an irrevocable election to have the guaranteed
+          loan serviced in accordance with this subpart. Such an election must
+          be made by October 1, 2011.
+        </P>
+      </contents>
+    </section>
+    <section orderid='17775'>
+      <extid>
+        lii:cfr:2013:7:0:B:XLII:-:4287:D:4287.309-4287.400
+      </extid>
+      <num st='2'>
+        4287.309-4287.400
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='4287' sect='309-4287' psec='' tq='N'>
+              4287.309-4287
+            </subref>
+          </aref>
+          .400
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

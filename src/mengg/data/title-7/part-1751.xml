@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol11'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1751
+    </extid>
+    <num>
+      1751
+    </num>
+    <head>
+      TELECOMMUNICATIONS SYSTEM PLANNING AND DESIGN CRITERIA, AND PROCEDURES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.,
+          </E>
+           1921 
+          <E T='03'>
+            et seq.
+          </E>
+          ; 
+          <aref target='_blank' title='Pub. L. 103-354' alt='Pub. L. 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+            Pub. L. 103-354
+          </aref>
+          , 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=103_statutes2_at_large&amp;position=all&amp;page=3178'>
+            108 Stat. 3178
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='7' sect='6941' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6941.html'>
+              7 U.S.C. 6941
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ).
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            60 FR 8174
+          </aref>
+          , Feb. 13, 1995, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='14092'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1751:A:1751.1-1751.99
+      </extid>
+      <num st='2'>
+        1751.1-1751.99
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1751' sect='1-1751' psec='' tq='N'>
+              1751.1-1751
+            </subref>
+          </aref>
+          .99
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='14093'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1751:B:1751.100
+      </extid>
+      <num st='1'>
+        1751.100
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1751' sect='100' psec='' tq='N'>
+              1751.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in this subpart:
+        </P>
+        <P>
+          <E T='03'>
+            Bit rate.
+          </E>
+           The rate of transmission of telecommunications signals or
+          intelligence in binary (two state) form in bits per unit time, e.g.,
+          Mb/s (megabits per second), kb/s (kilobits per second), etc.
+        </P>
+        <P>
+          <E T='03'>
+            Borrower.
+          </E>
+           Any organization that has received an RUS loan designation number and
+          which has an outstanding telephone loan made by RUS or the Rural
+          Telephone Bank, or guaranteed by RUS, or which has a completed loan
+          application with RUS.
+        </P>
+        <P>
+          <E T='03'>
+            Emerging technologies.
+          </E>
+           New or not fully developed methods of telecommunications.
+        </P>
+        <P>
+          <E T='03'>
+            Modernization Plan (State Telecommunications Modernization Plan).
+          </E>
+           A State plan, which has been approved by RUS, for improving the
+          telecommunications network of those Telecommunications Providers
+          covered by the plan. A Modernization Plan must conform to the
+          provisions of this subpart.
+        </P>
+        <P>
+          <E T='03'>
+            New facilities.
+          </E>
+           Facilities which are wholly or partially constructed or reconstructed
+          after a short- or medium-term requirements start date, as appropriate.
+          This does not include connections or capacity extensions within the
+          wired capacity of existing plant such as adding line cards to existing
+          equipment.
+        </P>
+        <P>
+          <E T='03'>
+            Plan Developer.
+          </E>
+           The entity creating the Modernization Plan for the State, which may
+          be the State PUC, the State legislature, or a numeric majority of the
+          RUS Borrowers within the State. When this part refers to the PUC as
+          the Plan Developer, this includes the State legislature.
+        </P>
+        <P>
+          <E T='03'>
+            PUC (Public Utilities Commission).
+          </E>
+           The public utilities commission, public service commission or other
+          State body with such jurisdiction over rates, service areas or other
+          aspects of the services and operation of providers of
+          telecommunications services as vested in the commission or other body
+          authority, to the extent provided by the State, to guide development
+          of telecommunications services in the State. When this part refers to
+          the PUC as the Plan Developer, this includes the State legislature.
+        </P>
+        <P>
+          <E T='03'>
+            RE Act.
+          </E>
+           The Rural Electrification Act of 1936, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            REA.
+          </E>
+           The Rural Electrification Administration, formerly an agency of the
+          United States Department of Agriculture and predecessor agency to RUS
+          with respect to administering certain electric and telephone loan
+          programs.
+        </P>
+        <P>
+          <E T='03'>
+            RELRA.
+          </E>
+           The Rural Electrification Loan Restructuring Act of 1993 (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=103_statutes_at_large&amp;position=all&amp;page=1356'>
+            107 Stat. 1356
+          </aref>
+          ).
+        </P>
+        <P>
+          <E T='03'>
+            RUS.
+          </E>
+           The Rural Utilities Service, an agency of the United States
+          Department of Agriculture established pursuant to 
+          <aref type='UNKNOWN'>
+            Section 232 of
+          </aref>
+           the Federal Crop Insurance Reform and Department of Agriculture
+          Reorganization Act of 1994 (
+          <aref target='_blank' title='Pub. L. 103-354' alt='Pub. L. 103-354' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d103:./list/bd/d103pl.lst:354%28Public_Laws%29'>
+            Pub. L. 103-354
+          </aref>
+          , 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=103_statutes2_at_large&amp;position=all&amp;page=3178'>
+            108 Stat. 3178
+          </aref>
+           (
+          <aref type='USC'>
+            <subref title='7' sect='6941' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/6941.html'>
+              7 U.S.C. 6941
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          )), successor to REA with respect to administering certain electric
+          and telephone programs. See 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1700' sect='1' psec='' tq='N'>
+              1700.1
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            RUS cost-of-money loan.
+          </E>
+           A loan made under 
+          <aref type='UNKNOWN'>
+            section 305(d)(2) of
+          </aref>
+           the RE Act bearing interest as determined under 7 
+          <PRTPAGE P='403' />
+          CFR 1735.31(c). RUS cost-of-money loans are made concurrently with RTB
+          loans.
+        </P>
+        <P>
+          <E T='03'>
+            RUS hardship loan.
+          </E>
+           A loan made by RUS under 
+          <aref type='UNKNOWN'>
+            section 305(d)(1) of
+          </aref>
+           the RE Act bearing interest at a rate of 5 percent per year.
+        </P>
+        <P>
+          <E T='03'>
+            RTB loan.
+          </E>
+           A loan made by the Rural Telephone Bank (RTB) under 
+          <aref type='UNKNOWN'>
+            section 408 of
+          </aref>
+           the RE Act bearing interest as determined under 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='1610' sect='10' psec='' tq='N'>
+              1610.10
+            </subref>
+          </aref>
+          . RTB loans are made concurrently with RUS cost-of-money loans.
+        </P>
+        <P>
+          <E T='03'>
+            State.
+          </E>
+           Each of the 50 states of the United States, the District of Columbia,
+          and the territories and insular possessions of the United States. This
+          does not include countries in the Compact of Free Association.
+        </P>
+        <P>
+          <E T='03'>
+            Telecommunications.
+          </E>
+           The transmission or reception of voice, data, sounds, signals,
+          pictures, writings, or signs of all kinds, by wire, fiber, radio,
+          light, or other visual or electromagnetic means.
+        </P>
+        <P>
+          <E T='03'>
+            Telecommunications providers.
+          </E>
+           RUS Borrowers and if the Plan Developer is a PUC, such other entities
+          providing telecommunications services as the developer of the
+          Modernization Plan (See 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1751' sect='101' psec='' tq='N'>
+              1751.101
+            </subref>
+          </aref>
+          ) may determine.
+        </P>
+        <P>
+          <E T='03'>
+            Wireline Service.
+          </E>
+           Telecommunica-tions service provided over telephone lines. It is
+          characterized by a wire or wirelike connection carrying electricity or
+          light between the subscriber and the rest of the telecommunications
+          network. Wireline Service implies a physical connection. Although
+          radio may form part of the circuit, it is not the major method of
+          transmission as in radiotelephone.
+        </P>
+      </contents>
+    </section>
+    <section orderid='14094'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1751:B:1751.101
+      </extid>
+      <num st='1'>
+        1751.101
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1751' sect='101' psec='' tq='N'>
+              1751.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             It is the policy of RUS that every State have a Modernization Plan
+            which provides for the improvement of the State&apos;s
+            telecommunications network.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             A proposed Modernization Plan must be submitted to RUS for
+            approval. RUS will approve the proposed Modernization Plan if it
+            conforms to the provisions of this subpart. Once obtained,
+            RUS&apos;s approval of a Modernization Plan cannot be rescinded.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The Modernization Plan shall not interfere with RUS&apos;s
+            authority to issue such other telecommunications standards,
+            specifications, requirements, and procurement rules as may be
+            promulgated from time to time by RUS including, without limitation,
+            those set forth in 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1755' tq='N'>
+                1755
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The Modernization Plan must, at a minimum, apply to RUS
+            Borrowers&apos; wireline service areas. If a Modernization Plan is
+            developed by the PUC, RUS encourages, but does not require, that the
+            Modernization Plan&apos;s requirements apply to the rural service
+            areas of all providers of telecommunications services in the State.
+            A PUC&apos;s decision not to include non-RUS Borrowers will not
+            prejudice RUS approval of that PUC&apos;s Modernization Plan. The
+            PUC may also, at its option, extend coverage of the Modernization
+            Plan to all service areas of all providers of telecommunications
+            services in the State. In addition, while the requirements and goals
+            contained in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1751' sect='106' psec='' tq='N'>
+                1751.106
+              </subref>
+            </aref>
+             apply only to wireline services, the PUC, at its discretion, may
+            extend coverage of Modernization Plans to wireless or other
+            communications services in the State as it deems appropriate.
+            Borrower-developed Modernization Plans apply only to Borrowers.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14095'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1751:B:1751.102
+      </extid>
+      <num st='1'>
+        1751.102
+      </num>
+      <head>
+        Modernization Plan Developer; eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1751' sect='102' psec='' tq='N'>
+              1751.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Modernization Plan Developer; eligibility.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Each PUC is eligible until February 13, 1996 to develop a proposed
+            Modernization Plan and deliver it to RUS. RUS will review and
+            consider for approval all PUC-developed Modernization Plans received
+            by RUS within this one year period. The review and approval, if any,
+            may occur after the one year period ends even though the PUC is no
+            longer eligible to submit a proposed Modernization Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The PUC must notify all Telecommunications Providers in the State
+            and other interested parties of its intent to develop a proposed
+            Modernization Plan. The PUC is encouraged to consider all
+            Telecommunications Providers&apos; and interested parties&apos;
+            views and incorporate these views into the Modernization Plan. In
+            the event that the PUC does not intend to develop a proposed
+            Modernization Plan, RUS requests that the PUC inform RUS of this
+            decision as soon as possible.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             If the PUC is no longer eligible to develop a Modernization Plan or
+            has informed RUS that it will not develop a Modernization Plan, as
+            described in 
+            <PRTPAGE P='404' />
+            paragraphs (a) and (b) of this section, a majority of the Borrowers
+            within the State may develop the Modernization Plan. If a majority
+            of Borrowers develops the Modernization Plan, the following apply:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             All Borrowers shall be given reasonable notice of and shall be
+            encouraged to attend and contribute to all meetings and other
+            proceedings relating to the development of the Modernization Plan;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Borrowers developing a Modernization Plan are encouraged to solicit
+            the views of other providers of telecommunications services and
+            interested parties in the State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             There is no time limit placed on Borrowers to develop a
+            Modernization Plan. Borrowers should be aware that certain types of
+            loans may be restricted until a Modernization Plan is approved. See 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1751' sect='103' psec='' tq='N'>
+                1751.103
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14096'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1751:B:1751.103
+      </extid>
+      <num st='1'>
+        1751.103
+      </num>
+      <head>
+        Loan and loan advance requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1751' sect='103' psec='' tq='N'>
+              1751.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Loan and loan advance requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             For information about loan eligibility requirements in relation to
+            the Modernization Plan, see 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1735' tq='N'>
+                1735
+              </subref>
+            </aref>
+            . In particular, beginning February 13, 1996, RUS will make RUS
+            hardship loans, RUS cost-of-money loans, and RTB loans for
+            facilities and other RE Act purposes in a State only if:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The State has an RUS approved Modernization Plan; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Borrower to whom the loan is to be made is participating in the
+            Modernization Plan for the State. A Borrower is considered to be
+            participating if, in RUS&apos;s opinion, the purposes of the loan
+            requested by the Borrower are consistent with the Borrower achieving
+            the requirements stated in the Modernization Plan within the
+            timeframe stated in the Modernization Plan unless RUS has determined
+            that achieving the requirements is not technically or economically
+            feasible.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             With regard to the three types of loans discussed in paragraph (a),
+            only loans approved after the date the State has an RUS approved
+            Modernization Plan are subject to complying with the Modernization
+            Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             For loans subject to complying with the Modernization Plan,
+            advances will not be made if, in RUS&apos;s opinion, the advances
+            are not consistent with achieving the requirements of the
+            Modernization Plan.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14097'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1751:B:1751.104
+      </extid>
+      <num st='1'>
+        1751.104
+      </num>
+      <head>
+        Obtaining RUS approval of a proposed Modernization Plan.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1751' sect='104' psec='' tq='N'>
+              1751.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Obtaining RUS approval of a proposed Modernization Plan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             To obtain RUS approval of a proposed Modernization Plan, the Plan
+            Developer must submit the following to RUS:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             A certified copy of the statute or PUC order, if the PUC is the
+            Plan Developer, or a written request for RUS approval of the
+            proposed Modernization Plan signed by an authorized representative
+            of the Plan Developer, if a majority of Borrowers is the Plan
+            Developer; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Three copies of the proposed Modernization Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Generally, RUS will review the proposed Modernization Plan within
+            (30) days and either:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Approve the Modernization Plan if it conforms to the provisions of
+            this subpart in which case RUS will return a copy of the
+            Modernization Plan with notice of approval to the Plan Developer; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Not approve the proposed Modernization Plan if it does not conform
+            to the provisions of this subpart. In this event, RUS will return
+            the proposed Modernization Plan to the Plan Developer with specific
+            written comments and suggestions for modifying the proposed
+            Modernization Plan so that it will conform to the provisions of this
+            subpart. If the Plan Developer remains eligible, RUS will invite the
+            Plan Developer to submit a modified proposed Modernization Plan for
+            RUS consideration. This process can continue until the Plan
+            Developer gains approval of a proposed Modernization Plan unless the
+            Plan Developer is a PUC whose eligibility has expired. If a
+            PUC&apos;s eligibility has expired, RUS will return the proposed
+            Modernization Plan unapproved. Because RUS does not have authority
+            to extend the term of a PUC&apos;s eligibility, RUS recommends that
+            the PUC submit a proposed Modernization Plan at least 90 days in
+            advance of February 13, 1996 to allow time for this process.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14098'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1751:B:1751.105
+      </extid>
+      <num st='1'>
+        1751.105
+      </num>
+      <head>
+        Amending a Modernization Plan.
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='405' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1751' sect='105' psec='' tq='N'>
+              1751.105
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Amending a Modernization Plan.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             RUS understands that changes in standards, technology, regulation,
+            and the economy could indicate that an RUS-approved Modernization
+            Plan should be amended.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Plan Developer of the Modernization Plan may amend the
+            Modernization Plan if RUS finds the proposed changes continue to
+            conform to the provisions of this subpart.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The procedure for requesting approval of an amended Modernization
+            Plan is identical to the procedure for a proposed Modernization Plan
+            except that there are no time limits on the eligibility of the Plan
+            Developer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The existing Modernization Plan remains in force until RUS has
+            approved the proposed amended Modernization Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             RUS may from time to time revise these regulations to incorporate
+            newer technological and economic standards that RUS believes
+            represent more desirable goals for the future course of
+            telecommunications services. Such revisions will be made in
+            accordance with the Administrative Procedure Act. These revisions
+            shall not invalidate Modernization Plans approved by RUS but shall
+            be used by RUS to determine whether to approve amendments to
+            Modernization Plans presented for RUS approval after March 15, 1995.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='14099'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1751:B:1751.106
+      </extid>
+      <num st='1'>
+        1751.106
+      </num>
+      <head>
+        Modernization Plan; requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1751' sect='106' psec='' tq='N'>
+              1751.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Modernization Plan; requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The requirements for a Modernization Plan as stated in RELRA are:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The plan must provide for the elimination of party line service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The plan must provide for the availability of telecommunications
+            services for improved business, educational, and medical services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             The plan must encourage and improve computer networks and
+            information highways for subscribers in rural areas.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             The plan must provide for—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Subscribers in rural areas to be able to receive through telephone
+            lines—
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_4_i_A'>
+            <enum src='gpotxt' cln='1'>
+              (A)
+            </enum>
+          </npcatch>
+          <text>
+             Conference calling;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_4_i_B'>
+            <enum src='gpotxt' cln='1'>
+              (B)
+            </enum>
+          </npcatch>
+          <text>
+             Video images; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='4' id='i_4_i_C'>
+            <enum src='gpotxt' cln='1'>
+              (C)
+            </enum>
+          </npcatch>
+          <text>
+             Data at a rate of at least 1,000,000 bits of information per
+            second; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The proper routing of information to subscribers.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+          </npcatch>
+          <text>
+             The plan must provide for uniform deployment schedules to ensure
+            that advanced services are deployed at the same time in rural and
+            nonrural areas.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+          </npcatch>
+          <text>
+             The plan must provide for such additional requirements for service
+            standards as may be required by the Administrator.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             To implement the requirements of the law described in paragraph (a)
+            of this section, RUS has set minimum requirements as described in
+            paragraphs (i) and (j) of this section. They are grouped into
+            short-term and medium-term requirements. RUS has also included
+            long-term goals which are not requirements. The Modernization Plan
+            must meet all of the statutory requirements of RELRA and shall
+            provide that short- and medium-term requirements be implemented as
+            set forth in this section of the regulation except that the PUC, if
+            it is the Plan Developer, or RUS, if a majority of Borrowers is the
+            Plan Developer, may approve extensions of time if the required
+            investment is not economically feasible or if the best available
+            telecommunications technology lacks the capability to enable the
+            Telecommunications Provider receiving the extension to comply with
+            the Modernization Plan. Extensions shall be granted only on a
+            case-by-case basis and generally shall not exceed a total of five
+            years from the first such extension granted to the
+            Telecommunications Provider.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Each State&apos;s Modernization Plan shall be a strategic
+            development proposal for modernizing the telecommunications network
+            of the Telecommunications Providers covered by the Modernization
+            Plan. In addition to implementing the requirements described in
+            paragraphs (a), (i), and (j) of this section, the Modernization Plan
+            shall include a short engineering description of the characteristics
+            of a future telecommunications structure that would enable all
+            Telecommunications Providers to achieve the requirements and goals
+            of the Modernization Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Within the scope of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1751' sect='101' psec='#d' tq='N'>
+                1751.101(d)
+              </subref>
+            </aref>
+            , if the Plan Developer is the PUC, the 
+            <PRTPAGE P='406' />
+            Modernization Plan shall name the Telecommunications Providers in
+            the State, in addition to Borrowers, that are covered by the
+            Modernization Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The Modernization Plan must require that the design of the network
+            provided by Telecommunications Providers allow for the expeditious
+            deployment and integration of such emerging technologies as may from
+            time to time become commercially feasible.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             The Modernization Plan must provide guidelines to
+            Telecommunications Providers for the development of affordable
+            tariffs for medical links and distance learning services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             With regard to the uniform deployment requirement of the law
+            restated in paragraph (a)(5) of this section, if services cannot be
+            deployed at the same time, only the minimum feasible interval of
+            time shall separate availability of the services in rural and
+            nonrural areas.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             The Modernization Plan must make provision for reliable powering of
+            ordinary voice telephone service operating over those portions of
+            the telecommunications network which are not network powered. In the
+            event of electric utility power outages, an alternative source of
+            power must be available to ensure reliable voice service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+            <head>
+              Short-term requirements.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='i_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The “short-term requirements start date” is the date one year after
+            the date RUS approves the Modernization Plan for the State.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All New Facilities providing Wireline Service after the short-term
+            requirements start date, even if the construction began before such
+            date, shall be constructed so that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Every subscriber can be provided 1-party service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The New Facilities are suitable, as built or with additional
+            equipment, to provide transmission and reception of data at a rate
+            no lower than 1 Mb/sec.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='i_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             All switching equipment installed by a Telecommunications Provider
+            after the short-term requirements start date shall be capable of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Providing custom calling features. At a minimum, custom calling
+            features must include call waiting, call forwarding, abbreviated
+            dialing, and three-way calling; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='i_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Providing E911 service for areas served by the Telecommunication
+            Provider when requested by the government responsible for this
+            service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+            <head>
+              Medium-term requirements.
+            </head>
+          </npcatch>
+          <npcatch lev='2' id='j_1'>
+            <enum src='gpotxt' cln='2'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The “medium-term requirements start date” is the date six years
+            after the date RUS approves the Modernization Plan for the State, or
+            such earlier date as the Modernization Plan shall provide.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             All New Facilities providing Wireline Service after the medium-term
+            requirements start date, even if the construction began before such
+            date, shall be capable, as built or with additional equipment, of
+            transmitting video to a subscriber. The video must be capable of
+            depicting a reasonable representation of motion. The frame rate,
+            resolution, and other measures of audio and video quality shall be
+            determined by the Plan Developer.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             No later than the medium-term requirements start date, all
+            switching equipment of Telecommunications Providers covered by the
+            Modernization Plan must be capable of providing E911 service when
+            requested by the government responsible for this service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='j_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+          </npcatch>
+          <text>
+             No later than five years after the medium-term requirements start
+            date, one-party service must be provided upon demand to any
+            subscriber of a Telecommunications Provider covered by the
+            Modernization Plan.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='k'>
+            <enum src='gpotxt' cln='1'>
+              (k)
+            </enum>
+            <head>
+              Long-term goals.
+            </head>
+          </npcatch>
+          <text>
+             RUS suggests, but does not require, that the provisions of each
+            Modernization Plan be consistent with the accomplishment of the
+            following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             The elimination of party line service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='k_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             For subscribers that desire the service, universal availability of:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_2_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Digital voice and data service (56-164 kb/sec).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_2_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Service that provides transmission and reception of high bit rate
+            (no less than 1 Mb/sec) data.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='k_2_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Service that provides reception of video as described in paragraph
+            (j)(2) of this section.
+            <PRTPAGE P='407' />
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

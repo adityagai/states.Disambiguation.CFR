@@ -1,0 +1,4659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol11'>
+    <extid>
+      lii:cfr:2013:7:0:B:XVII:-:1709
+    </extid>
+    <num>
+      1709
+    </num>
+    <head>
+      ASSISTANCE TO HIGH ENERGY COST COMMUNITIES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+            , 
+            <subref title='5' sect='7' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/7.html'>
+              7
+            </subref>
+          </aref>
+           U.S.C. 901 
+          <E T='03'>
+            et seq.
+          </E>
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            70 FR 5351
+          </aref>
+          , Feb. 2, 2005, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='13468'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.1
+      </extid>
+      <num st='1'>
+        1709.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='1' psec='' tq='N'>
+              1709.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          The purpose of the Rural Utilities Service (RUS) Assistance to High
+          Energy Cost Rural Communities Program is to help local communities
+          meet their energy needs through direct loans and grants for energy
+          facilities in qualifying extremely high energy cost communities,
+          grants and loans to the Denali Commission for extremely high energy
+          cost communities in Alaska, and grants to States to support revolving
+          funds to finance more cost effective means of acquiring fuel in
+          qualifying communities. This subpart sets forth definitions and
+          requirements which are common to all grant and loan programs in this
+          part administered by the RUS Electric Program under 
+          <aref type='UNKNOWN'>
+            section 19 of
+          </aref>
+           the Rural Electrification Act of 1936, as amended (RE Act) (
+          <aref type='USC'>
+            <subref title='7' sect='918a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/918a.html'>
+              7 U.S.C. 918a
+            </subref>
+          </aref>
+          ).
+        </P>
+      </contents>
+    </section>
+    <section orderid='13469'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.2
+      </extid>
+      <num st='1'>
+        1709.2
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='2' psec='' tq='N'>
+              1709.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13470'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.3
+      </extid>
+      <num st='1'>
+        1709.3
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='3' psec='' tq='N'>
+              1709.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          <E T='03'>
+            Administrator
+          </E>
+           means the Administrator of the Rural Utilities Service (RUS), United
+          States Department of Agriculture (USDA).
+        </P>
+        <P>
+          <E T='03'>
+            Agency
+          </E>
+           means the Rural Utilities Service (RUS), an agency of the United
+          States Department of Agriculture (USDA), or a successor agency.
+        </P>
+        <P>
+          <E T='03'>
+            Census block
+          </E>
+           means the smallest geographic entity for which the U.S. Census Bureau
+          collects and tabulates decennial census information and which are
+          defined by boundaries shown on census maps.
+        </P>
+        <P>
+          <E T='03'>
+            Census designated place (CDP)
+          </E>
+           means a statistical entity recognized by the 
+          <PRTPAGE P='65' />
+          U.S. Census Bureau comprising a dense concentration of population that
+          is not within an incorporated place but is locally identified by a
+          name and which has boundaries defined on census maps.
+        </P>
+        <P>
+          <E T='03'>
+            Electric program
+          </E>
+           means the office within RUS, and its successor organization, that
+          administers rural electrification programs authorized by the Rural
+          Electrification Act of 1936 (RE Act) (
+          <aref type='USC'>
+            <subref title='7' sect='901' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/901.html'>
+              7 U.S.C. 901
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ) and such other programs so identified in USDA regulations.
+        </P>
+        <P>
+          <E T='03'>
+            Extremely high energy costs
+          </E>
+           means community average residential energy costs that are at least
+          275 percent of one or more home energy cost benchmarks identified by
+          RUS and based on the latest available information on national average
+          residential energy expenditures as reported by the Energy Information
+          Administration (EIA) of the United States Department of Energy.
+        </P>
+        <P>
+          <E T='03'>
+            Financial assistance
+          </E>
+           means a grant, loan, or grant-loan combination issued under this
+          part.
+        </P>
+        <P>
+          <E T='03'>
+            Home energy
+          </E>
+           means any energy source or fuel used by a household for purposes
+          other than transportation, including electricity, natural gas, fuel
+          oil, kerosene, liquified petroleum gas (propane), other petroleum
+          products, wood and other biomass fuels, coal, wind and solar energy.
+          Fuels used for subsistence activities in remote rural areas are also
+          included.
+        </P>
+        <P>
+          <E T='03'>
+            High energy cost benchmarks
+          </E>
+           means the criteria established by RUS for eligibility as an extremely
+          high energy cost community. Extremely high energy cost benchmarks are
+          calculated as 275 percent of the relevant national average household
+          energy benchmarks.
+        </P>
+        <P>
+          <E T='03'>
+            Indian Tribe
+          </E>
+           means a Federally recognized tribe as defined under 
+          <aref type='UNKNOWN'>
+            section 4 of
+          </aref>
+           the Indian Self-Determination and Education Assistance Act (
+          <aref type='USC'>
+            <subref title='25' sect='450b' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/25/450b.html'>
+              25 U.S.C. 450b
+            </subref>
+          </aref>
+          ) to include “* * * any Indian tribe, band, nation, or other organized
+          group or community, including any Alaska Native village or regional or
+          village corporation as defined in or established pursuant to the
+          Alaska Native Claims Settlement Act (
+          <aref type='USC'>
+            <subref title='43' sect='1601' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/43/1601.html'>
+              43 U.S.C. 1601
+            </subref>
+          </aref>
+          <E T='03'>
+            et seq.
+          </E>
+          ), that is recognized as eligible for the special programs and
+          services provided by the United States to Indians because of their
+          status as Indians.”
+        </P>
+        <P>
+          <E T='03'>
+            Person
+          </E>
+           means any natural person, firm, corporation, association, or other
+          legal entity, and includes Indian tribes and tribal entities.
+        </P>
+        <P>
+          <E T='03'>
+            State
+          </E>
+           means any of the several States of the United States, and, where
+          provided by law, any Territory of the United States or other area
+          authorized to receive the services and programs of the Rural Utilities
+          Service or the Rural Electrification Act of 1936, as amended.
+        </P>
+        <P>
+          <E T='03'>
+            Target area
+          </E>
+           means the geographic area to be served by the grant.
+        </P>
+        <P>
+          <E T='03'>
+            Target community
+          </E>
+           means the unit or units of local government in which the target area
+          is located.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13471'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.4
+      </extid>
+      <num st='1'>
+        1709.4
+      </num>
+      <head>
+        Allocation of available funds among programs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='4' psec='' tq='N'>
+              1709.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Allocation of available funds among programs.
+        </SUBJECT>
+        <P>
+          The Administrator, in his sole discretion, shall allocate available
+          funds among the programs administered under this part and determine
+          the grant application periods under each program. In making fund
+          allocations for each fiscal year, the Administrator may consider the
+          amount of available funds, the nature and amount of unfunded grant
+          applications and prior awards, Agency resources, Agency priorities,
+          and any other pertinent information.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13472'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.5
+      </extid>
+      <num st='1'>
+        1709.5
+      </num>
+      <head>
+        Determination of energy cost benchmarks.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='5' psec='' tq='N'>
+              1709.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Determination of energy cost benchmarks.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator shall establish, using the most recent data
+            available, and periodically revise, the home energy cost benchmarks
+            and the high energy cost benchmarks used to determine community
+            eligibility for high energy cost grant and loan programs and the
+            Denali Commission high energy cost grants and loans. In setting
+            these energy cost benchmarks, the Administrator shall review the
+            latest available information on home energy costs published by the
+            EIA. High energy cost benchmarks will be set at 275 percent of the
+            applicable national average home energy cost benchmark as determined
+            by the Administrator from the published EIA data. Eligibility
+            benchmarks shall be published in each grant announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             For use in determining eligibility for High Energy Cost Grants, the
+            Administrator may establish benchmarks for national average annual
+            household 
+            <PRTPAGE P='66' />
+            expenditures and for national average household per unit energy
+            expenditures for major home energy sources or fuels, including, but
+            not limited to, electricity, natural gas, fuel oil, kerosene,
+            liquified petroleum gas (propane), other petroleum products, wood
+            and other biomass fuels, coal, wind and solar energy.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13473'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.6
+      </extid>
+      <num st='1'>
+        1709.6
+      </num>
+      <head>
+        Appeals.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='6' psec='' tq='N'>
+              1709.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Appeals.
+        </SUBJECT>
+        <P>
+          An applicant may appeal a decision by the Assistant Administrator,
+          Electric Program rejecting an application for failure to meet
+          eligibility requirements. Applicants may not appeal rating panel
+          scores or rankings. An appeal must be made, in writing to the
+          Administrator, within 10 days after the applicant is notified of the
+          determination to reject the application. Appeals must state the basis
+          for the appeal and shall be submitted to the Administrator, Rural
+          Utilities Service, U.S. Department of Agriculture, 1400 Independence
+          Ave., SW., STOP 1500, Washington, DC 20250-1500. Thereafter, the
+          Administrator will review the appeal to determine whether to sustain,
+          reverse, or modify the original determination. The
+          Administrator&apos;s determination shall be final. A written copy of
+          the Administrator&apos;s decision will be furnished promptly to the
+          applicant.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13474'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.7
+      </extid>
+      <num st='1'>
+        1709.7
+      </num>
+      <head>
+        Applicant eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='7' psec='' tq='N'>
+              1709.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Applicant eligibility.
+        </SUBJECT>
+        <P>
+          An outstanding judgment obtained against an applicant by the United
+          States in a Federal Court (other than in the United States Tax Court),
+          which has been recorded, shall cause the applicant to be ineligible to
+          receive a grant or loan under this part until the judgment is paid in
+          full or otherwise satisfied. RUS financial assistance under this part
+          may not be used to satisfy the judgment.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13475'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.8
+      </extid>
+      <num st='1'>
+        1709.8
+      </num>
+      <head>
+        Electronic submission.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='8' psec='' tq='N'>
+              1709.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Electronic submission.
+        </SUBJECT>
+        <P>
+          Applicants may submit applications and reports electronically if so
+          provided in the applicable grant announcement and grant agreements or
+          if other regulations provide for electronic submission. Any electronic
+          submissions must be in the form prescribed in the applicable grant
+          announcement, grant agreement, or regulation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13476'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.9
+      </extid>
+      <num st='1'>
+        1709.9
+      </num>
+      <head>
+        Grant awards and advance of funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='9' psec='' tq='N'>
+              1709.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grant awards and advance of funds.
+        </SUBJECT>
+        <P>
+          The grantee must execute a grant agreement that is acceptable to the
+          Agency. The grantee must sign and return the grant agreement to the
+          Agency, within the time specified, before any grant funds will be
+          advanced.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13477'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.10
+      </extid>
+      <num st='1'>
+        1709.10
+      </num>
+      <head>
+        Ineligible grant purposes.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='10' psec='' tq='N'>
+              1709.10
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Ineligible grant purposes.
+        </SUBJECT>
+        <P>
+          Grant funds under this part may not be used to:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Pay costs of preparing the application package for funding under
+            programs in this part, or for any finders fees or incentives for
+            persons or entities assisting in the preparation or submission of an
+            application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Fund political activities;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Pay any judgment or debt owed to the United States; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Pay construction costs of the project incurred prior to the date of
+            grant award except as provided herein. Construction work should not
+            be started and obligations for such work or materials should not be
+            incurred before the grant is approved.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants may request Agency approval for reimbursement of
+            pre-award construction obligations if there are compelling reasons
+            for proceeding with construction before grant approval. Such
+            requests may be approved if the Agency determines that:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Compelling reasons, as determined by the Agency, exist for
+            incurring obligations before grant approval;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             The obligations will be incurred for authorized grant purposes;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             All environmental requirements applicable to the Agency and the
+            applicant have been met;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant has the legal authority to incur the obligations at
+            the time proposed, and payment of the debts will remove any basis
+            for any mechanic&apos;s, material, or other liens that may attach to
+            the grant financed property: and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='d_1_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             The expenditure is incurred no more than 18 months before the date
+            of the Administrator&apos;s approval of the grant award.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='d_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency may authorize payment of approved pre-award project
+            construction obligations at the time of award approval. The
+            applicant&apos;s request and the Agency&apos;s authorization 
+            <PRTPAGE P='67' />
+            for paying such obligations shall be in writing.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13478'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.11
+      </extid>
+      <num st='1'>
+        1709.11
+      </num>
+      <head>
+        Award conditions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='11' psec='' tq='N'>
+              1709.11
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Award conditions.
+        </SUBJECT>
+        <P>
+          In addition to all other grant requirements, all approved applicants
+          will be required to do the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Enter into a grant agreement with the Agency in form and substance
+            acceptable to the Agency;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Request advances or reimbursements, as applicable, as provided in
+            the grant agreement; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Maintain a financial management system that is acceptable to the
+            Agency.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13479'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.12
+      </extid>
+      <num st='1'>
+        1709.12
+      </num>
+      <head>
+        Reporting requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='12' psec='' tq='N'>
+              1709.12
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reporting requirements.
+        </SUBJECT>
+        <P>
+          To support Agency monitoring of project performance and use of grant
+          funds, Grantees shall file periodic reports, required under 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='3015' tq='N'>
+              3015
+            </subref>
+          </aref>
+          , as provided in this part, and the grant agreement as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A financial status report listing project expenditures by budget
+            category in such form and at such times as provided in the grant
+            agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Project performance reports in such form and at such intervals as
+            provided in the grant agreement. The project performance report
+            shall compare accomplishments to the objectives stated in the
+            proposal and grant agreement. The project performance report should
+            identify all completed tasks with supporting documentation. If the
+            project schedule as approved in the grant agreement is not being
+            met, the report should discuss the problems or delays that may
+            affect completion of the project. Objectives for the next reporting
+            period should be listed. Compliance with any special condition on
+            the use of award funds should be discussed. Reports are due as
+            provided in the grant agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A final project performance report with supporting documentation in
+            such form and at the time specified in the grant agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Such other reports as the Agency determines are necessary to assure
+            effective grant monitoring as part of the grant agreement or the
+            grant announcement as a condition of the grant award or advances of
+            funds.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13480'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.13
+      </extid>
+      <num st='1'>
+        1709.13
+      </num>
+      <head>
+        Grant administration.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='13' psec='' tq='N'>
+              1709.13
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grant administration.
+        </SUBJECT>
+        <P>
+          The authority to approve administrative actions is vested in the
+          Administrator except as otherwise provided in the RUS delegations of
+          authority. Administration of RUS grants is governed by the provisions
+          of this subpart and subpart B of this part, the terms of the grant
+          agreement and, as applicable, the provisions of 
+          <aref type='CFR'>
+            7 CFR parts 
+            <subref title='7' part='3015' tq='N'>
+              3015, 3016
+            </subref>
+             and 
+            <subref title='7' part='3017' tq='N'>
+              3017
+            </subref>
+          </aref>
+          , or their successors.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13481'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.14
+      </extid>
+      <num st='1'>
+        1709.14
+      </num>
+      <head>
+        Inspections.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='14' psec='' tq='N'>
+              1709.14
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Inspections.
+        </SUBJECT>
+        <P>
+          The grantee will permit periodic inspection of the grant project
+          operations by a representative of the Agency.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13482'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.15
+      </extid>
+      <num st='1'>
+        1709.15
+      </num>
+      <head>
+        Grant closeout.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='15' psec='' tq='N'>
+              1709.15
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grant closeout.
+        </SUBJECT>
+        <P>
+          Grant closeout is when all required work is completed, administrative
+          actions relating to the completion of work and expenditure of funds
+          have been accomplished, the final project report has been submitted
+          and found acceptable by RUS and RUS accepts final expenditure
+          information. No monitoring action by RUS of the grantee is required
+          after grant closeout. However, grantees remain responsible in
+          accordance with the terms of the grant agreement for compliance with
+          conditions on property acquired or derived through grant funds.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13483'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.16
+      </extid>
+      <num st='1'>
+        1709.16
+      </num>
+      <head>
+        Performance reviews.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='16' psec='' tq='N'>
+              1709.16
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Performance reviews.
+        </SUBJECT>
+        <P>
+          Each grant agreement shall include performance criteria and RUS will
+          regularly evaluate the progress and performance of grantee according
+          to such criteria. If the grantee does not comply with or does not meet
+          the performance criteria set out in the grant agreement, the
+          Administrator may require amendment of the grant agreement, or may
+          suspend or terminate the grant pursuant to 
+          <aref type='CFR'>
+            7 CFR 2015
+          </aref>
+          , subpart N.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13484'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.17
+      </extid>
+      <num st='1'>
+        1709.17
+      </num>
+      <head>
+        Environmental review.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='17' psec='' tq='N'>
+              1709.17
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Environmental review.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All grants made under this subpart are subject to the requirements
+            of 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1794' tq='N'>
+                1794
+              </subref>
+            </aref>
+             or its successor.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Applicants must address environmental aspects of their projects in
+            the grant application in sufficient detail to allow the Agency to
+            categorize the project for purposes of compliance with environmental
+            review requirements. 
+            <PRTPAGE P='68' />
+            The grant announcement will establish the form and content of the
+            environmental information required for the application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Projects that are selected for grant awards by the Administrator
+            will be reviewed by the Agency under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1794' tq='N'>
+                1794
+              </subref>
+            </aref>
+             prior to final award approval. The Agency may require the selected
+            applicant to submit additional information, including an
+            environmental report, environmental assessment, or environmental
+            impact statement, as may be required, concerning the proposed
+            project in order to complete the required reviews and to develop any
+            project-specific conditions for the final grant agreement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13485'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.18
+      </extid>
+      <num st='1'>
+        1709.18
+      </num>
+      <head>
+        Civil rights.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='18' psec='' tq='N'>
+              1709.18
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Civil rights.
+        </SUBJECT>
+        <P>
+          This program will be administered in accordance with applicable
+          Federal Civil Rights Law. All grants made under this subpart are
+          subject to the requirements of title VI of the Civil Rights Act of
+          1964, which prohibits discrimination on the basis of race, color or
+          national origin. In addition, all grants made under this subpart are
+          subject to the requirements of 
+          <aref type='UNKNOWN'>
+            section 504 of
+          </aref>
+           the Rehabilitation Act of 1973, as amended, which prohibits
+          discrimination on the basis of disability; the requirements of the Age
+          Discrimination Act of 1975, which prohibits discrimination on the
+          basis of age; and title III of the Americans with Disabilities Act,
+          which prohibits discrimination on the basis of disability by private
+          entities in places of public accommodations. Grantees are required to
+          comply with certain regulations on nondiscrimination in program
+          services and benefits and on equal employment opportunity including 
+          <aref type='CFR'>
+            7 CFR parts 
+            <subref title='7' part='15' tq='N'>
+              15
+            </subref>
+             and 
+            <subref title='7' part='15b' tq='N'>
+              15b
+            </subref>
+          </aref>
+          ; and 
+          <aref type='CFR'>
+            45 CFR part 
+            <subref title='45' part='90' tq='N'>
+              90
+            </subref>
+          </aref>
+          , as applicable.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13486'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.19
+      </extid>
+      <num st='1'>
+        1709.19
+      </num>
+      <head>
+        Other USDA regulations.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='19' psec='' tq='N'>
+              1709.19
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Other USDA regulations.
+        </SUBJECT>
+        <P>
+          The grant programs under this part are subject to the provisions of
+          other departmental regulations, including but not limited to the
+          following departmental regulations, or their successors, as
+          applicable:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3015' tq='N'>
+                3015
+              </subref>
+            </aref>
+            , Uniform Federal Assistance Regulations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3016' tq='N'>
+                3016
+              </subref>
+            </aref>
+            , Uniform Administrative Requirements for Grants and Cooperative
+            Agreements to State and Local Governments;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3017' tq='N'>
+                3017
+              </subref>
+            </aref>
+            , Governmentwide Debarment and Suspension (Nonprocurement) and
+            Governmentwide Requirements for Drug-Free Workplace (Grants);
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3018' tq='N'>
+                3018
+              </subref>
+            </aref>
+            , New Restrictions on Lobbying;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3019' tq='N'>
+                3019
+              </subref>
+            </aref>
+            , Uniform Administrative Requirements for Grants and Agreements with
+            Institutions of Higher Education, Hospitals and Other Non-profit
+            Organizations; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3052' tq='N'>
+                3052
+              </subref>
+            </aref>
+            , Audits of States, Local Governments and Non-profit Organizations.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13487'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.20
+      </extid>
+      <num st='1'>
+        1709.20
+      </num>
+      <head>
+        Member delegate clause.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='20' psec='' tq='N'>
+              1709.20
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Member delegate clause.
+        </SUBJECT>
+        <P>
+          Each grant agreement under this part shall provide that no member of
+          Congress shall be admitted to any share or part of a grant program or
+          any benefit that may arise there from, but this provision shall not be
+          construed to bar as a contractor under a grant a publicly held
+          corporation whose ownership might include a member of Congress.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13488'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.21
+      </extid>
+      <num st='1'>
+        1709.21
+      </num>
+      <head>
+        Audit requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='21' psec='' tq='N'>
+              1709.21
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Audit requirements.
+        </SUBJECT>
+        <P>
+          The grantee shall provide the Agency with an audit for each year,
+          beginning with the year in which a portion of the financial assistance
+          is expended, in accordance with the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the grantee is a for-profit entity, an RUS Electric or
+            Telecommunication borrower or any other entity not covered by
+            paragraph (b) of this section, the recipient shall provide an
+            independent audit report in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1773' tq='N'>
+                1773
+              </subref>
+            </aref>
+            , “Policy on Audits of RUS Borrowers” and the grant agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If the grantee is a State or local government, or a non-profit
+            corporation (other than an RUS Electric or Telecommunication
+            Borrower), the recipient shall provide an audit in accordance with 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='3052' tq='N'>
+                3052
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13489'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.22
+      </extid>
+      <num st='1'>
+        1709.22
+      </num>
+      <head>
+        Project changes.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='22' psec='' tq='N'>
+              1709.22
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Project changes.
+        </SUBJECT>
+        <P>
+          The Grantee shall obtain prior written approval from the Agency for
+          any change to the scope or objectives of the approved grant project.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13490'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.23-1709.99
+      </extid>
+      <num st='2'>
+        1709.23-1709.99
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <PRTPAGE P='69' />
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1709' sect='23-1709' psec='' tq='N'>
+              1709.23-1709
+            </subref>
+          </aref>
+          .99
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13491'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:A:1709.100
+      </extid>
+      <num st='1'>
+        1709.100
+      </num>
+      <head>
+        OMB control number.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='100' psec='' tq='N'>
+              1709.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          OMB control number.
+        </SUBJECT>
+        <P>
+          The information collection requirements in this part are approved by
+          the Office of Management and Budget and assigned OMB control number
+          0572-0136.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13492'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.101
+      </extid>
+      <num st='1'>
+        1709.101
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='101' psec='' tq='N'>
+              1709.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This subpart establishes policies and procedures for the Rural
+          Utilities Service (RUS) High Energy Cost Grant Program under 
+          <aref type='UNKNOWN'>
+            section 19(a)(1) of
+          </aref>
+           the Rural Electrification Act of 1936, as amended (
+          <aref type='USC'>
+            <subref title='7' sect='918a' note='' psec='#a_1' tq='N' target='http://www.law.cornell.edu/uscode/7/918a.html#a_1'>
+              7 U.S.C. 918a(a)(1)
+            </subref>
+          </aref>
+          ). The purpose of this grant program is to assure access to adequate
+          and reliable energy services for persons in extremely high energy cost
+          communities by providing financial assistance to acquire, construct,
+          extend, upgrade, and otherwise improve energy generation,
+          transmission, or distribution facilities serving the community.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13493'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.102
+      </extid>
+      <num st='1'>
+        1709.102
+      </num>
+      <head>
+        Policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='102' psec='' tq='N'>
+              1709.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             All high energy cost grants will be awarded competitively subject
+            to the limited exceptions in 
+            <aref type='CFR'>
+              7 CFR 
+              <subref title='7' part='3015' sect='158' psec='#d' tq='N'>
+                3015.158(d)
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             RUS may give priority consideration to projects that benefit
+            smaller rural communities, communities experiencing economic
+            hardship, projects that extend service to households that lack
+            reliable centralized or commercial energy services, and projects
+            that correct imminent hazards to public safety, welfare, the
+            environment or critical community energy facilities. RUS may also
+            give priority to projects that are coordinated with State rural
+            development initiatives or that serve a Federally-identified
+            Empowerment Zone or Enterprise Community (EZ/EC) or a
+            USDA-identified “Champion Community.” Priority consideration will be
+            provided through the award of additional points under the project
+            selection criteria as specified in the grant announcement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13494'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.103-1709.105
+      </extid>
+      <num st='2'>
+        1709.103-1709.105
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1709' sect='103-1709' psec='' tq='N'>
+              1709.103-1709
+            </subref>
+          </aref>
+          .105
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13495'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.106
+      </extid>
+      <num st='1'>
+        1709.106
+      </num>
+      <head>
+        Eligible applicants.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='106' psec='' tq='N'>
+              1709.106
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible applicants.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible applicants for grants to fund projects serving eligible
+            extremely high energy cost communities include Persons, States,
+            political subdivisions of States, and other entities organized under
+            the laws of States.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible applicants may be for-profit or non-profit business
+            entities including but not limited to corporations, associations,
+            partnerships, limited liability partnerships (LLPs), cooperatives,
+            trusts, and sole proprietorships.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Eligible government applicants include State and local governments,
+            and agencies and instrumentalities of States and local governments.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Indian tribes, other tribal entities, and Alaska Native
+            Corporations are eligible applicants.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Individuals are also eligible applicants under this program,
+            however the proposed grant project must provide community benefits
+            and not be for the sole benefit of the individual applicant or an
+            individual household.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             As a condition of eligibility, the applicant must demonstrate the
+            capacity:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             to enter into a binding grant agreement with the Federal Government
+            at the time of the award approval; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='f_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             to carry out the proposed grant project according to its terms.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13496'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.107
+      </extid>
+      <num st='1'>
+        1709.107
+      </num>
+      <head>
+        Eligible communities.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='107' psec='' tq='N'>
+              1709.107
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible communities.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             An eligible community under this program is one in which the
+            average home energy costs exceed 275 percent of the national average
+            under one or more high energy cost benchmarks established by RUS
+            based on the latest available residential energy information from
+            the Energy Information Administration (EIA) of the United States
+            Department of Energy. RUS will update the national and high energy
+            cost community benchmarks periodically to incorporate any changes in
+            national home energy costs reported by EIA. RUS will publish the
+            high energy cost community benchmark criteria in the grant
+            announcement. Community eligibility will be determined by RUS at the
+            
+            <PRTPAGE P='70' />
+            time of application based on the criteria published in the
+            applicable grant announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Application must include information demonstrating that each
+            community in the grant&apos;s proposed target area exceeds one or
+            more of the RUS high energy cost community benchmarks to be eligible
+            for assistance under this program. The smallest area that may be
+            designated as a target area is a 2000 Census block
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The target community may include an extremely high cost to serve
+            portion of a larger service area that does not otherwise meet the
+            criteria, provided that the applicant can establish that the costs
+            to serve the smaller target area exceed the benchmark.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In determining the community energy costs, applicants may include
+            additional revenue sources that lower the rates or out of pocket
+            consumer energy costs such as rate averaging, and other Federal,
+            State, or private cost contributions or subsidies.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The applicant may propose a project that will serve high energy
+            cost communities across a State or region, but where individual
+            project beneficiaries will be selected at a later time. In such
+            cases, to establish eligibility, the applicant must provide
+            sufficient information in the application to determine that the
+            proposed target area includes eligible high energy cost communities
+            and proposed selection criteria to assure that grant funds are used
+            to serve eligible communities.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13497'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.108
+      </extid>
+      <num st='1'>
+        1709.108
+      </num>
+      <head>
+        Supporting data for determining community eligibility.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='108' psec='' tq='N'>
+              1709.108
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Supporting data for determining community eligibility.
+        </SUBJECT>
+        <P>
+          The application shall include the following:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Documentation of energy costs.
+            </head>
+          </npcatch>
+          <text>
+             Documents or references to published or other sources for
+            information or data on home energy expenditures or equivalent
+            measures used to support eligibility, or where such information is
+            unavailable or does not adequately reflect the actual cost of
+            average home energy use in a local community, reasonable estimates
+            of commercial energy costs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Served areas.
+            </head>
+          </npcatch>
+          <text>
+             A comparison of the historical residential energy cost or
+            expenditure information for the local commercial energy provider(s)
+            serving the target community or target area with the benchmark
+            criteria published by the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Engineering estimates.
+            </head>
+          </npcatch>
+          <text>
+             Estimates based on engineering standards may be used in lieu of
+            historical residential energy costs or expenditure information under
+            the following circumstances:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Where historical community energy cost data are unavailable
+            (unserved areas), incomplete or otherwise inadequate;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Where the target area is not connected to central station electric
+            service to a degree comparable with other residential customers in
+            the State or region.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Where historic energy costs do not reflect the costs of providing a
+            necessary upgrade or replacement of energy infrastructure that would
+            have the effect of raising costs above one or more of the Agency
+            benchmarks.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Independent Agency review.
+            </head>
+          </npcatch>
+          <text>
+             Information to support high energy cost eligibility is subject to
+            independent review by the Agency. The Agency may reject applications
+            that are not based on credible data sources or sound engineering
+            estimates.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13498'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.109
+      </extid>
+      <num st='1'>
+        1709.109
+      </num>
+      <head>
+        Eligible projects.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='109' psec='' tq='N'>
+              1709.109
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible projects.
+        </SUBJECT>
+        <P>
+          Eligible projects are those that acquire, construct, extend, repair,
+          upgrade or otherwise improve energy generation, transmission or
+          distribution facilities serving communities with extremely high energy
+          costs. All energy generation, transmission and distribution facilities
+          and equipment used to provide or improve electricity, natural gas,
+          home heating fuels, and other energy services to eligible communities
+          are eligible. Projects providing or improving service to communities
+          with extremely high energy costs through on-grid and off-grid
+          renewable energy technologies, energy efficiency, and energy
+          conservation projects and services are eligible. A grant project is
+          eligible if it improves, or maintains energy services, or reduces the
+          costs of providing energy services to eligible communities. Examples
+          of eligible activities include, but are not limited to, the
+          acquisition, construction, replacement, repair, or improvement of:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Electric generation, transmission, and distribution facilities,
+            equipment, 
+            <PRTPAGE P='71' />
+            and services serving the eligible community;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Natural gas distribution or storage facilities and associated
+            equipment and activities serving the eligible community;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Petroleum product storage and handling facilities serving
+            residential or community use.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Renewable energy facilities used for on-grid or off-grid electric
+            power generation, water or space heating, or process heating and
+            power for the eligible community;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Backup up or emergency power generation or energy storage
+            equipment, including distributed generation, to serve the eligible
+            community; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Implementation of cost-effective energy efficiency, energy
+            conservation measures that are part of the implementation of a
+            coordinated demand management or energy conservation program for the
+            eligible community, such as, for example, weatherization of
+            residences and community facilities, or acquisition and installation
+            of energy-efficient or energy saving appliances and devices .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13499'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.110
+      </extid>
+      <num st='1'>
+        1709.110
+      </num>
+      <head>
+        Use of grant funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='110' psec='' tq='N'>
+              1709.110
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Use of grant funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Project development costs.
+            </head>
+          </npcatch>
+          <text>
+             Grants may be used to fund the costs and activities associated with
+            the development of an eligible energy project. RUS will in no case
+            approve the use of grant funds to be used solely or primarily for
+            project development costs. Eligible project development costs must
+            be reasonable and directly related to the project and may include
+            the following:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Costs of conducting, or hiring a qualified consultant to conduct, a
+            feasibility analysis of the proposed project to help establish the
+            financial and technical sustainability of the project, provided that
+            such costs do not exceed more than 10 percent of total project
+            costs;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Design and engineering costs, including costs of environmental and
+            cultural surveys and consulting services necessary to the project
+            and associated environmental review, siting and permit approvals;
+            and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='a_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Fees for legal and other professional services directly related to
+            the project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Construction costs.
+            </head>
+          </npcatch>
+          <text>
+             Grant funds may be used for the reasonable costs of construction
+            activities, including initial construction, installation, expansion,
+            extension, repair, upgrades, and related activities, including the
+            rental or lease of necessary equipment, to provide or improve energy
+            generation, transmission, or distribution facilities or services;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Acquisitions and purchase.
+            </head>
+          </npcatch>
+          <text>
+             Grant funds may be used for the acquisition of property, equipment,
+            and materials, including the purchase of equipment, and materials,
+            the acquisition or leasing of real or personal property, equipment,
+            and vehicles associated with and necessary for project development,
+            construction, and operation. Grant funds may be used for the
+            acquisition of new or existing facilities or systems where such
+            action is a cost-effective means to extend or maintain service to an
+            eligible community or reduces the costs of such service for the
+            primary benefit of community residents.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Grantee cost contributions.
+            </head>
+          </npcatch>
+          <text>
+             Grant funds may be applied as matching funds or cost contributions
+            under Federal or other programs where the terms of those programs so
+            allow use of other Federal funds.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13500'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.111
+      </extid>
+      <num st='1'>
+        1709.111
+      </num>
+      <head>
+        Limitations on use of grant funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='111' psec='' tq='N'>
+              1709.111
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Limitations on use of grant funds.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Planning and administrative costs.
+            </head>
+          </npcatch>
+          <text>
+             Not more than 4 percent of each grant award may be used for the
+            planning and administrative expenses of the applicant that are
+            unrelated to the grant project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Unproven technology.
+            </head>
+          </npcatch>
+          <text>
+             Only projects that utilize technology with a proven operating
+            history, and for which there is an established industry for the
+            design, installation, and service (including spare parts) of the
+            equipment, are eligible for funding. Energy projects utilizing
+            experimental, developmental, or prototype technologies or technology
+            demonstrations are not eligible for grant funds. The determination
+            by RUS that a project relies on unproven technology shall be final.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13501'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.112
+      </extid>
+      <num st='1'>
+        1709.112
+      </num>
+      <head>
+        Ineligible grant purposes.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='112' psec='' tq='N'>
+              1709.112
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Ineligible grant purposes.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Grant funds may not be used for the costs of preparing the grant
+            application, finders fees, fuel purchases, 
+            <PRTPAGE P='72' />
+            routine maintenance or other operating costs, or purchase of
+            equipment, structures or real property not directly associated with
+            providing energy services in the target community, or, except as
+            provided in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='1709' sect='11' psec='#d' tq='N'>
+                1709.11(d)
+              </subref>
+            </aref>
+            , project construction costs incurred prior to the date of the grant
+            award.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             In general, grant funds may not be used to support projects that
+            primarily benefit areas outside of eligible target communities.
+            However, grant funds may be used to finance an eligible target
+            community&apos;s proportionate share of a larger energy project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Grant funds may not be used to refinance or repay the
+            applicant&apos;s outstanding loans or loan guarantees under the
+            Rural Electrification Act of 1936, as amended.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13502'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.113
+      </extid>
+      <num st='1'>
+        1709.113
+      </num>
+      <head>
+        Limitations on grant awards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='113' psec='' tq='N'>
+              1709.113
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Limitations on grant awards.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may establish minimum or maximum amount of funds
+            that may be awarded in a single grant application within in any
+            grant cycle in order to distribute available grant funds as broadly
+            as possible. If the Administrator elects to impose a minimum or
+            maximum grant amount, the limitations will be published in the grant
+            announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The Administrator may restrict eligible applicants to a single
+            award of grant funds or to a monetary cap on grant awards within a
+            grant cycle in order to assure that the available grant funds are
+            distributed as broadly as possible. If the Administrator elects to
+            impose a limit or cap on grant awards, the terms will be established
+            in the grant announcement.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13503'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.114
+      </extid>
+      <num st='1'>
+        1709.114
+      </num>
+      <head>
+        Application process.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='114' psec='' tq='N'>
+              1709.114
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application process.
+        </SUBJECT>
+        <P>
+          The RUS will request applications for high energy cost grants on a
+          competitive basis by publication of a grant announcement as a Notice
+          of Funds Availability (NOFA) or Notice of Funding Opportunity. The
+          grant announcement will establish the amount of funds available, the
+          application package contents and additional requirements, the
+          availability of application materials, high energy cost community
+          eligibility benchmarks, selection criteria and weights, priority
+          considerations, and deadlines and procedures for submitting
+          applications.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13504'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.115
+      </extid>
+      <num st='1'>
+        1709.115
+      </num>
+      <head>
+        Availability of application materials.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='115' psec='' tq='N'>
+              1709.115
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Availability of application materials.
+        </SUBJECT>
+        <P>
+          Application materials, including copies of the grant announcement and
+          all required forms and certifications will be available by request
+          from the Agency and by such other means as the Agency may determine.
+          In addition, the Agency may make available an application guide and
+          other materials that may be of assistance to prospective applicants.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13505'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.116
+      </extid>
+      <num st='1'>
+        1709.116
+      </num>
+      <head>
+        Application package.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='116' psec='' tq='N'>
+              1709.116
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application package.
+        </SUBJECT>
+        <P>
+          The requirements for the application package will be established in
+          the grant announcement. A complete application package will consist of
+          the standard application for federal assistance (SF-424 series), as
+          applicable, a narrative project proposal prepared in accordance with
+          the grant announcement, an RUS environmental profile, and such other
+          supporting documentation, forms, and certifications as required in the
+          grant announcement and this part.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13506'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.117
+      </extid>
+      <num st='1'>
+        1709.117
+      </num>
+      <head>
+        Application requirements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='117' psec='' tq='N'>
+              1709.117
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application requirements.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Required forms.
+            </head>
+          </npcatch>
+          <text>
+             The forms required for application and where to obtain them will be
+            specified in the announcement. All required forms must be completed,
+            signed and submitted by a person authorized to submit the proposal
+            on behalf of the applicant. For applications and forms that are
+            submitted electronically, the application must be authenticated as
+            provided in the grant announcement. In the case of grant
+            applications submitted electronically, the applicant may be required
+            to provide signed originals of required forms prior to and as a
+            condition of the grant award.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Narrative proposal.
+            </head>
+          </npcatch>
+          <text>
+             Each application must include a narrative proposal describing the
+            proposed project and addressing eligibility and selection criteria.
+            The grant announcement will specify the contents, order, and format
+            for the narrative proposal. The proposal must include all the
+            required elements identified in this subsection. The grant
+            announcement may establish additional required elements that 
+            <PRTPAGE P='73' />
+            must be addressed in the narrative project proposal.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Executive summary.
+            </head>
+          </npcatch>
+          <text>
+             A summary of the proposal should briefly describe the project
+            including target community, goals, tasks to be completed and other
+            relevant information that provides a general overview of the
+            project. The applicant must clearly state the amount of grant funds
+            requested and identify any priority ratings for which the applicant
+            believes it is qualified.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Applicant eligibility.
+            </head>
+          </npcatch>
+          <text>
+             The narrative and supporting documentation must describe the
+            applicant and establish its eligibility.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Community eligibility.
+            </head>
+          </npcatch>
+          <text>
+             This section must describe the target area and communities to be
+            served by the project and demonstrate eligibility. The applicant
+            must clearly identify the:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Location and population of the areas to be served by the project;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Population of the local government division to which they belong;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Identity of local energy providers; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_3_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Sources of the high energy cost data and estimates used.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Project eligibility.
+            </head>
+          </npcatch>
+          <text>
+             The narrative must describe the proposed project in sufficient
+            detail to establish that it is an eligible project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Project description.
+            </head>
+          </npcatch>
+          <text>
+             The project description must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Describe the project design, materials, and equipment in sufficient
+            detail to support a finding of technical feasibility;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Identify the major tasks to be performed and a proposed timeline
+            for completion of each task; and
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='b_5_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Identify the location of the project target area and the eligible
+            extremely high energy cost communities to be served.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+            <head>
+              Project management.
+            </head>
+          </npcatch>
+          <text>
+             The applicant must describe how and by whom the project will be
+            managed during construction and operation. The description should
+            address the applicant&apos;s organizational structure, key project
+            personnel and the degree to which full time employees, affiliated
+            entities or contractors will be utilized. The applicant must
+            describe the identities, legal relationship, qualifications and
+            experience of those persons that will perform project management
+            functions. If the applicant proposes to use the equipment or design,
+            construction and other services from non-affiliated entities, the
+            applicant must describe how it plans to contract for such equipment
+            or services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+            <head>
+              Budget.
+            </head>
+          </npcatch>
+          <text>
+             The budget narrative must present a detailed breakdown of all
+            estimated costs and allocate these costs among the listed tasks in
+            the work plan. All project costs, not just grant funds, must be
+            accounted for in the budget. A pro forma operating budget for the
+            first year of operations must also be included. The detailed budget
+            description must be accompanied by SF-424A, “Budget
+            Information—Non-Construction Programs,” or SF-424C “Budget
+            Information—Construction Programs,” as applicable.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_8'>
+            <enum src='gpotxt' cln='1'>
+              (8)
+            </enum>
+            <head>
+              Project goals and objectives.
+            </head>
+          </npcatch>
+          <text>
+             The applicant must identify unambiguous measures for expected cost
+            reduction, efficiencies or other improvements and the degree to
+            which the incremental benefit will be enjoyed by residents of the
+            eligible community. The description should specifically address how
+            the project will provide or improve energy generation, transmission
+            or distribution services in the target area. The project objectives
+            and proposed evaluation measures will be the basis for project
+            performance measures in the grant agreement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_9'>
+            <enum src='gpotxt' cln='1'>
+              (9)
+            </enum>
+            <head>
+              Performance measures.
+            </head>
+          </npcatch>
+          <text>
+             The application must include specific criteria for measuring
+            project performance. These proposed criteria will be used in
+            establishing performance measures incorporated in the grant
+            agreement in the event the proposal receives funding under this
+            subpart. These suggested criteria are not binding on the Agency.
+            Appropriate measures of project performance include expected
+            reductions in home energy costs, avoided cost increases, enhanced
+            reliability, new households served, or economic and social benefits
+            from improvements in energy services.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_10'>
+            <enum src='gpotxt' cln='1'>
+              (10)
+            </enum>
+            <head>
+              Proposal evaluation and selection criteria.
+            </head>
+          </npcatch>
+          <text>
+             The application must address individually and in narrative form
+            each of the proposal evaluation and selection criteria referenced in
+            the grant announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_11'>
+            <enum src='gpotxt' cln='1'>
+              (11)
+            </enum>
+            <head>
+              Rural development initiatives.
+            </head>
+          </npcatch>
+          <text>
+             The proposal should describe whether and 
+            <PRTPAGE P='74' />
+            how the proposed project will support any State rural development
+            initiatives. If the project is in support of a rural development
+            initiative, the application should include confirming documentation
+            from the appropriate rural development agency. The application must
+            identify the extent to which the project is dependent upon or tied
+            to other rural development initiatives, funding and approvals.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_12'>
+            <enum src='gpotxt' cln='1'>
+              (12)
+            </enum>
+            <head>
+              Environmental profile.
+            </head>
+          </npcatch>
+          <text>
+             The application must include information about project
+            characteristics and site specific conditions that may involve
+            environmental, historic preservation and other resource issues. This
+            information must be presented in sufficient detail so as to
+            facilitate the Agency&apos;s identification of projects that may
+            require additional environmental review under 
+            <aref type='CFR'>
+              7 CFR part 
+              <subref title='7' part='1794' tq='N'>
+                1794
+              </subref>
+            </aref>
+             before a grant award can be approved. The format and requirements
+            for the environmental profile will be established in the grant
+            announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_13'>
+            <enum src='gpotxt' cln='1'>
+              (13)
+            </enum>
+            <head>
+              Regulatory and other required project approvals.
+            </head>
+          </npcatch>
+          <text>
+             The applicant must identify all regulatory or other approvals
+            required by other Federal, State, local, tribal or private entities
+            (including conditions precedent to financing) that are necessary to
+            carry out the proposed project and an estimated schedule for
+            obtaining the necessary permits and approvals.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13507'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.118
+      </extid>
+      <num st='1'>
+        1709.118
+      </num>
+      <head>
+        Submission of applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='118' psec='' tq='N'>
+              1709.118
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Submission of applications.
+        </SUBJECT>
+        <P>
+          Unless otherwise provided in the grant announcement, a complete
+          original application package and two copies must be submitted by the
+          application deadline to RUS at the address specified in the applicable
+          announcement. Instructions for submittal of applications
+          electronically will be established in the grant announcement.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13508'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.119
+      </extid>
+      <num st='1'>
+        1709.119
+      </num>
+      <head>
+        Review of applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='119' psec='' tq='N'>
+              1709.119
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Review of applications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             RUS will review each application package received to determine
+            whether the applicant is eligible and whether the application is
+            timely, complete, and responsive to the requirements set forth in
+            the grant announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             RUS may, at its discretion, contact the applicant to clarify or
+            supplement information in the application needed to determine
+            eligibility, identifying information, and grant requests to allow
+            for informed review. Failure of the applicant to provide such
+            information in response to a written request by the Agency within
+            the time frame established by the Agency may result in rejection of
+            the application.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             After consideration of the information submitted, the Assistant
+            Administrator, Electric Program will determine whether an applicant
+            or project is eligible and whether an application is timely,
+            complete, and responsive to the grant announcement and shall notify
+            the applicant in writing. The Assistant Administrator&apos;s
+            decision on eligibility may be appealed to the Administrator.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13509'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.120
+      </extid>
+      <num st='1'>
+        1709.120
+      </num>
+      <head>
+        Evaluation of applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='120' psec='' tq='N'>
+              1709.120
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evaluation of applications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will establish one or more rating panels to review and
+            rate the grant applications. The panels may include persons not
+            employed by the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             All timely and complete applications that meet the eligibility
+            requirements will be referred to the rating panel. The rating panel
+            will evaluate and rate all referred applications according to the
+            evaluation criteria and weights established in the grant
+            announcement. Panel members may make recommendations for conditions
+            on grant awards to promote successful performance of the grant or to
+            assure compliance with other Federal requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             After the rating panel has evaluated and scored all proposals, in
+            accordance with the point allocation specified in the grant
+            announcement, the panel will prepare a list of all applications in
+            rank order, together with funding level recommendations and
+            recommendations for conditions, if any.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             The list of ranked projects and rating panel recommendations will
+            be forwarded to the Administrator for review and selection.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13510'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.121
+      </extid>
+      <num st='1'>
+        1709.121
+      </num>
+      <head>
+        Administrator&apos;s review and selection of grant awards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='121' psec='' tq='N'>
+              1709.121
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administrator&apos;s review and selection of grant awards.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The final decision to make an award is at the discretion of the
+            Administrator. The Administrator shall make any selections of
+            finalists for grant awards after consideration of the 
+            <PRTPAGE P='75' />
+            applications, the rankings, comments, and recommendations of the
+            rating panel, and other pertinent information.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Based on consideration of the application materials, ranking panel
+            ratings, comments, and recommendations, and other pertinent
+            information, the Administrator may elect to award less than the full
+            amount of grant requested by an applicant. Applicants will be
+            notified of an offer of a reduced or partial award. If an applicant
+            does not accept the Administrator&apos;s offer of a reduced or
+            partial award, the Administrator may reject the application and
+            offer an award to the next highest ranking project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The projects selected by the Administrator will be funded in rank
+            order to the extent of available funds.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             In the event an insufficient number of eligible applications are
+            received in response to a published grant announcement and selected
+            for funding to exhaust the funds available, the Administrator
+            reserves the discretion to reopen the application period and to
+            accept additional applications for consideration under the terms of
+            the grant announcement. A notice regarding the reopening of an
+            application period will be published in the 
+            <E T='04'>
+              Federal Register
+            </E>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13511'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.122
+      </extid>
+      <num st='1'>
+        1709.122
+      </num>
+      <head>
+        Consideration of eligible grant applications under later grant
+        announcements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='122' psec='' tq='N'>
+              1709.122
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Consideration of eligible grant applications under later grant
+          announcements.
+        </SUBJECT>
+        <P>
+          At the discretion of the Administrator, the grant announcement may
+          provide that all eligible but unfunded proposals submitted under
+          preceding competitive grant announcements may also be considered for
+          funding. This option is provided to reduce the burden on applicants
+          and the Agency. The grant announcement shall indicate how applicants
+          may request reconsideration of previously submitted, but unfunded,
+          applications and how they may supplement their applications.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13512'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.123
+      </extid>
+      <num st='1'>
+        1709.123
+      </num>
+      <head>
+        Evaluation criteria and weights.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='123' psec='' tq='N'>
+              1709.123
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evaluation criteria and weights.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Establishing evaluation criteria and weights.
+            </head>
+          </npcatch>
+          <text>
+             The grant announcement will establish the evaluation criteria and
+            weights to be used in ranking the grant proposals submitted. Unless
+            supplemented in the grant announcement, the criteria listed in this
+            section will be used to evaluate proposals submitted under this
+            program. Additional criteria may be included in the grant
+            announcement. In establishing evaluation criteria and weights, the
+            total points that may be awarded for project design and technical
+            merit criteria shall not be less than 65 percent of the total
+            available points, and the total points awarded for priority criteria
+            shall not be more than 35 percent of the total available points. The
+            distribution of points to be awarded per criterion will be
+            identified in the grant announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Project design and technical merit.
+            </head>
+          </npcatch>
+          <text>
+             In reviewing the grant proposal&apos;s project design and technical
+            merit, reviewers will consider the soundness of the applicant&apos;s
+            approach, the project&apos;s technical and financial feasibility,
+            the adequacy of financial and other resources, the capabilities and
+            experience of the applicant and its project management team, the
+            project goals, and identified community needs and benefits. Points
+            will be awarded under the following project elements:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Comprehensiveness and feasibility.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers will assess the technical and economic feasibility of the
+            project and how well its goals and objectives address the challenges
+            of the eligible communities. The panel will review the proposed
+            design, construction, equipment and materials for the proposed
+            energy facilities to determine technical feasibility. Reviewers may
+            propose additional conditions on the grant award to assure that the
+            project is technically sound. Budgets will be reviewed for
+            completeness and the strength of non-Federal funding commitments.
+            Points may not be awarded unless sufficient detail is provided to
+            determine whether or not funds are being used for qualified
+            purposes. Reviewers will consider the adequacy of the
+            applicant&apos;s budget and resources to carry out the project as
+            proposed. Reviewers will also evaluate how the applicant proposes to
+            manage available resources such as grant funds, income generated
+            from the facilities and any other financing sources to maintain and
+            operate a financially viable project once the grant period has
+            ended. Reviewers must make a finding of operational sustainability
+            for any points to 
+            <PRTPAGE P='76' />
+            be awarded. Projects for which future grant funding is likely to be
+            required in order to assure ongoing operations will not receive any
+            points.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Demonstrated experience.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers will consider whether the applicant or its project team
+            have demonstrated experience in successfully administering and
+            carrying out projects that are comparable to that proposed in the
+            application. The reviewers may assign a higher point score to
+            proposals that develop the internal capacity to provide or improve
+            energy services in the eligible communities over other proposals
+            that rely extensively on temporary outside contractors.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Community needs.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers will consider the applicant&apos;s assessment of
+            community energy needs to be addressed by the proposed project as
+            well as the severity of physical and economic challenges affecting
+            the target communities. In determining whether one proposal should
+            receive more points than another under this criterion, reviewers
+            will consider the relative burdens placed on the communities and
+            individual households by extremely high energy costs, the hardships
+            created by limited access to reliable and affordable energy services
+            and the availability of other resources to support or supplement the
+            proposed grant funding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Project evaluation and performance measures.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers will consider the applicant&apos;s suggested project
+            evaluation and performance criteria. Reviewers may award higher
+            points to criteria that are quantifiable, directly relevant to
+            project goals, and reflect serious consideration than to more
+            subjective performance criteria that do not incorporate variables
+            that reflect a reduction in energy cost or improvement in service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='b_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Coordination with rural development initiatives.
+            </head>
+          </npcatch>
+          <text>
+             Proposals that include documentation confirming coordination with
+            State rural development initiatives may be credited points for this
+            criterion.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Priority considerations.
+            </head>
+          </npcatch>
+          <text>
+             Subject to the limitation in paragraph (a) of this section,
+            evaluation points may also be awarded for projects that advance
+            identified priority interests identified in the grant announcement
+            to assist the Agency in selecting among competing projects when the
+            amount of funding requests exceed available funds. The grant
+            announcement may incorporate all or some of the priority criteria
+            listed below, and as discussed in paragraph (a) of this section, the
+            grant announcement may supplement these criteria. The announcement
+            will also specify the points that will be awarded to qualifying
+            applications under these priority criteria.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Community economic hardship.
+            </head>
+          </npcatch>
+          <text>
+             Economic hardship points may be awarded where the median household
+            income for the target community is significantly below the State
+            average or where the target community suffers from economic
+            conditions that severely constrain its ability to provide or improve
+            energy facilities serving the community. Applicants must describe in
+            detail and document conditions creating severe community economic
+            hardship in the proposal.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Rurality.
+            </head>
+          </npcatch>
+          <text>
+             Priority consideration may be given to proposals that serve smaller
+            rural communities. Applications will be scored based on the
+            population of the largest incorporated cities, towns or villages or
+            census designated places included within the grant&apos;s proposed
+            target area as determined using the latest available population
+            figures from the U.S. Census Bureau.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Unserved energy needs.
+            </head>
+          </npcatch>
+          <text>
+             Points may be awarded to projects that extend or improve electric
+            or other energy services to eligible communities or areas of
+            eligible communities that do not have reliable centralized or
+            commercial service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Imminent hazard.
+            </head>
+          </npcatch>
+          <text>
+             Additional points may be awarded for projects that correct a
+            condition posing an imminent hazard to public safety, public
+            welfare, the environment, or to a critical community or residential
+            energy facility in immediate danger of failure because of a
+            deteriorated condition, capacity limitation, or damage from a
+            natural disaster or accident.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Cost sharing.
+            </head>
+          </npcatch>
+          <text>
+             Projects that evidence significant commitments of funds,
+            contributed property, equipment, or other in kind support for the
+            project may be awarded additional 
+            <PRTPAGE P='77' />
+            points for this criterion where the aggregate value of these
+            contributions exceed ten percent of total eligible project costs.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13513'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.124
+      </extid>
+      <num st='1'>
+        1709.124
+      </num>
+      <head>
+        Grant award procedures.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='124' psec='' tq='N'>
+              1709.124
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grant award procedures.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Notification of applicants.
+            </head>
+          </npcatch>
+          <text>
+             The Agency will notify all applicants in writing whether they have
+            been selected for a grant award. Applicants that have been selected
+            as finalists for a competitive grant award will be notified in
+            writing of their selection and advised that the Agency may request
+            additional information in order to complete the required
+            environmental review under 
+            <aref type='CFR'>
+              7 CFR 1794
+            </aref>
+             and to meet other pre-award conditions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Letter of conditions.
+            </head>
+          </npcatch>
+          <text>
+             The Agency will notify each applicant selected as a finalist in
+            writing setting out the amount of grant funds and the terms and
+            conditions under which the grant will be made and requesting that
+            the applicant indicate in writing its intent to accept these
+            conditions.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Applicant&apos;s intent to meet conditions.
+            </head>
+          </npcatch>
+          <text>
+             Upon reviewing the conditions and requirements in the letter of
+            conditions, the selected applicant must notify the agency in writing
+            within the time period indicated, of its acceptance of the
+            conditions, or if the proposed certain conditions cannot be met, the
+            applicant must so advise the Agency and may propose alternate
+            conditions. The Agency must concur with any changes proposed to the
+            letter of conditions by the applicant before the application will be
+            further processed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Grant agreement.
+            </head>
+          </npcatch>
+          <text>
+             The Agency and the grantee must sign a grant agreement acceptable
+            to the Agency prior to the advance of funds.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13514'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:B:1709.125-1709.200
+      </extid>
+      <num st='2'>
+        1709.125-1709.200
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1709' sect='125-1709' psec='' tq='N'>
+              1709.125-1709
+            </subref>
+          </aref>
+          .200
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13515'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.201
+      </extid>
+      <num st='1'>
+        1709.201
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='201' psec='' tq='N'>
+              1709.201
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This subpart establishes policies and procedures for the Rural
+          Utilities Service (RUS) State Bulk Fuel Revolving Fund Grants. The
+          purpose of this grant program is to assist State entities in
+          establishing and supporting a revolving fund to provide a more
+          cost-effective means of purchasing fuel for communities where the fuel
+          cannot be shipped by means of surface transportation.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13516'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.202
+      </extid>
+      <num st='1'>
+        1709.202
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='202' psec='' tq='N'>
+              1709.202
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13517'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.203
+      </extid>
+      <num st='1'>
+        1709.203
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='203' psec='' tq='N'>
+              1709.203
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          As used in this subpart, the following definitions apply:
+        </P>
+        <P>
+          <E T='03'>
+            Eligible area
+          </E>
+           means any area that is primarily dependent on delivery of fuel by
+          water or air for a significant part of the year and where fuel cannot
+          be shipped routinely by means of surface transportation either because
+          of absolute physical constraints or because surface transportation is
+          not practical or is prohibitively expensive.
+        </P>
+        <P>
+          <E T='03'>
+            Fuel means
+          </E>
+           oil, diesel fuel, gasoline and other petroleum products, coal, and
+          any other material that can be burned to make energy.
+        </P>
+        <P>
+          <E T='03'>
+            State entity
+          </E>
+           means a department, agency, or instrumentality of any State.
+        </P>
+        <P>
+          <E T='03'>
+            Surface transportation
+          </E>
+           means transportation by road, rail or pipeline.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13518'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.204-1709.206
+      </extid>
+      <num st='2'>
+        1709.204-1709.206
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1709' sect='204-1709' psec='' tq='N'>
+              1709.204-1709
+            </subref>
+          </aref>
+          .206
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13519'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.207
+      </extid>
+      <num st='1'>
+        1709.207
+      </num>
+      <head>
+        Eligible applicants.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='207' psec='' tq='N'>
+              1709.207
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Eligible applicants.
+        </SUBJECT>
+        <P>
+          Eligible applicants are restricted to State entities in existence as
+          of November 9, 2000. Eligible State entities may partner with other
+          entities, including other government agencies, in carrying out the
+          programs funded by this program. Each applicant must demonstrate that
+          it has the authority to enter into a binding agreement with the
+          Federal Government to carry out the grant activities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13520'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.208
+      </extid>
+      <num st='1'>
+        1709.208
+      </num>
+      <head>
+        Use of grant funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='208' psec='' tq='N'>
+              1709.208
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Use of grant funds.
+        </SUBJECT>
+        <P>
+          Grant funds must be used to establish and support a revolving loan
+          fund that facilitates cost effective fuel purchases for persons,
+          communities, and businesses in eligible areas. Where a recipient State
+          entity&apos;s existing program is authorized to fund multiple
+          purposes, grant funds may only be used to the extent the recipient
+          fund finances eligible activities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13521'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.209
+      </extid>
+      <num st='1'>
+        1709.209
+      </num>
+      <head>
+        Limitations on use of grant funds.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='209' psec='' tq='N'>
+              1709.209
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Limitations on use of grant funds.
+        </SUBJECT>
+        <P>
+          Not more than 4 percent of the grant award may be used for the
+          planning 
+          <PRTPAGE P='78' />
+          and administrative expenses of the grantee.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13522'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.210
+      </extid>
+      <num st='1'>
+        1709.210
+      </num>
+      <head>
+        Application process.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='210' psec='' tq='N'>
+              1709.210
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application process.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Applications.
+            </head>
+          </npcatch>
+          <text>
+             The Agency will solicit applications on a competitive basis by
+            publication of a grant announcement establishing the amount of funds
+            available, the maximum grant award, the required application
+            materials and where to obtain them, the evaluation and selection
+            criteria and weights, and application deadlines. Unless otherwise
+            specified in the announcement, applicants must file an original
+            application package and two copies. Where provided in the grant
+            announcement, applicants may submit electronic applications.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Required forms.
+            </head>
+          </npcatch>
+          <text>
+             The grant application will use the Standard Application for Federal
+            Assistance (SF-424 series or its successor) and other forms as
+            provided in the grant announcement. The required forms must be
+            completed, signed and submitted by a person authorized to submit the
+            proposal on behalf of the applicants. Where provided in the grant
+            announcement, applicants may file electronic versions of the forms
+            in compliance with the instructions in the grant announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Narrative proposal and required elements.
+            </head>
+          </npcatch>
+          <text>
+             Each grant application must include a narrative proposal describing
+            the project and addressing the following elements. The form,
+            contents, and order of the narrative proposal will be specified in
+            the grant announcement. Additional elements may be published in the
+            applicable grant announcement.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+            <head>
+              Executive summary.
+            </head>
+          </npcatch>
+          <text>
+             This summary of the proposal must identify the State entity
+            applying for the grant and the key agency contact information
+            (telephone and fax numbers, mailing address and e-mail address). The
+            applicant must clearly state the amount requested in this section.
+            It should briefly describe the program, including the estimated
+            number of potential beneficiaries in eligible areas, their estimated
+            fuel needs, the projects and activities to be financed through the
+            revolving fund and how the projects and activities will improve the
+            cost effectiveness of fuel procured.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+            <head>
+              Applicant eligibility.
+            </head>
+          </npcatch>
+          <text>
+             The application must establish that the applicant is a State entity
+            that was in existence as of November 9, 2000, and has the legal
+            authority to enter into a financial assistance relationship with the
+            Federal Government to carry out the grant activities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+            <head>
+              Assessment of needs and potential beneficiaries.
+            </head>
+          </npcatch>
+          <text>
+             The application must provide estimates of the number, location and
+            population of potentially eligible areas in the State and their
+            estimated fuel needs and costs. The section must also describe the
+            criteria used to identify eligible areas, including the
+            characteristics that make fuel deliveries by surface transport
+            impossible or impracticable. The description of beneficiary
+            communities should provide a detailed breakdown of the density
+            profile of the area to be served by eligible projects. Indicate to
+            what extent persons in eligible areas live outside of communities of
+            2,500 persons or more, communities of 5,000 or more or outside of
+            communities of 20,000 or more. All population estimates should be
+            based on Census Bureau data where available. All representations
+            should be supported with exhibits such as maps, summary tables and
+            references to official information sources.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_4'>
+            <enum src='gpotxt' cln='1'>
+              (4)
+            </enum>
+            <head>
+              Project description.
+            </head>
+          </npcatch>
+          <text>
+             The application must:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_4_i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             Describe the legal structure and staffing of the revolving fund
+            proposal for fuel purchase support.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_4_ii'>
+            <enum src='gpotxt' cln='1'>
+              (ii)
+            </enum>
+          </npcatch>
+          <text>
+             Identify the objectives of the project, the proposed criteria for
+            establishing project funding eligibility and how the project is to
+            be staffed, managed and financed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_4_iii'>
+            <enum src='gpotxt' cln='1'>
+              (iii)
+            </enum>
+          </npcatch>
+          <text>
+             Describe how the potential beneficiaries will be informed of the
+            availability of revolving fund benefits to them.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_4_iv'>
+            <enum src='gpotxt' cln='1'>
+              (iv)
+            </enum>
+          </npcatch>
+          <text>
+             Explain how the proposed revolving fund program will help provide a
+            more cost-effective means of meeting fuel supply needs in eligible
+            areas, encourage the adoption of financially sustainable energy
+            practices, the adequate planning and investment in bulk fuel
+            facility operations and maintenance and cost-effective investments
+            in energy efficiency.
+            <PRTPAGE P='79' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='3' id='c_4_v'>
+            <enum src='gpotxt' cln='1'>
+              (v)
+            </enum>
+          </npcatch>
+          <text>
+             If the revolving fund program is not yet operational, a proposed
+            implementation schedule and milestones should be provided.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_5'>
+            <enum src='gpotxt' cln='1'>
+              (5)
+            </enum>
+            <head>
+              Demonstrated experience.
+            </head>
+          </npcatch>
+          <text>
+             The application shall describe past accomplishments and experiences
+            that are relevant to determine whether the applicant is capable of
+            administering the grant project.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_6'>
+            <enum src='gpotxt' cln='1'>
+              (6)
+            </enum>
+            <head>
+              Budget.
+            </head>
+          </npcatch>
+          <text>
+             The application must include a pro forma operating budget for the
+            proposed fund and a description of all funding sources. The level of
+            detail must be sufficient for reviewers to determine that grant
+            funds will be used only for eligible purposes and to determine the
+            extent to which the program is entirely dependent on grant funding
+            or whether it has financial support from the State or other sources.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='c_7'>
+            <enum src='gpotxt' cln='1'>
+              (7)
+            </enum>
+            <head>
+              Performance measures and project evaluation.
+            </head>
+          </npcatch>
+          <text>
+             The application must provide unambiguous and quantifiable measures
+            that will be used to evaluate the success and cost-effectiveness of
+            the revolving fund in assuring adequate fuel supplies for eligible
+            communities and for assessing the fuel supply projects financed. The
+            grant announcement may establish additional required elements that
+            must be addressed in the narrative proposal of the application
+            package.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13523'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.211
+      </extid>
+      <num st='1'>
+        1709.211
+      </num>
+      <head>
+        Submission of applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='211' psec='' tq='N'>
+              1709.211
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Submission of applications.
+        </SUBJECT>
+        <P>
+          Completed applications must be submitted to RUS at the address
+          specified in the grant announcement on or before the deadline
+          specified in the grant announcement. Instructions for submittal of
+          applications electronically will be established in the grant
+          announcement. Late applications will be rejected.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13524'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.212
+      </extid>
+      <num st='1'>
+        1709.212
+      </num>
+      <head>
+        Application review.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='212' psec='' tq='N'>
+              1709.212
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Application review.
+        </SUBJECT>
+        <P>
+          The Agency will review all applications to determine whether the
+          applicant is eligible and whether the application is timely, complete
+          and sufficiently responsive to the requirements set forth in the grant
+          announcement to allow for an informed review. Failure to address any
+          of the required evaluation criteria or to submit all required forms
+          will disqualify the proposal. The Agency reserves the right to contact
+          the applicant to clarify information contained in the proposal to
+          resolve issues related to eligibility and the grant request.
+          Applications that are timely, complete, and responsive will be
+          forwarded for further evaluation. Applications that are late,
+          incomplete, or non-responsive will be rejected.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13525'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.213
+      </extid>
+      <num st='1'>
+        1709.213
+      </num>
+      <head>
+        Evaluation of applications.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='213' psec='' tq='N'>
+              1709.213
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evaluation of applications.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Agency will establish one or more rating panels to review and
+            rate the grant applications. The panels may include persons not
+            employed by the Agency.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The rating panel will evaluate and rate all complete applications
+            that meet the eligibility requirements according to the evaluation
+            and selection criteria and weights established in the grant
+            announcement. Panel members may make recommendations for conditions
+            on grant awards to promote successful performance of the grant or to
+            assure compliance with other Federal requirements.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             After all proposals have been evaluated and scored, the proposals,
+            the rankings, recommendations, and comments of the rating panel will
+            be forwarded to the Administrator.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13526'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.214
+      </extid>
+      <num st='1'>
+        1709.214
+      </num>
+      <head>
+        Administrator&apos;s review and selection of grant awards.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='214' psec='' tq='N'>
+              1709.214
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Administrator&apos;s review and selection of grant awards.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The final decision to make a grant award is at the discretion of
+            the Administrator. The Administrator shall consider the
+            applications, the ranking, comments, and recommendations of the
+            rating panel, and any other pertinent information before making a
+            decision about which, if any, applications to approve, the amount of
+            funds awarded, and the order of approval. The Administrator reserves
+            the right not to make any awards from the applications submitted.
+            When the Administrator decides not to make any awards, the
+            Administrator shall document in writing the reason for the decision.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Decisions on grant awards will be made by the Administrator after
+            consideration of the applications, the rankings and recommendations
+            of the rating panel. The Administrator may elect to award less than
+            the full amount of grant requested by an applicant.
+            <PRTPAGE P='80' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The applications selected by the Administrator will be funded in
+            rank order to the extent of available funds.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13527'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.215
+      </extid>
+      <num st='1'>
+        1709.215
+      </num>
+      <head>
+        Consideration of unfunded applications under later grant announcements.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='215' psec='' tq='N'>
+              1709.215
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Consideration of unfunded applications under later grant
+          announcements.
+        </SUBJECT>
+        <P>
+          The grant announcement may provide that all eligible but unfunded
+          proposals submitted under preceding announcements may also be
+          considered for funding. The announcement shall describe whether and
+          how prior applicants may request reconsideration and supplement their
+          application material.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13528'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.216
+      </extid>
+      <num st='1'>
+        1709.216
+      </num>
+      <head>
+        Evaluation criteria and weights.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='216' psec='' tq='N'>
+              1709.216
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Evaluation criteria and weights.
+        </SUBJECT>
+        <P>
+          Unless supplemented in the grant announcement, the criteria listed in
+          this section will be used to evaluate proposals submitted under this
+          program. The total points available and the distribution of points to
+          be awarded per criterion will be identified in the grant announcement.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Program Design.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers will consider the financial viability of the
+            applicant&apos;s revolving fund program design, the proposed
+            criteria for establishing eligible projects and borrowers, and how
+            the program will improve the cost effectiveness of bulk fuel
+            purchases in eligible areas. Programs demonstrating a strong design
+            and the ability to improve cost effectiveness will receive more
+            points than applications that are less detailed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Assessment of needs.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers will award more points to programs that serve or give
+            priority to assisting more costly areas than those that serve
+            populations that suffer from less severe physical and economic
+            challenges.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Program evaluation and performance measures.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers may award more points to performance measures that are
+            relevant to the project objective and quantifiable than to
+            performance measures that are more subjective and do not incorporate
+            variables that reflect a reduction in fuel cost or improvement in
+            service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Demonstrated experience.
+            </head>
+          </npcatch>
+          <text>
+             Applicants may be awarded points for relevant experience in
+            administering revolving fund or other comparable programs.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Rurality.
+            </head>
+          </npcatch>
+          <text>
+             Reviewers may award more points to proposals that give priority in
+            access to funds to communities with low population density or that
+            are located in remote eligible areas than to proposals that serve
+            eligible, but less remote and higher population density communities.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              Cost sharing.
+            </head>
+          </npcatch>
+          <text>
+             Although cost-sharing is not required under this program, projects
+            that evidence significant funding or contributed property, equipment
+            or other in kind support for the project may be awarded points for
+            this criterion where the aggregate value of these contributions
+            exceed 25 percent of the annual funding operations.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Additional priority considerations.
+            </head>
+          </npcatch>
+          <text>
+             The grant announcement may provide for additional points to be
+            awarded to projects that advance identified Agency priority
+            interests under this program.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13529'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.217
+      </extid>
+      <num st='1'>
+        1709.217
+      </num>
+      <head>
+        Grant award.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='217' psec='' tq='N'>
+              1709.217
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Grant award.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Notification of applicants.
+            </head>
+          </npcatch>
+          <text>
+             The Agency will notify all applicants in writing whether or not
+            they have been selected for a grant award.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Letter of conditions.
+            </head>
+          </npcatch>
+          <text>
+             The Agency will notify a selected applicant in writing, setting out
+            the amount of grant approved and the conditions under which the
+            grant will be made.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Applicant&apos;s intent to meet conditions.
+            </head>
+          </npcatch>
+          <text>
+             Upon reviewing the conditions and requirements in the letter of
+            conditions, the selected applicant must complete, sign and return
+            the Agency&apos;s “Letter of Intent to Meet Conditions,” or, if
+            certain conditions cannot be met, the applicant may propose
+            alternate conditions to the Agency. The Agency must concur with any
+            changes proposed to the letter of conditions by the applicant before
+            the application will be further processed.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Grant agreement.
+            </head>
+          </npcatch>
+          <text>
+             The Agency and the grantee must execute a grant agreement
+            acceptable to the Agency prior to the advance of funds.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='13530'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:C:1709.218-1709.300
+      </extid>
+      <num st='2'>
+        1709.218-1709.300
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1709' sect='218-1709' psec='' tq='N'>
+              1709.218-1709
+            </subref>
+          </aref>
+          .300
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='13531'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:G:1709.601
+      </extid>
+      <num st='1'>
+        1709.601
+      </num>
+      <head>
+        Policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='1709' sect='601' psec='' tq='N'>
+              1709.601
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy.
+        </SUBJECT>
+        <P>
+          This subpart prescribes the policies of the Rural Utilities Service
+          (RUS) when it is subsequently determined that the recipient of an
+          Assistance to High Energy Cost Rural Communities program loan or grant
+          was not eligible for all or part of the financial assistance received
+          or that the assistance received was used for unauthorized purposes. It
+          is the policy of the Agency that when assistance under this part has
+          been received by an ineligible recipient or used for unauthorized
+          purposes the Agency shall initiate appropriate actions to recover from
+          the recipient the sum that is determined to be ineligible or used for
+          unauthorized purposes, regardless of amount, unless any applicable
+          statute of limitation has expired. The Agency shall make full use of
+          available authority and procedures, including but not limited to those
+          available under 
+          <aref type='CFR'>
+            7 CFR part 
+            <subref title='7' part='3015' tq='N'>
+              3015
+            </subref>
+          </aref>
+          , subpart N.
+        </P>
+      </contents>
+    </section>
+    <section orderid='13532'>
+      <extid>
+        lii:cfr:2013:7:0:B:XVII:-:1709:G:1709.602-1709.999
+      </extid>
+      <num st='2'>
+        1709.602-1709.999
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='1709' sect='602-1709' psec='' tq='N'>
+              1709.602-1709
+            </subref>
+          </aref>
+          .999
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

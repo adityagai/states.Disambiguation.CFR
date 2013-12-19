@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol3'>
+    <extid>
+      lii:cfr:2013:7:0:B:I:E:94
+    </extid>
+    <num>
+      94
+    </num>
+    <head>
+      POULTRY AND EGG PRODUCTS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='UNKNOWN'>
+            Secs. 2-28 of
+          </aref>
+           the Egg Products Inspection Act (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=91_statutes2_at_large&amp;position=all&amp;page=1620'>
+            84 Stat. 1620
+          </aref>
+          -1635; 
+          <aref type='USC'>
+            <subref title='21' sect='1031-105' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/21/1031-105.html'>
+              21 U.S.C. 1031-105
+            </subref>
+          </aref>
+          6), Agricultural Marketing Act of 1946, 
+          <aref type='CFR-TIC-SECT'>
+            Secs. 202-208
+          </aref>
+           as amended (
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=79_statutes2_at_large&amp;position=all&amp;page=1087'>
+            60 Stat. 1087
+          </aref>
+          -1091; 
+          <aref type='USC'>
+            <subref title='7' sect='1621-162' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/1621-162.html'>
+              7 U.S.C. 1621-162
+            </subref>
+          </aref>
+          7).
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            58 FR 42428
+          </aref>
+          , Aug. 9, 1993, unless otherwise noted.
+        </P>
+      </SOURCE>
+      <EDNOTE>
+        <HD SOURCE='HED'>
+          Editorial Note:
+        </HD>
+        <P>
+          Nomenclature changes to 
+          <aref type='CFR-TIC-PART'>
+            part 
+            <subref title='7' part='94' tq='N'>
+              94
+            </subref>
+          </aref>
+           appear at 
+          <aref type='FREGIST'>
+            61 FR 51352
+          </aref>
+          , Oct. 2 1996.
+        </P>
+      </EDNOTE>
+    </text>
+    <section orderid='4063'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:A:94.1
+      </extid>
+      <num st='1'>
+        94.1
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='1' psec='' tq='N'>
+              94.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Microbiological, chemical, and physical analysis of liquid, frozen,
+          and dried egg products is performed under authority of the Egg
+          Products Inspection Act (
+          <aref type='USC'>
+            <subref title='21' sect='1031-105' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/21/1031-105.html'>
+              21 U.S.C. 1031-105
+            </subref>
+          </aref>
+          6).
+        </P>
+      </contents>
+    </section>
+    <section orderid='4064'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:A:94.2
+      </extid>
+      <num st='1'>
+        94.2
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42428
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          65 FR 64318
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='2' psec='' tq='N'>
+              94.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Words used in the regulations in this subpart in the singular form
+          will import the plural, and vice versa, as the case may demand. As
+          used throughout the regulations in this subpart, unless the context
+          requires otherwise, the following terms will be construed to mean:
+        </P>
+        <P>
+          <E T='03'>
+            Egg.
+          </E>
+           The shell egg of the domesticated chicken, turkey, duck, goose, or
+          guinea. Some of the terms applicable to shell eggs are defined by the
+          AMS Poultry Programs in 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='57' sect='5' psec='' tq='N'>
+              57.5
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Egg product.
+          </E>
+           Any dried, frozen, or liquid eggs, with or without added ingredients.
+          However, products which contain eggs only in a relatively small
+          proportion or historically have not been, in the judgment of the
+          Secretary, considered by consumers as products of the egg food
+          industry may be exempted by the Secretary under such conditions as may
+          be prescribed to assure that the egg ingredients are not adulterated
+          and such products are not represented as egg products. Some of the
+          products exempted as not being egg products are specified by the AMS
+          Poultry Programs in 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='57' sect='5' psec='' tq='N'>
+              57.5
+            </subref>
+          </aref>
+          .
+        </P>
+        <P>
+          <E T='03'>
+            Mandatory sample.
+          </E>
+           An official sample of egg product(s) taken for testing under
+          authority of the Egg Products Inspection Act (
+          <aref type='USC'>
+            <subref title='21' sect='1031-105' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/21/1031-105.html'>
+              21 U.S.C. 1031-105
+            </subref>
+          </aref>
+          6) for analysis by a United States Department of Agriculture,
+          Agricultural Marketing Service, Science and Technology laboratory at
+          government expense. A mandatory sample shall include an egg product
+          sample to be analyzed for microbiological, chemical, or physical
+          attributes. A mandatory egg product sample analyzed for the presence
+          of 
+          <E T='03'>
+            Salmonella
+          </E>
+           is also referred to as a confirmation sample as specified by the Food
+          Safety and Inspection Service agency of USDA in 
+          <aref type='CFR'>
+            9 CFR 
+            <subref title='9' part='590' sect='580' psec='' tq='N'>
+              590.580
+            </subref>
+          </aref>
+          , paragraph (d).
+        </P>
+        <P>
+          <E T='03'>
+            Official plant.
+          </E>
+           Any plant, as determined by the Secretary, at which the U.S.
+          Department of Agriculture maintains inspection of the processing of
+          egg products under the authority of the Egg Products Inspection Act.
+        </P>
+        <P>
+          <E T='03'>
+            Pasteurize.
+          </E>
+           The subjecting of each particle of egg products to heat or other
+          treatments to destroy harmful viable microorganisms by such processes
+          as may be prescribed by the regulations in the EPIA.
+        </P>
+        <P>
+          <E T='03'>
+            Pesticide chemical, food additive, color additive, and raw
+            agricultural commodity.
+          </E>
+           These terms shall have the same meaning for purposes of this subpart
+          as under 
+          <aref type='UNKNOWN'>
+            sections 408, 409, and 706 of
+          </aref>
+           the Federal Food, Drug, and Cosmetic Act.
+        </P>
+        <P>
+          <E T='03'>
+            Plant.
+          </E>
+           Any place of business where egg products are processed.
+        </P>
+        <P>
+          <E T='03'>
+            Processing.
+          </E>
+           Manufacturing of egg products, including breaking eggs or filtering,
+          mixing, blending, pasteurizing, stabilizing, cooling, freezing,
+          drying, or packaging egg products at official plants.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42428
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            65 FR 64318
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4065'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:A:94.3
+      </extid>
+      <num st='1'>
+        94.3
+      </num>
+      <head>
+        Analyses performed and locations of laboratories.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          58 FR 42428
+        </aref>
+        , Aug. 9, 1993, as amended at 
+        <aref type='FREGIST'>
+          59 FR 24325
+        </aref>
+        , May 10, 1994; 
+        <aref type='FREGIST'>
+          59 FR 50121
+        </aref>
+        , Sept. 30, 1994; 
+        <aref type='FREGIST'>
+          65 FR 64318
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='3' psec='' tq='N'>
+              94.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Analyses performed and locations of laboratories.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Samples drawn by a USDA egg products inspector will be analyzed by
+            AMS Science and Technology (S&amp;T) personnel for microbiological,
+            chemical, and physical attributes. The analytical results of these
+            samples will be reported to the resident egg products 
+            <PRTPAGE P='257' />
+            inspector at the applicable plant on the official certificate.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Mandatory egg product samples for 
+            <E T='03'>
+              Salmonella
+            </E>
+             are required and are analyzed in S&amp;T laboratories to spot check
+            and confirm the adequacy of USDA approved and recognized
+            laboratories for analyzing routine egg product samples for 
+            <E T='03'>
+              Salmonella.
+            </E>
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Mandatory egg product samples for chlorinated hydrocarbons are
+            required and are submitted by the plant inspectors on a random
+            basis. These samples screen for pesticide residues and industrial
+            chemical contaminants in egg products.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Samples are drawn by a USDA egg products inspector to determine
+            potential adulteration. These egg product samples may be analyzed
+            for extraneous material, color, color additive, pesticide, heavy
+            metal, microorganism, dextrin, or other substance.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The AMS Science and Technology&apos;s Eastern Laboratory shall
+            conduct the majority of laboratory analyses for egg products. The
+            analyses for mandatory egg product samples are performed at the
+            following USDA location: USDA, AMS, Science &amp; Technology,
+            Eastern Laboratory (Microbiology), 2311-B Aberdeen Boulevard,
+            Gastonia, NC 28054-0614.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            58 FR 42428
+          </aref>
+          , Aug. 9, 1993, as amended at 
+          <aref type='FREGIST'>
+            59 FR 24325
+          </aref>
+          , May 10, 1994; 
+          <aref type='FREGIST'>
+            59 FR 50121
+          </aref>
+          , Sept. 30, 1994; 
+          <aref type='FREGIST'>
+            65 FR 64318
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4066'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:A:94.4
+      </extid>
+      <num st='1'>
+        94.4
+      </num>
+      <head>
+        Analytical methods.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          65 FR 64318
+        </aref>
+        , Oct. 26, 2000]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='4' psec='' tq='N'>
+              94.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Analytical methods.
+        </SUBJECT>
+        <P>
+          The majority of analytical methods used by the USDA laboratories to
+          perform mandatory analyses for egg products are listed as follows:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             Compendium Methods for the Microbiological Examination of Foods,
+            Carl Vanderzant and Don Splittstoesser (Editors), American Public
+            Health Association, 1015 Fifteenth Street, NW, Washington, DC 20005.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Edwards, P.R. and W.H. Ewing, Edwards and Ewing&apos;s
+            Identification of Enterobacteriaceae, Elsevier Science, Inc.,
+            Regional Sales Office, 655 Avenue of the Americas, P.O. Box 945, New
+            York, NY 10159-0945.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             FDA Bacteriological Analytical Manual (BAM), AOAC INTERNATIONAL,
+            481 North Frederick Avenue, Suite 500, Gaithersburg, MD 20877-2417.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Manual of Analytical Methods for the Analysis of Pesticide Residues
+            in Human and Environmental Samples, EPA 600/9-80-038, U.S.
+            Environmental Protection Agency (EPA) Chemical Exposure Research
+            Branch, EPA Office of Research and Development (ORD), 26 West Martin
+            Luther King Drive, Cincinnati, Ohio 45268.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             Official Methods of Analysis of AOAC INTERNATIONAL, Volumes I &amp;
+            II, AOAC INTERNATIONAL, 481 North Frederick Avenue, Suite 500,
+            Gaithersburg, MD 20877-2417.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Standard Methods for the Examination of Dairy Products, American
+            Public Health Association, 1015 Fifteenth Street, NW, Washington, DC
+            20005.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             Standard Methods for the Examination of Water and Wastewater,
+            American Public Health Association (APHA), the American Water Works
+            Association (AWWA) and the Water Pollution Control Federation, AWWA
+            Bookstore, 6666 West Quincy Avenue, Denver, CO 80235.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Test Methods for Evaluating Solid Waste Physical/Chemical Methods,
+            Environmental Protection Agency, Office of Solid Waste, SW-846
+            Integrated Manual (available from National Technical Information
+            Service (NTIS), U.S. Department of Commerce, 5285 Port Royal Road,
+            Springfield, VA 22161).
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             U.S. Food and Drug Administration, Pesticide Analytical Manuals
+            (PAM), Volumes I and II, Food and Drug Administration, Center for
+            Food Safety and Applied Nutrition (CFSAN), 200 C Street, SW,
+            Washington, DC 20204 (available from National Technical Information
+            Service (NTIS), U.S. Department of Commerce, 5285 Port Royal Road,
+            Springfield, VA 22161).
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            65 FR 64318
+          </aref>
+          , Oct. 26, 2000]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4067'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:A:94.5
+      </extid>
+      <num st='1'>
+        94.5
+      </num>
+      <head>
+        Charges for laboratory service.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='5' psec='' tq='N'>
+              94.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Charges for laboratory service.
+        </SUBJECT>
+        <P>
+          The costs for analysis of mandatory egg product samples at Science and
+          Technology Division laboratories shall be paid by annually
+          appropriated and designated funds allocated to the egg products
+          inspection program. The costs for any other mandatory laboratory
+          analyses and testing of an egg product&apos;s identity and condition,
+          necessitated by the Egg Products Inspection 
+          <PRTPAGE P='258' />
+          Act, shall also be paid by such program funding.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4068'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:B:94.100
+      </extid>
+      <num st='1'>
+        94.100
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='100' psec='' tq='N'>
+              94.100
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Analyses for voluntary egg product samples may be requested to certify
+          that specifications regarding stated identity, quality, and
+          wholesomeness are met; to test routinely for the presence of 
+          <E T='03'>
+            Salmonella;
+          </E>
+           and to ensure laboratory quality control with testing activities.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4069'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:B:94.101
+      </extid>
+      <num st='1'>
+        94.101
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='101' psec='' tq='N'>
+              94.101
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Words used in the regulations in this subpart in the singular form
+          will import the plural, and vice versa, as the case may demand. As
+          used throughout the regulations in this part, unless the context
+          requires otherwise, the following terms will be construed to mean:
+        </P>
+        <P>
+          <E T='03'>
+            Certification sample.
+          </E>
+           An egg product sample submitted by an applicant for chemical,
+          physical, or microbiological analyses and tests at a Science and
+          Technology Division laboratory. This voluntary sample is analyzed or
+          tested by the Division&apos;s analyst or scientist to certify that an
+          egg product lot meets applicable specifications for identity, quality,
+          and wholesomeness.
+        </P>
+        <P>
+          <E T='03'>
+            Surveillance sample.
+          </E>
+           This is a 100 gram sample for 
+          <E T='03'>
+            Salmonella
+          </E>
+           analysis that is drawn by the USDA egg product inspector from each
+          lot of egg product processed at an official plant. This sample may be
+          analyzed by a Science and Technology Division laboratory, or by a
+          laboratory approved and recognized by the Division to analyze for 
+          <E T='03'>
+            Salmonella
+          </E>
+           in egg products.
+        </P>
+        <P>
+          <E T='03'>
+            Unofficial sample.
+          </E>
+           These samples of egg products are drawn by plant personnel upon the
+          request of plant management. Analyses of these samples are usually
+          conducted for the plant&apos;s refractometer correlation,
+          bacteriological evaluation of production techniques, or quality
+          control of procedures. Official plant or Science and Technology
+          Division laboratories can analyze these samples.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4070'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:B:94.102
+      </extid>
+      <num st='1'>
+        94.102
+      </num>
+      <head>
+        Analyses available.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='102' psec='' tq='N'>
+              94.102
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Analyses available.
+        </SUBJECT>
+        <P>
+          A wide array of analyses for voluntary egg product samples is
+          available. Voluntary egg product samples include surveillance,
+          certification, and unofficial samples. The physical and chemical tests
+          for voluntary egg products include analyses for total ash, fat by acid
+          hydrolysis, moisture, salt, protein, beta-carotene, catalase,
+          cholesterol, NEPA color, density, total solids, aflatoxin, daminozide
+          and amitraz residues, BHA, BHT, alcohol, chlorinated hydrocarbon and
+          fumigant residues, dextrin, heavy and light filth, glucose, glycerol
+          and gums. In addition, egg products can be analyzed for high sucrose
+          content, pH, heavy metals and minerals, monosodium dihydrogen
+          phosphate, monosodium glutamate, nitrites, oxygen, palatability and
+          odor, phosphorus, propylene glycol, SLS, and zeolex. There are also be
+          tests for starch, total sugars, sugar profile, whey, standard plate
+          count, direct microscopic count, 
+          <E T='03'>
+            Campylobacter,
+          </E>
+           coliforms, presumptive 
+          <E T='03'>
+            Escherichia
+          </E>
+           coli, 
+          <E T='03'>
+            Listeria
+          </E>
+           monocytogenes, proteolytic count, psychrotrophic bacteria, 
+          <E T='03'>
+            Salmonella, Staphylococcus,
+          </E>
+           thermoduric bacteria, and yeast with mold count.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4071'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:B:94.103
+      </extid>
+      <num st='1'>
+        94.103
+      </num>
+      <head>
+        Analytical methods.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='103' psec='' tq='N'>
+              94.103
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Analytical methods.
+        </SUBJECT>
+        <P>
+          The analytical methods used by the Science and Technology Division
+          laboratories to perform voluntary analyses for egg products shall be
+          the same as listed in 
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='4' psec='' tq='N'>
+              94.4
+            </subref>
+          </aref>
+          .
+        </P>
+      </contents>
+    </section>
+    <section orderid='4072'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:B:94.104
+      </extid>
+      <num st='1'>
+        94.104
+      </num>
+      <head>
+        Fees and charges.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='104' psec='' tq='N'>
+              94.104
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees and charges.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The fee charged for any single laboratory analysis of voluntary egg
+            product samples shall be obtained from the schedules of charges in
+            paragraph (a) of 
+            <aref type='UNKNOWN'>
+              § 91.37 of
+            </aref>
+             this subchapter.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The charge for any requested laboratory analysis not listed shall
+            be based on the standard hourly rate specified in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='91' sect='37' psec='' tq='N'>
+                91.37
+              </subref>
+            </aref>
+            , paragraph (b).
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4073'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:C:94.200
+      </extid>
+      <num st='1'>
+        94.200
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='200' psec='' tq='N'>
+              94.200
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='4074'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:D:94.300
+      </extid>
+      <num st='1'>
+        94.300
+      </num>
+      <head>
+        General.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='300' psec='' tq='N'>
+              94.300
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          General.
+        </SUBJECT>
+        <P>
+          Laboratory services of processed poultry products are conducted to
+          derive their analytical attributes used to determine the compliance of
+          the product with applicable specifications.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4075'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:D:94.301
+      </extid>
+      <num st='1'>
+        94.301
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='301' psec='' tq='N'>
+              94.301
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          Words used in the regulations in this subpart in the singular form
+          will import the plural, and vice versa, as the case may demand. As
+          used throughout the regulations in this subpart, unless the context
+          requires otherwise, the following terms will be construed to mean:
+        </P>
+        <P>
+          <E T='03'>
+            Dark meat.
+          </E>
+           Refers to the skinless and deboned drumstick, thigh, and back
+          portions of poultry.
+        </P>
+        <P>
+          <E T='03'>
+            Light meat.
+          </E>
+           Refers to the skinless and deboned breast and wing portions of
+          poultry.
+        </P>
+        <P>
+          <E T='03'>
+            Poultry.
+          </E>
+           Any kind of domesticated bird, including, but not limited to,
+          chicken, turkey, duck, goose, pigeon, and guinea.
+        </P>
+        <P>
+          <E T='03'>
+            Poultry product.
+          </E>
+           Any ready-to-cook poultry carcass or part therefrom or any specified
+          poultry food product.
+        </P>
+      </contents>
+    </section>
+    <section orderid='4076'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:D:94.302
+      </extid>
+      <num st='1'>
+        94.302
+      </num>
+      <head>
+        Analyses available and locations of laboratories.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='302' psec='' tq='N'>
+              94.302
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Analyses available and locations of laboratories.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The Science and Technology Division laboratories will analyze
+            processed poultry products for moisture, fat, salt, protein,
+            nitrites, and added citric acid.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Deboned poultry for roasting will have the individual dark meat,
+            light meat, and skin portions tumbled separately in the natural
+            juices prior to grinding. The skin, light meat, and dark meat
+            portion weight percentages of the total product are determined. The
+            ground skin, ground dark meat, and ground light meat portions will
+            be analyzed separately for moisture, protein, salt, and fat.
+            Moisture to protein ratios will be reported also for the individual
+            portions of poultry.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Canned boned poultry for a variety of USDA programs will be tested
+            as a total can composite of the canned product for moisture, fat,
+            salt, and protein analyses. Additional poultry commodities and
+            related products for specific USDA sponsored programs will be tested
+            for different chemical and physical attributes.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Microbiological analyses, as the 
+            <E T='03'>
+              Salmonella
+            </E>
+             determination, are available for poultry products.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             The majority of analyses for processed poultry products shall be
+            performed at the Science and technology Division Eastern Laboratory,
+            as indicated in paragraph (e) of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='94' sect='3' psec='' tq='N'>
+                94.3
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='4077'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:D:94.303
+      </extid>
+      <num st='1'>
+        94.303
+      </num>
+      <head>
+        Analytical methods.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          61 FR 51352
+        </aref>
+        , Oct. 2, 1996]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='303' psec='' tq='N'>
+              94.303
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Analytical methods.
+        </SUBJECT>
+        <P>
+          The analytical methods used by the USDA laboratories to perform
+          analyses for processed poultry products are found in the latest
+          edition of the Official Methods of Analysis of AOAC INTERNATIONAL,
+          Suite 500, 481 North Frederick Avenue, Gaithersburg, MD 20877-2417.
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            61 FR 51352
+          </aref>
+          , Oct. 2, 1996]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='4078'>
+      <extid>
+        lii:cfr:2013:7:0:B:I:E:94:D:94.304
+      </extid>
+      <num st='1'>
+        94.304
+      </num>
+      <head>
+        Fees and charges.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='94' sect='304' psec='' tq='N'>
+              94.304
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees and charges.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             The fee charged for any single laboratory analysis of processed
+            poultry products shall be obtained from the schedules of charges in
+            paragraph (a) of 
+            <aref type='UNKNOWN'>
+              § 91.37 of
+            </aref>
+             this subchapter.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The laboratory analyses for processed poultry products shall result
+            in an additional fee, found in Table 7 of 
+            <aref type='UNKNOWN'>
+              § 91.37 of
+            </aref>
+             this subchapter, for sample preparation or grinding.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             The charge for any requested laboratory analysis of processed
+            poultry products not listed shall be based on the standard hourly
+            rate specified in 
+            <aref type='UNKNOWN'>
+              § 91.37 (b) of
+            </aref>
+             this subchapter.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

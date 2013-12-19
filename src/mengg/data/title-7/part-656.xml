@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:VI:F:656
+    </extid>
+    <num>
+      656
+    </num>
+    <head>
+      PROCEDURES FOR THE PROTECTION OF ARCHEOLOGICAL AND HISTORICAL PROPERTIES
+      ENCOUNTERED IN NRCS-ASSISTED PROGRAMS
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          Pub. L. 86-523, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=86_statutes2_at_large&amp;position=all&amp;page=220'>
+            74 Stat. 220
+          </aref>
+          , as amended (
+          <aref type='USC'>
+            <subref title='16' sect='469' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/469.html'>
+              16 U.S.C. 469
+            </subref>
+          </aref>
+           et seq.); Pub. L. 89-665, 
+          <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=89_statutes2_at_large&amp;position=all&amp;page=915'>
+            80 Stat. 915
+          </aref>
+          , as amended (
+          <aref type='USC'>
+            <subref title='16' sect='470' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/470.html'>
+              16 U.S.C. 470
+            </subref>
+          </aref>
+           et seq.); 
+          <aref type='CFR'>
+            7 CFR 
+            <subref title='7' part='2' sect='62' psec='' tq='N'>
+              2.62
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            42 FR 36804
+          </aref>
+          , July 18, 1977, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6463'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:656:-:656.1
+      </extid>
+      <num st='1'>
+        656.1
+      </num>
+      <head>
+        Purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='656' sect='1' psec='' tq='N'>
+              656.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose.
+        </SUBJECT>
+        <P>
+          This part prescribes Natural Resources Conservation Service (NRCS)
+          policy, procedures, and guidelines for the implementation of
+          archeological and historical laws and appropriate executive orders for
+          administering NRCS programs.
+        </P>
+      </contents>
+    </section>
+    <section orderid='6464'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:656:-:656.2
+      </extid>
+      <num st='1'>
+        656.2
+      </num>
+      <head>
+        Archeological and historical laws and Executive orders applicable to
+        NRCS-assisted programs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='656' sect='2' psec='' tq='N'>
+              656.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Archeological and historical laws and Executive orders applicable to
+          NRCS-assisted programs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The Act of June 27, 1960,
+            </E>
+             relating to the preservation of historical and archeological data,
+            Pub. L. 86-523, 
+            <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=86_statutes2_at_large&amp;position=all&amp;page=220'>
+              74 Stat. 220
+            </aref>
+            , as amended May 24, 1974; 
+            <aref target='_blank' title='Pub. L. 93-291' alt='Pub. L. 93-291' href='http://thomas.loc.gov/cgi-bin/bdquery/L?d93:./list/bd/d93pl.lst:291%28Public_Laws%29'>
+              Pub. L. 93-291
+            </aref>
+            , 
+            <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=93_statutes2_at_large&amp;position=all&amp;page=174'>
+              88 Stat. 174
+            </aref>
+             (
+            <aref type='USC'>
+              <subref title='16' sect='469' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/469.html'>
+                16 U.S.C. 469
+              </subref>
+            </aref>
+             et seq.), provides for the preservation of historical and
+            archeological materials or data, including relics and specimens,
+            that might otherwise be lost or destroyed as a result of any Federal
+            or federally-assisted or licensed project, activity, or program.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              The National Historic Preservation Act,
+            </E>
+             Pub. L. 89-665, 
+            <aref target='_blank' href='http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=89_statutes2_at_large&amp;position=all&amp;page=915'>
+              80 Stat. 915
+            </aref>
+            , as amended, (
+            <aref type='USC'>
+              <subref title='16' sect='470' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/470.html'>
+                16 U.S.C. 470
+              </subref>
+            </aref>
+             et seq.), authorizes the Secretary of the Interior to maintain and
+            expand a National Register of Historic Places (NRHP), including
+            historic districts, sites, buildings, structures, and objects that
+            are significant in American history, architecture, archeology, and
+            culture. This law also establishes the Advisory Council on Historic
+            Preservation (ACHP), to be appointed by the President. 
+            <aref type='UNKNOWN'>
+              Section 106 of
+            </aref>
+             this Act (
+            <aref type='USC'>
+              <subref title='16' sect='470f' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/16/470f.html'>
+                16 U.S.C. 470f
+              </subref>
+            </aref>
+            ), requires that prior to the approval of any Federal or
+            federally-assisted or licensed undertaking, the Federal agency shall
+            afford the ACHP a reasonable opportunity to comment, if properties
+            listed in or eligible for listing in NRHP are affected.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Executive Order 11593 (
+              <aref type='FREGIST'>
+                36 FR 8921
+              </aref>
+              , 
+              <aref type='CFR'>
+                3 CFR 1971
+              </aref>
+               Comp. P. 154
+            </E>
+            ), Protection and Enhancement of the Cultural Environment, provides
+            that the Federal government shall furnish leadership in preserving,
+            restoring, and maintaining the historical and cultural environment
+            of the nation, and that Federal agencies shall administer the
+            cultural properties under their control in a spirit of stewardship
+            and trusteeship for future generations; initiate measures necessary
+            to direct their policies, plans, and programs in such a way that
+            federally owned sites, structures, and objects of historical,
+            architectural, or archeological significance are preserved,
+            restored, and maintained. 
+            <aref type='CFR-TIC-SECT'>
+              Section 1(3
+            </aref>
+            ) directs that agencies institute procedures to assure that Federal
+            plans and programs contribute to the preservation and enhancement of
+            non-federally owned sites, structures, and objects of historical,
+            architectural, or archeological significance in consultation with
+            the ACHP.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6465'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:656:-:656.3
+      </extid>
+      <num st='1'>
+        656.3
+      </num>
+      <head>
+        Policy.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='656' sect='3' psec='' tq='N'>
+              656.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Policy.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS recognizes that significant historical, archeological, and
+            architectural resources are an important part of our national
+            heritage, the protection of which requires careful consideration in
+            this agency&apos;s project planning and implementation process.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             NRCS will take reasonable precautions to avoid damaging any
+            significant historic, cultural, or natural aspects of our national
+            heritage and will work with the National Park Service (NPS) and the
+            Advisory Council on Historic Preservation (ACHP) in identifying and
+            seeking to avoid or mitigate adverse effects of NRCS-assisted
+            projects on the Nation&apos;s significant cultural resources. The
+            procedures contained in this part have been developed to comply with
+            
+            <aref type='CFR-TIC-SECT'>
+              sections 1(3
+            </aref>
+            ) and 2(c) of Executive Order 11593.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6466'>
+      <extid>
+        lii:cfr:2013:7:0:B:VI:F:656:-:656.4-656.9
+      </extid>
+      <num st='2'>
+        656.4-656.9
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='656' sect='4-656' psec='' tq='N'>
+              656.4-656
+            </subref>
+          </aref>
+          .9
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

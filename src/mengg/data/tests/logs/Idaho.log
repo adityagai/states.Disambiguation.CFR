@@ -1,0 +1,19 @@
+------------------ Evaluation model for Idaho ---------------------
+
+Number of attributes : 3034
+
+Correctly Classified Instances          35               87.5    %
+Incorrectly Classified Instances         5               12.5    %
+Kappa statistic                          0.75  
+Mean absolute error                      0.125 
+Root mean squared error                  0.3536
+Relative absolute error                 25      %
+Root relative squared error             70.7107 %
+Total Number of Instances               40     
+
+=========== Confusion Matrix ===================
+18.0|2.0|
+3.0|17.0|
+
+
+----------- ModelPath : C:\Users\Prasannjit Kumar\workspace\stateDisambiguation/src/mengg/data/tests/trainingModel/Idaho.model

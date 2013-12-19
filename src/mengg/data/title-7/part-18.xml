@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol1'>
+    <extid>
+      lii:cfr:2013:7:0:A:-:-:18
+    </extid>
+    <num>
+      18
+    </num>
+    <head>
+      EQUAL EMPLOYMENT OPPORTUNITY IN THE STATE COOPERATIVE EXTENSION SERVICES
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          , and 
+          <aref type='CFR-TIC-SECT'>
+            secs. 1-10, 38
+          </aref>
+           Stat. 372, as amended; 
+          <aref type='USC'>
+            <subref title='7' sect='341-349' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/341-349.html'>
+              7 U.S.C. 341-349
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            33 FR 12173
+          </aref>
+          , Aug. 29, 1968, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='748'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.1
+      </extid>
+      <num st='1'>
+        18.1
+      </num>
+      <head>
+        Definitions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='1' psec='' tq='N'>
+              18.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Definitions.
+        </SUBJECT>
+        <P>
+          For the purpose of this part:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Secretary
+            </E>
+             means the Secretary of Agriculture of the United States or his
+            designee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Cooperative Extension Service
+            </E>
+             means the Cooperative Extension Service of each Land-Grant
+            University.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              President
+            </E>
+             means the President or chief executive of each Land-Grant
+            University or his designee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Discrimination
+            </E>
+             includes discrimination on the basis of race, color, national
+            origin, sex, or religion.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Employment
+            </E>
+             includes hiring, assignment, transfer, promotion, compensation,
+            discipline, and discharge and all other conditions, terms and
+            privileges of employment.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+            <E T='03'>
+              Program
+            </E>
+             means a comprehensive Equal Employment Opportunity plan submitted
+            by a President in satisfaction of the requirements of 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='18' sect='3' psec='' tq='N'>
+                18.3
+              </subref>
+            </aref>
+            .
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='749'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.2
+      </extid>
+      <num st='1'>
+        18.2
+      </num>
+      <head>
+        Purpose, applicability and coverage.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          33 FR 12173
+        </aref>
+        , Aug. 29, 1968, as amended at 
+        <aref type='FREGIST'>
+          38 FR 14154
+        </aref>
+        , May 8, 1973]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='2' psec='' tq='N'>
+              18.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Purpose, applicability and coverage.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Purpose.
+            </head>
+          </npcatch>
+          <text>
+             This part provides a cooperative procedure involving the President
+            and Secretary to assure that the Cooperative Extension Service
+            provides equal opportunity in employment to each individual without
+            regard to race, color, national origin, sex, or religion.
+            <PRTPAGE P='500' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Applicability.
+            </head>
+          </npcatch>
+          <text>
+             The regulations in this part apply to every Land-Grant University
+            operating a Cooperative Extension Service.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Coverage.
+            </head>
+          </npcatch>
+          <text>
+             This part applies to all positions in all units of the Cooperative
+            Extension Service but does not apply to employees provided by county
+            and other political subdivisions in support of Cooperative Extension
+            Service programs.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            33 FR 12173
+          </aref>
+          , Aug. 29, 1968, as amended at 
+          <aref type='FREGIST'>
+            38 FR 14154
+          </aref>
+          , May 8, 1973]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='750'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.3
+      </extid>
+      <num st='1'>
+        18.3
+      </num>
+      <head>
+        Development and adoption of equal employment opportunity programs.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='3' psec='' tq='N'>
+              18.3
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Development and adoption of equal employment opportunity programs.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Submission.
+            </head>
+          </npcatch>
+          <text>
+             Within 90 days after the effective date of this part, the President
+            shall furnish to the Secretary a positive continuing program to
+            assure that employment is provided without discrimination.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Development.
+            </head>
+          </npcatch>
+          <text>
+             The President and the Secretary may consult with each other at any
+            time regarding the development and evaluation of the program in
+            order to better effectuate the purpose of this part. The program may
+            be a part of a general program establishing employment procedures
+            for employees of the university and may cover other rights and
+            privileges of employees.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Concurrence.
+            </head>
+          </npcatch>
+          <text>
+             The Secretary may concur with the program proposed by the
+            President. If the Secretary does not concur with the proposed
+            program, he shall inform the President and make suggestions for
+            improvement. The President will have 30 days thereafter to furnish a
+            satisfactory proposal.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Amendment.
+            </head>
+          </npcatch>
+          <text>
+             After concurrence has been obtained on the program, the President
+            may make recommendations to amend the program to improve its
+            effectiveness and furnish them to the Secretary for concurrence. If
+            the Secretary, at any time finds that a program, as implemented,
+            does not achieve the purposes described in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='18' sect='2' psec='' tq='N'>
+                18.2
+              </subref>
+            </aref>
+            , he shall confer with the President concerning needed improvements
+            and changes. The President will furnish a satisfactory amendment to
+            the Secretary within 30 days for concurrence.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Effective date.
+            </head>
+          </npcatch>
+          <text>
+             The program or amendments to it shall be made effective by the
+            President not later than 30 days from the date of concurrence.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='751'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.4
+      </extid>
+      <num st='1'>
+        18.4
+      </num>
+      <head>
+        Elements of program.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='4' psec='' tq='N'>
+              18.4
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Elements of program.
+        </SUBJECT>
+        <P>
+          A satisfactory program shall include:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             A statement of policy prohibiting discrimination in employment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             An administrative procedure enforcing that policy;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             A positive affirmative action plan designed to assure equal
+            opportunity in employment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             A procedure for identifying and eliminating employment practices
+            tending to create or continue discrimination in employment;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+          </npcatch>
+          <text>
+             A procedure for evaluating the success of the program;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+          </npcatch>
+          <text>
+             Adequate provision for publicizing the program including
+            dissemination of information to all those covered by these
+            regulations;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+          </npcatch>
+          <text>
+             A procedure for prompt processing of complaints assuring no less
+            than minimum rights prescribed in 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='18' sect='5' psec='' tq='N'>
+                18.5
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+          </npcatch>
+          <text>
+             Adequate provisions for the protection of complainants, employees,
+            witnesses, and representatives from interference, harassment,
+            intimidation and reprisal;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='i'>
+            <enum src='gpotxt' cln='1'>
+              (i)
+            </enum>
+          </npcatch>
+          <text>
+             A procedure for the informal resolution of complaints; and,
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='j'>
+            <enum src='gpotxt' cln='1'>
+              (j)
+            </enum>
+          </npcatch>
+          <text>
+             A procedure for recording receipt and disposition of all
+            complaints. A report of the receipt and a report of the disposition
+            of all formal complaints will be sent promptly to the Secretary.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='752'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.5
+      </extid>
+      <num st='1'>
+        18.5
+      </num>
+      <head>
+        Formal complaint procedure.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          33 FR 12173
+        </aref>
+        , Aug. 29, 1968, as amended at 
+        <aref type='FREGIST'>
+          38 FR 14154
+        </aref>
+        , May 30, 1973]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='5' psec='' tq='N'>
+              18.5
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Formal complaint procedure.
+        </SUBJECT>
+        <P>
+          A procedure shall be provided for the filing of a formal written
+          complaint if a complainant is not satisfied with the result of
+          informal procedure or if the complainant does not desire to follow the
+          informal procedure. A complaint procedure shall contain the following
+          minimum provisions for the processing of formal complaints.
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+            <head>
+              Elements of the formal complaint.
+            </head>
+          </npcatch>
+          <text>
+             The formal complaint shall be in writing and state the name and
+            address of the complainant; the basis of the claim; and indicate
+            whether the alleged discrimination was based on race, color,
+            national origin, sex, or religion.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+            <head>
+              Time limits for processing.
+            </head>
+          </npcatch>
+          <text>
+             The procedure will include time limits for the orderly processing
+            of complaints.
+            <PRTPAGE P='501' />
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+            <head>
+              Who may file.
+            </head>
+          </npcatch>
+          <text>
+             A complaint may be filed by an employee, a former employee, or an
+            applicant for employment who believes that discrimination in
+            employment has been practiced against him or that an employment
+            practice in the Cooperative Extension Service has or will result in
+            discrimination in employment against him. An employee, a former
+            employee, or an applicant for employment, or an organization may
+            file a complaint of general discriminatory practices: 
+            <E T='03'>
+              Provided, however,
+            </E>
+             That upon request of the President, the complainant shall furnish
+            to him names of individuals who are adversely affected by those
+            practices.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+            <head>
+              Right of representation.
+            </head>
+          </npcatch>
+          <text>
+             A complainant may designate in writing, an individual or an
+            organization to represent him in the processing of his complaint,
+            and is entitled to the advice of counsel at his expense at all
+            stages of the proceeding. If the representative designated by the
+            complainant is an employee of the U.S. Department of Agriculture, or
+            of a Cooperative Extension Service, such employee, as well as an
+            employee-complainant, shall have a reasonable amount of official
+            time with pay, if he is in a pay status, for the purpose of
+            appearing at any hearing on the complaint or conciliation effort.
+            The rights and privileges set forth in this paragraph shall also be
+            available to any person whose alleged conduct is the cause of the
+            complaint.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='e'>
+            <enum src='gpotxt' cln='1'>
+              (e)
+            </enum>
+            <head>
+              Where filed.
+            </head>
+          </npcatch>
+          <text>
+             The procedure shall clearly state the persons, and their locations,
+            with whom complaints may be filed. It shall also state that
+            complaints may be filed with the Secretary. Complaints filed with
+            the Secretary shall be promptly forwarded to the President or his
+            designee for processing.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='f'>
+            <enum src='gpotxt' cln='1'>
+              (f)
+            </enum>
+            <head>
+              When filed.
+            </head>
+          </npcatch>
+          <text>
+             A complaint shall be submitted within 90 days of the conduct giving
+            rise to the complaint. The President may extend the prescribed time
+            limit for good cause shown by the complainant.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='g'>
+            <enum src='gpotxt' cln='1'>
+              (g)
+            </enum>
+            <head>
+              Hearing.
+            </head>
+          </npcatch>
+          <text>
+             A complainant or the President may request a hearing which shall be
+            transcribed or recorded. The hearing shall be conducted promptly
+            during regular working hours in the county where the alleged
+            discrimination occurred or at a time and place agreed to by the
+            President and the complainant. The President, the complainant and
+            any person whose alleged conduct is the cause of the complaint shall
+            have the right to call and cross-examine witnesses under oath. The
+            hearing shall be provided by the President, and shall be conducted
+            by an impartial board or hearing officer who shall promptly submit a
+            proposed decision including findings of fact, conclusions, and
+            recommendations for action to the President.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='h'>
+            <enum src='gpotxt' cln='1'>
+              (h)
+            </enum>
+            <head>
+              Decision by the President.
+            </head>
+          </npcatch>
+          <text>
+             The President shall review the entire file on the complaint,
+            including the record of the hearing if a hearing was held, and shall
+            promptly:
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_1'>
+            <enum src='gpotxt' cln='1'>
+              (1)
+            </enum>
+          </npcatch>
+          <text>
+             Remand to the hearing board or officer for further action; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_2'>
+            <enum src='gpotxt' cln='1'>
+              (2)
+            </enum>
+          </npcatch>
+          <text>
+             Make a decision on the complaint; or
+          </text>
+        </P>
+        <P>
+          <npcatch lev='2' id='h_3'>
+            <enum src='gpotxt' cln='1'>
+              (3)
+            </enum>
+          </npcatch>
+          <text>
+             Otherwise dispose of the complaint.
+          </text>
+        </P>
+        <FP>
+          The President shall notify the complainant of his decision or
+          disposition.
+        </FP>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            33 FR 12173
+          </aref>
+          , Aug. 29, 1968, as amended at 
+          <aref type='FREGIST'>
+            38 FR 14154
+          </aref>
+          , May 30, 1973]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='753'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.6
+      </extid>
+      <num st='1'>
+        18.6
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='6' psec='' tq='N'>
+              18.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='754'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.7
+      </extid>
+      <num st='1'>
+        18.7
+      </num>
+      <head>
+        Reports.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='7' psec='' tq='N'>
+              18.7
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Reports.
+        </SUBJECT>
+        <P>
+          Within 6 months of the program going into effect and thereafter at
+          least annually, the President shall submit a summary report to the
+          Secretary on implementation and operation of the program. The
+          Secretary may request additional reports as he deems advisable.
+        </P>
+      </contents>
+    </section>
+    <section orderid='755'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.8
+      </extid>
+      <num st='1'>
+        18.8
+      </num>
+      <head>
+        Noncompliance.
+      </head>
+      <citation>
+        [
+        <aref type='FREGIST'>
+          33 FR 12173
+        </aref>
+        , Aug. 29, 1968, as amended at 
+        <aref type='FREGIST'>
+          38 FR 14154
+        </aref>
+        , May 30, 1973]
+      </citation>
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='8' psec='' tq='N'>
+              18.8
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Noncompliance.
+        </SUBJECT>
+        <P>
+          A university conducting a Cooperative Extension Service will be in
+          violation of this part:
+        </P>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             If the President fails to file a program in which the Secretary
+            concurs under 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='18' sect='3' psec='' tq='N'>
+                18.3
+              </subref>
+            </aref>
+            , or fails to file an appropriate amendment in accordance with 
+            <aref type='CFR-TIC-SECT'>
+              § 
+              <subref title='7' part='18' sect='3' psec='#d' tq='N'>
+                18.3(d)
+              </subref>
+            </aref>
+            ;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             If after concurrence in the President&apos;s program the Secretary
+            finds that a university has failed to administer such program
+            according to its terms;
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             If the Secretary finds that any officer of the university has
+            intimidated, coerced, or improperly pressured a complainant,
+            employee, representative, 
+            <PRTPAGE P='502' />
+            or witness exercising the rights given him by this part or any
+            program adopted pursuant thereto, and that corrective action has not
+            been taken.
+          </text>
+        </P>
+        <CITA>
+          [
+          <aref type='FREGIST'>
+            33 FR 12173
+          </aref>
+          , Aug. 29, 1968, as amended at 
+          <aref type='FREGIST'>
+            38 FR 14154
+          </aref>
+          , May 30, 1973]
+        </CITA>
+      </contents>
+    </section>
+    <section orderid='756'>
+      <extid>
+        lii:cfr:2013:7:0:A:-:-:18:-:18.9
+      </extid>
+      <num st='1'>
+        18.9
+      </num>
+      <head>
+        Sanctions.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='18' sect='9' psec='' tq='N'>
+              18.9
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Sanctions.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             When the Secretary finds that any noncompliance with this part has
+            occurred, he may initiate action to refuse to authorize payment of
+            funds for the Cooperative Extension Service, or take other
+            appropriate action provided by law.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             The remedies available to the Secretary under this part, and
+            remedies made available to any person under a program adopted
+            pursuant to this part do not exclude any others which may be
+            available under law.
+          </text>
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>

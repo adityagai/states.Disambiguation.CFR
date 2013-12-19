@@ -1,0 +1,19 @@
+------------------ Evaluation model for Michigan ---------------------
+
+Number of attributes : 2052
+
+Correctly Classified Instances          17               42.5    %
+Incorrectly Classified Instances        23               57.5    %
+Kappa statistic                         -0.15  
+Mean absolute error                      0.575 
+Root mean squared error                  0.7583
+Relative absolute error                115      %
+Root relative squared error            151.6575 %
+Total Number of Instances               40     
+
+=========== Confusion Matrix ===================
+11.0|9.0|
+14.0|6.0|
+
+
+----------- ModelPath : C:\Users\Prasannjit Kumar\workspace\stateDisambiguation/src/mengg/data/tests/trainingModel/Michigan.model

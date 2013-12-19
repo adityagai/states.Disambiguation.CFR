@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lii_cfr_xml>
+  <title>
+    <num>
+      7
+    </num>
+    <year>
+      2013
+    </year>
+    <extid>
+      lii:cfr:2013:7:0
+    </extid>
+    <head>
+      Title 7—Agriculture
+    </head>
+    <published>
+      2013-01-01
+    </published>
+    <ingested>
+      2013-05-14; Tuesday, May 14, 2013; 16:47:56 [-04:00]
+    </ingested>
+    <sections>
+      17956
+    </sections>
+    <gpo_volumes>
+      <total>
+        15
+      </total>
+      <missing>
+        NONE
+      </missing>
+    </gpo_volumes>
+  </title>
+  <part volid='CFR-2013-title7-vol6'>
+    <extid>
+      lii:cfr:2013:7:0:B:V:-:505
+    </extid>
+    <num>
+      505
+    </num>
+    <head>
+      NATIONAL AGRICULTURAL LIBRARY FEES FOR LOANS AND COPYING
+    </head>
+    <text>
+      <AUTH>
+        <HD SOURCE='HED'>
+          Authority:
+        </HD>
+        <P>
+          <aref type='USC'>
+            <subref title='5' sect='301' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/5/301.html'>
+              5 U.S.C. 301
+            </subref>
+          </aref>
+          ; 
+          <aref type='USC'>
+            <subref title='7' sect='3125a' note='' psec='' tq='N' target='http://www.law.cornell.edu/uscode/7/3125a.html'>
+              7 U.S.C. 3125a
+            </subref>
+          </aref>
+          .
+        </P>
+      </AUTH>
+      <SOURCE>
+        <HD SOURCE='HED'>
+          Source:
+        </HD>
+        <P>
+          <aref type='FREGIST'>
+            77 FR 3069
+          </aref>
+          , Jan. 23, 2012, unless otherwise noted.
+        </P>
+      </SOURCE>
+    </text>
+    <section orderid='6043'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:505:-:505.1
+      </extid>
+      <num st='1'>
+        505.1
+      </num>
+      <head>
+        Scope and purpose.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='505' sect='1' psec='' tq='N'>
+              505.1
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Scope and purpose.
+        </SUBJECT>
+        <P>
+          These regulations establish fees for loans, copying, or reproduction
+          of materials in the collections of the National Agricultural Library
+          (NAL) within the United States Department of Agriculture (USDA).
+        </P>
+      </contents>
+    </section>
+    <section orderid='6044'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:505:-:505.2
+      </extid>
+      <num st='1'>
+        505.2
+      </num>
+      <head>
+        Fees for loans, copying, and reproduction of materials in library
+        collections.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='505' sect='2' psec='' tq='N'>
+              505.2
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Fees for loans, copying, and reproduction of materials in library
+          collections.
+        </SUBJECT>
+        <P>
+          <npcatch lev='1' id='a'>
+            <enum src='gpotxt' cln='1'>
+              (a)
+            </enum>
+          </npcatch>
+          <text>
+             NAL will provide interlibrary loan service (including loans of
+            original materials from its collections and copies of portions of
+            documents with copyright compliance) and charge fees for such
+            service to other non-Federal and non-USDA libraries and
+            institutions. Loans will be provided within the United States and
+            Canada only. Copies will be provided within the United States and
+            internationally.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='b'>
+            <enum src='gpotxt' cln='1'>
+              (b)
+            </enum>
+          </npcatch>
+          <text>
+             Interlibrary loan service will be provided at a flat fee of $18 per
+            request for libraries paying electronically through the Online
+            Computer Library Center&apos;s (OCLC) Interlibrary Loan Fee
+            Management (IFM) program and at a flat rate of $25 per request for
+            libraries paying by other methods.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='c'>
+            <enum src='gpotxt' cln='1'>
+              (c)
+            </enum>
+          </npcatch>
+          <text>
+             Cost for replacement of lost or damaged items will be the actual
+            cost to purchase a replacement plus a $50.00 processing fee; or if
+            replacement cost cannot be determined, a flat rate of $75.00 for
+            monographs or $150.00 for audiovisuals per item plus a $50.00
+            processing fee.
+          </text>
+        </P>
+        <P>
+          <npcatch lev='1' id='d'>
+            <enum src='gpotxt' cln='1'>
+              (d)
+            </enum>
+          </npcatch>
+          <text>
+             Photographic services from NAL Special Collections will be charged
+            at cost for reproduction of the photo product (slides,
+            transparencies, etc.) plus a preparation fee of $25.00 per half hour
+            or fraction thereof.
+          </text>
+        </P>
+      </contents>
+    </section>
+    <section orderid='6045'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:505:-:505.3-505.5
+      </extid>
+      <num st='2'>
+        505.3-505.5
+      </num>
+      <head>
+        [Reserved]
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            §§ 
+            <subref title='7' part='505' sect='3-505' psec='' tq='N'>
+              505.3-505
+            </subref>
+          </aref>
+          .5
+        </SECTNO>
+        <RESERVED>
+          [Reserved]
+        </RESERVED>
+      </contents>
+    </section>
+    <section orderid='6046'>
+      <extid>
+        lii:cfr:2013:7:0:B:V:-:505:-:505.6
+      </extid>
+      <num st='1'>
+        505.6
+      </num>
+      <head>
+        Payment of fees.
+      </head>
+      <citation />
+      <contents>
+        <SECTNO>
+          <aref type='CFR-TIC-SECT'>
+            § 
+            <subref title='7' part='505' sect='6' psec='' tq='N'>
+              505.6
+            </subref>
+          </aref>
+        </SECTNO>
+        <SUBJECT>
+          Payment of fees.
+        </SUBJECT>
+        <P>
+          NAL charges for interlibrary loans through OCLC&apos;s IFM Program (an
+          electronic debit/credit payment program for libraries using
+          OCLC&apos;s resource sharing service) or by invoice through the
+          National Technical Information Service (NTIS) of the United States
+          Department of Commerce. Payment for invoiced services will be made by
+          check, money order, or credit card in U.S. funds directly to NTIS upon
+          receipt of invoice from NTIS. NAL encourages users to establish
+          deposit accounts with NTIS for payment of interlibrary loan fees.
+          Subject to a reduction for the actual costs of performing the
+          invoicing service by NTIS, all funds will be returned to NAL for
+          credit to the appropriations account charged with the cost of
+          processing the interlibrary loan request.
+        </P>
+      </contents>
+    </section>
+  </part>
+</lii_cfr_xml>
