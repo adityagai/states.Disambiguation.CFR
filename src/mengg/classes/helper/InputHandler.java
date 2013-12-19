@@ -184,4 +184,29 @@ public class InputHandler {
          }
          return state;
      }
+     
+     /**
+      * checks if the input "state" is a US "state", returns false if not
+      * and ends the program
+      * @param state
+      * @return
+      */
+     public static boolean checkState(String state){
+    	 String statePath = getCurrentPath + "/src/mengg/data" +  "/" + "states.txt";
+    	 FileReader reader;
+    	 try{
+    		 reader = new FileReader(statePath);
+    		 BufferedReader brReader = new BufferedReader(reader);
+    		 String readLine="";
+    		 while((readLine=brReader.readLine())!=null){
+    			 if(state.equals(readLine)){
+    				 return true;
+    			 }
+    		 }
+    	 }catch(IOException e){
+    		 
+    		 return false;
+    	 }
+		return false;
+     }
 }
