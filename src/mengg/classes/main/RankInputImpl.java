@@ -91,12 +91,17 @@ public class RankInputImpl {
             boolean matches = false;
             if(csvFolder.exists()){
             	for(String s:csvFolder.list()){
-            		if(statename.compareToIgnoreCase(s)==0){
+            		s=s.split(".csv")[0];
+            		if(statename.equalsIgnoreCase(s)){
             			matches=true;
-            			Tester.getResults(paragraphClassifier, statename);
+            			break;
             		}
             	}
+            	if(matches){
+            		Tester.getResults(paragraphClassifier, statename);
+            	}
             }
+            
             if(!matches){
             	System.out.println("CSV File for " + statename + " doesn't exist, please add the csv file for gold results");
             	for(String para: paragraphClassifier.keySet()){
